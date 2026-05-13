@@ -1,0 +1,1362 @@
+[
+  {
+    "text": "Chess, the game of war on 64 squares.",
+    "start": 0.24,
+    "duration": 5.84
+  },
+  {
+    "text": "But [music] I wondered, can chess with",
+    "start": 3.76,
+    "duration": 4.32
+  },
+  {
+    "text": "hexagons? There have been several",
+    "start": 6.08,
+    "duration": 4.0
+  },
+  {
+    "text": "attempts, the most successful published",
+    "start": 8.08,
+    "duration": 5.28
+  },
+  {
+    "text": "in a book in the UK in 1973, which I",
+    "start": 10.08,
+    "duration": 5.599
+  },
+  {
+    "text": "promptly ordered to investigate. And",
+    "start": 13.36,
+    "duration": 4.16
+  },
+  {
+    "text": "while waiting for one of the remaining",
+    "start": 15.679,
+    "duration": 3.76
+  },
+  {
+    "text": "copies to be pulled out of the back of a",
+    "start": 17.52,
+    "duration": 3.679
+  },
+  {
+    "text": "used bookstore, who knows where, I",
+    "start": 19.439,
+    "duration": 4.0
+  },
+  {
+    "text": "realized to try hexagon chess when it",
+    "start": 21.199,
+    "duration": 4.401
+  },
+  {
+    "text": "arrived, I would need a hexagonal chess",
+    "start": 23.439,
+    "duration": 4.641
+  },
+  {
+    "text": "board, something the internet does not",
+    "start": 25.6,
+    "duration": 4.48
+  },
+  {
+    "text": "make. So, I would need to make one",
+    "start": 28.08,
+    "duration": 3.84
+  },
+  {
+    "text": "myself. While a grid of squares can",
+    "start": 30.08,
+    "duration": 3.68
+  },
+  {
+    "text": "simply alternate two colors without",
+    "start": 31.92,
+    "duration": 3.6
+  },
+  {
+    "text": "touching. I mean, unless you count the",
+    "start": 33.76,
+    "duration": 4.319
+  },
+  {
+    "text": "diagonals, a hexagonal grid needs three",
+    "start": 35.52,
+    "duration": 4.8
+  },
+  {
+    "text": "colors for no touching. And finding",
+    "start": 38.079,
+    "duration": 4.64
+  },
+  {
+    "text": "pre-made hex's in three nice matching",
+    "start": 40.32,
+    "duration": 5.12
+  },
+  {
+    "text": "shades to make my board was a lot harder",
+    "start": 42.719,
+    "duration": 4.721
+  },
+  {
+    "text": "than I expected. [music] And when I",
+    "start": 45.44,
+    "duration": 4.24
+  },
+  {
+    "text": "found some, they ended up being a lot",
+    "start": 47.44,
+    "duration": 4.88
+  },
+  {
+    "text": "bigger than I expected. But I didn't",
+    "start": 49.68,
+    "duration": 5.519
+  },
+  {
+    "text": "realize that until after I had ordered",
+    "start": 52.32,
+    "duration": 4.8
+  },
+  {
+    "text": "rather a lot of them. You may be",
+    "start": 55.199,
+    "duration": 4.401
+  },
+  {
+    "text": "wondering why I didn't just, you know,",
+    "start": 57.12,
+    "duration": 5.279
+  },
+  {
+    "text": "draw a hex board. Uh, that's a excellent",
+    "start": 59.6,
+    "duration": 4.879
+  },
+  {
+    "text": "question that did not occur to me until",
+    "start": 62.399,
+    "duration": 4.561
+  },
+  {
+    "text": "after lots of hexagons and chess pieces",
+    "start": 64.479,
+    "duration": 4.721
+  },
+  {
+    "text": "began arriving at my door. What can I",
+    "start": 66.96,
+    "duration": 4.56
+  },
+  {
+    "text": "say? Brains are weird. And this brain",
+    "start": 69.2,
+    "duration": 4.48
+  },
+  {
+    "text": "needed to finish what it started and",
+    "start": 71.52,
+    "duration": 4.48
+  },
+  {
+    "text": "build the board. A [music] square chess",
+    "start": 73.68,
+    "duration": 5.04
+  },
+  {
+    "text": "board has a correct orientation. White",
+    "start": 76.0,
+    "duration": 5.68
+  },
+  {
+    "text": "on your right. And so too does hex chess",
+    "start": 78.72,
+    "duration": 5.12
+  },
+  {
+    "text": "have a correct orientation. When",
+    "start": 81.68,
+    "duration": 4.56
+  },
+  {
+    "text": "building your board, start with black on",
+    "start": 83.84,
+    "duration": 4.959
+  },
+  {
+    "text": "top, white below, and gray to either",
+    "start": 86.24,
+    "duration": 5.44
+  },
+  {
+    "text": "side. Then grow the pattern out so no",
+    "start": 88.799,
+    "duration": 5.441
+  },
+  {
+    "text": "color touches another until you have two",
+    "start": 91.68,
+    "duration": 5.6
+  },
+  {
+    "text": "edges each six spaces long. Then",
+    "start": 94.24,
+    "duration": 4.879
+  },
+  {
+    "text": "complete the pattern until the mega",
+    "start": 97.28,
+    "duration": 5.28
+  },
+  {
+    "text": "hexagon has six sixsided sides. Black",
+    "start": 99.119,
+    "duration": 5.601
+  },
+  {
+    "text": "goes with black and white with white.",
+    "start": 102.56,
+    "duration": 4.08
+  },
+  {
+    "text": "After completing my board, the book did",
+    "start": 104.72,
+    "duration": 4.16
+  },
+  {
+    "text": "arrive, which detailed all of the rules",
+    "start": 106.64,
+    "duration": 5.119
+  },
+  {
+    "text": "and included this delightful pamphlet to",
+    "start": 108.88,
+    "duration": 5.279
+  },
+  {
+    "text": "join the Hex Chess Association by",
+    "start": 111.759,
+    "duration": 5.04
+  },
+  {
+    "text": "calling this number with a word in it.",
+    "start": 114.159,
+    "duration": 4.96
+  },
+  {
+    "text": "The book also came with, it turned out,",
+    "start": 116.799,
+    "duration": 4.96
+  },
+  {
+    "text": "a hex chess board, but too late. My",
+    "start": 119.119,
+    "duration": 5.121
+  },
+  {
+    "text": "board was made, and I was going to use",
+    "start": 121.759,
+    "duration": 4.96
+  },
+  {
+    "text": "this board to show you how the pieces",
+    "start": 124.24,
+    "duration": 4.32
+  },
+  {
+    "text": "move. Beginning with [music] the most",
+    "start": 126.719,
+    "duration": 4.561
+  },
+  {
+    "text": "humble, the pawn. In square chess, the",
+    "start": 128.56,
+    "duration": 4.96
+  },
+  {
+    "text": "pawn moves forward one space at a time",
+    "start": 131.28,
+    "duration": 4.16
+  },
+  {
+    "text": "and can capture other pieces on the",
+    "start": 133.52,
+    "duration": 3.92
+  },
+  {
+    "text": "forward diagonals. I've always thought",
+    "start": 135.44,
+    "duration": 4.24
+  },
+  {
+    "text": "of this as a soldier with a shield",
+    "start": 137.44,
+    "duration": 4.32
+  },
+  {
+    "text": "protecting his front and a short sword",
+    "start": 139.68,
+    "duration": 4.639
+  },
+  {
+    "text": "that can jab to either side. The eight",
+    "start": 141.76,
+    "duration": 4.64
+  },
+  {
+    "text": "pawns with their diagonal attacks form",
+    "start": 144.319,
+    "duration": 3.92
+  },
+  {
+    "text": "self-defending walls that the other",
+    "start": 146.4,
+    "duration": 4.4
+  },
+  {
+    "text": "pieces can support or push off from. And",
+    "start": 148.239,
+    "duration": 4.961
+  },
+  {
+    "text": "it's these structures that make pawns",
+    "start": 150.8,
+    "duration": 5.2
+  },
+  {
+    "text": "the sole of chess. In hex chess, pawn",
+    "start": 153.2,
+    "duration": 5.36
+  },
+  {
+    "text": "movement is mostly unchanged. move",
+    "start": 156.0,
+    "duration": 5.2
+  },
+  {
+    "text": "forward one space at a time, captured to",
+    "start": 158.56,
+    "duration": 5.12
+  },
+  {
+    "text": "the forward sides to keep their soulful",
+    "start": 161.2,
+    "duration": 4.24
+  },
+  {
+    "text": "nature. This is the pawn starting",
+    "start": 163.68,
+    "duration": 4.08
+  },
+  {
+    "text": "arrangement in hex chess. Note, there",
+    "start": 165.44,
+    "duration": 4.24
+  },
+  {
+    "text": "are now nine pawns needed to complete",
+    "start": 167.76,
+    "duration": 4.0
+  },
+  {
+    "text": "the defensive structure, which is buffed",
+    "start": 169.68,
+    "duration": 4.559
+  },
+  {
+    "text": "from square chess and buffed again as",
+    "start": 171.76,
+    "duration": 4.8
+  },
+  {
+    "text": "the pawns begin the game defending each",
+    "start": 174.239,
+    "duration": 4.64
+  },
+  {
+    "text": "other. Pawns also have two special",
+    "start": 176.56,
+    "duration": 4.64
+  },
+  {
+    "text": "moves. The first is if they make it to",
+    "start": 178.879,
+    "duration": 4.801
+  },
+  {
+    "text": "the back row, a pawn gets promoted to",
+    "start": 181.2,
+    "duration": 4.88
+  },
+  {
+    "text": "any piece other than a king. Here we see",
+    "start": 183.68,
+    "duration": 4.24
+  },
+  {
+    "text": "the first interesting side effect of a",
+    "start": 186.08,
+    "duration": 4.48
+  },
+  {
+    "text": "hex board. In square chess, every time a",
+    "start": 187.92,
+    "duration": 5.2
+  },
+  {
+    "text": "pawn captures, it gets one space closer",
+    "start": 190.56,
+    "duration": 5.039
+  },
+  {
+    "text": "to the back row for promotion. But on a",
+    "start": 193.12,
+    "duration": 4.56
+  },
+  {
+    "text": "hex board, a pawn capturing toward the",
+    "start": 195.599,
+    "duration": 4.64
+  },
+  {
+    "text": "center is still the same distance from",
+    "start": 197.68,
+    "duration": 5.279
+  },
+  {
+    "text": "the back as before. Capturing away from",
+    "start": 200.239,
+    "duration": 4.561
+  },
+  {
+    "text": "the center, however, brings a pawn",
+    "start": 202.959,
+    "duration": 4.0
+  },
+  {
+    "text": "closer to promotion. In chess,",
+    "start": 204.8,
+    "duration": 4.147
+  },
+  {
+    "text": "controlling the center of the board is",
+    "start": 206.959,
+    "duration": 4.241
+  },
+  {
+    "text": "[music] vital. But now in hex chess,",
+    "start": 208.947,
+    "duration": 4.893
+  },
+  {
+    "text": "there's a slight disincentive to pawn",
+    "start": 211.2,
+    "duration": 5.2
+  },
+  {
+    "text": "capture centerward and thus a slight",
+    "start": 213.84,
+    "duration": 5.28
+  },
+  {
+    "text": "incentive to spread the game outward.",
+    "start": 216.4,
+    "duration": 4.96
+  },
+  {
+    "text": "The next special power of pawns is the",
+    "start": 219.12,
+    "duration": 4.64
+  },
+  {
+    "text": "first time a pawn moves, it can move two",
+    "start": 221.36,
+    "duration": 4.879
+  },
+  {
+    "text": "spaces. This is the same in hex chess.",
+    "start": 223.76,
+    "duration": 4.8
+  },
+  {
+    "text": "Though pawns get another bit of a buff.",
+    "start": 226.239,
+    "duration": 4.72
+  },
+  {
+    "text": "If the first time a pawn captures it",
+    "start": 228.56,
+    "duration": 4.319
+  },
+  {
+    "text": "lands on the starting space of another",
+    "start": 230.959,
+    "duration": 4.481
+  },
+  {
+    "text": "pawn, it's still allowed to move",
+    "start": 232.879,
+    "duration": 5.121
+  },
+  {
+    "text": "forward, too. My guess is this rule came",
+    "start": 235.44,
+    "duration": 4.719
+  },
+  {
+    "text": "about out of play testing. In square",
+    "start": 238.0,
+    "duration": 4.159
+  },
+  {
+    "text": "chess, it's impossible for a pawn to end",
+    "start": 240.159,
+    "duration": 4.241
+  },
+  {
+    "text": "up on the starting square of a neighbor.",
+    "start": 242.159,
+    "duration": 4.8
+  },
+  {
+    "text": "It's forward or nothing, but not so in",
+    "start": 244.4,
+    "duration": 4.8
+  },
+  {
+    "text": "hex chess. [music] So, buffing the pawns",
+    "start": 246.959,
+    "duration": 4.321
+  },
+  {
+    "text": "this way is just practical. So, you",
+    "start": 249.2,
+    "duration": 4.239
+  },
+  {
+    "text": "mostly don't have to keep track of which",
+    "start": 251.28,
+    "duration": 4.56
+  },
+  {
+    "text": "pawn started where. It doesn't matter.",
+    "start": 253.439,
+    "duration": 4.721
+  },
+  {
+    "text": "The last special pawn power is on",
+    "start": 255.84,
+    "duration": 5.519
+  },
+  {
+    "text": "patant, aka the top sneaky capture. If",
+    "start": 258.16,
+    "duration": 5.152
+  },
+  {
+    "text": "an enemy pawn moves forward two spaces",
+    "start": 261.359,
+    "duration": 4.321
+  },
+  {
+    "text": "[music] past yours, such that you could",
+    "start": 263.312,
+    "duration": 4.447
+  },
+  {
+    "text": "have captured it if the enemy had only",
+    "start": 265.68,
+    "duration": 5.28
+  },
+  {
+    "text": "moved forward one, you still can. This",
+    "start": 267.759,
+    "duration": 5.361
+  },
+  {
+    "text": "rule always trips up noobs in square",
+    "start": 270.96,
+    "duration": 4.239
+  },
+  {
+    "text": "chess, and it's here to do the same in",
+    "start": 273.12,
+    "duration": 4.96
+  },
+  {
+    "text": "hex chess in the same way. Okay, that's",
+    "start": 275.199,
+    "duration": 6.081
+  },
+  {
+    "text": "pawns. Onto the rook. The rook is the",
+    "start": 278.08,
+    "duration": 5.92
+  },
+  {
+    "text": "most similar piece in both games. In",
+    "start": 281.28,
+    "duration": 4.88
+  },
+  {
+    "text": "square chess, it can move any number of",
+    "start": 284.0,
+    "duration": 4.32
+  },
+  {
+    "text": "unblocked spaces horizontally or",
+    "start": 286.16,
+    "duration": 4.319
+  },
+  {
+    "text": "vertically and can capture anything in",
+    "start": 288.32,
+    "duration": 4.56
+  },
+  {
+    "text": "its way. Now, on the hex board, there is",
+    "start": 290.479,
+    "duration": 4.881
+  },
+  {
+    "text": "no horizontal, but there are what are",
+    "start": 292.88,
+    "duration": 5.2
+  },
+  {
+    "text": "called files, straight lines that pass",
+    "start": 295.36,
+    "duration": 4.96
+  },
+  {
+    "text": "through the neighboring spaces. Rooks",
+    "start": 298.08,
+    "duration": 4.32
+  },
+  {
+    "text": "can move along any file, which feels",
+    "start": 300.32,
+    "duration": 4.24
+  },
+  {
+    "text": "pretty buffed from square chess, and I",
+    "start": 302.4,
+    "duration": 4.56
+  },
+  {
+    "text": "don't mind one bit. While chess is often",
+    "start": 304.56,
+    "duration": 4.72
+  },
+  {
+    "text": "symbolized with the knight, my simple",
+    "start": 306.96,
+    "duration": 4.88
+  },
+  {
+    "text": "plebated heart has always been with the",
+    "start": 309.28,
+    "duration": 4.96
+  },
+  {
+    "text": "rook. Rook smash. Personal preferences",
+    "start": 311.84,
+    "duration": 4.4
+  },
+  {
+    "text": "aside, this adaptation to",
+    "start": 314.24,
+    "duration": 4.399
+  },
+  {
+    "text": "hexagonification makes sense. A square",
+    "start": 316.24,
+    "duration": 5.12
+  },
+  {
+    "text": "shares sides with four true neighbors. A",
+    "start": 318.639,
+    "duration": 5.521
+  },
+  {
+    "text": "hexagon shares side with six neighbors.",
+    "start": 321.36,
+    "duration": 5.279
+  },
+  {
+    "text": "So horizontal or vertical motion on a",
+    "start": 324.16,
+    "duration": 5.12
+  },
+  {
+    "text": "hex board translates to a straight line",
+    "start": 326.639,
+    "duration": 5.041
+  },
+  {
+    "text": "through a series of neighbors, which is",
+    "start": 329.28,
+    "duration": 4.88
+  },
+  {
+    "text": "exactly what the hex rook does. Once you",
+    "start": 331.68,
+    "duration": 4.56
+  },
+  {
+    "text": "think of these lines as being the new",
+    "start": 334.16,
+    "duration": 4.319
+  },
+  {
+    "text": "horizontal and vertical, the capturing",
+    "start": 336.24,
+    "duration": 4.399
+  },
+  {
+    "text": "and blocking of pieces in hex chess",
+    "start": 338.479,
+    "duration": 4.744
+  },
+  {
+    "text": "works exactly the same as square chess.",
+    "start": 340.639,
+    "duration": 5.201
+  },
+  {
+    "text": "[music] Now on to the knight. Knights",
+    "start": 343.223,
+    "duration": 4.536
+  },
+  {
+    "text": "too are pretty similar to their square",
+    "start": 345.84,
+    "duration": 4.72
+  },
+  {
+    "text": "versions. Square knights jump forward",
+    "start": 347.759,
+    "duration": 6.0
+  },
+  {
+    "text": "two spaces over one. And since we now",
+    "start": 350.56,
+    "duration": 5.199
+  },
+  {
+    "text": "know what straight on a hex board looks",
+    "start": 353.759,
+    "duration": 3.875
+  },
+  {
+    "text": "like, the hex knight jumps straight",
+    "start": 355.759,
+    "duration": 2.401
+  },
+  {
+    "text": "[music]",
+    "start": 357.634,
+    "duration": 3.405
+  },
+  {
+    "text": "two and then over one. This jumping",
+    "start": 358.16,
+    "duration": 5.12
+  },
+  {
+    "text": "motion is unique in the game, allowing",
+    "start": 361.039,
+    "duration": 4.801
+  },
+  {
+    "text": "knights to skip over any pieces in the",
+    "start": 363.28,
+    "duration": 5.199
+  },
+  {
+    "text": "way and capture what they land on. Just",
+    "start": 365.84,
+    "duration": 4.88
+  },
+  {
+    "text": "like the hex rook, the hex knight has",
+    "start": 368.479,
+    "duration": 4.801
+  },
+  {
+    "text": "more freedom of motion on the hex board.",
+    "start": 370.72,
+    "duration": 5.759
+  },
+  {
+    "text": "12 spaces versus eight. But this freedom",
+    "start": 373.28,
+    "duration": 5.199
+  },
+  {
+    "text": "of motion expansion isn't the case for",
+    "start": 376.479,
+    "duration": 4.241
+  },
+  {
+    "text": "all pieces, which brings us to the",
+    "start": 378.479,
+    "duration": 4.961
+  },
+  {
+    "text": "bishop. The square bishop moves only on",
+    "start": 380.72,
+    "duration": 5.039
+  },
+  {
+    "text": "the diagonals, forever limiting each to",
+    "start": 383.44,
+    "duration": 4.24
+  },
+  {
+    "text": "the color they start on. And this",
+    "start": 385.759,
+    "duration": 4.16
+  },
+  {
+    "text": "diagonal motion lets the bishop slide",
+    "start": 387.68,
+    "duration": 4.0
+  },
+  {
+    "text": "through pieces that seem like they",
+    "start": 389.919,
+    "duration": 3.681
+  },
+  {
+    "text": "should block it but [music] don't",
+    "start": 391.68,
+    "duration": 4.32
+  },
+  {
+    "text": "because diagonals. So how does this",
+    "start": 393.6,
+    "duration": 4.719
+  },
+  {
+    "text": "translate to hex chess? Well, what",
+    "start": 396.0,
+    "duration": 4.56
+  },
+  {
+    "text": "diagonal means isn't obvious at first",
+    "start": 398.319,
+    "duration": 4.16
+  },
+  {
+    "text": "glance. Going back to the rook as",
+    "start": 400.56,
+    "duration": 3.84
+  },
+  {
+    "text": "reminder, while these look like",
+    "start": 402.479,
+    "duration": 3.681
+  },
+  {
+    "text": "diagonals, in hex chess they [music]",
+    "start": 404.4,
+    "duration": 4.4
+  },
+  {
+    "text": "aren't. So what's a bishop to do? Well,",
+    "start": 406.16,
+    "duration": 4.479
+  },
+  {
+    "text": "as we've already seen, diagonal motion",
+    "start": 408.8,
+    "duration": 4.56
+  },
+  {
+    "text": "on square boards is sort of weird. And",
+    "start": 410.639,
+    "duration": 5.361
+  },
+  {
+    "text": "one reason to use a hex board like many",
+    "start": 413.36,
+    "duration": 4.64
+  },
+  {
+    "text": "modern games do is to ditch the",
+    "start": 416.0,
+    "duration": 4.56
+  },
+  {
+    "text": "diagonals. But if you really need them,",
+    "start": 418.0,
+    "duration": 5.039
+  },
+  {
+    "text": "as poor bishops do, hex boards can",
+    "start": 420.56,
+    "duration": 4.88
+  },
+  {
+    "text": "diagonal, too. And the clue is in the",
+    "start": 423.039,
+    "duration": 5.761
+  },
+  {
+    "text": "colors. This is diagonal motion on a hex",
+    "start": 425.44,
+    "duration": 5.84
+  },
+  {
+    "text": "board. The hex the bishop is on points",
+    "start": 428.8,
+    "duration": 4.814
+  },
+  {
+    "text": "the way to the next diagonals, quite",
+    "start": 431.28,
+    "duration": 4.16
+  },
+  {
+    "text": "[music] literally, which when you think",
+    "start": 433.614,
+    "duration": 3.506
+  },
+  {
+    "text": "about it, is the same as on a square",
+    "start": 435.44,
+    "duration": 3.44
+  },
+  {
+    "text": "board. It's just less noticeable because",
+    "start": 437.12,
+    "duration": 3.84
+  },
+  {
+    "text": "diagonal squares share the pointing",
+    "start": 438.88,
+    "duration": 4.24
+  },
+  {
+    "text": "points and hex boards [music] don't. I",
+    "start": 440.96,
+    "duration": 4.079
+  },
+  {
+    "text": "like this a lot because the hex board",
+    "start": 443.12,
+    "duration": 4.0
+  },
+  {
+    "text": "makes the strangeness of diagonal motion",
+    "start": 445.039,
+    "duration": 4.081
+  },
+  {
+    "text": "more apparent in a way square boards",
+    "start": 447.12,
+    "duration": 3.919
+  },
+  {
+    "text": "conceal. And it makes it more like what",
+    "start": 449.12,
+    "duration": 4.0
+  },
+  {
+    "text": "the bishop lacks in board coverage it",
+    "start": 451.039,
+    "duration": 4.801
+  },
+  {
+    "text": "gains in diagonal exploitation, sort of",
+    "start": 453.12,
+    "duration": 5.199
+  },
+  {
+    "text": "teleporting along sight lines. If this",
+    "start": 455.84,
+    "duration": 4.639
+  },
+  {
+    "text": "is hard to see, I've found it easier to",
+    "start": 458.319,
+    "duration": 4.32
+  },
+  {
+    "text": "think of the bishop as existing in its",
+    "start": 460.479,
+    "duration": 4.16
+  },
+  {
+    "text": "own dimension that only partially",
+    "start": 462.639,
+    "duration": 4.56
+  },
+  {
+    "text": "overlaps with the rest of the game. a",
+    "start": 464.639,
+    "duration": 5.28
+  },
+  {
+    "text": "monochrome world other pieces move into",
+    "start": 467.199,
+    "duration": 4.321
+  },
+  {
+    "text": "and out [music] of. And viewing it this",
+    "start": 469.919,
+    "duration": 4.081
+  },
+  {
+    "text": "way also makes it really clear a hex",
+    "start": 471.52,
+    "duration": 5.679
+  },
+  {
+    "text": "board really nerfs each bishop. Yes, it",
+    "start": 474.0,
+    "duration": 5.28
+  },
+  {
+    "text": "can move in six directions, but there",
+    "start": 477.199,
+    "duration": 5.041
+  },
+  {
+    "text": "are so few spaces. To make up for that,",
+    "start": 479.28,
+    "duration": 5.599
+  },
+  {
+    "text": "in hex chess, you get one extra bishop",
+    "start": 482.24,
+    "duration": 5.6
+  },
+  {
+    "text": "to match the extra color, so each covers",
+    "start": 484.879,
+    "duration": 5.6
+  },
+  {
+    "text": "its third of the board. There are 91",
+    "start": 487.84,
+    "duration": 5.52
+  },
+  {
+    "text": "spaces in total. 30 for black, 30 for",
+    "start": 490.479,
+    "duration": 5.601
+  },
+  {
+    "text": "white, and 31 for gray, which [music]",
+    "start": 493.36,
+    "duration": 4.399
+  },
+  {
+    "text": "you might think makes the gray bishop",
+    "start": 496.08,
+    "duration": 4.0
+  },
+  {
+    "text": "slightly more valuable. But this extra",
+    "start": 497.759,
+    "duration": 4.641
+  },
+  {
+    "text": "space buff comes with the nerf of no",
+    "start": 500.08,
+    "duration": 4.72
+  },
+  {
+    "text": "ability to attack pieces cornered in the",
+    "start": 502.4,
+    "duration": 4.16
+  },
+  {
+    "text": "corners and can [music] make end games",
+    "start": 504.8,
+    "duration": 4.0
+  },
+  {
+    "text": "trickier. That's the bishop done. And",
+    "start": 506.56,
+    "duration": 4.4
+  },
+  {
+    "text": "now that you understand its motion, we",
+    "start": 508.8,
+    "duration": 4.64
+  },
+  {
+    "text": "can move on to the queen. The queen in",
+    "start": 510.96,
+    "duration": 4.24
+  },
+  {
+    "text": "square chess moves in straight and",
+    "start": 513.44,
+    "duration": 3.519
+  },
+  {
+    "text": "diagonal [music] lines. And it's the",
+    "start": 515.2,
+    "duration": 4.0
+  },
+  {
+    "text": "same with the hex queen along all the",
+    "start": 516.959,
+    "duration": 4.401
+  },
+  {
+    "text": "files as the rook would and along all",
+    "start": 519.2,
+    "duration": 4.319
+  },
+  {
+    "text": "the diagonals as would a bishop. The",
+    "start": 521.36,
+    "duration": 4.159
+  },
+  {
+    "text": "queen is the most powerful piece in",
+    "start": 523.519,
+    "duration": 5.041
+  },
+  {
+    "text": "square chess, but it's hilarious how",
+    "start": 525.519,
+    "duration": 5.521
+  },
+  {
+    "text": "godlike her freedom of motion looks on",
+    "start": 528.56,
+    "duration": 5.92
+  },
+  {
+    "text": "the hex board. Absolutely crushing the",
+    "start": 531.04,
+    "duration": 5.84
+  },
+  {
+    "text": "king. Capturing the king is the target",
+    "start": 534.48,
+    "duration": 4.479
+  },
+  {
+    "text": "of the game. And it is the poor king",
+    "start": 536.88,
+    "duration": 4.16
+  },
+  {
+    "text": "that is limited to moving just one",
+    "start": 538.959,
+    "duration": 4.481
+  },
+  {
+    "text": "square in any direction. Simple enough.",
+    "start": 541.04,
+    "duration": 4.4
+  },
+  {
+    "text": "And you might think that this is how the",
+    "start": 543.44,
+    "duration": 4.399
+  },
+  {
+    "text": "hex king would move. But don't forget",
+    "start": 545.44,
+    "duration": 4.64
+  },
+  {
+    "text": "those Trixie diagonals the points point",
+    "start": 547.839,
+    "duration": 5.281
+  },
+  {
+    "text": "the way to. This is one movement in any",
+    "start": 550.08,
+    "duration": 5.28
+  },
+  {
+    "text": "direction, either to a neighbor or",
+    "start": 553.12,
+    "duration": 5.279
+  },
+  {
+    "text": "teleporting one space of the same color.",
+    "start": 555.36,
+    "duration": 7.039
+  },
+  {
+    "text": "And given all of this, boy, does the",
+    "start": 558.399,
+    "duration": 6.641
+  },
+  {
+    "text": "king really need that extra escape move.",
+    "start": 562.399,
+    "duration": 4.161
+  },
+  {
+    "text": "In fact, this additional freedom of",
+    "start": 565.04,
+    "duration": 3.52
+  },
+  {
+    "text": "motion makes him so much slippier to",
+    "start": 566.56,
+    "duration": 3.76
+  },
+  {
+    "text": "catch that putting your opponent in",
+    "start": 568.56,
+    "duration": 3.68
+  },
+  {
+    "text": "stalemate where the king can't make a",
+    "start": 570.32,
+    "duration": 4.72
+  },
+  {
+    "text": "non-suicidal move. Considered a tie in",
+    "start": 572.24,
+    "duration": 5.68
+  },
+  {
+    "text": "square chess counts as 3/4s of a win in",
+    "start": 575.04,
+    "duration": 4.96
+  },
+  {
+    "text": "hex chess, basically winning. There's",
+    "start": 577.92,
+    "duration": 4.32
+  },
+  {
+    "text": "only one nerf for the king, which is",
+    "start": 580.0,
+    "duration": 4.56
+  },
+  {
+    "text": "castling doesn't exist because of how",
+    "start": 582.24,
+    "duration": 4.48
+  },
+  {
+    "text": "the pieces are set up, which we'll get",
+    "start": 584.56,
+    "duration": 4.399
+  },
+  {
+    "text": "to now. So, you've got the board, you've",
+    "start": 586.72,
+    "duration": 4.72
+  },
+  {
+    "text": "got the pawns, then across the back row",
+    "start": 588.959,
+    "duration": 4.88
+  },
+  {
+    "text": "going inward, it's rooks, then knights,",
+    "start": 591.44,
+    "duration": 4.64
+  },
+  {
+    "text": "queen to the left, king to the right,",
+    "start": 593.839,
+    "duration": 4.401
+  },
+  {
+    "text": "and three bishops in the middle. That's",
+    "start": 596.08,
+    "duration": 4.56
+  },
+  {
+    "text": "the way hex chess works. And since I",
+    "start": 598.24,
+    "duration": 4.719
+  },
+  {
+    "text": "made this ridiculous board, I decided I",
+    "start": 600.64,
+    "duration": 4.72
+  },
+  {
+    "text": "might as well try it out. And since I",
+    "start": 602.959,
+    "duration": 4.641
+  },
+  {
+    "text": "had no one to play against, I played a",
+    "start": 605.36,
+    "duration": 4.56
+  },
+  {
+    "text": "game against [music] myself, which",
+    "start": 607.6,
+    "duration": 5.04
+  },
+  {
+    "text": "turned out to be rather brainbending.",
+    "start": 609.92,
+    "duration": 4.72
+  },
+  {
+    "text": "Not just because trying to remember all",
+    "start": 612.64,
+    "duration": 4.56
+  },
+  {
+    "text": "the new piece movements and patterns was",
+    "start": 614.64,
+    "duration": 5.6
+  },
+  {
+    "text": "really hard, but it was even harder to",
+    "start": 617.2,
+    "duration": 5.44
+  },
+  {
+    "text": "see them on the board and think with",
+    "start": 620.24,
+    "duration": 5.039
+  },
+  {
+    "text": "them. My game against myself did not go",
+    "start": 622.64,
+    "duration": 5.92
+  },
+  {
+    "text": "well. I made some truly dumb moves and",
+    "start": 625.279,
+    "duration": 5.601
+  },
+  {
+    "text": "turned what should have been a stalemate",
+    "start": 628.56,
+    "duration": 6.16
+  },
+  {
+    "text": "into losing quite badly to myself. But",
+    "start": 630.88,
+    "duration": 6.32
+  },
+  {
+    "text": "it sure was interesting and answered the",
+    "start": 634.72,
+    "duration": 6.799
+  },
+  {
+    "text": "question, can chess with hexagon? Yes. A",
+    "start": 637.2,
+    "duration": 7.319
+  },
+  {
+    "text": "gone.",
+    "start": 641.519,
+    "duration": 3.0
+  }
+]

@@ -1,0 +1,8 @@
+# OPCIONAL: instalar solo si vas a usar el LLM open source local.
+# No lo pongas en requirements.txt principal si quieres build rápida.
+torch>=2.1.0
+transformers>=4.46.0
+accelerate>=0.26.0
+peft>=0.12.0
+sentencepiece>=0.1.99
+safetensors>=0.4.3

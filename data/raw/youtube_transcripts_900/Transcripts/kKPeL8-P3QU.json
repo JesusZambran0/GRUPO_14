@@ -1,0 +1,642 @@
+[
+  {
+    "text": "Wow.",
+    "start": 0.0,
+    "duration": 5.42
+  },
+  {
+    "text": "[Music]",
+    "start": 2.34,
+    "duration": 3.08
+  },
+  {
+    "text": "[Music]",
+    "start": 9.51,
+    "duration": 5.02
+  },
+  {
+    "text": "[Music]",
+    "start": 16.57,
+    "duration": 3.509
+  },
+  {
+    "text": "[Applause]",
+    "start": 16.86,
+    "duration": 3.219
+  },
+  {
+    "text": "Hello. Ow.",
+    "start": 28.08,
+    "duration": 4.039
+  },
+  {
+    "text": "Ow.",
+    "start": 33.36,
+    "duration": 5.649
+  },
+  {
+    "text": "[Music]",
+    "start": 35.53,
+    "duration": 3.479
+  },
+  {
+    "text": "[Laughter]",
+    "start": 40.96,
+    "duration": 8.51
+  },
+  {
+    "text": "[Music]",
+    "start": 44.94,
+    "duration": 4.53
+  },
+  {
+    "text": "A",
+    "start": 53.6,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 94.7,
+    "duration": 2.52
+  },
+  {
+    "text": "Woohoo!",
+    "start": 95.84,
+    "duration": 4.58
+  },
+  {
+    "text": "[Music]",
+    "start": 97.22,
+    "duration": 3.2
+  },
+  {
+    "text": "[Music]",
+    "start": 105.57,
+    "duration": 26.389
+  },
+  {
+    "text": "Wow.",
+    "start": 128.959,
+    "duration": 3.0
+  },
+  {
+    "text": "Daddy.",
+    "start": 132.959,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 136.43,
+    "duration": 23.52
+  },
+  {
+    "text": "Heat. Heat.",
+    "start": 157.84,
+    "duration": 15.23
+  },
+  {
+    "text": "[Music]",
+    "start": 159.95,
+    "duration": 15.0
+  },
+  {
+    "text": "[Applause]",
+    "start": 173.07,
+    "duration": 15.24
+  },
+  {
+    "text": "[Music]",
+    "start": 174.95,
+    "duration": 15.83
+  },
+  {
+    "text": "[Applause]",
+    "start": 188.31,
+    "duration": 20.49
+  },
+  {
+    "text": "[Music]",
+    "start": 190.78,
+    "duration": 21.02
+  },
+  {
+    "text": "Wow.",
+    "start": 208.8,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 212.96,
+    "duration": 6.76
+  },
+  {
+    "text": "Wow.",
+    "start": 216.72,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 222.35,
+    "duration": 9.37
+  },
+  {
+    "text": "Mommy.",
+    "start": 228.72,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 236.98,
+    "duration": 11.339
+  },
+  {
+    "text": "Hi. Hello. Heat.",
+    "start": 252.959,
+    "duration": 5.48
+  },
+  {
+    "text": "[Music]",
+    "start": 260.519,
+    "duration": 10.171
+  },
+  {
+    "text": "Heat.",
+    "start": 269.36,
+    "duration": 2.64
+  },
+  {
+    "text": "[Music]",
+    "start": 270.69,
+    "duration": 4.399
+  },
+  {
+    "text": "[Applause]",
+    "start": 272.0,
+    "duration": 3.089
+  },
+  {
+    "text": "Heat. Heat.",
+    "start": 277.28,
+    "duration": 52.13
+  },
+  {
+    "text": "[Music]",
+    "start": 279.98,
+    "duration": 49.43
+  },
+  {
+    "text": "[Music]",
+    "start": 335.98,
+    "duration": 24.42
+  },
+  {
+    "text": "Wow.",
+    "start": 358.88,
+    "duration": 9.22
+  },
+  {
+    "text": "[Music]",
+    "start": 360.4,
+    "duration": 7.7
+  },
+  {
+    "text": "[Music]",
+    "start": 371.19,
+    "duration": 9.03
+  },
+  {
+    "text": "Wow.",
+    "start": 378.639,
+    "duration": 4.68
+  },
+  {
+    "text": "[Applause]",
+    "start": 380.22,
+    "duration": 3.099
+  },
+  {
+    "text": "Wow.",
+    "start": 385.68,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 388.75,
+    "duration": 10.66
+  },
+  {
+    "text": "[Applause]",
+    "start": 401.88,
+    "duration": 3.159
+  },
+  {
+    "text": "[Music]",
+    "start": 403.7,
+    "duration": 4.14
+  },
+  {
+    "text": "Hi.",
+    "start": 405.039,
+    "duration": 5.801
+  },
+  {
+    "text": "Mommy.",
+    "start": 407.84,
+    "duration": 3.0
+  },
+  {
+    "text": "Heat.",
+    "start": 411.44,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 414.84,
+    "duration": 19.869
+  },
+  {
+    "text": "[Applause]",
+    "start": 437.48,
+    "duration": 5.1
+  },
+  {
+    "text": "Heat.",
+    "start": 440.479,
+    "duration": 6.961
+  },
+  {
+    "text": "[Music]",
+    "start": 442.58,
+    "duration": 7.86
+  },
+  {
+    "text": "Jose.",
+    "start": 447.44,
+    "duration": 3.0
+  },
+  {
+    "text": "[Applause]",
+    "start": 452.66,
+    "duration": 2.56
+  },
+  {
+    "text": "[Music]",
+    "start": 452.87,
+    "duration": 3.0
+  },
+  {
+    "text": "[Applause]",
+    "start": 455.22,
+    "duration": 10.59
+  },
+  {
+    "text": "[Music]",
+    "start": 455.87,
+    "duration": 9.94
+  },
+  {
+    "text": "[Applause]",
+    "start": 472.03,
+    "duration": 4.109
+  },
+  {
+    "text": "[Music]",
+    "start": 472.94,
+    "duration": 3.199
+  },
+  {
+    "text": "[Music]",
+    "start": 478.98,
+    "duration": 4.42
+  },
+  {
+    "text": "Heat.",
+    "start": 480.4,
+    "duration": 3.0
+  },
+  {
+    "text": "Heat.",
+    "start": 494.479,
+    "duration": 3.0
+  },
+  {
+    "text": "Woo!",
+    "start": 502.4,
+    "duration": 3.0
+  },
+  {
+    "text": "Woo!",
+    "start": 505.68,
+    "duration": 4.76
+  },
+  {
+    "text": "Wow!",
+    "start": 507.44,
+    "duration": 3.0
+  },
+  {
+    "text": "Wow!",
+    "start": 511.84,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 514.96,
+    "duration": 17.059
+  },
+  {
+    "text": "Come on.",
+    "start": 537.68,
+    "duration": 12.4
+  },
+  {
+    "text": "[Music]",
+    "start": 538.86,
+    "duration": 14.22
+  },
+  {
+    "text": "Wow.",
+    "start": 550.08,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 553.67,
+    "duration": 3.2
+  },
+  {
+    "text": "[Applause]",
+    "start": 555.17,
+    "duration": 9.789
+  },
+  {
+    "text": "[Music]",
+    "start": 556.87,
+    "duration": 11.089
+  },
+  {
+    "text": "Where?",
+    "start": 564.959,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 574.29,
+    "duration": 3.18
+  },
+  {
+    "text": "help.",
+    "start": 582.399,
+    "duration": 16.801
+  },
+  {
+    "text": "[Music]",
+    "start": 584.05,
+    "duration": 15.15
+  },
+  {
+    "text": "[Applause]",
+    "start": 600.23,
+    "duration": 9.46
+  },
+  {
+    "text": "[Music]",
+    "start": 606.61,
+    "duration": 3.08
+  },
+  {
+    "text": "Help.",
+    "start": 610.56,
+    "duration": 2.719
+  },
+  {
+    "text": "Ew.",
+    "start": 616.16,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 622.81,
+    "duration": 16.07
+  },
+  {
+    "text": "Heat.",
+    "start": 637.519,
+    "duration": 4.471
+  },
+  {
+    "text": "[Music]",
+    "start": 638.88,
+    "duration": 3.11
+  },
+  {
+    "text": "[Music]",
+    "start": 649.67,
+    "duration": 7.549
+  },
+  {
+    "text": "[Applause]",
+    "start": 654.09,
+    "duration": 3.129
+  },
+  {
+    "text": "[Music]",
+    "start": 658.01,
+    "duration": 2.6
+  },
+  {
+    "text": "[Applause]",
+    "start": 659.42,
+    "duration": 6.58
+  },
+  {
+    "text": "[Music]",
+    "start": 660.61,
+    "duration": 8.39
+  },
+  {
+    "text": "Wow.",
+    "start": 666.0,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 670.85,
+    "duration": 4.74
+  },
+  {
+    "text": "[Music]",
+    "start": 679.71,
+    "duration": 6.399
+  },
+  {
+    "text": "Wow.",
+    "start": 686.56,
+    "duration": 3.0
+  },
+  {
+    "text": "Wow.",
+    "start": 691.36,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 698.77,
+    "duration": 1.54
+  },
+  {
+    "text": "[Applause]",
+    "start": 698.87,
+    "duration": 3.85
+  },
+  {
+    "text": "[Music]",
+    "start": 700.31,
+    "duration": 3.93
+  },
+  {
+    "text": "Hi,",
+    "start": 702.72,
+    "duration": 3.92
+  },
+  {
+    "text": "[Music]",
+    "start": 704.24,
+    "duration": 5.4
+  },
+  {
+    "text": "Mom.",
+    "start": 706.64,
+    "duration": 3.0
+  },
+  {
+    "text": "[Applause]",
+    "start": 710.19,
+    "duration": 11.799
+  },
+  {
+    "text": "[Music]",
+    "start": 715.73,
+    "duration": 6.259
+  },
+  {
+    "text": "[Music]",
+    "start": 724.01,
+    "duration": 18.659
+  },
+  {
+    "text": "Hi.",
+    "start": 745.6,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 750.27,
+    "duration": 13.39
+  },
+  {
+    "text": "Wow.",
+    "start": 761.68,
+    "duration": 5.16
+  },
+  {
+    "text": "[Applause]",
+    "start": 763.66,
+    "duration": 3.18
+  },
+  {
+    "text": "[Applause]",
+    "start": 769.49,
+    "duration": 3.169
+  },
+  {
+    "text": "Wow.",
+    "start": 773.76,
+    "duration": 20.859
+  },
+  {
+    "text": "[Music]",
+    "start": 776.06,
+    "duration": 18.559
+  },
+  {
+    "text": "Uhoh. Yeah.",
+    "start": 795.2,
+    "duration": 17.039
+  },
+  {
+    "text": "[Music]",
+    "start": 798.01,
+    "duration": 14.229
+  },
+  {
+    "text": "[Music]",
+    "start": 814.79,
+    "duration": 11.3
+  },
+  {
+    "text": "Aha.",
+    "start": 823.839,
+    "duration": 16.06
+  },
+  {
+    "text": "[Music]",
+    "start": 826.09,
+    "duration": 13.809
+  },
+  {
+    "text": "[Music]",
+    "start": 842.12,
+    "duration": 13.13
+  },
+  {
+    "text": "Wow. Fire.",
+    "start": 859.76,
+    "duration": 27.509
+  },
+  {
+    "text": "[Music]",
+    "start": 862.85,
+    "duration": 24.419
+  },
+  {
+    "text": "Wow.",
+    "start": 890.399,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 894.37,
+    "duration": 18.79
+  },
+  {
+    "text": "Woohoo.",
+    "start": 910.16,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 913.81,
+    "duration": 5.7
+  },
+  {
+    "text": "Wow.",
+    "start": 916.959,
+    "duration": 15.601
+  },
+  {
+    "text": "[Music]",
+    "start": 919.51,
+    "duration": 14.07
+  },
+  {
+    "text": "Ah.",
+    "start": 932.56,
+    "duration": 9.16
+  },
+  {
+    "text": "[Music]",
+    "start": 933.58,
+    "duration": 8.14
+  }
+]

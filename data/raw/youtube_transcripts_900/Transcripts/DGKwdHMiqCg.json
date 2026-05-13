@@ -1,0 +1,542 @@
+[
+  {
+    "text": " Hi! Welcome to Math Antics. We're continuing our series on Geometry  ",
+    "start": 7.16,
+    "duration": 3.9
+  },
+  {
+    "text": "and today we're going to learn about angles.",
+    "start": 11.08,
+    "duration": 2.36
+  },
+  {
+    "text": "In our last video, we learned about points and lines,",
+    "start": 13.44,
+    "duration": 2.839
+  },
+  {
+    "text": "and that's good because \nwe are going to need lines to make angles.",
+    "start": 16.279,
+    "duration": 3.28
+  },
+  {
+    "text": "So let's start with a couple of lines \nthat are in the same plane.",
+    "start": 19.56,
+    "duration": 3.3
+  },
+  {
+    "text": "We're only going to be dealing with \n two-dimensional geometry in this video. ",
+    "start": 22.86,
+    "duration": 3.12
+  },
+  {
+    "text": "These lines are conveniently called \n Line AB and Line CD.",
+    "start": 25.98,
+    "duration": 4.88
+  },
+  {
+    "text": "Now the important thing to notice about these two lines is that they're pointing in exactly the same direction. ",
+    "start": 30.86,
+    "duration": 5.38
+  },
+  {
+    "text": "So, even if we extended  them forever, they would never cross or even get closer together.",
+    "start": 36.24,
+    "duration": 5.64
+  },
+  {
+    "text": "When two lines are arranged like this, \nwe call them 'parallel'.",
+    "start": 41.88,
+    "duration": 2.94
+  },
+  {
+    "text": "You've probably heard the term 'parallel' before… \nlike parallel parking, or a parallel universe,",
+    "start": 44.829,
+    "duration": 4.511
+  },
+  {
+    "text": "or parallel bars.",
+    "start": 49.34,
+    "duration": 2.94
+  },
+  {
+    "text": "Okay, so parallel lines are lines that will\nnever cross, even if they go on forever...",
+    "start": 57.96,
+    "duration": 4.68
+  },
+  {
+    "text": "but what if I take one of our lines and \ngive it a little nudge?",
+    "start": 62.64,
+    "duration": 4.0
+  },
+  {
+    "text": "Now the lines aren't parallel anymore. \nIn fact, they cross at this point right here.",
+    "start": 66.64,
+    "duration": 3.86
+  },
+  {
+    "text": "Let's name it Point P. ",
+    "start": 70.5,
+    "duration": 1.84
+  },
+  {
+    "text": "When lines cross at a point like this, \nwe say that they intersect,",
+    "start": 72.34,
+    "duration": 3.08
+  },
+  {
+    "text": "and we call the point an 'intersection'.",
+    "start": 75.42,
+    "duration": 2.64
+  },
+  {
+    "text": "And when lines intersect, they form 'angles'. You can think of the angles as the spaces, or shapes,",
+    "start": 78.06,
+    "duration": 5.46
+  },
+  {
+    "text": "that are formed between the intersecting lines.",
+    "start": 83.52,
+    "duration": 2.74
+  },
+  {
+    "text": " These intersecting lines form four angles: 1, 2, 3, 4.",
+    "start": 86.26,
+    "duration": 5.42
+  },
+  {
+    "text": "But instead of calling them angle 1, 2, 3 and 4,",
+    "start": 91.68,
+    "duration": 2.82
+  },
+  {
+    "text": " in Geometry, \nwe name them by the points used to make them.",
+    "start": 94.5,
+    "duration": 3.44
+  },
+  {
+    "text": "For example, this angle here can be called Angle DPB ",
+    "start": 97.94,
+    "duration": 3.8
+  },
+  {
+    "text": "because if you trace along those points \n(like connect the dots) they outline that angle.",
+    "start": 101.74,
+    "duration": 5.16
+  },
+  {
+    "text": "And this angle here... we can call that Angle APD,",
+    "start": 106.9,
+    "duration": 3.46
+  },
+  {
+    "text": "because connecting those dots forms angle.",
+    "start": 110.36,
+    "duration": 2.78
+  },
+  {
+    "text": "Now when naming angles, \nthere's a nice shorthand we can use.",
+    "start": 113.14,
+    "duration": 3.26
+  },
+  {
+    "text": " Instead of writing the word 'angle' over and over again,",
+    "start": 116.4,
+    "duration": 2.76
+  },
+  {
+    "text": "we can just use the angle symbol instead, \nwhich looks like this.",
+    "start": 119.16,
+    "duration": 3.96
+  },
+  {
+    "text": "But there's an even simpler way to name angles.",
+    "start": 123.12,
+    "duration": 2.46
+  },
+  {
+    "text": "To learn that way, \nlet's erase all the points and letters on our lines",
+    "start": 125.58,
+    "duration": 3.64
+  },
+  {
+    "text": "except for the intersection point and this one point here.",
+    "start": 129.22,
+    "duration": 3.64
+  },
+  {
+    "text": "Now let's imagine that the line-segment between these two points can rotate around the point of intersection,",
+    "start": 132.86,
+    "duration": 6.02
+  },
+  {
+    "text": "just like a clock hand rotates \naround the center of a clock. ",
+    "start": 138.88,
+    "duration": 3.44
+  },
+  {
+    "text": "Let's also imagine that as we rotate the line segment,",
+    "start": 142.32,
+    "duration": 3.54
+  },
+  {
+    "text": "the point out at the end leaves a trail, \nlike if a pencil was attached to it.",
+    "start": 145.86,
+    "duration": 4.82
+  },
+  {
+    "text": "The trail (or path) that is left when we rotate the line-segment all the way around forms a circle.",
+    "start": 150.68,
+    "duration": 6.02
+  },
+  {
+    "text": "But if we only go part way around,\nthen it forms part of a circle that we call an 'arc'.",
+    "start": 156.7,
+    "duration": 5.5
+  },
+  {
+    "text": "This arc can represent the angle\nthat is formed when we rotate the segment",
+    "start": 162.2,
+    "duration": 3.98
+  },
+  {
+    "text": "from one position to another, \nlike from this line to that line.",
+    "start": 166.189,
+    "duration": 3.96
+  },
+  {
+    "text": "And now, if we shrink down that arc so that\nit's close to the intersection point,",
+    "start": 170.149,
+    "duration": 4.08
+  },
+  {
+    "text": "and then put a letter by it, like the letter 'A',\nwe have another way of showing an angle...",
+    "start": 174.229,
+    "duration": 4.651
+  },
+  {
+    "text": "Angle A.",
+    "start": 178.88,
+    "duration": 1.42
+  },
+  {
+    "text": "And we can do this with any angle,\nso the angle up here...",
+    "start": 180.3,
+    "duration": 3.46
+  },
+  {
+    "text": "we can also draw an arc and call it Angle B.",
+    "start": 183.76,
+    "duration": 3.56
+  },
+  {
+    "text": "So whenever you see a letter next to a little arc like this,",
+    "start": 187.329,
+    "duration": 3.32
+  },
+  {
+    "text": "it means that it's the name of the angle \nformed by that arc.",
+    "start": 190.649,
+    "duration": 3.751
+  },
+  {
+    "text": "Alright then, so now we have a diagram that shows Angle A and Angle B,",
+    "start": 194.4,
+    "duration": 4.96
+  },
+  {
+    "text": "and you might notice that those angles \naren't the same size. ",
+    "start": 199.36,
+    "duration": 3.42
+  },
+  {
+    "text": "B seems to be bigger than A.",
+    "start": 202.78,
+    "duration": 2.739
+  },
+  {
+    "text": "But what if we rotate one of our lines until\nthe angles do look like they're the same size?",
+    "start": 205.519,
+    "duration": 4.74
+  },
+  {
+    "text": "Now our angles look kind of like a plus sign.\nLines arranged like this are called 'perpendicular'.",
+    "start": 210.26,
+    "duration": 6.16
+  },
+  {
+    "text": "Perpendicular lines are lines that form square corners when they intersect.",
+    "start": 216.43,
+    "duration": 4.14
+  },
+  {
+    "text": "And these square corner angles have a special name in Geometry because they are really important.",
+    "start": 220.57,
+    "duration": 5.28
+  },
+  {
+    "text": "We call them 'right angles'.",
+    "start": 225.85,
+    "duration": 2.4
+  },
+  {
+    "text": "There is even a special symbol that we use to show when an angle is a right angle. ",
+    "start": 228.25,
+    "duration": 3.74
+  },
+  {
+    "text": "Because they form square corners, ",
+    "start": 231.99,
+    "duration": 1.76
+  },
+  {
+    "text": "we use a little square instead of \nthe arc that we use for the other angles.",
+    "start": 233.75,
+    "duration": 4.56
+  },
+  {
+    "text": "So whenever you see this symbol, \nyou know the angle you are looking at is a right angle,",
+    "start": 238.31,
+    "duration": 4.96
+  },
+  {
+    "text": "and that the lines that form it are perpendicular.",
+    "start": 243.27,
+    "duration": 3.25
+  },
+  {
+    "text": "Okay, now that you know what a right angle is, let's look at a simple one that's made from just two rays.",
+    "start": 246.53,
+    "duration": 6.07
+  },
+  {
+    "text": "What will happen if we take the ray pointing up and rotate it like the hand of a clock",
+    "start": 252.6,
+    "duration": 4.72
+  },
+  {
+    "text": "a little to the right… a little bit clockwise?",
+    "start": 257.32,
+    "duration": 3.66
+  },
+  {
+    "text": "Well, we don't have a right angle any more\nbecause the rays are no longer perpendicular.",
+    "start": 260.98,
+    "duration": 4.62
+  },
+  {
+    "text": "Instead, we have an angle that is smaller\n(or less) than a right angle.",
+    "start": 265.6,
+    "duration": 4.26
+  },
+  {
+    "text": "Angles that are less than right angles \nare called 'acute angles'.",
+    "start": 269.86,
+    "duration": 4.12
+  },
+  {
+    "text": "On the other hand, if we rotated our ray to\nthe left instead of the right,",
+    "start": 273.98,
+    "duration": 4.12
+  },
+  {
+    "text": "we would get an angle that's bigger \nor greater than a right angle. ",
+    "start": 278.1,
+    "duration": 3.54
+  },
+  {
+    "text": "Angles that are greater than right angles \nare called 'obtuse angles'.",
+    "start": 281.64,
+    "duration": 4.7
+  },
+  {
+    "text": "So, there are three main kinds of angles \nthat you need to know about. ",
+    "start": 286.34,
+    "duration": 3.02
+  },
+  {
+    "text": "Right Angles, acute angles and obtuse angles.",
+    "start": 289.36,
+    "duration": 3.72
+  },
+  {
+    "text": "Well actually, there's one more type of \nangle that's pretty important,",
+    "start": 293.08,
+    "duration": 4.2
+  },
+  {
+    "text": "but it's kind of a strange one. \nIt's called a 'straight angle'.",
+    "start": 297.28,
+    "duration": 3.72
+  },
+  {
+    "text": "A straight angle is just what we get when we rotate our rays so that they point in exactly opposite directions.",
+    "start": 301.0,
+    "duration": 6.22
+  },
+  {
+    "text": "The result looks just like a straight line, \nwhich is why it's called a straight angle.",
+    "start": 307.22,
+    "duration": 5.42
+  },
+  {
+    "text": "Alright then, there's just a few more important geometry terms that we need to learn in this video.",
+    "start": 312.64,
+    "duration": 5.14
+  },
+  {
+    "text": " Let's look at our simple right angle\nagain that's made from two rays.",
+    "start": 317.78,
+    "duration": 4.02
+  },
+  {
+    "text": "But this time, let's draw a third ray that\ncuts that right angle into two smaller parts.",
+    "start": 321.8,
+    "duration": 5.06
+  },
+  {
+    "text": "Now, because the angle that we divided up\nwas a right angle, ",
+    "start": 326.86,
+    "duration": 3.62
+  },
+  {
+    "text": "we know that the two new smaller angles \ncombine to form a right angle.",
+    "start": 330.48,
+    "duration": 4.4
+  },
+  {
+    "text": "And in geometry, any two angles that to form a right angle are called 'complementary angles'.",
+    "start": 334.88,
+    "duration": 6.56
+  },
+  {
+    "text": "And we can do the same thing with a straight angle.",
+    "start": 341.44,
+    "duration": 2.78
+  },
+  {
+    "text": " If we take a straight angle (made from two rays) ",
+    "start": 344.22,
+    "duration": 2.68
+  },
+  {
+    "text": "and divide it with a third ray,\ntwo new smaller angles are formed.",
+    "start": 346.9,
+    "duration": 4.36
+  },
+  {
+    "text": "And those two angles combine to form a straight angle.\nWe call these angles 'supplementary angles'.",
+    "start": 351.26,
+    "duration": 6.38
+  },
+  {
+    "text": "So, complementary angles \ncombine to form a right angle, ",
+    "start": 357.64,
+    "duration": 3.54
+  },
+  {
+    "text": "and supplementary angles \ncombine to form a straight angle.",
+    "start": 361.18,
+    "duration": 4.3
+  },
+  {
+    "text": "Alright, that's all were going to learn about angles \nin this video.",
+    "start": 365.48,
+    "duration": 3.38
+  },
+  {
+    "text": "And if you are new to Geometry, \nit might seem like a lot,",
+    "start": 368.86,
+    "duration": 3.0
+  },
+  {
+    "text": "so let's do a quick review of \nall the new geometry words we've learned.",
+    "start": 371.86,
+    "duration": 4.9
+  },
+  {
+    "text": "Lines that point in exactly the same direction will never cross and are called 'parallel' lines.",
+    "start": 376.76,
+    "duration": 6.14
+  },
+  {
+    "text": "When lines do cross, they cross at a point\ncalled an 'intersection'.",
+    "start": 382.9,
+    "duration": 4.48
+  },
+  {
+    "text": "Lines that intersect form 'angles'. You can\nthink of angles as the spaces between the lines.",
+    "start": 387.38,
+    "duration": 6.48
+  },
+  {
+    "text": "Angles can be named by the points that\nform them... just like connect the dots.",
+    "start": 393.86,
+    "duration": 5.74
+  },
+  {
+    "text": "An 'arc' is a part of a circle. Arcs can be used to represent an angle between two intersecting lines.",
+    "start": 399.6,
+    "duration": 7.0
+  },
+  {
+    "text": "When intersecting lines form all exactly equal angles, the lines are 'perpendicular'.",
+    "start": 406.6,
+    "duration": 6.54
+  },
+  {
+    "text": "Perpendicular lines form 'right angles'. \nRight angles are square corners, ",
+    "start": 413.14,
+    "duration": 5.4
+  },
+  {
+    "text": "and we use a special square symbol \nto show that an angle is a right angle.",
+    "start": 418.54,
+    "duration": 5.02
+  },
+  {
+    "text": "An angle that's smaller, or less than a right\nangle is called an 'acute angle'.",
+    "start": 423.56,
+    "duration": 5.28
+  },
+  {
+    "text": "An angle that's bigger, or greater than a\nright angle is called an 'obtuse angle'.",
+    "start": 428.84,
+    "duration": 5.24
+  },
+  {
+    "text": "A 'straight angle' is formed by two rays pointing\nin exactly opposite directions. ",
+    "start": 434.09,
+    "duration": 5.1
+  },
+  {
+    "text": "A straight angle is really just a straight line.",
+    "start": 439.19,
+    "duration": 3.96
+  },
+  {
+    "text": "Two angles that combine to form a right angle\nare called 'complementary angles'.",
+    "start": 443.15,
+    "duration": 5.64
+  },
+  {
+    "text": "Two angles that combine to form a straight\nangle are called 'supplementary angles'.",
+    "start": 448.79,
+    "duration": 6.02
+  },
+  {
+    "text": "In our next geometry video, we're going to\nlearn more about angles and how to measure them.",
+    "start": 455.24,
+    "duration": 4.22
+  },
+  {
+    "text": "Thanks for watching Math Antics, and I'll\nsee you next time!",
+    "start": 459.47,
+    "duration": 3.78
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 463.25,
+    "duration": 2.36
+  }
+]

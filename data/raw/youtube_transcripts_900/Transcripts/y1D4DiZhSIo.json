@@ -1,0 +1,4467 @@
+[
+  {
+    "text": "hi everyone if you didn't know last",
+    "start": 0.08,
+    "duration": 4.08
+  },
+  {
+    "text": "August was a 2024 gmtk game jam it was",
+    "start": 1.599,
+    "duration": 4.401
+  },
+  {
+    "text": "one of the biggest game jams of all time",
+    "start": 4.16,
+    "duration": 3.88
+  },
+  {
+    "text": "over 32,000 developers competed",
+    "start": 6.0,
+    "duration": 4.559
+  },
+  {
+    "text": "submitting over 7,600 games one of those",
+    "start": 8.04,
+    "duration": 4.44
+  },
+  {
+    "text": "developers was me and this year I",
+    "start": 10.559,
+    "duration": 4.08
+  },
+  {
+    "text": "somehow won the entire Jam this is a",
+    "start": 12.48,
+    "duration": 3.559
+  },
+  {
+    "text": "story of how that",
+    "start": 14.639,
+    "duration": 3.48
+  },
+  {
+    "text": "happened oh wait if you don't know what",
+    "start": 16.039,
+    "duration": 3.601
+  },
+  {
+    "text": "a game Jam is it's an event where lots",
+    "start": 18.119,
+    "duration": 3.16
+  },
+  {
+    "text": "of game developers get together to make",
+    "start": 19.64,
+    "duration": 3.36
+  },
+  {
+    "text": "games centered around a theme in a",
+    "start": 21.279,
+    "duration": 3.201
+  },
+  {
+    "text": "really short time span usually",
+    "start": 23.0,
+    "duration": 3.24
+  },
+  {
+    "text": "afterwards everyone plays and rates each",
+    "start": 24.48,
+    "duration": 4.08
+  },
+  {
+    "text": "other's games for the gmtk jam the top",
+    "start": 26.24,
+    "duration": 4.119
+  },
+  {
+    "text": "100 rated games are then played by Brown",
+    "start": 28.56,
+    "duration": 3.839
+  },
+  {
+    "text": "from gmtk from which he picks 20 games",
+    "start": 30.359,
+    "duration": 3.481
+  },
+  {
+    "text": "as the official winners of the jam it's",
+    "start": 32.399,
+    "duration": 2.881
+  },
+  {
+    "text": "a great time every year and a great way",
+    "start": 33.84,
+    "duration": 3.399
+  },
+  {
+    "text": "to get better at Game Dev I have a bit",
+    "start": 35.28,
+    "duration": 3.64
+  },
+  {
+    "text": "of a history with the gmtk game Jam",
+    "start": 37.239,
+    "duration": 3.32
+  },
+  {
+    "text": "though the first game Jam I ever joined",
+    "start": 38.92,
+    "duration": 3.68
+  },
+  {
+    "text": "was gmtk 2020 which was only a week",
+    "start": 40.559,
+    "duration": 3.641
+  },
+  {
+    "text": "after I'd really started learning Unity",
+    "start": 42.6,
+    "duration": 3.119
+  },
+  {
+    "text": "the theme that year was out of control",
+    "start": 44.2,
+    "duration": 2.92
+  },
+  {
+    "text": "so I made a simple puzzle platformer",
+    "start": 45.719,
+    "duration": 3.041
+  },
+  {
+    "text": "where you could run out of your controls",
+    "start": 47.12,
+    "duration": 2.84
+  },
+  {
+    "text": "it actually did really well during the",
+    "start": 48.76,
+    "duration": 3.439
+  },
+  {
+    "text": "jam placing 150 first I had learned a",
+    "start": 49.96,
+    "duration": 3.599
+  },
+  {
+    "text": "lot I had a great time making the game",
+    "start": 52.199,
+    "duration": 2.68
+  },
+  {
+    "text": "and I appreciated all the feedback I had",
+    "start": 53.559,
+    "duration": 2.8
+  },
+  {
+    "text": "gotten so I kept doing game jams after",
+    "start": 54.879,
+    "duration": 3.121
+  },
+  {
+    "text": "that but every year after that first Jam",
+    "start": 56.359,
+    "duration": 3.68
+  },
+  {
+    "text": "whenever I joined gmtk I kept doing",
+    "start": 58.0,
+    "duration": 3.48
+  },
+  {
+    "text": "worse and worse than the year before in",
+    "start": 60.039,
+    "duration": 3.441
+  },
+  {
+    "text": "2021 the theme was joined together I",
+    "start": 61.48,
+    "duration": 3.359
+  },
+  {
+    "text": "made another puzzle platformer this one",
+    "start": 63.48,
+    "duration": 2.84
+  },
+  {
+    "text": "we get chained into a giant ball but I",
+    "start": 64.839,
+    "duration": 2.721
+  },
+  {
+    "text": "ran out of time to play test it and make",
+    "start": 66.32,
+    "duration": 2.479
+  },
+  {
+    "text": "more mechanics so it ended up pretty",
+    "start": 67.56,
+    "duration": 4.0
+  },
+  {
+    "text": "flawed it placed 546 which is still",
+    "start": 68.799,
+    "duration": 4.0
+  },
+  {
+    "text": "pretty good but a little disappointing",
+    "start": 71.56,
+    "duration": 3.64
+  },
+  {
+    "text": "after the year before in the 2022 Jam",
+    "start": 72.799,
+    "duration": 4.281
+  },
+  {
+    "text": "the theme was roll of the dice my idea",
+    "start": 75.2,
+    "duration": 2.959
+  },
+  {
+    "text": "for this one was way too big for the",
+    "start": 77.08,
+    "duration": 2.96
+  },
+  {
+    "text": "time I had I ended up having to rework",
+    "start": 78.159,
+    "duration": 2.92
+  },
+  {
+    "text": "everything at the last minute to get",
+    "start": 80.04,
+    "duration": 2.28
+  },
+  {
+    "text": "something playable in time and I",
+    "start": 81.079,
+    "duration": 2.521
+  },
+  {
+    "text": "submitted a really boring game about",
+    "start": 82.32,
+    "duration": 3.119
+  },
+  {
+    "text": "pushing dice around that ranked",
+    "start": 83.6,
+    "duration": 3.92
+  },
+  {
+    "text": "2,718 which honestly was way better than",
+    "start": 85.439,
+    "duration": 4.161
+  },
+  {
+    "text": "it deserved three years in I felt like I",
+    "start": 87.52,
+    "duration": 3.72
+  },
+  {
+    "text": "learned and improved a lot but it hurt a",
+    "start": 89.6,
+    "duration": 2.96
+  },
+  {
+    "text": "ton to see my ratings getting worse and",
+    "start": 91.24,
+    "duration": 2.879
+  },
+  {
+    "text": "worse every year it almost felt like I",
+    "start": 92.56,
+    "duration": 3.04
+  },
+  {
+    "text": "had peaked a week into learning unity",
+    "start": 94.119,
+    "duration": 2.561
+  },
+  {
+    "text": "and I would never reach those Heights",
+    "start": 95.6,
+    "duration": 3.199
+  },
+  {
+    "text": "again in 2023 I was actually busy the",
+    "start": 96.68,
+    "duration": 3.439
+  },
+  {
+    "text": "week of the jam but if you think about",
+    "start": 98.799,
+    "duration": 2.481
+  },
+  {
+    "text": "it not submitting anything basically",
+    "start": 100.119,
+    "duration": 2.521
+  },
+  {
+    "text": "means I came in last place so I did even",
+    "start": 101.28,
+    "duration": 3.4
+  },
+  {
+    "text": "worse that year what the hell now",
+    "start": 102.64,
+    "duration": 3.64
+  },
+  {
+    "text": "winning or even raing well really isn't",
+    "start": 104.68,
+    "duration": 3.039
+  },
+  {
+    "text": "the point of game jams they're meant for",
+    "start": 106.28,
+    "duration": 2.839
+  },
+  {
+    "text": "fun to challenge yourself and to learn",
+    "start": 107.719,
+    "duration": 3.281
+  },
+  {
+    "text": "along the way more than that experts in",
+    "start": 109.119,
+    "duration": 3.561
+  },
+  {
+    "text": "any field will tell you that success is",
+    "start": 111.0,
+    "duration": 3.52
+  },
+  {
+    "text": "not a linear path it's a dance of",
+    "start": 112.68,
+    "duration": 3.439
+  },
+  {
+    "text": "failure and growth and change and you",
+    "start": 114.52,
+    "duration": 2.879
+  },
+  {
+    "text": "just have to keep on trying keep moving",
+    "start": 116.119,
+    "duration": 3.081
+  },
+  {
+    "text": "forward to achieve your goals but for me",
+    "start": 117.399,
+    "duration": 3.32
+  },
+  {
+    "text": "I was on a line path it was a linear",
+    "start": 119.2,
+    "duration": 3.0
+  },
+  {
+    "text": "path downwards here's the graph numbers",
+    "start": 120.719,
+    "duration": 2.72
+  },
+  {
+    "text": "getting worse and scary oh God what's",
+    "start": 122.2,
+    "duration": 3.16
+  },
+  {
+    "text": "happening this year heading into the",
+    "start": 123.439,
+    "duration": 4.36
+  },
+  {
+    "text": "gmtk game Jam 2024 I wanted things to",
+    "start": 125.36,
+    "duration": 4.28
+  },
+  {
+    "text": "change I've been making games as a hobby",
+    "start": 127.799,
+    "duration": 3.681
+  },
+  {
+    "text": "for a long time but for the past year",
+    "start": 129.64,
+    "duration": 3.599
+  },
+  {
+    "text": "I've devoted myself to one huge project",
+    "start": 131.48,
+    "duration": 3.44
+  },
+  {
+    "text": "I'm trying to release on Steam a puzzle",
+    "start": 133.239,
+    "duration": 3.36
+  },
+  {
+    "text": "platformer called inverted Journey which",
+    "start": 134.92,
+    "duration": 2.84
+  },
+  {
+    "text": "you should wish this on Steam by the way",
+    "start": 136.599,
+    "duration": 2.92
+  },
+  {
+    "text": "it's going to be great trust me working",
+    "start": 137.76,
+    "duration": 3.36
+  },
+  {
+    "text": "on such a huge project has dramatically",
+    "start": 139.519,
+    "duration": 3.161
+  },
+  {
+    "text": "improved My Game Dev skills and I feel a",
+    "start": 141.12,
+    "duration": 3.199
+  },
+  {
+    "text": "need to prove it I know I've gotten",
+    "start": 142.68,
+    "duration": 3.04
+  },
+  {
+    "text": "better than I once was and I know I",
+    "start": 144.319,
+    "duration": 3.081
+  },
+  {
+    "text": "could do better too looking back on that",
+    "start": 145.72,
+    "duration": 2.96
+  },
+  {
+    "text": "first game's ranking I knew I had a",
+    "start": 147.4,
+    "duration": 3.36
+  },
+  {
+    "text": "Target to beat so this year I joined the",
+    "start": 148.68,
+    "duration": 5.12
+  },
+  {
+    "text": "gmtk game Jam",
+    "start": 150.76,
+    "duration": 3.04
+  },
+  {
+    "text": "again the jam this year was 4 days long",
+    "start": 157.239,
+    "duration": 3.961
+  },
+  {
+    "text": "and I also had work on Monday and",
+    "start": 159.959,
+    "duration": 2.681
+  },
+  {
+    "text": "Tuesday so time was going to be pretty",
+    "start": 161.2,
+    "duration": 3.039
+  },
+  {
+    "text": "tight on the Friday the jam started",
+    "start": 162.64,
+    "duration": 3.56
+  },
+  {
+    "text": "everyone crowded around the Reveal video",
+    "start": 164.239,
+    "duration": 3.201
+  },
+  {
+    "text": "eager to learn the theme and start",
+    "start": 166.2,
+    "duration": 3.64
+  },
+  {
+    "text": "development except for me I was at work",
+    "start": 167.44,
+    "duration": 3.92
+  },
+  {
+    "text": "but when I got off at 5: I checked the",
+    "start": 169.84,
+    "duration": 3.08
+  },
+  {
+    "text": "video and the theme this year was built",
+    "start": 171.36,
+    "duration": 3.959
+  },
+  {
+    "text": "to scale my first idea was for a",
+    "start": 172.92,
+    "duration": 3.92
+  },
+  {
+    "text": "platformer where you play as a character",
+    "start": 175.319,
+    "duration": 3.601
+  },
+  {
+    "text": "that can change size in my head I got",
+    "start": 176.84,
+    "duration": 3.44
+  },
+  {
+    "text": "stuck on this image of a puffer fish",
+    "start": 178.92,
+    "duration": 3.44
+  },
+  {
+    "text": "character that could puff up and grow",
+    "start": 180.28,
+    "duration": 3.319
+  },
+  {
+    "text": "and maybe the force of them puffing up",
+    "start": 182.36,
+    "duration": 2.599
+  },
+  {
+    "text": "could launch boxes around or get them",
+    "start": 183.599,
+    "duration": 3.081
+  },
+  {
+    "text": "stuck in tight spaces maybe the push",
+    "start": 184.959,
+    "duration": 2.92
+  },
+  {
+    "text": "could be physically accurate and and",
+    "start": 186.68,
+    "duration": 2.72
+  },
+  {
+    "text": "part an equal force against you so if",
+    "start": 187.879,
+    "duration": 2.801
+  },
+  {
+    "text": "you do it against Solid Ground it'll",
+    "start": 189.4,
+    "duration": 3.0
+  },
+  {
+    "text": "actually push you away instead kind of",
+    "start": 190.68,
+    "duration": 3.559
+  },
+  {
+    "text": "like a physics based jump or wall jump",
+    "start": 192.4,
+    "duration": 3.399
+  },
+  {
+    "text": "as I thought through some level ideas",
+    "start": 194.239,
+    "duration": 2.401
+  },
+  {
+    "text": "the game headed towards puzzle",
+    "start": 195.799,
+    "duration": 2.44
+  },
+  {
+    "text": "platformer territory which I was cool",
+    "start": 196.64,
+    "duration": 4.2
+  },
+  {
+    "text": "with I've made uh a couple of those in",
+    "start": 198.239,
+    "duration": 3.761
+  },
+  {
+    "text": "the past and I've been making one for",
+    "start": 200.84,
+    "duration": 2.759
+  },
+  {
+    "text": "the past year which you should wish L on",
+    "start": 202.0,
+    "duration": 2.959
+  },
+  {
+    "text": "Ste by the way and I just like making",
+    "start": 203.599,
+    "duration": 2.881
+  },
+  {
+    "text": "puzzle Platformers sometimes okay sue me",
+    "start": 204.959,
+    "duration": 2.28
+  },
+  {
+    "text": "I don't have a problem you have a",
+    "start": 206.48,
+    "duration": 2.64
+  },
+  {
+    "text": "problem shut up there was an issue with",
+    "start": 207.239,
+    "duration": 3.161
+  },
+  {
+    "text": "this idea though",
+    "start": 209.12,
+    "duration": 2.679
+  },
+  {
+    "text": "I was planning on making this game in",
+    "start": 210.4,
+    "duration": 3.32
+  },
+  {
+    "text": "unity and while unity's physics system",
+    "start": 211.799,
+    "duration": 3.601
+  },
+  {
+    "text": "does allow you to resize objects it",
+    "start": 213.72,
+    "duration": 3.04
+  },
+  {
+    "text": "can't do it in a way that my game idea",
+    "start": 215.4,
+    "duration": 3.68
+  },
+  {
+    "text": "would really want it to in unity",
+    "start": 216.76,
+    "duration": 3.92
+  },
+  {
+    "text": "changing the scale of a physics object",
+    "start": 219.08,
+    "duration": 3.079
+  },
+  {
+    "text": "will just instantly resize it while",
+    "start": 220.68,
+    "duration": 3.479
+  },
+  {
+    "text": "ignoring physics and collisions often",
+    "start": 222.159,
+    "duration": 3.401
+  },
+  {
+    "text": "leaving the object half inside the",
+    "start": 224.159,
+    "duration": 3.761
+  },
+  {
+    "text": "things around it when this happens Unity",
+    "start": 225.56,
+    "duration": 3.84
+  },
+  {
+    "text": "tries to push things around so they stop",
+    "start": 227.92,
+    "duration": 3.12
+  },
+  {
+    "text": "intersecting but the results look",
+    "start": 229.4,
+    "duration": 3.64
+  },
+  {
+    "text": "terrible don't impart a notable forces",
+    "start": 231.04,
+    "duration": 3.52
+  },
+  {
+    "text": "like my idea would want and they break",
+    "start": 233.04,
+    "duration": 3.44
+  },
+  {
+    "text": "all the time the problem here is that",
+    "start": 234.56,
+    "duration": 3.599
+  },
+  {
+    "text": "Unity uses what's called rigid body",
+    "start": 236.48,
+    "duration": 3.28
+  },
+  {
+    "text": "physics which means every physics object",
+    "start": 238.159,
+    "duration": 3.401
+  },
+  {
+    "text": "object in the engine is a static shape",
+    "start": 239.76,
+    "duration": 3.559
+  },
+  {
+    "text": "that can move and rotate but can't",
+    "start": 241.56,
+    "duration": 3.44
+  },
+  {
+    "text": "change its size or shape as part of the",
+    "start": 243.319,
+    "duration": 3.84
+  },
+  {
+    "text": "physics calculations this is good for",
+    "start": 245.0,
+    "duration": 3.48
+  },
+  {
+    "text": "performance and more than good enough",
+    "start": 247.159,
+    "duration": 3.16
+  },
+  {
+    "text": "for most games but for my idea it just",
+    "start": 248.48,
+    "duration": 3.56
+  },
+  {
+    "text": "wasn't compatible but a few years ago I",
+    "start": 250.319,
+    "duration": 2.881
+  },
+  {
+    "text": "had watched this really great YouTube",
+    "start": 252.04,
+    "duration": 2.72
+  },
+  {
+    "text": "video from the creator of the game jelly",
+    "start": 253.2,
+    "duration": 3.279
+  },
+  {
+    "text": "car about how he got the physics working",
+    "start": 254.76,
+    "duration": 3.759
+  },
+  {
+    "text": "in his game jelly car uses what's called",
+    "start": 256.479,
+    "duration": 4.04
+  },
+  {
+    "text": "a soft body physics system which means",
+    "start": 258.519,
+    "duration": 3.721
+  },
+  {
+    "text": "it has physics objects that can deform",
+    "start": 260.519,
+    "duration": 3.041
+  },
+  {
+    "text": "and change shape when they're acted on",
+    "start": 262.24,
+    "duration": 3.36
+  },
+  {
+    "text": "by forces what's better the game even",
+    "start": 263.56,
+    "duration": 3.44
+  },
+  {
+    "text": "has a power up that lets you grow your",
+    "start": 265.6,
+    "duration": 3.0
+  },
+  {
+    "text": "car to make it bigger in a way that's",
+    "start": 267.0,
+    "duration": 3.24
+  },
+  {
+    "text": "entirely physics based",
+    "start": 268.6,
+    "duration": 2.879
+  },
+  {
+    "text": "of course all those years ago when I",
+    "start": 270.24,
+    "duration": 2.84
+  },
+  {
+    "text": "first watched that video I felt really",
+    "start": 271.479,
+    "duration": 3.121
+  },
+  {
+    "text": "inspired and wanted to make my own soft",
+    "start": 273.08,
+    "duration": 3.48
+  },
+  {
+    "text": "body game so I tried making one in unity",
+    "start": 274.6,
+    "duration": 3.439
+  },
+  {
+    "text": "at the time and it failed horribly",
+    "start": 276.56,
+    "duration": 3.32
+  },
+  {
+    "text": "didn't work at all and I gave up but",
+    "start": 278.039,
+    "duration": 3.241
+  },
+  {
+    "text": "it's been a while since I've tried that",
+    "start": 279.88,
+    "duration": 2.8
+  },
+  {
+    "text": "I've improved a lot and I think this",
+    "start": 281.28,
+    "duration": 2.639
+  },
+  {
+    "text": "time I have some ideas on how I can make",
+    "start": 282.68,
+    "duration": 3.359
+  },
+  {
+    "text": "it work so I jumped right into it mostly",
+    "start": 283.919,
+    "duration": 3.201
+  },
+  {
+    "text": "because I still wasn't sure this would",
+    "start": 286.039,
+    "duration": 2.481
+  },
+  {
+    "text": "work at all and I needed to figure that",
+    "start": 287.12,
+    "duration": 3.28
+  },
+  {
+    "text": "out right away I spent a while diving",
+    "start": 288.52,
+    "duration": 3.48
+  },
+  {
+    "text": "into that jelly cart video and I also",
+    "start": 290.4,
+    "duration": 3.44
+  },
+  {
+    "text": "found a bunch of unity tutorials on soft",
+    "start": 292.0,
+    "duration": 4.08
+  },
+  {
+    "text": "bodies the jelly car video was great but",
+    "start": 293.84,
+    "duration": 3.56
+  },
+  {
+    "text": "it explains a physics system built from",
+    "start": 296.08,
+    "duration": 3.16
+  },
+  {
+    "text": "the ground up to use soft bodies and you",
+    "start": 297.4,
+    "duration": 3.56
+  },
+  {
+    "text": "need definit is not one of those the",
+    "start": 299.24,
+    "duration": 3.36
+  },
+  {
+    "text": "soft body tutorials I found did",
+    "start": 300.96,
+    "duration": 3.28
+  },
+  {
+    "text": "integrate with unity physics but they",
+    "start": 302.6,
+    "duration": 2.76
+  },
+  {
+    "text": "pretty explicitly mentioned that their",
+    "start": 304.24,
+    "duration": 2.679
+  },
+  {
+    "text": "Solutions were inconsistent and might",
+    "start": 305.36,
+    "duration": 3.72
+  },
+  {
+    "text": "break at any time but by combining ideas",
+    "start": 306.919,
+    "duration": 3.481
+  },
+  {
+    "text": "from these videos and experimenting with",
+    "start": 309.08,
+    "duration": 3.64
+  },
+  {
+    "text": "my own methods I eventually landed on",
+    "start": 310.4,
+    "duration": 4.48
+  },
+  {
+    "text": "this it doesn't look like much but trust",
+    "start": 312.72,
+    "duration": 4.36
+  },
+  {
+    "text": "me this is great you can use a and d to",
+    "start": 314.88,
+    "duration": 3.72
+  },
+  {
+    "text": "move around and when you press space the",
+    "start": 317.08,
+    "duration": 3.559
+  },
+  {
+    "text": "player will blow up and grow big if I",
+    "start": 318.6,
+    "duration": 3.52
+  },
+  {
+    "text": "add a physics object I can push it",
+    "start": 320.639,
+    "duration": 3.28
+  },
+  {
+    "text": "around with the growing process if I",
+    "start": 322.12,
+    "duration": 3.24
+  },
+  {
+    "text": "grow on the ground it'll push me away",
+    "start": 323.919,
+    "duration": 3.081
+  },
+  {
+    "text": "instead and if I grow in a tight space",
+    "start": 325.36,
+    "duration": 3.08
+  },
+  {
+    "text": "the player will even grow around corners",
+    "start": 327.0,
+    "duration": 2.96
+  },
+  {
+    "text": "and to form in a way that looks great",
+    "start": 328.44,
+    "duration": 2.92
+  },
+  {
+    "text": "here's how this works under the hood",
+    "start": 329.96,
+    "duration": 2.92
+  },
+  {
+    "text": "when the game starts the player script",
+    "start": 331.36,
+    "duration": 3.24
+  },
+  {
+    "text": "spawns in 10 points in a circle pattern",
+    "start": 332.88,
+    "duration": 3.48
+  },
+  {
+    "text": "like this each of these are set to be",
+    "start": 334.6,
+    "duration": 3.68
+  },
+  {
+    "text": "normal rigid circles using un physics",
+    "start": 336.36,
+    "duration": 3.16
+  },
+  {
+    "text": "though they're set to ignore collisions",
+    "start": 338.28,
+    "duration": 2.68
+  },
+  {
+    "text": "with each other in order to make sure",
+    "start": 339.52,
+    "duration": 2.76
+  },
+  {
+    "text": "that these points will stay together and",
+    "start": 340.96,
+    "duration": 2.48
+  },
+  {
+    "text": "in more or less the same shape",
+    "start": 342.28,
+    "duration": 2.6
+  },
+  {
+    "text": "throughout the game I then add Unity",
+    "start": 343.44,
+    "duration": 3.4
+  },
+  {
+    "text": "spring joints between all the points",
+    "start": 344.88,
+    "duration": 3.48
+  },
+  {
+    "text": "Springs are essentially just forces that",
+    "start": 346.84,
+    "duration": 2.76
+  },
+  {
+    "text": "want to keep two objects a certain",
+    "start": 348.36,
+    "duration": 3.279
+  },
+  {
+    "text": "distance apart by adding Springs between",
+    "start": 349.6,
+    "duration": 3.599
+  },
+  {
+    "text": "all these points they'll constantly have",
+    "start": 351.639,
+    "duration": 2.881
+  },
+  {
+    "text": "forces pushing them back to the shape",
+    "start": 353.199,
+    "duration": 2.961
+  },
+  {
+    "text": "they started as giving the illusion of",
+    "start": 354.52,
+    "duration": 3.64
+  },
+  {
+    "text": "one larger shape what's even better any",
+    "start": 356.16,
+    "duration": 3.28
+  },
+  {
+    "text": "force that pushes on one of the points",
+    "start": 358.16,
+    "duration": 2.72
+  },
+  {
+    "text": "in the in the shape will move it and",
+    "start": 359.44,
+    "duration": 2.8
+  },
+  {
+    "text": "compress the Springs heading to every",
+    "start": 360.88,
+    "duration": 2.84
+  },
+  {
+    "text": "other point in the shape meaning any",
+    "start": 362.24,
+    "duration": 3.0
+  },
+  {
+    "text": "forces applied to any of the points will",
+    "start": 363.72,
+    "duration": 3.319
+  },
+  {
+    "text": "be distributed across the whole shape",
+    "start": 365.24,
+    "duration": 3.44
+  },
+  {
+    "text": "this looks great but now we need it to",
+    "start": 367.039,
+    "duration": 3.961
+  },
+  {
+    "text": "grow luckily this part is pretty simple",
+    "start": 368.68,
+    "duration": 3.84
+  },
+  {
+    "text": "when the player holds the space bar are",
+    "start": 371.0,
+    "duration": 3.039
+  },
+  {
+    "text": "really big forces added to every point",
+    "start": 372.52,
+    "duration": 3.0
+  },
+  {
+    "text": "in the shape pointing outwards from the",
+    "start": 374.039,
+    "duration": 3.121
+  },
+  {
+    "text": "center this causes all the points to",
+    "start": 375.52,
+    "duration": 3.16
+  },
+  {
+    "text": "shoot outwards up until they get far",
+    "start": 377.16,
+    "duration": 2.72
+  },
+  {
+    "text": "enough that the spring force is holding",
+    "start": 378.68,
+    "duration": 3.079
+  },
+  {
+    "text": "the shape together overcome that static",
+    "start": 379.88,
+    "duration": 4.2
+  },
+  {
+    "text": "outward force that huge Force pushing",
+    "start": 381.759,
+    "duration": 3.481
+  },
+  {
+    "text": "outwards is what gives the growing",
+    "start": 384.08,
+    "duration": 2.839
+  },
+  {
+    "text": "motion so much power since it sends all",
+    "start": 385.24,
+    "duration": 3.399
+  },
+  {
+    "text": "the circles rocketing out letting them",
+    "start": 386.919,
+    "duration": 3.12
+  },
+  {
+    "text": "push against boxes and the ground with",
+    "start": 388.639,
+    "duration": 3.161
+  },
+  {
+    "text": "tons of force and because of Newton's",
+    "start": 390.039,
+    "duration": 3.44
+  },
+  {
+    "text": "third law anytime you push against",
+    "start": 391.8,
+    "duration": 3.119
+  },
+  {
+    "text": "something an equal force is applied in",
+    "start": 393.479,
+    "duration": 2.84
+  },
+  {
+    "text": "the opposite direction letting you",
+    "start": 394.919,
+    "duration": 3.161
+  },
+  {
+    "text": "launch yourself like I wanted next we",
+    "start": 396.319,
+    "duration": 3.0
+  },
+  {
+    "text": "need the ability to move around with the",
+    "start": 398.08,
+    "duration": 3.239
+  },
+  {
+    "text": "A and B keys this works the way most",
+    "start": 399.319,
+    "duration": 3.561
+  },
+  {
+    "text": "games do where you just accelerate the",
+    "start": 401.319,
+    "duration": 2.961
+  },
+  {
+    "text": "player's horizontal velocity according",
+    "start": 402.88,
+    "duration": 3.039
+  },
+  {
+    "text": "to the inputs with the only difference",
+    "start": 404.28,
+    "duration": 3.319
+  },
+  {
+    "text": "being that for my game I accelerate all",
+    "start": 405.919,
+    "duration": 3.4
+  },
+  {
+    "text": "10 of the points simultaneously because",
+    "start": 407.599,
+    "duration": 3.241
+  },
+  {
+    "text": "the player has 10 colliders and not just",
+    "start": 409.319,
+    "duration": 3.521
+  },
+  {
+    "text": "one with this we have most of what we",
+    "start": 410.84,
+    "duration": 3.96
+  },
+  {
+    "text": "need but there's a few issues the spring",
+    "start": 412.84,
+    "duration": 3.28
+  },
+  {
+    "text": "forces are pretty good at maintaining a",
+    "start": 414.8,
+    "duration": 2.839
+  },
+  {
+    "text": "circular shape but they can fail pretty",
+    "start": 416.12,
+    "duration": 3.56
+  },
+  {
+    "text": "horribly in some edge cases if I fall",
+    "start": 417.639,
+    "duration": 3.441
+  },
+  {
+    "text": "really hard against the floor here the",
+    "start": 419.68,
+    "duration": 3.44
+  },
+  {
+    "text": "player glows Splat forever and will",
+    "start": 421.08,
+    "duration": 3.92
+  },
+  {
+    "text": "never get up until I grow again this is",
+    "start": 423.12,
+    "duration": 3.359
+  },
+  {
+    "text": "pretty funny looking but not that great",
+    "start": 425.0,
+    "duration": 2.879
+  },
+  {
+    "text": "since it kind of looks like it died the",
+    "start": 426.479,
+    "duration": 2.761
+  },
+  {
+    "text": "problem here is that the Springs only",
+    "start": 427.879,
+    "duration": 2.88
+  },
+  {
+    "text": "push the points to be closer or further",
+    "start": 429.24,
+    "duration": 3.16
+  },
+  {
+    "text": "apart from other points so when they're",
+    "start": 430.759,
+    "duration": 2.88
+  },
+  {
+    "text": "all on the line like this it's",
+    "start": 432.4,
+    "duration": 2.84
+  },
+  {
+    "text": "impossible for the Springs to push any",
+    "start": 433.639,
+    "duration": 3.481
+  },
+  {
+    "text": "points back upwards out of the floor to",
+    "start": 435.24,
+    "duration": 3.76
+  },
+  {
+    "text": "solve this problem I added a secondary",
+    "start": 437.12,
+    "duration": 3.4
+  },
+  {
+    "text": "custom spring force that keeps track of",
+    "start": 439.0,
+    "duration": 3.12
+  },
+  {
+    "text": "where each point spawn relative to the",
+    "start": 440.52,
+    "duration": 3.28
+  },
+  {
+    "text": "center of the shape and then adds a",
+    "start": 442.12,
+    "duration": 3.28
+  },
+  {
+    "text": "force pushing that point back towards",
+    "start": 443.8,
+    "duration": 3.36
+  },
+  {
+    "text": "that position relative to the player's",
+    "start": 445.4,
+    "duration": 4.12
+  },
+  {
+    "text": "current Center every physic step now the",
+    "start": 447.16,
+    "duration": 3.92
+  },
+  {
+    "text": "player can still Splat but then they'll",
+    "start": 449.52,
+    "duration": 2.84
+  },
+  {
+    "text": "get back up in a way that looks pretty",
+    "start": 451.08,
+    "duration": 3.2
+  },
+  {
+    "text": "good after that I spent a good amount of",
+    "start": 452.36,
+    "duration": 3.36
+  },
+  {
+    "text": "time tuning all the numbers for the",
+    "start": 454.28,
+    "duration": 3.28
+  },
+  {
+    "text": "Springs forces and movement acceleration",
+    "start": 455.72,
+    "duration": 3.159
+  },
+  {
+    "text": "to make sure that all the movement felt",
+    "start": 457.56,
+    "duration": 3.56
+  },
+  {
+    "text": "really responsive and fun probably my",
+    "start": 458.879,
+    "duration": 3.521
+  },
+  {
+    "text": "favorite change during this time was",
+    "start": 461.12,
+    "duration": 2.88
+  },
+  {
+    "text": "making the gravity stronger but only",
+    "start": 462.4,
+    "duration": 3.359
+  },
+  {
+    "text": "when you're already moving downwards",
+    "start": 464.0,
+    "duration": 2.8
+  },
+  {
+    "text": "this is a trick that a lot of",
+    "start": 465.759,
+    "duration": 2.56
+  },
+  {
+    "text": "Platformers do to make the controls feel",
+    "start": 466.8,
+    "duration": 2.839
+  },
+  {
+    "text": "more responsive and it worked really",
+    "start": 468.319,
+    "duration": 3.081
+  },
+  {
+    "text": "well here still it's worth noting that",
+    "start": 469.639,
+    "duration": 3.96
+  },
+  {
+    "text": "this solution isn't perfect by any means",
+    "start": 471.4,
+    "duration": 3.56
+  },
+  {
+    "text": "probably the biggest issue is that the",
+    "start": 473.599,
+    "duration": 2.761
+  },
+  {
+    "text": "circles are the only colliders for the",
+    "start": 474.96,
+    "duration": 3.32
+  },
+  {
+    "text": "entire thing which means that any super",
+    "start": 476.36,
+    "duration": 3.679
+  },
+  {
+    "text": "thin platform that can fit between them",
+    "start": 478.28,
+    "duration": 4.08
+  },
+  {
+    "text": "will just straight up pass through you",
+    "start": 480.039,
+    "duration": 3.761
+  },
+  {
+    "text": "my solution for this problem was just to",
+    "start": 482.36,
+    "duration": 2.839
+  },
+  {
+    "text": "not make any thin Platforms in the",
+    "start": 483.8,
+    "duration": 3.399
+  },
+  {
+    "text": "entire game honestly this was incredibly",
+    "start": 485.199,
+    "duration": 3.4
+  },
+  {
+    "text": "workable and it was a great way to save",
+    "start": 487.199,
+    "duration": 3.4
+  },
+  {
+    "text": "the time it would take to fix this in",
+    "start": 488.599,
+    "duration": 3.801
+  },
+  {
+    "text": "the whole Jam I got one comment that ran",
+    "start": 490.599,
+    "duration": 3.32
+  },
+  {
+    "text": "into this issue and the image they sent",
+    "start": 492.4,
+    "duration": 2.799
+  },
+  {
+    "text": "about it was really funny so it was",
+    "start": 493.919,
+    "duration": 3.28
+  },
+  {
+    "text": "worth it the problem that I should",
+    "start": 495.199,
+    "duration": 3.321
+  },
+  {
+    "text": "actually probably fix is that I'm",
+    "start": 497.199,
+    "duration": 2.481
+  },
+  {
+    "text": "supposed to be making a game about a",
+    "start": 498.52,
+    "duration": 2.84
+  },
+  {
+    "text": "player that grows and right now it's",
+    "start": 499.68,
+    "duration": 3.04
+  },
+  {
+    "text": "about a bunch of circles that just move",
+    "start": 501.36,
+    "duration": 3.119
+  },
+  {
+    "text": "around so it's time to add some art and",
+    "start": 502.72,
+    "duration": 3.919
+  },
+  {
+    "text": "really make this come together the first",
+    "start": 504.479,
+    "duration": 4.28
+  },
+  {
+    "text": "thing I did was give it a face a couple",
+    "start": 506.639,
+    "duration": 3.68
+  },
+  {
+    "text": "weeks before the gym I'd come across",
+    "start": 508.759,
+    "duration": 3.041
+  },
+  {
+    "text": "this cool infographic about Japanese",
+    "start": 510.319,
+    "duration": 3.241
+  },
+  {
+    "text": "emoticons which is the word for when you",
+    "start": 511.8,
+    "duration": 3.919
+  },
+  {
+    "text": "make faces out of text like these I",
+    "start": 513.56,
+    "duration": 3.399
+  },
+  {
+    "text": "thought these were really cute and it's",
+    "start": 515.719,
+    "duration": 2.88
+  },
+  {
+    "text": "really easy to add text in unity so",
+    "start": 516.959,
+    "duration": 3.44
+  },
+  {
+    "text": "Behold our collection of circles is",
+    "start": 518.599,
+    "duration": 4.36
+  },
+  {
+    "text": "officially sentient I want to use more",
+    "start": 520.399,
+    "duration": 3.801
+  },
+  {
+    "text": "than just one face out of all these",
+    "start": 522.959,
+    "duration": 3.041
+  },
+  {
+    "text": "options so on a whim I decided to make",
+    "start": 524.2,
+    "duration": 3.24
+  },
+  {
+    "text": "him change his expression when he puffs",
+    "start": 526.0,
+    "duration": 2.76
+  },
+  {
+    "text": "up so it kind of looks like he's holding",
+    "start": 527.44,
+    "duration": 3.32
+  },
+  {
+    "text": "his breath in to stay big and Wow it",
+    "start": 528.76,
+    "duration": 4.92
+  },
+  {
+    "text": "looked awesome and I love him now great",
+    "start": 530.76,
+    "duration": 4.079
+  },
+  {
+    "text": "up next I really have to hide these",
+    "start": 533.68,
+    "duration": 3.32
+  },
+  {
+    "text": "circles my original idea was to have you",
+    "start": 534.839,
+    "duration": 3.56
+  },
+  {
+    "text": "play as a puffer fish but after",
+    "start": 537.0,
+    "duration": 2.48
+  },
+  {
+    "text": "implementing the physics it's it's",
+    "start": 538.399,
+    "duration": 2.921
+  },
+  {
+    "text": "looking a little too fluid for that so I",
+    "start": 539.48,
+    "duration": 3.16
+  },
+  {
+    "text": "decided to switch the main character to",
+    "start": 541.32,
+    "duration": 3.28
+  },
+  {
+    "text": "a slime instead partially because that",
+    "start": 542.64,
+    "duration": 4.16
+  },
+  {
+    "text": "would be way easier to draw one of the",
+    "start": 544.6,
+    "duration": 4.28
+  },
+  {
+    "text": "tutorials I found use Unity Sprite shape",
+    "start": 546.8,
+    "duration": 3.599
+  },
+  {
+    "text": "to make slime characters so I just stole",
+    "start": 548.88,
+    "duration": 3.36
+  },
+  {
+    "text": "that idea pretty much all it took was",
+    "start": 550.399,
+    "duration": 3.281
+  },
+  {
+    "text": "some Vector math to reassign to Sprite",
+    "start": 552.24,
+    "duration": 2.839
+  },
+  {
+    "text": "shapes points and normals to match the",
+    "start": 553.68,
+    "duration": 3.36
+  },
+  {
+    "text": "points in the shape and damn that looks",
+    "start": 555.079,
+    "duration": 3.521
+  },
+  {
+    "text": "great and it required very little work",
+    "start": 557.04,
+    "duration": 3.12
+  },
+  {
+    "text": "God I love everything thank you random",
+    "start": 558.6,
+    "duration": 2.919
+  },
+  {
+    "text": "YouTube tutorial I mean it pretty",
+    "start": 560.16,
+    "duration": 2.679
+  },
+  {
+    "text": "clearly has some bugs but I can figure",
+    "start": 561.519,
+    "duration": 2.961
+  },
+  {
+    "text": "that out later at this point it's 4:00",
+    "start": 562.839,
+    "duration": 4.641
+  },
+  {
+    "text": "a.m. I need to sleep and I hit the",
+    "start": 564.48,
+    "duration": 5.44
+  },
+  {
+    "text": "hey the next morning I sat down at my",
+    "start": 567.48,
+    "duration": 4.0
+  },
+  {
+    "text": "desk and yeah the Sprite shape thing was",
+    "start": 569.92,
+    "duration": 3.0
+  },
+  {
+    "text": "too good to be true those bugs I",
+    "start": 571.48,
+    "duration": 3.32
+  },
+  {
+    "text": "mentioned are pretty bad Sprite shape is",
+    "start": 572.92,
+    "duration": 3.159
+  },
+  {
+    "text": "mostly designed for adding art to",
+    "start": 574.8,
+    "duration": 3.0
+  },
+  {
+    "text": "statically shaped objects not for this",
+    "start": 576.079,
+    "duration": 3.561
+  },
+  {
+    "text": "crazy soft simulation that goes all over",
+    "start": 577.8,
+    "duration": 3.68
+  },
+  {
+    "text": "the place constantly the core issue is",
+    "start": 579.64,
+    "duration": 3.04
+  },
+  {
+    "text": "it doesn't like rendering when the",
+    "start": 581.48,
+    "duration": 2.32
+  },
+  {
+    "text": "points you give it are too close",
+    "start": 582.68,
+    "duration": 2.96
+  },
+  {
+    "text": "together when this happens it reacts one",
+    "start": 583.8,
+    "duration": 3.96
+  },
+  {
+    "text": "of two ways either it refuses to accept",
+    "start": 585.64,
+    "duration": 3.52
+  },
+  {
+    "text": "the new points I gave it and it stays",
+    "start": 587.76,
+    "duration": 3.079
+  },
+  {
+    "text": "where it was lagging behind the player",
+    "start": 589.16,
+    "duration": 3.2
+  },
+  {
+    "text": "or it bugs out even worse and stops",
+    "start": 590.839,
+    "duration": 3.801
+  },
+  {
+    "text": "rendering entirely for a while these are",
+    "start": 592.36,
+    "duration": 3.96
+  },
+  {
+    "text": "both pretty bad because both situations",
+    "start": 594.64,
+    "duration": 3.56
+  },
+  {
+    "text": "Reveal Your naked Circle body and people",
+    "start": 596.32,
+    "duration": 2.759
+  },
+  {
+    "text": "won't know what they're looking at when",
+    "start": 598.2,
+    "duration": 3.16
+  },
+  {
+    "text": "they that I spent a while trying to get",
+    "start": 599.079,
+    "duration": 3.921
+  },
+  {
+    "text": "it to work properly before I ultimately",
+    "start": 601.36,
+    "duration": 3.039
+  },
+  {
+    "text": "decided that I needed to try another",
+    "start": 603.0,
+    "duration": 3.24
+  },
+  {
+    "text": "solution I needed a way to cover up all",
+    "start": 604.399,
+    "duration": 3.321
+  },
+  {
+    "text": "the circle points to form a continuous",
+    "start": 606.24,
+    "duration": 3.0
+  },
+  {
+    "text": "shape so I dove into learning how to",
+    "start": 607.72,
+    "duration": 3.28
+  },
+  {
+    "text": "make arbitrary polygons using code in",
+    "start": 609.24,
+    "duration": 3.52
+  },
+  {
+    "text": "unity and I stumbled into unity's mes",
+    "start": 611.0,
+    "duration": 3.839
+  },
+  {
+    "text": "rendering system after doing a bunch of",
+    "start": 612.76,
+    "duration": 3.8
+  },
+  {
+    "text": "learning about 3D meshes I eventually",
+    "start": 614.839,
+    "duration": 3.24
+  },
+  {
+    "text": "made a new script that just renders a",
+    "start": 616.56,
+    "duration": 2.959
+  },
+  {
+    "text": "simple polygon onto the points that the",
+    "start": 618.079,
+    "duration": 3.361
+  },
+  {
+    "text": "spray shape system was using this never",
+    "start": 619.519,
+    "duration": 3.361
+  },
+  {
+    "text": "breaks and consistently covers up the",
+    "start": 621.44,
+    "duration": 3.28
+  },
+  {
+    "text": "circles in a way that makes sense but it",
+    "start": 622.88,
+    "duration": 3.16
+  },
+  {
+    "text": "didn't look as nice as Sprite shape",
+    "start": 624.72,
+    "duration": 2.559
+  },
+  {
+    "text": "since that had the advantage of pretty",
+    "start": 626.04,
+    "duration": 2.6
+  },
+  {
+    "text": "looking bezier curves to give a more",
+    "start": 627.279,
+    "duration": 2.56
+  },
+  {
+    "text": "rounded shape",
+    "start": 628.64,
+    "duration": 2.439
+  },
+  {
+    "text": "I didn't want to waste any more time",
+    "start": 629.839,
+    "duration": 3.0
+  },
+  {
+    "text": "improving the polygon solution since I",
+    "start": 631.079,
+    "duration": 3.0
+  },
+  {
+    "text": "really need to get on to making this an",
+    "start": 632.839,
+    "duration": 3.041
+  },
+  {
+    "text": "actual video game so instead I made a",
+    "start": 634.079,
+    "duration": 4.2
+  },
+  {
+    "text": "compromise and I just use both basically",
+    "start": 635.88,
+    "duration": 3.759
+  },
+  {
+    "text": "both the Sprite shape and the polygon",
+    "start": 638.279,
+    "duration": 3.041
+  },
+  {
+    "text": "attempt to render every frame if",
+    "start": 639.639,
+    "duration": 3.401
+  },
+  {
+    "text": "everything goes well the player will see",
+    "start": 641.32,
+    "duration": 3.36
+  },
+  {
+    "text": "the pretty Sprite shape solution but if",
+    "start": 643.04,
+    "duration": 3.08
+  },
+  {
+    "text": "that fails the polygon will be there to",
+    "start": 644.68,
+    "duration": 3.399
+  },
+  {
+    "text": "back it up and cover the circles this",
+    "start": 646.12,
+    "duration": 3.44
+  },
+  {
+    "text": "cuts off the worst case scenario of the",
+    "start": 648.079,
+    "duration": 3.241
+  },
+  {
+    "text": "player just not rendering and ensures",
+    "start": 649.56,
+    "duration": 3.16
+  },
+  {
+    "text": "that something reasonable will always be",
+    "start": 651.32,
+    "duration": 3.639
+  },
+  {
+    "text": "shown there is still one visual bug",
+    "start": 652.72,
+    "duration": 3.559
+  },
+  {
+    "text": "where the Sprite shape can render but",
+    "start": 654.959,
+    "duration": 2.841
+  },
+  {
+    "text": "lag behind the player which leads to",
+    "start": 656.279,
+    "duration": 3.401
+  },
+  {
+    "text": "this mildly gross tearing effect but it",
+    "start": 657.8,
+    "duration": 3.24
+  },
+  {
+    "text": "looks reasonable enough then I'm going",
+    "start": 659.68,
+    "duration": 2.48
+  },
+  {
+    "text": "to just leave it for now and hopefully I",
+    "start": 661.04,
+    "duration": 3.28
+  },
+  {
+    "text": "can fix it later also because of sprite",
+    "start": 662.16,
+    "duration": 3.56
+  },
+  {
+    "text": "shape my console now looks like this",
+    "start": 664.32,
+    "duration": 2.72
+  },
+  {
+    "text": "anytime I run the game but it's a game",
+    "start": 665.72,
+    "duration": 2.76
+  },
+  {
+    "text": "Jam game it'll be fine I'll fix it later",
+    "start": 667.04,
+    "duration": 2.56
+  },
+  {
+    "text": "trust me don't worry about it I'll",
+    "start": 668.48,
+    "duration": 2.44
+  },
+  {
+    "text": "definitely fix it",
+    "start": 669.6,
+    "duration": 3.919
+  },
+  {
+    "text": "100% okay at this point I really need to",
+    "start": 670.92,
+    "duration": 4.56
+  },
+  {
+    "text": "make this a video game I start by adding",
+    "start": 673.519,
+    "duration": 3.601
+  },
+  {
+    "text": "a goal to the game which is to collect a",
+    "start": 675.48,
+    "duration": 3.039
+  },
+  {
+    "text": "star in each level to move on to the",
+    "start": 677.12,
+    "duration": 3.08
+  },
+  {
+    "text": "next and I add some level transition",
+    "start": 678.519,
+    "duration": 3.12
+  },
+  {
+    "text": "scripts to handle that game logic as",
+    "start": 680.2,
+    "duration": 3.199
+  },
+  {
+    "text": "well I block out the first level of the",
+    "start": 681.639,
+    "duration": 3.44
+  },
+  {
+    "text": "game which is a simple level met teach",
+    "start": 683.399,
+    "duration": 3.361
+  },
+  {
+    "text": "how growing can help you jump and I",
+    "start": 685.079,
+    "duration": 2.921
+  },
+  {
+    "text": "figure I should probably settle on the",
+    "start": 686.76,
+    "duration": 3.12
+  },
+  {
+    "text": "art style now so I can implement it as I",
+    "start": 688.0,
+    "duration": 3.36
+  },
+  {
+    "text": "go I don't know if you could tell from",
+    "start": 689.88,
+    "duration": 2.639
+  },
+  {
+    "text": "the fact that I gave up so quickly on",
+    "start": 691.36,
+    "duration": 3.0
+  },
+  {
+    "text": "the Pu fish idea but I'm definitely not",
+    "start": 692.519,
+    "duration": 3.721
+  },
+  {
+    "text": "an artist most of the games I've made",
+    "start": 694.36,
+    "duration": 3.24
+  },
+  {
+    "text": "use pretty simple shapes and color",
+    "start": 696.24,
+    "duration": 2.64
+  },
+  {
+    "text": "palets and I don't really have time to",
+    "start": 697.6,
+    "duration": 2.919
+  },
+  {
+    "text": "do anything more complicated in this Jam",
+    "start": 698.88,
+    "duration": 3.48
+  },
+  {
+    "text": "either but like I mentioned before I've",
+    "start": 700.519,
+    "duration": 3.041
+  },
+  {
+    "text": "been working on a steam game for the",
+    "start": 702.36,
+    "duration": 2.719
+  },
+  {
+    "text": "past year and in that time I've learned",
+    "start": 703.56,
+    "duration": 3.0
+  },
+  {
+    "text": "a lot about how to make a limited style",
+    "start": 705.079,
+    "duration": 3.121
+  },
+  {
+    "text": "work for me which is not steam by the",
+    "start": 706.56,
+    "duration": 3.48
+  },
+  {
+    "text": "way inverted Journey uses a style that",
+    "start": 708.2,
+    "duration": 3.36
+  },
+  {
+    "text": "focuses heavily on Silhouettes and",
+    "start": 710.04,
+    "duration": 3.08
+  },
+  {
+    "text": "strong color pellets so I figured I'll",
+    "start": 711.56,
+    "duration": 3.32
+  },
+  {
+    "text": "do something similar for this game the",
+    "start": 713.12,
+    "duration": 3.76
+  },
+  {
+    "text": "jam rules let me use any assets I want",
+    "start": 714.88,
+    "duration": 3.48
+  },
+  {
+    "text": "so I borrowed a few Rock Silhouettes",
+    "start": 716.88,
+    "duration": 3.12
+  },
+  {
+    "text": "from inverted Journey and then recolored",
+    "start": 718.36,
+    "duration": 3.279
+  },
+  {
+    "text": "them in engine based on a color pellet I",
+    "start": 720.0,
+    "duration": 4.04
+  },
+  {
+    "text": "found online by rearranging recoloring",
+    "start": 721.639,
+    "duration": 3.961
+  },
+  {
+    "text": "and layering these Rock Silhouettes I",
+    "start": 724.04,
+    "duration": 2.799
+  },
+  {
+    "text": "can pretty quickly give the impression",
+    "start": 725.6,
+    "duration": 3.12
+  },
+  {
+    "text": "of a simple cave with very little in the",
+    "start": 726.839,
+    "duration": 4.201
+  },
+  {
+    "text": "way of assets drawn which is huge for me",
+    "start": 728.72,
+    "duration": 4.08
+  },
+  {
+    "text": "using this style I pretty quickly put",
+    "start": 731.04,
+    "duration": 2.919
+  },
+  {
+    "text": "together a few levels which I've been",
+    "start": 732.8,
+    "duration": 2.8
+  },
+  {
+    "text": "brainstorming on the side since a jam",
+    "start": 733.959,
+    "duration": 3.721
+  },
+  {
+    "text": "began after the first level teaches the",
+    "start": 735.6,
+    "duration": 3.599
+  },
+  {
+    "text": "player that they can grow to jump I was",
+    "start": 737.68,
+    "duration": 2.68
+  },
+  {
+    "text": "a little worried that people would think",
+    "start": 739.199,
+    "duration": 2.281
+  },
+  {
+    "text": "that the growing mechanic was just",
+    "start": 740.36,
+    "duration": 2.839
+  },
+  {
+    "text": "jumping with extra steps so the next",
+    "start": 741.48,
+    "duration": 3.479
+  },
+  {
+    "text": "level I made was meant to disprove that",
+    "start": 743.199,
+    "duration": 3.2
+  },
+  {
+    "text": "here the player's first instinct is to",
+    "start": 744.959,
+    "duration": 3.201
+  },
+  {
+    "text": "jump right to the star but they in twoo",
+    "start": 746.399,
+    "duration": 3.44
+  },
+  {
+    "text": "tight of a passage for that to work so",
+    "start": 748.16,
+    "duration": 3.16
+  },
+  {
+    "text": "they have to go around and be a little",
+    "start": 749.839,
+    "duration": 2.841
+  },
+  {
+    "text": "more creative with the Growing Power",
+    "start": 751.32,
+    "duration": 3.079
+  },
+  {
+    "text": "instead making these first two levels",
+    "start": 752.68,
+    "duration": 3.0
+  },
+  {
+    "text": "made me realize that I really needed to",
+    "start": 754.399,
+    "duration": 3.0
+  },
+  {
+    "text": "fix the slope movement in my game since",
+    "start": 755.68,
+    "duration": 3.56
+  },
+  {
+    "text": "they're way too sliding right now if you",
+    "start": 757.399,
+    "duration": 3.12
+  },
+  {
+    "text": "didn't know slopes can be really",
+    "start": 759.24,
+    "duration": 2.839
+  },
+  {
+    "text": "annoying there are a lot of games that",
+    "start": 760.519,
+    "duration": 2.721
+  },
+  {
+    "text": "just don't include them at all because",
+    "start": 762.079,
+    "duration": 2.921
+  },
+  {
+    "text": "of this but my game needs them so I have",
+    "start": 763.24,
+    "duration": 3.599
+  },
+  {
+    "text": "to deal with it luckily I've battled",
+    "start": 765.0,
+    "duration": 3.079
+  },
+  {
+    "text": "with slopes a ton while developing a",
+    "start": 766.839,
+    "duration": 3.0
+  },
+  {
+    "text": "birded journey which is on Steam so I",
+    "start": 768.079,
+    "duration": 3.44
+  },
+  {
+    "text": "know how to fix this by detecting when",
+    "start": 769.839,
+    "duration": 3.401
+  },
+  {
+    "text": "any player hitbox is colliding with a",
+    "start": 771.519,
+    "duration": 3.521
+  },
+  {
+    "text": "walkable slope surface I can do some",
+    "start": 773.24,
+    "duration": 3.48
+  },
+  {
+    "text": "Vector math to introduce counter forces",
+    "start": 775.04,
+    "duration": 2.96
+  },
+  {
+    "text": "to prevent that surface from pushing",
+    "start": 776.72,
+    "duration": 3.239
+  },
+  {
+    "text": "them horizontally I add that script to",
+    "start": 778.0,
+    "duration": 3.72
+  },
+  {
+    "text": "all 10 of the players hit boxes and bada",
+    "start": 779.959,
+    "duration": 3.481
+  },
+  {
+    "text": "bing bada boom it works great onto the",
+    "start": 781.72,
+    "duration": 4.2
+  },
+  {
+    "text": "next level next I wanted to teach the",
+    "start": 783.44,
+    "duration": 3.639
+  },
+  {
+    "text": "player that they could grow against a",
+    "start": 785.92,
+    "duration": 2.64
+  },
+  {
+    "text": "wall like this to gain horizontal",
+    "start": 787.079,
+    "duration": 3.281
+  },
+  {
+    "text": "momentum in this one I needed a way to",
+    "start": 788.56,
+    "duration": 3.12
+  },
+  {
+    "text": "help the player restart more quickly",
+    "start": 790.36,
+    "duration": 2.96
+  },
+  {
+    "text": "when they fail so I added spikes that",
+    "start": 791.68,
+    "duration": 2.76
+  },
+  {
+    "text": "can kill and respawn you if they're",
+    "start": 793.32,
+    "duration": 2.92
+  },
+  {
+    "text": "touched fun fact their hit boox is",
+    "start": 794.44,
+    "duration": 3.199
+  },
+  {
+    "text": "straight up half the size of the visual",
+    "start": 796.24,
+    "duration": 2.719
+  },
+  {
+    "text": "because I wanted to be more forgiving so",
+    "start": 797.639,
+    "duration": 2.401
+  },
+  {
+    "text": "if you died to these you should think",
+    "start": 798.959,
+    "duration": 2.921
+  },
+  {
+    "text": "about that next I got to work on level",
+    "start": 800.04,
+    "duration": 4.2
+  },
+  {
+    "text": "four and my computer got really hot blue",
+    "start": 801.88,
+    "duration": 6.24
+  },
+  {
+    "text": "screened and then shut itself off",
+    "start": 804.24,
+    "duration": 5.959
+  },
+  {
+    "text": "uh-oh yeah so remember how I mentioned",
+    "start": 808.12,
+    "duration": 3.519
+  },
+  {
+    "text": "earlier that I borrowed a few art assets",
+    "start": 810.199,
+    "duration": 3.521
+  },
+  {
+    "text": "from inverted Journey as it turns out my",
+    "start": 811.639,
+    "duration": 3.721
+  },
+  {
+    "text": "crappy 5-year-old laptop that I develop",
+    "start": 813.72,
+    "duration": 2.96
+  },
+  {
+    "text": "all my games on really didn't like",
+    "start": 815.36,
+    "duration": 2.919
+  },
+  {
+    "text": "having too instances of unity open at",
+    "start": 816.68,
+    "duration": 3.76
+  },
+  {
+    "text": "the same time so it overheated and died",
+    "start": 818.279,
+    "duration": 3.281
+  },
+  {
+    "text": "in the middle of me working on level",
+    "start": 820.44,
+    "duration": 3.8
+  },
+  {
+    "text": "four so that's bad and what's worse is I",
+    "start": 821.56,
+    "duration": 4.24
+  },
+  {
+    "text": "didn't set up any sort of backup for the",
+    "start": 824.24,
+    "duration": 3.12
+  },
+  {
+    "text": "project so if my laptop doesn't get",
+    "start": 825.8,
+    "duration": 3.32
+  },
+  {
+    "text": "better or the file corrupts then all the",
+    "start": 827.36,
+    "duration": 5.0
+  },
+  {
+    "text": "work on the project is gone forever so I",
+    "start": 829.12,
+    "duration": 6.079
+  },
+  {
+    "text": "wait for my laptop to cool down and I",
+    "start": 832.36,
+    "duration": 5.8
+  },
+  {
+    "text": "slowly power it back on it works thank",
+    "start": 835.199,
+    "duration": 6.521
+  },
+  {
+    "text": "God and I slowly open unity and thank",
+    "start": 838.16,
+    "duration": 6.28
+  },
+  {
+    "text": "God the product is fine okay I only lost",
+    "start": 841.72,
+    "duration": 3.88
+  },
+  {
+    "text": "like 10 minutes of work and it could",
+    "start": 844.44,
+    "duration": 3.04
+  },
+  {
+    "text": "have been catastrophic the first thing I",
+    "start": 845.6,
+    "duration": 3.4
+  },
+  {
+    "text": "do is set up a GitHub repo for the",
+    "start": 847.48,
+    "duration": 3.2
+  },
+  {
+    "text": "project that can act as a backup in case",
+    "start": 849.0,
+    "duration": 3.92
+  },
+  {
+    "text": "my laptop explodes again little Pro tip",
+    "start": 850.68,
+    "duration": 3.56
+  },
+  {
+    "text": "here it's probably better to do that at",
+    "start": 852.92,
+    "duration": 2.64
+  },
+  {
+    "text": "the beginning not halfway through a",
+    "start": 854.24,
+    "duration": 3.56
+  },
+  {
+    "text": "project but here we are the second thing",
+    "start": 855.56,
+    "duration": 4.04
+  },
+  {
+    "text": "I do is take a desk van and park it",
+    "start": 857.8,
+    "duration": 3.279
+  },
+  {
+    "text": "right next to my laptop at full force",
+    "start": 859.6,
+    "duration": 2.919
+  },
+  {
+    "text": "for the entire rest of the weekend I'm",
+    "start": 861.079,
+    "duration": 2.56
+  },
+  {
+    "text": "not taking any chances of this thing",
+    "start": 862.519,
+    "duration": 3.921
+  },
+  {
+    "text": "overheating again dear God okay back to",
+    "start": 863.639,
+    "duration": 4.56
+  },
+  {
+    "text": "making levels I'm going to speed up the",
+    "start": 866.44,
+    "duration": 3.72
+  },
+  {
+    "text": "recap here so we're not here all day in",
+    "start": 868.199,
+    "duration": 3.721
+  },
+  {
+    "text": "general My Level design philosophy is",
+    "start": 870.16,
+    "duration": 2.919
+  },
+  {
+    "text": "that every level needs to teach the",
+    "start": 871.92,
+    "duration": 2.359
+  },
+  {
+    "text": "player something new and interesting",
+    "start": 873.079,
+    "duration": 2.921
+  },
+  {
+    "text": "about the main mechanic and I try to",
+    "start": 874.279,
+    "duration": 3.161
+  },
+  {
+    "text": "build on ideas from earlier levels so",
+    "start": 876.0,
+    "duration": 2.72
+  },
+  {
+    "text": "you're always challenged in new and",
+    "start": 877.44,
+    "duration": 3.48
+  },
+  {
+    "text": "evolving ways so next I made a level",
+    "start": 878.72,
+    "duration": 3.559
+  },
+  {
+    "text": "about jumping and then shrinking to pass",
+    "start": 880.92,
+    "duration": 2.839
+  },
+  {
+    "text": "through spiky gaps followed by a few",
+    "start": 882.279,
+    "duration": 3.521
+  },
+  {
+    "text": "levels about pushing boxes around",
+    "start": 883.759,
+    "duration": 3.481
+  },
+  {
+    "text": "eventually I need more reasons to move",
+    "start": 885.8,
+    "duration": 2.839
+  },
+  {
+    "text": "the box so I added buttons you could",
+    "start": 887.24,
+    "duration": 2.76
+  },
+  {
+    "text": "weigh down and doors that would open",
+    "start": 888.639,
+    "duration": 2.961
+  },
+  {
+    "text": "when you did then I made a level about",
+    "start": 890.0,
+    "duration": 2.759
+  },
+  {
+    "text": "my favorite thing about the physics",
+    "start": 891.6,
+    "duration": 3.0
+  },
+  {
+    "text": "system which is this right here",
+    "start": 892.759,
+    "duration": 3.2
+  },
+  {
+    "text": "basically because there's a huge amount",
+    "start": 894.6,
+    "duration": 2.88
+  },
+  {
+    "text": "of force when you grow if you grow in a",
+    "start": 895.959,
+    "duration": 3.401
+  },
+  {
+    "text": "small area the force is pushing your hit",
+    "start": 897.48,
+    "duration": 3.919
+  },
+  {
+    "text": "boxes out get so high that the friction",
+    "start": 899.36,
+    "duration": 3.599
+  },
+  {
+    "text": "they experience in the walls gets huge",
+    "start": 901.399,
+    "duration": 3.36
+  },
+  {
+    "text": "and you get stuck in place this level",
+    "start": 902.959,
+    "duration": 3.081
+  },
+  {
+    "text": "forces you to do that to hold down a",
+    "start": 904.759,
+    "duration": 2.601
+  },
+  {
+    "text": "button for a while which I thought was",
+    "start": 906.04,
+    "duration": 3.159
+  },
+  {
+    "text": "neat I also needed to add this spring",
+    "start": 907.36,
+    "duration": 3.159
+  },
+  {
+    "text": "mechanic to get you in the crevice in",
+    "start": 909.199,
+    "duration": 2.801
+  },
+  {
+    "text": "the first place so I added a level",
+    "start": 910.519,
+    "duration": 2.76
+  },
+  {
+    "text": "earlier in the game to teach that",
+    "start": 912.0,
+    "duration": 3.72
+  },
+  {
+    "text": "mechanic as well okay it was getting to",
+    "start": 913.279,
+    "duration": 3.92
+  },
+  {
+    "text": "the point now where I really had a video",
+    "start": 915.72,
+    "duration": 3.4
+  },
+  {
+    "text": "game but based on past experiences I",
+    "start": 917.199,
+    "duration": 3.161
+  },
+  {
+    "text": "knew I hadn't done the most important",
+    "start": 919.12,
+    "duration": 3.0
+  },
+  {
+    "text": "part of any game product yet play",
+    "start": 920.36,
+    "duration": 3.719
+  },
+  {
+    "text": "testing so I asked my roommate to play",
+    "start": 922.12,
+    "duration": 3.719
+  },
+  {
+    "text": "through the game he liked it which is a",
+    "start": 924.079,
+    "duration": 3.401
+  },
+  {
+    "text": "good sign but the play test reveals a",
+    "start": 925.839,
+    "duration": 2.841
+  },
+  {
+    "text": "couple of levels that were a little too",
+    "start": 927.48,
+    "duration": 3.0
+  },
+  {
+    "text": "mechanic difficult so I spent a while",
+    "start": 928.68,
+    "duration": 3.959
+  },
+  {
+    "text": "tweaking them so they'd be easier I'm",
+    "start": 930.48,
+    "duration": 3.919
+  },
+  {
+    "text": "making this game for a game Jam so my",
+    "start": 932.639,
+    "duration": 3.0
+  },
+  {
+    "text": "expected audience is people playing",
+    "start": 934.399,
+    "duration": 2.641
+  },
+  {
+    "text": "through it for like 10 minutes who",
+    "start": 935.639,
+    "duration": 3.12
+  },
+  {
+    "text": "probably play games but may or may not",
+    "start": 937.04,
+    "duration": 3.239
+  },
+  {
+    "text": "be all that experienced in Platformers",
+    "start": 938.759,
+    "duration": 3.401
+  },
+  {
+    "text": "specifically so I amim to make it on the",
+    "start": 940.279,
+    "duration": 4.401
+  },
+  {
+    "text": "easier side execution Wise by the time I",
+    "start": 942.16,
+    "duration": 4.039
+  },
+  {
+    "text": "finished the tweaks it was 2 a.m. so I",
+    "start": 944.68,
+    "duration": 3.8
+  },
+  {
+    "text": "went to",
+    "start": 946.199,
+    "duration": 2.281
+  },
+  {
+    "text": "sleep all right it's officially Sunday",
+    "start": 949.04,
+    "duration": 3.88
+  },
+  {
+    "text": "and I have work on Monday and Tuesday so",
+    "start": 951.399,
+    "duration": 3.481
+  },
+  {
+    "text": "it's my last full day of the jam the",
+    "start": 952.92,
+    "duration": 3.76
+  },
+  {
+    "text": "next level ideas I had all required",
+    "start": 954.88,
+    "duration": 3.6
+  },
+  {
+    "text": "moving platforms so I started by making",
+    "start": 956.68,
+    "duration": 3.92
+  },
+  {
+    "text": "those luckily I've made some of these in",
+    "start": 958.48,
+    "duration": 4.4
+  },
+  {
+    "text": "my past games the hard part is always",
+    "start": 960.6,
+    "duration": 3.359
+  },
+  {
+    "text": "getting the player to stay on the",
+    "start": 962.88,
+    "duration": 3.16
+  },
+  {
+    "text": "platform the way I handle this normally",
+    "start": 963.959,
+    "duration": 3.521
+  },
+  {
+    "text": "is essentially to add the velocity of",
+    "start": 966.04,
+    "duration": 2.96
+  },
+  {
+    "text": "the platform you're standing on to the",
+    "start": 967.48,
+    "duration": 3.599
+  },
+  {
+    "text": "velocity of the player this idea sounds",
+    "start": 969.0,
+    "duration": 3.72
+  },
+  {
+    "text": "easy Until you realize that typically",
+    "start": 971.079,
+    "duration": 3.32
+  },
+  {
+    "text": "the player's movement script exists",
+    "start": 972.72,
+    "duration": 3.119
+  },
+  {
+    "text": "which is also trying to set the player's",
+    "start": 974.399,
+    "duration": 3.041
+  },
+  {
+    "text": "velocity so it always takes a bit of",
+    "start": 975.839,
+    "duration": 3.081
+  },
+  {
+    "text": "retooling to get these systems working",
+    "start": 977.44,
+    "duration": 3.6
+  },
+  {
+    "text": "together and in this game it's made more",
+    "start": 978.92,
+    "duration": 3.32
+  },
+  {
+    "text": "complicated by the fact that the player",
+    "start": 981.04,
+    "duration": 3.239
+  },
+  {
+    "text": "has 10 unique hit boxes of which only",
+    "start": 982.24,
+    "duration": 3.32
+  },
+  {
+    "text": "some will ever actually be on the",
+    "start": 984.279,
+    "duration": 3.081
+  },
+  {
+    "text": "platform I wasted a lot of time trying a",
+    "start": 985.56,
+    "duration": 2.959
+  },
+  {
+    "text": "fancy solution for this but for",
+    "start": 987.36,
+    "duration": 2.64
+  },
+  {
+    "text": "ultimately settling on a simpler",
+    "start": 988.519,
+    "duration": 3.12
+  },
+  {
+    "text": "algorithm that checks the ground",
+    "start": 990.0,
+    "duration": 3.319
+  },
+  {
+    "text": "underneath every grounded player hitbox",
+    "start": 991.639,
+    "duration": 2.88
+  },
+  {
+    "text": "and then averages the speed of that",
+    "start": 993.319,
+    "duration": 2.52
+  },
+  {
+    "text": "ground and adds that to the player's",
+    "start": 994.519,
+    "duration": 3.401
+  },
+  {
+    "text": "movement this ended up working great and",
+    "start": 995.839,
+    "duration": 3.321
+  },
+  {
+    "text": "I started working on some levels to make",
+    "start": 997.92,
+    "duration": 3.0
+  },
+  {
+    "text": "use of it I made a level to introduce",
+    "start": 999.16,
+    "duration": 3.239
+  },
+  {
+    "text": "these platforms and then a few more to",
+    "start": 1000.92,
+    "duration": 3.2
+  },
+  {
+    "text": "play with the concept I may have gone a",
+    "start": 1002.399,
+    "duration": 3.24
+  },
+  {
+    "text": "little overboard with the get yourself",
+    "start": 1004.12,
+    "duration": 3.199
+  },
+  {
+    "text": "stuck somewhere by growing mechanic at",
+    "start": 1005.639,
+    "duration": 3.241
+  },
+  {
+    "text": "this point since that's a solution for",
+    "start": 1007.319,
+    "duration": 3.52
+  },
+  {
+    "text": "like five levels in a row but screw it I",
+    "start": 1008.88,
+    "duration": 3.319
+  },
+  {
+    "text": "like the mechanic and I can do what I",
+    "start": 1010.839,
+    "duration": 3.881
+  },
+  {
+    "text": "want after all that I had another big",
+    "start": 1012.199,
+    "duration": 4.241
+  },
+  {
+    "text": "play test with my roommate testing both",
+    "start": 1014.72,
+    "duration": 3.08
+  },
+  {
+    "text": "the new levels and the tweaks I'd made",
+    "start": 1016.44,
+    "duration": 3.12
+  },
+  {
+    "text": "to the older ones it was a good thing I",
+    "start": 1017.8,
+    "duration": 3.08
+  },
+  {
+    "text": "did this because it turned out I had",
+    "start": 1019.56,
+    "duration": 2.719
+  },
+  {
+    "text": "made the first moving platform level",
+    "start": 1020.88,
+    "duration": 3.24
+  },
+  {
+    "text": "obscenely hard so I nerfed it pretty",
+    "start": 1022.279,
+    "duration": 3.361
+  },
+  {
+    "text": "aggressively and I made a bunch of",
+    "start": 1024.12,
+    "duration": 3.04
+  },
+  {
+    "text": "changes across the game to smooth out",
+    "start": 1025.64,
+    "duration": 3.559
+  },
+  {
+    "text": "the difficulty curve beyond that at this",
+    "start": 1027.16,
+    "duration": 3.36
+  },
+  {
+    "text": "point it was getting late so I made a",
+    "start": 1029.199,
+    "duration": 3.201
+  },
+  {
+    "text": "main menu and an end screen for the game",
+    "start": 1030.52,
+    "duration": 3.559
+  },
+  {
+    "text": "and I called it a night around midnight",
+    "start": 1032.4,
+    "duration": 3.039
+  },
+  {
+    "text": "I couldn't stay up super late that day",
+    "start": 1034.079,
+    "duration": 3.561
+  },
+  {
+    "text": "since I had worked the next",
+    "start": 1035.439,
+    "duration": 4.561
+  },
+  {
+    "text": "morning on that Monday I woke up at 8:00",
+    "start": 1037.64,
+    "duration": 4.039
+  },
+  {
+    "text": "a.m. and I went to work for the day when",
+    "start": 1040.0,
+    "duration": 3.559
+  },
+  {
+    "text": "I finally got off work at 5 I knew I had",
+    "start": 1041.679,
+    "duration": 3.28
+  },
+  {
+    "text": "to finish and submit the game that night",
+    "start": 1043.559,
+    "duration": 2.64
+  },
+  {
+    "text": "since the deadline on Tuesday would be",
+    "start": 1044.959,
+    "duration": 2.84
+  },
+  {
+    "text": "in the middle of my workday so the first",
+    "start": 1046.199,
+    "duration": 3.001
+  },
+  {
+    "text": "thing I did was something I should have",
+    "start": 1047.799,
+    "duration": 2.88
+  },
+  {
+    "text": "done way earlier which was to add sound",
+    "start": 1049.2,
+    "duration": 4.08
+  },
+  {
+    "text": "effects I Love Game Dev but sound design",
+    "start": 1050.679,
+    "duration": 4.721
+  },
+  {
+    "text": "for me is like torture there's a lot of",
+    "start": 1053.28,
+    "duration": 3.24
+  },
+  {
+    "text": "fields that you encounter when you're a",
+    "start": 1055.4,
+    "duration": 2.56
+  },
+  {
+    "text": "solo developer where you take a small",
+    "start": 1056.52,
+    "duration": 3.519
+  },
+  {
+    "text": "Fay into them and then quickly realize",
+    "start": 1057.96,
+    "duration": 3.719
+  },
+  {
+    "text": "oh yeah people spend their entire lives",
+    "start": 1060.039,
+    "duration": 2.721
+  },
+  {
+    "text": "mastering this skill and I have",
+    "start": 1061.679,
+    "duration": 3.281
+  },
+  {
+    "text": "absolutely no idea what I'm doing for me",
+    "start": 1062.76,
+    "duration": 3.6
+  },
+  {
+    "text": "nothing is worse in that way than sound",
+    "start": 1064.96,
+    "duration": 3.2
+  },
+  {
+    "text": "design I have no understanding of what",
+    "start": 1066.36,
+    "duration": 3.52
+  },
+  {
+    "text": "makes sounds good or bad or appropriate",
+    "start": 1068.16,
+    "duration": 3.28
+  },
+  {
+    "text": "for any scenario so the method I always",
+    "start": 1069.88,
+    "duration": 3.36
+  },
+  {
+    "text": "end up using is just to record a billion",
+    "start": 1071.44,
+    "duration": 3.479
+  },
+  {
+    "text": "things and then test how every one of",
+    "start": 1073.24,
+    "duration": 3.2
+  },
+  {
+    "text": "them feels for every action in the game",
+    "start": 1074.919,
+    "duration": 3.401
+  },
+  {
+    "text": "and see what sticks at one point I got",
+    "start": 1076.44,
+    "duration": 3.4
+  },
+  {
+    "text": "so fed up with trying to find sounds for",
+    "start": 1078.32,
+    "duration": 3.08
+  },
+  {
+    "text": "my player that I got up and walked to",
+    "start": 1079.84,
+    "duration": 3.04
+  },
+  {
+    "text": "the store on my block so I could buy",
+    "start": 1081.4,
+    "duration": 3.279
+  },
+  {
+    "text": "Jello because I had the idea that I",
+    "start": 1082.88,
+    "duration": 3.279
+  },
+  {
+    "text": "could record myself throwing Jello at",
+    "start": 1084.679,
+    "duration": 3.201
+  },
+  {
+    "text": "the walls of my apartment to use it as",
+    "start": 1086.159,
+    "duration": 3.88
+  },
+  {
+    "text": "the sounds for the player movement sadly",
+    "start": 1087.88,
+    "duration": 3.919
+  },
+  {
+    "text": "the Target near me didn't sell any Jello",
+    "start": 1090.039,
+    "duration": 3.081
+  },
+  {
+    "text": "so my dreams of manically throwing",
+    "start": 1091.799,
+    "duration": 3.36
+  },
+  {
+    "text": "Jell-O at my walls were quashed this was",
+    "start": 1093.12,
+    "duration": 3.64
+  },
+  {
+    "text": "probably a big relief for my landlord",
+    "start": 1095.159,
+    "duration": 4.041
+  },
+  {
+    "text": "and my roommate anyways here are all the",
+    "start": 1096.76,
+    "duration": 3.919
+  },
+  {
+    "text": "sounds in the game which ended up being",
+    "start": 1099.2,
+    "duration": 2.8
+  },
+  {
+    "text": "a mix of sounds I already had lying",
+    "start": 1100.679,
+    "duration": 2.641
+  },
+  {
+    "text": "around and some more that I recorded",
+    "start": 1102.0,
+    "duration": 4.48
+  },
+  {
+    "text": "that night",
+    "start": 1103.32,
+    "duration": 3.16
+  },
+  {
+    "text": "[Music]",
+    "start": 1106.5,
+    "duration": 3.15
+  },
+  {
+    "text": "after that I added the music and this I",
+    "start": 1111.72,
+    "duration": 2.76
+  },
+  {
+    "text": "absolutely just straight up stole from",
+    "start": 1113.52,
+    "duration": 2.36
+  },
+  {
+    "text": "your ver Journey like straight up I just",
+    "start": 1114.48,
+    "duration": 2.72
+  },
+  {
+    "text": "moved the one music track I made for",
+    "start": 1115.88,
+    "duration": 2.799
+  },
+  {
+    "text": "that game into this one and called it a",
+    "start": 1117.2,
+    "duration": 3.4
+  },
+  {
+    "text": "day which is not Ste by the way I think",
+    "start": 1118.679,
+    "duration": 3.281
+  },
+  {
+    "text": "most of the assets I stole from inverter",
+    "start": 1120.6,
+    "duration": 2.84
+  },
+  {
+    "text": "Journey this Jam I probably could have",
+    "start": 1121.96,
+    "duration": 3.199
+  },
+  {
+    "text": "remade myself and like barely any more",
+    "start": 1123.44,
+    "duration": 3.4
+  },
+  {
+    "text": "time but reusing this music was",
+    "start": 1125.159,
+    "duration": 3.441
+  },
+  {
+    "text": "definitely the exception I know because",
+    "start": 1126.84,
+    "duration": 3.28
+  },
+  {
+    "text": "it took me like a week the first time so",
+    "start": 1128.6,
+    "duration": 2.84
+  },
+  {
+    "text": "thank God for that one CLA allowing",
+    "start": 1130.12,
+    "duration": 2.64
+  },
+  {
+    "text": "asset reuse because I do not have time",
+    "start": 1131.44,
+    "duration": 3.32
+  },
+  {
+    "text": "for that right now after that I decided",
+    "start": 1132.76,
+    "duration": 3.52
+  },
+  {
+    "text": "to try and squeeze in two final levels",
+    "start": 1134.76,
+    "duration": 3.32
+  },
+  {
+    "text": "before I wrapped up the game I had a",
+    "start": 1136.28,
+    "duration": 3.16
+  },
+  {
+    "text": "bunch of ideas for levels about moving",
+    "start": 1138.08,
+    "duration": 2.64
+  },
+  {
+    "text": "platforms that can launch you like in",
+    "start": 1139.44,
+    "duration": 2.8
+  },
+  {
+    "text": "Celeste since the growing mechanic",
+    "start": 1140.72,
+    "duration": 3.439
+  },
+  {
+    "text": "played pretty well with that idea I'd",
+    "start": 1142.24,
+    "duration": 2.96
+  },
+  {
+    "text": "made sure to implement the moving",
+    "start": 1144.159,
+    "duration": 2.721
+  },
+  {
+    "text": "Platforms in a way that would allow this",
+    "start": 1145.2,
+    "duration": 3.04
+  },
+  {
+    "text": "so I was pretty quickly able to throw",
+    "start": 1146.88,
+    "duration": 2.72
+  },
+  {
+    "text": "together two levels to introduce this",
+    "start": 1148.24,
+    "duration": 2.799
+  },
+  {
+    "text": "mechanic but I ran out of time to make",
+    "start": 1149.6,
+    "duration": 2.76
+  },
+  {
+    "text": "any levels that would really use it with",
+    "start": 1151.039,
+    "duration": 3.281
+  },
+  {
+    "text": "growing mechanic in a deeper way at this",
+    "start": 1152.36,
+    "duration": 3.12
+  },
+  {
+    "text": "point it was getting late so I had my",
+    "start": 1154.32,
+    "duration": 2.719
+  },
+  {
+    "text": "roommate play test one last time God",
+    "start": 1155.48,
+    "duration": 3.439
+  },
+  {
+    "text": "bless that man made a few final tweaks",
+    "start": 1157.039,
+    "duration": 3.681
+  },
+  {
+    "text": "and then built the game I uploaded it to",
+    "start": 1158.919,
+    "duration": 3.681
+  },
+  {
+    "text": "is iio and submitted the game 12 hours",
+    "start": 1160.72,
+    "duration": 3.28
+  },
+  {
+    "text": "before the deadline and then immediately",
+    "start": 1162.6,
+    "duration": 4.28
+  },
+  {
+    "text": "went to sleep because I had work in the",
+    "start": 1164.0,
+    "duration": 5.84
+  },
+  {
+    "text": "morning yippe the next day the",
+    "start": 1166.88,
+    "duration": 4.64
+  },
+  {
+    "text": "submissions closed and the rating period",
+    "start": 1169.84,
+    "duration": 3.8
+  },
+  {
+    "text": "started I spent the next week or so",
+    "start": 1171.52,
+    "duration": 4.039
+  },
+  {
+    "text": "playing and rating other people's games",
+    "start": 1173.64,
+    "duration": 3.399
+  },
+  {
+    "text": "and I got to say people went crazy this",
+    "start": 1175.559,
+    "duration": 3.081
+  },
+  {
+    "text": "year with level of quality on display",
+    "start": 1177.039,
+    "duration": 3.441
+  },
+  {
+    "text": "there were a ton of cool games I'm going",
+    "start": 1178.64,
+    "duration": 3.2
+  },
+  {
+    "text": "to do a quick lightning round of some of",
+    "start": 1180.48,
+    "duration": 2.679
+  },
+  {
+    "text": "my favorites that I feel like deserve",
+    "start": 1181.84,
+    "duration": 2.68
+  },
+  {
+    "text": "more attention and I'll put links to",
+    "start": 1183.159,
+    "duration": 3.64
+  },
+  {
+    "text": "them in the description dude stack was",
+    "start": 1184.52,
+    "duration": 3.84
+  },
+  {
+    "text": "an absolutely hilarious game about",
+    "start": 1186.799,
+    "duration": 3.081
+  },
+  {
+    "text": "stacking Ticky heads and exploring an",
+    "start": 1188.36,
+    "duration": 2.92
+  },
+  {
+    "text": "island the writing of this game is",
+    "start": 1189.88,
+    "duration": 2.72
+  },
+  {
+    "text": "hysterical and the vibe of the game",
+    "start": 1191.28,
+    "duration": 3.96
+  },
+  {
+    "text": "overall is just Immaculate huge fan",
+    "start": 1192.6,
+    "duration": 4.24
+  },
+  {
+    "text": "Thicket is a masterclass puzzle game",
+    "start": 1195.24,
+    "duration": 2.84
+  },
+  {
+    "text": "about pushing Vines around to make them",
+    "start": 1196.84,
+    "duration": 3.24
+  },
+  {
+    "text": "grow and push orbs it starts simple but",
+    "start": 1198.08,
+    "duration": 3.079
+  },
+  {
+    "text": "you quickly get to the point where you",
+    "start": 1200.08,
+    "duration": 2.599
+  },
+  {
+    "text": "have Vines push and grow other Vines but",
+    "start": 1201.159,
+    "duration": 2.801
+  },
+  {
+    "text": "push and grow other Vines and it's just",
+    "start": 1202.679,
+    "duration": 3.48
+  },
+  {
+    "text": "incredibly Well Done To The Heights was",
+    "start": 1203.96,
+    "duration": 3.56
+  },
+  {
+    "text": "a very underrated game where you have to",
+    "start": 1206.159,
+    "duration": 2.801
+  },
+  {
+    "text": "build a tower out of level parts and",
+    "start": 1207.52,
+    "duration": 2.72
+  },
+  {
+    "text": "then platform up that Tower in order to",
+    "start": 1208.96,
+    "duration": 3.04
+  },
+  {
+    "text": "reach the top it's really well done",
+    "start": 1210.24,
+    "duration": 3.36
+  },
+  {
+    "text": "seismic scaling is a crazy manic",
+    "start": 1212.0,
+    "duration": 3.039
+  },
+  {
+    "text": "platformer where the level is shrinking",
+    "start": 1213.6,
+    "duration": 2.92
+  },
+  {
+    "text": "as you try to escape it that's super",
+    "start": 1215.039,
+    "duration": 3.841
+  },
+  {
+    "text": "entertaining microbot is a neat block",
+    "start": 1216.52,
+    "duration": 3.639
+  },
+  {
+    "text": "pushing game where you can enter into",
+    "start": 1218.88,
+    "duration": 2.56
+  },
+  {
+    "text": "the blocks that you push in order to",
+    "start": 1220.159,
+    "duration": 2.76
+  },
+  {
+    "text": "connect circuits which gets pretty",
+    "start": 1221.44,
+    "duration": 3.84
+  },
+  {
+    "text": "clever port a scale is a criminally",
+    "start": 1222.919,
+    "duration": 3.801
+  },
+  {
+    "text": "underrated puzzle platform where you",
+    "start": 1225.28,
+    "duration": 2.96
+  },
+  {
+    "text": "have a portable shrink ray this one goes",
+    "start": 1226.72,
+    "duration": 4.04
+  },
+  {
+    "text": "really crazy later levels big recommend",
+    "start": 1228.24,
+    "duration": 3.96
+  },
+  {
+    "text": "and finally my favorite game I rated",
+    "start": 1230.76,
+    "duration": 3.0
+  },
+  {
+    "text": "this Jam was called Picture Perfect",
+    "start": 1232.2,
+    "duration": 3.359
+  },
+  {
+    "text": "which is an adorable game that I love",
+    "start": 1233.76,
+    "duration": 3.2
+  },
+  {
+    "text": "it's basically if you made a video game",
+    "start": 1235.559,
+    "duration": 2.681
+  },
+  {
+    "text": "out of all those touristy pictures that",
+    "start": 1236.96,
+    "duration": 2.56
+  },
+  {
+    "text": "everyone does in front of the leading",
+    "start": 1238.24,
+    "duration": 3.36
+  },
+  {
+    "text": "Tower of Pizza it's an incredibly cool",
+    "start": 1239.52,
+    "duration": 3.92
+  },
+  {
+    "text": "idea the art is great and it does the",
+    "start": 1241.6,
+    "duration": 3.4
+  },
+  {
+    "text": "unpacking thing where you slowly realize",
+    "start": 1243.44,
+    "duration": 2.68
+  },
+  {
+    "text": "that all the levels that you're playing",
+    "start": 1245.0,
+    "duration": 2.48
+  },
+  {
+    "text": "are actually part of a bigger really",
+    "start": 1246.12,
+    "duration": 3.36
+  },
+  {
+    "text": "cute story this game is great and I love",
+    "start": 1247.48,
+    "duration": 3.4
+  },
+  {
+    "text": "it you should go play",
+    "start": 1249.48,
+    "duration": 3.84
+  },
+  {
+    "text": "it after a week of playing and rating",
+    "start": 1250.88,
+    "duration": 4.12
+  },
+  {
+    "text": "games the rating period ended and the",
+    "start": 1253.32,
+    "duration": 3.239
+  },
+  {
+    "text": "results were du to come out as a",
+    "start": 1255.0,
+    "duration": 3.24
+  },
+  {
+    "text": "reminder the top 100 games are the ones",
+    "start": 1256.559,
+    "duration": 3.48
+  },
+  {
+    "text": "that'll be played by Mark Brown of which",
+    "start": 1258.24,
+    "duration": 3.24
+  },
+  {
+    "text": "he then picks 20 as the winners of the",
+    "start": 1260.039,
+    "duration": 3.161
+  },
+  {
+    "text": "jam but my real goal is to beat my",
+    "start": 1261.48,
+    "duration": 3.84
+  },
+  {
+    "text": "personal best ranking of 151st for my",
+    "start": 1263.2,
+    "duration": 4.4
+  },
+  {
+    "text": "very first game Jam looking back the",
+    "start": 1265.32,
+    "duration": 4.04
+  },
+  {
+    "text": "game I made was definitely pretty flawed",
+    "start": 1267.6,
+    "duration": 3.079
+  },
+  {
+    "text": "I never got around to fixing the visual",
+    "start": 1269.36,
+    "duration": 2.799
+  },
+  {
+    "text": "bugs on the Slime which irks me a lot",
+    "start": 1270.679,
+    "duration": 3.281
+  },
+  {
+    "text": "whenever I see it the game's also pretty",
+    "start": 1272.159,
+    "duration": 3.481
+  },
+  {
+    "text": "short it doesn't really have any story",
+    "start": 1273.96,
+    "duration": 2.76
+  },
+  {
+    "text": "and a few of the levels are pretty",
+    "start": 1275.64,
+    "duration": 2.48
+  },
+  {
+    "text": "finicky in ways that slipped past my",
+    "start": 1276.72,
+    "duration": 3.24
+  },
+  {
+    "text": "play testing also if you spam the space",
+    "start": 1278.12,
+    "duration": 4.28
+  },
+  {
+    "text": "bar this",
+    "start": 1279.96,
+    "duration": 2.44
+  },
+  {
+    "text": "happens I knew about this on day two but",
+    "start": 1283.2,
+    "duration": 4.479
+  },
+  {
+    "text": "I left it in because it was funny on the",
+    "start": 1285.32,
+    "duration": 3.88
+  },
+  {
+    "text": "positive side though movement mechanics",
+    "start": 1287.679,
+    "duration": 2.961
+  },
+  {
+    "text": "are pretty fun and frenetic the slim",
+    "start": 1289.2,
+    "duration": 2.959
+  },
+  {
+    "text": "expressions are really cute and they got",
+    "start": 1290.64,
+    "duration": 3.039
+  },
+  {
+    "text": "a lot of positive feedback on the level",
+    "start": 1292.159,
+    "duration": 3.441
+  },
+  {
+    "text": "design at the end of the day I only had",
+    "start": 1293.679,
+    "duration": 3.521
+  },
+  {
+    "text": "4 days to make this game or even less",
+    "start": 1295.6,
+    "duration": 3.04
+  },
+  {
+    "text": "than that really so expecting it to be",
+    "start": 1297.2,
+    "duration": 2.76
+  },
+  {
+    "text": "perfect probably wouldn't be realistic",
+    "start": 1298.64,
+    "duration": 3.8
+  },
+  {
+    "text": "anyways overall I think I did okay the",
+    "start": 1299.96,
+    "duration": 4.0
+  },
+  {
+    "text": "game was probably better than most of my",
+    "start": 1302.44,
+    "duration": 2.88
+  },
+  {
+    "text": "past Jam entries but it's kind of hard",
+    "start": 1303.96,
+    "duration": 2.76
+  },
+  {
+    "text": "to rank something so soon after making",
+    "start": 1305.32,
+    "duration": 2.959
+  },
+  {
+    "text": "it because you lose all objectivity",
+    "start": 1306.72,
+    "duration": 2.88
+  },
+  {
+    "text": "about these things within 10 seconds of",
+    "start": 1308.279,
+    "duration": 3.361
+  },
+  {
+    "text": "making anything so who knows would I",
+    "start": 1309.6,
+    "duration": 3.559
+  },
+  {
+    "text": "reach my goal of beating my first ever",
+    "start": 1311.64,
+    "duration": 3.519
+  },
+  {
+    "text": "Jam entry I wasn't sure honestly I was",
+    "start": 1313.159,
+    "duration": 3.281
+  },
+  {
+    "text": "leaning towards probably not because",
+    "start": 1315.159,
+    "duration": 2.561
+  },
+  {
+    "text": "that was a pretty crazy result and I",
+    "start": 1316.44,
+    "duration": 2.359
+  },
+  {
+    "text": "just spent the week playing a lot of",
+    "start": 1317.72,
+    "duration": 2.28
+  },
+  {
+    "text": "really well-made games that I'd be happy",
+    "start": 1318.799,
+    "duration": 3.281
+  },
+  {
+    "text": "to lose to but I was pretty happy with",
+    "start": 1320.0,
+    "duration": 3.6
+  },
+  {
+    "text": "what I'd made I learned a lot and I",
+    "start": 1322.08,
+    "duration": 2.64
+  },
+  {
+    "text": "think I'll be happy with the outcome",
+    "start": 1323.6,
+    "duration": 3.76
+  },
+  {
+    "text": "either way anyways the ratings were",
+    "start": 1324.72,
+    "duration": 3.92
+  },
+  {
+    "text": "officially revealed on a Tuesday the",
+    "start": 1327.36,
+    "duration": 3.04
+  },
+  {
+    "text": "week after submissions had ended when I",
+    "start": 1328.64,
+    "duration": 3.0
+  },
+  {
+    "text": "got the notification I took a peek to",
+    "start": 1330.4,
+    "duration": 3.68
+  },
+  {
+    "text": "see what I got and",
+    "start": 1331.64,
+    "duration": 6.639
+  },
+  {
+    "text": "uh yeah my reaction went something like",
+    "start": 1334.08,
+    "duration": 4.199
+  },
+  {
+    "text": "this what what what yeah so I got 13th",
+    "start": 1339.039,
+    "duration": 6.841
+  },
+  {
+    "text": "overall out of over 7,600 games made by",
+    "start": 1343.12,
+    "duration": 5.76
+  },
+  {
+    "text": "32,000 developers I got 13th I was in",
+    "start": 1345.88,
+    "duration": 4.88
+  },
+  {
+    "text": "the top 100 my game was one of the ones",
+    "start": 1348.88,
+    "duration": 4.08
+  },
+  {
+    "text": "in contention for winning and somehow",
+    "start": 1350.76,
+    "duration": 3.919
+  },
+  {
+    "text": "even crazier than that I ranked number",
+    "start": 1352.96,
+    "duration": 4.0
+  },
+  {
+    "text": "one in enjoyment out of the entire Jam",
+    "start": 1354.679,
+    "duration": 4.041
+  },
+  {
+    "text": "which is insane and probably not",
+    "start": 1356.96,
+    "duration": 3.48
+  },
+  {
+    "text": "accurate like it just can't be right but",
+    "start": 1358.72,
+    "duration": 3.48
+  },
+  {
+    "text": "yeah it turned out people liked it I",
+    "start": 1360.44,
+    "duration": 3.44
+  },
+  {
+    "text": "want to be clear here art is incredibly",
+    "start": 1362.2,
+    "duration": 2.88
+  },
+  {
+    "text": "subjective and I think I got pretty",
+    "start": 1363.88,
+    "duration": 2.72
+  },
+  {
+    "text": "lucky with the rating I have absolutely",
+    "start": 1365.08,
+    "duration": 2.959
+  },
+  {
+    "text": "no ability to objectively judge the",
+    "start": 1366.6,
+    "duration": 3.04
+  },
+  {
+    "text": "quality of the stuff I make because I",
+    "start": 1368.039,
+    "duration": 3.24
+  },
+  {
+    "text": "made it but I definitely feel like this",
+    "start": 1369.64,
+    "duration": 3.2
+  },
+  {
+    "text": "was an insanely High result compared to",
+    "start": 1371.279,
+    "duration": 3.081
+  },
+  {
+    "text": "what I was expecting and there were many",
+    "start": 1372.84,
+    "duration": 2.839
+  },
+  {
+    "text": "games that I played and rated that could",
+    "start": 1374.36,
+    "duration": 2.439
+  },
+  {
+    "text": "have done much better than me if things",
+    "start": 1375.679,
+    "duration": 3.441
+  },
+  {
+    "text": "had gone another way if you submitted",
+    "start": 1376.799,
+    "duration": 3.841
+  },
+  {
+    "text": "anything for this Jam you've already won",
+    "start": 1379.12,
+    "duration": 3.12
+  },
+  {
+    "text": "a huge Victory and I'm not just saying",
+    "start": 1380.64,
+    "duration": 3.24
+  },
+  {
+    "text": "that it's genuinely impossible to make",
+    "start": 1382.24,
+    "duration": 3.12
+  },
+  {
+    "text": "anything during a game jam and it's",
+    "start": 1383.88,
+    "duration": 2.84
+  },
+  {
+    "text": "incredible that anyone could finish a",
+    "start": 1385.36,
+    "duration": 3.52
+  },
+  {
+    "text": "game in time at all also you know the",
+    "start": 1386.72,
+    "duration": 3.48
+  },
+  {
+    "text": "point isn't really to win it's to",
+    "start": 1388.88,
+    "duration": 2.52
+  },
+  {
+    "text": "improve and challenge yourself so the",
+    "start": 1390.2,
+    "duration": 2.92
+  },
+  {
+    "text": "rating only matters so much so I don't",
+    "start": 1391.4,
+    "duration": 3.279
+  },
+  {
+    "text": "know how objective or important the",
+    "start": 1393.12,
+    "duration": 3.36
+  },
+  {
+    "text": "rating I got was but given my history it",
+    "start": 1394.679,
+    "duration": 3.521
+  },
+  {
+    "text": "did feel pretty great after all those",
+    "start": 1396.48,
+    "duration": 3.04
+  },
+  {
+    "text": "years of backsliding doing worse and",
+    "start": 1398.2,
+    "duration": 2.92
+  },
+  {
+    "text": "worse with these jams I was incredibly",
+    "start": 1399.52,
+    "duration": 2.84
+  },
+  {
+    "text": "proud to do better than I ever had",
+    "start": 1401.12,
+    "duration": 3.72
+  },
+  {
+    "text": "before I was not washed and my goal was",
+    "start": 1402.36,
+    "duration": 4.28
+  },
+  {
+    "text": "achieved which was awesome I was also in",
+    "start": 1404.84,
+    "duration": 3.28
+  },
+  {
+    "text": "the top 100 which meant I technically",
+    "start": 1406.64,
+    "duration": 3.0
+  },
+  {
+    "text": "had a chance to win the whole thing",
+    "start": 1408.12,
+    "duration": 2.48
+  },
+  {
+    "text": "looking through the other games in",
+    "start": 1409.64,
+    "duration": 2.6
+  },
+  {
+    "text": "contention I didn't really expect to win",
+    "start": 1410.6,
+    "duration": 2.84
+  },
+  {
+    "text": "but I was hoping I might get shown as",
+    "start": 1412.24,
+    "duration": 2.319
+  },
+  {
+    "text": "b-roll footage or something in the",
+    "start": 1413.44,
+    "duration": 2.52
+  },
+  {
+    "text": "Reveal video and I was looking forward",
+    "start": 1414.559,
+    "duration": 3.24
+  },
+  {
+    "text": "to seeing who would make it I did notice",
+    "start": 1415.96,
+    "duration": 3.319
+  },
+  {
+    "text": "that picture perfect also made it to the",
+    "start": 1417.799,
+    "duration": 3.48
+  },
+  {
+    "text": "top 100 which was incredibly hyped and I",
+    "start": 1419.279,
+    "duration": 3.321
+  },
+  {
+    "text": "had the personal thought that if I won",
+    "start": 1421.279,
+    "duration": 2.481
+  },
+  {
+    "text": "and they didn't then Mark Brown",
+    "start": 1422.6,
+    "duration": 3.319
+  },
+  {
+    "text": "officially had terrible taste about a",
+    "start": 1423.76,
+    "duration": 3.84
+  },
+  {
+    "text": "week later the video detailing the 20",
+    "start": 1425.919,
+    "duration": 3.921
+  },
+  {
+    "text": "winners released I settled down to watch",
+    "start": 1427.6,
+    "duration": 3.439
+  },
+  {
+    "text": "it and right as Mark started talking",
+    "start": 1429.84,
+    "duration": 2.28
+  },
+  {
+    "text": "about the first game that had won I",
+    "start": 1431.039,
+    "duration": 3.601
+  },
+  {
+    "text": "heard something familiar conventional",
+    "start": 1432.12,
+    "duration": 4.159
+  },
+  {
+    "text": "design wisdom suggests that you",
+    "start": 1434.64,
+    "duration": 4.0
+  },
+  {
+    "text": "shouldn't use a full-on physics system",
+    "start": 1436.279,
+    "duration": 4.681
+  },
+  {
+    "text": "to drive your platforming character wait",
+    "start": 1438.64,
+    "duration": 4.24
+  },
+  {
+    "text": "a minute that's the background music",
+    "start": 1440.96,
+    "duration": 5.68
+  },
+  {
+    "text": "from my game I'm about to win and yep I",
+    "start": 1442.88,
+    "duration": 5.12
+  },
+  {
+    "text": "was officially one of the 20 winners of",
+    "start": 1446.64,
+    "duration": 3.32
+  },
+  {
+    "text": "the gmtk game Jam this year I didn't",
+    "start": 1448.0,
+    "duration": 3.2
+  },
+  {
+    "text": "know what to do with myself for a minute",
+    "start": 1449.96,
+    "duration": 2.56
+  },
+  {
+    "text": "there so I left a comment thinking him",
+    "start": 1451.2,
+    "duration": 2.76
+  },
+  {
+    "text": "and congratulating everyone and I",
+    "start": 1452.52,
+    "duration": 2.72
+  },
+  {
+    "text": "watched the rest of the video it's a",
+    "start": 1453.96,
+    "duration": 2.4
+  },
+  {
+    "text": "good video it's up on YouTube if you",
+    "start": 1455.24,
+    "duration": 2.96
+  },
+  {
+    "text": "want to watch it notably Picture Perfect",
+    "start": 1456.36,
+    "duration": 3.4
+  },
+  {
+    "text": "did also win and I was incredibly proud",
+    "start": 1458.2,
+    "duration": 4.12
+  },
+  {
+    "text": "of them they deserve it the most so",
+    "start": 1459.76,
+    "duration": 4.039
+  },
+  {
+    "text": "that's the story of how I won the gmtk",
+    "start": 1462.32,
+    "duration": 3.079
+  },
+  {
+    "text": "game jam and the biggest game Jam in the",
+    "start": 1463.799,
+    "duration": 3.441
+  },
+  {
+    "text": "history of it iio at least until next",
+    "start": 1465.399,
+    "duration": 3.361
+  },
+  {
+    "text": "year's is inevitably even big bger and a",
+    "start": 1467.24,
+    "duration": 3.319
+  },
+  {
+    "text": "new group of people will take the title",
+    "start": 1468.76,
+    "duration": 3.12
+  },
+  {
+    "text": "I'm proud of the game I made and I'm",
+    "start": 1470.559,
+    "duration": 2.401
+  },
+  {
+    "text": "happy I got to join this jam with",
+    "start": 1471.88,
+    "duration": 2.96
+  },
+  {
+    "text": "everyone looking back while my goal was",
+    "start": 1472.96,
+    "duration": 3.16
+  },
+  {
+    "text": "to improve over my previous year's",
+    "start": 1474.84,
+    "duration": 2.88
+  },
+  {
+    "text": "results I think it was learning from",
+    "start": 1476.12,
+    "duration": 3.159
+  },
+  {
+    "text": "those older games that helped me improve",
+    "start": 1477.72,
+    "duration": 3.52
+  },
+  {
+    "text": "and got me here now next year I don't",
+    "start": 1479.279,
+    "duration": 3.081
+  },
+  {
+    "text": "think I'm going to win again that's just",
+    "start": 1481.24,
+    "duration": 2.72
+  },
+  {
+    "text": "not always how the cookie crumbles but",
+    "start": 1482.36,
+    "duration": 3.439
+  },
+  {
+    "text": "that's okay I know I can make something",
+    "start": 1483.96,
+    "duration": 3.199
+  },
+  {
+    "text": "I can be proud of and I know it's all",
+    "start": 1485.799,
+    "duration": 3.041
+  },
+  {
+    "text": "part of the process if I had any lesson",
+    "start": 1487.159,
+    "duration": 2.64
+  },
+  {
+    "text": "to take from this it would be that",
+    "start": 1488.84,
+    "duration": 2.0
+  },
+  {
+    "text": "winning really isn't the part that",
+    "start": 1489.799,
+    "duration": 2.641
+  },
+  {
+    "text": "matters it's the lessons you learn and",
+    "start": 1490.84,
+    "duration": 3.319
+  },
+  {
+    "text": "the journey you take along the way well",
+    "start": 1492.44,
+    "duration": 2.76
+  },
+  {
+    "text": "that and the other lesson is you should",
+    "start": 1494.159,
+    "duration": 2.161
+  },
+  {
+    "text": "wish list the game inverted Journey on",
+    "start": 1495.2,
+    "duration": 2.4
+  },
+  {
+    "text": "Steam it's a really cool puzzle platform",
+    "start": 1496.32,
+    "duration": 4.0
+  },
+  {
+    "text": "you'll enjoy trust me on",
+    "start": 1497.6,
+    "duration": 2.72
+  },
+  {
+    "text": "[Music]",
+    "start": 1501.55,
+    "duration": 8.85
+  }
+]

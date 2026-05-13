@@ -1,0 +1,927 @@
+[
+  {
+    "text": "[Music]",
+    "start": 0.32,
+    "duration": 0.67
+  },
+  {
+    "text": "[Applause]",
+    "start": 0.68,
+    "duration": 0.31
+  },
+  {
+    "text": "[Music]",
+    "start": 0.99,
+    "duration": 2.86
+  },
+  {
+    "text": "[Applause]",
+    "start": 0.99,
+    "duration": 2.86
+  },
+  {
+    "text": "[Music]",
+    "start": 4.54,
+    "duration": 7.7
+  },
+  {
+    "text": "o the wheels on a bus go round and round",
+    "start": 7.16,
+    "duration": 8.639
+  },
+  {
+    "text": "round and round round and round the",
+    "start": 12.24,
+    "duration": 8.16
+  },
+  {
+    "text": "whels on a bus go round and round all",
+    "start": 15.799,
+    "duration": 5.841
+  },
+  {
+    "text": "through the",
+    "start": 20.4,
+    "duration": 5.199
+  },
+  {
+    "text": "[Music]",
+    "start": 21.64,
+    "duration": 8.959
+  },
+  {
+    "text": "town the cow on a bus more more more",
+    "start": 25.599,
+    "duration": 11.521
+  },
+  {
+    "text": "mo mo mo mo mo mo on the bus says mo mo",
+    "start": 30.599,
+    "duration": 10.131
+  },
+  {
+    "text": "mo all through the",
+    "start": 37.12,
+    "duration": 6.88
+  },
+  {
+    "text": "[Music]",
+    "start": 40.73,
+    "duration": 7.1
+  },
+  {
+    "text": "town the Sheep on the bus",
+    "start": 44.0,
+    "duration": 7.399
+  },
+  {
+    "text": "[Music]",
+    "start": 47.83,
+    "duration": 8.69
+  },
+  {
+    "text": "says the Sheep on the bus says ba ba ba",
+    "start": 51.399,
+    "duration": 7.521
+  },
+  {
+    "text": "all through the",
+    "start": 56.52,
+    "duration": 4.57
+  },
+  {
+    "text": "town",
+    "start": 58.92,
+    "duration": 8.239
+  },
+  {
+    "text": "[Music]",
+    "start": 61.09,
+    "duration": 10.11
+  },
+  {
+    "text": "the big on the bus goes oink oink oink",
+    "start": 67.159,
+    "duration": 8.361
+  },
+  {
+    "text": "oink oink oink oink oink oink the big on",
+    "start": 71.2,
+    "duration": 9.0
+  },
+  {
+    "text": "the bus goes oink oink oink all through",
+    "start": 75.52,
+    "duration": 5.56
+  },
+  {
+    "text": "the",
+    "start": 80.2,
+    "duration": 4.36
+  },
+  {
+    "text": "[Music]",
+    "start": 81.08,
+    "duration": 7.2
+  },
+  {
+    "text": "town the horse on the bus says nigh",
+    "start": 84.56,
+    "duration": 7.4
+  },
+  {
+    "text": "neigh neigh neigh nigh nigh neigh nigh",
+    "start": 88.28,
+    "duration": 7.4
+  },
+  {
+    "text": "neigh neigh the hor on the by STS nigh",
+    "start": 91.96,
+    "duration": 7.38
+  },
+  {
+    "text": "neigh neigh all through the",
+    "start": 95.68,
+    "duration": 7.009
+  },
+  {
+    "text": "[Music]",
+    "start": 99.34,
+    "duration": 3.349
+  },
+  {
+    "text": "town the Tiger on the bus says Roar Roar",
+    "start": 103.079,
+    "duration": 8.761
+  },
+  {
+    "text": "Roar Roar Roar Roar Roar Roar Roar the",
+    "start": 107.159,
+    "duration": 9.24
+  },
+  {
+    "text": "Tiger on the bus says roar roar roar all",
+    "start": 111.84,
+    "duration": 7.0
+  },
+  {
+    "text": "through the",
+    "start": 116.399,
+    "duration": 3.771
+  },
+  {
+    "text": "town",
+    "start": 118.84,
+    "duration": 7.369
+  },
+  {
+    "text": "[Music]",
+    "start": 120.17,
+    "duration": 6.039
+  },
+  {
+    "text": "the whs on the bus go round and round",
+    "start": 126.28,
+    "duration": 7.72
+  },
+  {
+    "text": "round and round round and round the",
+    "start": 130.319,
+    "duration": 8.241
+  },
+  {
+    "text": "rails on a bus go round and round all",
+    "start": 134.0,
+    "duration": 7.519
+  },
+  {
+    "text": "through the",
+    "start": 138.56,
+    "duration": 2.959
+  },
+  {
+    "text": "town",
+    "start": 142.72,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 146.36,
+    "duration": 4.69
+  },
+  {
+    "text": "yay",
+    "start": 148.76,
+    "duration": 5.85
+  },
+  {
+    "text": "[Music]",
+    "start": 151.05,
+    "duration": 3.56
+  },
+  {
+    "text": "H this is a way we flood the balloons in",
+    "start": 156.04,
+    "duration": 5.479
+  },
+  {
+    "text": "the balloons in the balloons this is the",
+    "start": 159.2,
+    "duration": 5.88
+  },
+  {
+    "text": "way we the balloons when we want to swim",
+    "start": 161.519,
+    "duration": 5.521
+  },
+  {
+    "text": "bu",
+    "start": 165.08,
+    "duration": 7.43
+  },
+  {
+    "text": "bu bu J jum jum jum",
+    "start": 167.04,
+    "duration": 8.96
+  },
+  {
+    "text": "[Music]",
+    "start": 172.51,
+    "duration": 6.809
+  },
+  {
+    "text": "jum this is the way we get ready get",
+    "start": 176.0,
+    "duration": 6.239
+  },
+  {
+    "text": "ready get readyy this is the way we get",
+    "start": 179.319,
+    "duration": 7.761
+  },
+  {
+    "text": "readyy when we want to swim where where",
+    "start": 182.239,
+    "duration": 9.28
+  },
+  {
+    "text": "where where where with bear bear bear",
+    "start": 187.08,
+    "duration": 6.879
+  },
+  {
+    "text": "bear",
+    "start": 191.519,
+    "duration": 2.44
+  },
+  {
+    "text": "bear aha this is the way we jump the",
+    "start": 194.64,
+    "duration": 7.159
+  },
+  {
+    "text": "jump in the jump in the this is the way",
+    "start": 198.959,
+    "duration": 7.041
+  },
+  {
+    "text": "we jump the when we want to swim climb",
+    "start": 201.799,
+    "duration": 9.121
+  },
+  {
+    "text": "climb climb climb climb slide slide",
+    "start": 206.0,
+    "duration": 7.92
+  },
+  {
+    "text": "slide slide",
+    "start": 210.92,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 214.58,
+    "duration": 4.98
+  },
+  {
+    "text": "slide this is a way we into water into",
+    "start": 216.04,
+    "duration": 6.52
+  },
+  {
+    "text": "water into water this is the way we into",
+    "start": 219.56,
+    "duration": 6.319
+  },
+  {
+    "text": "water when we swimming pool Splash",
+    "start": 222.56,
+    "duration": 7.36
+  },
+  {
+    "text": "splish splish splish splish squish",
+    "start": 225.879,
+    "duration": 7.121
+  },
+  {
+    "text": "squish squish squish",
+    "start": 229.92,
+    "duration": 4.66
+  },
+  {
+    "text": "squish",
+    "start": 233.0,
+    "duration": 3.079
+  },
+  {
+    "text": "[Music]",
+    "start": 234.58,
+    "duration": 4.379
+  },
+  {
+    "text": "H this is the way we play with bubbles",
+    "start": 236.079,
+    "duration": 4.401
+  },
+  {
+    "text": "play with bubbles bubes play with",
+    "start": 238.959,
+    "duration": 3.56
+  },
+  {
+    "text": "bubbles this is the way we play with",
+    "start": 240.48,
+    "duration": 5.52
+  },
+  {
+    "text": "bubbles when we swimming pool bubble",
+    "start": 242.519,
+    "duration": 7.521
+  },
+  {
+    "text": "bubble bubble bubble bubble bubble",
+    "start": 246.0,
+    "duration": 8.0
+  },
+  {
+    "text": "bubble bubble bubble",
+    "start": 250.04,
+    "duration": 3.96
+  },
+  {
+    "text": "[Music]",
+    "start": 254.61,
+    "duration": 10.669
+  },
+  {
+    "text": "bubble",
+    "start": 268.6,
+    "duration": 3.0
+  },
+  {
+    "text": "everybody swimming in the pool jumping",
+    "start": 274.32,
+    "duration": 9.64
+  },
+  {
+    "text": "one by one it was cool I want to do like",
+    "start": 279.12,
+    "duration": 8.639
+  },
+  {
+    "text": "you can you teach me to hold your breath",
+    "start": 283.96,
+    "duration": 9.28
+  },
+  {
+    "text": "and jump into the pool that is the",
+    "start": 287.759,
+    "duration": 5.481
+  },
+  {
+    "text": "[Music]",
+    "start": 293.97,
+    "duration": 3.159
+  },
+  {
+    "text": "rule oh",
+    "start": 297.72,
+    "duration": 3.84
+  },
+  {
+    "text": "everybody is swimming in the",
+    "start": 302.52,
+    "duration": 8.6
+  },
+  {
+    "text": "pool dad is nled and it was cool I want",
+    "start": 305.68,
+    "duration": 9.88
+  },
+  {
+    "text": "to do like you can you teach me to take",
+    "start": 311.12,
+    "duration": 7.96
+  },
+  {
+    "text": "a breath and dive into the pool that is",
+    "start": 315.56,
+    "duration": 5.02
+  },
+  {
+    "text": "the",
+    "start": 319.08,
+    "duration": 9.399
+  },
+  {
+    "text": "[Music]",
+    "start": 320.58,
+    "duration": 10.54
+  },
+  {
+    "text": "r",
+    "start": 328.479,
+    "duration": 7.361
+  },
+  {
+    "text": "everybody swimming in the pool doggy",
+    "start": 331.12,
+    "duration": 9.12
+  },
+  {
+    "text": "Battle Sister it was schol I wanted to",
+    "start": 335.84,
+    "duration": 8.32
+  },
+  {
+    "text": "like you can you teach me to scoop your",
+    "start": 340.24,
+    "duration": 7.239
+  },
+  {
+    "text": "arms so quick inside the pool that is",
+    "start": 344.16,
+    "duration": 4.79
+  },
+  {
+    "text": "the",
+    "start": 347.479,
+    "duration": 6.361
+  },
+  {
+    "text": "[Music]",
+    "start": 348.95,
+    "duration": 7.4
+  },
+  {
+    "text": "room",
+    "start": 353.84,
+    "duration": 4.639
+  },
+  {
+    "text": "[Music]",
+    "start": 356.35,
+    "duration": 5.129
+  },
+  {
+    "text": "aha",
+    "start": 358.479,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 364.05,
+    "duration": 5.93
+  },
+  {
+    "text": "there was a farmer had a dog and Bingle",
+    "start": 370.44,
+    "duration": 12.84
+  },
+  {
+    "text": "was his name Mo b i n g o b i n g o b i",
+    "start": 374.319,
+    "duration": 13.961
+  },
+  {
+    "text": "n g o and Bingo was his",
+    "start": 383.28,
+    "duration": 5.0
+  },
+  {
+    "text": "name",
+    "start": 388.4,
+    "duration": 3.0
+  },
+  {
+    "text": "there was a farmer had a dog and Bingo",
+    "start": 393.0,
+    "duration": 8.56
+  },
+  {
+    "text": "was his name o i n g",
+    "start": 396.88,
+    "duration": 13.78
+  },
+  {
+    "text": "o i n g o i n g o n was his",
+    "start": 401.56,
+    "duration": 13.079
+  },
+  {
+    "text": "[Music]",
+    "start": 410.66,
+    "duration": 8.06
+  },
+  {
+    "text": "name there Bo a dog who likes a cat and",
+    "start": 414.639,
+    "duration": 7.321
+  },
+  {
+    "text": "bingo was his name",
+    "start": 418.72,
+    "duration": 6.039
+  },
+  {
+    "text": "o NG",
+    "start": 421.96,
+    "duration": 6.28
+  },
+  {
+    "text": "o NG",
+    "start": 424.759,
+    "duration": 8.401
+  },
+  {
+    "text": "o o and Bingo was his",
+    "start": 428.24,
+    "duration": 8.089
+  },
+  {
+    "text": "[Music]",
+    "start": 433.16,
+    "duration": 3.169
+  },
+  {
+    "text": "name there was a farmer had a dog and",
+    "start": 437.199,
+    "duration": 7.601
+  },
+  {
+    "text": "Bingo was his name",
+    "start": 441.319,
+    "duration": 6.28
+  },
+  {
+    "text": "o g",
+    "start": 444.8,
+    "duration": 4.92
+  },
+  {
+    "text": "o g o",
+    "start": 447.599,
+    "duration": 3.88
+  },
+  {
+    "text": "[Music]",
+    "start": 449.72,
+    "duration": 6.03
+  },
+  {
+    "text": "g o and Bingo was his",
+    "start": 451.479,
+    "duration": 7.381
+  },
+  {
+    "text": "[Music]",
+    "start": 455.75,
+    "duration": 3.11
+  },
+  {
+    "text": "name there was a father had a dog and",
+    "start": 459.8,
+    "duration": 8.239
+  },
+  {
+    "text": "Bing was his name",
+    "start": 463.919,
+    "duration": 4.12
+  },
+  {
+    "text": "Mo oh and Bingo was his",
+    "start": 473.56,
+    "duration": 4.479
+  },
+  {
+    "text": "[Music]",
+    "start": 476.71,
+    "duration": 4.609
+  },
+  {
+    "text": "name H",
+    "start": 478.039,
+    "duration": 3.28
+  },
+  {
+    "text": "[Music]",
+    "start": 483.72,
+    "duration": 12.08
+  },
+  {
+    "text": "batty cake batty cake bakers man B me a",
+    "start": 490.68,
+    "duration": 7.799
+  },
+  {
+    "text": "cake as fast as you",
+    "start": 495.8,
+    "duration": 10.36
+  },
+  {
+    "text": "canes and Mark be put it in the for baby",
+    "start": 498.479,
+    "duration": 9.761
+  },
+  {
+    "text": "[Music]",
+    "start": 506.16,
+    "duration": 5.08
+  },
+  {
+    "text": "and",
+    "start": 508.24,
+    "duration": 3.0
+  },
+  {
+    "text": "aha",
+    "start": 512.36,
+    "duration": 9.129
+  },
+  {
+    "text": "[Music]",
+    "start": 514.429,
+    "duration": 7.06
+  },
+  {
+    "text": "o fatty cake fatty cake bers man make me",
+    "start": 521.64,
+    "duration": 11.08
+  },
+  {
+    "text": "a cake as fast as you can fatties and",
+    "start": 527.44,
+    "duration": 10.76
+  },
+  {
+    "text": "Mar that be put it in a ho for baby and",
+    "start": 532.72,
+    "duration": 8.48
+  },
+  {
+    "text": "me",
+    "start": 538.2,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 546.43,
+    "duration": 8.07
+  },
+  {
+    "text": "cake batty cake B man bab me a cake as",
+    "start": 555.24,
+    "duration": 7.24
+  },
+  {
+    "text": "fast as you",
+    "start": 560.72,
+    "duration": 7.4
+  },
+  {
+    "text": "canat and roll Mark be put it in a home",
+    "start": 562.48,
+    "duration": 9.24
+  },
+  {
+    "text": "for baby and",
+    "start": 568.12,
+    "duration": 3.6
+  },
+  {
+    "text": "me",
+    "start": 572.959,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 577.04,
+    "duration": 9.69
+  },
+  {
+    "text": "h",
+    "start": 585.2,
+    "duration": 4.589
+  },
+  {
+    "text": "[Music]",
+    "start": 586.73,
+    "duration": 3.059
+  },
+  {
+    "text": "[Music]",
+    "start": 592.65,
+    "duration": 7.83
+  },
+  {
+    "text": "ah-huh",
+    "start": 598.12,
+    "duration": 4.56
+  },
+  {
+    "text": "Daddy I love",
+    "start": 600.48,
+    "duration": 6.4
+  },
+  {
+    "text": "you you are them best is",
+    "start": 602.68,
+    "duration": 7.2
+  },
+  {
+    "text": "true teach me all the things you know I",
+    "start": 606.88,
+    "duration": 7.88
+  },
+  {
+    "text": "want to be like you Daddy M you are",
+    "start": 609.88,
+    "duration": 6.519
+  },
+  {
+    "text": "great",
+    "start": 614.76,
+    "duration": 4.199
+  },
+  {
+    "text": "ideas we",
+    "start": 616.399,
+    "duration": 6.041
+  },
+  {
+    "text": "create make us happy all the time I for",
+    "start": 618.959,
+    "duration": 8.961
+  },
+  {
+    "text": "you right baby I love",
+    "start": 622.44,
+    "duration": 5.48
+  },
+  {
+    "text": "you",
+    "start": 628.04,
+    "duration": 4.64
+  },
+  {
+    "text": "Daddy I love",
+    "start": 630.48,
+    "duration": 7.88
+  },
+  {
+    "text": "you you are the best is true mhm let me",
+    "start": 632.68,
+    "duration": 9.719
+  },
+  {
+    "text": "do a new makeup I want to do on you",
+    "start": 638.36,
+    "duration": 6.4
+  },
+  {
+    "text": "daddy you are",
+    "start": 642.399,
+    "duration": 3.961
+  },
+  {
+    "text": "great",
+    "start": 644.76,
+    "duration": 4.199
+  },
+  {
+    "text": "ideas we",
+    "start": 646.36,
+    "duration": 5.84
+  },
+  {
+    "text": "create make us happy all the time I S",
+    "start": 648.959,
+    "duration": 9.0
+  },
+  {
+    "text": "for you this right dy I love",
+    "start": 652.2,
+    "duration": 5.759
+  },
+  {
+    "text": "you mhm",
+    "start": 658.04,
+    "duration": 4.68
+  },
+  {
+    "text": "Daddy I love",
+    "start": 660.519,
+    "duration": 7.921
+  },
+  {
+    "text": "you you are the best is true M teach me",
+    "start": 662.72,
+    "duration": 8.0
+  },
+  {
+    "text": "all the things you know I want to be",
+    "start": 668.44,
+    "duration": 6.32
+  },
+  {
+    "text": "like you daddy you are",
+    "start": 670.72,
+    "duration": 5.679
+  },
+  {
+    "text": "great",
+    "start": 674.76,
+    "duration": 4.199
+  },
+  {
+    "text": "ideas we",
+    "start": 676.399,
+    "duration": 5.801
+  },
+  {
+    "text": "create make us happy all the time I S",
+    "start": 678.959,
+    "duration": 9.0
+  },
+  {
+    "text": "for you this time daddy I love",
+    "start": 682.2,
+    "duration": 8.319
+  },
+  {
+    "text": "you",
+    "start": 687.959,
+    "duration": 4.721
+  },
+  {
+    "text": "Daddy I love",
+    "start": 690.519,
+    "duration": 6.401
+  },
+  {
+    "text": "you you are them best is",
+    "start": 692.68,
+    "duration": 7.2
+  },
+  {
+    "text": "true teach me all the things you know I",
+    "start": 696.92,
+    "duration": 7.84
+  },
+  {
+    "text": "want to be like you daddy you are",
+    "start": 699.88,
+    "duration": 6.519
+  },
+  {
+    "text": "great",
+    "start": 704.76,
+    "duration": 4.199
+  },
+  {
+    "text": "ideas we",
+    "start": 706.399,
+    "duration": 5.801
+  },
+  {
+    "text": "create make us happy all the time I sing",
+    "start": 708.959,
+    "duration": 9.0
+  },
+  {
+    "text": "for you this R Daddy I love you",
+    "start": 712.2,
+    "duration": 6.8
+  },
+  {
+    "text": "uhh",
+    "start": 717.959,
+    "duration": 4.161
+  },
+  {
+    "text": "[Music]",
+    "start": 719.0,
+    "duration": 3.12
+  }
+]

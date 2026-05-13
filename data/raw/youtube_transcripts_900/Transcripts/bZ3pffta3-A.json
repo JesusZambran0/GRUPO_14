@@ -1,0 +1,2247 @@
+[
+  {
+    "text": "in this video we will reveal our top",
+    "start": 0.0,
+    "duration": 5.46
+  },
+  {
+    "text": "seven Candlestick patterns going from",
+    "start": 3.06,
+    "duration": 5.16
+  },
+  {
+    "text": "Basics to Advanced patterns",
+    "start": 5.46,
+    "duration": 5.28
+  },
+  {
+    "text": "we will also show you how to use these",
+    "start": 8.22,
+    "duration": 4.68
+  },
+  {
+    "text": "patterns in combination with price",
+    "start": 10.74,
+    "duration": 4.92
+  },
+  {
+    "text": "action to spot high probability trade",
+    "start": 12.9,
+    "duration": 5.219
+  },
+  {
+    "text": "opportunities all in all this is going",
+    "start": 15.66,
+    "duration": 5.34
+  },
+  {
+    "text": "to be a Candlestick Trading masterclass",
+    "start": 18.119,
+    "duration": 5.461
+  },
+  {
+    "text": "a quick note before we start if you are",
+    "start": 21.0,
+    "duration": 4.859
+  },
+  {
+    "text": "interested in our free training click",
+    "start": 23.58,
+    "duration": 3.959
+  },
+  {
+    "text": "the link in the description to know more",
+    "start": 25.859,
+    "duration": 4.74
+  },
+  {
+    "text": "it's free and with that being said let's",
+    "start": 27.539,
+    "duration": 4.981
+  },
+  {
+    "text": "get started",
+    "start": 30.599,
+    "duration": 4.441
+  },
+  {
+    "text": "what are candlesticks",
+    "start": 32.52,
+    "duration": 4.8
+  },
+  {
+    "text": "candlesticks are just a simple way of",
+    "start": 35.04,
+    "duration": 4.32
+  },
+  {
+    "text": "looking at the historical price of the",
+    "start": 37.32,
+    "duration": 3.0
+  },
+  {
+    "text": "asset",
+    "start": 39.36,
+    "duration": 3.359
+  },
+  {
+    "text": "each Candlestick represents the price",
+    "start": 40.32,
+    "duration": 4.8
+  },
+  {
+    "text": "movement of the asset for a particular",
+    "start": 42.719,
+    "duration": 5.641
+  },
+  {
+    "text": "period of time so if we are on a daily",
+    "start": 45.12,
+    "duration": 6.119
+  },
+  {
+    "text": "chart a single candle represents the",
+    "start": 48.36,
+    "duration": 5.64
+  },
+  {
+    "text": "price action for one day",
+    "start": 51.239,
+    "duration": 5.64
+  },
+  {
+    "text": "on the chart we see two types of candles",
+    "start": 54.0,
+    "duration": 5.31
+  },
+  {
+    "text": "green candles and red candles",
+    "start": 56.879,
+    "duration": 4.921
+  },
+  {
+    "text": "[Music]",
+    "start": 59.31,
+    "duration": 5.13
+  },
+  {
+    "text": "a green candle is formed when the",
+    "start": 61.8,
+    "duration": 5.22
+  },
+  {
+    "text": "closing price is higher than the opening",
+    "start": 64.44,
+    "duration": 3.66
+  },
+  {
+    "text": "price",
+    "start": 67.02,
+    "duration": 3.48
+  },
+  {
+    "text": "this indicates that the buyers were",
+    "start": 68.1,
+    "duration": 4.559
+  },
+  {
+    "text": "stronger than the sellers",
+    "start": 70.5,
+    "duration": 5.22
+  },
+  {
+    "text": "similarly a red candle is formed when",
+    "start": 72.659,
+    "duration": 5.581
+  },
+  {
+    "text": "the closing price is lower than the",
+    "start": 75.72,
+    "duration": 3.719
+  },
+  {
+    "text": "opening price",
+    "start": 78.24,
+    "duration": 3.48
+  },
+  {
+    "text": "it indicates that the sellers were",
+    "start": 79.439,
+    "duration": 4.441
+  },
+  {
+    "text": "stronger than the buyers",
+    "start": 81.72,
+    "duration": 4.8
+  },
+  {
+    "text": "now the reason why most Traders use",
+    "start": 83.88,
+    "duration": 5.16
+  },
+  {
+    "text": "candlesticks is because it gives us a",
+    "start": 86.52,
+    "duration": 4.08
+  },
+  {
+    "text": "better understanding of the price",
+    "start": 89.04,
+    "duration": 2.939
+  },
+  {
+    "text": "movement",
+    "start": 90.6,
+    "duration": 4.979
+  },
+  {
+    "text": "a Candlestick consists of two parts the",
+    "start": 91.979,
+    "duration": 7.801
+  },
+  {
+    "text": "Wicks or shadows and the body",
+    "start": 95.579,
+    "duration": 7.08
+  },
+  {
+    "text": "the end of the upper Wick shows us the",
+    "start": 99.78,
+    "duration": 5.879
+  },
+  {
+    "text": "highest price achieved during that time",
+    "start": 102.659,
+    "duration": 5.761
+  },
+  {
+    "text": "similarly the end of the lower Wick",
+    "start": 105.659,
+    "duration": 5.1
+  },
+  {
+    "text": "shows us the lowest price achieved",
+    "start": 108.42,
+    "duration": 4.019
+  },
+  {
+    "text": "during that period",
+    "start": 110.759,
+    "duration": 4.561
+  },
+  {
+    "text": "when it comes to the candle body things",
+    "start": 112.439,
+    "duration": 4.5
+  },
+  {
+    "text": "start to differ",
+    "start": 115.32,
+    "duration": 4.2
+  },
+  {
+    "text": "for green candles the lower end of the",
+    "start": 116.939,
+    "duration": 5.281
+  },
+  {
+    "text": "body is the opening price and the upper",
+    "start": 119.52,
+    "duration": 5.16
+  },
+  {
+    "text": "end is the closing price",
+    "start": 122.22,
+    "duration": 5.28
+  },
+  {
+    "text": "on the red candle the upper end of the",
+    "start": 124.68,
+    "duration": 5.7
+  },
+  {
+    "text": "body is the open and the lower end is",
+    "start": 127.5,
+    "duration": 4.379
+  },
+  {
+    "text": "the close",
+    "start": 130.38,
+    "duration": 3.54
+  },
+  {
+    "text": "before we move on to the Candlestick",
+    "start": 131.879,
+    "duration": 4.5
+  },
+  {
+    "text": "patterns we need to understand a few",
+    "start": 133.92,
+    "duration": 4.98
+  },
+  {
+    "text": "Concepts about candlesticks",
+    "start": 136.379,
+    "duration": 4.201
+  },
+  {
+    "text": "concept one",
+    "start": 138.9,
+    "duration": 4.559
+  },
+  {
+    "text": "Big versus small body",
+    "start": 140.58,
+    "duration": 5.7
+  },
+  {
+    "text": "the body of a particular candle can tell",
+    "start": 143.459,
+    "duration": 4.5
+  },
+  {
+    "text": "us a lot about the strength or",
+    "start": 146.28,
+    "duration": 4.56
+  },
+  {
+    "text": "weaknesses of the buyers and sellers",
+    "start": 147.959,
+    "duration": 5.28
+  },
+  {
+    "text": "for example here we have two green",
+    "start": 150.84,
+    "duration": 5.1
+  },
+  {
+    "text": "candles the candle on the left has a big",
+    "start": 153.239,
+    "duration": 6.061
+  },
+  {
+    "text": "body and relatively small wicks",
+    "start": 155.94,
+    "duration": 5.939
+  },
+  {
+    "text": "the price opened down here",
+    "start": 159.3,
+    "duration": 5.46
+  },
+  {
+    "text": "initially the sellers tried to push the",
+    "start": 161.879,
+    "duration": 6.121
+  },
+  {
+    "text": "price down the sellers were very weak as",
+    "start": 164.76,
+    "duration": 5.58
+  },
+  {
+    "text": "the buyers quickly came in and took the",
+    "start": 168.0,
+    "duration": 4.08
+  },
+  {
+    "text": "price higher",
+    "start": 170.34,
+    "duration": 4.14
+  },
+  {
+    "text": "then the buyers were able to travel a",
+    "start": 172.08,
+    "duration": 4.32
+  },
+  {
+    "text": "lot of distance without any pressure",
+    "start": 174.48,
+    "duration": 3.6
+  },
+  {
+    "text": "from the sellers",
+    "start": 176.4,
+    "duration": 4.68
+  },
+  {
+    "text": "as a result the price closed very near",
+    "start": 178.08,
+    "duration": 4.739
+  },
+  {
+    "text": "to the high",
+    "start": 181.08,
+    "duration": 3.84
+  },
+  {
+    "text": "this shows us that the buyers were",
+    "start": 182.819,
+    "duration": 3.961
+  },
+  {
+    "text": "significantly stronger than the sellers",
+    "start": 184.92,
+    "duration": 4.2
+  },
+  {
+    "text": "during this candle",
+    "start": 186.78,
+    "duration": 4.56
+  },
+  {
+    "text": "on the second candle the story is",
+    "start": 189.12,
+    "duration": 3.36
+  },
+  {
+    "text": "different",
+    "start": 191.34,
+    "duration": 4.02
+  },
+  {
+    "text": "the price opened here and the buyers",
+    "start": 192.48,
+    "duration": 4.979
+  },
+  {
+    "text": "started to move the price",
+    "start": 195.36,
+    "duration": 4.68
+  },
+  {
+    "text": "they raised the price to a new high but",
+    "start": 197.459,
+    "duration": 4.981
+  },
+  {
+    "text": "at the high the sellers stepped in and",
+    "start": 200.04,
+    "duration": 4.74
+  },
+  {
+    "text": "took the price downwards",
+    "start": 202.44,
+    "duration": 4.5
+  },
+  {
+    "text": "the sellers were powerful and nearly",
+    "start": 204.78,
+    "duration": 4.319
+  },
+  {
+    "text": "covered the entire distance back to the",
+    "start": 206.94,
+    "duration": 3.719
+  },
+  {
+    "text": "opening price",
+    "start": 209.099,
+    "duration": 3.961
+  },
+  {
+    "text": "but the buyers just about managed to",
+    "start": 210.659,
+    "duration": 4.981
+  },
+  {
+    "text": "close the price above the open",
+    "start": 213.06,
+    "duration": 5.039
+  },
+  {
+    "text": "in this instance we can see that the",
+    "start": 215.64,
+    "duration": 4.2
+  },
+  {
+    "text": "buyers were stronger than the sellers",
+    "start": 218.099,
+    "duration": 3.661
+  },
+  {
+    "text": "but the difference between their power",
+    "start": 219.84,
+    "duration": 4.2
+  },
+  {
+    "text": "was insignificant",
+    "start": 221.76,
+    "duration": 4.44
+  },
+  {
+    "text": "when the candle's body is relatively",
+    "start": 224.04,
+    "duration": 4.38
+  },
+  {
+    "text": "bigger than the Wicks it shows that",
+    "start": 226.2,
+    "duration": 4.56
+  },
+  {
+    "text": "either the buyers or the sellers were in",
+    "start": 228.42,
+    "duration": 3.42
+  },
+  {
+    "text": "control",
+    "start": 230.76,
+    "duration": 3.3
+  },
+  {
+    "text": "on the other hand when the body is",
+    "start": 231.84,
+    "duration": 4.259
+  },
+  {
+    "text": "smaller than the Wicks it shows that",
+    "start": 234.06,
+    "duration": 4.08
+  },
+  {
+    "text": "there was much less control from either",
+    "start": 236.099,
+    "duration": 4.621
+  },
+  {
+    "text": "side it was a tough contest between",
+    "start": 238.14,
+    "duration": 5.22
+  },
+  {
+    "text": "buyers and sellers",
+    "start": 240.72,
+    "duration": 5.939
+  },
+  {
+    "text": "concept 2 large wicks",
+    "start": 243.36,
+    "duration": 6.42
+  },
+  {
+    "text": "whenever we spot a large Wick above or",
+    "start": 246.659,
+    "duration": 5.94
+  },
+  {
+    "text": "below the body it gives us a strong clue",
+    "start": 249.78,
+    "duration": 4.86
+  },
+  {
+    "text": "about the price action",
+    "start": 252.599,
+    "duration": 4.561
+  },
+  {
+    "text": "if we spot a large Wick above the body",
+    "start": 254.64,
+    "duration": 4.8
+  },
+  {
+    "text": "it shows us that the sellers are",
+    "start": 257.16,
+    "duration": 4.979
+  },
+  {
+    "text": "strongly selling on these levels for the",
+    "start": 259.44,
+    "duration": 4.74
+  },
+  {
+    "text": "price to move higher the buyers will",
+    "start": 262.139,
+    "duration": 3.84
+  },
+  {
+    "text": "need a lot of effort",
+    "start": 264.18,
+    "duration": 4.62
+  },
+  {
+    "text": "similarly if we spot a large Wick below",
+    "start": 265.979,
+    "duration": 5.461
+  },
+  {
+    "text": "the body it shows us that the buyers are",
+    "start": 268.8,
+    "duration": 5.1
+  },
+  {
+    "text": "strongly buying at these lower levels",
+    "start": 271.44,
+    "duration": 4.38
+  },
+  {
+    "text": "If the sellers want to move the price",
+    "start": 273.9,
+    "duration": 5.64
+  },
+  {
+    "text": "lower they must overcome these buyers",
+    "start": 275.82,
+    "duration": 6.36
+  },
+  {
+    "text": "so the concepts of body and Wicks are",
+    "start": 279.54,
+    "duration": 4.86
+  },
+  {
+    "text": "essential moving forward keep them in",
+    "start": 282.18,
+    "duration": 4.2
+  },
+  {
+    "text": "mind as we begin to understand some",
+    "start": 284.4,
+    "duration": 4.62
+  },
+  {
+    "text": "basic Candlestick patterns if you are",
+    "start": 286.38,
+    "duration": 4.86
+  },
+  {
+    "text": "enjoying this video so far then be sure",
+    "start": 289.02,
+    "duration": 4.08
+  },
+  {
+    "text": "to hit the like button and subscribe to",
+    "start": 291.24,
+    "duration": 3.72
+  },
+  {
+    "text": "our channel so that you never miss any",
+    "start": 293.1,
+    "duration": 4.58
+  },
+  {
+    "text": "of our new videos",
+    "start": 294.96,
+    "duration": 2.72
+  },
+  {
+    "text": "basic patterns",
+    "start": 298.86,
+    "duration": 6.18
+  },
+  {
+    "text": "pattern number one bullish pin bar",
+    "start": 301.259,
+    "duration": 6.601
+  },
+  {
+    "text": "a bullish pin bar is a strong reversal",
+    "start": 305.04,
+    "duration": 5.64
+  },
+  {
+    "text": "Candlestick pattern it indicates a",
+    "start": 307.86,
+    "duration": 5.58
+  },
+  {
+    "text": "potential reversal to the upside",
+    "start": 310.68,
+    "duration": 5.459
+  },
+  {
+    "text": "a bullish pin bar consists of three",
+    "start": 313.44,
+    "duration": 6.96
+  },
+  {
+    "text": "elements a small green body a large Wick",
+    "start": 316.139,
+    "duration": 7.981
+  },
+  {
+    "text": "below the body a tiny or no Wick above",
+    "start": 320.4,
+    "duration": 4.92
+  },
+  {
+    "text": "the body",
+    "start": 324.12,
+    "duration": 3.48
+  },
+  {
+    "text": "let's understand the psychology behind",
+    "start": 325.32,
+    "duration": 3.84
+  },
+  {
+    "text": "this pattern",
+    "start": 327.6,
+    "duration": 4.319
+  },
+  {
+    "text": "a bullish pin bar shows that the price",
+    "start": 329.16,
+    "duration": 5.46
+  },
+  {
+    "text": "opened around this area and instantly",
+    "start": 331.919,
+    "duration": 4.56
+  },
+  {
+    "text": "the sellers tried to take the prices",
+    "start": 334.62,
+    "duration": 3.12
+  },
+  {
+    "text": "down",
+    "start": 336.479,
+    "duration": 3.361
+  },
+  {
+    "text": "they were able to push the prices down",
+    "start": 337.74,
+    "duration": 4.32
+  },
+  {
+    "text": "but at some point the lower prices",
+    "start": 339.84,
+    "duration": 5.34
+  },
+  {
+    "text": "triggered buy orders from the buyers",
+    "start": 342.06,
+    "duration": 5.34
+  },
+  {
+    "text": "the buyers were significantly stronger",
+    "start": 345.18,
+    "duration": 4.079
+  },
+  {
+    "text": "than the sellers as they pushed the",
+    "start": 347.4,
+    "duration": 4.739
+  },
+  {
+    "text": "price beyond the open therefore if we",
+    "start": 349.259,
+    "duration": 4.861
+  },
+  {
+    "text": "think about it the buyers covered more",
+    "start": 352.139,
+    "duration": 3.961
+  },
+  {
+    "text": "distance than the sellers",
+    "start": 354.12,
+    "duration": 3.9
+  },
+  {
+    "text": "it indicates that the buyers have",
+    "start": 356.1,
+    "duration": 3.599
+  },
+  {
+    "text": "stepped in and they are trying to take",
+    "start": 358.02,
+    "duration": 3.72
+  },
+  {
+    "text": "the price higher",
+    "start": 359.699,
+    "duration": 5.041
+  },
+  {
+    "text": "if a pin bar appears after a strong down",
+    "start": 361.74,
+    "duration": 5.34
+  },
+  {
+    "text": "move it indicates that the sellers have",
+    "start": 364.74,
+    "duration": 4.5
+  },
+  {
+    "text": "lost their strength and the buyers are",
+    "start": 367.08,
+    "duration": 3.839
+  },
+  {
+    "text": "now stepping in to move the price",
+    "start": 369.24,
+    "duration": 3.6
+  },
+  {
+    "text": "upwards",
+    "start": 370.919,
+    "duration": 4.261
+  },
+  {
+    "text": "to trade the pin bar we must look at",
+    "start": 372.84,
+    "duration": 5.579
+  },
+  {
+    "text": "other confluences to confirm our bias we",
+    "start": 375.18,
+    "duration": 5.76
+  },
+  {
+    "text": "will discuss that later on but if we",
+    "start": 378.419,
+    "duration": 4.681
+  },
+  {
+    "text": "find a buying opportunity as a pin bar",
+    "start": 380.94,
+    "duration": 5.039
+  },
+  {
+    "text": "we can place a buy order above the high",
+    "start": 383.1,
+    "duration": 5.64
+  },
+  {
+    "text": "of the pin bar we can set our stop loss",
+    "start": 385.979,
+    "duration": 5.041
+  },
+  {
+    "text": "below the pin bar and Target the next",
+    "start": 388.74,
+    "duration": 4.88
+  },
+  {
+    "text": "resistance",
+    "start": 391.02,
+    "duration": 2.6
+  },
+  {
+    "text": "pattern number two",
+    "start": 394.56,
+    "duration": 3.96
+  },
+  {
+    "text": "bearish pin bar",
+    "start": 396.3,
+    "duration": 4.739
+  },
+  {
+    "text": "the bearish pin bar is just the opposite",
+    "start": 398.52,
+    "duration": 5.04
+  },
+  {
+    "text": "of the bullish pin bar it is a red",
+    "start": 401.039,
+    "duration": 5.401
+  },
+  {
+    "text": "candle with a small body a large Wick",
+    "start": 403.56,
+    "duration": 5.759
+  },
+  {
+    "text": "above the body and a tiny or no Wick",
+    "start": 406.44,
+    "duration": 4.379
+  },
+  {
+    "text": "below the body",
+    "start": 409.319,
+    "duration": 5.1
+  },
+  {
+    "text": "it indicates a reversal to the downside",
+    "start": 410.819,
+    "duration": 5.701
+  },
+  {
+    "text": "the psychology behind the pattern is",
+    "start": 414.419,
+    "duration": 3.241
+  },
+  {
+    "text": "very simple",
+    "start": 416.52,
+    "duration": 3.84
+  },
+  {
+    "text": "the price opened here and the buyers",
+    "start": 417.66,
+    "duration": 5.58
+  },
+  {
+    "text": "started to move the markets upwards they",
+    "start": 420.36,
+    "duration": 4.98
+  },
+  {
+    "text": "covered some distance and created this",
+    "start": 423.24,
+    "duration": 5.04
+  },
+  {
+    "text": "High the sellers then get into the mood",
+    "start": 425.34,
+    "duration": 5.639
+  },
+  {
+    "text": "and push the prices downwards Crossing",
+    "start": 428.28,
+    "duration": 5.039
+  },
+  {
+    "text": "below the opening price",
+    "start": 430.979,
+    "duration": 4.5
+  },
+  {
+    "text": "the sellers then managed to keep the",
+    "start": 433.319,
+    "duration": 4.621
+  },
+  {
+    "text": "price down and the candle closes near",
+    "start": 435.479,
+    "duration": 3.84
+  },
+  {
+    "text": "its lows",
+    "start": 437.94,
+    "duration": 3.599
+  },
+  {
+    "text": "this indicates that the sellers have",
+    "start": 439.319,
+    "duration": 4.5
+  },
+  {
+    "text": "momentarily gained an advantage over the",
+    "start": 441.539,
+    "duration": 3.481
+  },
+  {
+    "text": "buyers",
+    "start": 443.819,
+    "duration": 3.301
+  },
+  {
+    "text": "if we find another Confluence at this",
+    "start": 445.02,
+    "duration": 4.44
+  },
+  {
+    "text": "point then we can place a sell trade",
+    "start": 447.12,
+    "duration": 4.74
+  },
+  {
+    "text": "below the low of the pin bar and we can",
+    "start": 449.46,
+    "duration": 4.739
+  },
+  {
+    "text": "keep our stop loss just above the pin",
+    "start": 451.86,
+    "duration": 4.58
+  },
+  {
+    "text": "bar",
+    "start": 454.199,
+    "duration": 2.241
+  },
+  {
+    "text": "three doji",
+    "start": 456.5,
+    "duration": 5.38
+  },
+  {
+    "text": "the doji pattern is probably the only",
+    "start": 459.539,
+    "duration": 4.321
+  },
+  {
+    "text": "Candlestick pattern that does not give",
+    "start": 461.88,
+    "duration": 4.92
+  },
+  {
+    "text": "us directional bias however it is",
+    "start": 463.86,
+    "duration": 5.399
+  },
+  {
+    "text": "essential to understand this pattern",
+    "start": 466.8,
+    "duration": 4.98
+  },
+  {
+    "text": "a doji candle is characterized by a",
+    "start": 469.259,
+    "duration": 4.681
+  },
+  {
+    "text": "candle with approximately equal Wicks",
+    "start": 471.78,
+    "duration": 5.22
+  },
+  {
+    "text": "above and below a small body",
+    "start": 473.94,
+    "duration": 5.34
+  },
+  {
+    "text": "the open and close are somewhere in the",
+    "start": 477.0,
+    "duration": 4.38
+  },
+  {
+    "text": "middle of the candle and the body of the",
+    "start": 479.28,
+    "duration": 4.319
+  },
+  {
+    "text": "candle is very small",
+    "start": 481.38,
+    "duration": 4.379
+  },
+  {
+    "text": "it shows that the buyers and sellers",
+    "start": 483.599,
+    "duration": 4.081
+  },
+  {
+    "text": "were very competitive during that time",
+    "start": 485.759,
+    "duration": 4.5
+  },
+  {
+    "text": "period the sellers tried to push the",
+    "start": 487.68,
+    "duration": 5.1
+  },
+  {
+    "text": "prices down while the buyers push the",
+    "start": 490.259,
+    "duration": 4.141
+  },
+  {
+    "text": "prices upwards",
+    "start": 492.78,
+    "duration": 4.08
+  },
+  {
+    "text": "in the end they were both equal to each",
+    "start": 494.4,
+    "duration": 5.28
+  },
+  {
+    "text": "other and the price closed near the open",
+    "start": 496.86,
+    "duration": 5.94
+  },
+  {
+    "text": "in itself the doji tells us nothing it",
+    "start": 499.68,
+    "duration": 5.28
+  },
+  {
+    "text": "can indicate a momentary pause in the",
+    "start": 502.8,
+    "duration": 4.56
+  },
+  {
+    "text": "move but if we see a few doji in a row",
+    "start": 504.96,
+    "duration": 4.739
+  },
+  {
+    "text": "the buyers and sellers are battling for",
+    "start": 507.36,
+    "duration": 5.46
+  },
+  {
+    "text": "a win usually after such a pattern the",
+    "start": 509.699,
+    "duration": 5.041
+  },
+  {
+    "text": "price will generally break out a wild",
+    "start": 512.82,
+    "duration": 4.74
+  },
+  {
+    "text": "move in either direction so keep that in",
+    "start": 514.74,
+    "duration": 3.659
+  },
+  {
+    "text": "mind",
+    "start": 517.56,
+    "duration": 2.88
+  },
+  {
+    "text": "the three patterns covered up until this",
+    "start": 518.399,
+    "duration": 5.221
+  },
+  {
+    "text": "point are a single candle pattern",
+    "start": 520.44,
+    "duration": 5.1
+  },
+  {
+    "text": "now we will move to intermediate",
+    "start": 523.62,
+    "duration": 5.58
+  },
+  {
+    "text": "patterns that consist of two candles",
+    "start": 525.54,
+    "duration": 6.66
+  },
+  {
+    "text": "pattern number four bullish engulfing",
+    "start": 529.2,
+    "duration": 4.199
+  },
+  {
+    "text": "bar",
+    "start": 532.2,
+    "duration": 4.02
+  },
+  {
+    "text": "a bullish engulfing bar is a two candle",
+    "start": 533.399,
+    "duration": 5.281
+  },
+  {
+    "text": "pattern where a green candle completely",
+    "start": 536.22,
+    "duration": 5.16
+  },
+  {
+    "text": "engulfs a red candle before it",
+    "start": 538.68,
+    "duration": 5.3
+  },
+  {
+    "text": "this means we first see a red candle",
+    "start": 541.38,
+    "duration": 5.88
+  },
+  {
+    "text": "then the next candle is a big green",
+    "start": 543.98,
+    "duration": 5.44
+  },
+  {
+    "text": "candle that completely engulfs the red",
+    "start": 547.26,
+    "duration": 3.18
+  },
+  {
+    "text": "candle",
+    "start": 549.42,
+    "duration": 3.359
+  },
+  {
+    "text": "the high of the green candle is higher",
+    "start": 550.44,
+    "duration": 4.26
+  },
+  {
+    "text": "than the high of the red candle",
+    "start": 552.779,
+    "duration": 4.74
+  },
+  {
+    "text": "similarly the low of the green candle is",
+    "start": 554.7,
+    "duration": 5.34
+  },
+  {
+    "text": "lower than the low of the red candle",
+    "start": 557.519,
+    "duration": 4.801
+  },
+  {
+    "text": "the psychology behind this pattern is",
+    "start": 560.04,
+    "duration": 4.38
+  },
+  {
+    "text": "pretty simple the sellers were in",
+    "start": 562.32,
+    "duration": 5.04
+  },
+  {
+    "text": "control during this red candle then as",
+    "start": 564.42,
+    "duration": 5.46
+  },
+  {
+    "text": "the new candle opened the sellers took",
+    "start": 567.36,
+    "duration": 4.919
+  },
+  {
+    "text": "the price lower it broke the previous",
+    "start": 569.88,
+    "duration": 5.459
+  },
+  {
+    "text": "low and suddenly the buyers stepped in",
+    "start": 572.279,
+    "duration": 5.341
+  },
+  {
+    "text": "they overwhelmed the sellers and brought",
+    "start": 575.339,
+    "duration": 4.44
+  },
+  {
+    "text": "the price beyond the last candle's High",
+    "start": 577.62,
+    "duration": 4.86
+  },
+  {
+    "text": "it shows that the buyers covered a more",
+    "start": 579.779,
+    "duration": 5.341
+  },
+  {
+    "text": "significant distance than the sellers",
+    "start": 582.48,
+    "duration": 4.68
+  },
+  {
+    "text": "this means the buyers were now in",
+    "start": 585.12,
+    "duration": 3.899
+  },
+  {
+    "text": "control and ready to take the price",
+    "start": 587.16,
+    "duration": 3.0
+  },
+  {
+    "text": "higher",
+    "start": 589.019,
+    "duration": 3.781
+  },
+  {
+    "text": "for the entry we enter at the break of",
+    "start": 590.16,
+    "duration": 5.16
+  },
+  {
+    "text": "the high we can place our stop loss",
+    "start": 592.8,
+    "duration": 4.62
+  },
+  {
+    "text": "below the low of the candle",
+    "start": 595.32,
+    "duration": 4.86
+  },
+  {
+    "text": "again as I already said we want to see",
+    "start": 597.42,
+    "duration": 5.099
+  },
+  {
+    "text": "other confluences like the price action",
+    "start": 600.18,
+    "duration": 4.32
+  },
+  {
+    "text": "to confirm a trade",
+    "start": 602.519,
+    "duration": 4.801
+  },
+  {
+    "text": "pattern number five bearish engulfing",
+    "start": 604.5,
+    "duration": 3.899
+  },
+  {
+    "text": "bar",
+    "start": 607.32,
+    "duration": 3.9
+  },
+  {
+    "text": "a bearish engulfing bar is a two candle",
+    "start": 608.399,
+    "duration": 5.041
+  },
+  {
+    "text": "formation where a big red candle",
+    "start": 611.22,
+    "duration": 4.619
+  },
+  {
+    "text": "completely engulfs the previous green",
+    "start": 613.44,
+    "duration": 6.42
+  },
+  {
+    "text": "candle we first have a green candle then",
+    "start": 615.839,
+    "duration": 6.481
+  },
+  {
+    "text": "the next candle is a larger red candle",
+    "start": 619.86,
+    "duration": 5.46
+  },
+  {
+    "text": "that completely engulfs the green candle",
+    "start": 622.32,
+    "duration": 5.34
+  },
+  {
+    "text": "the low of the red candle is lower than",
+    "start": 625.32,
+    "duration": 4.26
+  },
+  {
+    "text": "the previous candles low",
+    "start": 627.66,
+    "duration": 4.26
+  },
+  {
+    "text": "similarly the high is higher than the",
+    "start": 629.58,
+    "duration": 4.319
+  },
+  {
+    "text": "previous candles High",
+    "start": 631.92,
+    "duration": 3.96
+  },
+  {
+    "text": "let's understand the psychology of the",
+    "start": 633.899,
+    "duration": 3.06
+  },
+  {
+    "text": "pattern",
+    "start": 635.88,
+    "duration": 3.18
+  },
+  {
+    "text": "first we see that the buyers were in",
+    "start": 636.959,
+    "duration": 3.961
+  },
+  {
+    "text": "control as the price made this green",
+    "start": 639.06,
+    "duration": 5.58
+  },
+  {
+    "text": "candle then as the next candle opens the",
+    "start": 640.92,
+    "duration": 6.3
+  },
+  {
+    "text": "buyers try to push the price upwards",
+    "start": 644.64,
+    "duration": 4.74
+  },
+  {
+    "text": "they managed to break above the high of",
+    "start": 647.22,
+    "duration": 4.859
+  },
+  {
+    "text": "the previous candle then all of a sudden",
+    "start": 649.38,
+    "duration": 4.86
+  },
+  {
+    "text": "sellers see these highs as an",
+    "start": 652.079,
+    "duration": 4.44
+  },
+  {
+    "text": "opportunity and they start to sell",
+    "start": 654.24,
+    "duration": 4.86
+  },
+  {
+    "text": "their selling pressure is so high that",
+    "start": 656.519,
+    "duration": 4.681
+  },
+  {
+    "text": "they managed to break beyond the low of",
+    "start": 659.1,
+    "duration": 3.6
+  },
+  {
+    "text": "the previous candle",
+    "start": 661.2,
+    "duration": 3.66
+  },
+  {
+    "text": "the sellers traveled a lot of distance",
+    "start": 662.7,
+    "duration": 5.1
+  },
+  {
+    "text": "compared to the buyers hence the sellers",
+    "start": 664.86,
+    "duration": 4.919
+  },
+  {
+    "text": "have now grabbed control of the markets",
+    "start": 667.8,
+    "duration": 4.86
+  },
+  {
+    "text": "so we can place a sell trade below the",
+    "start": 669.779,
+    "duration": 5.041
+  },
+  {
+    "text": "low of this candle and we can set our",
+    "start": 672.66,
+    "duration": 5.66
+  },
+  {
+    "text": "stop loss above the high",
+    "start": 674.82,
+    "duration": 3.5
+  },
+  {
+    "text": "Advanced patterns",
+    "start": 679.62,
+    "duration": 6.42
+  },
+  {
+    "text": "pattern number six Morning Star pattern",
+    "start": 682.2,
+    "duration": 6.12
+  },
+  {
+    "text": "the Morning Star pattern is a three",
+    "start": 686.04,
+    "duration": 4.5
+  },
+  {
+    "text": "candle pattern that indicates a bullish",
+    "start": 688.32,
+    "duration": 3.9
+  },
+  {
+    "text": "price reversal",
+    "start": 690.54,
+    "duration": 4.26
+  },
+  {
+    "text": "the first candle is a strong red candle",
+    "start": 692.22,
+    "duration": 4.2
+  },
+  {
+    "text": "with a big enough body",
+    "start": 694.8,
+    "duration": 4.38
+  },
+  {
+    "text": "the second candle is a doji or pin bar",
+    "start": 696.42,
+    "duration": 6.12
+  },
+  {
+    "text": "candle with a small body and large wicks",
+    "start": 699.18,
+    "duration": 6.18
+  },
+  {
+    "text": "the doji or the pin bar can be red or",
+    "start": 702.54,
+    "duration": 3.9
+  },
+  {
+    "text": "green",
+    "start": 705.36,
+    "duration": 4.26
+  },
+  {
+    "text": "then finally we have a big green candle",
+    "start": 706.44,
+    "duration": 5.519
+  },
+  {
+    "text": "that breaks above the high of the Doshi",
+    "start": 709.62,
+    "duration": 3.54
+  },
+  {
+    "text": "candle",
+    "start": 711.959,
+    "duration": 3.12
+  },
+  {
+    "text": "the sides of this candle will determine",
+    "start": 713.16,
+    "duration": 4.02
+  },
+  {
+    "text": "the strength of the pattern if the",
+    "start": 715.079,
+    "duration": 4.44
+  },
+  {
+    "text": "candle is as big as the red candle then",
+    "start": 717.18,
+    "duration": 5.04
+  },
+  {
+    "text": "it is a good trade opportunity",
+    "start": 719.519,
+    "duration": 5.221
+  },
+  {
+    "text": "if it is smaller than the red candle it",
+    "start": 722.22,
+    "duration": 5.94
+  },
+  {
+    "text": "is a low probability trade",
+    "start": 724.74,
+    "duration": 6.48
+  },
+  {
+    "text": "lastly if the green candle closes above",
+    "start": 728.16,
+    "duration": 5.22
+  },
+  {
+    "text": "the high of the red candle it is a",
+    "start": 731.22,
+    "duration": 4.08
+  },
+  {
+    "text": "strong reversal candle",
+    "start": 733.38,
+    "duration": 4.26
+  },
+  {
+    "text": "the psychology behind the pattern is",
+    "start": 735.3,
+    "duration": 5.46
+  },
+  {
+    "text": "pretty simple first we have a red candle",
+    "start": 737.64,
+    "duration": 5.22
+  },
+  {
+    "text": "this shows us that the sellers were in",
+    "start": 740.76,
+    "duration": 4.019
+  },
+  {
+    "text": "complete control of the markets they",
+    "start": 742.86,
+    "duration": 4.08
+  },
+  {
+    "text": "pushed the prices downwards",
+    "start": 744.779,
+    "duration": 5.761
+  },
+  {
+    "text": "then we see a small doji candle it shows",
+    "start": 746.94,
+    "duration": 5.519
+  },
+  {
+    "text": "us that buyers have stepped in and are",
+    "start": 750.54,
+    "duration": 4.26
+  },
+  {
+    "text": "pushing the prices upwards",
+    "start": 752.459,
+    "duration": 4.981
+  },
+  {
+    "text": "soon the sellers lose their strength and",
+    "start": 754.8,
+    "duration": 4.5
+  },
+  {
+    "text": "the buyers take the prices higher",
+    "start": 757.44,
+    "duration": 4.26
+  },
+  {
+    "text": "creating this green candle",
+    "start": 759.3,
+    "duration": 4.38
+  },
+  {
+    "text": "it shows that the buyers have turned",
+    "start": 761.7,
+    "duration": 4.199
+  },
+  {
+    "text": "around the situation and are now likely",
+    "start": 763.68,
+    "duration": 3.959
+  },
+  {
+    "text": "to see an up move",
+    "start": 765.899,
+    "duration": 4.201
+  },
+  {
+    "text": "to enter the trade we will place a buy",
+    "start": 767.639,
+    "duration": 4.741
+  },
+  {
+    "text": "order above the high of the green candle",
+    "start": 770.1,
+    "duration": 4.859
+  },
+  {
+    "text": "we will keep our stop loss below the",
+    "start": 772.38,
+    "duration": 5.48
+  },
+  {
+    "text": "doji candle",
+    "start": 774.959,
+    "duration": 2.901
+  },
+  {
+    "text": "pattern number seven Evening Star",
+    "start": 778.56,
+    "duration": 3.6
+  },
+  {
+    "text": "pattern",
+    "start": 780.959,
+    "duration": 3.721
+  },
+  {
+    "text": "the evening star pattern is the complete",
+    "start": 782.16,
+    "duration": 4.919
+  },
+  {
+    "text": "opposite of the Morning Star pattern",
+    "start": 784.68,
+    "duration": 4.5
+  },
+  {
+    "text": "here we have a three candle pattern",
+    "start": 787.079,
+    "duration": 4.38
+  },
+  {
+    "text": "where the first candle is a green candle",
+    "start": 789.18,
+    "duration": 4.86
+  },
+  {
+    "text": "with a considerably big body",
+    "start": 791.459,
+    "duration": 6.12
+  },
+  {
+    "text": "then we have a small doji candle with a",
+    "start": 794.04,
+    "duration": 6.72
+  },
+  {
+    "text": "very small body and finally we have a",
+    "start": 797.579,
+    "duration": 5.76
+  },
+  {
+    "text": "red candle with a big body",
+    "start": 800.76,
+    "duration": 5.1
+  },
+  {
+    "text": "the psychology behind this pattern shows",
+    "start": 803.339,
+    "duration": 4.8
+  },
+  {
+    "text": "us that initially the buyers were in",
+    "start": 805.86,
+    "duration": 3.96
+  },
+  {
+    "text": "control as they created this green",
+    "start": 808.139,
+    "duration": 5.281
+  },
+  {
+    "text": "candle then soon enough the sellers",
+    "start": 809.82,
+    "duration": 5.4
+  },
+  {
+    "text": "entered and started to challenge the",
+    "start": 813.42,
+    "duration": 4.859
+  },
+  {
+    "text": "buyers as a result we see this doji",
+    "start": 815.22,
+    "duration": 5.76
+  },
+  {
+    "text": "candle the doji candle indicates that",
+    "start": 818.279,
+    "duration": 4.74
+  },
+  {
+    "text": "the buyers and sellers are in a tug of",
+    "start": 820.98,
+    "duration": 2.94
+  },
+  {
+    "text": "war",
+    "start": 823.019,
+    "duration": 3.901
+  },
+  {
+    "text": "then finally the sellers win the battle",
+    "start": 823.92,
+    "duration": 6.0
+  },
+  {
+    "text": "and they start to move the price down",
+    "start": 826.92,
+    "duration": 6.06
+  },
+  {
+    "text": "to enter a sell trade here we place a",
+    "start": 829.92,
+    "duration": 5.46
+  },
+  {
+    "text": "sell trade below the low of this candle",
+    "start": 832.98,
+    "duration": 5.34
+  },
+  {
+    "text": "and keep our stop loss above the doji",
+    "start": 835.38,
+    "duration": 4.139
+  },
+  {
+    "text": "candle",
+    "start": 838.32,
+    "duration": 3.18
+  },
+  {
+    "text": "so these were the seven Candlestick",
+    "start": 839.519,
+    "duration": 3.841
+  },
+  {
+    "text": "patterns that can help you spot trade",
+    "start": 841.5,
+    "duration": 4.92
+  },
+  {
+    "text": "opportunities but we are not done yet we",
+    "start": 843.36,
+    "duration": 5.099
+  },
+  {
+    "text": "will now understand how to use price",
+    "start": 846.42,
+    "duration": 4.859
+  },
+  {
+    "text": "action Concepts to find entries using",
+    "start": 848.459,
+    "duration": 5.601
+  },
+  {
+    "text": "these patterns",
+    "start": 851.279,
+    "duration": 2.781
+  },
+  {
+    "text": "we will use support and resistance",
+    "start": 855.12,
+    "duration": 4.8
+  },
+  {
+    "text": "levels and trend lines to combine the",
+    "start": 857.22,
+    "duration": 5.16
+  },
+  {
+    "text": "Candlestick patterns with price action",
+    "start": 859.92,
+    "duration": 4.14
+  },
+  {
+    "text": "here is an example",
+    "start": 862.38,
+    "duration": 4.079
+  },
+  {
+    "text": "the price was in a downtrend but it",
+    "start": 864.06,
+    "duration": 5.279
+  },
+  {
+    "text": "found support near this area we see two",
+    "start": 866.459,
+    "duration": 5.101
+  },
+  {
+    "text": "reversals here and Mark it as a support",
+    "start": 869.339,
+    "duration": 3.361
+  },
+  {
+    "text": "level",
+    "start": 871.56,
+    "duration": 3.3
+  },
+  {
+    "text": "then the third time when the price",
+    "start": 872.7,
+    "duration": 4.86
+  },
+  {
+    "text": "arrives near the support we expect it to",
+    "start": 874.86,
+    "duration": 5.099
+  },
+  {
+    "text": "find support but we are waiting for a",
+    "start": 877.56,
+    "duration": 4.26
+  },
+  {
+    "text": "Candlestick confirmation",
+    "start": 879.959,
+    "duration": 5.041
+  },
+  {
+    "text": "on the down move here we see that as the",
+    "start": 881.82,
+    "duration": 5.4
+  },
+  {
+    "text": "price approached the support the candles",
+    "start": 885.0,
+    "duration": 5.22
+  },
+  {
+    "text": "became smaller in size this was the",
+    "start": 887.22,
+    "duration": 4.739
+  },
+  {
+    "text": "first sign that the sellers were losing",
+    "start": 890.22,
+    "duration": 2.76
+  },
+  {
+    "text": "momentum",
+    "start": 891.959,
+    "duration": 4.021
+  },
+  {
+    "text": "then we see this doji candle form at the",
+    "start": 892.98,
+    "duration": 5.76
+  },
+  {
+    "text": "support another sign of support",
+    "start": 895.98,
+    "duration": 5.52
+  },
+  {
+    "text": "the doji is followed by a large green",
+    "start": 898.74,
+    "duration": 5.339
+  },
+  {
+    "text": "candle indicating that the buyers had",
+    "start": 901.5,
+    "duration": 4.8
+  },
+  {
+    "text": "taken over the control and were ready to",
+    "start": 904.079,
+    "duration": 3.901
+  },
+  {
+    "text": "move the price",
+    "start": 906.3,
+    "duration": 3.96
+  },
+  {
+    "text": "the green candle completed a Morning",
+    "start": 907.98,
+    "duration": 4.799
+  },
+  {
+    "text": "Star pattern it was a strong pattern",
+    "start": 910.26,
+    "duration": 5.04
+  },
+  {
+    "text": "because the green candle broke above the",
+    "start": 912.779,
+    "duration": 4.62
+  },
+  {
+    "text": "high of the doji candle and the red",
+    "start": 915.3,
+    "duration": 3.659
+  },
+  {
+    "text": "candle before it",
+    "start": 917.399,
+    "duration": 4.141
+  },
+  {
+    "text": "so a Buy trade can be placed above the",
+    "start": 918.959,
+    "duration": 4.801
+  },
+  {
+    "text": "high of the green candle",
+    "start": 921.54,
+    "duration": 4.859
+  },
+  {
+    "text": "we can place our stop loss below the pin",
+    "start": 923.76,
+    "duration": 6.12
+  },
+  {
+    "text": "bar and we can Target this high",
+    "start": 926.399,
+    "duration": 6.3
+  },
+  {
+    "text": "as you can see the price moved up after",
+    "start": 929.88,
+    "duration": 5.48
+  },
+  {
+    "text": "our entry",
+    "start": 932.699,
+    "duration": 2.661
+  },
+  {
+    "text": "even if you missed the entry the price",
+    "start": 936.66,
+    "duration": 5.46
+  },
+  {
+    "text": "also gave us a second entry",
+    "start": 939.3,
+    "duration": 5.64
+  },
+  {
+    "text": "the price made these two tops creating a",
+    "start": 942.12,
+    "duration": 4.68
+  },
+  {
+    "text": "solid trend line",
+    "start": 944.94,
+    "duration": 3.839
+  },
+  {
+    "text": "when the price reaches near the trend",
+    "start": 946.8,
+    "duration": 4.32
+  },
+  {
+    "text": "line again we wait to see if the price",
+    "start": 948.779,
+    "duration": 4.381
+  },
+  {
+    "text": "develops some pattern",
+    "start": 951.12,
+    "duration": 4.56
+  },
+  {
+    "text": "this red candle indicates that the",
+    "start": 953.16,
+    "duration": 3.9
+  },
+  {
+    "text": "sellers were trying to provide",
+    "start": 955.68,
+    "duration": 3.659
+  },
+  {
+    "text": "resistance at the trend line",
+    "start": 957.06,
+    "duration": 4.68
+  },
+  {
+    "text": "the candle is followed by a large green",
+    "start": 959.339,
+    "duration": 5.041
+  },
+  {
+    "text": "candle that completely engulfs the red",
+    "start": 961.74,
+    "duration": 6.36
+  },
+  {
+    "text": "candle it's a bullish engulfing candle",
+    "start": 964.38,
+    "duration": 6.0
+  },
+  {
+    "text": "the low of the green candle is lower",
+    "start": 968.1,
+    "duration": 5.22
+  },
+  {
+    "text": "than the red candle the high is higher",
+    "start": 970.38,
+    "duration": 4.44
+  },
+  {
+    "text": "than the red candle",
+    "start": 973.32,
+    "duration": 4.68
+  },
+  {
+    "text": "again a very strong indication that the",
+    "start": 974.82,
+    "duration": 5.459
+  },
+  {
+    "text": "buyers have taken control and the trend",
+    "start": 978.0,
+    "duration": 4.62
+  },
+  {
+    "text": "line is not strong anymore",
+    "start": 980.279,
+    "duration": 4.92
+  },
+  {
+    "text": "a Buy trade could be initiated here as",
+    "start": 982.62,
+    "duration": 3.719
+  },
+  {
+    "text": "well",
+    "start": 985.199,
+    "duration": 3.721
+  },
+  {
+    "text": "we place a buy order above the high of",
+    "start": 986.339,
+    "duration": 5.281
+  },
+  {
+    "text": "the candle and we put a stop loss below",
+    "start": 988.92,
+    "duration": 4.08
+  },
+  {
+    "text": "the candle",
+    "start": 991.62,
+    "duration": 4.92
+  },
+  {
+    "text": "our targets will be these highs",
+    "start": 993.0,
+    "duration": 5.88
+  },
+  {
+    "text": "as you can see the price achieved our",
+    "start": 996.54,
+    "duration": 4.26
+  },
+  {
+    "text": "Targets on this trade",
+    "start": 998.88,
+    "duration": 5.04
+  },
+  {
+    "text": "here is an example of a cell trade",
+    "start": 1000.8,
+    "duration": 5.099
+  },
+  {
+    "text": "here we see that the price finds",
+    "start": 1003.92,
+    "duration": 4.859
+  },
+  {
+    "text": "resistance around this area then when",
+    "start": 1005.899,
+    "duration": 4.981
+  },
+  {
+    "text": "the price tests this resistance the",
+    "start": 1008.779,
+    "duration": 4.441
+  },
+  {
+    "text": "second time we see it create an evening",
+    "start": 1010.88,
+    "duration": 3.899
+  },
+  {
+    "text": "star pattern",
+    "start": 1013.22,
+    "duration": 4.44
+  },
+  {
+    "text": "we have a green candle a doji followed",
+    "start": 1014.779,
+    "duration": 6.06
+  },
+  {
+    "text": "by a large red candle the red candle is",
+    "start": 1017.66,
+    "duration": 5.46
+  },
+  {
+    "text": "so large that it closes Way Beyond the",
+    "start": 1020.839,
+    "duration": 5.041
+  },
+  {
+    "text": "lows of the previous two candles hence",
+    "start": 1023.12,
+    "duration": 5.4
+  },
+  {
+    "text": "it is a high probability pattern",
+    "start": 1025.88,
+    "duration": 4.799
+  },
+  {
+    "text": "so we place a sell trade at this",
+    "start": 1028.52,
+    "duration": 4.919
+  },
+  {
+    "text": "candle's low and set our stop loss above",
+    "start": 1030.679,
+    "duration": 4.02
+  },
+  {
+    "text": "the high",
+    "start": 1033.439,
+    "duration": 3.961
+  },
+  {
+    "text": "for our targets we can Target these two",
+    "start": 1034.699,
+    "duration": 4.021
+  },
+  {
+    "text": "lows",
+    "start": 1037.4,
+    "duration": 3.96
+  },
+  {
+    "text": "and as you can see the price achieved",
+    "start": 1038.72,
+    "duration": 4.079
+  },
+  {
+    "text": "our targets",
+    "start": 1041.36,
+    "duration": 3.66
+  },
+  {
+    "text": "I hope you have now understood how to",
+    "start": 1042.799,
+    "duration": 4.26
+  },
+  {
+    "text": "use these candlesticks for your trading",
+    "start": 1045.02,
+    "duration": 4.8
+  },
+  {
+    "text": "again the candlesticks alone are nothing",
+    "start": 1047.059,
+    "duration": 4.86
+  },
+  {
+    "text": "you need to combine them with other",
+    "start": 1049.82,
+    "duration": 4.68
+  },
+  {
+    "text": "factors to create a trading system",
+    "start": 1051.919,
+    "duration": 4.561
+  },
+  {
+    "text": "you can head over to our website to get",
+    "start": 1054.5,
+    "duration": 4.08
+  },
+  {
+    "text": "free training the links will be in the",
+    "start": 1056.48,
+    "duration": 3.72
+  },
+  {
+    "text": "description below",
+    "start": 1058.58,
+    "duration": 3.959
+  },
+  {
+    "text": "if you found this video informative then",
+    "start": 1060.2,
+    "duration": 4.32
+  },
+  {
+    "text": "be sure to hit the like button and",
+    "start": 1062.539,
+    "duration": 3.961
+  },
+  {
+    "text": "subscribe to our channel to never miss",
+    "start": 1064.52,
+    "duration": 3.18
+  },
+  {
+    "text": "new videos",
+    "start": 1066.5,
+    "duration": 3.98
+  },
+  {
+    "text": "see you soon",
+    "start": 1067.7,
+    "duration": 2.78
+  },
+  {
+    "text": "foreign",
+    "start": 1072.74,
+    "duration": 3.0
+  }
+]

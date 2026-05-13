@@ -1,0 +1,1702 @@
+[
+  {
+    "text": " Music",
+    "start": 0.0,
+    "duration": 6.0
+  },
+  {
+    "text": " Dear students, welcome to Gate Smashers",
+    "start": 6.375,
+    "duration": 2.0
+  },
+  {
+    "text": " In this video I am going to explain",
+    "start": 8.4,
+    "duration": 2.0
+  },
+  {
+    "text": " Travelling Salesman Problem in Dynamic Programming",
+    "start": 10.425,
+    "duration": 3.0
+  },
+  {
+    "text": " So guys, all the important points related to Travelling Salesman Problem",
+    "start": 13.821,
+    "duration": 4.0
+  },
+  {
+    "text": " I will explain all of them to you",
+    "start": 18.0,
+    "duration": 1.8
+  },
+  {
+    "text": " Which you can easily answer in your competitive \nexams, college, university exams, interviews, anywhere",
+    "start": 20.0,
+    "duration": 6.0
+  },
+  {
+    "text": " So guys, like the video quickly",
+    "start": 26.2,
+    "duration": 2.0
+  },
+  {
+    "text": " Subscribe the channel, if you haven't done it yet",
+    "start": 28.2,
+    "duration": 2.0
+  },
+  {
+    "text": " And if you have done it, then you can \nget more subscribers from other devices",
+    "start": 30.4,
+    "duration": 3.0
+  },
+  {
+    "text": " Subscribers are very important",
+    "start": 33.425,
+    "duration": 1.525
+  },
+  {
+    "text": " So let's start Travelling Salesman Problem",
+    "start": 34.975,
+    "duration": 3.0
+  },
+  {
+    "text": " First of all let's see what it is",
+    "start": 38.175,
+    "duration": 2.0
+  },
+  {
+    "text": " Travelling Salesman Problem",
+    "start": 40.2,
+    "duration": 2.0
+  },
+  {
+    "text": " So what is the salesman doing? Travelling",
+    "start": 42.4,
+    "duration": 2.8
+  },
+  {
+    "text": " So what is the problem in this?",
+    "start": 45.575,
+    "duration": 1.0
+  },
+  {
+    "text": " The problem is that we are representing in the form of a graph",
+    "start": 46.6,
+    "duration": 4.0
+  },
+  {
+    "text": " Now I have 4 nodes in this graph",
+    "start": 50.8,
+    "duration": 2.0
+  },
+  {
+    "text": " 1, 2, 3, 4",
+    "start": 53.0,
+    "duration": 1.0
+  },
+  {
+    "text": " You can call these nodes as city",
+    "start": 54.2,
+    "duration": 2.0
+  },
+  {
+    "text": " And in the middle you can see the edges",
+    "start": 56.2,
+    "duration": 2.0
+  },
+  {
+    "text": " These edges are in this direction also",
+    "start": 58.4,
+    "duration": 2.0
+  },
+  {
+    "text": " I have made the edges in both directions",
+    "start": 60.6,
+    "duration": 2.988
+  },
+  {
+    "text": " They are made because maybe 1 to 2 weight is something else",
+    "start": 63.613,
+    "duration": 3.0
+  },
+  {
+    "text": " 2 to 1 weight is something else",
+    "start": 66.638,
+    "duration": 1.362
+  },
+  {
+    "text": " And all those weights are given to you in this matrix",
+    "start": 68.2,
+    "duration": 3.0
+  },
+  {
+    "text": " Now what is the problem in actual?",
+    "start": 71.4,
+    "duration": 2.0
+  },
+  {
+    "text": " That the salesman has to do the travelling",
+    "start": 73.6,
+    "duration": 3.0
+  },
+  {
+    "text": " And that travelling is starting from any particular node",
+    "start": 76.8,
+    "duration": 3.0
+  },
+  {
+    "text": " Let's say my starting city is 1",
+    "start": 80.0,
+    "duration": 2.0
+  },
+  {
+    "text": " From 1 it has to start, it has to tour",
+    "start": 82.175,
+    "duration": 2.0
+  },
+  {
+    "text": " Obviously what the salesman will do?",
+    "start": 84.333,
+    "duration": 2.8
+  },
+  {
+    "text": " He will do marketing to sell a product",
+    "start": 87.2,
+    "duration": 2.8
+  },
+  {
+    "text": " He is trying to promote it in different cities",
+    "start": 90.375,
+    "duration": 4.8
+  },
+  {
+    "text": " So what he is doing is that he will start his tour from 1",
+    "start": 95.2,
+    "duration": 3.0
+  },
+  {
+    "text": " He will start from 1 city",
+    "start": 98.4,
+    "duration": 1.8
+  },
+  {
+    "text": " He will travel other cities",
+    "start": 100.4,
+    "duration": 2.0
+  },
+  {
+    "text": " Means 2, 3, 4, he can travel in any order",
+    "start": 102.6,
+    "duration": 3.0
+  },
+  {
+    "text": " And he has to come back to 1",
+    "start": 105.8,
+    "duration": 3.0
+  },
+  {
+    "text": " Means he has to come back to 1 after roaming around",
+    "start": 109.0,
+    "duration": 4.0
+  },
+  {
+    "text": " But what should be the cost?",
+    "start": 113.0,
+    "duration": 2.35
+  },
+  {
+    "text": " Minimum",
+    "start": 115.375,
+    "duration": 1.0
+  },
+  {
+    "text": " Obviously what should be the cost?",
+    "start": 116.4,
+    "duration": 2.0
+  },
+  {
+    "text": " Minimum should be there",
+    "start": 118.6,
+    "duration": 1.0
+  },
+  {
+    "text": " What is my actual problem?",
+    "start": 119.8,
+    "duration": 2.0
+  },
+  {
+    "text": " So it looks very easy that what is this?",
+    "start": 122.0,
+    "duration": 2.0
+  },
+  {
+    "text": " So we can easily do it",
+    "start": 124.2,
+    "duration": 2.0
+  },
+  {
+    "text": " We can use Google map",
+    "start": 126.4,
+    "duration": 2.0
+  },
+  {
+    "text": " It must be coming in your mind very easily",
+    "start": 128.425,
+    "duration": 1.702
+  },
+  {
+    "text": " But when we try to implement it in real life",
+    "start": 130.152,
+    "duration": 2.998
+  },
+  {
+    "text": " Then what is the time complexity?",
+    "start": 133.175,
+    "duration": 2.0
+  },
+  {
+    "text": " How do we resolve this problem?",
+    "start": 135.2,
+    "duration": 2.0
+  },
+  {
+    "text": " All these points should be in your mind",
+    "start": 137.225,
+    "duration": 2.0
+  },
+  {
+    "text": " So see if we talk",
+    "start": 139.25,
+    "duration": 1.719
+  },
+  {
+    "text": " It must be coming in your mind that first",
+    "start": 140.994,
+    "duration": 2.406
+  },
+  {
+    "text": " If we use greedy approach",
+    "start": 143.6,
+    "duration": 1.8
+  },
+  {
+    "text": " Because we have done many algorithms on the basis of greed",
+    "start": 145.6,
+    "duration": 3.0
+  },
+  {
+    "text": " So if we use greedy approach",
+    "start": 148.799,
+    "duration": 2.0
+  },
+  {
+    "text": " Then we are standing on 1",
+    "start": 151.0,
+    "duration": 1.0
+  },
+  {
+    "text": " What we will do from 1 is",
+    "start": 152.375,
+    "duration": 2.0
+  },
+  {
+    "text": " We will go to the minimum cost",
+    "start": 154.4,
+    "duration": 2.399
+  },
+  {
+    "text": " What does greedy do?",
+    "start": 156.844,
+    "duration": 1.0
+  },
+  {
+    "text": " At present where you are standing",
+    "start": 158.066,
+    "duration": 2.0
+  },
+  {
+    "text": " From that point you can choose the lowest cost in the other city",
+    "start": 160.11,
+    "duration": 5.681
+  },
+  {
+    "text": " So see from 1 you can either go to 2",
+    "start": 165.816,
+    "duration": 2.559
+  },
+  {
+    "text": " Or you can go to 3 or 4",
+    "start": 168.4,
+    "duration": 2.0
+  },
+  {
+    "text": " So greedy will say choose the minimum cost",
+    "start": 170.466,
+    "duration": 3.309
+  },
+  {
+    "text": " So which is the minimum cost?",
+    "start": 173.8,
+    "duration": 2.0
+  },
+  {
+    "text": " 2",
+    "start": 175.825,
+    "duration": 1.0
+  },
+  {
+    "text": " So let's say I chose 2 from 1",
+    "start": 176.85,
+    "duration": 2.525
+  },
+  {
+    "text": " Means I went from 1 to 2 city",
+    "start": 179.4,
+    "duration": 2.0
+  },
+  {
+    "text": " And my cost is 10",
+    "start": 181.6,
+    "duration": 2.0
+  },
+  {
+    "text": " My cost is 10 from 1 to 2",
+    "start": 183.8,
+    "duration": 2.0
+  },
+  {
+    "text": " Now after reaching 2 what I did?",
+    "start": 186.0,
+    "duration": 2.0
+  },
+  {
+    "text": " I chose the minimum cost",
+    "start": 188.2,
+    "duration": 1.0
+  },
+  {
+    "text": " Now from 2 which options do I have?",
+    "start": 189.4,
+    "duration": 2.0
+  },
+  {
+    "text": " One option is that I go from 2 to 1 again",
+    "start": 191.6,
+    "duration": 3.0
+  },
+  {
+    "text": " This option can also come in your mind",
+    "start": 194.8,
+    "duration": 2.0
+  },
+  {
+    "text": " So from 2 you go to 1 again",
+    "start": 196.8,
+    "duration": 1.8
+  },
+  {
+    "text": " Then from 1 to somewhere else",
+    "start": 198.8,
+    "duration": 1.0
+  },
+  {
+    "text": " But guys if you start in any particular city",
+    "start": 200.0,
+    "duration": 3.0
+  },
+  {
+    "text": " And then reach there again",
+    "start": 203.2,
+    "duration": 2.0
+  },
+  {
+    "text": " Then obviously you have to travel to other cities too",
+    "start": 205.4,
+    "duration": 3.0
+  },
+  {
+    "text": " So obviously your time will increase somewhere",
+    "start": 208.6,
+    "duration": 3.6
+  },
+  {
+    "text": " Instead of decreasing your time will increase",
+    "start": 212.4,
+    "duration": 2.0
+  },
+  {
+    "text": " So that's why obviously you will not try to go from 1 to 2",
+    "start": 214.6,
+    "duration": 2.0
+  },
+  {
+    "text": " Or from 2 to 1 again",
+    "start": 216.8,
+    "duration": 2.0
+  },
+  {
+    "text": " If you will do in this question",
+    "start": 219.0,
+    "duration": 1.6
+  },
+  {
+    "text": " You can choose",
+    "start": 220.8,
+    "duration": 1.0
+  },
+  {
+    "text": " But let's say if we go from 1 to 2",
+    "start": 222.0,
+    "duration": 2.6
+  },
+  {
+    "text": " Let's say I chose from 2 that",
+    "start": 224.6,
+    "duration": 2.0
+  },
+  {
+    "text": " I have option of 3 and 4 too",
+    "start": 226.799,
+    "duration": 3.0
+  },
+  {
+    "text": " So which is the minimum of both?",
+    "start": 229.824,
+    "duration": 1.0
+  },
+  {
+    "text": " 4",
+    "start": 230.849,
+    "duration": 1.0
+  },
+  {
+    "text": " So I chose city of 2 to 4",
+    "start": 231.978,
+    "duration": 2.597
+  },
+  {
+    "text": " And my cost is 10",
+    "start": 234.6,
+    "duration": 2.0
+  },
+  {
+    "text": " You can see the cost",
+    "start": 236.975,
+    "duration": 1.0
+  },
+  {
+    "text": " Cost of 2 to 4 is 10",
+    "start": 238.0,
+    "duration": 2.0
+  },
+  {
+    "text": " Now after reaching 4",
+    "start": 240.375,
+    "duration": 1.0
+  },
+  {
+    "text": " Maybe I go back to 1",
+    "start": 241.4,
+    "duration": 2.0
+  },
+  {
+    "text": " Then from 1 to 3 or 2",
+    "start": 243.425,
+    "duration": 2.349
+  },
+  {
+    "text": " But if you are repeating any city again",
+    "start": 245.799,
+    "duration": 2.601
+  },
+  {
+    "text": " Then you must be thinking that",
+    "start": 248.6,
+    "duration": 1.8
+  },
+  {
+    "text": " Repeating the city again means",
+    "start": 250.6,
+    "duration": 1.8
+  },
+  {
+    "text": " Your time will increase somewhere",
+    "start": 252.6,
+    "duration": 1.4
+  },
+  {
+    "text": " So then obviously from 4",
+    "start": 254.0,
+    "duration": 2.0
+  },
+  {
+    "text": " What will you try to choose?",
+    "start": 256.375,
+    "duration": 1.6
+  },
+  {
+    "text": " From 4 to 3",
+    "start": 258.0,
+    "duration": 1.0
+  },
+  {
+    "text": " Because 2 is done, 4 is done",
+    "start": 259.2,
+    "duration": 1.6
+  },
+  {
+    "text": " You started from 1",
+    "start": 261.0,
+    "duration": 1.0
+  },
+  {
+    "text": " And to reach 1 again",
+    "start": 262.2,
+    "duration": 1.6
+  },
+  {
+    "text": " Instead of 4 to 1",
+    "start": 264.0,
+    "duration": 1.0
+  },
+  {
+    "text": " You will try to choose from 4 to 3",
+    "start": 265.2,
+    "duration": 2.8
+  },
+  {
+    "text": " So from 4 to 3 cost is 20",
+    "start": 268.025,
+    "duration": 3.587
+  },
+  {
+    "text": " And then from 3 obviously you will go back to 1",
+    "start": 271.812,
+    "duration": 2.363
+  },
+  {
+    "text": " Because you started from 1 and reached back to 1",
+    "start": 274.375,
+    "duration": 2.8
+  },
+  {
+    "text": " So from 3 to 1 your cost is 15",
+    "start": 277.2,
+    "duration": 2.8
+  },
+  {
+    "text": " So see if we talk about this total cost",
+    "start": 280.2,
+    "duration": 2.0
+  },
+  {
+    "text": " Then how much will it be? 20",
+    "start": 282.2,
+    "duration": 1.8
+  },
+  {
+    "text": " 40",
+    "start": 284.375,
+    "duration": 1.0
+  },
+  {
+    "text": " 50",
+    "start": 285.575,
+    "duration": 0.8
+  },
+  {
+    "text": " 55",
+    "start": 286.4,
+    "duration": 1.0
+  },
+  {
+    "text": " How much will be your total cost?",
+    "start": 287.775,
+    "duration": 2.0
+  },
+  {
+    "text": " It will be 55 cost",
+    "start": 289.8,
+    "duration": 1.799
+  },
+  {
+    "text": " So is this minimum value?",
+    "start": 291.8,
+    "duration": 2.0
+  },
+  {
+    "text": " We can't tell you that now",
+    "start": 294.0,
+    "duration": 1.599
+  },
+  {
+    "text": " From the point of view of greedy",
+    "start": 295.8,
+    "duration": 1.0
+  },
+  {
+    "text": " This answer will come",
+    "start": 297.0,
+    "duration": 1.0
+  },
+  {
+    "text": " But when we use dynamic programming",
+    "start": 298.2,
+    "duration": 2.0
+  },
+  {
+    "text": " Then we actually get the optimal answer",
+    "start": 300.4,
+    "duration": 2.8
+  },
+  {
+    "text": " So this greedy approach solves the problem in this way",
+    "start": 303.4,
+    "duration": 3.8
+  },
+  {
+    "text": " Now if we talk about brute force method",
+    "start": 307.4,
+    "duration": 3.199
+  },
+  {
+    "text": " What is brute force method?",
+    "start": 310.6,
+    "duration": 1.6
+  },
+  {
+    "text": " You try all the possibilities",
+    "start": 312.4,
+    "duration": 2.0
+  },
+  {
+    "text": " Travel all the possibilities",
+    "start": 314.6,
+    "duration": 2.2
+  },
+  {
+    "text": " Then you find out",
+    "start": 317.0,
+    "duration": 1.2
+  },
+  {
+    "text": " What is the minimum cost?",
+    "start": 318.4,
+    "duration": 2.0
+  },
+  {
+    "text": " That will become your answer",
+    "start": 320.6,
+    "duration": 1.2
+  },
+  {
+    "text": " So let's say if I try to travel all the possibilities",
+    "start": 322.0,
+    "duration": 2.4
+  },
+  {
+    "text": " Then you can do it this way",
+    "start": 324.6,
+    "duration": 1.6
+  },
+  {
+    "text": " Let's say you started the journey from 1",
+    "start": 326.4,
+    "duration": 1.6
+  },
+  {
+    "text": " One option you have is to go from 1 to 2",
+    "start": 328.2,
+    "duration": 2.4
+  },
+  {
+    "text": " Or went from 1 to 3",
+    "start": 330.8,
+    "duration": 1.4
+  },
+  {
+    "text": " Or went from 1 to 4",
+    "start": 332.4,
+    "duration": 1.4
+  },
+  {
+    "text": " Obviously from 1 you have these 3 options",
+    "start": 334.0,
+    "duration": 2.0
+  },
+  {
+    "text": " If let's say you chose 2",
+    "start": 336.2,
+    "duration": 1.8
+  },
+  {
+    "text": " Then from 2 you have either 3 option or 4 option",
+    "start": 338.0,
+    "duration": 4.0
+  },
+  {
+    "text": " From 3 you have either 2 option or 4 option",
+    "start": 342.2,
+    "duration": 3.4
+  },
+  {
+    "text": " From 4 you have 2 or you can go to 3",
+    "start": 345.8,
+    "duration": 3.0
+  },
+  {
+    "text": " That's the same number",
+    "start": 349.0,
+    "duration": 1.0
+  },
+  {
+    "text": " Now let's say from 1 to 2 you go from 2 to 3",
+    "start": 350.2,
+    "duration": 2.2
+  },
+  {
+    "text": " Now after 3 obviously you will go to 4",
+    "start": 352.6,
+    "duration": 2.2
+  },
+  {
+    "text": " And after 4 you will go back to 1",
+    "start": 355.0,
+    "duration": 3.6
+  },
+  {
+    "text": " So this possibility of 1 can become yours",
+    "start": 358.8,
+    "duration": 2.6
+  },
+  {
+    "text": " Then if from 1 to 2, 2 to 4",
+    "start": 361.6,
+    "duration": 1.8
+  },
+  {
+    "text": " Obviously from 4 you will go to 3",
+    "start": 363.6,
+    "duration": 1.8
+  },
+  {
+    "text": " From 3 you will go to 1",
+    "start": 365.6,
+    "duration": 1.8
+  },
+  {
+    "text": " Similarly from 1 to 3, 2 to 4",
+    "start": 367.4,
+    "duration": 2.399
+  },
+  {
+    "text": " From 4 you will go to 1",
+    "start": 370.0,
+    "duration": 1.799
+  },
+  {
+    "text": " Similarly from 1 to 3, 4 to 2",
+    "start": 372.0,
+    "duration": 2.2
+  },
+  {
+    "text": " From 2 to 1",
+    "start": 374.4,
+    "duration": 1.399
+  },
+  {
+    "text": " Similarly from 1 to 4, 2 to 3",
+    "start": 376.0,
+    "duration": 2.599
+  },
+  {
+    "text": " And after that you will go to 1",
+    "start": 378.799,
+    "duration": 1.8
+  },
+  {
+    "text": " After 1 to 4, 3 to 3, 2 to 2",
+    "start": 380.799,
+    "duration": 1.8
+  },
+  {
+    "text": " After 2 obviously you will go to 1",
+    "start": 382.799,
+    "duration": 2.0
+  },
+  {
+    "text": " So these total possibilities you can say according to this graph",
+    "start": 385.0,
+    "duration": 4.799
+  },
+  {
+    "text": " So evaluate all these values",
+    "start": 390.0,
+    "duration": 2.2
+  },
+  {
+    "text": " After evaluating the minimum answer that will be your answer",
+    "start": 392.4,
+    "duration": 4.399
+  },
+  {
+    "text": " Of which we have already done 1, 2, 4, 3, 1",
+    "start": 396.8,
+    "duration": 3.4
+  },
+  {
+    "text": " So 1, 2, 4, 3, 1",
+    "start": 400.4,
+    "duration": 1.8
+  },
+  {
+    "text": " We have already done this",
+    "start": 402.4,
+    "duration": 1.0
+  },
+  {
+    "text": " 50, 50",
+    "start": 403.6,
+    "duration": 0.8
+  },
+  {
+    "text": " So by calculating all the values in this way",
+    "start": 404.6,
+    "duration": 2.2
+  },
+  {
+    "text": " The minimum answer that is coming",
+    "start": 407.0,
+    "duration": 1.4
+  },
+  {
+    "text": " That brute force method will work in this way",
+    "start": 408.6,
+    "duration": 2.8
+  },
+  {
+    "text": " So this is a very basic level problem",
+    "start": 411.6,
+    "duration": 5.2
+  },
+  {
+    "text": " But this is a very interesting problem in the algorithm",
+    "start": 417.0,
+    "duration": 4.8
+  },
+  {
+    "text": " Because here you learn how greedy works in actual",
+    "start": 422.0,
+    "duration": 4.4
+  },
+  {
+    "text": " How dynamic programming works",
+    "start": 426.4,
+    "duration": 2.0
+  },
+  {
+    "text": " What greedy always gives me an answer",
+    "start": 428.599,
+    "duration": 2.0
+  },
+  {
+    "text": " This is what you find out here",
+    "start": 430.799,
+    "duration": 1.601
+  },
+  {
+    "text": " So if you solve it, I am not telling you by solving all",
+    "start": 432.599,
+    "duration": 2.401
+  },
+  {
+    "text": " If you solve all then obviously it will take more time",
+    "start": 435.2,
+    "duration": 2.399
+  },
+  {
+    "text": " What to do, nothing is there, cost is in front of you",
+    "start": 437.799,
+    "duration": 2.201
+  },
+  {
+    "text": " Add it and evaluate it",
+    "start": 440.2,
+    "duration": 1.599
+  },
+  {
+    "text": " So let's say I went from 1 to 3",
+    "start": 442.0,
+    "duration": 2.599
+  },
+  {
+    "text": " If I went from 1 to 3, how much is my cost? 15",
+    "start": 444.799,
+    "duration": 3.401
+  },
+  {
+    "text": " So I chose 15 cost of 1 to 3 here",
+    "start": 448.4,
+    "duration": 3.199
+  },
+  {
+    "text": " From 1 to 3 is 15",
+    "start": 451.799,
+    "duration": 1.601
+  },
+  {
+    "text": " From 3 let's say I went to 4",
+    "start": 453.599,
+    "duration": 1.601
+  },
+  {
+    "text": " So if I went from 3 to 4, how much is my cost? 5",
+    "start": 455.2,
+    "duration": 3.8
+  },
+  {
+    "text": " From 4 I went to 2",
+    "start": 459.2,
+    "duration": 1.6
+  },
+  {
+    "text": " Let's say I am evaluating this one",
+    "start": 461.0,
+    "duration": 1.2
+  },
+  {
+    "text": " From 4 I went to 2",
+    "start": 462.4,
+    "duration": 1.0
+  },
+  {
+    "text": " So if I went from 4 to 2, how much is my cost here? 10",
+    "start": 463.599,
+    "duration": 3.601
+  },
+  {
+    "text": " And from 2 to 1, how much is my cost here? 5",
+    "start": 467.4,
+    "duration": 3.4
+  },
+  {
+    "text": " So total cost will be 15 and 5, 20, 30, 35",
+    "start": 471.0,
+    "duration": 4.8
+  },
+  {
+    "text": " So here you have cost less than greedy",
+    "start": 476.0,
+    "duration": 5.0
+  },
+  {
+    "text": " So this is your point that your greedy is failing here",
+    "start": 481.0,
+    "duration": 4.8
+  },
+  {
+    "text": " So in this way you can write them in exams",
+    "start": 486.0,
+    "duration": 2.8
+  },
+  {
+    "text": " You can tell them anywhere",
+    "start": 489.0,
+    "duration": 0.8
+  },
+  {
+    "text": " And if you evaluate all these answers",
+    "start": 490.0,
+    "duration": 2.8
+  },
+  {
+    "text": " I have already done it",
+    "start": 493.0,
+    "duration": 1.8
+  },
+  {
+    "text": " So you will get the minimum answer of 35",
+    "start": 495.0,
+    "duration": 2.8
+  },
+  {
+    "text": " So what is the answer of this problem?",
+    "start": 498.0,
+    "duration": 2.8
+  },
+  {
+    "text": " 35 is the minimum answer",
+    "start": 501.0,
+    "duration": 1.8
+  },
+  {
+    "text": " So write this point in your notes",
+    "start": 503.0,
+    "duration": 3.8
+  },
+  {
+    "text": " So that you get a clear cut answer",
+    "start": 507.0,
+    "duration": 2.8
+  },
+  {
+    "text": " You can evaluate all these in your notes",
+    "start": 509.8,
+    "duration": 2.8
+  },
+  {
+    "text": " I am not doing it because it will take time",
+    "start": 512.799,
+    "duration": 2.801
+  },
+  {
+    "text": " Let me tell you one more point",
+    "start": 515.799,
+    "duration": 1.801
+  },
+  {
+    "text": " If it comes in your mind",
+    "start": 517.799,
+    "duration": 0.801
+  },
+  {
+    "text": " Sometimes it comes in the mind of the student",
+    "start": 518.799,
+    "duration": 1.801
+  },
+  {
+    "text": " That if 1 goes from 1 to 2, then the cost is 10",
+    "start": 520.799,
+    "duration": 2.801
+  },
+  {
+    "text": " And if 2 goes from 1 to 2, then the cost is 5",
+    "start": 523.799,
+    "duration": 2.801
+  },
+  {
+    "text": " You must be seeing",
+    "start": 526.8,
+    "duration": 0.8
+  },
+  {
+    "text": " That if 1 goes from 1 to 2, then the cost is 10",
+    "start": 527.8,
+    "duration": 2.8
+  },
+  {
+    "text": " If 2 goes from 1 to 2, then the cost is 5",
+    "start": 530.8,
+    "duration": 1.8
+  },
+  {
+    "text": " How can this be?",
+    "start": 532.8,
+    "duration": 0.8
+  },
+  {
+    "text": " Means if 1 goes from 1 city to another, then the cost is 10",
+    "start": 533.8,
+    "duration": 2.8
+  },
+  {
+    "text": " And if it comes back, then how the cost is less?",
+    "start": 536.8,
+    "duration": 1.8
+  },
+  {
+    "text": " So this is a simple example",
+    "start": 538.6,
+    "duration": 0.8
+  },
+  {
+    "text": " Let's say you went on a cycle and came on a car",
+    "start": 539.6,
+    "duration": 3.8
+  },
+  {
+    "text": " This is also a possibility",
+    "start": 543.6,
+    "duration": 0.8
+  },
+  {
+    "text": " So when we solve real life examples with the method of graphs",
+    "start": 544.6,
+    "duration": 4.8
+  },
+  {
+    "text": " So you do not restrict it to one point",
+    "start": 549.6,
+    "duration": 2.8
+  },
+  {
+    "text": " Many things are possible",
+    "start": 552.6,
+    "duration": 1.8
+  },
+  {
+    "text": " Like how negative weights are possible in the Bellman Ford",
+    "start": 554.6,
+    "duration": 2.8
+  },
+  {
+    "text": " That is the answer I told you",
+    "start": 557.6,
+    "duration": 1.8
+  },
+  {
+    "text": " So this possibility can be that you went on a cycle",
+    "start": 559.6,
+    "duration": 3.8
+  },
+  {
+    "text": " And again suffered on the car",
+    "start": 563.6,
+    "duration": 2.8
+  },
+  {
+    "text": " If we talk from the point of view of your \n     time, then time will obviously be less",
+    "start": 566.4,
+    "duration": 3.799
+  },
+  {
+    "text": " If we talk from the point of view of money, \nthen maybe your money can be more",
+    "start": 570.4,
+    "duration": 4.799
+  },
+  {
+    "text": " So any factor, this is just a metric, this is just a number",
+    "start": 575.4,
+    "duration": 3.799
+  },
+  {
+    "text": " If you are measuring money, time in any way",
+    "start": 579.4,
+    "duration": 3.151
+  },
+  {
+    "text": " Then you have to measure very carefully",
+    "start": 582.576,
+    "duration": 2.799
+  },
+  {
+    "text": " If we talk about this thing, then you can say efforts",
+    "start": 585.4,
+    "duration": 2.799
+  },
+  {
+    "text": " In terms of time",
+    "start": 588.4,
+    "duration": 0.799
+  },
+  {
+    "text": " Because we have to choose the minimum value",
+    "start": 589.4,
+    "duration": 2.799
+  },
+  {
+    "text": " So in this way you can map it to any example",
+    "start": 592.2,
+    "duration": 5.8
+  },
+  {
+    "text": " So here the answer is 35",
+    "start": 598.2,
+    "duration": 2.8
+  },
+  {
+    "text": " So if we talk about time complexity",
+    "start": 601.2,
+    "duration": 1.8
+  },
+  {
+    "text": " This brute force method we have applied",
+    "start": 603.2,
+    "duration": 0.8
+  },
+  {
+    "text": " So we did that actually from 1 \nto we have N number of nodes",
+    "start": 604.025,
+    "duration": 5.8
+  },
+  {
+    "text": " From 1 to we have N number of nodes",
+    "start": 610.2,
+    "duration": 2.8
+  },
+  {
+    "text": " So what are we doing?",
+    "start": 613.2,
+    "duration": 0.8
+  },
+  {
+    "text": " We are going back to 1",
+    "start": 614.2,
+    "duration": 1.8
+  },
+  {
+    "text": " Means from 1 to N number of nodes",
+    "start": 616.2,
+    "duration": 1.8
+  },
+  {
+    "text": " I know to go to 1 by roaming",
+    "start": 618.2,
+    "duration": 1.8
+  },
+  {
+    "text": " From 1 to N number of nodes",
+    "start": 620.0,
+    "duration": 1.8
+  },
+  {
+    "text": " But where will my suffer end on 1 again?",
+    "start": 622.0,
+    "duration": 2.8
+  },
+  {
+    "text": " So if we talk about this example",
+    "start": 625.0,
+    "duration": 1.8
+  },
+  {
+    "text": " So 1, 2, 3, 4, 1 again roaming",
+    "start": 627.0,
+    "duration": 2.8
+  },
+  {
+    "text": " Or 1, 2, 4, 3 roaming",
+    "start": 630.0,
+    "duration": 2.8
+  },
+  {
+    "text": " Or 1, 4, 3, 2, 1",
+    "start": 633.0,
+    "duration": 2.8
+  },
+  {
+    "text": " In this way the N-1 nodes in between",
+    "start": 636.0,
+    "duration": 2.8
+  },
+  {
+    "text": " Your possibilities are being created in between them",
+    "start": 639.0,
+    "duration": 2.8
+  },
+  {
+    "text": " The other Nth node is the same as yours",
+    "start": 642.0,
+    "duration": 1.8
+  },
+  {
+    "text": " The one with 1 is the same",
+    "start": 644.0,
+    "duration": 1.8
+  },
+  {
+    "text": " So the N-1 possibilities in between",
+    "start": 646.0,
+    "duration": 1.8
+  },
+  {
+    "text": " Which you can call N-1 factorial",
+    "start": 647.8,
+    "duration": 3.799
+  },
+  {
+    "text": " Total possibilities are being created here",
+    "start": 651.8,
+    "duration": 2.799
+  },
+  {
+    "text": " So N-1 factorial",
+    "start": 654.8,
+    "duration": 1.799
+  },
+  {
+    "text": " So many possibilities are being created here",
+    "start": 656.8,
+    "duration": 1.799
+  },
+  {
+    "text": " If there are number of nodes",
+    "start": 658.8,
+    "duration": 0.799
+  },
+  {
+    "text": " Like in this case you can say there are 4 nodes",
+    "start": 659.8,
+    "duration": 2.799
+  },
+  {
+    "text": " So 4-1 is 3 factorial",
+    "start": 662.8,
+    "duration": 1.799
+  },
+  {
+    "text": " So 3x2 is 6",
+    "start": 664.8,
+    "duration": 0.799
+  },
+  {
+    "text": " So see 6 possibilities are in front of you",
+    "start": 665.8,
+    "duration": 2.799
+  },
+  {
+    "text": " So if we write it in the form of order of",
+    "start": 668.8,
+    "duration": 1.799
+  },
+  {
+    "text": " So obviously you can write it from the point of view of order of N factorial",
+    "start": 670.8,
+    "duration": 5.799
+  },
+  {
+    "text": " And order of N factorial",
+    "start": 676.6,
+    "duration": 1.8
+  },
+  {
+    "text": " If you solve it",
+    "start": 678.6,
+    "duration": 1.8
+  },
+  {
+    "text": " It is N power N",
+    "start": 680.425,
+    "duration": 2.8
+  },
+  {
+    "text": " Which is the biggest time complexity",
+    "start": 683.25,
+    "duration": 2.325
+  },
+  {
+    "text": " In exponential",
+    "start": 685.775,
+    "duration": 1.8
+  },
+  {
+    "text": " Till now we talked about 2 raised to power N",
+    "start": 687.6,
+    "duration": 2.8
+  },
+  {
+    "text": " Whether it is 01 knapsack or sum of subset problem",
+    "start": 690.6,
+    "duration": 2.8
+  },
+  {
+    "text": " But N raised to power N is the biggest time complexity",
+    "start": 693.6,
+    "duration": 3.8
+  },
+  {
+    "text": " So this time complexity is coming from brute force method",
+    "start": 697.775,
+    "duration": 3.8
+  },
+  {
+    "text": " So obviously we can't bear this much time complexity",
+    "start": 701.6,
+    "duration": 2.8
+  },
+  {
+    "text": " So we will try to put dynamic approach in this",
+    "start": 704.425,
+    "duration": 4.799
+  },
+  {
+    "text": " Now I will give you a hint of dynamic programming",
+    "start": 710.087,
+    "duration": 3.288
+  },
+  {
+    "text": " Already we have discussed about it",
+    "start": 713.4,
+    "duration": 2.799
+  },
+  {
+    "text": " What is the funda of dynamic programming",
+    "start": 716.4,
+    "duration": 1.799
+  },
+  {
+    "text": " So there are 2 things here",
+    "start": 718.4,
+    "duration": 0.799
+  },
+  {
+    "text": " The benefit of dynamic programming is",
+    "start": 719.4,
+    "duration": 2.799
+  },
+  {
+    "text": " First, your problem should be division in subproblems",
+    "start": 722.4,
+    "duration": 3.799
+  },
+  {
+    "text": " We can divide it in subproblems",
+    "start": 726.4,
+    "duration": 1.799
+  },
+  {
+    "text": " Second, there should be overlapping between my subproblems",
+    "start": 728.4,
+    "duration": 4.799
+  },
+  {
+    "text": " Means if there is repetition of all problems",
+    "start": 733.2,
+    "duration": 2.8
+  },
+  {
+    "text": " So obviously we will evaluate it once and store it",
+    "start": 736.2,
+    "duration": 2.8
+  },
+  {
+    "text": " Next time we will use it",
+    "start": 739.2,
+    "duration": 1.8
+  },
+  {
+    "text": " So that my time complexity is reduced",
+    "start": 741.2,
+    "duration": 1.8
+  },
+  {
+    "text": " But here if we talk",
+    "start": 743.2,
+    "duration": 1.8
+  },
+  {
+    "text": " So my problem is very small",
+    "start": 745.2,
+    "duration": 2.8
+  },
+  {
+    "text": " Your subproblems are being divided",
+    "start": 748.2,
+    "duration": 1.8
+  },
+  {
+    "text": " One condition is being satisfied here",
+    "start": 750.2,
+    "duration": 2.8
+  },
+  {
+    "text": " But if we talk about repetition here",
+    "start": 753.2,
+    "duration": 2.8
+  },
+  {
+    "text": " So see from here 1 to 2, 1 to 3, 1 to 4",
+    "start": 756.2,
+    "duration": 3.8
+  },
+  {
+    "text": " And from here 2, 3, 4, 1",
+    "start": 760.2,
+    "duration": 1.8
+  },
+  {
+    "text": " Will this problem be separate?",
+    "start": 762.0,
+    "duration": 1.8
+  },
+  {
+    "text": " From here 2, 4, 3",
+    "start": 764.0,
+    "duration": 1.8
+  },
+  {
+    "text": " This is separate",
+    "start": 765.825,
+    "duration": 0.8
+  },
+  {
+    "text": " This one is your subproblems are separate",
+    "start": 766.799,
+    "duration": 2.176
+  },
+  {
+    "text": " This one is your subproblems are separate",
+    "start": 769.0,
+    "duration": 1.8
+  },
+  {
+    "text": " This one is your subproblems are separate",
+    "start": 770.825,
+    "duration": 0.8
+  },
+  {
+    "text": " And this one is your subproblems are separate",
+    "start": 772.175,
+    "duration": 1.8
+  },
+  {
+    "text": " Means you can't see any repetition between them",
+    "start": 774.0,
+    "duration": 3.8
+  },
+  {
+    "text": " Maybe you can see it at the last level",
+    "start": 778.0,
+    "duration": 1.8
+  },
+  {
+    "text": " Like if we talk about the last level",
+    "start": 779.844,
+    "duration": 1.8
+  },
+  {
+    "text": " So maybe you can see it at the last level",
+    "start": 782.175,
+    "duration": 2.8
+  },
+  {
+    "text": " Like 4, 1 is being repeated or 3, 1 or 3",
+    "start": 785.0,
+    "duration": 2.8
+  },
+  {
+    "text": " But there is no repetition at the rest of n-1 level",
+    "start": 787.8,
+    "duration": 3.799
+  },
+  {
+    "text": " So because of this I will tell you",
+    "start": 791.624,
+    "duration": 1.799
+  },
+  {
+    "text": " After applying dynamic programming here",
+    "start": 793.8,
+    "duration": 2.799
+  },
+  {
+    "text": " You can reduce it a little from n raised to power n",
+    "start": 796.8,
+    "duration": 3.799
+  },
+  {
+    "text": " But still it will remain exponential time complexity",
+    "start": 800.8,
+    "duration": 3.799
+  },
+  {
+    "text": " It will not be converted in polynomial",
+    "start": 804.8,
+    "duration": 2.799
+  },
+  {
+    "text": " Which was in the 01-NAPSEC or matrix multiplication",
+    "start": 807.8,
+    "duration": 2.799
+  },
+  {
+    "text": " Which we did",
+    "start": 810.8,
+    "duration": 0.799
+  },
+  {
+    "text": " It is possible in that",
+    "start": 811.8,
+    "duration": 0.799
+  },
+  {
+    "text": " It is not possible here",
+    "start": 812.8,
+    "duration": 0.799
+  },
+  {
+    "text": " So that's why we call it NP-complete problem",
+    "start": 813.6,
+    "duration": 3.8
+  },
+  {
+    "text": " And along with this",
+    "start": 817.425,
+    "duration": 1.325
+  },
+  {
+    "text": " If we talk about it",
+    "start": 818.775,
+    "duration": 0.8
+  },
+  {
+    "text": " It can be written somewhere here",
+    "start": 819.6,
+    "duration": 2.8
+  },
+  {
+    "text": " Hamiltonian cycle",
+    "start": 822.425,
+    "duration": 2.325
+  },
+  {
+    "text": " We call it Hamiltonian cycle",
+    "start": 824.775,
+    "duration": 1.8
+  },
+  {
+    "text": " By the way it is a part of graph theory",
+    "start": 826.6,
+    "duration": 1.8
+  },
+  {
+    "text": " Hamiltonian cycle is",
+    "start": 828.775,
+    "duration": 1.8
+  },
+  {
+    "text": " Starting from one node",
+    "start": 830.6,
+    "duration": 1.8
+  },
+  {
+    "text": " Covering all nodes of the graph",
+    "start": 832.425,
+    "duration": 2.325
+  },
+  {
+    "text": " And coming back to that node",
+    "start": 834.775,
+    "duration": 1.8
+  },
+  {
+    "text": " That is a Hamiltonian cycle problem",
+    "start": 836.775,
+    "duration": 1.8
+  },
+  {
+    "text": " So that's why we call it Hamiltonian cycle",
+    "start": 838.6,
+    "duration": 2.786
+  },
+  {
+    "text": " So for now just note this about time complexities",
+    "start": 841.411,
+    "duration": 2.964
+  },
+  {
+    "text": " But still how much we reduce from dynamic programming",
+    "start": 844.4,
+    "duration": 3.799
+  },
+  {
+    "text": " That we will check in the next video",
+    "start": 848.224,
+    "duration": 2.253
+  },
+  {
+    "text": "Thank You.",
+    "start": 850.502,
+    "duration": 0.909
+  }
+]

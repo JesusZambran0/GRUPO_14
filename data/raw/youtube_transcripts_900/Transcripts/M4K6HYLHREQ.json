@@ -1,0 +1,1202 @@
+[
+  {
+    "text": "okay in this video I'm going to do an",
+    "start": 1.28,
+    "duration": 2.639
+  },
+  {
+    "text": "example of what's called linear",
+    "start": 2.679,
+    "duration": 3.321
+  },
+  {
+    "text": "programming and the basic procedure for",
+    "start": 3.919,
+    "duration": 4.561
+  },
+  {
+    "text": "linear programming um there's something",
+    "start": 6.0,
+    "duration": 4.2
+  },
+  {
+    "text": "you're trying to maximize or minimize",
+    "start": 8.48,
+    "duration": 3.36
+  },
+  {
+    "text": "usually subject to a couple of",
+    "start": 10.2,
+    "duration": 4.319
+  },
+  {
+    "text": "constraints or inequalities and what",
+    "start": 11.84,
+    "duration": 3.64
+  },
+  {
+    "text": "you'll do is you'll graph the",
+    "start": 14.519,
+    "duration": 2.881
+  },
+  {
+    "text": "inequalities you'll gra graph the region",
+    "start": 15.48,
+    "duration": 3.28
+  },
+  {
+    "text": "bounded by all the",
+    "start": 17.4,
+    "duration": 3.6
+  },
+  {
+    "text": "inequalities find the vertices which are",
+    "start": 18.76,
+    "duration": 4.56
+  },
+  {
+    "text": "basically just the corners of the region",
+    "start": 21.0,
+    "duration": 4.0
+  },
+  {
+    "text": "you'll basically plug those Corner",
+    "start": 23.32,
+    "duration": 3.719
+  },
+  {
+    "text": "points into the function whatever the",
+    "start": 25.0,
+    "duration": 4.519
+  },
+  {
+    "text": "largest value is at your maximum the",
+    "start": 27.039,
+    "duration": 4.881
+  },
+  {
+    "text": "smallest is your minimum so here's",
+    "start": 29.519,
+    "duration": 4.241
+  },
+  {
+    "text": "basically just a little example of",
+    "start": 31.92,
+    "duration": 3.28
+  },
+  {
+    "text": "what's going to happen you'll graph your",
+    "start": 33.76,
+    "duration": 3.2
+  },
+  {
+    "text": "region your inequalities you'll find",
+    "start": 35.2,
+    "duration": 4.32
+  },
+  {
+    "text": "some little region here it's in green",
+    "start": 36.96,
+    "duration": 4.04
+  },
+  {
+    "text": "again you'll basically just find the",
+    "start": 39.52,
+    "duration": 4.44
+  },
+  {
+    "text": "vertices the corners plug those in and",
+    "start": 41.0,
+    "duration": 4.48
+  },
+  {
+    "text": "determine which one's a Max and which",
+    "start": 43.96,
+    "duration": 2.56
+  },
+  {
+    "text": "one's a",
+    "start": 45.48,
+    "duration": 3.12
+  },
+  {
+    "text": "minimum okay so here's our actual",
+    "start": 46.52,
+    "duration": 3.96
+  },
+  {
+    "text": "problem that we'll do here so suppose",
+    "start": 48.6,
+    "duration": 3.84
+  },
+  {
+    "text": "you have 240 acres of land and you're",
+    "start": 50.48,
+    "duration": 5.559
+  },
+  {
+    "text": "going to um you can make $40 per acre um",
+    "start": 52.44,
+    "duration": 6.52
+  },
+  {
+    "text": "for the corn $30 per acre of Oats that",
+    "start": 56.039,
+    "duration": 5.961
+  },
+  {
+    "text": "you plant um but it takes hour to Har to",
+    "start": 58.96,
+    "duration": 4.599
+  },
+  {
+    "text": "harvest the stuff so suppose you have",
+    "start": 62.0,
+    "duration": 4.6
+  },
+  {
+    "text": "320 hours available and it takes 2 hours",
+    "start": 63.559,
+    "duration": 6.481
+  },
+  {
+    "text": "of labor per acre for the corn and oats",
+    "start": 66.6,
+    "duration": 6.559
+  },
+  {
+    "text": "only take one uh hour of Labor so how",
+    "start": 70.04,
+    "duration": 5.04
+  },
+  {
+    "text": "many acres of each should be planted to",
+    "start": 73.159,
+    "duration": 3.441
+  },
+  {
+    "text": "maximize",
+    "start": 75.08,
+    "duration": 5.76
+  },
+  {
+    "text": "profits okay so intuitively um you know",
+    "start": 76.6,
+    "duration": 9.8
+  },
+  {
+    "text": "You' probably like to plant a lot of um",
+    "start": 80.84,
+    "duration": 6.84
+  },
+  {
+    "text": "well I don't know it's trade-off right",
+    "start": 86.4,
+    "duration": 3.039
+  },
+  {
+    "text": "if you plant corn you get you get more",
+    "start": 87.68,
+    "duration": 5.479
+  },
+  {
+    "text": "money but you know you can do 2 hours",
+    "start": 89.439,
+    "duration": 6.64
+  },
+  {
+    "text": "you can Harvest 2 Acres of oats for",
+    "start": 93.159,
+    "duration": 5.361
+  },
+  {
+    "text": "every one acre of corn but you actually",
+    "start": 96.079,
+    "duration": 4.761
+  },
+  {
+    "text": "double your money then so but then of",
+    "start": 98.52,
+    "duration": 6.12
+  },
+  {
+    "text": "course you're taking up extra space so",
+    "start": 100.84,
+    "duration": 5.2
+  },
+  {
+    "text": "all right so there's there's some issues",
+    "start": 104.64,
+    "duration": 3.439
+  },
+  {
+    "text": "here so let's see if we can't figure it",
+    "start": 106.04,
+    "duration": 5.359
+  },
+  {
+    "text": "out so I'm going to let",
+    "start": 108.079,
+    "duration": 8.121
+  },
+  {
+    "text": "x equal the number of",
+    "start": 111.399,
+    "duration": 8.881
+  },
+  {
+    "text": "acres of corn that we'll plant and then",
+    "start": 116.2,
+    "duration": 6.4
+  },
+  {
+    "text": "the same thing we'll let y equal the",
+    "start": 120.28,
+    "duration": 5.04
+  },
+  {
+    "text": "number of",
+    "start": 122.6,
+    "duration": 6.4
+  },
+  {
+    "text": "Acres of Oats that we",
+    "start": 125.32,
+    "duration": 5.559
+  },
+  {
+    "text": "plant okay the thing that we're trying",
+    "start": 129.0,
+    "duration": 3.84
+  },
+  {
+    "text": "to maximize here in this case we want to",
+    "start": 130.879,
+    "duration": 4.0
+  },
+  {
+    "text": "maximize our",
+    "start": 132.84,
+    "duration": 4.2
+  },
+  {
+    "text": "profit well what our what would our",
+    "start": 134.879,
+    "duration": 4.121
+  },
+  {
+    "text": "profit be",
+    "start": 137.04,
+    "duration": 4.88
+  },
+  {
+    "text": "well for every acre of corn you get",
+    "start": 139.0,
+    "duration": 5.92
+  },
+  {
+    "text": "basically $40 so we'll take 40 and",
+    "start": 141.92,
+    "duration": 5.28
+  },
+  {
+    "text": "multiply it by the number of acres of",
+    "start": 144.92,
+    "duration": 7.36
+  },
+  {
+    "text": "corn and this will represent the total",
+    "start": 147.2,
+    "duration": 7.36
+  },
+  {
+    "text": "income the total",
+    "start": 152.28,
+    "duration": 5.599
+  },
+  {
+    "text": "income from the",
+    "start": 154.56,
+    "duration": 7.24
+  },
+  {
+    "text": "corn and then we'll add to",
+    "start": 157.879,
+    "duration": 8.36
+  },
+  {
+    "text": "that um 30 * Y and that'll represent",
+    "start": 161.8,
+    "duration": 7.28
+  },
+  {
+    "text": "simply the total",
+    "start": 166.239,
+    "duration": 2.841
+  },
+  {
+    "text": "income that'll be the total income from",
+    "start": 170.76,
+    "duration": 6.0
+  },
+  {
+    "text": "the oats if we plant y",
+    "start": 173.28,
+    "duration": 5.8
+  },
+  {
+    "text": "Acres okay so we also have some other",
+    "start": 176.76,
+    "duration": 5.479
+  },
+  {
+    "text": "constraints here here we only have 240",
+    "start": 179.08,
+    "duration": 4.48
+  },
+  {
+    "text": "acres of",
+    "start": 182.239,
+    "duration": 3.521
+  },
+  {
+    "text": "land well so that's where we're going to",
+    "start": 183.56,
+    "duration": 4.92
+  },
+  {
+    "text": "get some of our constraints here okay so",
+    "start": 185.76,
+    "duration": 5.72
+  },
+  {
+    "text": "we've taken care of the",
+    "start": 188.48,
+    "duration": 3.0
+  },
+  {
+    "text": "profit okay so we only have 240 acres of",
+    "start": 192.04,
+    "duration": 7.04
+  },
+  {
+    "text": "land well certainly as well notice we'll",
+    "start": 196.48,
+    "duration": 4.319
+  },
+  {
+    "text": "have the inequalities X has to be",
+    "start": 199.08,
+    "duration": 4.48
+  },
+  {
+    "text": "greater than equal to zero y has to be",
+    "start": 200.799,
+    "duration": 4.52
+  },
+  {
+    "text": "greater than or equal to zero because",
+    "start": 203.56,
+    "duration": 3.72
+  },
+  {
+    "text": "you can't you know you can either plant",
+    "start": 205.319,
+    "duration": 5.961
+  },
+  {
+    "text": "zero or some positive number of Acres",
+    "start": 207.28,
+    "duration": 7.08
+  },
+  {
+    "text": "notice also one of our inequalities is",
+    "start": 211.28,
+    "duration": 6.56
+  },
+  {
+    "text": "that x +",
+    "start": 214.36,
+    "duration": 6.92
+  },
+  {
+    "text": "y okay so we're planting X acres of corn",
+    "start": 217.84,
+    "duration": 6.08
+  },
+  {
+    "text": "y Acres of Oats this is represents the",
+    "start": 221.28,
+    "duration": 4.2
+  },
+  {
+    "text": "total number of acres and we know that",
+    "start": 223.92,
+    "duration": 3.56
+  },
+  {
+    "text": "the total number of acres has to be",
+    "start": 225.48,
+    "duration": 6.0
+  },
+  {
+    "text": "under less than or equal to",
+    "start": 227.48,
+    "duration": 4.0
+  },
+  {
+    "text": "240 likewise we only have 320 hours",
+    "start": 231.68,
+    "duration": 7.759
+  },
+  {
+    "text": "available man hours um to to accomplish",
+    "start": 235.76,
+    "duration": 9.16
+  },
+  {
+    "text": "our task so it takes 2 hours per acre of",
+    "start": 239.439,
+    "duration": 9.201
+  },
+  {
+    "text": "corn plus 1 hour per acre of oats and we",
+    "start": 244.92,
+    "duration": 5.399
+  },
+  {
+    "text": "know that that has to be less than or",
+    "start": 248.64,
+    "duration": 3.519
+  },
+  {
+    "text": "equal to",
+    "start": 250.319,
+    "duration": 4.12
+  },
+  {
+    "text": "320 okay because that's how much time we",
+    "start": 252.159,
+    "duration": 4.441
+  },
+  {
+    "text": "have available so these are going to be",
+    "start": 254.439,
+    "duration": 5.48
+  },
+  {
+    "text": "our systems of inequalities here that",
+    "start": 256.6,
+    "duration": 5.159
+  },
+  {
+    "text": "we're going to have to graph",
+    "start": 259.919,
+    "duration": 6.28
+  },
+  {
+    "text": "here um so let me erase this",
+    "start": 261.759,
+    "duration": 4.44
+  },
+  {
+    "text": "part okay so this is what we're trying",
+    "start": 266.56,
+    "duration": 5.32
+  },
+  {
+    "text": "to maximize again our profit equals 40x",
+    "start": 268.759,
+    "duration": 5.801
+  },
+  {
+    "text": "+ 30",
+    "start": 271.88,
+    "duration": 2.68
+  },
+  {
+    "text": "Y and now let me move these over to the",
+    "start": 275.24,
+    "duration": 4.959
+  },
+  {
+    "text": "side so X has to be greater than or",
+    "start": 278.039,
+    "duration": 4.281
+  },
+  {
+    "text": "equal to z y has to be greater than or",
+    "start": 280.199,
+    "duration": 5.801
+  },
+  {
+    "text": "equal to Z x + y has to be less than or",
+    "start": 282.32,
+    "duration": 6.0
+  },
+  {
+    "text": "equal to",
+    "start": 286.0,
+    "duration": 4.72
+  },
+  {
+    "text": "240 and then we have our other",
+    "start": 288.32,
+    "duration": 6.52
+  },
+  {
+    "text": "inequality uh 2x + y has to be less than",
+    "start": 290.72,
+    "duration": 6.84
+  },
+  {
+    "text": "or equal to 320 so now all we're going",
+    "start": 294.84,
+    "duration": 4.56
+  },
+  {
+    "text": "to do is graph these regions find the",
+    "start": 297.56,
+    "duration": 4.16
+  },
+  {
+    "text": "point of intersection and basically plug",
+    "start": 299.4,
+    "duration": 4.6
+  },
+  {
+    "text": "them back into our profit",
+    "start": 301.72,
+    "duration": 5.88
+  },
+  {
+    "text": "equation okay",
+    "start": 304.0,
+    "duration": 3.6
+  },
+  {
+    "text": "so actually let me I'm going to redo",
+    "start": 307.72,
+    "duration": 4.479
+  },
+  {
+    "text": "this graph slightly we really don't even",
+    "start": 310.199,
+    "duration": 5.361
+  },
+  {
+    "text": "need anything except for the top right",
+    "start": 312.199,
+    "duration": 6.72
+  },
+  {
+    "text": "quadrant so there's X and there's y",
+    "start": 315.56,
+    "duration": 4.84
+  },
+  {
+    "text": "right because if x has to be greater",
+    "start": 318.919,
+    "duration": 3.28
+  },
+  {
+    "text": "than or equal to zero and Y has to be",
+    "start": 320.4,
+    "duration": 4.0
+  },
+  {
+    "text": "greater than or equal to zero that only",
+    "start": 322.199,
+    "duration": 4.601
+  },
+  {
+    "text": "happens in the top right",
+    "start": 324.4,
+    "duration": 4.96
+  },
+  {
+    "text": "quadrant if we graph the inequality I'm",
+    "start": 326.8,
+    "duration": 4.72
+  },
+  {
+    "text": "going to write it well you could almost",
+    "start": 329.36,
+    "duration": 4.119
+  },
+  {
+    "text": "think the X and Y intercepts of this",
+    "start": 331.52,
+    "duration": 5.32
+  },
+  {
+    "text": "first inequality if you plug in um xal 0",
+    "start": 333.479,
+    "duration": 5.201
+  },
+  {
+    "text": "we'll get yal",
+    "start": 336.84,
+    "duration": 6.76
+  },
+  {
+    "text": "240 if we let y equal 0 we'll get X =",
+    "start": 338.68,
+    "duration": 7.72
+  },
+  {
+    "text": "240 um since it's less than or equal to",
+    "start": 343.6,
+    "duration": 4.8
+  },
+  {
+    "text": "we'll make it a solid",
+    "start": 346.4,
+    "duration": 4.799
+  },
+  {
+    "text": "line um likewise we could graph so this",
+    "start": 348.4,
+    "duration": 5.32
+  },
+  {
+    "text": "will be the the first region likewise we",
+    "start": 351.199,
+    "duration": 4.481
+  },
+  {
+    "text": "could graph the second region by finding",
+    "start": 353.72,
+    "duration": 5.039
+  },
+  {
+    "text": "x and y intercepts so if we let x equals",
+    "start": 355.68,
+    "duration": 6.28
+  },
+  {
+    "text": "z um if we turn this into an equation we",
+    "start": 358.759,
+    "duration": 8.0
+  },
+  {
+    "text": "would get 2 * 0 + y = 320 or",
+    "start": 361.96,
+    "duration": 7.48
+  },
+  {
+    "text": "equivalently just Y is 320 so we'll make",
+    "start": 366.759,
+    "duration": 4.121
+  },
+  {
+    "text": "that a little",
+    "start": 369.44,
+    "duration": 5.479
+  },
+  {
+    "text": "higher and then if we let y equals",
+    "start": 370.88,
+    "duration": 7.719
+  },
+  {
+    "text": "0 we'll get 2x =",
+    "start": 374.919,
+    "duration": 7.081
+  },
+  {
+    "text": "320 divide both sides by two we'll get x",
+    "start": 378.599,
+    "duration": 6.281
+  },
+  {
+    "text": "=",
+    "start": 382.0,
+    "duration": 2.88
+  },
+  {
+    "text": "160 okay so not quite to",
+    "start": 384.919,
+    "duration": 5.28
+  },
+  {
+    "text": "scale um so we'll graph so this is okay",
+    "start": 387.52,
+    "duration": 4.84
+  },
+  {
+    "text": "so this is the first line over here when",
+    "start": 390.199,
+    "duration": 4.44
+  },
+  {
+    "text": "we graph the second",
+    "start": 392.36,
+    "duration": 5.16
+  },
+  {
+    "text": "inequality it would look something like",
+    "start": 394.639,
+    "duration": 5.801
+  },
+  {
+    "text": "this and the region that satisfies both",
+    "start": 397.52,
+    "duration": 4.799
+  },
+  {
+    "text": "of these inequalities is going to be the",
+    "start": 400.44,
+    "duration": 2.879
+  },
+  {
+    "text": "area",
+    "start": 402.319,
+    "duration": 4.241
+  },
+  {
+    "text": "underneath so one part would say okay",
+    "start": 403.319,
+    "duration": 5.681
+  },
+  {
+    "text": "that would be the area or this the",
+    "start": 406.56,
+    "duration": 4.24
+  },
+  {
+    "text": "inequality the region we would shade",
+    "start": 409.0,
+    "duration": 4.199
+  },
+  {
+    "text": "underneath the first line if we look at",
+    "start": 410.8,
+    "duration": 4.76
+  },
+  {
+    "text": "the second line the region underneath",
+    "start": 413.199,
+    "duration": 4.56
+  },
+  {
+    "text": "would",
+    "start": 415.56,
+    "duration": 2.199
+  },
+  {
+    "text": "be that part and we're looking basically",
+    "start": 417.96,
+    "duration": 4.239
+  },
+  {
+    "text": "for the overlap so we're just going to",
+    "start": 420.56,
+    "duration": 4.479
+  },
+  {
+    "text": "keep the stuff in between so I'm even",
+    "start": 422.199,
+    "duration": 5.321
+  },
+  {
+    "text": "going to get rid of the other the other",
+    "start": 425.039,
+    "duration": 5.481
+  },
+  {
+    "text": "lines",
+    "start": 427.52,
+    "duration": 3.0
+  },
+  {
+    "text": "um okay so now we have our our our",
+    "start": 430.72,
+    "duration": 5.12
+  },
+  {
+    "text": "little our region here all we have to do",
+    "start": 433.56,
+    "duration": 4.28
+  },
+  {
+    "text": "is basically figure out the corner",
+    "start": 435.84,
+    "duration": 4.199
+  },
+  {
+    "text": "points which really we already have done",
+    "start": 437.84,
+    "duration": 3.759
+  },
+  {
+    "text": "for the most part we know that this is",
+    "start": 440.039,
+    "duration": 4.28
+  },
+  {
+    "text": "going to be the point 160 comma",
+    "start": 441.599,
+    "duration": 5.121
+  },
+  {
+    "text": "0 we know that the point up here is",
+    "start": 444.319,
+    "duration": 5.88
+  },
+  {
+    "text": "simply 0 comma 240",
+    "start": 446.72,
+    "duration": 6.599
+  },
+  {
+    "text": "we've got the origin which is just 0",
+    "start": 450.199,
+    "duration": 5.72
+  },
+  {
+    "text": "0 so the last thing we would have to do",
+    "start": 453.319,
+    "duration": 6.16
+  },
+  {
+    "text": "is figure out this other point and if we",
+    "start": 455.919,
+    "duration": 6.441
+  },
+  {
+    "text": "set the lines equal to each other um so",
+    "start": 459.479,
+    "duration": 6.16
+  },
+  {
+    "text": "I'm going to solve for x and y here I'm",
+    "start": 462.36,
+    "duration": 4.959
+  },
+  {
+    "text": "basically going to turn my inequalities",
+    "start": 465.639,
+    "duration": 8.721
+  },
+  {
+    "text": "into equations so x + y = 240 2x + y =",
+    "start": 467.319,
+    "duration": 9.681
+  },
+  {
+    "text": "320 and what I'm going to do is I'm",
+    "start": 474.36,
+    "duration": 4.72
+  },
+  {
+    "text": "going to actually rewrite the first one",
+    "start": 477.0,
+    "duration": 6.96
+  },
+  {
+    "text": "under so x + y = 240 and I'm going to",
+    "start": 479.08,
+    "duration": 7.079
+  },
+  {
+    "text": "use elimination by addition here to",
+    "start": 483.96,
+    "duration": 4.679
+  },
+  {
+    "text": "solve my system of inequalities or",
+    "start": 486.159,
+    "duration": 5.081
+  },
+  {
+    "text": "excuse me my system of equations now so",
+    "start": 488.639,
+    "duration": 4.84
+  },
+  {
+    "text": "multiply both sides of the first excuse",
+    "start": 491.24,
+    "duration": 5.32
+  },
+  {
+    "text": "me the second one by Nega 1 we'll get 2x",
+    "start": 493.479,
+    "duration": 7.761
+  },
+  {
+    "text": "+ y = 320 in the denominator you'll getx",
+    "start": 496.56,
+    "duration": 6.599
+  },
+  {
+    "text": "or not the denominator but the second",
+    "start": 501.24,
+    "duration": 7.799
+  },
+  {
+    "text": "equation x - y = -240 if we add these up",
+    "start": 503.159,
+    "duration": 9.481
+  },
+  {
+    "text": "the X X will get 1 x the Y's will cancel",
+    "start": 509.039,
+    "duration": 7.92
+  },
+  {
+    "text": "uh 320 - 240 is x =",
+    "start": 512.64,
+    "duration": 7.639
+  },
+  {
+    "text": "80 and once we know that x equals 80 we",
+    "start": 516.959,
+    "duration": 5.281
+  },
+  {
+    "text": "can plug that into either one of our",
+    "start": 520.279,
+    "duration": 4.56
+  },
+  {
+    "text": "equations to figure out the Y value so",
+    "start": 522.24,
+    "duration": 4.24
+  },
+  {
+    "text": "if we plug it into the first one or",
+    "start": 524.839,
+    "duration": 3.801
+  },
+  {
+    "text": "excuse me the second one we'll get 80 +",
+    "start": 526.48,
+    "duration": 7.52
+  },
+  {
+    "text": "y = 240 simply subtract 80 we'll get y =",
+    "start": 528.64,
+    "duration": 10.92
+  },
+  {
+    "text": "160 so X is 80 and Y is 160",
+    "start": 534.0,
+    "duration": 8.8
+  },
+  {
+    "text": "okay now I have my four corner points",
+    "start": 539.56,
+    "duration": 5.88
+  },
+  {
+    "text": "Okay so we've got the points 0",
+    "start": 542.8,
+    "duration": 6.52
+  },
+  {
+    "text": "0 um 0 comma",
+    "start": 545.44,
+    "duration": 7.2
+  },
+  {
+    "text": "240 um 80 comma",
+    "start": 549.32,
+    "duration": 6.56
+  },
+  {
+    "text": "160 and last but not least we have 160",
+    "start": 552.64,
+    "duration": 7.56
+  },
+  {
+    "text": "comma 0 okay so I'm just picking um the",
+    "start": 555.88,
+    "duration": 6.76
+  },
+  {
+    "text": "corner points here and again all we have",
+    "start": 560.2,
+    "duration": 4.16
+  },
+  {
+    "text": "to do now is just simply plug those into",
+    "start": 562.64,
+    "duration": 3.52
+  },
+  {
+    "text": "our function see which is the biggest",
+    "start": 564.36,
+    "duration": 4.52
+  },
+  {
+    "text": "which is the smallest so let's see if we",
+    "start": 566.16,
+    "duration": 4.799
+  },
+  {
+    "text": "can't do this real quick so certainly if",
+    "start": 568.88,
+    "duration": 4.92
+  },
+  {
+    "text": "you plug in zero um your profit is not",
+    "start": 570.959,
+    "duration": 5.12
+  },
+  {
+    "text": "going to be anything you'll get your",
+    "start": 573.8,
+    "duration": 3.76
+  },
+  {
+    "text": "profit of zero so certainly that",
+    "start": 576.079,
+    "duration": 4.801
+  },
+  {
+    "text": "wouldn't make sense um if we plug in",
+    "start": 577.56,
+    "duration": 5.399
+  },
+  {
+    "text": "zero for",
+    "start": 580.88,
+    "duration": 4.44
+  },
+  {
+    "text": "x and",
+    "start": 582.959,
+    "duration": 6.88
+  },
+  {
+    "text": "240 so we'll make it 240 for",
+    "start": 585.32,
+    "duration": 4.519
+  },
+  {
+    "text": "y so okay so 40 * 0 is certainly just",
+    "start": 590.8,
+    "duration": 7.039
+  },
+  {
+    "text": "equal to zero and then we'll have to add",
+    "start": 595.44,
+    "duration": 7.2
+  },
+  {
+    "text": "on 30 * 2 40 well 30 * 240 is going to",
+    "start": 597.839,
+    "duration": 9.201
+  },
+  {
+    "text": "give us 7200 or profit of",
+    "start": 602.64,
+    "duration": 8.439
+  },
+  {
+    "text": "$7,200 um let's plug in our 80 and 160",
+    "start": 607.04,
+    "duration": 8.359
+  },
+  {
+    "text": "so our profit will equal 40 *",
+    "start": 611.079,
+    "duration": 10.521
+  },
+  {
+    "text": "80 plus 30 * 160 40 * 80 is",
+    "start": 615.399,
+    "duration": 10.081
+  },
+  {
+    "text": "3200 30 * 160 is going to be",
+    "start": 621.6,
+    "duration": 7.08
+  },
+  {
+    "text": "4800 if we add these together um we get",
+    "start": 625.48,
+    "duration": 5.84
+  },
+  {
+    "text": "7,000",
+    "start": 628.68,
+    "duration": 2.64
+  },
+  {
+    "text": "and last but not least we can plug in",
+    "start": 631.399,
+    "duration": 5.641
+  },
+  {
+    "text": "our 160 value so it says our profit will",
+    "start": 633.399,
+    "duration": 9.841
+  },
+  {
+    "text": "be60 * 40 + 30 * 0 which is going to",
+    "start": 637.04,
+    "duration": 9.56
+  },
+  {
+    "text": "give us a profit of $",
+    "start": 643.24,
+    "duration": 5.719
+  },
+  {
+    "text": "6400 so it looks like in this case it",
+    "start": 646.6,
+    "duration": 4.08
+  },
+  {
+    "text": "was actually certainly the smart thing",
+    "start": 648.959,
+    "duration": 3.481
+  },
+  {
+    "text": "to do kind of what we said was to plant",
+    "start": 650.68,
+    "duration": 4.08
+  },
+  {
+    "text": "all the oats because well you can",
+    "start": 652.44,
+    "duration": 4.88
+  },
+  {
+    "text": "basically for every acre of Oats um even",
+    "start": 654.76,
+    "duration": 3.84
+  },
+  {
+    "text": "though there's the time constraint",
+    "start": 657.32,
+    "duration": 3.199
+  },
+  {
+    "text": "you'll actually make twice as much money",
+    "start": 658.6,
+    "duration": 5.12
+  },
+  {
+    "text": "so um so in case so in this problem our",
+    "start": 660.519,
+    "duration": 5.161
+  },
+  {
+    "text": "maximum the farmer if you're the farmer",
+    "start": 663.72,
+    "duration": 4.52
+  },
+  {
+    "text": "in this case should plant all oats and",
+    "start": 665.68,
+    "duration": 6.8
+  },
+  {
+    "text": "you'll make as much money as possible",
+    "start": 668.24,
+    "duration": 4.24
+  }
+]

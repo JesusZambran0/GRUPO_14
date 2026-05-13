@@ -1,0 +1,1852 @@
+[
+  {
+    "text": "game dev is hard really i mean it all",
+    "start": 0.08,
+    "duration": 4.4
+  },
+  {
+    "text": "the things you have to learn the sheer",
+    "start": 2.72,
+    "duration": 3.599
+  },
+  {
+    "text": "amount of work needed to create a game",
+    "start": 4.48,
+    "duration": 4.32
+  },
+  {
+    "text": "the art the sounds the mechanics and now",
+    "start": 6.319,
+    "duration": 4.161
+  },
+  {
+    "text": "the huge competition make it in my",
+    "start": 8.8,
+    "duration": 3.44
+  },
+  {
+    "text": "opinion one of the hardest thing to",
+    "start": 10.48,
+    "duration": 2.8
+  },
+  {
+    "text": "undertake",
+    "start": 12.24,
+    "duration": 3.04
+  },
+  {
+    "text": "in my previous video go watch it if you",
+    "start": 13.28,
+    "duration": 4.079
+  },
+  {
+    "text": "didn't already i talked about how it has",
+    "start": 15.28,
+    "duration": 3.919
+  },
+  {
+    "text": "never been easier to do game dev and in",
+    "start": 17.359,
+    "duration": 3.76
+  },
+  {
+    "text": "this one i'll show you the other side of",
+    "start": 19.199,
+    "duration": 2.471
+  },
+  {
+    "text": "the coin",
+    "start": 21.119,
+    "duration": 2.0
+  },
+  {
+    "text": "[Music]",
+    "start": 21.67,
+    "duration": 3.29
+  },
+  {
+    "text": "before that a quick word from our",
+    "start": 23.119,
+    "duration": 4.4
+  },
+  {
+    "text": "sponsor core core is a new game creation",
+    "start": 24.96,
+    "duration": 4.96
+  },
+  {
+    "text": "platform where anyone can create share",
+    "start": 27.519,
+    "duration": 4.72
+  },
+  {
+    "text": "and play pc games single and multiplayer",
+    "start": 29.92,
+    "duration": 4.24
+  },
+  {
+    "text": "it's completely free you can simply",
+    "start": 32.239,
+    "duration": 4.16
+  },
+  {
+    "text": "download core to start creating your own",
+    "start": 34.16,
+    "duration": 4.48
+  },
+  {
+    "text": "game with no coding skills required core",
+    "start": 36.399,
+    "duration": 4.641
+  },
+  {
+    "text": "comes with thousands of free music sound",
+    "start": 38.64,
+    "duration": 4.4
+  },
+  {
+    "text": "and art assets and a built-in",
+    "start": 41.04,
+    "duration": 4.08
+  },
+  {
+    "text": "multiplayer technology all powered by",
+    "start": 43.04,
+    "duration": 4.32
+  },
+  {
+    "text": "unreal engine with high quality aaa",
+    "start": 45.12,
+    "duration": 4.24
+  },
+  {
+    "text": "graphics core has everything you need to",
+    "start": 47.36,
+    "duration": 4.0
+  },
+  {
+    "text": "create games from scratch like writing",
+    "start": 49.36,
+    "duration": 4.0
+  },
+  {
+    "text": "your game logic and lua making your own",
+    "start": 51.36,
+    "duration": 4.879
+  },
+  {
+    "text": "scripts and 3d models you can create 3d",
+    "start": 53.36,
+    "duration": 5.199
+  },
+  {
+    "text": "single or multiplayer games faster than",
+    "start": 56.239,
+    "duration": 4.241
+  },
+  {
+    "text": "ever before look at these amazing games",
+    "start": 58.559,
+    "duration": 3.921
+  },
+  {
+    "text": "made in less than 30 days and these",
+    "start": 60.48,
+    "duration": 4.16
+  },
+  {
+    "text": "beautiful words created for a dead mouse",
+    "start": 62.48,
+    "duration": 4.639
+  },
+  {
+    "text": "music video in just 10 days you can also",
+    "start": 64.64,
+    "duration": 4.24
+  },
+  {
+    "text": "make money with your games through the",
+    "start": 67.119,
+    "duration": 4.721
+  },
+  {
+    "text": "core perks program which offers a 50",
+    "start": 68.88,
+    "duration": 5.04
+  },
+  {
+    "text": "revenue shares for creators some core",
+    "start": 71.84,
+    "duration": 3.76
+  },
+  {
+    "text": "creators have been able to pay their",
+    "start": 73.92,
+    "duration": 3.68
+  },
+  {
+    "text": "bills buy their dream cars and quit",
+    "start": 75.6,
+    "duration": 3.68
+  },
+  {
+    "text": "their day jobs with the help of the",
+    "start": 77.6,
+    "duration": 3.76
+  },
+  {
+    "text": "perks program right now core is",
+    "start": 79.28,
+    "duration": 3.76
+  },
+  {
+    "text": "sponsoring the global game jam",
+    "start": 81.36,
+    "duration": 3.759
+  },
+  {
+    "text": "diversifier challenge called core",
+    "start": 83.04,
+    "duration": 4.24
+  },
+  {
+    "text": "exercise make your game using core to",
+    "start": 85.119,
+    "duration": 4.401
+  },
+  {
+    "text": "win part of a ten thousand dollar prize",
+    "start": 87.28,
+    "duration": 4.72
+  },
+  {
+    "text": "pool this year's theme is duality use",
+    "start": 89.52,
+    "duration": 4.48
+  },
+  {
+    "text": "core to create an amazing game that fits",
+    "start": 92.0,
+    "duration": 3.92
+  },
+  {
+    "text": "the theme and submit your entry by",
+    "start": 94.0,
+    "duration": 3.68
+  },
+  {
+    "text": "january 30th use the links in the",
+    "start": 95.92,
+    "duration": 3.36
+  },
+  {
+    "text": "description to learn more about the",
+    "start": 97.68,
+    "duration": 4.88
+  },
+  {
+    "text": "event and download core for free",
+    "start": 99.28,
+    "duration": 5.36
+  },
+  {
+    "text": "when you start game development or when",
+    "start": 102.56,
+    "duration": 4.16
+  },
+  {
+    "text": "you play games you often come up with",
+    "start": 104.64,
+    "duration": 4.32
+  },
+  {
+    "text": "what you think are super cool ideas that",
+    "start": 106.72,
+    "duration": 4.32
+  },
+  {
+    "text": "would make the game amazing we often see",
+    "start": 108.96,
+    "duration": 4.0
+  },
+  {
+    "text": "beginners starting game dev wanting to",
+    "start": 111.04,
+    "duration": 4.16
+  },
+  {
+    "text": "create huge open worlds mmos with",
+    "start": 112.96,
+    "duration": 4.479
+  },
+  {
+    "text": "procedural content unique npc with",
+    "start": 115.2,
+    "duration": 4.4
+  },
+  {
+    "text": "advanced ai and blah blah while it's",
+    "start": 117.439,
+    "duration": 4.481
+  },
+  {
+    "text": "super cool to dream big the gap between",
+    "start": 119.6,
+    "duration": 5.36
+  },
+  {
+    "text": "idea and execution can be huge it's easy",
+    "start": 121.92,
+    "duration": 5.199
+  },
+  {
+    "text": "to have what seems like cool ideas but",
+    "start": 124.96,
+    "duration": 4.079
+  },
+  {
+    "text": "when it's time to build them is where",
+    "start": 127.119,
+    "duration": 3.601
+  },
+  {
+    "text": "things fall off when you have an idea",
+    "start": 129.039,
+    "duration": 3.28
+  },
+  {
+    "text": "you don't necessarily think about all",
+    "start": 130.72,
+    "duration": 3.92
+  },
+  {
+    "text": "the details the pitfalls the pain points",
+    "start": 132.319,
+    "duration": 4.401
+  },
+  {
+    "text": "the brain is good at making things look",
+    "start": 134.64,
+    "duration": 4.239
+  },
+  {
+    "text": "easy when in reality they're not when",
+    "start": 136.72,
+    "duration": 3.92
+  },
+  {
+    "text": "you think about a cool idea for a game",
+    "start": 138.879,
+    "duration": 4.0
+  },
+  {
+    "text": "you often forget all that needs to exist",
+    "start": 140.64,
+    "duration": 4.08
+  },
+  {
+    "text": "around that idea to make it viable if",
+    "start": 142.879,
+    "duration": 3.36
+  },
+  {
+    "text": "you think of a cool mechanic you",
+    "start": 144.72,
+    "duration": 3.84
+  },
+  {
+    "text": "probably didn't think of art sounds or",
+    "start": 146.239,
+    "duration": 4.241
+  },
+  {
+    "text": "even just distribution we see a lot of",
+    "start": 148.56,
+    "duration": 4.0
+  },
+  {
+    "text": "games with cool ideas that have simply",
+    "start": 150.48,
+    "duration": 4.08
+  },
+  {
+    "text": "not been exploited correctly or not",
+    "start": 152.56,
+    "duration": 3.759
+  },
+  {
+    "text": "shown in a way that makes players want",
+    "start": 154.56,
+    "duration": 3.84
+  },
+  {
+    "text": "to play with time and experience game",
+    "start": 156.319,
+    "duration": 4.481
+  },
+  {
+    "text": "dev can learn ways to assess if an idea",
+    "start": 158.4,
+    "duration": 4.32
+  },
+  {
+    "text": "is feasible or not but it will come",
+    "start": 160.8,
+    "duration": 4.079
+  },
+  {
+    "text": "after many fail i myself am guilty of",
+    "start": 162.72,
+    "duration": 3.84
+  },
+  {
+    "text": "thinking that something will be easy",
+    "start": 164.879,
+    "duration": 3.44
+  },
+  {
+    "text": "because i brush off the difficulties",
+    "start": 166.56,
+    "duration": 3.84
+  },
+  {
+    "text": "when imagining the idea and i only see",
+    "start": 168.319,
+    "duration": 4.161
+  },
+  {
+    "text": "the end result bringing an idea to life",
+    "start": 170.4,
+    "duration": 3.919
+  },
+  {
+    "text": "is harder than we think i believe that's",
+    "start": 172.48,
+    "duration": 4.0
+  },
+  {
+    "text": "why we often get the impression that aaa",
+    "start": 174.319,
+    "duration": 4.161
+  },
+  {
+    "text": "studios are not innovating that much",
+    "start": 176.48,
+    "duration": 4.0
+  },
+  {
+    "text": "because they much prefer building on the",
+    "start": 178.48,
+    "duration": 4.32
+  },
+  {
+    "text": "ideas and foundations that they created",
+    "start": 180.48,
+    "duration": 3.839
+  },
+  {
+    "text": "over the years and make them more",
+    "start": 182.8,
+    "duration": 3.6
+  },
+  {
+    "text": "realistic or beautiful it's very risky",
+    "start": 184.319,
+    "duration": 4.081
+  },
+  {
+    "text": "to bring new ideas to the public the",
+    "start": 186.4,
+    "duration": 3.6
+  },
+  {
+    "text": "other thing that can be confusing when",
+    "start": 188.4,
+    "duration": 3.52
+  },
+  {
+    "text": "you start game dev is that it might seem",
+    "start": 190.0,
+    "duration": 4.0
+  },
+  {
+    "text": "easy but behind the ease of use of the",
+    "start": 191.92,
+    "duration": 6.239
+  },
+  {
+    "text": "new tool lies a huge complexity",
+    "start": 194.0,
+    "duration": 6.72
+  },
+  {
+    "text": "behind simple ideas often lies a hidden",
+    "start": 198.159,
+    "duration": 4.401
+  },
+  {
+    "text": "complexity of course some of the",
+    "start": 200.72,
+    "duration": 4.0
+  },
+  {
+    "text": "complexity of making games is simplified",
+    "start": 202.56,
+    "duration": 4.16
+  },
+  {
+    "text": "by the engines as we saw in the previous",
+    "start": 204.72,
+    "duration": 4.32
+  },
+  {
+    "text": "video they allow us to not care too much",
+    "start": 206.72,
+    "duration": 4.32
+  },
+  {
+    "text": "about the different kinds of gpus gamers",
+    "start": 209.04,
+    "duration": 3.839
+  },
+  {
+    "text": "use or what controller they have for",
+    "start": 211.04,
+    "duration": 4.08
+  },
+  {
+    "text": "example but as you progress in game dev",
+    "start": 212.879,
+    "duration": 4.481
+  },
+  {
+    "text": "and as your ideas get more complex you",
+    "start": 215.12,
+    "duration": 4.08
+  },
+  {
+    "text": "face quirks and limitations of your",
+    "start": 217.36,
+    "duration": 4.0
+  },
+  {
+    "text": "engine not only that but you also face",
+    "start": 219.2,
+    "duration": 4.16
+  },
+  {
+    "text": "the fact that making games is not just",
+    "start": 221.36,
+    "duration": 4.4
+  },
+  {
+    "text": "about coding a 2d character and placing",
+    "start": 223.36,
+    "duration": 4.72
+  },
+  {
+    "text": "three platforms here and there sure your",
+    "start": 225.76,
+    "duration": 4.16
+  },
+  {
+    "text": "first game will be just that and first",
+    "start": 228.08,
+    "duration": 3.68
+  },
+  {
+    "text": "out that's amazing but then you'll want",
+    "start": 229.92,
+    "duration": 4.399
+  },
+  {
+    "text": "more story a cool art style music",
+    "start": 231.76,
+    "duration": 4.479
+  },
+  {
+    "text": "complex gameplay the progression from",
+    "start": 234.319,
+    "duration": 4.161
+  },
+  {
+    "text": "your first game is simply not linear the",
+    "start": 236.239,
+    "duration": 3.841
+  },
+  {
+    "text": "bigger you'll want to go the more",
+    "start": 238.48,
+    "duration": 3.2
+  },
+  {
+    "text": "resources you'll need to give you a",
+    "start": 240.08,
+    "duration": 5.359
+  },
+  {
+    "text": "sense of scale gta 5 released in 2013",
+    "start": 241.68,
+    "duration": 5.88
+  },
+  {
+    "text": "has been estimated to have cost around",
+    "start": 245.439,
+    "duration": 4.961
+  },
+  {
+    "text": "137 million dollars just for the game",
+    "start": 247.56,
+    "duration": 4.52
+  },
+  {
+    "text": "not counting marketing and other",
+    "start": 250.4,
+    "duration": 4.64
+  },
+  {
+    "text": "promotional stuff cyberpunk 2077 was",
+    "start": 252.08,
+    "duration": 5.119
+  },
+  {
+    "text": "developed during roughly 9 years and the",
+    "start": 255.04,
+    "duration": 4.159
+  },
+  {
+    "text": "cost was estimated to something between",
+    "start": 257.199,
+    "duration": 5.521
+  },
+  {
+    "text": "120 to 314 million dollars but that's",
+    "start": 259.199,
+    "duration": 5.361
+  },
+  {
+    "text": "nothing compared to red dead redemption",
+    "start": 262.72,
+    "duration": 3.68
+  },
+  {
+    "text": "with 8 years of development and an",
+    "start": 264.56,
+    "duration": 4.24
+  },
+  {
+    "text": "estimated cost of around 500 million",
+    "start": 266.4,
+    "duration": 4.0
+  },
+  {
+    "text": "with potentially half of that for",
+    "start": 268.8,
+    "duration": 4.08
+  },
+  {
+    "text": "marketing only those costs are",
+    "start": 270.4,
+    "duration": 4.72
+  },
+  {
+    "text": "absolutely enormous but don't worry too",
+    "start": 272.88,
+    "duration": 4.24
+  },
+  {
+    "text": "much for these companies as they easily",
+    "start": 275.12,
+    "duration": 4.4
+  },
+  {
+    "text": "recoup these costs cyberpunk 2077",
+    "start": 277.12,
+    "duration": 4.32
+  },
+  {
+    "text": "reportedly surpassed its development",
+    "start": 279.52,
+    "duration": 4.32
+  },
+  {
+    "text": "cost with the sales of the first day of",
+    "start": 281.44,
+    "duration": 4.319
+  },
+  {
+    "text": "release only of course an indie",
+    "start": 283.84,
+    "duration": 3.76
+  },
+  {
+    "text": "developer simply cannot compete with",
+    "start": 285.759,
+    "duration": 3.681
+  },
+  {
+    "text": "that and shouldn't but it's a good idea",
+    "start": 287.6,
+    "duration": 3.92
+  },
+  {
+    "text": "to see what goes behind the hit titles",
+    "start": 289.44,
+    "duration": 3.92
+  },
+  {
+    "text": "of gaming you also have to take into",
+    "start": 291.52,
+    "duration": 3.6
+  },
+  {
+    "text": "account the massive crunch that was",
+    "start": 293.36,
+    "duration": 3.68
+  },
+  {
+    "text": "required by those studios to achieve",
+    "start": 295.12,
+    "duration": 4.24
+  },
+  {
+    "text": "these enormous games in this time frame",
+    "start": 297.04,
+    "duration": 5.2
+  },
+  {
+    "text": "cyberpunk 2077 was especially guilty of",
+    "start": 299.36,
+    "duration": 4.48
+  },
+  {
+    "text": "that but it's very common across the",
+    "start": 302.24,
+    "duration": 3.92
+  },
+  {
+    "text": "industry so even if the biggest studios",
+    "start": 303.84,
+    "duration": 4.72
+  },
+  {
+    "text": "in industry have to spend years with",
+    "start": 306.16,
+    "duration": 4.479
+  },
+  {
+    "text": "thousands of employees and multi-million",
+    "start": 308.56,
+    "duration": 4.079
+  },
+  {
+    "text": "dollars budget and still crunch to",
+    "start": 310.639,
+    "duration": 3.681
+  },
+  {
+    "text": "produce such games it's a perfect",
+    "start": 312.639,
+    "duration": 3.681
+  },
+  {
+    "text": "example of how difficult it is to make",
+    "start": 314.32,
+    "duration": 4.0
+  },
+  {
+    "text": "games even with all of that those games",
+    "start": 316.32,
+    "duration": 3.84
+  },
+  {
+    "text": "were not perfect and some of them were",
+    "start": 318.32,
+    "duration": 4.0
+  },
+  {
+    "text": "even full of bugs at release and this is",
+    "start": 320.16,
+    "duration": 4.479
+  },
+  {
+    "text": "to be expected simply because games no",
+    "start": 322.32,
+    "duration": 4.4
+  },
+  {
+    "text": "matter their scale are very complex",
+    "start": 324.639,
+    "duration": 4.081
+  },
+  {
+    "text": "pieces of software that not only should",
+    "start": 326.72,
+    "duration": 4.64
+  },
+  {
+    "text": "work but be fun tell a story and embark",
+    "start": 328.72,
+    "duration": 4.479
+  },
+  {
+    "text": "you in a different world that's for big",
+    "start": 331.36,
+    "duration": 4.16
+  },
+  {
+    "text": "studios but as a solo dev or small team",
+    "start": 333.199,
+    "duration": 3.921
+  },
+  {
+    "text": "you'll have to wear many hats and this",
+    "start": 335.52,
+    "duration": 3.6
+  },
+  {
+    "text": "is also part of the hidden complexity",
+    "start": 337.12,
+    "duration": 3.68
+  },
+  {
+    "text": "you don't necessarily know how to do",
+    "start": 339.12,
+    "duration": 4.16
+  },
+  {
+    "text": "programming art sounds level design etc",
+    "start": 340.8,
+    "duration": 4.239
+  },
+  {
+    "text": "but you'll have to fill in the gaps in a",
+    "start": 343.28,
+    "duration": 3.919
+  },
+  {
+    "text": "way whether it is by learning yourself",
+    "start": 345.039,
+    "duration": 4.081
+  },
+  {
+    "text": "or finding money and pay other people to",
+    "start": 347.199,
+    "duration": 4.241
+  },
+  {
+    "text": "do it for you i talked about complexity",
+    "start": 349.12,
+    "duration": 4.16
+  },
+  {
+    "text": "in the sense that making games is a lot",
+    "start": 351.44,
+    "duration": 3.68
+  },
+  {
+    "text": "of different fields merged together and",
+    "start": 353.28,
+    "duration": 3.84
+  },
+  {
+    "text": "that the scale can be huge but i'd like",
+    "start": 355.12,
+    "duration": 4.0
+  },
+  {
+    "text": "to give you a more concrete example that",
+    "start": 357.12,
+    "duration": 3.84
+  },
+  {
+    "text": "can really show you the depth of certain",
+    "start": 359.12,
+    "duration": 3.919
+  },
+  {
+    "text": "mundane things that you may not even",
+    "start": 360.96,
+    "duration": 4.079
+  },
+  {
+    "text": "think about as a gamer to keep it short",
+    "start": 363.039,
+    "duration": 3.921
+  },
+  {
+    "text": "the door problem aims to show that",
+    "start": 365.039,
+    "duration": 3.921
+  },
+  {
+    "text": "adding simple doors in your game can be",
+    "start": 366.96,
+    "duration": 4.239
+  },
+  {
+    "text": "a tremendously complex task if there's a",
+    "start": 368.96,
+    "duration": 4.48
+  },
+  {
+    "text": "door in your game can the player open it",
+    "start": 371.199,
+    "duration": 4.321
+  },
+  {
+    "text": "can the player open all the doors or",
+    "start": 373.44,
+    "duration": 4.16
+  },
+  {
+    "text": "some of them rhs decoration how the",
+    "start": 375.52,
+    "duration": 3.76
+  },
+  {
+    "text": "player will know the difference will you",
+    "start": 377.6,
+    "duration": 3.36
+  },
+  {
+    "text": "change the color of the door make it",
+    "start": 379.28,
+    "duration": 4.16
+  },
+  {
+    "text": "unaccessible or simply lock it can doors",
+    "start": 380.96,
+    "duration": 5.44
+  },
+  {
+    "text": "be locked and unlocked etc the list goes",
+    "start": 383.44,
+    "duration": 5.039
+  },
+  {
+    "text": "on for quite a while and this is just to",
+    "start": 386.4,
+    "duration": 3.84
+  },
+  {
+    "text": "talk about the gameplay side of things",
+    "start": 388.479,
+    "duration": 3.921
+  },
+  {
+    "text": "the article also goes to show how the",
+    "start": 390.24,
+    "duration": 3.92
+  },
+  {
+    "text": "door problem will involve the different",
+    "start": 392.4,
+    "duration": 3.28
+  },
+  {
+    "text": "roles of a big company if you're",
+    "start": 394.16,
+    "duration": 3.36
+  },
+  {
+    "text": "interested i've linked an article in the",
+    "start": 395.68,
+    "duration": 3.92
+  },
+  {
+    "text": "description as we saw the technical",
+    "start": 397.52,
+    "duration": 4.48
+  },
+  {
+    "text": "complexity is huge but it's not only the",
+    "start": 399.6,
+    "duration": 4.879
+  },
+  {
+    "text": "limiting factor in fact making games is",
+    "start": 402.0,
+    "duration": 5.759
+  },
+  {
+    "text": "more than just making games",
+    "start": 404.479,
+    "duration": 5.44
+  },
+  {
+    "text": "it might sounds weird but it's true it",
+    "start": 407.759,
+    "duration": 4.321
+  },
+  {
+    "text": "is for all games and especially for",
+    "start": 409.919,
+    "duration": 4.72
+  },
+  {
+    "text": "indie titles and game made by solo devs",
+    "start": 412.08,
+    "duration": 4.559
+  },
+  {
+    "text": "trying to do all by themselves we talked",
+    "start": 414.639,
+    "duration": 3.201
+  },
+  {
+    "text": "about it briefly in the hidden",
+    "start": 416.639,
+    "duration": 3.441
+  },
+  {
+    "text": "complexity behind games but as an indie",
+    "start": 417.84,
+    "duration": 3.68
+  },
+  {
+    "text": "you'll have to wear many hats you'll",
+    "start": 420.08,
+    "duration": 3.28
+  },
+  {
+    "text": "have to make a game of course which",
+    "start": 421.52,
+    "duration": 4.079
+  },
+  {
+    "text": "involves programming sound effects music",
+    "start": 423.36,
+    "duration": 4.08
+  },
+  {
+    "text": "art and much more even if you don't do",
+    "start": 425.599,
+    "duration": 3.6
+  },
+  {
+    "text": "it all yourself you'll have to think",
+    "start": 427.44,
+    "duration": 3.36
+  },
+  {
+    "text": "about what you need work with other",
+    "start": 429.199,
+    "duration": 4.0
+  },
+  {
+    "text": "people pay them etc this is already a",
+    "start": 430.8,
+    "duration": 4.399
+  },
+  {
+    "text": "very complex task but it's not the only",
+    "start": 433.199,
+    "duration": 3.681
+  },
+  {
+    "text": "thing you have to do as a solo dev",
+    "start": 435.199,
+    "duration": 3.521
+  },
+  {
+    "text": "you're an entrepreneur so you have to",
+    "start": 436.88,
+    "duration": 3.759
+  },
+  {
+    "text": "keep track of your finances the cost of",
+    "start": 438.72,
+    "duration": 3.44
+  },
+  {
+    "text": "your game the release the different",
+    "start": 440.639,
+    "duration": 3.12
+  },
+  {
+    "text": "platforms you want to support and of",
+    "start": 442.16,
+    "duration": 3.039
+  },
+  {
+    "text": "course all the communication and",
+    "start": 443.759,
+    "duration": 2.961
+  },
+  {
+    "text": "marketing you need to talk about your",
+    "start": 445.199,
+    "duration": 3.921
+  },
+  {
+    "text": "game show it to people creators go to",
+    "start": 446.72,
+    "duration": 4.879
+  },
+  {
+    "text": "events to showcase it it's a lot of work",
+    "start": 449.12,
+    "duration": 4.16
+  },
+  {
+    "text": "and i personally think we can say that",
+    "start": 451.599,
+    "duration": 4.081
+  },
+  {
+    "text": "it's not a job or even multiple ones on",
+    "start": 453.28,
+    "duration": 4.319
+  },
+  {
+    "text": "top of creating the game a job that you",
+    "start": 455.68,
+    "duration": 4.079
+  },
+  {
+    "text": "have to do otherwise no one will hear",
+    "start": 457.599,
+    "duration": 3.681
+  },
+  {
+    "text": "about your game this is where a lot of",
+    "start": 459.759,
+    "duration": 3.28
+  },
+  {
+    "text": "indie devs lose it because they don't",
+    "start": 461.28,
+    "duration": 3.84
+  },
+  {
+    "text": "understand how to do it all or simply",
+    "start": 463.039,
+    "duration": 3.921
+  },
+  {
+    "text": "don't have the workforce for it even if",
+    "start": 465.12,
+    "duration": 4.079
+  },
+  {
+    "text": "you take care of everything events going",
+    "start": 466.96,
+    "duration": 4.639
+  },
+  {
+    "text": "around the world can have a huge impact",
+    "start": 469.199,
+    "duration": 4.161
+  },
+  {
+    "text": "pandemic and this is something that is",
+    "start": 471.599,
+    "duration": 3.761
+  },
+  {
+    "text": "simply impossible to predict it might be",
+    "start": 473.36,
+    "duration": 4.16
+  },
+  {
+    "text": "a boost for certain games but a terrible",
+    "start": 475.36,
+    "duration": 4.88
+  },
+  {
+    "text": "hit for others what i've just described",
+    "start": 477.52,
+    "duration": 4.799
+  },
+  {
+    "text": "is especially true for solo devs and",
+    "start": 480.24,
+    "duration": 4.239
+  },
+  {
+    "text": "small studios but everything still holds",
+    "start": 482.319,
+    "duration": 4.481
+  },
+  {
+    "text": "true for bigger ones a game is a lot of",
+    "start": 484.479,
+    "duration": 4.16
+  },
+  {
+    "text": "things combined when it's done just",
+    "start": 486.8,
+    "duration": 4.239
+  },
+  {
+    "text": "right it's a flawless and amazing",
+    "start": 488.639,
+    "duration": 3.921
+  },
+  {
+    "text": "experience for the player but this is",
+    "start": 491.039,
+    "duration": 3.521
+  },
+  {
+    "text": "not a foregone conclusion making games",
+    "start": 492.56,
+    "duration": 3.919
+  },
+  {
+    "text": "is a lot of complexity as we discussed",
+    "start": 494.56,
+    "duration": 4.0
+  },
+  {
+    "text": "because it must be adapted to many",
+    "start": 496.479,
+    "duration": 3.84
+  },
+  {
+    "text": "platforms work well with different",
+    "start": 498.56,
+    "duration": 4.0
+  },
+  {
+    "text": "hardware and computing capabilities for",
+    "start": 500.319,
+    "duration": 3.841
+  },
+  {
+    "text": "online multiplayers you have to",
+    "start": 502.56,
+    "duration": 3.6
+  },
+  {
+    "text": "constantly chase the cheaters maintain",
+    "start": 504.16,
+    "duration": 3.84
+  },
+  {
+    "text": "their servers and fix bugs to reach a",
+    "start": 506.16,
+    "duration": 3.84
+  },
+  {
+    "text": "global success you must translate and",
+    "start": 508.0,
+    "duration": 3.68
+  },
+  {
+    "text": "adapt your game which can be very",
+    "start": 510.0,
+    "duration": 3.919
+  },
+  {
+    "text": "difficult across different cultures you",
+    "start": 511.68,
+    "duration": 3.919
+  },
+  {
+    "text": "start to get the idea of why making",
+    "start": 513.919,
+    "duration": 3.761
+  },
+  {
+    "text": "games can be such a hard discipline it's",
+    "start": 515.599,
+    "duration": 4.081
+  },
+  {
+    "text": "a complicated craft that requires",
+    "start": 517.68,
+    "duration": 4.64
+  },
+  {
+    "text": "experience time effort and money you",
+    "start": 519.68,
+    "duration": 4.479
+  },
+  {
+    "text": "might put all of your energy and love",
+    "start": 522.32,
+    "duration": 3.44
+  },
+  {
+    "text": "into your game but you're not alone on",
+    "start": 524.159,
+    "duration": 3.601
+  },
+  {
+    "text": "the market and it can be extremely hard",
+    "start": 525.76,
+    "duration": 4.16
+  },
+  {
+    "text": "to get noticed in the previous video i",
+    "start": 527.76,
+    "duration": 4.16
+  },
+  {
+    "text": "talked about how easy it was nowadays to",
+    "start": 529.92,
+    "duration": 3.76
+  },
+  {
+    "text": "distribute your games online and of",
+    "start": 531.92,
+    "duration": 3.76
+  },
+  {
+    "text": "course this has a cost and can be pretty",
+    "start": 533.68,
+    "duration": 3.92
+  },
+  {
+    "text": "hard to pay as an indie the market is",
+    "start": 535.68,
+    "duration": 4.08
+  },
+  {
+    "text": "literally flooded with games just to",
+    "start": 537.6,
+    "duration": 3.919
+  },
+  {
+    "text": "give you some perspective this is the",
+    "start": 539.76,
+    "duration": 4.079
+  },
+  {
+    "text": "number of games released per year on",
+    "start": 541.519,
+    "duration": 5.041
+  },
+  {
+    "text": "steam for 2020 it corresponds to 28",
+    "start": 543.839,
+    "duration": 5.041
+  },
+  {
+    "text": "games per day that's a lot but it's",
+    "start": 546.56,
+    "duration": 3.92
+  },
+  {
+    "text": "nothing compared to mobile which is",
+    "start": 548.88,
+    "duration": 3.36
+  },
+  {
+    "text": "probably one of the easiest platform to",
+    "start": 550.48,
+    "duration": 4.16
+  },
+  {
+    "text": "distribute on especially for android on",
+    "start": 552.24,
+    "duration": 4.48
+  },
+  {
+    "text": "consoles the numbers are smaller and",
+    "start": 554.64,
+    "duration": 4.08
+  },
+  {
+    "text": "it's easy to understand they are much",
+    "start": 556.72,
+    "duration": 3.92
+  },
+  {
+    "text": "harder to access both from a technical",
+    "start": 558.72,
+    "duration": 3.84
+  },
+  {
+    "text": "standpoint but also simply because they",
+    "start": 560.64,
+    "duration": 3.759
+  },
+  {
+    "text": "restrict the number of games that can be",
+    "start": 562.56,
+    "duration": 3.76
+  },
+  {
+    "text": "published by reviewing the games before",
+    "start": 564.399,
+    "duration": 3.841
+  },
+  {
+    "text": "they are accepted on the platform of",
+    "start": 566.32,
+    "duration": 3.68
+  },
+  {
+    "text": "course most of these games will go",
+    "start": 568.24,
+    "duration": 3.76
+  },
+  {
+    "text": "unknown and probably because a lot of",
+    "start": 570.0,
+    "duration": 4.0
+  },
+  {
+    "text": "them are simply not good or not worth",
+    "start": 572.0,
+    "duration": 4.24
+  },
+  {
+    "text": "the money they are asking for still this",
+    "start": 574.0,
+    "duration": 3.92
+  },
+  {
+    "text": "is something to consider when making",
+    "start": 576.24,
+    "duration": 3.599
+  },
+  {
+    "text": "games and it means that you'll have to",
+    "start": 577.92,
+    "duration": 3.84
+  },
+  {
+    "text": "find ways to get your game known whether",
+    "start": 579.839,
+    "duration": 4.321
+  },
+  {
+    "text": "you make a masterpiece that sells itself",
+    "start": 581.76,
+    "duration": 4.4
+  },
+  {
+    "text": "or you reach streamers journalists",
+    "start": 584.16,
+    "duration": 4.08
+  },
+  {
+    "text": "youtubers or you pay ads to get your",
+    "start": 586.16,
+    "duration": 3.6
+  },
+  {
+    "text": "games known you'll have to put in a",
+    "start": 588.24,
+    "duration": 3.279
+  },
+  {
+    "text": "considerable amount of work to get your",
+    "start": 589.76,
+    "duration": 3.68
+  },
+  {
+    "text": "game noticed when talking about",
+    "start": 591.519,
+    "duration": 3.921
+  },
+  {
+    "text": "competition it's important to remind us",
+    "start": 593.44,
+    "duration": 4.0
+  },
+  {
+    "text": "that the player's time is limited what",
+    "start": 595.44,
+    "duration": 3.6
+  },
+  {
+    "text": "does this have to do with competition",
+    "start": 597.44,
+    "duration": 4.32
+  },
+  {
+    "text": "you may ask well you as a game developer",
+    "start": 599.04,
+    "duration": 4.799
+  },
+  {
+    "text": "will be in competition with other indies",
+    "start": 601.76,
+    "duration": 4.48
+  },
+  {
+    "text": "and huge studios for players time a lot",
+    "start": 603.839,
+    "duration": 4.241
+  },
+  {
+    "text": "of gamers already have a huge back",
+    "start": 606.24,
+    "duration": 3.68
+  },
+  {
+    "text": "catalogue of games and don't find the",
+    "start": 608.08,
+    "duration": 3.84
+  },
+  {
+    "text": "time to play why should they spend time",
+    "start": 609.92,
+    "duration": 4.24
+  },
+  {
+    "text": "on your tiny unknown game when they can",
+    "start": 611.92,
+    "duration": 4.0
+  },
+  {
+    "text": "play a much more well-known one like",
+    "start": 614.16,
+    "duration": 4.239
+  },
+  {
+    "text": "forza valorant or wasn't sure the game",
+    "start": 615.92,
+    "duration": 4.56
+  },
+  {
+    "text": "might be boring after a while and maybe",
+    "start": 618.399,
+    "duration": 4.0
+  },
+  {
+    "text": "lacks some innovation that can be found",
+    "start": 620.48,
+    "duration": 4.0
+  },
+  {
+    "text": "in indie titles but at least the player",
+    "start": 622.399,
+    "duration": 4.401
+  },
+  {
+    "text": "knows what to expect as humans we are",
+    "start": 624.48,
+    "duration": 4.479
+  },
+  {
+    "text": "programmed for risk aversion we seek",
+    "start": 626.8,
+    "duration": 4.0
+  },
+  {
+    "text": "comfort and this is one of the reason",
+    "start": 628.959,
+    "duration": 3.601
+  },
+  {
+    "text": "why so many people stick to the same",
+    "start": 630.8,
+    "duration": 3.52
+  },
+  {
+    "text": "game over and over and don't get me",
+    "start": 632.56,
+    "duration": 3.36
+  },
+  {
+    "text": "started with subscriptions like game",
+    "start": 634.32,
+    "duration": 3.519
+  },
+  {
+    "text": "pass that gives you access to tons of",
+    "start": 635.92,
+    "duration": 4.24
+  },
+  {
+    "text": "games for a low monthly fee this means",
+    "start": 637.839,
+    "duration": 4.24
+  },
+  {
+    "text": "you have to find ways to convince your",
+    "start": 640.16,
+    "duration": 3.919
+  },
+  {
+    "text": "players that your game is worth their",
+    "start": 642.079,
+    "duration": 6.0
+  },
+  {
+    "text": "money but most importantly their time",
+    "start": 644.079,
+    "duration": 5.841
+  },
+  {
+    "text": "i want to conclude on the two videos i",
+    "start": 648.079,
+    "duration": 3.921
+  },
+  {
+    "text": "made i truly believe that game dev has",
+    "start": 649.92,
+    "duration": 4.0
+  },
+  {
+    "text": "never been easier but also that it's a",
+    "start": 652.0,
+    "duration": 4.16
+  },
+  {
+    "text": "very difficult field to working emphasis",
+    "start": 653.92,
+    "duration": 4.24
+  },
+  {
+    "text": "on work here as we saw in the first",
+    "start": 656.16,
+    "duration": 4.239
+  },
+  {
+    "text": "video all the tools and the knowledge is",
+    "start": 658.16,
+    "duration": 4.08
+  },
+  {
+    "text": "out there and if you want to get started",
+    "start": 660.399,
+    "duration": 3.841
+  },
+  {
+    "text": "go for it i truly believe anyone can",
+    "start": 662.24,
+    "duration": 3.92
+  },
+  {
+    "text": "learn at their own pace of course it's",
+    "start": 664.24,
+    "duration": 4.0
+  },
+  {
+    "text": "solely possible to create cool and small",
+    "start": 666.16,
+    "duration": 4.72
+  },
+  {
+    "text": "games that you and others can enjoy the",
+    "start": 668.24,
+    "duration": 4.48
+  },
+  {
+    "text": "real trouble begins when you want to",
+    "start": 670.88,
+    "duration": 4.0
+  },
+  {
+    "text": "take that a step further and you want it",
+    "start": 672.72,
+    "duration": 3.92
+  },
+  {
+    "text": "to become a career whether you want to",
+    "start": 674.88,
+    "duration": 4.959
+  },
+  {
+    "text": "go indie alone in a small team or in a",
+    "start": 676.64,
+    "duration": 5.28
+  },
+  {
+    "text": "aaa studios you will be faced with all",
+    "start": 679.839,
+    "duration": 3.761
+  },
+  {
+    "text": "the complexity that we've talked about",
+    "start": 681.92,
+    "duration": 4.159
+  },
+  {
+    "text": "crunch the lack of money or motivation",
+    "start": 683.6,
+    "duration": 4.4
+  },
+  {
+    "text": "the sheer amount of work required to put",
+    "start": 686.079,
+    "duration": 3.841
+  },
+  {
+    "text": "something out there and then show to the",
+    "start": 688.0,
+    "duration": 4.48
+  },
+  {
+    "text": "world it is an incredible hard task that",
+    "start": 689.92,
+    "duration": 5.12
+  },
+  {
+    "text": "most indies and even bigger studios will",
+    "start": 692.48,
+    "duration": 4.24
+  },
+  {
+    "text": "fail at all of that should not",
+    "start": 695.04,
+    "duration": 3.68
+  },
+  {
+    "text": "discourage you but it's important to see",
+    "start": 696.72,
+    "duration": 3.6
+  },
+  {
+    "text": "both sides of the coin game dev is a",
+    "start": 698.72,
+    "duration": 3.679
+  },
+  {
+    "text": "dream for a lot of people and you don't",
+    "start": 700.32,
+    "duration": 3.759
+  },
+  {
+    "text": "want that to turn into a nightmare the",
+    "start": 702.399,
+    "duration": 4.081
+  },
+  {
+    "text": "best way to avoid that is to be aware of",
+    "start": 704.079,
+    "duration": 3.921
+  },
+  {
+    "text": "what it really takes to be in the",
+    "start": 706.48,
+    "duration": 3.12
+  },
+  {
+    "text": "industry it's also important to",
+    "start": 708.0,
+    "duration": 3.519
+  },
+  {
+    "text": "understand that we all have a job to do",
+    "start": 709.6,
+    "duration": 3.44
+  },
+  {
+    "text": "to make it a better place we've seen",
+    "start": 711.519,
+    "duration": 3.44
+  },
+  {
+    "text": "some bad things happen over the years in",
+    "start": 713.04,
+    "duration": 3.68
+  },
+  {
+    "text": "certain studios that i won't mention",
+    "start": 714.959,
+    "duration": 3.681
+  },
+  {
+    "text": "here if we want to keep making games",
+    "start": 716.72,
+    "duration": 4.239
+  },
+  {
+    "text": "that people enjoy and will happily pay",
+    "start": 718.64,
+    "duration": 4.56
+  },
+  {
+    "text": "for we must first respect the work and",
+    "start": 720.959,
+    "duration": 4.401
+  },
+  {
+    "text": "the people doing it",
+    "start": 723.2,
+    "duration": 4.0
+  },
+  {
+    "text": "i hope you guys enjoyed this second part",
+    "start": 725.36,
+    "duration": 3.279
+  },
+  {
+    "text": "of the video i hope it brought the",
+    "start": 727.2,
+    "duration": 3.6
+  },
+  {
+    "text": "needed balance to the whole conversation",
+    "start": 728.639,
+    "duration": 3.76
+  },
+  {
+    "text": "don't forget to check core and the",
+    "start": 730.8,
+    "duration": 3.68
+  },
+  {
+    "text": "global game jam core diversifier",
+    "start": 732.399,
+    "duration": 3.921
+  },
+  {
+    "text": "challenge there's a ten thousand dollars",
+    "start": 734.48,
+    "duration": 3.2
+  },
+  {
+    "text": "prize pool use the links in the",
+    "start": 736.32,
+    "duration": 3.28
+  },
+  {
+    "text": "description to learn more if you enjoyed",
+    "start": 737.68,
+    "duration": 3.599
+  },
+  {
+    "text": "it please consider dropping a like and",
+    "start": 739.6,
+    "duration": 3.6
+  },
+  {
+    "text": "subscribing for more content if you want",
+    "start": 741.279,
+    "duration": 3.521
+  },
+  {
+    "text": "to support me you can wish list",
+    "start": 743.2,
+    "duration": 3.28
+  },
+  {
+    "text": "dashboard the multiplayer game i'm",
+    "start": 744.8,
+    "duration": 3.68
+  },
+  {
+    "text": "working on there's a demo coming soon so",
+    "start": 746.48,
+    "duration": 4.08
+  },
+  {
+    "text": "stay tuned thanks for watching the video",
+    "start": 748.48,
+    "duration": 4.159
+  },
+  {
+    "text": "i'll see you soon and in the meantime",
+    "start": 750.56,
+    "duration": 6.279
+  },
+  {
+    "text": "have a great day bye",
+    "start": 752.639,
+    "duration": 4.2
+  },
+  {
+    "text": "you",
+    "start": 760.399,
+    "duration": 2.081
+  }
+]

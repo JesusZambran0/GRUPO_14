@@ -1,0 +1,8752 @@
+[
+  {
+    "text": "- I'm Brian Cox,",
+    "start": 0.3,
+    "duration": 1.08
+  },
+  {
+    "text": "I'm a professor of particle physics",
+    "start": 1.38,
+    "duration": 1.95
+  },
+  {
+    "text": "at the University of Manchester",
+    "start": 3.33,
+    "duration": 1.41
+  },
+  {
+    "text": "and the Royal Society professor",
+    "start": 4.74,
+    "duration": 1.98
+  },
+  {
+    "text": "for public engagement in science.",
+    "start": 6.72,
+    "duration": 2.1
+  },
+  {
+    "text": "And amongst other things,",
+    "start": 8.82,
+    "duration": 1.14
+  },
+  {
+    "text": "I'm the author of several science books,",
+    "start": 9.96,
+    "duration": 2.55
+  },
+  {
+    "text": "including \"Black Holes:",
+    "start": 12.51,
+    "duration": 1.32
+  },
+  {
+    "text": "The Key to Understanding the Universe\".",
+    "start": 13.83,
+    "duration": 3.25
+  },
+  {
+    "text": "- [Narrator] Chapter one,",
+    "start": 21.33,
+    "duration": 1.2
+  },
+  {
+    "text": "Black Holes and the Edge of Physics.",
+    "start": 22.53,
+    "duration": 2.7
+  },
+  {
+    "text": "- Could black holes be the key",
+    "start": 25.23,
+    "duration": 1.77
+  },
+  {
+    "text": "to a quantum theory of gravity,",
+    "start": 27.0,
+    "duration": 2.85
+  },
+  {
+    "text": "a deeper theory of how reality,",
+    "start": 29.85,
+    "duration": 3.03
+  },
+  {
+    "text": "of how space and time works?",
+    "start": 32.88,
+    "duration": 2.7
+  },
+  {
+    "text": "Well, I think so.",
+    "start": 35.58,
+    "duration": 2.22
+  },
+  {
+    "text": "It's interesting.",
+    "start": 37.8,
+    "duration": 1.23
+  },
+  {
+    "text": "These objects, which have been known,",
+    "start": 39.03,
+    "duration": 3.21
+  },
+  {
+    "text": "I would say, for 40 or 50 years,",
+    "start": 42.24,
+    "duration": 3.99
+  },
+  {
+    "text": "but theoretically for the\nbest part of a century,",
+    "start": 46.23,
+    "duration": 2.82
+  },
+  {
+    "text": "have always been fascinating.",
+    "start": 49.05,
+    "duration": 1.92
+  },
+  {
+    "text": "They're odd things.",
+    "start": 50.97,
+    "duration": 1.11
+  },
+  {
+    "text": "The simplest way to describe a black hole",
+    "start": 52.08,
+    "duration": 2.79
+  },
+  {
+    "text": "would be a region of space",
+    "start": 54.87,
+    "duration": 2.64
+  },
+  {
+    "text": "from which even light can't escape.",
+    "start": 57.51,
+    "duration": 2.37
+  },
+  {
+    "text": "Predictions that such objects existed",
+    "start": 59.88,
+    "duration": 2.22
+  },
+  {
+    "text": "go all the way back to the\nbeginnings of relativity",
+    "start": 62.1,
+    "duration": 3.27
+  },
+  {
+    "text": "back at the turn of the 20th century.",
+    "start": 65.37,
+    "duration": 1.95
+  },
+  {
+    "text": "But actually really I\nwould say into the 1960s,",
+    "start": 67.32,
+    "duration": 4.17
+  },
+  {
+    "text": "perhaps even into the\n1980s, many physicists felt",
+    "start": 71.49,
+    "duration": 4.8
+  },
+  {
+    "text": "that because of the\nintellectual challenges",
+    "start": 76.29,
+    "duration": 2.28
+  },
+  {
+    "text": "that these predicted objects pose,",
+    "start": 78.57,
+    "duration": 3.9
+  },
+  {
+    "text": "many physicists felt",
+    "start": 82.47,
+    "duration": 1.17
+  },
+  {
+    "text": "that maybe nature would not create them.",
+    "start": 83.64,
+    "duration": 2.49
+  },
+  {
+    "text": "I even saw that the great\nphysicist Steven Weinberg say",
+    "start": 86.13,
+    "duration": 4.292
+  },
+  {
+    "text": "that he, in some sense, hopes",
+    "start": 90.422,
+    "duration": 3.388
+  },
+  {
+    "text": "that these things would not exist",
+    "start": 93.81,
+    "duration": 1.89
+  },
+  {
+    "text": "because they're so confusing,",
+    "start": 95.7,
+    "duration": 1.83
+  },
+  {
+    "text": "but we now know that they do exist",
+    "start": 97.53,
+    "duration": 2.4
+  },
+  {
+    "text": "and so we have to face the\nchallenges that they pose.",
+    "start": 99.93,
+    "duration": 3.213
+  },
+  {
+    "text": "Black holes are interesting,",
+    "start": 104.58,
+    "duration": 2.73
+  },
+  {
+    "text": "because going back to the\nwork of Stephen Hawking",
+    "start": 107.31,
+    "duration": 2.7
+  },
+  {
+    "text": "in the 1970s,",
+    "start": 110.01,
+    "duration": 1.68
+  },
+  {
+    "text": "it turns out that they demand",
+    "start": 111.69,
+    "duration": 4.08
+  },
+  {
+    "text": "that we think about both quantum theory",
+    "start": 115.77,
+    "duration": 3.57
+  },
+  {
+    "text": "and general relativity together.",
+    "start": 119.34,
+    "duration": 2.85
+  },
+  {
+    "text": "And the quest to unify\nthose two great pillars",
+    "start": 122.19,
+    "duration": 4.5
+  },
+  {
+    "text": "of 20th and 21st century physics",
+    "start": 126.69,
+    "duration": 2.76
+  },
+  {
+    "text": "into what's often referred to\nas a quantum theory of gravity",
+    "start": 129.45,
+    "duration": 3.12
+  },
+  {
+    "text": "is in some sense a holy grail\nfor theoretical physicists.",
+    "start": 132.57,
+    "duration": 3.66
+  },
+  {
+    "text": "But the problem has always been,",
+    "start": 136.23,
+    "duration": 1.53
+  },
+  {
+    "text": "well, is there anywhere\nin nature that we can look",
+    "start": 137.76,
+    "duration": 3.96
+  },
+  {
+    "text": "to observe something that requires us",
+    "start": 141.72,
+    "duration": 4.35
+  },
+  {
+    "text": "to merge those two theories together?",
+    "start": 146.07,
+    "duration": 2.31
+  },
+  {
+    "text": "And black holes really\nare the unique place,",
+    "start": 148.38,
+    "duration": 4.08
+  },
+  {
+    "text": "as far as we can tell, in nature,",
+    "start": 152.46,
+    "duration": 2.5
+  },
+  {
+    "text": "where we can see a thing\njust sitting there in the sky",
+    "start": 154.96,
+    "duration": 4.37
+  },
+  {
+    "text": "that demands that we\nconsider those two theories",
+    "start": 159.33,
+    "duration": 4.02
+  },
+  {
+    "text": "working together to hopefully\nreveal a deeper theory.",
+    "start": 163.35,
+    "duration": 3.093
+  },
+  {
+    "text": "The idea of black holes goes\nback a long way actually,",
+    "start": 167.76,
+    "duration": 2.91
+  },
+  {
+    "text": "back into the 1780s and 1790s.",
+    "start": 170.67,
+    "duration": 2.67
+  },
+  {
+    "text": "There were two physicists, mathematicians,",
+    "start": 173.34,
+    "duration": 2.73
+  },
+  {
+    "text": "natural philosophers, whatever\nyou want to call them,",
+    "start": 176.07,
+    "duration": 2.16
+  },
+  {
+    "text": "working at the time that had the same idea",
+    "start": 178.23,
+    "duration": 2.91
+  },
+  {
+    "text": "apparently independently of each other.",
+    "start": 181.14,
+    "duration": 2.07
+  },
+  {
+    "text": "One was a clergyman, an English\nclergyman called Mitchell,",
+    "start": 183.21,
+    "duration": 3.33
+  },
+  {
+    "text": "and the other was the great\nFrench mathematician Laplace.",
+    "start": 186.54,
+    "duration": 3.39
+  },
+  {
+    "text": "And they were both thinking",
+    "start": 189.93,
+    "duration": 1.44
+  },
+  {
+    "text": "in terms of an idea\ncalled escape velocity.",
+    "start": 191.37,
+    "duration": 2.85
+  },
+  {
+    "text": "So the escape velocity is\nthe speed you have to travel",
+    "start": 194.22,
+    "duration": 4.2
+  },
+  {
+    "text": "to completely escape the\ngravitational pull of something,",
+    "start": 198.42,
+    "duration": 3.06
+  },
+  {
+    "text": "a planet or a star.",
+    "start": 201.48,
+    "duration": 1.47
+  },
+  {
+    "text": "For the Earth, for example,",
+    "start": 202.95,
+    "duration": 1.32
+  },
+  {
+    "text": "the escape velocity from\nthe surface of the Earth",
+    "start": 204.27,
+    "duration": 3.57
+  },
+  {
+    "text": "is around eight miles a second,",
+    "start": 207.84,
+    "duration": 2.79
+  },
+  {
+    "text": "11 kilometers a second.",
+    "start": 210.63,
+    "duration": 1.98
+  },
+  {
+    "text": "If you go bigger,",
+    "start": 212.61,
+    "duration": 2.04
+  },
+  {
+    "text": "you make a bigger, more massive thing,",
+    "start": 214.65,
+    "duration": 1.86
+  },
+  {
+    "text": "let's go to a star, for\nexample, like the Sun,",
+    "start": 216.51,
+    "duration": 2.97
+  },
+  {
+    "text": "then the escape velocity increases",
+    "start": 219.48,
+    "duration": 1.83
+  },
+  {
+    "text": "because the gravitational\npull at the surface increases.",
+    "start": 221.31,
+    "duration": 2.91
+  },
+  {
+    "text": "And actually for the Sun,",
+    "start": 224.22,
+    "duration": 1.47
+  },
+  {
+    "text": "it's somewhere in the region\nof 400 miles a second.",
+    "start": 225.69,
+    "duration": 4.08
+  },
+  {
+    "text": "It's really fast.",
+    "start": 229.77,
+    "duration": 1.71
+  },
+  {
+    "text": "What Mitchell and Laplace thought,",
+    "start": 231.48,
+    "duration": 1.56
+  },
+  {
+    "text": "and I think it's a very beautiful idea,",
+    "start": 233.04,
+    "duration": 1.56
+  },
+  {
+    "text": "is they imagined in their mind's eye,",
+    "start": 234.6,
+    "duration": 1.71
+  },
+  {
+    "text": "well, can you go bigger?",
+    "start": 236.31,
+    "duration": 2.28
+  },
+  {
+    "text": "Can you imagine more and more\nmassive stars, giant stars,",
+    "start": 238.59,
+    "duration": 4.62
+  },
+  {
+    "text": "such that the gravitational\npull is so large at the surface",
+    "start": 243.21,
+    "duration": 4.74
+  },
+  {
+    "text": "that the escape velocity\nexceeds the speed of light?",
+    "start": 247.95,
+    "duration": 3.75
+  },
+  {
+    "text": "And then you wouldn't be able to see them.",
+    "start": 251.7,
+    "duration": 1.8
+  },
+  {
+    "text": "There's a wonderful quote\nactually in Laplace's paper",
+    "start": 253.5,
+    "duration": 3.33
+  },
+  {
+    "text": "where he says that the largest\nobjects in the universe",
+    "start": 256.83,
+    "duration": 2.7
+  },
+  {
+    "text": "may go unseen by reason\nof their magnitude,",
+    "start": 259.53,
+    "duration": 3.66
+  },
+  {
+    "text": "and this is back in the 1780s or 1790s.",
+    "start": 263.19,
+    "duration": 3.33
+  },
+  {
+    "text": "So he's imagining stars",
+    "start": 266.52,
+    "duration": 1.44
+  },
+  {
+    "text": "where the gravitational pull is so vast",
+    "start": 267.96,
+    "duration": 2.07
+  },
+  {
+    "text": "that even light can't escape\nand you couldn't see it,",
+    "start": 270.03,
+    "duration": 2.52
+  },
+  {
+    "text": "dark stars, I think he\nreferred to them as.",
+    "start": 272.55,
+    "duration": 2.343
+  },
+  {
+    "text": "Now, now we know that\nsuch objects do not exist",
+    "start": 274.893,
+    "duration": 4.767
+  },
+  {
+    "text": "in the universe in that sense,",
+    "start": 279.66,
+    "duration": 2.52
+  },
+  {
+    "text": "in the sense that Mitchell\nand Laplace meant,",
+    "start": 282.18,
+    "duration": 2.28
+  },
+  {
+    "text": "but actually they miss something,",
+    "start": 284.46,
+    "duration": 3.96
+  },
+  {
+    "text": "which is not surprising 'cause\nit sounds almost paradoxical.",
+    "start": 288.42,
+    "duration": 3.39
+  },
+  {
+    "text": "But you can also increase\nthe escape velocity,",
+    "start": 291.81,
+    "duration": 3.57
+  },
+  {
+    "text": "the surface of an object by squashing it.",
+    "start": 295.38,
+    "duration": 2.877
+  },
+  {
+    "text": "And it turns out that\nif you take the Earth",
+    "start": 298.257,
+    "duration": 3.693
+  },
+  {
+    "text": "and you squash it down and squash it down",
+    "start": 301.95,
+    "duration": 1.77
+  },
+  {
+    "text": "and squash it down until\nit's about that big,",
+    "start": 303.72,
+    "duration": 4.23
+  },
+  {
+    "text": "the radius just less than a centimeter,",
+    "start": 307.95,
+    "duration": 2.58
+  },
+  {
+    "text": "then the gravitational pull at\nthe surface would be so great",
+    "start": 310.53,
+    "duration": 3.57
+  },
+  {
+    "text": "that light couldn't escape,",
+    "start": 314.1,
+    "duration": 1.68
+  },
+  {
+    "text": "and that is essentially the\nmodern concept of a black hole.",
+    "start": 315.78,
+    "duration": 5.0
+  },
+  {
+    "text": "Now, Mitchell and Laplace's\ncalculations or imaginings",
+    "start": 321.21,
+    "duration": 3.96
+  },
+  {
+    "text": "were based on Newtonian\nphysics, so pre-Einstein.",
+    "start": 325.17,
+    "duration": 3.78
+  },
+  {
+    "text": "We come forward to 1915,",
+    "start": 328.95,
+    "duration": 2.13
+  },
+  {
+    "text": "Einstein published his\ngeneral theory of relativity,",
+    "start": 331.08,
+    "duration": 3.27
+  },
+  {
+    "text": "which is a different model,\na better theory of gravity.",
+    "start": 334.35,
+    "duration": 4.08
+  },
+  {
+    "text": "And it turns out that\nblack holes also exist",
+    "start": 338.43,
+    "duration": 4.59
+  },
+  {
+    "text": "in general relativity.",
+    "start": 343.02,
+    "duration": 1.38
+  },
+  {
+    "text": "Now, if we come forward to 1915,",
+    "start": 344.4,
+    "duration": 3.0
+  },
+  {
+    "text": "Newton's theory of gravity is\nreplaced by a better model,",
+    "start": 347.4,
+    "duration": 2.97
+  },
+  {
+    "text": "a better theory,",
+    "start": 350.37,
+    "duration": 1.08
+  },
+  {
+    "text": "which is Einstein's general\ntheory of relativity.",
+    "start": 351.45,
+    "duration": 2.37
+  },
+  {
+    "text": "But the idea that there can be objects",
+    "start": 353.82,
+    "duration": 3.09
+  },
+  {
+    "text": "that can be compressed\nsuch that they trap light",
+    "start": 356.91,
+    "duration": 4.35
+  },
+  {
+    "text": "is also present in Einstein's theory.",
+    "start": 361.26,
+    "duration": 2.67
+  },
+  {
+    "text": "The first physicist to\npredict such a thing,",
+    "start": 363.93,
+    "duration": 4.2
+  },
+  {
+    "text": "or at least derived the mathematics",
+    "start": 368.13,
+    "duration": 2.46
+  },
+  {
+    "text": "that describes such a\nthing as a black hole,",
+    "start": 370.59,
+    "duration": 2.85
+  },
+  {
+    "text": "although he didn't know that they existed,",
+    "start": 373.44,
+    "duration": 2.82
+  },
+  {
+    "text": "was a man called Karl Schwarzschild.",
+    "start": 376.26,
+    "duration": 2.152
+  },
+  {
+    "text": "What Schwarzschild did was\nprovide an exact solution",
+    "start": 378.412,
+    "duration": 5.0
+  },
+  {
+    "text": "to Einstein's equations that\ndescribes space and time,",
+    "start": 383.67,
+    "duration": 5.0
+  },
+  {
+    "text": "the distortion of space and time,",
+    "start": 389.16,
+    "duration": 2.64
+  },
+  {
+    "text": "in the region of a star or\nat least an idealized star,",
+    "start": 391.8,
+    "duration": 5.0
+  },
+  {
+    "text": "which is a perfectly spherical,\nnon-spinning ball of matter,",
+    "start": 397.08,
+    "duration": 4.38
+  },
+  {
+    "text": "it's a simple model of a star.",
+    "start": 401.46,
+    "duration": 2.43
+  },
+  {
+    "text": "Now, Schwarzschild described",
+    "start": 403.89,
+    "duration": 2.16
+  },
+  {
+    "text": "or discovered the solutions\nto Einstein's equations",
+    "start": 406.05,
+    "duration": 3.45
+  },
+  {
+    "text": "that describes what happens to space-time",
+    "start": 409.5,
+    "duration": 2.28
+  },
+  {
+    "text": "outside such a thing",
+    "start": 411.78,
+    "duration": 1.86
+  },
+  {
+    "text": "way back, actually 1916,",
+    "start": 413.64,
+    "duration": 1.92
+  },
+  {
+    "text": "just after the theory was published.",
+    "start": 415.56,
+    "duration": 1.89
+  },
+  {
+    "text": "What Schwarzschild's solution\nalso describes, though,",
+    "start": 417.45,
+    "duration": 3.63
+  },
+  {
+    "text": "although he didn't think\nin these terms at the time,",
+    "start": 421.08,
+    "duration": 2.52
+  },
+  {
+    "text": "was what that space looks like",
+    "start": 423.6,
+    "duration": 2.22
+  },
+  {
+    "text": "if you completely remove the star,",
+    "start": 425.82,
+    "duration": 3.18
+  },
+  {
+    "text": "but leave its imprint in the\nfabric of the universe behind,",
+    "start": 429.0,
+    "duration": 5.0
+  },
+  {
+    "text": "and that is essentially\nthe theoretical description",
+    "start": 434.34,
+    "duration": 3.93
+  },
+  {
+    "text": "or the model of a modern\nrelativistic black hole.",
+    "start": 438.27,
+    "duration": 3.903
+  },
+  {
+    "text": "Now, while Schwarzschild's solution,",
+    "start": 443.22,
+    "duration": 3.33
+  },
+  {
+    "text": "and by solution,",
+    "start": 446.55,
+    "duration": 1.5
+  },
+  {
+    "text": "I mean we're to picture a\ndistortion in space and time,",
+    "start": 448.05,
+    "duration": 4.35
+  },
+  {
+    "text": "a distortion in the\nfabric of the universe,",
+    "start": 452.4,
+    "duration": 2.28
+  },
+  {
+    "text": "while Schwarzschild's\nsolution does indeed describe",
+    "start": 454.68,
+    "duration": 3.6
+  },
+  {
+    "text": "the simplest possible black hole",
+    "start": 458.28,
+    "duration": 2.61
+  },
+  {
+    "text": "that we can model in the universe,",
+    "start": 460.89,
+    "duration": 1.65
+  },
+  {
+    "text": "people didn't really think\nin those terms at all",
+    "start": 462.54,
+    "duration": 2.85
+  },
+  {
+    "text": "until later.",
+    "start": 465.39,
+    "duration": 1.11
+  },
+  {
+    "text": "You see in the 1930s,",
+    "start": 466.5,
+    "duration": 1.95
+  },
+  {
+    "text": "Einstein and a colleague\nof his, Rosen, for example,",
+    "start": 468.45,
+    "duration": 3.24
+  },
+  {
+    "text": "exploring that space-time",
+    "start": 471.69,
+    "duration": 1.86
+  },
+  {
+    "text": "and building models of what\nthat space-time might look like.",
+    "start": 473.55,
+    "duration": 4.08
+  },
+  {
+    "text": "But I think it's true to say that really",
+    "start": 477.63,
+    "duration": 2.19
+  },
+  {
+    "text": "certainly until the late 1930s",
+    "start": 479.82,
+    "duration": 2.67
+  },
+  {
+    "text": "and actually, arguably,\npost-war until the 1960s,",
+    "start": 482.49,
+    "duration": 4.74
+  },
+  {
+    "text": "most physicists thought",
+    "start": 487.23,
+    "duration": 1.11
+  },
+  {
+    "text": "that such things would\nnot exist in nature.",
+    "start": 488.34,
+    "duration": 1.98
+  },
+  {
+    "text": "So they were theoretically interesting,",
+    "start": 490.32,
+    "duration": 2.01
+  },
+  {
+    "text": "perhaps not practically interesting.",
+    "start": 492.33,
+    "duration": 3.27
+  },
+  {
+    "text": "The reason is that you have\nto create such a thing.",
+    "start": 495.6,
+    "duration": 4.35
+  },
+  {
+    "text": "So it's one thing to have\na model of space and time",
+    "start": 499.95,
+    "duration": 3.9
+  },
+  {
+    "text": "that describes this\nobject called a black hole",
+    "start": 503.85,
+    "duration": 2.97
+  },
+  {
+    "text": "from which not even light can escape,",
+    "start": 506.82,
+    "duration": 2.49
+  },
+  {
+    "text": "but it's another thing for\nnature to actually make it.",
+    "start": 509.31,
+    "duration": 3.81
+  },
+  {
+    "text": "So if you go through the 1930s,",
+    "start": 513.12,
+    "duration": 2.4
+  },
+  {
+    "text": "there's a lot of papers,",
+    "start": 515.52,
+    "duration": 1.08
+  },
+  {
+    "text": "actually, Robert Oppenheimer\nand a student of his, Snyder,",
+    "start": 516.6,
+    "duration": 2.52
+  },
+  {
+    "text": "a very famous paper just before the war,",
+    "start": 519.12,
+    "duration": 2.55
+  },
+  {
+    "text": "which explored whether a\nreal star in the universe",
+    "start": 521.67,
+    "duration": 5.0
+  },
+  {
+    "text": "at the end of its life could collapse",
+    "start": 526.76,
+    "duration": 3.16
+  },
+  {
+    "text": "and collapse without limit\nto form this geometry,",
+    "start": 529.92,
+    "duration": 4.2
+  },
+  {
+    "text": "this thing that we call a black hole.",
+    "start": 534.12,
+    "duration": 1.89
+  },
+  {
+    "text": "Just before the war,",
+    "start": 536.01,
+    "duration": 0.93
+  },
+  {
+    "text": "Oppenheimer and Snyder showed\nthat under certain assumptions",
+    "start": 536.94,
+    "duration": 3.525
+  },
+  {
+    "text": "a star could behave in such a way,",
+    "start": 540.465,
+    "duration": 3.195
+  },
+  {
+    "text": "but it wasn't really until the work",
+    "start": 543.66,
+    "duration": 2.28
+  },
+  {
+    "text": "of people like Roger\nPenrose and Stephen Hawking",
+    "start": 545.94,
+    "duration": 2.94
+  },
+  {
+    "text": "and several others in the 1960s\nthat it really began to look",
+    "start": 548.88,
+    "duration": 5.0
+  },
+  {
+    "text": "as if nature would build these things.",
+    "start": 554.7,
+    "duration": 2.4
+  },
+  {
+    "text": "There's this great quote I remember",
+    "start": 557.1,
+    "duration": 2.13
+  },
+  {
+    "text": "with some fondness, actually,",
+    "start": 559.23,
+    "duration": 1.35
+  },
+  {
+    "text": "Arthur Eddington, a\ncolleague of Einstein's,",
+    "start": 560.58,
+    "duration": 3.03
+  },
+  {
+    "text": "he was very English, very\nproper physicist, and he said,",
+    "start": 563.61,
+    "duration": 4.537
+  },
+  {
+    "text": "\"Nature will prevent such\nabsurdities from existing.\"",
+    "start": 568.147,
+    "duration": 4.043
+  },
+  {
+    "text": "Just, that's it,",
+    "start": 572.19,
+    "duration": 1.35
+  },
+  {
+    "text": "nature will prevent it.",
+    "start": 573.54,
+    "duration": 1.74
+  },
+  {
+    "text": "Well, it turns out nature\ndoesn't prevent it.",
+    "start": 575.28,
+    "duration": 2.1
+  },
+  {
+    "text": "We now know, and we've observed them,",
+    "start": 577.38,
+    "duration": 1.74
+  },
+  {
+    "text": "that stars do collapse\nto form black holes,",
+    "start": 579.12,
+    "duration": 2.49
+  },
+  {
+    "text": "and then theoretical physics moves on.",
+    "start": 581.61,
+    "duration": 3.06
+  },
+  {
+    "text": "So people accept that\nthese things should exist.",
+    "start": 584.67,
+    "duration": 2.82
+  },
+  {
+    "text": "Although it's true to say",
+    "start": 587.49,
+    "duration": 1.14
+  },
+  {
+    "text": "that we haven't actually imaged\none until the 21st century,",
+    "start": 588.63,
+    "duration": 3.797
+  },
+  {
+    "text": "but in any case, people accepted\nthese things should exist.",
+    "start": 592.427,
+    "duration": 4.063
+  },
+  {
+    "text": "More and more evidence mounted",
+    "start": 596.49,
+    "duration": 1.68
+  },
+  {
+    "text": "that they do exist at\nthe centers of galaxies",
+    "start": 598.17,
+    "duration": 2.76
+  },
+  {
+    "text": "and at the sites of collapsed stars,",
+    "start": 600.93,
+    "duration": 2.31
+  },
+  {
+    "text": "but then we have to face the consequences.",
+    "start": 603.24,
+    "duration": 2.01
+  },
+  {
+    "text": "What does it mean for our\nunderstanding of the universe",
+    "start": 605.25,
+    "duration": 4.35
+  },
+  {
+    "text": "if there are these objects",
+    "start": 609.6,
+    "duration": 2.19
+  },
+  {
+    "text": "where space and time behave\nin a very strange way,",
+    "start": 611.79,
+    "duration": 2.97
+  },
+  {
+    "text": "where light is trapped,",
+    "start": 614.76,
+    "duration": 1.8
+  },
+  {
+    "text": "and where it would seem\nthat anything that falls in",
+    "start": 616.56,
+    "duration": 3.84
+  },
+  {
+    "text": "is at the very least locked\naway from the universe forever?",
+    "start": 620.4,
+    "duration": 4.26
+  },
+  {
+    "text": "So to understand the conceptual\nproblems that are faced",
+    "start": 624.66,
+    "duration": 3.63
+  },
+  {
+    "text": "if these things exist,",
+    "start": 628.29,
+    "duration": 2.16
+  },
+  {
+    "text": "then it might be worth just\ndescribing very briefly",
+    "start": 630.45,
+    "duration": 2.49
+  },
+  {
+    "text": "the Einsteinian description,",
+    "start": 632.94,
+    "duration": 1.95
+  },
+  {
+    "text": "the pure description\nin general relativity.",
+    "start": 634.89,
+    "duration": 2.263
+  },
+  {
+    "text": "A black hole, what do\nyou see from the outside?",
+    "start": 637.153,
+    "duration": 2.507
+  },
+  {
+    "text": "Well, there's an event horizon\nsurrounding the black hole.",
+    "start": 639.66,
+    "duration": 4.35
+  },
+  {
+    "text": "In some sense, it defines the boundary",
+    "start": 644.01,
+    "duration": 2.55
+  },
+  {
+    "text": "between the external universe",
+    "start": 646.56,
+    "duration": 1.647
+  },
+  {
+    "text": "and the interior of the black hole.",
+    "start": 648.207,
+    "duration": 2.613
+  },
+  {
+    "text": "The event horizon is, very\nsimply and a bit handwavingly,",
+    "start": 650.82,
+    "duration": 4.68
+  },
+  {
+    "text": "but it's a reasonable description,",
+    "start": 655.5,
+    "duration": 3.0
+  },
+  {
+    "text": "it's just if you can\nimagine a sphere in space,",
+    "start": 658.5,
+    "duration": 4.5
+  },
+  {
+    "text": "and if you go across the boundary",
+    "start": 663.0,
+    "duration": 2.79
+  },
+  {
+    "text": "into the interior of this sphere,",
+    "start": 665.79,
+    "duration": 2.67
+  },
+  {
+    "text": "then even if you can travel\nas fast as the speed of light,",
+    "start": 668.46,
+    "duration": 3.06
+  },
+  {
+    "text": "you can't escape.",
+    "start": 671.52,
+    "duration": 1.14
+  },
+  {
+    "text": "So the event horizon separates",
+    "start": 672.66,
+    "duration": 2.01
+  },
+  {
+    "text": "the interior of the black hole\nfrom the external universe.",
+    "start": 674.67,
+    "duration": 3.42
+  },
+  {
+    "text": "We'll see a bit later",
+    "start": 678.09,
+    "duration": 1.17
+  },
+  {
+    "text": "why that's a bit of a\nhandwavy description.",
+    "start": 679.26,
+    "duration": 2.463
+  },
+  {
+    "text": "But another description\nof the event horizon,",
+    "start": 682.56,
+    "duration": 2.19
+  },
+  {
+    "text": "which confused people all\nthe way through the history",
+    "start": 684.75,
+    "duration": 3.39
+  },
+  {
+    "text": "of black hole research, actually,",
+    "start": 688.14,
+    "duration": 1.74
+  },
+  {
+    "text": "certainly to the early papers in the 1930s",
+    "start": 689.88,
+    "duration": 3.477
+  },
+  {
+    "text": "and perhaps even post-war,",
+    "start": 693.357,
+    "duration": 1.773
+  },
+  {
+    "text": "was the idea that the event horizon",
+    "start": 695.13,
+    "duration": 2.58
+  },
+  {
+    "text": "when viewed from the outside",
+    "start": 697.71,
+    "duration": 2.43
+  },
+  {
+    "text": "is a place in space where time stops.",
+    "start": 700.14,
+    "duration": 3.06
+  },
+  {
+    "text": "And that's a direct prediction",
+    "start": 703.2,
+    "duration": 2.82
+  },
+  {
+    "text": "of Einstein's theory of relativity.",
+    "start": 706.02,
+    "duration": 1.83
+  },
+  {
+    "text": "From the external perspective,",
+    "start": 707.85,
+    "duration": 2.1
+  },
+  {
+    "text": "if you watched, for example,\nan astronaut falling in",
+    "start": 709.95,
+    "duration": 3.45
+  },
+  {
+    "text": "towards the black hole,",
+    "start": 713.4,
+    "duration": 1.86
+  },
+  {
+    "text": "then from your external perspective,",
+    "start": 715.26,
+    "duration": 2.58
+  },
+  {
+    "text": "you'd see their time pass more slowly,",
+    "start": 717.84,
+    "duration": 3.69
+  },
+  {
+    "text": "slower and slower and slower,",
+    "start": 721.53,
+    "duration": 1.95
+  },
+  {
+    "text": "as the astronaut\napproached the black hole,",
+    "start": 723.48,
+    "duration": 2.73
+  },
+  {
+    "text": "until on the horizon, you\nwould see their time stop.",
+    "start": 726.21,
+    "duration": 4.83
+  },
+  {
+    "text": "That suggested to many\npeople in the early days",
+    "start": 731.04,
+    "duration": 3.03
+  },
+  {
+    "text": "that a star couldn't collapse\nto form a black hole,",
+    "start": 734.07,
+    "duration": 2.46
+  },
+  {
+    "text": "it confused them.",
+    "start": 736.53,
+    "duration": 1.14
+  },
+  {
+    "text": "They thought, well, if\nthe star's collapsing,",
+    "start": 737.67,
+    "duration": 1.92
+  },
+  {
+    "text": "then does it not freeze forever",
+    "start": 739.59,
+    "duration": 1.56
+  },
+  {
+    "text": "in some sense on the horizon?",
+    "start": 741.15,
+    "duration": 1.98
+  },
+  {
+    "text": "So all sorts of initial\nearly conceptual problems",
+    "start": 743.13,
+    "duration": 3.78
+  },
+  {
+    "text": "which ultimately were solved.",
+    "start": 746.91,
+    "duration": 1.38
+  },
+  {
+    "text": "The thing about relativity,",
+    "start": 748.29,
+    "duration": 1.44
+  },
+  {
+    "text": "just the one-sentence thing to understand,",
+    "start": 749.73,
+    "duration": 2.64
+  },
+  {
+    "text": "is that time can stop\nfrom one perspective,",
+    "start": 752.37,
+    "duration": 3.93
+  },
+  {
+    "text": "but time can pass at the usual rate",
+    "start": 756.3,
+    "duration": 2.13
+  },
+  {
+    "text": "from another perspective.",
+    "start": 758.43,
+    "duration": 1.14
+  },
+  {
+    "text": "And indeed, from the perspective",
+    "start": 759.57,
+    "duration": 2.22
+  },
+  {
+    "text": "of an astronaut falling into a black hole,",
+    "start": 761.79,
+    "duration": 3.18
+  },
+  {
+    "text": "then for a sufficiently large black hole,",
+    "start": 764.97,
+    "duration": 2.49
+  },
+  {
+    "text": "the ones that we find at\nthe centers of galaxies,",
+    "start": 767.46,
+    "duration": 2.61
+  },
+  {
+    "text": "the astronaut would notice nothing at all",
+    "start": 770.07,
+    "duration": 2.91
+  },
+  {
+    "text": "as they fell across the horizon",
+    "start": 772.98,
+    "duration": 2.49
+  },
+  {
+    "text": "into the interior of the black hole.",
+    "start": 775.47,
+    "duration": 3.0
+  },
+  {
+    "text": "So time passes at one second per second",
+    "start": 778.47,
+    "duration": 2.73
+  },
+  {
+    "text": "on the watch of an astronaut falling in,",
+    "start": 781.2,
+    "duration": 2.58
+  },
+  {
+    "text": "but from the external perspective,",
+    "start": 783.78,
+    "duration": 1.98
+  },
+  {
+    "text": "time freezes on the horizon.",
+    "start": 785.76,
+    "duration": 1.92
+  },
+  {
+    "text": "So black holes are full",
+    "start": 787.68,
+    "duration": 1.29
+  },
+  {
+    "text": "of these apparent conceptual challenges,",
+    "start": 788.97,
+    "duration": 3.39
+  },
+  {
+    "text": "which are actually not\nconceptual challenges at all,",
+    "start": 792.36,
+    "duration": 2.97
+  },
+  {
+    "text": "they're just a central part",
+    "start": 795.33,
+    "duration": 1.11
+  },
+  {
+    "text": "of Einstein's general\ntheory of relativity.",
+    "start": 796.44,
+    "duration": 2.13
+  },
+  {
+    "text": "So that confusion was\neventually dealt with and solved",
+    "start": 798.57,
+    "duration": 4.14
+  },
+  {
+    "text": "and people understood\ncertainly by the 1960s",
+    "start": 802.71,
+    "duration": 3.33
+  },
+  {
+    "text": "what these things are",
+    "start": 806.04,
+    "duration": 1.56
+  },
+  {
+    "text": "and how general relativity models them.",
+    "start": 807.6,
+    "duration": 1.98
+  },
+  {
+    "text": "There is a central problem, though,",
+    "start": 809.58,
+    "duration": 2.01
+  },
+  {
+    "text": "which is still not solved,",
+    "start": 811.59,
+    "duration": 1.74
+  },
+  {
+    "text": "which is, you put it this way,",
+    "start": 813.33,
+    "duration": 1.92
+  },
+  {
+    "text": "what lies at the center,",
+    "start": 815.25,
+    "duration": 2.52
+  },
+  {
+    "text": "and I'll be careful with my language,",
+    "start": 817.77,
+    "duration": 1.74
+  },
+  {
+    "text": "what lies at the center of a black hole?",
+    "start": 819.51,
+    "duration": 2.34
+  },
+  {
+    "text": "Now, in pure,",
+    "start": 821.85,
+    "duration": 1.2
+  },
+  {
+    "text": "just in Einstein's general\ntheory of relativity,",
+    "start": 823.05,
+    "duration": 3.36
+  },
+  {
+    "text": "actually it's not right",
+    "start": 826.41,
+    "duration": 1.74
+  },
+  {
+    "text": "to talk about the center\nof a black hole, really.",
+    "start": 828.15,
+    "duration": 3.42
+  },
+  {
+    "text": "So, what are we picturing?",
+    "start": 831.57,
+    "duration": 1.08
+  },
+  {
+    "text": "It's this thing called the singularity.",
+    "start": 832.65,
+    "duration": 2.25
+  },
+  {
+    "text": "You might think of it,",
+    "start": 834.9,
+    "duration": 0.833
+  },
+  {
+    "text": "an infinitely dense point",
+    "start": 835.733,
+    "duration": 2.107
+  },
+  {
+    "text": "to which this massive star collapses,",
+    "start": 837.84,
+    "duration": 2.79
+  },
+  {
+    "text": "it's kind of the natural\nway to think of it.",
+    "start": 840.63,
+    "duration": 2.22
+  },
+  {
+    "text": "But actually, just even in\npure general relativity,",
+    "start": 842.85,
+    "duration": 3.54
+  },
+  {
+    "text": "when you look at a nice\nmap of a black hole,",
+    "start": 846.39,
+    "duration": 2.7
+  },
+  {
+    "text": "so-called Penrose diagram\nnamed after Roger Penrose,",
+    "start": 849.09,
+    "duration": 2.88
+  },
+  {
+    "text": "what you see is that the singularity",
+    "start": 851.97,
+    "duration": 2.91
+  },
+  {
+    "text": "is not really a place in space at all,",
+    "start": 854.88,
+    "duration": 3.24
+  },
+  {
+    "text": "it's a moment in time,",
+    "start": 858.12,
+    "duration": 1.59
+  },
+  {
+    "text": "and actually it's the end of time.",
+    "start": 859.71,
+    "duration": 2.82
+  },
+  {
+    "text": "So one way of picturing what's happened",
+    "start": 862.53,
+    "duration": 2.13
+  },
+  {
+    "text": "when a star collapses to form a black hole",
+    "start": 864.66,
+    "duration": 2.58
+  },
+  {
+    "text": "is that space and time is so distorted",
+    "start": 867.24,
+    "duration": 2.73
+  },
+  {
+    "text": "that in a sense their roles swap.",
+    "start": 869.97,
+    "duration": 3.33
+  },
+  {
+    "text": "And so what we thought of as\nan infinitely dense point,",
+    "start": 873.3,
+    "duration": 3.96
+  },
+  {
+    "text": "a place in space",
+    "start": 877.26,
+    "duration": 1.57
+  },
+  {
+    "text": "at the center of the collapse\nof the star, if you like,",
+    "start": 880.37,
+    "duration": 3.34
+  },
+  {
+    "text": "actually becomes a moment in time",
+    "start": 883.71,
+    "duration": 2.997
+  },
+  {
+    "text": "and the end of time, the singularity,",
+    "start": 886.707,
+    "duration": 2.583
+  },
+  {
+    "text": "but the nature of that thing was not",
+    "start": 889.29,
+    "duration": 4.23
+  },
+  {
+    "text": "and is still not understood.",
+    "start": 893.52,
+    "duration": 2.76
+  },
+  {
+    "text": "So that's a great mystery,",
+    "start": 896.28,
+    "duration": 1.62
+  },
+  {
+    "text": "and it's been long accepted",
+    "start": 897.9,
+    "duration": 1.92
+  },
+  {
+    "text": "that we will need a so-called\nquantum theory of gravity,",
+    "start": 899.82,
+    "duration": 3.33
+  },
+  {
+    "text": "a deeper theory of gravity",
+    "start": 903.15,
+    "duration": 1.95
+  },
+  {
+    "text": "in order to explain the singularity.",
+    "start": 905.1,
+    "duration": 2.01
+  },
+  {
+    "text": "And for many, many years, actually,",
+    "start": 907.11,
+    "duration": 2.19
+  },
+  {
+    "text": "until quite recently,",
+    "start": 909.3,
+    "duration": 1.83
+  },
+  {
+    "text": "then people thought, well, there we are,",
+    "start": 911.13,
+    "duration": 1.92
+  },
+  {
+    "text": "we have a problem with the singularity,",
+    "start": 913.05,
+    "duration": 1.74
+  },
+  {
+    "text": "we don't really have any access to it,",
+    "start": 914.79,
+    "duration": 1.95
+  },
+  {
+    "text": "we don't have the conceptual\ntools to explore it,",
+    "start": 916.74,
+    "duration": 3.24
+  },
+  {
+    "text": "so it may remain a mystery\nfor a century to come.",
+    "start": 919.98,
+    "duration": 3.54
+  },
+  {
+    "text": "It's not clear what to do.",
+    "start": 923.52,
+    "duration": 1.95
+  },
+  {
+    "text": "The great revolution in black\nhole research was to notice,",
+    "start": 925.47,
+    "duration": 5.0
+  },
+  {
+    "text": "and it began with Stephen\nHawking's work in the mid-1970s,",
+    "start": 930.99,
+    "duration": 4.53
+  },
+  {
+    "text": "was to notice that actually\nthere are conceptual problems",
+    "start": 935.52,
+    "duration": 4.41
+  },
+  {
+    "text": "at the event horizon of the black hole,",
+    "start": 939.93,
+    "duration": 2.67
+  },
+  {
+    "text": "not in this extreme place,",
+    "start": 942.6,
+    "duration": 2.04
+  },
+  {
+    "text": "not only in this extreme\nplace at the singularity,",
+    "start": 944.64,
+    "duration": 2.91
+  },
+  {
+    "text": "whatever that might be,",
+    "start": 947.55,
+    "duration": 1.62
+  },
+  {
+    "text": "but at the horizon.",
+    "start": 949.17,
+    "duration": 1.47
+  },
+  {
+    "text": "Now, that was a real challenge\nand extremely interesting",
+    "start": 950.64,
+    "duration": 4.86
+  },
+  {
+    "text": "because we think,",
+    "start": 955.5,
+    "duration": 1.77
+  },
+  {
+    "text": "we strongly expect",
+    "start": 957.27,
+    "duration": 2.4
+  },
+  {
+    "text": "the laws of nature that we understand now,",
+    "start": 959.67,
+    "duration": 3.09
+  },
+  {
+    "text": "laws of nature that we\nhave full mathematical",
+    "start": 962.76,
+    "duration": 2.76
+  },
+  {
+    "text": "and conceptual control of,",
+    "start": 965.52,
+    "duration": 2.31
+  },
+  {
+    "text": "to apply at the event horizon.",
+    "start": 967.83,
+    "duration": 3.0
+  },
+  {
+    "text": "And so that's why black holes\nhave become so interesting,",
+    "start": 970.83,
+    "duration": 4.26
+  },
+  {
+    "text": "is because we have a place\nwhere we think, we assume,",
+    "start": 975.09,
+    "duration": 4.26
+  },
+  {
+    "text": "and indeed, we're right\nto assume, it seems,",
+    "start": 979.35,
+    "duration": 3.09
+  },
+  {
+    "text": "that we have full control of the physics,",
+    "start": 982.44,
+    "duration": 2.82
+  },
+  {
+    "text": "we understand what's happening,",
+    "start": 985.26,
+    "duration": 1.98
+  },
+  {
+    "text": "but there is a fundamental\nclash of principle",
+    "start": 987.24,
+    "duration": 4.95
+  },
+  {
+    "text": "between our two basic theories of nature,",
+    "start": 992.19,
+    "duration": 4.26
+  },
+  {
+    "text": "general relativity and quantum mechanics.",
+    "start": 996.45,
+    "duration": 1.74
+  },
+  {
+    "text": "And that is ultimately why the\nevent horizon of a black hole",
+    "start": 998.19,
+    "duration": 4.11
+  },
+  {
+    "text": "and black holes themselves\nhave become so fascinating",
+    "start": 1002.3,
+    "duration": 3.27
+  },
+  {
+    "text": "and so important.",
+    "start": 1005.57,
+    "duration": 1.203
+  },
+  {
+    "text": "The modern revolution in our thought,",
+    "start": 1007.64,
+    "duration": 3.69
+  },
+  {
+    "text": "which is still ongoing by the way",
+    "start": 1011.33,
+    "duration": 2.28
+  },
+  {
+    "text": "in understanding black\nholes and quantum gravity,",
+    "start": 1013.61,
+    "duration": 4.35
+  },
+  {
+    "text": "really does begin with the\nwork that Stephen Hawking did",
+    "start": 1017.96,
+    "duration": 3.45
+  },
+  {
+    "text": "in the mid-1970s.",
+    "start": 1021.41,
+    "duration": 1.86
+  },
+  {
+    "text": "Stephen Hawking, in his own words,",
+    "start": 1023.27,
+    "duration": 2.4
+  },
+  {
+    "text": "showed that black holes ain't so black.",
+    "start": 1025.67,
+    "duration": 2.22
+  },
+  {
+    "text": "So we've described them\nas prisons in a sense,",
+    "start": 1027.89,
+    "duration": 3.63
+  },
+  {
+    "text": "we're picturing them as a region of space",
+    "start": 1031.52,
+    "duration": 2.46
+  },
+  {
+    "text": "from which nothing can escape.",
+    "start": 1033.98,
+    "duration": 2.07
+  },
+  {
+    "text": "What Stephen Hawking showed in\na landmark couple of papers,",
+    "start": 1036.05,
+    "duration": 5.0
+  },
+  {
+    "text": "a tour de force of calculation actually,",
+    "start": 1041.99,
+    "duration": 3.06
+  },
+  {
+    "text": "is that if you consider quantum\ntheory, quantum mechanics,",
+    "start": 1045.05,
+    "duration": 4.92
+  },
+  {
+    "text": "in the vicinity of the\nhorizon of a black hole,",
+    "start": 1049.97,
+    "duration": 2.46
+  },
+  {
+    "text": "then you find that they glow,",
+    "start": 1052.43,
+    "duration": 2.67
+  },
+  {
+    "text": "they produce particles,",
+    "start": 1055.1,
+    "duration": 2.82
+  },
+  {
+    "text": "they have a temperature.",
+    "start": 1057.92,
+    "duration": 1.89
+  },
+  {
+    "text": "This thing that we pictured\nin Einstein's theory",
+    "start": 1059.81,
+    "duration": 5.0
+  },
+  {
+    "text": "is pure geometry,",
+    "start": 1064.88,
+    "duration": 1.77
+  },
+  {
+    "text": "is just distorted space and time,",
+    "start": 1066.65,
+    "duration": 3.78
+  },
+  {
+    "text": "actually emits particles,",
+    "start": 1070.43,
+    "duration": 2.55
+  },
+  {
+    "text": "it's called Hawking radiation.",
+    "start": 1072.98,
+    "duration": 1.62
+  },
+  {
+    "text": "And one way to picture that,",
+    "start": 1074.6,
+    "duration": 1.92
+  },
+  {
+    "text": "and Stephen in his 1974 paper gives this,",
+    "start": 1076.52,
+    "duration": 5.0
+  },
+  {
+    "text": "he says, it's a handwavy description,",
+    "start": 1081.62,
+    "duration": 2.76
+  },
+  {
+    "text": "so it's not a full description,",
+    "start": 1084.38,
+    "duration": 2.16
+  },
+  {
+    "text": "you need the mathematics for that,",
+    "start": 1086.54,
+    "duration": 1.38
+  },
+  {
+    "text": "but he gives this handwavy description,",
+    "start": 1087.92,
+    "duration": 2.19
+  },
+  {
+    "text": "which is kind of a nice way\nto picture what's happening.",
+    "start": 1090.11,
+    "duration": 2.07
+  },
+  {
+    "text": "The idea is to imagine,",
+    "start": 1092.18,
+    "duration": 2.16
+  },
+  {
+    "text": "to zoom in on space",
+    "start": 1094.34,
+    "duration": 2.82
+  },
+  {
+    "text": "in the vicinity of the event\nhorizon of a black hole.",
+    "start": 1097.16,
+    "duration": 3.3
+  },
+  {
+    "text": "If you zoom in on any piece of space,",
+    "start": 1100.46,
+    "duration": 2.13
+  },
+  {
+    "text": "the piece of space in front\nof your nose right now,",
+    "start": 1102.59,
+    "duration": 2.34
+  },
+  {
+    "text": "if you could you zoom in",
+    "start": 1104.93,
+    "duration": 1.68
+  },
+  {
+    "text": "and slow time down with a big microscope,",
+    "start": 1106.61,
+    "duration": 2.91
+  },
+  {
+    "text": "you can picture what's happening",
+    "start": 1109.52,
+    "duration": 2.55
+  },
+  {
+    "text": "as a series of particles coming in",
+    "start": 1112.07,
+    "duration": 2.61
+  },
+  {
+    "text": "and out of existence all the time,",
+    "start": 1114.68,
+    "duration": 2.4
+  },
+  {
+    "text": "so-called entangled particles.",
+    "start": 1117.08,
+    "duration": 2.43
+  },
+  {
+    "text": "So it's a picture of what the\nvacuum of space looks like.",
+    "start": 1119.51,
+    "duration": 4.92
+  },
+  {
+    "text": "Just to emphasize, again,",
+    "start": 1124.43,
+    "duration": 1.44
+  },
+  {
+    "text": "it's not a complete picture,",
+    "start": 1125.87,
+    "duration": 1.71
+  },
+  {
+    "text": "it's not supposed to be precise,",
+    "start": 1127.58,
+    "duration": 1.47
+  },
+  {
+    "text": "but it's a reasonable\nmodel of what's happening.",
+    "start": 1129.05,
+    "duration": 2.61
+  },
+  {
+    "text": "So particles in and out\nof existence all the time,",
+    "start": 1131.66,
+    "duration": 3.15
+  },
+  {
+    "text": "and that's happening everywhere,",
+    "start": 1134.81,
+    "duration": 1.32
+  },
+  {
+    "text": "in space, everywhere that you look,",
+    "start": 1136.13,
+    "duration": 2.01
+  },
+  {
+    "text": "in the most empty piece of\nspace you could imagine,",
+    "start": 1138.14,
+    "duration": 2.91
+  },
+  {
+    "text": "that's what's happening.",
+    "start": 1141.05,
+    "duration": 1.11
+  },
+  {
+    "text": "In the vicinity of the\nhorizon of a black hole,",
+    "start": 1142.16,
+    "duration": 3.15
+  },
+  {
+    "text": "you can have the situation\nwhere one of those particles,",
+    "start": 1145.31,
+    "duration": 3.63
+  },
+  {
+    "text": "those pairs of particles,",
+    "start": 1148.94,
+    "duration": 2.22
+  },
+  {
+    "text": "is on the inside of the event horizon",
+    "start": 1151.16,
+    "duration": 1.86
+  },
+  {
+    "text": "and one is on the outside,",
+    "start": 1153.02,
+    "duration": 1.41
+  },
+  {
+    "text": "and then it can happen that\nthe one on the outside,",
+    "start": 1154.43,
+    "duration": 4.14
+  },
+  {
+    "text": "instead of merging back\nwith its partner again,",
+    "start": 1158.57,
+    "duration": 3.33
+  },
+  {
+    "text": "can escape into the universe.",
+    "start": 1161.9,
+    "duration": 2.7
+  },
+  {
+    "text": "It's essentially made real",
+    "start": 1164.6,
+    "duration": 1.59
+  },
+  {
+    "text": "by the presence of the black hole.",
+    "start": 1166.19,
+    "duration": 2.04
+  },
+  {
+    "text": "So the other partner is\ninterior to the black hole",
+    "start": 1168.23,
+    "duration": 3.39
+  },
+  {
+    "text": "and this particle heads\noff into the universe,",
+    "start": 1171.62,
+    "duration": 4.62
+  },
+  {
+    "text": "removing energy from the\nblack hole as it goes.",
+    "start": 1176.24,
+    "duration": 3.15
+  },
+  {
+    "text": "This rain of particles,",
+    "start": 1179.39,
+    "duration": 1.92
+  },
+  {
+    "text": "this glow of particles is\ncalled Hawking radiation.",
+    "start": 1181.31,
+    "duration": 3.06
+  },
+  {
+    "text": "That has profound implications.",
+    "start": 1184.37,
+    "duration": 2.91
+  },
+  {
+    "text": "So it's kind of a simple\npicture of what's happening.",
+    "start": 1187.28,
+    "duration": 3.15
+  },
+  {
+    "text": "But the upshot is imagine this thing,",
+    "start": 1190.43,
+    "duration": 2.79
+  },
+  {
+    "text": "it's a black hole, it's glowing,",
+    "start": 1193.22,
+    "duration": 3.87
+  },
+  {
+    "text": "it's just space-time geometry,",
+    "start": 1197.09,
+    "duration": 2.34
+  },
+  {
+    "text": "but it's emitting particles,",
+    "start": 1199.43,
+    "duration": 1.95
+  },
+  {
+    "text": "losing energy, therefore it's shrinking,",
+    "start": 1201.38,
+    "duration": 3.12
+  },
+  {
+    "text": "which means that one day it will be gone.",
+    "start": 1204.5,
+    "duration": 2.82
+  },
+  {
+    "text": "So black holes are not eternal prisons,",
+    "start": 1207.32,
+    "duration": 2.13
+  },
+  {
+    "text": "they have a lifetime.",
+    "start": 1209.45,
+    "duration": 1.56
+  },
+  {
+    "text": "One day whatever's in there\nis returned to the universe.",
+    "start": 1211.01,
+    "duration": 5.0
+  },
+  {
+    "text": "The question was,",
+    "start": 1216.29,
+    "duration": 1.32
+  },
+  {
+    "text": "the central question that\nwas immediately raised",
+    "start": 1217.61,
+    "duration": 3.06
+  },
+  {
+    "text": "by those calculations is this,",
+    "start": 1220.67,
+    "duration": 2.4
+  },
+  {
+    "text": "what happened to all\nthe stuff that fell in?",
+    "start": 1223.07,
+    "duration": 3.63
+  },
+  {
+    "text": "The way I've described it,",
+    "start": 1226.7,
+    "duration": 1.29
+  },
+  {
+    "text": "the way Einstein's theory describes it",
+    "start": 1227.99,
+    "duration": 2.19
+  },
+  {
+    "text": "is somehow that stuff\ngoes to the singularity,",
+    "start": 1230.18,
+    "duration": 2.88
+  },
+  {
+    "text": "whatever that thing is,",
+    "start": 1233.06,
+    "duration": 1.02
+  },
+  {
+    "text": "the end of time, the region of space-time",
+    "start": 1234.08,
+    "duration": 2.507
+  },
+  {
+    "text": "that's so convoluted and distorted",
+    "start": 1236.587,
+    "duration": 2.353
+  },
+  {
+    "text": "that we don't understand\nhow to describe it at all.",
+    "start": 1238.94,
+    "duration": 2.64
+  },
+  {
+    "text": "But then one day the whole thing is gone.",
+    "start": 1241.58,
+    "duration": 3.21
+  },
+  {
+    "text": "All that's left in the far, far\nfuture is Hawking radiation,",
+    "start": 1244.79,
+    "duration": 5.0
+  },
+  {
+    "text": "those particles that were produced",
+    "start": 1250.1,
+    "duration": 2.07
+  },
+  {
+    "text": "in the vicinity of the event horizon.",
+    "start": 1252.17,
+    "duration": 2.13
+  },
+  {
+    "text": "The question is,",
+    "start": 1254.3,
+    "duration": 1.68
+  },
+  {
+    "text": "is it possible if you could\ncollect all that radiation,",
+    "start": 1255.98,
+    "duration": 4.65
+  },
+  {
+    "text": "all the Hawking radiation",
+    "start": 1260.63,
+    "duration": 1.17
+  },
+  {
+    "text": "through the whole life of the black hole,",
+    "start": 1261.8,
+    "duration": 2.1
+  },
+  {
+    "text": "is it somehow possible, in principle,",
+    "start": 1263.9,
+    "duration": 3.93
+  },
+  {
+    "text": "that the information about everything",
+    "start": 1267.83,
+    "duration": 3.03
+  },
+  {
+    "text": "that fell into the black\nhole throughout its history",
+    "start": 1270.86,
+    "duration": 3.39
+  },
+  {
+    "text": "is imprinted in that\nradiation in the far future?",
+    "start": 1274.25,
+    "duration": 4.32
+  },
+  {
+    "text": "Is that true or is it not true?",
+    "start": 1278.57,
+    "duration": 2.49
+  },
+  {
+    "text": "You might say, why did\nI ask that question?",
+    "start": 1281.06,
+    "duration": 2.28
+  },
+  {
+    "text": "Seems like a bit of a random question.",
+    "start": 1283.34,
+    "duration": 2.25
+  },
+  {
+    "text": "It's a very important question.",
+    "start": 1285.59,
+    "duration": 1.71
+  },
+  {
+    "text": "Let's say that I take\nanything here in this room,",
+    "start": 1287.3,
+    "duration": 4.68
+  },
+  {
+    "text": "a book, a table, the camera, right,",
+    "start": 1291.98,
+    "duration": 3.93
+  },
+  {
+    "text": "anything at all,",
+    "start": 1295.91,
+    "duration": 1.56
+  },
+  {
+    "text": "and I set fire to it,",
+    "start": 1297.47,
+    "duration": 1.59
+  },
+  {
+    "text": "I incinerate it, I destroy\nit anyway that I can,",
+    "start": 1299.06,
+    "duration": 4.08
+  },
+  {
+    "text": "could throw it into a furnace,",
+    "start": 1303.14,
+    "duration": 1.98
+  },
+  {
+    "text": "I could put it in the\nheart of a nuclear bomb",
+    "start": 1305.12,
+    "duration": 2.49
+  },
+  {
+    "text": "and explode it, whatever,",
+    "start": 1307.61,
+    "duration": 1.41
+  },
+  {
+    "text": "just completely incinerated it.",
+    "start": 1309.02,
+    "duration": 2.76
+  },
+  {
+    "text": "In physics, in basic fundamental physics,",
+    "start": 1311.78,
+    "duration": 4.59
+  },
+  {
+    "text": "then it turns out that if\nyou could collect every piece",
+    "start": 1316.37,
+    "duration": 5.0
+  },
+  {
+    "text": "of that thing that I\ndetonated or incinerated,",
+    "start": 1321.53,
+    "duration": 3.3
+  },
+  {
+    "text": "every quantum of radiation,",
+    "start": 1324.83,
+    "duration": 2.19
+  },
+  {
+    "text": "every photon, every particle, everything,",
+    "start": 1327.02,
+    "duration": 2.79
+  },
+  {
+    "text": "in principle, if I could\njust collect it all",
+    "start": 1329.81,
+    "duration": 4.44
+  },
+  {
+    "text": "and I was clever enough,",
+    "start": 1334.25,
+    "duration": 1.35
+  },
+  {
+    "text": "then I could reconstruct the\nthing that I had destroyed.",
+    "start": 1335.6,
+    "duration": 3.99
+  },
+  {
+    "text": "Information is conserved in the universe",
+    "start": 1339.59,
+    "duration": 4.2
+  },
+  {
+    "text": "as far as we know.",
+    "start": 1343.79,
+    "duration": 1.47
+  },
+  {
+    "text": "So every law of nature that we have says",
+    "start": 1345.26,
+    "duration": 2.19
+  },
+  {
+    "text": "that information is conserved.",
+    "start": 1347.45,
+    "duration": 1.71
+  },
+  {
+    "text": "The problem was that Stephen\nHawking's initial calculation",
+    "start": 1349.16,
+    "duration": 4.89
+  },
+  {
+    "text": "of the way those black\nholes evaporate away",
+    "start": 1354.05,
+    "duration": 2.79
+  },
+  {
+    "text": "said that information is not conserved,",
+    "start": 1356.84,
+    "duration": 2.73
+  },
+  {
+    "text": "said that black holes are\nerasers of information.",
+    "start": 1359.57,
+    "duration": 3.45
+  },
+  {
+    "text": "To put it very bluntly,",
+    "start": 1363.02,
+    "duration": 1.74
+  },
+  {
+    "text": "the calculation said that\nonce that black hole had gone,",
+    "start": 1364.76,
+    "duration": 4.77
+  },
+  {
+    "text": "then even in principle",
+    "start": 1369.53,
+    "duration": 1.8
+  },
+  {
+    "text": "there is absolutely no way\nyou could learn anything,",
+    "start": 1371.33,
+    "duration": 4.35
+  },
+  {
+    "text": "reconstruct anything about\nthe things that fell in,",
+    "start": 1375.68,
+    "duration": 3.33
+  },
+  {
+    "text": "including the star that\ncollapsed to form it.",
+    "start": 1379.01,
+    "duration": 3.69
+  },
+  {
+    "text": "So information erasers,",
+    "start": 1382.7,
+    "duration": 2.64
+  },
+  {
+    "text": "the only information erasers\nthat we know of in nature,",
+    "start": 1385.34,
+    "duration": 3.81
+  },
+  {
+    "text": "that was the initial\npicture of black holes",
+    "start": 1389.15,
+    "duration": 2.28
+  },
+  {
+    "text": "as Stephen Hawking understood them",
+    "start": 1391.43,
+    "duration": 2.43
+  },
+  {
+    "text": "back in the 1970s and 1980s.",
+    "start": 1393.86,
+    "duration": 2.64
+  },
+  {
+    "text": "This became known as the black\nhole information paradox.",
+    "start": 1396.5,
+    "duration": 5.0
+  },
+  {
+    "text": "So we have a situation,",
+    "start": 1401.51,
+    "duration": 1.41
+  },
+  {
+    "text": "the 1980s, 1990s, 2000s,",
+    "start": 1402.92,
+    "duration": 1.383
+  },
+  {
+    "text": "where it appears that\nthere's a fundamental problem",
+    "start": 1406.61,
+    "duration": 4.44
+  },
+  {
+    "text": "with our understanding of something.",
+    "start": 1411.05,
+    "duration": 2.67
+  },
+  {
+    "text": "Black holes, quantum\nmechanics, general relativity,",
+    "start": 1413.72,
+    "duration": 3.78
+  },
+  {
+    "text": "when you put them together,",
+    "start": 1417.5,
+    "duration": 1.71
+  },
+  {
+    "text": "you have this apparent prediction",
+    "start": 1419.21,
+    "duration": 2.7
+  },
+  {
+    "text": "that these things erase\ninformation from the universe.",
+    "start": 1421.91,
+    "duration": 3.42
+  },
+  {
+    "text": "Some physicists, Stephen\nHawking initially actually,",
+    "start": 1425.33,
+    "duration": 2.85
+  },
+  {
+    "text": "felt that that was the case,",
+    "start": 1428.18,
+    "duration": 1.92
+  },
+  {
+    "text": "that maybe these things\ndo erase information.",
+    "start": 1430.1,
+    "duration": 2.97
+  },
+  {
+    "text": "Maybe we don't care about that,",
+    "start": 1433.07,
+    "duration": 2.13
+  },
+  {
+    "text": "maybe that's the way the\nquantum theory of gravity is.",
+    "start": 1435.2,
+    "duration": 3.45
+  },
+  {
+    "text": "And other physicists,",
+    "start": 1438.65,
+    "duration": 1.56
+  },
+  {
+    "text": "people like Leonard Susskind initially,",
+    "start": 1440.21,
+    "duration": 2.4
+  },
+  {
+    "text": "for example, Gerard 't Hooft,",
+    "start": 1442.61,
+    "duration": 1.77
+  },
+  {
+    "text": "the great Nobel Prize-winning\nparticle physicist and others,",
+    "start": 1444.38,
+    "duration": 3.03
+  },
+  {
+    "text": "felt that, no,",
+    "start": 1447.41,
+    "duration": 0.87
+  },
+  {
+    "text": "there's something wrong\nwith our understanding,",
+    "start": 1448.28,
+    "duration": 2.16
+  },
+  {
+    "text": "that there's no way in which\nwe can allow these things",
+    "start": 1450.44,
+    "duration": 3.96
+  },
+  {
+    "text": "to erase information from the universe,",
+    "start": 1454.4,
+    "duration": 2.01
+  },
+  {
+    "text": "thus challenging our understanding",
+    "start": 1456.41,
+    "duration": 1.59
+  },
+  {
+    "text": "of the basic laws of nature.",
+    "start": 1458.0,
+    "duration": 1.62
+  },
+  {
+    "text": "So that debate was vigorous",
+    "start": 1459.62,
+    "duration": 2.4
+  },
+  {
+    "text": "and went on for decade\nafter decade after decade.",
+    "start": 1462.02,
+    "duration": 3.39
+  },
+  {
+    "text": "The reason is interesting,",
+    "start": 1465.41,
+    "duration": 2.22
+  },
+  {
+    "text": "is because there's a very\nprecise problem posed.",
+    "start": 1467.63,
+    "duration": 4.23
+  },
+  {
+    "text": "So it's not some kind of thing",
+    "start": 1471.86,
+    "duration": 2.04
+  },
+  {
+    "text": "like trying to understand a singularity",
+    "start": 1473.9,
+    "duration": 2.01
+  },
+  {
+    "text": "or understand the big bang",
+    "start": 1475.91,
+    "duration": 1.47
+  },
+  {
+    "text": "or where you can just say,",
+    "start": 1477.38,
+    "duration": 1.47
+  },
+  {
+    "text": "well, we are miles away\nfrom understanding,",
+    "start": 1478.85,
+    "duration": 2.52
+  },
+  {
+    "text": "the challenges were posed\nin a region of space,",
+    "start": 1481.37,
+    "duration": 5.0
+  },
+  {
+    "text": "the vicinity of the event horizon,",
+    "start": 1486.53,
+    "duration": 2.25
+  },
+  {
+    "text": "where we thought we had\ncontrol of the physics.",
+    "start": 1488.78,
+    "duration": 3.66
+  },
+  {
+    "text": "And so that's really useful",
+    "start": 1492.44,
+    "duration": 1.86
+  },
+  {
+    "text": "because it means that\nit should be the case",
+    "start": 1494.3,
+    "duration": 2.58
+  },
+  {
+    "text": "that calculations can\nbe performed to resolve.",
+    "start": 1496.88,
+    "duration": 3.93
+  },
+  {
+    "text": "The reason this challenge,\nthis apparent contradiction,",
+    "start": 1500.81,
+    "duration": 4.62
+  },
+  {
+    "text": "this fundamental problem\ngained so much attention",
+    "start": 1505.43,
+    "duration": 5.0
+  },
+  {
+    "text": "is because it occurred,",
+    "start": 1510.47,
+    "duration": 3.33
+  },
+  {
+    "text": "the problem came from physics",
+    "start": 1513.8,
+    "duration": 3.09
+  },
+  {
+    "text": "that everybody thought they understood.",
+    "start": 1516.89,
+    "duration": 3.18
+  },
+  {
+    "text": "So calculating in a region of space",
+    "start": 1520.07,
+    "duration": 3.54
+  },
+  {
+    "text": "under conditions in the\nuniverse where we thought",
+    "start": 1523.61,
+    "duration": 3.78
+  },
+  {
+    "text": "and assumed that we had full\ncontrol of the mathematics,",
+    "start": 1527.39,
+    "duration": 2.91
+  },
+  {
+    "text": "of the theories.",
+    "start": 1530.3,
+    "duration": 0.93
+  },
+  {
+    "text": "That's really interesting",
+    "start": 1531.23,
+    "duration": 1.62
+  },
+  {
+    "text": "because it means you have a chance",
+    "start": 1532.85,
+    "duration": 2.7
+  },
+  {
+    "text": "catching a glimpse of\nsome kind of deeper theory",
+    "start": 1535.55,
+    "duration": 2.82
+  },
+  {
+    "text": "by resolving this contradiction.",
+    "start": 1538.37,
+    "duration": 1.92
+  },
+  {
+    "text": "So that's why more and\nmore people got interested",
+    "start": 1540.29,
+    "duration": 1.86
+  },
+  {
+    "text": "in the black hole information paradox.",
+    "start": 1542.15,
+    "duration": 2.07
+  },
+  {
+    "text": "It turns out if we fast\nforward to the present day",
+    "start": 1544.22,
+    "duration": 3.3
+  },
+  {
+    "text": "and a series of papers\nare still being written,",
+    "start": 1547.52,
+    "duration": 2.7
+  },
+  {
+    "text": "so there's still research\nthat's happening as we speak,",
+    "start": 1550.22,
+    "duration": 3.51
+  },
+  {
+    "text": "but it turns out now\nthat the general view,",
+    "start": 1553.73,
+    "duration": 2.73
+  },
+  {
+    "text": "I would say the generally accepted view,",
+    "start": 1556.46,
+    "duration": 2.31
+  },
+  {
+    "text": "is that black holes do\nnot erase information",
+    "start": 1558.77,
+    "duration": 3.81
+  },
+  {
+    "text": "from the universe.",
+    "start": 1562.58,
+    "duration": 1.68
+  },
+  {
+    "text": "So in principle,",
+    "start": 1564.26,
+    "duration": 1.68
+  },
+  {
+    "text": "if you could collect all\nthat Hawking radiation",
+    "start": 1565.94,
+    "duration": 2.43
+  },
+  {
+    "text": "emitted over eons, right,",
+    "start": 1568.37,
+    "duration": 3.81
+  },
+  {
+    "text": "the lifetimes of some of\nthese black holes, by the way,",
+    "start": 1572.18,
+    "duration": 2.94
+  },
+  {
+    "text": "10 to the power 120 years-plus\nfor some of the big ones,",
+    "start": 1575.12,
+    "duration": 4.89
+  },
+  {
+    "text": "it's one with 120 naughts after it,",
+    "start": 1580.01,
+    "duration": 2.187
+  },
+  {
+    "text": "and the universe is only one",
+    "start": 1582.197,
+    "duration": 1.383
+  },
+  {
+    "text": "with 10 naughts after it\nyears old at the moment,",
+    "start": 1583.58,
+    "duration": 2.22
+  },
+  {
+    "text": "10 billion years old or so.",
+    "start": 1585.8,
+    "duration": 1.86
+  },
+  {
+    "text": "So we're talking about\ntimescales vastly longer",
+    "start": 1587.66,
+    "duration": 3.36
+  },
+  {
+    "text": "than the current age of the universe,",
+    "start": 1591.02,
+    "duration": 2.04
+  },
+  {
+    "text": "but when they've gone,",
+    "start": 1593.06,
+    "duration": 1.26
+  },
+  {
+    "text": "then in principle,",
+    "start": 1594.32,
+    "duration": 1.14
+  },
+  {
+    "text": "we now think you could\ncollect all that radiation,",
+    "start": 1595.46,
+    "duration": 3.36
+  },
+  {
+    "text": "in principle, put it into\nsome quantum computer,",
+    "start": 1598.82,
+    "duration": 3.75
+  },
+  {
+    "text": "carry out some operations\non all that radiation",
+    "start": 1602.57,
+    "duration": 3.42
+  },
+  {
+    "text": "and reconstruct the information",
+    "start": 1605.99,
+    "duration": 1.86
+  },
+  {
+    "text": "about everything that fell in.",
+    "start": 1607.85,
+    "duration": 1.68
+  },
+  {
+    "text": "But the implications of that,",
+    "start": 1609.53,
+    "duration": 2.28
+  },
+  {
+    "text": "the mechanism by which that happens",
+    "start": 1611.81,
+    "duration": 3.21
+  },
+  {
+    "text": "I would say is profoundly exciting",
+    "start": 1615.02,
+    "duration": 3.21
+  },
+  {
+    "text": "because it really does seem\nto be given as a glimpse",
+    "start": 1618.23,
+    "duration": 2.85
+  },
+  {
+    "text": "of a deeper theory of gravity.",
+    "start": 1621.08,
+    "duration": 2.52
+  },
+  {
+    "text": "The simple way to say it,",
+    "start": 1623.6,
+    "duration": 2.37
+  },
+  {
+    "text": "it seems that space and\ntime are not fundamental.",
+    "start": 1625.97,
+    "duration": 4.02
+  },
+  {
+    "text": "So one view,",
+    "start": 1629.99,
+    "duration": 1.8
+  },
+  {
+    "text": "and I emphasize that\nthere are other views,",
+    "start": 1631.79,
+    "duration": 2.25
+  },
+  {
+    "text": "we're at the cutting edge of research now,",
+    "start": 1634.04,
+    "duration": 1.8
+  },
+  {
+    "text": "but one view is a field",
+    "start": 1635.84,
+    "duration": 3.03
+  },
+  {
+    "text": "which has become known\nas emergent space-time.",
+    "start": 1638.87,
+    "duration": 3.36
+  },
+  {
+    "text": "So, what does that mean?",
+    "start": 1642.23,
+    "duration": 1.5
+  },
+  {
+    "text": "It means that space and time\nthemselves are not fundamental.",
+    "start": 1643.73,
+    "duration": 4.38
+  },
+  {
+    "text": "In Einstein's picture,",
+    "start": 1648.11,
+    "duration": 1.71
+  },
+  {
+    "text": "we assume there is such\na thing as space-time,",
+    "start": 1649.82,
+    "duration": 3.63
+  },
+  {
+    "text": "this four-dimensional surface,",
+    "start": 1653.45,
+    "duration": 1.77
+  },
+  {
+    "text": "manifold is the technical term,",
+    "start": 1655.22,
+    "duration": 2.4
+  },
+  {
+    "text": "but you assume it, it's part of the model.",
+    "start": 1657.62,
+    "duration": 2.37
+  },
+  {
+    "text": "There are such things as space and time",
+    "start": 1659.99,
+    "duration": 3.06
+  },
+  {
+    "text": "woven together into the\nfabric of the universe.",
+    "start": 1663.05,
+    "duration": 2.4
+  },
+  {
+    "text": "What they are, Einstein\nhas no nothing to say.",
+    "start": 1665.45,
+    "duration": 3.78
+  },
+  {
+    "text": "It seems that there is a deeper theory",
+    "start": 1669.23,
+    "duration": 4.02
+  },
+  {
+    "text": "underlying what we think\nof as space and time,",
+    "start": 1673.25,
+    "duration": 3.09
+  },
+  {
+    "text": "which is a quantum theory.",
+    "start": 1676.34,
+    "duration": 1.62
+  },
+  {
+    "text": "And so the idea is that\nspace and time themselves",
+    "start": 1677.96,
+    "duration": 4.71
+  },
+  {
+    "text": "emerge from, what?",
+    "start": 1682.67,
+    "duration": 2.28
+  },
+  {
+    "text": "From quantum entanglement,",
+    "start": 1684.95,
+    "duration": 2.67
+  },
+  {
+    "text": "from some kind of smaller parts or pieces.",
+    "start": 1687.62,
+    "duration": 4.02
+  },
+  {
+    "text": "We don't know what those things are,",
+    "start": 1691.64,
+    "duration": 1.92
+  },
+  {
+    "text": "we don't know the nature of them,",
+    "start": 1693.56,
+    "duration": 1.98
+  },
+  {
+    "text": "but it does seem that there's\na deeper underlying theory",
+    "start": 1695.54,
+    "duration": 3.63
+  },
+  {
+    "text": "from which space and time emerge.",
+    "start": 1699.17,
+    "duration": 1.86
+  },
+  {
+    "text": "That is what we call the\nquantum theory of gravity.",
+    "start": 1701.03,
+    "duration": 3.72
+  },
+  {
+    "text": "But the key thing is,",
+    "start": 1704.75,
+    "duration": 1.11
+  },
+  {
+    "text": "the key thing to understand",
+    "start": 1705.86,
+    "duration": 1.77
+  },
+  {
+    "text": "is we've been driven to that picture",
+    "start": 1707.63,
+    "duration": 3.42
+  },
+  {
+    "text": "by asking very clearly defined,",
+    "start": 1711.05,
+    "duration": 3.63
+  },
+  {
+    "text": "precise questions about\nhow black holes behave,",
+    "start": 1714.68,
+    "duration": 4.32
+  },
+  {
+    "text": "which goes all the way\nback, well, to Einstein",
+    "start": 1719.0,
+    "duration": 3.3
+  },
+  {
+    "text": "and then to Stephen Hawking\nand many others' calculations",
+    "start": 1722.3,
+    "duration": 3.06
+  },
+  {
+    "text": "through the '70s and '80s.",
+    "start": 1725.36,
+    "duration": 2.985
+  },
+  {
+    "text": "Well, the super massive black\nholes are fascinating things.",
+    "start": 1728.345,
+    "duration": 3.315
+  },
+  {
+    "text": "So these are the black holes\nthat we have images of,",
+    "start": 1731.66,
+    "duration": 4.47
+  },
+  {
+    "text": "radio telescope images.",
+    "start": 1736.13,
+    "duration": 1.83
+  },
+  {
+    "text": "We have two images from a collaboration",
+    "start": 1737.96,
+    "duration": 2.55
+  },
+  {
+    "text": "called the Event Horizon Collaboration.",
+    "start": 1740.51,
+    "duration": 1.92
+  },
+  {
+    "text": "One of a black hole,",
+    "start": 1742.43,
+    "duration": 1.037
+  },
+  {
+    "text": "it was the first one they acquired",
+    "start": 1743.467,
+    "duration": 2.413
+  },
+  {
+    "text": "of a black hole in a galaxy called M87,",
+    "start": 1745.88,
+    "duration": 2.31
+  },
+  {
+    "text": "which is about 55\nmillion light-years away.",
+    "start": 1748.19,
+    "duration": 2.52
+  },
+  {
+    "text": "This is a big galaxy,",
+    "start": 1750.71,
+    "duration": 1.77
+  },
+  {
+    "text": "something like a trillion suns,",
+    "start": 1752.48,
+    "duration": 2.31
+  },
+  {
+    "text": "and the center of that",
+    "start": 1754.79,
+    "duration": 1.62
+  },
+  {
+    "text": "we've long suspected\nthere was a black hole.",
+    "start": 1756.41,
+    "duration": 2.4
+  },
+  {
+    "text": "Now we have an image of the black hole.",
+    "start": 1758.81,
+    "duration": 2.477
+  },
+  {
+    "text": "It's a black hole that\nis so super massive,",
+    "start": 1761.287,
+    "duration": 3.553
+  },
+  {
+    "text": "so over 6 billion times\nthe mass of our Sun,",
+    "start": 1764.84,
+    "duration": 3.39
+  },
+  {
+    "text": "a big black hole by any measure.",
+    "start": 1768.23,
+    "duration": 2.01
+  },
+  {
+    "text": "We also have an image, by the way,",
+    "start": 1770.24,
+    "duration": 1.61
+  },
+  {
+    "text": "of this rather smaller\nsuper massive black hole",
+    "start": 1771.85,
+    "duration": 3.19
+  },
+  {
+    "text": "at the center of the Milky Way galaxy,",
+    "start": 1775.04,
+    "duration": 2.04
+  },
+  {
+    "text": "which is only about just\nover 4 million times",
+    "start": 1777.08,
+    "duration": 3.36
+  },
+  {
+    "text": "the mass of our Sun,",
+    "start": 1780.44,
+    "duration": 0.9
+  },
+  {
+    "text": "so it's a little one, but still big.",
+    "start": 1781.34,
+    "duration": 2.01
+  },
+  {
+    "text": "We think that virtually every galaxy",
+    "start": 1783.35,
+    "duration": 4.59
+  },
+  {
+    "text": "has a super massive\nblack hole at its heart.",
+    "start": 1787.94,
+    "duration": 2.613
+  },
+  {
+    "text": "Caveat a little bit",
+    "start": 1791.45,
+    "duration": 1.98
+  },
+  {
+    "text": "because there a couple of papers\nhave been released recently",
+    "start": 1793.43,
+    "duration": 3.03
+  },
+  {
+    "text": "suggesting that there\nmay be galaxies observed",
+    "start": 1796.46,
+    "duration": 2.28
+  },
+  {
+    "text": "where there are no super\nmassive black holes.",
+    "start": 1798.74,
+    "duration": 2.04
+  },
+  {
+    "text": "There are lots of\ngalaxies in the universe,",
+    "start": 1800.78,
+    "duration": 2.28
+  },
+  {
+    "text": "maybe there are exceptions,",
+    "start": 1803.06,
+    "duration": 1.41
+  },
+  {
+    "text": "but it's fair to say that\nvirtually every galaxy",
+    "start": 1804.47,
+    "duration": 2.16
+  },
+  {
+    "text": "has a black hole at its center.",
+    "start": 1806.63,
+    "duration": 1.62
+  },
+  {
+    "text": "That's an interesting observation",
+    "start": 1808.25,
+    "duration": 1.44
+  },
+  {
+    "text": "because we don't know how those form.",
+    "start": 1809.69,
+    "duration": 1.77
+  },
+  {
+    "text": "One of the reasons is we\ndon't really fully understand",
+    "start": 1811.46,
+    "duration": 3.6
+  },
+  {
+    "text": "how the first galaxies\nformed in the first place,",
+    "start": 1815.06,
+    "duration": 2.28
+  },
+  {
+    "text": "it's current research, live research.",
+    "start": 1817.34,
+    "duration": 3.0
+  },
+  {
+    "text": "One of the goals of the\nJames Webb Space Telescope",
+    "start": 1820.34,
+    "duration": 3.96
+  },
+  {
+    "text": "is to observe the formation of\nthe first stars and galaxies.",
+    "start": 1824.3,
+    "duration": 5.0
+  },
+  {
+    "text": "It can do that because\nit can detect very faint,",
+    "start": 1830.33,
+    "duration": 3.96
+  },
+  {
+    "text": "very long-wavelength light,",
+    "start": 1834.29,
+    "duration": 2.49
+  },
+  {
+    "text": "which is what you need to detect",
+    "start": 1836.78,
+    "duration": 2.07
+  },
+  {
+    "text": "if you want to look far\nout into the universe",
+    "start": 1838.85,
+    "duration": 2.61
+  },
+  {
+    "text": "and therefore far back in time",
+    "start": 1841.46,
+    "duration": 2.04
+  },
+  {
+    "text": "towards the origin of the\nfirst stars and galaxies.",
+    "start": 1843.5,
+    "duration": 3.78
+  },
+  {
+    "text": "So the JWST, new instrument\nthat's looking at that.",
+    "start": 1847.28,
+    "duration": 3.367
+  },
+  {
+    "text": "There are also a series of new\nradio telescopes being built.",
+    "start": 1850.647,
+    "duration": 3.923
+  },
+  {
+    "text": "The Square Kilometre Array, for example,",
+    "start": 1854.57,
+    "duration": 2.31
+  },
+  {
+    "text": "in Australia and South Africa,",
+    "start": 1856.88,
+    "duration": 2.04
+  },
+  {
+    "text": "which is a radio telescope array",
+    "start": 1858.92,
+    "duration": 2.25
+  },
+  {
+    "text": "aimed at observing the formation",
+    "start": 1861.17,
+    "duration": 2.58
+  },
+  {
+    "text": "of the first stars and galaxies.",
+    "start": 1863.75,
+    "duration": 1.62
+  },
+  {
+    "text": "So this is live research,",
+    "start": 1865.37,
+    "duration": 1.503
+  },
+  {
+    "text": "it's a fundamental question,",
+    "start": 1866.873,
+    "duration": 1.767
+  },
+  {
+    "text": "how does structure form\nin the early universe?",
+    "start": 1868.64,
+    "duration": 5.0
+  },
+  {
+    "text": "Not only are black holes interesting",
+    "start": 1873.71,
+    "duration": 2.49
+  },
+  {
+    "text": "from a theoretical perspective,",
+    "start": 1876.2,
+    "duration": 2.073
+  },
+  {
+    "text": "allowing us to peer or\nuncover deep questions",
+    "start": 1879.29,
+    "duration": 5.0
+  },
+  {
+    "text": "or ask deep questions",
+    "start": 1884.72,
+    "duration": 1.68
+  },
+  {
+    "text": "about the structure of\nspace and time itself,",
+    "start": 1886.4,
+    "duration": 2.1
+  },
+  {
+    "text": "but they're also key to\nunderstanding how galaxies form",
+    "start": 1888.5,
+    "duration": 3.18
+  },
+  {
+    "text": "and how structures form\nin the early universe.",
+    "start": 1891.68,
+    "duration": 3.09
+  },
+  {
+    "text": "How many black holes do we know of?",
+    "start": 1894.77,
+    "duration": 2.64
+  },
+  {
+    "text": "So direct observation,",
+    "start": 1897.41,
+    "duration": 2.88
+  },
+  {
+    "text": "in terms of radio telescopes,",
+    "start": 1900.29,
+    "duration": 2.04
+  },
+  {
+    "text": "we have a direct\nobservation of two of them",
+    "start": 1902.33,
+    "duration": 3.39
+  },
+  {
+    "text": "from the Event Horizon Collaboration,",
+    "start": 1905.72,
+    "duration": 2.07
+  },
+  {
+    "text": "the one in our galaxy, the Milky Way,",
+    "start": 1907.79,
+    "duration": 2.04
+  },
+  {
+    "text": "and the one in the galaxy M87.",
+    "start": 1909.83,
+    "duration": 3.0
+  },
+  {
+    "text": "We also have what I would\ncall direct observation",
+    "start": 1912.83,
+    "duration": 3.42
+  },
+  {
+    "text": "of black hole collisions.",
+    "start": 1916.25,
+    "duration": 1.86
+  },
+  {
+    "text": "So this is a completely\ndifferent technology,",
+    "start": 1918.11,
+    "duration": 2.55
+  },
+  {
+    "text": "a different approach,",
+    "start": 1920.66,
+    "duration": 1.32
+  },
+  {
+    "text": "so gravitational wave astronomy.",
+    "start": 1921.98,
+    "duration": 2.55
+  },
+  {
+    "text": "So gravitational waves are ripples",
+    "start": 1924.53,
+    "duration": 2.94
+  },
+  {
+    "text": "in the fabric of the universe,",
+    "start": 1927.47,
+    "duration": 1.47
+  },
+  {
+    "text": "let's describe them like that.",
+    "start": 1928.94,
+    "duration": 1.26
+  },
+  {
+    "text": "Although I once said Kip Thorne\ncalled it a storm in time,",
+    "start": 1930.2,
+    "duration": 3.76
+  },
+  {
+    "text": "which I think is also\na very beautiful idea.",
+    "start": 1933.96,
+    "duration": 2.93
+  },
+  {
+    "text": "And so the idea is that,",
+    "start": 1936.89,
+    "duration": 1.56
+  },
+  {
+    "text": "what is a ripple in space and time?",
+    "start": 1938.45,
+    "duration": 2.85
+  },
+  {
+    "text": "They'd be passing through everywhere now,",
+    "start": 1941.3,
+    "duration": 1.8
+  },
+  {
+    "text": "so through you and me,",
+    "start": 1943.1,
+    "duration": 2.01
+  },
+  {
+    "text": "through the space in which we sit.",
+    "start": 1945.11,
+    "duration": 2.52
+  },
+  {
+    "text": "And they're ripples in space and time,",
+    "start": 1947.63,
+    "duration": 1.8
+  },
+  {
+    "text": "so time speeds up and slows down a bit",
+    "start": 1949.43,
+    "duration": 2.22
+  },
+  {
+    "text": "as these things go through,",
+    "start": 1951.65,
+    "duration": 2.01
+  },
+  {
+    "text": "distances kind of shrink, can\nexpand a little bit as well.",
+    "start": 1953.66,
+    "duration": 4.32
+  },
+  {
+    "text": "So they're real distortions\nin space and time",
+    "start": 1957.98,
+    "duration": 3.96
+  },
+  {
+    "text": "and they're caused by,",
+    "start": 1961.94,
+    "duration": 1.74
+  },
+  {
+    "text": "well, actually pretty much everything",
+    "start": 1963.68,
+    "duration": 2.01
+  },
+  {
+    "text": "that happens in the\nuniverse at some level,",
+    "start": 1965.69,
+    "duration": 2.25
+  },
+  {
+    "text": "but they're very, very faint\nand difficult to detect.",
+    "start": 1967.94,
+    "duration": 3.99
+  },
+  {
+    "text": "The ripples we've been able to detect",
+    "start": 1971.93,
+    "duration": 2.31
+  },
+  {
+    "text": "come from the collisions of black holes",
+    "start": 1974.24,
+    "duration": 3.06
+  },
+  {
+    "text": "or the collisions of neutron stars.",
+    "start": 1977.3,
+    "duration": 2.73
+  },
+  {
+    "text": "So these are highly energetic\nevents in the universe.",
+    "start": 1980.03,
+    "duration": 4.29
+  },
+  {
+    "text": "And then the observatories\ncalled LIGO, Virgo,",
+    "start": 1984.32,
+    "duration": 4.05
+  },
+  {
+    "text": "these are essentially laser beams,",
+    "start": 1988.37,
+    "duration": 2.19
+  },
+  {
+    "text": "so-called laser interferometers,",
+    "start": 1990.56,
+    "duration": 2.31
+  },
+  {
+    "text": "about two and a half miles actually long,",
+    "start": 1992.87,
+    "duration": 2.73
+  },
+  {
+    "text": "four kilometers long at\nright angles to each other.",
+    "start": 1995.6,
+    "duration": 3.63
+  },
+  {
+    "text": "And they can detect little\nshifts in the distance",
+    "start": 1999.23,
+    "duration": 3.9
+  },
+  {
+    "text": "between the mirrors between\nwhich the laser beams bound",
+    "start": 2003.13,
+    "duration": 4.65
+  },
+  {
+    "text": "far, far smaller than the diameter",
+    "start": 2007.78,
+    "duration": 2.79
+  },
+  {
+    "text": "of the nucleus of an atom.",
+    "start": 2010.57,
+    "duration": 1.86
+  },
+  {
+    "text": "So tiny, tiny ripples in\nthe fabric of the universe.",
+    "start": 2012.43,
+    "duration": 4.83
+  },
+  {
+    "text": "By observing those ripples,",
+    "start": 2017.26,
+    "duration": 1.38
+  },
+  {
+    "text": "we can see the collisions of black holes.",
+    "start": 2018.64,
+    "duration": 2.46
+  },
+  {
+    "text": "We tend to see the collisions of big ones,",
+    "start": 2021.1,
+    "duration": 2.01
+  },
+  {
+    "text": "and that's what's called\nthe selection effect.",
+    "start": 2023.11,
+    "duration": 2.43
+  },
+  {
+    "text": "The big ones are more energetic",
+    "start": 2025.54,
+    "duration": 2.22
+  },
+  {
+    "text": "and so the gravitational\nwaves are easy to detect.",
+    "start": 2027.76,
+    "duration": 2.94
+  },
+  {
+    "text": "But the collisions we're\nseeing in between black holes",
+    "start": 2030.7,
+    "duration": 2.46
+  },
+  {
+    "text": "that are, for example, around\n30 times the mass of our Sun,",
+    "start": 2033.16,
+    "duration": 4.59
+  },
+  {
+    "text": "and the number of those collisions is,",
+    "start": 2037.75,
+    "duration": 2.01
+  },
+  {
+    "text": "I think it's fair to say larger",
+    "start": 2039.76,
+    "duration": 1.5
+  },
+  {
+    "text": "than anyone would've imagined",
+    "start": 2041.26,
+    "duration": 1.89
+  },
+  {
+    "text": "before the observations were made.",
+    "start": 2043.15,
+    "duration": 2.4
+  },
+  {
+    "text": "So it seems there are quite a lot",
+    "start": 2045.55,
+    "duration": 2.07
+  },
+  {
+    "text": "of these black holes floating around",
+    "start": 2047.62,
+    "duration": 2.7
+  },
+  {
+    "text": "that are very massive indeed,",
+    "start": 2050.32,
+    "duration": 2.04
+  },
+  {
+    "text": "30, 40 times the mass\nof our Sun and upwards.",
+    "start": 2052.36,
+    "duration": 3.9
+  },
+  {
+    "text": "And I think it's fair to say",
+    "start": 2056.26,
+    "duration": 1.56
+  },
+  {
+    "text": "the formation of those\nthings is a mystery as well.",
+    "start": 2057.82,
+    "duration": 2.76
+  },
+  {
+    "text": "It's presumably that they're formed",
+    "start": 2060.58,
+    "duration": 3.57
+  },
+  {
+    "text": "from the collapse of very massive stars,",
+    "start": 2064.15,
+    "duration": 1.77
+  },
+  {
+    "text": "but the number of them,\nI think it's fair to say,",
+    "start": 2065.92,
+    "duration": 4.35
+  },
+  {
+    "text": "took everybody by surprise.",
+    "start": 2070.27,
+    "duration": 1.62
+  },
+  {
+    "text": "So we've detected,",
+    "start": 2071.89,
+    "duration": 1.53
+  },
+  {
+    "text": "I don't know what the\ncurrent number is actually,",
+    "start": 2073.42,
+    "duration": 1.77
+  },
+  {
+    "text": "I'm speaking now in June, 2023,",
+    "start": 2075.19,
+    "duration": 3.84
+  },
+  {
+    "text": "that there are collisions being\ndetected reasonably often,",
+    "start": 2079.03,
+    "duration": 3.51
+  },
+  {
+    "text": "but it's tens of collisions,\nmaybe more actually.",
+    "start": 2082.54,
+    "duration": 3.21
+  },
+  {
+    "text": "But we have multiple observations",
+    "start": 2085.75,
+    "duration": 2.31
+  },
+  {
+    "text": "of collisions of black\nholes with black holes,",
+    "start": 2088.06,
+    "duration": 2.79
+  },
+  {
+    "text": "and indeed, black holes\nand neutron stars as well,",
+    "start": 2090.85,
+    "duration": 3.93
+  },
+  {
+    "text": "so it's quite a few.",
+    "start": 2094.78,
+    "duration": 1.5
+  },
+  {
+    "text": "So we are very certain now,",
+    "start": 2096.28,
+    "duration": 1.83
+  },
+  {
+    "text": "as certain as we can be,",
+    "start": 2098.11,
+    "duration": 2.22
+  },
+  {
+    "text": "that these things really exist,",
+    "start": 2100.33,
+    "duration": 1.95
+  },
+  {
+    "text": "is that we have images",
+    "start": 2102.28,
+    "duration": 1.44
+  },
+  {
+    "text": "and we have these wonderful observations",
+    "start": 2103.72,
+    "duration": 1.98
+  },
+  {
+    "text": "of the collisions of them.",
+    "start": 2105.7,
+    "duration": 1.47
+  },
+  {
+    "text": "Now, how many black holes\nmight there be out there?",
+    "start": 2107.17,
+    "duration": 3.39
+  },
+  {
+    "text": "There'll be billions of them, billions.",
+    "start": 2110.56,
+    "duration": 3.24
+  },
+  {
+    "text": "So all massive stars,",
+    "start": 2113.8,
+    "duration": 2.91
+  },
+  {
+    "text": "stars that are three,\nfour, five, six, seven,",
+    "start": 2116.71,
+    "duration": 5.0
+  },
+  {
+    "text": "10 times the mass of the Sun.",
+    "start": 2122.32,
+    "duration": 2.46
+  },
+  {
+    "text": "There are lots of stars there\nthat are above the limit",
+    "start": 2124.78,
+    "duration": 4.08
+  },
+  {
+    "text": "beyond which we understand",
+    "start": 2128.86,
+    "duration": 3.539
+  },
+  {
+    "text": "that at the end of their lives",
+    "start": 2132.399,
+    "duration": 1.411
+  },
+  {
+    "text": "when they run out of nuclear fuel,",
+    "start": 2133.81,
+    "duration": 1.68
+  },
+  {
+    "text": "they will collapse without limit.",
+    "start": 2135.49,
+    "duration": 2.37
+  },
+  {
+    "text": "Nothing will stop the\ngravitational collapse",
+    "start": 2137.86,
+    "duration": 2.76
+  },
+  {
+    "text": "and they will inextricably\nform black holes.",
+    "start": 2140.62,
+    "duration": 2.7
+  },
+  {
+    "text": "So black holes are the natural,",
+    "start": 2143.32,
+    "duration": 2.25
+  },
+  {
+    "text": "we used to say, end point\nin the lives of stars",
+    "start": 2145.57,
+    "duration": 4.57
+  },
+  {
+    "text": "above three, four times\nthe mass of our Sun.",
+    "start": 2151.0,
+    "duration": 3.42
+  },
+  {
+    "text": "We now know, of course,",
+    "start": 2154.42,
+    "duration": 1.14
+  },
+  {
+    "text": "that ultimately those black\nholes will evaporate away again,",
+    "start": 2155.56,
+    "duration": 3.27
+  },
+  {
+    "text": "but that really is an\nin principle statement",
+    "start": 2158.83,
+    "duration": 3.0
+  },
+  {
+    "text": "in the far future.",
+    "start": 2161.83,
+    "duration": 1.47
+  },
+  {
+    "text": "So the way to think about black holes",
+    "start": 2163.3,
+    "duration": 2.64
+  },
+  {
+    "text": "is that any star more than,",
+    "start": 2165.94,
+    "duration": 4.41
+  },
+  {
+    "text": "let's say, three or four\ntimes the mass of our Sun",
+    "start": 2170.35,
+    "duration": 2.73
+  },
+  {
+    "text": "and at which will form a black hole",
+    "start": 2173.08,
+    "duration": 3.0
+  },
+  {
+    "text": "when it runs out of nuclear\nfuel at the end of its life.",
+    "start": 2176.08,
+    "duration": 2.58
+  },
+  {
+    "text": "The numbers are kind of debated,",
+    "start": 2178.66,
+    "duration": 1.8
+  },
+  {
+    "text": "but let's say something\nlike 2 trillion galaxies,",
+    "start": 2180.46,
+    "duration": 3.24
+  },
+  {
+    "text": "large galaxies and smaller galaxies",
+    "start": 2183.7,
+    "duration": 1.92
+  },
+  {
+    "text": "in the observable universe.",
+    "start": 2185.62,
+    "duration": 1.92
+  },
+  {
+    "text": "It's 2,000 billion galaxies,",
+    "start": 2187.54,
+    "duration": 3.48
+  },
+  {
+    "text": "pretty much every one of those",
+    "start": 2191.02,
+    "duration": 1.26
+  },
+  {
+    "text": "will have a super massive black\nhole at its center as well.",
+    "start": 2192.28,
+    "duration": 2.94
+  },
+  {
+    "text": "So we're talking about, not\nto steal Carl Sagan's phrase,",
+    "start": 2195.22,
+    "duration": 3.99
+  },
+  {
+    "text": "but billions and billions of black holes.",
+    "start": 2199.21,
+    "duration": 3.09
+  },
+  {
+    "text": "Carl Sagan said, I never said that.",
+    "start": 2202.3,
+    "duration": 1.74
+  },
+  {
+    "text": "So I'm not stealing Carl\nSagan's phrase actually",
+    "start": 2204.04,
+    "duration": 2.13
+  },
+  {
+    "text": "'cause he says that he never\nsaid billions and billions.",
+    "start": 2206.17,
+    "duration": 2.8
+  },
+  {
+    "text": "Let me give you some glimpses",
+    "start": 2211.66,
+    "duration": 1.44
+  },
+  {
+    "text": "into why black holes are so fascinating",
+    "start": 2213.1,
+    "duration": 2.79
+  },
+  {
+    "text": "and so perplexing and wonderful.",
+    "start": 2215.89,
+    "duration": 3.15
+  },
+  {
+    "text": "So if we go back right to the beginning",
+    "start": 2219.04,
+    "duration": 1.89
+  },
+  {
+    "text": "of the work on black holes in the 1970s,",
+    "start": 2220.93,
+    "duration": 3.33
+  },
+  {
+    "text": "Jacob Bekenstein, a colleague\nof Stephen Hawkings, actually,",
+    "start": 2224.26,
+    "duration": 4.26
+  },
+  {
+    "text": "one of the first researchers",
+    "start": 2228.52,
+    "duration": 1.59
+  },
+  {
+    "text": "to really begin working on black holes",
+    "start": 2230.11,
+    "duration": 1.92
+  },
+  {
+    "text": "alongside greats like\nJohn Wheeler, for example.",
+    "start": 2232.03,
+    "duration": 3.42
+  },
+  {
+    "text": "Bekenstein noticed in\na simple calculation,",
+    "start": 2235.45,
+    "duration": 4.29
+  },
+  {
+    "text": "which was initially pretty much",
+    "start": 2239.74,
+    "duration": 2.01
+  },
+  {
+    "text": "a back-of-the-envelope\ncalculation, actually,",
+    "start": 2241.75,
+    "duration": 2.373
+  },
+  {
+    "text": "he noticed that you can ask the question,",
+    "start": 2245.14,
+    "duration": 2.52
+  },
+  {
+    "text": "you can answer the question,",
+    "start": 2247.66,
+    "duration": 1.2
+  },
+  {
+    "text": "how much information\ncan a black hole store?",
+    "start": 2248.86,
+    "duration": 4.47
+  },
+  {
+    "text": "That's a strange thing to say",
+    "start": 2253.33,
+    "duration": 1.77
+  },
+  {
+    "text": "because the model of a\nblack hole is pure geometry,",
+    "start": 2255.1,
+    "duration": 4.71
+  },
+  {
+    "text": "pure space-time.",
+    "start": 2259.81,
+    "duration": 2.01
+  },
+  {
+    "text": "So you might think,",
+    "start": 2261.82,
+    "duration": 0.833
+  },
+  {
+    "text": "well, it's not capable of\nstoring any information.",
+    "start": 2262.653,
+    "duration": 3.037
+  },
+  {
+    "text": "Now, how does some of this\nstore any information?",
+    "start": 2265.69,
+    "duration": 1.5
+  },
+  {
+    "text": "You need some structure, you need atoms,",
+    "start": 2267.19,
+    "duration": 1.68
+  },
+  {
+    "text": "or something that can\nstore bits of information.",
+    "start": 2268.87,
+    "duration": 3.3
+  },
+  {
+    "text": "Well, it turns out that you can calculate",
+    "start": 2272.17,
+    "duration": 4.2
+  },
+  {
+    "text": "that a black hole stores information,",
+    "start": 2276.37,
+    "duration": 3.03
+  },
+  {
+    "text": "and how much, this is\nthe fascinating thing.",
+    "start": 2279.4,
+    "duration": 4.83
+  },
+  {
+    "text": "So it stores in bits,",
+    "start": 2284.23,
+    "duration": 3.3
+  },
+  {
+    "text": "the information content is\nequal to the surface area",
+    "start": 2287.53,
+    "duration": 4.92
+  },
+  {
+    "text": "of the event horizon\nin square Planck units.",
+    "start": 2292.45,
+    "duration": 4.533
+  },
+  {
+    "text": "What's a Planck unit?",
+    "start": 2297.82,
+    "duration": 1.26
+  },
+  {
+    "text": "It's a fundamental\ndistance in the universe",
+    "start": 2299.08,
+    "duration": 2.85
+  },
+  {
+    "text": "that you can calculate",
+    "start": 2301.93,
+    "duration": 1.41
+  },
+  {
+    "text": "by putting together things\nlike the strength of gravity,",
+    "start": 2303.34,
+    "duration": 2.73
+  },
+  {
+    "text": "Planck's constant, speed of light.",
+    "start": 2306.07,
+    "duration": 2.763
+  },
+  {
+    "text": "It's the smallest distance,",
+    "start": 2308.833,
+    "duration": 1.887
+  },
+  {
+    "text": "often described as the smallest distance",
+    "start": 2310.72,
+    "duration": 2.31
+  },
+  {
+    "text": "that we can talk about sensibly in physics",
+    "start": 2313.03,
+    "duration": 2.79
+  },
+  {
+    "text": "as we understand it, the Planck length.",
+    "start": 2315.82,
+    "duration": 2.67
+  },
+  {
+    "text": "This is a bizarre result.",
+    "start": 2318.49,
+    "duration": 2.31
+  },
+  {
+    "text": "There's so many things that\nare bizarre about that,",
+    "start": 2320.8,
+    "duration": 2.85
+  },
+  {
+    "text": "the questions it raises.",
+    "start": 2323.65,
+    "duration": 1.5
+  },
+  {
+    "text": "But what's storing the information?",
+    "start": 2325.15,
+    "duration": 1.44
+  },
+  {
+    "text": "How is information stored?",
+    "start": 2326.59,
+    "duration": 1.92
+  },
+  {
+    "text": "Why is the information content",
+    "start": 2328.51,
+    "duration": 2.58
+  },
+  {
+    "text": "of a region of space equal to,",
+    "start": 2331.09,
+    "duration": 3.54
+  },
+  {
+    "text": "why does it have anything at all to do",
+    "start": 2334.63,
+    "duration": 1.44
+  },
+  {
+    "text": "with the surface area\nsurrounding that region",
+    "start": 2336.07,
+    "duration": 4.02
+  },
+  {
+    "text": "rather than the volume?",
+    "start": 2340.09,
+    "duration": 2.01
+  },
+  {
+    "text": "If I asked you,",
+    "start": 2342.1,
+    "duration": 1.11
+  },
+  {
+    "text": "how much information can\nyou store in your room,",
+    "start": 2343.21,
+    "duration": 2.13
+  },
+  {
+    "text": "the room that you're sitting in now,",
+    "start": 2345.34,
+    "duration": 2.01
+  },
+  {
+    "text": "just say it's a library,",
+    "start": 2347.35,
+    "duration": 1.38
+  },
+  {
+    "text": "then you would say,",
+    "start": 2348.73,
+    "duration": 0.833
+  },
+  {
+    "text": "well, it's to do with how many\nbooks I can fit in the room",
+    "start": 2349.563,
+    "duration": 2.677
+  },
+  {
+    "text": "or hard drives or whatever it is, right?",
+    "start": 2352.24,
+    "duration": 2.52
+  },
+  {
+    "text": "It's to do with the volume\nof the room, the space.",
+    "start": 2354.76,
+    "duration": 3.39
+  },
+  {
+    "text": "But black holes seem to be telling us",
+    "start": 2358.15,
+    "duration": 3.54
+  },
+  {
+    "text": "that there's something",
+    "start": 2361.69,
+    "duration": 0.833
+  },
+  {
+    "text": "about the surface surrounding a region,",
+    "start": 2362.523,
+    "duration": 3.007
+  },
+  {
+    "text": "which is fundamental.",
+    "start": 2365.53,
+    "duration": 1.65
+  },
+  {
+    "text": "This is the first glimpse, I think,",
+    "start": 2367.18,
+    "duration": 3.21
+  },
+  {
+    "text": "of an idea called holography,",
+    "start": 2370.39,
+    "duration": 2.25
+  },
+  {
+    "text": "which now seems to be correct in a sense.",
+    "start": 2372.64,
+    "duration": 4.32
+  },
+  {
+    "text": "So holography, what is that?",
+    "start": 2376.96,
+    "duration": 2.793
+  },
+  {
+    "text": "It's the idea that there\nare different descriptions",
+    "start": 2379.753,
+    "duration": 3.807
+  },
+  {
+    "text": "of our reality.",
+    "start": 2383.56,
+    "duration": 1.11
+  },
+  {
+    "text": "There's one description,",
+    "start": 2384.67,
+    "duration": 1.11
+  },
+  {
+    "text": "which is the description that\nwe're all comfortable with",
+    "start": 2385.78,
+    "duration": 3.33
+  },
+  {
+    "text": "and familiar with, I would say,",
+    "start": 2389.11,
+    "duration": 1.23
+  },
+  {
+    "text": "which is that we live in this space,",
+    "start": 2390.34,
+    "duration": 2.37
+  },
+  {
+    "text": "the three dimensions of space,",
+    "start": 2392.71,
+    "duration": 1.35
+  },
+  {
+    "text": "and time is a thing that ticks.",
+    "start": 2394.06,
+    "duration": 1.92
+  },
+  {
+    "text": "And Einstein told us that\nthey're kind of mixed up,",
+    "start": 2395.98,
+    "duration": 2.16
+  },
+  {
+    "text": "but still you have this picture\nof space being this, right,",
+    "start": 2398.14,
+    "duration": 3.75
+  },
+  {
+    "text": "the thing in which we exist.",
+    "start": 2401.89,
+    "duration": 2.28
+  },
+  {
+    "text": "There's an equivalent\ndescription, it seems,",
+    "start": 2404.17,
+    "duration": 2.82
+  },
+  {
+    "text": "it's been proved, by the way,",
+    "start": 2406.99,
+    "duration": 2.22
+  },
+  {
+    "text": "for a very specific model called AdS/CFT",
+    "start": 2409.21,
+    "duration": 3.48
+  },
+  {
+    "text": "by a physicist called Maldacena.",
+    "start": 2412.69,
+    "duration": 2.4
+  },
+  {
+    "text": "There's an equivalent description",
+    "start": 2415.09,
+    "duration": 2.22
+  },
+  {
+    "text": "which is of a theory",
+    "start": 2417.31,
+    "duration": 2.34
+  },
+  {
+    "text": "that lives purely on the\nboundary of the space",
+    "start": 2419.65,
+    "duration": 3.12
+  },
+  {
+    "text": "and it's absolutely equivalent.",
+    "start": 2422.77,
+    "duration": 1.98
+  },
+  {
+    "text": "It's an absolute perfect description,",
+    "start": 2424.75,
+    "duration": 3.51
+  },
+  {
+    "text": "a dual theory of the\ndescription of the space itself",
+    "start": 2428.26,
+    "duration": 4.41
+  },
+  {
+    "text": "in the interior of this region.",
+    "start": 2432.67,
+    "duration": 2.34
+  },
+  {
+    "text": "That's called holography because that's,",
+    "start": 2435.01,
+    "duration": 1.718
+  },
+  {
+    "text": "if you think about what a hologram is,",
+    "start": 2436.728,
+    "duration": 1.882
+  },
+  {
+    "text": "then at the very simplest level,",
+    "start": 2438.61,
+    "duration": 1.68
+  },
+  {
+    "text": "it's a piece of film,",
+    "start": 2440.29,
+    "duration": 1.95
+  },
+  {
+    "text": "but that piece of film\ncontains all the information",
+    "start": 2442.24,
+    "duration": 3.75
+  },
+  {
+    "text": "to make a three-dimensional image.",
+    "start": 2445.99,
+    "duration": 2.04
+  },
+  {
+    "text": "So all the information about\na three-dimensional image",
+    "start": 2448.03,
+    "duration": 2.46
+  },
+  {
+    "text": "is contained on a\ntwo-dimensional piece of film,",
+    "start": 2450.49,
+    "duration": 3.3
+  },
+  {
+    "text": "it's basically a hologram.",
+    "start": 2453.79,
+    "duration": 1.68
+  },
+  {
+    "text": "And it seems from our\nstudy of black holes,",
+    "start": 2455.47,
+    "duration": 2.727
+  },
+  {
+    "text": "and the hints go all the\nway back to the 1970s",
+    "start": 2458.197,
+    "duration": 2.583
+  },
+  {
+    "text": "to Jacob Bekenstein's work,",
+    "start": 2460.78,
+    "duration": 1.74
+  },
+  {
+    "text": "that our universe is like that",
+    "start": 2462.52,
+    "duration": 2.7
+  },
+  {
+    "text": "in a way that's not fully understood yet.",
+    "start": 2465.22,
+    "duration": 3.66
+  },
+  {
+    "text": "The picture is that,",
+    "start": 2468.88,
+    "duration": 1.05
+  },
+  {
+    "text": "and physicists, I always like to joke,",
+    "start": 2469.93,
+    "duration": 2.31
+  },
+  {
+    "text": "when they don't really know\nor the language isn't present,",
+    "start": 2472.24,
+    "duration": 3.15
+  },
+  {
+    "text": "then physicists often say in some sense",
+    "start": 2475.39,
+    "duration": 3.15
+  },
+  {
+    "text": "and wave their hands.",
+    "start": 2478.54,
+    "duration": 1.35
+  },
+  {
+    "text": "So in some sense,",
+    "start": 2479.89,
+    "duration": 2.34
+  },
+  {
+    "text": "there's an equivalent\ndescription of our reality",
+    "start": 2482.23,
+    "duration": 3.03
+  },
+  {
+    "text": "which lives on a boundary surrounding,",
+    "start": 2485.26,
+    "duration": 1.92
+  },
+  {
+    "text": "it's perfectly equivalent.",
+    "start": 2487.18,
+    "duration": 1.77
+  },
+  {
+    "text": "And you might ask the question,",
+    "start": 2488.95,
+    "duration": 1.05
+  },
+  {
+    "text": "well, what's the real\ndescription of reality?",
+    "start": 2490.0,
+    "duration": 2.4
+  },
+  {
+    "text": "And the answer is we don't\nknow, but they're equivalent.",
+    "start": 2492.4,
+    "duration": 2.94
+  },
+  {
+    "text": "So it's strongly\nsuggestive that there's a,",
+    "start": 2495.34,
+    "duration": 3.21
+  },
+  {
+    "text": "let me say a deeper theory,",
+    "start": 2498.55,
+    "duration": 1.77
+  },
+  {
+    "text": "but at least a different theory",
+    "start": 2500.32,
+    "duration": 2.16
+  },
+  {
+    "text": "of our experience of the\nworld, of space and time,",
+    "start": 2502.48,
+    "duration": 3.78
+  },
+  {
+    "text": "that does not have space and time in it.",
+    "start": 2506.26,
+    "duration": 3.406
+  },
+  {
+    "text": "And that's one of the wonderful surprises",
+    "start": 2509.666,
+    "duration": 4.604
+  },
+  {
+    "text": "that's really emerged from,",
+    "start": 2514.27,
+    "duration": 3.39
+  },
+  {
+    "text": "at least in part from\nthe study of black holes",
+    "start": 2517.66,
+    "duration": 2.33
+  },
+  {
+    "text": "in the attempt to answer the\nvery well posed questions",
+    "start": 2519.99,
+    "duration": 4.24
+  },
+  {
+    "text": "that black holes pose.",
+    "start": 2524.23,
+    "duration": 2.22
+  },
+  {
+    "text": "I should say that the\nwork done by Maldacena,",
+    "start": 2526.45,
+    "duration": 3.535
+  },
+  {
+    "text": "the AdS/CFT correspondence,\nwas purely mathematical.",
+    "start": 2529.985,
+    "duration": 4.595
+  },
+  {
+    "text": "So it wasn't framed in\nthe study of black holes,",
+    "start": 2534.58,
+    "duration": 4.32
+  },
+  {
+    "text": "although the questions\nultimately seem to be",
+    "start": 2538.9,
+    "duration": 3.3
+  },
+  {
+    "text": "intimately related.",
+    "start": 2542.2,
+    "duration": 1.44
+  },
+  {
+    "text": "So that's number one.",
+    "start": 2543.64,
+    "duration": 1.2
+  },
+  {
+    "text": "So the study of black holes\nseems to be strongly suggesting",
+    "start": 2544.84,
+    "duration": 3.45
+  },
+  {
+    "text": "that these ideas of holography,\nholographic universe,",
+    "start": 2548.29,
+    "duration": 3.84
+  },
+  {
+    "text": "which came from a different\nregion of physics, actually,",
+    "start": 2552.13,
+    "duration": 4.443
+  },
+  {
+    "text": "from trying to understand other things,",
+    "start": 2557.59,
+    "duration": 1.77
+  },
+  {
+    "text": "those descriptions may be valid,",
+    "start": 2559.36,
+    "duration": 2.1
+  },
+  {
+    "text": "may be useful,",
+    "start": 2561.46,
+    "duration": 1.74
+  },
+  {
+    "text": "may be, in some sense, true.",
+    "start": 2563.2,
+    "duration": 2.46
+  },
+  {
+    "text": "The other remarkable\nthing for me, I think,",
+    "start": 2565.66,
+    "duration": 3.11
+  },
+  {
+    "text": "in the study of black holes\nis an intimate relationship",
+    "start": 2568.77,
+    "duration": 3.76
+  },
+  {
+    "text": "between black hole physics\nand quantum computing.",
+    "start": 2572.53,
+    "duration": 3.3
+  },
+  {
+    "text": "This was wholly unexpected,",
+    "start": 2575.83,
+    "duration": 2.31
+  },
+  {
+    "text": "I think it's fair to say.",
+    "start": 2578.14,
+    "duration": 1.47
+  },
+  {
+    "text": "The relationship comes by saying,",
+    "start": 2579.61,
+    "duration": 2.58
+  },
+  {
+    "text": "okay, so there's a theory on\na boundary, a quantum theory,",
+    "start": 2582.19,
+    "duration": 5.0
+  },
+  {
+    "text": "which is a perfect description,",
+    "start": 2587.26,
+    "duration": 1.98
+  },
+  {
+    "text": "a dual description of the\nphysics of the interior",
+    "start": 2589.24,
+    "duration": 3.18
+  },
+  {
+    "text": "of a region of space.",
+    "start": 2592.42,
+    "duration": 1.44
+  },
+  {
+    "text": "You might say then, well,",
+    "start": 2593.86,
+    "duration": 1.08
+  },
+  {
+    "text": "how is information\nencoded on this boundary?",
+    "start": 2594.94,
+    "duration": 4.68
+  },
+  {
+    "text": "How does that relate to the physics",
+    "start": 2599.62,
+    "duration": 1.7
+  },
+  {
+    "text": "of the interior space and time?",
+    "start": 2601.32,
+    "duration": 2.53
+  },
+  {
+    "text": "And it seems that we're\nbeginning to glimpse an answer,",
+    "start": 2603.85,
+    "duration": 2.64
+  },
+  {
+    "text": "at least in very simplified models.",
+    "start": 2606.49,
+    "duration": 3.39
+  },
+  {
+    "text": "And it seems that the information",
+    "start": 2609.88,
+    "duration": 2.55
+  },
+  {
+    "text": "is stored on the boundary redundantly,",
+    "start": 2612.43,
+    "duration": 3.87
+  },
+  {
+    "text": "which means that you can lose a bit of it",
+    "start": 2616.3,
+    "duration": 2.58
+  },
+  {
+    "text": "and still fully specify the\nphysics of the interior,",
+    "start": 2618.88,
+    "duration": 3.81
+  },
+  {
+    "text": "redundant storage of information.",
+    "start": 2622.69,
+    "duration": 3.3
+  },
+  {
+    "text": "Now, if we go to quantum computers,",
+    "start": 2625.99,
+    "duration": 1.65
+  },
+  {
+    "text": "there's an engineering challenge",
+    "start": 2627.64,
+    "duration": 2.28
+  },
+  {
+    "text": "in building quantum computers.",
+    "start": 2629.92,
+    "duration": 1.98
+  },
+  {
+    "text": "And just to emphasize,\nwe have these things,",
+    "start": 2631.9,
+    "duration": 2.13
+  },
+  {
+    "text": "they're not theoretical,",
+    "start": 2634.03,
+    "duration": 1.35
+  },
+  {
+    "text": "they exist in labs across the world.",
+    "start": 2635.38,
+    "duration": 3.12
+  },
+  {
+    "text": "There's a challenge,",
+    "start": 2638.5,
+    "duration": 1.53
+  },
+  {
+    "text": "which is how to store information",
+    "start": 2640.03,
+    "duration": 3.18
+  },
+  {
+    "text": "in the memory of the quantum\ncomputer safely, robustly,",
+    "start": 2643.21,
+    "duration": 5.0
+  },
+  {
+    "text": "because quantum computer memory\nis notoriously susceptible",
+    "start": 2648.28,
+    "duration": 4.59
+  },
+  {
+    "text": "to any interference from\nthe outside environment.",
+    "start": 2652.87,
+    "duration": 3.62
+  },
+  {
+    "text": "If any of the environment\nin which the memory sits",
+    "start": 2656.49,
+    "duration": 3.7
+  },
+  {
+    "text": "interacts with the memory in any way,",
+    "start": 2660.19,
+    "duration": 2.34
+  },
+  {
+    "text": "then the information is destroyed.",
+    "start": 2662.53,
+    "duration": 1.86
+  },
+  {
+    "text": "So it's a tremendous challenge.",
+    "start": 2664.39,
+    "duration": 1.68
+  },
+  {
+    "text": "And there are deep problems\nassociated with the fact",
+    "start": 2666.07,
+    "duration": 3.48
+  },
+  {
+    "text": "that you can't copy information\nin quantum mechanics,",
+    "start": 2669.55,
+    "duration": 4.02
+  },
+  {
+    "text": "which is basically the\nway that your iPhone,",
+    "start": 2673.57,
+    "duration": 2.04
+  },
+  {
+    "text": "or whatever it is, stores information",
+    "start": 2675.61,
+    "duration": 2.82
+  },
+  {
+    "text": "and prevents errors\nentering into the memory",
+    "start": 2678.43,
+    "duration": 2.79
+  },
+  {
+    "text": "of the computers that\nwe're all familiar with.",
+    "start": 2681.22,
+    "duration": 1.8
+  },
+  {
+    "text": "It's basically copying information,",
+    "start": 2683.02,
+    "duration": 2.13
+  },
+  {
+    "text": "you can't do that in quantum mechanics.",
+    "start": 2685.15,
+    "duration": 1.86
+  },
+  {
+    "text": "Fundamental, it's called\nthe no-cloning theorem.",
+    "start": 2687.01,
+    "duration": 2.58
+  },
+  {
+    "text": "Engineers have had to develop\nvery clever algorithms",
+    "start": 2689.59,
+    "duration": 4.68
+  },
+  {
+    "text": "and ways of trying to store information",
+    "start": 2694.27,
+    "duration": 2.55
+  },
+  {
+    "text": "in quantum computer memory",
+    "start": 2696.82,
+    "duration": 1.5
+  },
+  {
+    "text": "and build the memory such\nthat it's resilient to errors.",
+    "start": 2698.32,
+    "duration": 3.36
+  },
+  {
+    "text": "And it turns out that the\nsolutions that are being proposed",
+    "start": 2701.68,
+    "duration": 3.78
+  },
+  {
+    "text": "and explored look like the\nsolutions that nature itself uses",
+    "start": 2705.46,
+    "duration": 5.0
+  },
+  {
+    "text": "in building space and\ntime from the theory,",
+    "start": 2711.52,
+    "duration": 4.5
+  },
+  {
+    "text": "the quantum theory that\nlives on the boundary.",
+    "start": 2716.02,
+    "duration": 2.46
+  },
+  {
+    "text": "It's really strange.",
+    "start": 2718.48,
+    "duration": 1.44
+  },
+  {
+    "text": "And I just emphasize,",
+    "start": 2719.92,
+    "duration": 1.77
+  },
+  {
+    "text": "you are not meant to\nunderstand what I've just said",
+    "start": 2721.69,
+    "duration": 3.03
+  },
+  {
+    "text": "because I don't understand\nwhat I've just said",
+    "start": 2724.72,
+    "duration": 2.22
+  },
+  {
+    "text": "because nobody understands\nwhat I've just said, right?",
+    "start": 2726.94,
+    "duration": 3.06
+  },
+  {
+    "text": "We are catching glimpses of this theory,",
+    "start": 2730.0,
+    "duration": 3.27
+  },
+  {
+    "text": "and that's where the\nresearch is at the moment,",
+    "start": 2733.27,
+    "duration": 2.01
+  },
+  {
+    "text": "it's why it's tremendously exciting.",
+    "start": 2735.28,
+    "duration": 1.86
+  },
+  {
+    "text": "There's papers being\npublished all the time",
+    "start": 2737.14,
+    "duration": 2.28
+  },
+  {
+    "text": "that are digging more deeply.",
+    "start": 2739.42,
+    "duration": 1.44
+  },
+  {
+    "text": "They're suggesting pictures of reality,",
+    "start": 2740.86,
+    "duration": 4.02
+  },
+  {
+    "text": "physical pictures of what's happening,",
+    "start": 2744.88,
+    "duration": 2.37
+  },
+  {
+    "text": "but there's no sense, and I emphasize it,",
+    "start": 2747.25,
+    "duration": 1.98
+  },
+  {
+    "text": "in which everybody\nagrees on these pictures.",
+    "start": 2749.23,
+    "duration": 2.34
+  },
+  {
+    "text": "So I'm giving you an interpretation,",
+    "start": 2751.57,
+    "duration": 2.493
+  },
+  {
+    "text": "and there will be other people",
+    "start": 2754.937,
+    "duration": 1.013
+  },
+  {
+    "text": "who have different interpretations,",
+    "start": 2755.95,
+    "duration": 1.98
+  },
+  {
+    "text": "but it does seem,",
+    "start": 2757.93,
+    "duration": 1.71
+  },
+  {
+    "text": "it does seem that whatever\nthis quantum theory is",
+    "start": 2759.64,
+    "duration": 4.62
+  },
+  {
+    "text": "that underlies our reality,",
+    "start": 2764.26,
+    "duration": 2.25
+  },
+  {
+    "text": "then there's some redundancy",
+    "start": 2766.51,
+    "duration": 2.34
+  },
+  {
+    "text": "in the way the information is\nstored in that quantum theory.",
+    "start": 2768.85,
+    "duration": 3.69
+  },
+  {
+    "text": "And it does seem that that's akin to",
+    "start": 2772.54,
+    "duration": 3.87
+  },
+  {
+    "text": "or similar to the way\nthat we will in the future",
+    "start": 2776.41,
+    "duration": 3.51
+  },
+  {
+    "text": "encode information in the\nmemory of quantum computers",
+    "start": 2779.92,
+    "duration": 2.46
+  },
+  {
+    "text": "to protect them from errors,",
+    "start": 2782.38,
+    "duration": 1.56
+  },
+  {
+    "text": "called a quantum error\ncorrection code in the jargon.",
+    "start": 2783.94,
+    "duration": 3.12
+  },
+  {
+    "text": "And I find that fascinating,",
+    "start": 2787.06,
+    "duration": 1.68
+  },
+  {
+    "text": "it is tantalizing,",
+    "start": 2788.74,
+    "duration": 2.46
+  },
+  {
+    "text": "it's a glimpse of something Einstein said.",
+    "start": 2791.2,
+    "duration": 2.91
+  },
+  {
+    "text": "There's a beautiful phrase,",
+    "start": 2794.11,
+    "duration": 1.53
+  },
+  {
+    "text": "which actually the\nphysicist Sean Carroll used",
+    "start": 2795.64,
+    "duration": 2.79
+  },
+  {
+    "text": "as a title of one of his books on this.",
+    "start": 2798.43,
+    "duration": 3.21
+  },
+  {
+    "text": "Einstein said that if you look\nat nature really carefully",
+    "start": 2801.64,
+    "duration": 5.0
+  },
+  {
+    "text": "and keep pulling at the\nintellectual threads",
+    "start": 2806.86,
+    "duration": 2.37
+  },
+  {
+    "text": "and keep going and just keep delving down",
+    "start": 2809.23,
+    "duration": 3.57
+  },
+  {
+    "text": "into what nature seems\nto be trying to tell us,",
+    "start": 2812.8,
+    "duration": 3.36
+  },
+  {
+    "text": "then if you're lucky and persistent,",
+    "start": 2816.16,
+    "duration": 2.88
+  },
+  {
+    "text": "you can catch a glimpse of\nsomething deeply hidden.",
+    "start": 2819.04,
+    "duration": 3.63
+  },
+  {
+    "text": "It's beautiful that, isn't it?",
+    "start": 2822.67,
+    "duration": 1.02
+  },
+  {
+    "text": "A glimpse of something deeply hidden,",
+    "start": 2823.69,
+    "duration": 2.16
+  },
+  {
+    "text": "which is the deep, underlying\nstructure of nature.",
+    "start": 2825.85,
+    "duration": 2.64
+  },
+  {
+    "text": "And it does seem that\nwe're beginning to glimpse",
+    "start": 2828.49,
+    "duration": 2.82
+  },
+  {
+    "text": "something deeply hidden from\nthe study of black holes.",
+    "start": 2831.31,
+    "duration": 3.09
+  },
+  {
+    "text": "The related, surprisingly,\nfield of quantum computing",
+    "start": 2834.4,
+    "duration": 4.59
+  },
+  {
+    "text": "and quantum information,",
+    "start": 2838.99,
+    "duration": 1.56
+  },
+  {
+    "text": "we're glimpsing something deeply hidden,",
+    "start": 2840.55,
+    "duration": 2.37
+  },
+  {
+    "text": "the deep, underlying\nstructure of reality itself.",
+    "start": 2842.92,
+    "duration": 2.97
+  },
+  {
+    "text": "And I think it's very beautiful.",
+    "start": 2845.89,
+    "duration": 1.35
+  },
+  {
+    "text": "No one really knows, I\nthink it's fair to say,",
+    "start": 2847.24,
+    "duration": 2.67
+  },
+  {
+    "text": "where this is going,",
+    "start": 2849.91,
+    "duration": 1.65
+  },
+  {
+    "text": "but they're hints of\nsomething deeply hidden.",
+    "start": 2851.56,
+    "duration": 2.823
+  },
+  {
+    "text": "Black holes may well help us understand",
+    "start": 2855.88,
+    "duration": 4.5
+  },
+  {
+    "text": "a different but related question,",
+    "start": 2860.38,
+    "duration": 2.16
+  },
+  {
+    "text": "which is what happened at the\nbeginning of the universe.",
+    "start": 2862.54,
+    "duration": 2.43
+  },
+  {
+    "text": "So I think black holes are, at the moment,",
+    "start": 2864.97,
+    "duration": 3.33
+  },
+  {
+    "text": "the most interesting\nnaturally occurring objects",
+    "start": 2868.3,
+    "duration": 3.78
+  },
+  {
+    "text": "in the sense that they're\nhelping us understand",
+    "start": 2872.08,
+    "duration": 4.29
+  },
+  {
+    "text": "or forcing us into a deeper understanding",
+    "start": 2876.37,
+    "duration": 2.88
+  },
+  {
+    "text": "of what space and time are.",
+    "start": 2879.25,
+    "duration": 1.62
+  },
+  {
+    "text": "And my view is that if we're gonna talk",
+    "start": 2880.87,
+    "duration": 1.8
+  },
+  {
+    "text": "about the origin of the universe,",
+    "start": 2882.67,
+    "duration": 1.59
+  },
+  {
+    "text": "even ask questions such as,",
+    "start": 2884.26,
+    "duration": 1.56
+  },
+  {
+    "text": "did the universe have a beginning in time,",
+    "start": 2885.82,
+    "duration": 2.88
+  },
+  {
+    "text": "which we don't know the answer to,",
+    "start": 2888.7,
+    "duration": 1.92
+  },
+  {
+    "text": "then it surely seems to me",
+    "start": 2890.62,
+    "duration": 2.46
+  },
+  {
+    "text": "that we have to understand\nwhat space and time are",
+    "start": 2893.08,
+    "duration": 2.91
+  },
+  {
+    "text": "before we can ask",
+    "start": 2895.99,
+    "duration": 1.92
+  },
+  {
+    "text": "and have any chance of\nanswering such questions.",
+    "start": 2897.91,
+    "duration": 3.06
+  },
+  {
+    "text": "And blank holes, it turns\nout, are the objects",
+    "start": 2900.97,
+    "duration": 3.69
+  },
+  {
+    "text": "that we can see, that we can observe,",
+    "start": 2904.66,
+    "duration": 2.97
+  },
+  {
+    "text": "that actually exist in nature,",
+    "start": 2907.63,
+    "duration": 2.04
+  },
+  {
+    "text": "that force us down that\nroute to ask questions,",
+    "start": 2909.67,
+    "duration": 3.69
+  },
+  {
+    "text": "sharp, well-defined questions, actually,",
+    "start": 2913.36,
+    "duration": 2.79
+  },
+  {
+    "text": "about the nature of space\nand time themselves.",
+    "start": 2916.15,
+    "duration": 2.64
+  },
+  {
+    "text": "It surely must be the case",
+    "start": 2918.79,
+    "duration": 1.65
+  },
+  {
+    "text": "that as we get a deeper\nunderstanding of what,",
+    "start": 2920.44,
+    "duration": 4.8
+  },
+  {
+    "text": "let's call it the fabric\nof the universe is,",
+    "start": 2925.24,
+    "duration": 2.52
+  },
+  {
+    "text": "then we can begin to get a\nrather deeper understanding",
+    "start": 2927.76,
+    "duration": 4.68
+  },
+  {
+    "text": "or more insight into questions",
+    "start": 2932.44,
+    "duration": 1.47
+  },
+  {
+    "text": "about the origin of the universe itself,",
+    "start": 2933.91,
+    "duration": 1.65
+  },
+  {
+    "text": "should it have one.",
+    "start": 2935.56,
+    "duration": 1.44
+  },
+  {
+    "text": "I mean, why do I keep saying,",
+    "start": 2937.0,
+    "duration": 1.62
+  },
+  {
+    "text": "should it have one, by the way?",
+    "start": 2938.62,
+    "duration": 1.2
+  },
+  {
+    "text": "'Cause you might be watching this saying,",
+    "start": 2939.82,
+    "duration": 1.59
+  },
+  {
+    "text": "well, it's a big bang.",
+    "start": 2941.41,
+    "duration": 1.14
+  },
+  {
+    "text": "We know there's a big bang,",
+    "start": 2942.55,
+    "duration": 1.08
+  },
+  {
+    "text": "and that's true,",
+    "start": 2943.63,
+    "duration": 0.833
+  },
+  {
+    "text": "we do know there was a\nthing called the big bang.",
+    "start": 2944.463,
+    "duration": 2.167
+  },
+  {
+    "text": "What do we mean by that, though?",
+    "start": 2946.63,
+    "duration": 1.92
+  },
+  {
+    "text": "We mean that 13.8 billion years ago,",
+    "start": 2948.55,
+    "duration": 3.18
+  },
+  {
+    "text": "the universe was very hot\nand very dense everywhere.",
+    "start": 2951.73,
+    "duration": 3.03
+  },
+  {
+    "text": "The region of space that now\nforms the room in which you sit",
+    "start": 2954.76,
+    "duration": 4.77
+  },
+  {
+    "text": "was very hot and very dense\n13.8 billion years ago.",
+    "start": 2959.53,
+    "duration": 3.54
+  },
+  {
+    "text": "We know that all the galaxies are receding",
+    "start": 2963.07,
+    "duration": 2.22
+  },
+  {
+    "text": "from each other at the moment.",
+    "start": 2965.29,
+    "duration": 1.47
+  },
+  {
+    "text": "And just put very simply,",
+    "start": 2966.76,
+    "duration": 2.16
+  },
+  {
+    "text": "if we make the measurements\nof how they're receding",
+    "start": 2968.92,
+    "duration": 1.98
+  },
+  {
+    "text": "and run time backwards,",
+    "start": 2970.9,
+    "duration": 1.56
+  },
+  {
+    "text": "then you find that they're\nall on top of each other",
+    "start": 2972.46,
+    "duration": 3.48
+  },
+  {
+    "text": "13.8 billion years ago.",
+    "start": 2975.94,
+    "duration": 1.98
+  },
+  {
+    "text": "So we know something\ninteresting happened back then,",
+    "start": 2977.92,
+    "duration": 2.6
+  },
+  {
+    "text": "we have a measurement to it,",
+    "start": 2980.52,
+    "duration": 1.24
+  },
+  {
+    "text": "it's not up for debate.",
+    "start": 2981.76,
+    "duration": 1.44
+  },
+  {
+    "text": "Often when people say,",
+    "start": 2983.2,
+    "duration": 0.93
+  },
+  {
+    "text": "well, how do you know\nabout this big bang thing?",
+    "start": 2984.13,
+    "duration": 2.55
+  },
+  {
+    "text": "The vast amount of evidence\nthat such a thing happened,",
+    "start": 2986.68,
+    "duration": 5.0
+  },
+  {
+    "text": "the best evidence probably\nis you can see it.",
+    "start": 2991.72,
+    "duration": 2.85
+  },
+  {
+    "text": "So we see something",
+    "start": 2994.57,
+    "duration": 1.74
+  },
+  {
+    "text": "called the cosmic microwave\nbackground radiation,",
+    "start": 2996.31,
+    "duration": 2.88
+  },
+  {
+    "text": "which is the universe as\nit was about 380,000 years",
+    "start": 2999.19,
+    "duration": 4.32
+  },
+  {
+    "text": "after the big bang.",
+    "start": 3003.51,
+    "duration": 1.38
+  },
+  {
+    "text": "What we see there, we\nhave a photograph of it,",
+    "start": 3004.89,
+    "duration": 2.82
+  },
+  {
+    "text": "is a universe that was very different",
+    "start": 3007.71,
+    "duration": 1.68
+  },
+  {
+    "text": "from the one we see today.",
+    "start": 3009.39,
+    "duration": 1.08
+  },
+  {
+    "text": "There were no stars, no\nplanets, no galaxies.",
+    "start": 3010.47,
+    "duration": 2.79
+  },
+  {
+    "text": "It's just a hot, glowing mass of gas,",
+    "start": 3013.26,
+    "duration": 2.85
+  },
+  {
+    "text": "primarily hydrogen and helium,",
+    "start": 3016.11,
+    "duration": 2.01
+  },
+  {
+    "text": "and we have a photograph of that.",
+    "start": 3018.12,
+    "duration": 2.07
+  },
+  {
+    "text": "So we know something interesting happened,",
+    "start": 3020.19,
+    "duration": 2.28
+  },
+  {
+    "text": "but do we know that that was\nthe origin of the universe?",
+    "start": 3022.47,
+    "duration": 3.81
+  },
+  {
+    "text": "No, we don't.",
+    "start": 3026.28,
+    "duration": 2.43
+  },
+  {
+    "text": "We have theories,",
+    "start": 3028.71,
+    "duration": 1.47
+  },
+  {
+    "text": "strong physical pictures of the universe",
+    "start": 3030.18,
+    "duration": 3.69
+  },
+  {
+    "text": "before the big bang,",
+    "start": 3033.87,
+    "duration": 1.68
+  },
+  {
+    "text": "in a very precise sense,",
+    "start": 3035.55,
+    "duration": 2.01
+  },
+  {
+    "text": "before the universe was hot and dense,",
+    "start": 3037.56,
+    "duration": 2.31
+  },
+  {
+    "text": "theories called inflation,",
+    "start": 3039.87,
+    "duration": 1.32
+  },
+  {
+    "text": "which say that space was still there",
+    "start": 3041.19,
+    "duration": 2.94
+  },
+  {
+    "text": "and it was expanding very fast.",
+    "start": 3044.13,
+    "duration": 2.22
+  },
+  {
+    "text": "And then that fast\nexpansion drew to a close",
+    "start": 3046.35,
+    "duration": 2.61
+  },
+  {
+    "text": "and all the energy driving that expansion",
+    "start": 3048.96,
+    "duration": 1.92
+  },
+  {
+    "text": "got dumped into space, made particles,",
+    "start": 3050.88,
+    "duration": 1.92
+  },
+  {
+    "text": "and that's what we call the big bang,",
+    "start": 3052.8,
+    "duration": 1.8
+  },
+  {
+    "text": "the so-called hot big\nbang as we term it today.",
+    "start": 3054.6,
+    "duration": 3.36
+  },
+  {
+    "text": "What happened to start inflation off?",
+    "start": 3057.96,
+    "duration": 2.97
+  },
+  {
+    "text": "The answer is we don't know.",
+    "start": 3060.93,
+    "duration": 1.59
+  },
+  {
+    "text": "When did inflation start?",
+    "start": 3062.52,
+    "duration": 2.16
+  },
+  {
+    "text": "We don't know.",
+    "start": 3064.68,
+    "duration": 0.93
+  },
+  {
+    "text": "We have a minimum time\nthat it needs to go on for,",
+    "start": 3065.61,
+    "duration": 2.76
+  },
+  {
+    "text": "but we don't know what or even\nif that phase of the universe",
+    "start": 3068.37,
+    "duration": 5.0
+  },
+  {
+    "text": "constitutes a beginning.",
+    "start": 3073.56,
+    "duration": 1.74
+  },
+  {
+    "text": "There are so many reasons\nto study black holes.",
+    "start": 3075.3,
+    "duration": 2.7
+  },
+  {
+    "text": "There's fascinating, beautiful things",
+    "start": 3078.0,
+    "duration": 2.19
+  },
+  {
+    "text": "that we know to exist in the universe",
+    "start": 3080.19,
+    "duration": 1.95
+  },
+  {
+    "text": "pose fundamental questions.",
+    "start": 3082.14,
+    "duration": 1.62
+  },
+  {
+    "text": "But one of the reasons",
+    "start": 3083.76,
+    "duration": 1.59
+  },
+  {
+    "text": "that we are really\ninterested in them is that,",
+    "start": 3085.35,
+    "duration": 3.39
+  },
+  {
+    "text": "put it this way,",
+    "start": 3088.74,
+    "duration": 0.96
+  },
+  {
+    "text": "there's singularities at\nthe end of time, right?",
+    "start": 3089.7,
+    "duration": 3.3
+  },
+  {
+    "text": "The Einstein description\nsays that inside a black hole",
+    "start": 3093.0,
+    "duration": 3.75
+  },
+  {
+    "text": "there's a singularity,",
+    "start": 3096.75,
+    "duration": 1.62
+  },
+  {
+    "text": "and locally, at least in\nthat region of the universe,",
+    "start": 3098.37,
+    "duration": 3.75
+  },
+  {
+    "text": "that constitutes the end of time.",
+    "start": 3102.12,
+    "duration": 1.86
+  },
+  {
+    "text": "There's a singularity, maybe,\nat the beginning of time,",
+    "start": 3103.98,
+    "duration": 4.2
+  },
+  {
+    "text": "the other end of time, if you like,",
+    "start": 3108.18,
+    "duration": 1.899
+  },
+  {
+    "text": "that we're also interested in.",
+    "start": 3110.079,
+    "duration": 1.5
+  },
+  {
+    "text": "You might call it the\nbig bang singularity,",
+    "start": 3112.47,
+    "duration": 2.31
+  },
+  {
+    "text": "the origin of the universe.",
+    "start": 3114.78,
+    "duration": 1.92
+  },
+  {
+    "text": "And it seems to me",
+    "start": 3116.7,
+    "duration": 1.26
+  },
+  {
+    "text": "to understand that singularity\nat the beginning of time,",
+    "start": 3117.96,
+    "duration": 4.05
+  },
+  {
+    "text": "the big bang singularity,",
+    "start": 3122.01,
+    "duration": 1.86
+  },
+  {
+    "text": "then we need to understand",
+    "start": 3123.87,
+    "duration": 1.11
+  },
+  {
+    "text": "the singularities at the end of time.",
+    "start": 3124.98,
+    "duration": 1.8
+  },
+  {
+    "text": "And the great benefit is we can see those,",
+    "start": 3126.78,
+    "duration": 2.64
+  },
+  {
+    "text": "so we can watch them bump into each other,",
+    "start": 3129.42,
+    "duration": 2.49
+  },
+  {
+    "text": "we can see them at the\ncenters of galaxies,",
+    "start": 3131.91,
+    "duration": 2.43
+  },
+  {
+    "text": "we can make observations of\nthem and we can do calculations.",
+    "start": 3134.34,
+    "duration": 4.05
+  },
+  {
+    "text": "Understanding black holes,",
+    "start": 3138.39,
+    "duration": 2.31
+  },
+  {
+    "text": "I think, will be the key to a\ndeeper theory of our universe.",
+    "start": 3140.7,
+    "duration": 5.0
+  },
+  {
+    "text": "So in that sense, I\nthink it is fair to say",
+    "start": 3147.24,
+    "duration": 4.5
+  },
+  {
+    "text": "that black holes are the keys\nto understanding the universe.",
+    "start": 3151.74,
+    "duration": 5.0
+  },
+  {
+    "text": "(lively music)",
+    "start": 3157.178,
+    "duration": 2.583
+  },
+  {
+    "text": "- [Narrator] Chapter two, Alien\nLife and the Fermi Paradox.",
+    "start": 3161.13,
+    "duration": 3.6
+  },
+  {
+    "text": "- Enrico Fermi is one\nof the great physicists,",
+    "start": 3164.73,
+    "duration": 2.67
+  },
+  {
+    "text": "legendary Italian physicists,",
+    "start": 3167.4,
+    "duration": 2.19
+  },
+  {
+    "text": "who laid many of the foundations",
+    "start": 3169.59,
+    "duration": 2.13
+  },
+  {
+    "text": "of modern 20th century physics,",
+    "start": 3171.72,
+    "duration": 1.95
+  },
+  {
+    "text": "so-called Fermi-Dirac statistics,",
+    "start": 3173.67,
+    "duration": 2.16
+  },
+  {
+    "text": "and all sorts of things.",
+    "start": 3175.83,
+    "duration": 1.5
+  },
+  {
+    "text": "If you do a degree in physics,",
+    "start": 3177.33,
+    "duration": 1.71
+  },
+  {
+    "text": "then you will spend a lot\nof time revising equations",
+    "start": 3179.04,
+    "duration": 3.54
+  },
+  {
+    "text": "and theories that Fermi did.",
+    "start": 3182.58,
+    "duration": 1.65
+  },
+  {
+    "text": "One of the great legends.",
+    "start": 3184.23,
+    "duration": 1.41
+  },
+  {
+    "text": "The Fermi paradox is probably the thing",
+    "start": 3185.64,
+    "duration": 3.99
+  },
+  {
+    "text": "he spent least time on, actually,",
+    "start": 3189.63,
+    "duration": 2.25
+  },
+  {
+    "text": "is almost one throwaway\nremark that he delivered.",
+    "start": 3191.88,
+    "duration": 4.413
+  },
+  {
+    "text": "And the question is, where are they?",
+    "start": 3197.25,
+    "duration": 3.63
+  },
+  {
+    "text": "By they, I mean aliens.",
+    "start": 3200.88,
+    "duration": 2.61
+  },
+  {
+    "text": "The heart of the Fermi paradox is this.",
+    "start": 3203.49,
+    "duration": 2.76
+  },
+  {
+    "text": "We know that we live in a big, old galaxy",
+    "start": 3206.25,
+    "duration": 5.0
+  },
+  {
+    "text": "in a big, old universe.",
+    "start": 3212.52,
+    "duration": 2.37
+  },
+  {
+    "text": "And let's, for the purposes\nof this discussion,",
+    "start": 3214.89,
+    "duration": 2.73
+  },
+  {
+    "text": "confine ourselves to the Milky Way galaxy.",
+    "start": 3217.62,
+    "duration": 2.79
+  },
+  {
+    "text": "The Milky Way galaxy",
+    "start": 3220.41,
+    "duration": 1.89
+  },
+  {
+    "text": "we now know has something\nlike 400 billion suns,",
+    "start": 3222.3,
+    "duration": 4.68
+  },
+  {
+    "text": "and we now know that most of those suns",
+    "start": 3226.98,
+    "duration": 2.16
+  },
+  {
+    "text": "have planetary systems around them.",
+    "start": 3229.14,
+    "duration": 2.1
+  },
+  {
+    "text": "So trillions of planets.",
+    "start": 3231.24,
+    "duration": 2.4
+  },
+  {
+    "text": "The galaxy's been around",
+    "start": 3233.64,
+    "duration": 1.14
+  },
+  {
+    "text": "for pretty much the age of the universe,",
+    "start": 3234.78,
+    "duration": 1.56
+  },
+  {
+    "text": "10 billion years-plus,",
+    "start": 3236.34,
+    "duration": 2.58
+  },
+  {
+    "text": "and so there's a lot of real estate",
+    "start": 3238.92,
+    "duration": 2.04
+  },
+  {
+    "text": "and there's been plenty of time",
+    "start": 3240.96,
+    "duration": 2.16
+  },
+  {
+    "text": "for civilizations to\ndevelop in the galaxy.",
+    "start": 3243.12,
+    "duration": 4.08
+  },
+  {
+    "text": "The Fermi paradox at its\nheart is the statement",
+    "start": 3247.2,
+    "duration": 5.0
+  },
+  {
+    "text": "that not withstanding the fact",
+    "start": 3253.11,
+    "duration": 2.22
+  },
+  {
+    "text": "that there have been billions of years",
+    "start": 3255.33,
+    "duration": 3.33
+  },
+  {
+    "text": "on billions of worlds for\ncivilizations to arise,",
+    "start": 3258.66,
+    "duration": 5.0
+  },
+  {
+    "text": "we see no evidence of any of\nthem in the galaxy at all.",
+    "start": 3264.51,
+    "duration": 4.74
+  },
+  {
+    "text": "So the paradox is, why?",
+    "start": 3269.25,
+    "duration": 2.19
+  },
+  {
+    "text": "It's a paradox.",
+    "start": 3271.44,
+    "duration": 1.17
+  },
+  {
+    "text": "And I think it's a very good question,",
+    "start": 3272.61,
+    "duration": 2.55
+  },
+  {
+    "text": "it's an extremely good question,",
+    "start": 3275.16,
+    "duration": 2.19
+  },
+  {
+    "text": "and there can be many answers.",
+    "start": 3277.35,
+    "duration": 1.44
+  },
+  {
+    "text": "And the great fun,",
+    "start": 3278.79,
+    "duration": 1.89
+  },
+  {
+    "text": "or the great, I would say\nthe intellectual value",
+    "start": 3280.68,
+    "duration": 2.31
+  },
+  {
+    "text": "of the Fermi paradox.",
+    "start": 3282.99,
+    "duration": 1.41
+  },
+  {
+    "text": "So if we accept that we haven't seen any,",
+    "start": 3284.4,
+    "duration": 2.07
+  },
+  {
+    "text": "so let's accept that,",
+    "start": 3286.47,
+    "duration": 1.32
+  },
+  {
+    "text": "let's accept that there isn't\na UFO sat in some warehouse",
+    "start": 3287.79,
+    "duration": 4.29
+  },
+  {
+    "text": "in Roswell or something like that.",
+    "start": 3292.08,
+    "duration": 1.35
+  },
+  {
+    "text": "Let's accept that we haven't seen any.",
+    "start": 3293.43,
+    "duration": 1.68
+  },
+  {
+    "text": "Let's accept,",
+    "start": 3295.11,
+    "duration": 1.92
+  },
+  {
+    "text": "well, we have to accept the picture",
+    "start": 3297.03,
+    "duration": 1.5
+  },
+  {
+    "text": "that I've just given you\nabout the Milky Way galaxy",
+    "start": 3298.53,
+    "duration": 1.95
+  },
+  {
+    "text": "and its age 'cause that's a measurement,",
+    "start": 3300.48,
+    "duration": 1.53
+  },
+  {
+    "text": "so we know that.",
+    "start": 3302.01,
+    "duration": 0.9
+  },
+  {
+    "text": "The question is then, why?",
+    "start": 3302.91,
+    "duration": 1.8
+  },
+  {
+    "text": "How do we resolve these\napparent contradictions",
+    "start": 3304.71,
+    "duration": 3.27
+  },
+  {
+    "text": "and paradoxes?",
+    "start": 3307.98,
+    "duration": 1.023
+  },
+  {
+    "text": "So one answer to the Fermi paradox",
+    "start": 3310.23,
+    "duration": 3.38
+  },
+  {
+    "text": "is the idea that we\ndon't seem to see anyone,",
+    "start": 3313.61,
+    "duration": 3.1
+  },
+  {
+    "text": "is that no one ever evolved, right,",
+    "start": 3316.71,
+    "duration": 3.69
+  },
+  {
+    "text": "so life didn't get complex.",
+    "start": 3320.4,
+    "duration": 2.34
+  },
+  {
+    "text": "Why might we think that?",
+    "start": 3322.74,
+    "duration": 2.28
+  },
+  {
+    "text": "Well, what did we need",
+    "start": 3325.02,
+    "duration": 2.19
+  },
+  {
+    "text": "to produce our civilization\non this planet?",
+    "start": 3327.21,
+    "duration": 3.12
+  },
+  {
+    "text": "Well, on this planet,",
+    "start": 3330.33,
+    "duration": 2.1
+  },
+  {
+    "text": "one thing we needed was time.",
+    "start": 3332.43,
+    "duration": 2.19
+  },
+  {
+    "text": "We have good evidence",
+    "start": 3334.62,
+    "duration": 1.53
+  },
+  {
+    "text": "that life was present on this\nplanet 3.8 billion years ago,",
+    "start": 3336.15,
+    "duration": 5.0
+  },
+  {
+    "text": "perhaps even earlier.",
+    "start": 3341.46,
+    "duration": 1.41
+  },
+  {
+    "text": "The planet is four and a\nhalf billion years old.",
+    "start": 3342.87,
+    "duration": 2.7
+  },
+  {
+    "text": "So we know, as a matter of fact,",
+    "start": 3345.57,
+    "duration": 3.48
+  },
+  {
+    "text": "as an observation on this planet,",
+    "start": 3349.05,
+    "duration": 2.31
+  },
+  {
+    "text": "that life was present\n3.8 billion years ago,",
+    "start": 3351.36,
+    "duration": 3.33
+  },
+  {
+    "text": "but it took 3.8 billion years,",
+    "start": 3354.69,
+    "duration": 2.85
+  },
+  {
+    "text": "give or take a few tens\nof thousands of years,",
+    "start": 3357.54,
+    "duration": 3.51
+  },
+  {
+    "text": "to go from the origin of\nlife to a civilization,",
+    "start": 3361.05,
+    "duration": 2.43
+  },
+  {
+    "text": "let's say from cell to civilization,",
+    "start": 3363.48,
+    "duration": 2.28
+  },
+  {
+    "text": "four billion years.",
+    "start": 3365.76,
+    "duration": 2.13
+  },
+  {
+    "text": "That's 1/3 of the age of the universe.",
+    "start": 3367.89,
+    "duration": 2.97
+  },
+  {
+    "text": "So a possible answer to the Fermi paradox,",
+    "start": 3370.86,
+    "duration": 4.05
+  },
+  {
+    "text": "the question of why there\nare no civilizations,",
+    "start": 3374.91,
+    "duration": 2.49
+  },
+  {
+    "text": "is because the Earth is pretty much unique",
+    "start": 3377.4,
+    "duration": 4.65
+  },
+  {
+    "text": "in the Milky Way galaxy,",
+    "start": 3382.05,
+    "duration": 1.59
+  },
+  {
+    "text": "in that it was stable enough,",
+    "start": 3383.64,
+    "duration": 2.52
+  },
+  {
+    "text": "the climate, the conditions\non Earth were stable enough",
+    "start": 3386.16,
+    "duration": 3.24
+  },
+  {
+    "text": "for long enough for life to\ngo from cell to civilization.",
+    "start": 3389.4,
+    "duration": 5.0
+  },
+  {
+    "text": "If you think about it, that's a big ask.",
+    "start": 3395.79,
+    "duration": 1.92
+  },
+  {
+    "text": "What I'm saying is on this planet",
+    "start": 3397.71,
+    "duration": 2.25
+  },
+  {
+    "text": "an unbroken chain of life existed",
+    "start": 3399.96,
+    "duration": 3.18
+  },
+  {
+    "text": "for almost four billion years,",
+    "start": 3403.14,
+    "duration": 2.28
+  },
+  {
+    "text": "not withstanding the fact",
+    "start": 3405.42,
+    "duration": 1.32
+  },
+  {
+    "text": "that we live in a violent universe.",
+    "start": 3406.74,
+    "duration": 2.25
+  },
+  {
+    "text": "The Sun must have been stable\nenough for long enough.",
+    "start": 3408.99,
+    "duration": 4.05
+  },
+  {
+    "text": "We know the output of the Sun has changed",
+    "start": 3413.04,
+    "duration": 2.16
+  },
+  {
+    "text": "over those billions of years,",
+    "start": 3415.2,
+    "duration": 1.71
+  },
+  {
+    "text": "but it's not changed so radically",
+    "start": 3416.91,
+    "duration": 2.67
+  },
+  {
+    "text": "that it managed to erase,\ndestroy life on Earth.",
+    "start": 3419.58,
+    "duration": 4.38
+  },
+  {
+    "text": "We know that we live\nin a violent universe,",
+    "start": 3423.96,
+    "duration": 2.52
+  },
+  {
+    "text": "we know there are supernova\nexplosions all over the place.",
+    "start": 3426.48,
+    "duration": 2.82
+  },
+  {
+    "text": "It turns out that there have\nbeen no stars massive enough",
+    "start": 3429.3,
+    "duration": 5.0
+  },
+  {
+    "text": "to explode as a supernova",
+    "start": 3434.97,
+    "duration": 2.49
+  },
+  {
+    "text": "in a way that would damage life on Earth",
+    "start": 3437.46,
+    "duration": 2.37
+  },
+  {
+    "text": "or erase life on Earth in this vicinity",
+    "start": 3439.83,
+    "duration": 3.18
+  },
+  {
+    "text": "for four billion years.",
+    "start": 3443.01,
+    "duration": 1.89
+  },
+  {
+    "text": "We know that nothing has happened,",
+    "start": 3444.9,
+    "duration": 2.04
+  },
+  {
+    "text": "like we know that there've been\nimpacts on the Earth, right?",
+    "start": 3446.94,
+    "duration": 2.97
+  },
+  {
+    "text": "We know the famous impact",
+    "start": 3449.91,
+    "duration": 1.71
+  },
+  {
+    "text": "that wipes out the large dinosaurs.",
+    "start": 3451.62,
+    "duration": 3.57
+  },
+  {
+    "text": "There's been no impact being enough",
+    "start": 3455.19,
+    "duration": 1.56
+  },
+  {
+    "text": "to destroy the unbroken chain",
+    "start": 3456.75,
+    "duration": 1.98
+  },
+  {
+    "text": "or break the unbroken chain of\nlife for four billion years.",
+    "start": 3458.73,
+    "duration": 3.27
+  },
+  {
+    "text": "So maybe, maybe it's the case",
+    "start": 3462.0,
+    "duration": 3.78
+  },
+  {
+    "text": "that whilst there are billions of planets",
+    "start": 3465.78,
+    "duration": 2.76
+  },
+  {
+    "text": "which may have liquid\nwater on the surface,",
+    "start": 3468.54,
+    "duration": 3.21
+  },
+  {
+    "text": "may have oceans that can support life,",
+    "start": 3471.75,
+    "duration": 2.64
+  },
+  {
+    "text": "it may be that none of those\nplanets in the Milky Way galaxy",
+    "start": 3474.39,
+    "duration": 3.18
+  },
+  {
+    "text": "have been stable enough for long enough",
+    "start": 3477.57,
+    "duration": 1.8
+  },
+  {
+    "text": "to produce a civilization.",
+    "start": 3479.37,
+    "duration": 1.68
+  },
+  {
+    "text": "So that would be a property\nof the planet itself,",
+    "start": 3481.05,
+    "duration": 3.42
+  },
+  {
+    "text": "the so-called Rare Earth hypothesis.",
+    "start": 3484.47,
+    "duration": 2.55
+  },
+  {
+    "text": "Actually, I should say it's\na property of a solar system,",
+    "start": 3487.02,
+    "duration": 2.97
+  },
+  {
+    "text": "it's not really just a\nproperty of the planet.",
+    "start": 3489.99,
+    "duration": 2.34
+  },
+  {
+    "text": "It's a property of the parent star.",
+    "start": 3492.33,
+    "duration": 2.01
+  },
+  {
+    "text": "You could ask the question,",
+    "start": 3494.34,
+    "duration": 1.08
+  },
+  {
+    "text": "well, if it was a binary\nsystem, for example,",
+    "start": 3495.42,
+    "duration": 2.13
+  },
+  {
+    "text": "a binary star system,",
+    "start": 3497.55,
+    "duration": 1.44
+  },
+  {
+    "text": "many stars are binary star systems,",
+    "start": 3498.99,
+    "duration": 2.94
+  },
+  {
+    "text": "is it possible to have a\nplanet with a stable climate,",
+    "start": 3501.93,
+    "duration": 4.59
+  },
+  {
+    "text": "stable enough orbit in\na binary star system,",
+    "start": 3506.52,
+    "duration": 3.84
+  },
+  {
+    "text": "to support an unbroken chain\nof life for four billion years?",
+    "start": 3510.36,
+    "duration": 2.82
+  },
+  {
+    "text": "Perhaps not.",
+    "start": 3513.18,
+    "duration": 0.96
+  },
+  {
+    "text": "When we talk about rare Earth,",
+    "start": 3514.14,
+    "duration": 1.923
+  },
+  {
+    "text": "I think I would like to talk\nabout rare solar system.",
+    "start": 3517.17,
+    "duration": 3.66
+  },
+  {
+    "text": "Another possibility with the Fermi paradox",
+    "start": 3520.83,
+    "duration": 2.28
+  },
+  {
+    "text": "is that it's not a paradox, they are here.",
+    "start": 3523.11,
+    "duration": 2.73
+  },
+  {
+    "text": "So there are intelligent\ncivilizations out there",
+    "start": 3525.84,
+    "duration": 2.31
+  },
+  {
+    "text": "and they are present in the solar system.",
+    "start": 3528.15,
+    "duration": 2.1
+  },
+  {
+    "text": "It's possible.",
+    "start": 3530.25,
+    "duration": 1.17
+  },
+  {
+    "text": "Let's think, for example,",
+    "start": 3531.42,
+    "duration": 1.68
+  },
+  {
+    "text": "what such an intelligence might look like.",
+    "start": 3533.1,
+    "duration": 2.61
+  },
+  {
+    "text": "Well, who knows?",
+    "start": 3535.71,
+    "duration": 1.11
+  },
+  {
+    "text": "They could have sent nano\nmachines to our solar system.",
+    "start": 3536.82,
+    "duration": 4.44
+  },
+  {
+    "text": "There could be probes all over the place",
+    "start": 3541.26,
+    "duration": 1.86
+  },
+  {
+    "text": "in the solar system,",
+    "start": 3543.12,
+    "duration": 0.84
+  },
+  {
+    "text": "but if they're the size of an iPhone,",
+    "start": 3543.96,
+    "duration": 2.1
+  },
+  {
+    "text": "then we'd have no way of detecting them.",
+    "start": 3546.06,
+    "duration": 2.52
+  },
+  {
+    "text": "So it could be the technology",
+    "start": 3548.58,
+    "duration": 2.94
+  },
+  {
+    "text": "of a sufficiently advanced\nalien species, a civilization,",
+    "start": 3551.52,
+    "duration": 4.47
+  },
+  {
+    "text": "is so beyond anything we\ncan comprehend or detect",
+    "start": 3555.99,
+    "duration": 3.87
+  },
+  {
+    "text": "that we haven't seen it",
+    "start": 3559.86,
+    "duration": 1.14
+  },
+  {
+    "text": "and we've been fooled into thinking",
+    "start": 3561.0,
+    "duration": 2.04
+  },
+  {
+    "text": "that there are no advanced\ncivilizations in the galaxy,",
+    "start": 3563.04,
+    "duration": 2.64
+  },
+  {
+    "text": "and that's certainly entirely possible.",
+    "start": 3565.68,
+    "duration": 3.603
+  },
+  {
+    "text": "Another possibility,",
+    "start": 3570.15,
+    "duration": 1.17
+  },
+  {
+    "text": "another possible resolution\nto the Fermi paradox,",
+    "start": 3571.32,
+    "duration": 2.7
+  },
+  {
+    "text": "is just that the galaxy is so big,",
+    "start": 3574.02,
+    "duration": 3.78
+  },
+  {
+    "text": "the distances between stars are so great",
+    "start": 3577.8,
+    "duration": 3.39
+  },
+  {
+    "text": "that if you imagine there's\nanother civilization,",
+    "start": 3581.19,
+    "duration": 2.55
+  },
+  {
+    "text": "let's say on the other side of our galaxy,",
+    "start": 3583.74,
+    "duration": 2.13
+  },
+  {
+    "text": "let's say 20 million, 30 million,",
+    "start": 3585.87,
+    "duration": 2.88
+  },
+  {
+    "text": "40 million light-years away,",
+    "start": 3588.75,
+    "duration": 1.86
+  },
+  {
+    "text": "even if they had the most\npowerful radio transmitters",
+    "start": 3590.61,
+    "duration": 3.66
+  },
+  {
+    "text": "you could imagine",
+    "start": 3594.27,
+    "duration": 1.08
+  },
+  {
+    "text": "or even if they'd spread out\nto neighboring solar systems,",
+    "start": 3595.35,
+    "duration": 3.48
+  },
+  {
+    "text": "then it may just be that\nthe distances are so great",
+    "start": 3598.83,
+    "duration": 3.15
+  },
+  {
+    "text": "that the signals are diluted,",
+    "start": 3601.98,
+    "duration": 1.98
+  },
+  {
+    "text": "that we can't detect them\nbecause they're too weak,",
+    "start": 3603.96,
+    "duration": 3.21
+  },
+  {
+    "text": "or that it's just very,\nvery, very difficult",
+    "start": 3607.17,
+    "duration": 4.08
+  },
+  {
+    "text": "in an engineering sense to\nbuild interstellar spacecraft.",
+    "start": 3611.25,
+    "duration": 3.99
+  },
+  {
+    "text": "Now, perhaps you can build a spacecraft",
+    "start": 3615.24,
+    "duration": 1.56
+  },
+  {
+    "text": "that can hop a few light-years away",
+    "start": 3616.8,
+    "duration": 2.28
+  },
+  {
+    "text": "to the nearby solar system,",
+    "start": 3619.08,
+    "duration": 1.5
+  },
+  {
+    "text": "four light-years, in our\ncase, to Alpha Centauri,",
+    "start": 3620.58,
+    "duration": 3.0
+  },
+  {
+    "text": "but you can't build spacecraft\nthat can traverse a galaxy.",
+    "start": 3623.58,
+    "duration": 5.0
+  },
+  {
+    "text": "That's a possibility.",
+    "start": 3628.74,
+    "duration": 1.47
+  },
+  {
+    "text": "One of the arguments against\nthat for me is the argument,",
+    "start": 3630.21,
+    "duration": 3.93
+  },
+  {
+    "text": "it's called the space travel argument",
+    "start": 3634.14,
+    "duration": 1.68
+  },
+  {
+    "text": "against the existence of\nextraterrestrial life.",
+    "start": 3635.82,
+    "duration": 3.42
+  },
+  {
+    "text": "And it's often framed in terms\nof self-replicating machines,",
+    "start": 3639.24,
+    "duration": 3.45
+  },
+  {
+    "text": "so-called Von Neumann machines.",
+    "start": 3642.69,
+    "duration": 1.83
+  },
+  {
+    "text": "So imagine it's possible\nfor us, for a civilization,",
+    "start": 3644.52,
+    "duration": 4.41
+  },
+  {
+    "text": "to build a machine, some kind of AI,",
+    "start": 3648.93,
+    "duration": 2.97
+  },
+  {
+    "text": "that's sufficiently smart and capable",
+    "start": 3651.9,
+    "duration": 3.18
+  },
+  {
+    "text": "that it can fly to a nearby solar system,",
+    "start": 3655.08,
+    "duration": 3.57
+  },
+  {
+    "text": "reproduce itself, copy itself,",
+    "start": 3658.65,
+    "duration": 2.67
+  },
+  {
+    "text": "and then send the copy out",
+    "start": 3661.32,
+    "duration": 1.44
+  },
+  {
+    "text": "to the next solar system and so on.",
+    "start": 3662.76,
+    "duration": 2.1
+  },
+  {
+    "text": "So you have, if you build\none successful replicator,",
+    "start": 3664.86,
+    "duration": 5.0
+  },
+  {
+    "text": "you have an exponentiation of replicators,",
+    "start": 3671.61,
+    "duration": 3.63
+  },
+  {
+    "text": "you have one and then two and then four",
+    "start": 3675.24,
+    "duration": 2.88
+  },
+  {
+    "text": "and then eight and so on,",
+    "start": 3678.12,
+    "duration": 1.02
+  },
+  {
+    "text": "exponential growth.",
+    "start": 3679.14,
+    "duration": 1.5
+  },
+  {
+    "text": "And you can show that even\ngiven our rocketry technology,",
+    "start": 3680.64,
+    "duration": 5.0
+  },
+  {
+    "text": "you can cover a galaxy like the Milky Way",
+    "start": 3685.74,
+    "duration": 2.73
+  },
+  {
+    "text": "in a reasonably short space of time.",
+    "start": 3688.47,
+    "duration": 3.33
+  },
+  {
+    "text": "By reasonably short",
+    "start": 3691.8,
+    "duration": 1.59
+  },
+  {
+    "text": "I might even mean 100\nmillion years, right?",
+    "start": 3693.39,
+    "duration": 3.06
+  },
+  {
+    "text": "That's reasonably short\non galactic timescales.",
+    "start": 3696.45,
+    "duration": 2.58
+  },
+  {
+    "text": "But the key point",
+    "start": 3699.03,
+    "duration": 0.833
+  },
+  {
+    "text": "is once a single successful\nreplicator has been launched,",
+    "start": 3699.863,
+    "duration": 4.977
+  },
+  {
+    "text": "then it is inevitable",
+    "start": 3706.05,
+    "duration": 2.55
+  },
+  {
+    "text": "that over a few tens of millions of years,",
+    "start": 3708.6,
+    "duration": 3.6
+  },
+  {
+    "text": "the galaxy will be\ncovered with replicators,",
+    "start": 3712.2,
+    "duration": 2.76
+  },
+  {
+    "text": "and we don't see any evidence of them.",
+    "start": 3714.96,
+    "duration": 2.07
+  },
+  {
+    "text": "It's possible that we can infer",
+    "start": 3717.03,
+    "duration": 3.09
+  },
+  {
+    "text": "that if we assume that\nwe could detect them,",
+    "start": 3720.12,
+    "duration": 2.76
+  },
+  {
+    "text": "then the absence of them\nmay allow us to infer",
+    "start": 3722.88,
+    "duration": 4.41
+  },
+  {
+    "text": "that no civilization has\never got to that point.",
+    "start": 3727.29,
+    "duration": 2.82
+  },
+  {
+    "text": "And I think that's quite\na persuasive argument.",
+    "start": 3730.11,
+    "duration": 2.463
+  },
+  {
+    "text": "Now, it's possible",
+    "start": 3733.41,
+    "duration": 1.05
+  },
+  {
+    "text": "that there are many\ncivilizations out there,",
+    "start": 3734.46,
+    "duration": 2.82
+  },
+  {
+    "text": "but the advanced civilizations\nchoose to remain hidden,",
+    "start": 3737.28,
+    "duration": 4.62
+  },
+  {
+    "text": "something that's called\na dark forest hypothesis,",
+    "start": 3741.9,
+    "duration": 2.43
+  },
+  {
+    "text": "a quarantine hypothesis.",
+    "start": 3744.33,
+    "duration": 1.92
+  },
+  {
+    "text": "We've been asked to make moral judgements",
+    "start": 3746.25,
+    "duration": 2.49
+  },
+  {
+    "text": "or judgements on how a\ncivilization will behave,",
+    "start": 3748.74,
+    "duration": 4.62
+  },
+  {
+    "text": "what they will choose to do,",
+    "start": 3753.36,
+    "duration": 1.35
+  },
+  {
+    "text": "and that's of course, impossible to judge.",
+    "start": 3754.71,
+    "duration": 3.06
+  },
+  {
+    "text": "But let's imagine civilizations,",
+    "start": 3757.77,
+    "duration": 2.73
+  },
+  {
+    "text": "when they get technologically advanced,",
+    "start": 3760.5,
+    "duration": 1.86
+  },
+  {
+    "text": "also get intellectually, morally advanced.",
+    "start": 3762.36,
+    "duration": 3.12
+  },
+  {
+    "text": "And let's say that they choose\nperhaps for good reason,",
+    "start": 3765.48,
+    "duration": 3.42
+  },
+  {
+    "text": "let's say they choose to remain hidden",
+    "start": 3768.9,
+    "duration": 1.5
+  },
+  {
+    "text": "because they don't want to\ndraw attention to themselves.",
+    "start": 3770.4,
+    "duration": 3.42
+  },
+  {
+    "text": "Let's say it's inevitable",
+    "start": 3773.82,
+    "duration": 1.77
+  },
+  {
+    "text": "that if you think about it carefully",
+    "start": 3775.59,
+    "duration": 2.37
+  },
+  {
+    "text": "and you think",
+    "start": 3777.96,
+    "duration": 0.833
+  },
+  {
+    "text": "there are other advanced\ncivilizations out there,",
+    "start": 3778.793,
+    "duration": 2.467
+  },
+  {
+    "text": "then you choose to remain silent,",
+    "start": 3781.26,
+    "duration": 2.61
+  },
+  {
+    "text": "you hide yourself as best you can.",
+    "start": 3783.87,
+    "duration": 2.22
+  },
+  {
+    "text": "It's possible that that's the way",
+    "start": 3786.09,
+    "duration": 1.89
+  },
+  {
+    "text": "that a civilization would think,",
+    "start": 3787.98,
+    "duration": 1.74
+  },
+  {
+    "text": "maybe that's a logical thing to do.",
+    "start": 3789.72,
+    "duration": 2.01
+  },
+  {
+    "text": "I find it difficult to\nbelieve, given human history,",
+    "start": 3791.73,
+    "duration": 5.0
+  },
+  {
+    "text": "that that's the way the\nintelligent civilizations behave.",
+    "start": 3799.65,
+    "duration": 3.54
+  },
+  {
+    "text": "We certainly haven't made any attempt",
+    "start": 3803.19,
+    "duration": 2.94
+  },
+  {
+    "text": "to remain hidden so far.",
+    "start": 3806.13,
+    "duration": 2.37
+  },
+  {
+    "text": "We've broadcast radio\nsignals out to the stars,",
+    "start": 3808.5,
+    "duration": 3.87
+  },
+  {
+    "text": "the Arecibo message, for example,",
+    "start": 3812.37,
+    "duration": 1.98
+  },
+  {
+    "text": "albeit weak ones.",
+    "start": 3814.35,
+    "duration": 1.23
+  },
+  {
+    "text": "We've launched on our space\nprobes, like Voyager, maps,",
+    "start": 3815.58,
+    "duration": 4.86
+  },
+  {
+    "text": "pulsar maps in that case,",
+    "start": 3820.44,
+    "duration": 2.1
+  },
+  {
+    "text": "which shows the location\nof our solar system",
+    "start": 3822.54,
+    "duration": 2.4
+  },
+  {
+    "text": "should any other civilization find it.",
+    "start": 3824.94,
+    "duration": 2.37
+  },
+  {
+    "text": "So at least at the moment,",
+    "start": 3827.31,
+    "duration": 2.1
+  },
+  {
+    "text": "we haven't come to the view,",
+    "start": 3829.41,
+    "duration": 2.07
+  },
+  {
+    "text": "which may be a wise view,\nbut we haven't got there,",
+    "start": 3831.48,
+    "duration": 2.67
+  },
+  {
+    "text": "that we should remain silent.",
+    "start": 3834.15,
+    "duration": 1.47
+  },
+  {
+    "text": "Quite the opposite,",
+    "start": 3835.62,
+    "duration": 0.93
+  },
+  {
+    "text": "we've tried at every opportunity\nto broadcast our existence.",
+    "start": 3836.55,
+    "duration": 5.0
+  },
+  {
+    "text": "Maybe that's 'cause, Carl\nSagan argued, I think,",
+    "start": 3842.76,
+    "duration": 4.08
+  },
+  {
+    "text": "that a sufficiently advanced civilization,",
+    "start": 3846.84,
+    "duration": 2.58
+  },
+  {
+    "text": "a civilization that can\nbuild interstellar spacecraft",
+    "start": 3849.42,
+    "duration": 3.0
+  },
+  {
+    "text": "and communicate across\ninterstellar distances,",
+    "start": 3852.42,
+    "duration": 2.88
+  },
+  {
+    "text": "perhaps is wise enough",
+    "start": 3855.3,
+    "duration": 2.91
+  },
+  {
+    "text": "to have overcome those\nprimitive instincts,",
+    "start": 3858.21,
+    "duration": 2.64
+  },
+  {
+    "text": "the instinct to cause trouble,",
+    "start": 3860.85,
+    "duration": 2.25
+  },
+  {
+    "text": "to fight wars, to colonize,",
+    "start": 3863.1,
+    "duration": 3.18
+  },
+  {
+    "text": "to walk over other civilizations.",
+    "start": 3866.28,
+    "duration": 2.46
+  },
+  {
+    "text": "Perhaps it's inevitable that\nwith technological advance",
+    "start": 3868.74,
+    "duration": 3.03
+  },
+  {
+    "text": "ultimately comes wisdom.",
+    "start": 3871.77,
+    "duration": 1.56
+  },
+  {
+    "text": "But it's a hypothesis.",
+    "start": 3873.33,
+    "duration": 1.05
+  },
+  {
+    "text": "Maybe it is,",
+    "start": 3874.38,
+    "duration": 0.93
+  },
+  {
+    "text": "maybe it's just anybody\nsufficiently clever",
+    "start": 3875.31,
+    "duration": 3.3
+  },
+  {
+    "text": "to build an interstellar spaceship",
+    "start": 3878.61,
+    "duration": 1.53
+  },
+  {
+    "text": "will be also sufficiently\nclever to hide it",
+    "start": 3880.14,
+    "duration": 2.367
+  },
+  {
+    "text": "and not draw attention to themselves.",
+    "start": 3882.507,
+    "duration": 2.433
+  },
+  {
+    "text": "Maybe it's a moral, maybe\nit's like \"Star Trek\",",
+    "start": 3884.94,
+    "duration": 2.22
+  },
+  {
+    "text": "maybe it's the prime directive.",
+    "start": 3887.16,
+    "duration": 1.62
+  },
+  {
+    "text": "Maybe it's morally certain",
+    "start": 3888.78,
+    "duration": 2.67
+  },
+  {
+    "text": "that if you're sufficiently advanced,",
+    "start": 3891.45,
+    "duration": 2.16
+  },
+  {
+    "text": "you decide to take the position",
+    "start": 3893.61,
+    "duration": 2.43
+  },
+  {
+    "text": "that you will never introduce yourself",
+    "start": 3896.04,
+    "duration": 2.64
+  },
+  {
+    "text": "or interfere with another civilization.",
+    "start": 3898.68,
+    "duration": 2.19
+  },
+  {
+    "text": "Maybe that becomes a kind of law of nature",
+    "start": 3900.87,
+    "duration": 2.67
+  },
+  {
+    "text": "for sufficiently intelligent beings,",
+    "start": 3903.54,
+    "duration": 1.5
+  },
+  {
+    "text": "maybe that's conceivable as well.",
+    "start": 3905.04,
+    "duration": 1.65
+  },
+  {
+    "text": "Another explanation for\nthe Fermi paradox might be",
+    "start": 3907.53,
+    "duration": 2.25
+  },
+  {
+    "text": "that civilizations live and die,",
+    "start": 3909.78,
+    "duration": 2.88
+  },
+  {
+    "text": "they rise and then they fall.",
+    "start": 3912.66,
+    "duration": 2.49
+  },
+  {
+    "text": "And because of the sheer\ntimescales involved",
+    "start": 3915.15,
+    "duration": 4.38
+  },
+  {
+    "text": "and the sheer size of the galaxy,",
+    "start": 3919.53,
+    "duration": 2.97
+  },
+  {
+    "text": "no two civilizations ever overlap.",
+    "start": 3922.5,
+    "duration": 2.49
+  },
+  {
+    "text": "I once had the great pleasure\nof meeting Frank Drake,",
+    "start": 3924.99,
+    "duration": 3.663
+  },
+  {
+    "text": "the Drake equation, a legend,",
+    "start": 3929.546,
+    "duration": 2.254
+  },
+  {
+    "text": "in his house.",
+    "start": 3931.8,
+    "duration": 1.11
+  },
+  {
+    "text": "And he also grows orchids.",
+    "start": 3932.91,
+    "duration": 2.34
+  },
+  {
+    "text": "And I arrived at his\nhouse just coincidentally",
+    "start": 3935.25,
+    "duration": 2.97
+  },
+  {
+    "text": "on the day that this rare orchid flowers,",
+    "start": 3938.22,
+    "duration": 3.12
+  },
+  {
+    "text": "and it flowers for, I\nthink, one or two days",
+    "start": 3941.34,
+    "duration": 3.12
+  },
+  {
+    "text": "and then goes away again for the year,",
+    "start": 3944.46,
+    "duration": 2.1
+  },
+  {
+    "text": "and then flowers again the\nnext year for one or two days.",
+    "start": 3946.56,
+    "duration": 3.33
+  },
+  {
+    "text": "And he used it as an analogy,",
+    "start": 3949.89,
+    "duration": 1.47
+  },
+  {
+    "text": "he said, \"Well, maybe\ncivilizations are like that.\"",
+    "start": 3951.36,
+    "duration": 2.16
+  },
+  {
+    "text": "So maybe civilizations\nare like rare orchids",
+    "start": 3953.52,
+    "duration": 2.4
+  },
+  {
+    "text": "and so they flower and\ndie and flower and die.",
+    "start": 3955.92,
+    "duration": 2.94
+  },
+  {
+    "text": "And just because of the\nsheer timescales involved,",
+    "start": 3958.86,
+    "duration": 2.25
+  },
+  {
+    "text": "none of them ever overlap.",
+    "start": 3961.11,
+    "duration": 1.68
+  },
+  {
+    "text": "And so there could be\nthe wreckage, the ashes,",
+    "start": 3962.79,
+    "duration": 3.36
+  },
+  {
+    "text": "the fossils of civilizations out there,",
+    "start": 3966.15,
+    "duration": 2.55
+  },
+  {
+    "text": "but of course, we'd have no way of knowing",
+    "start": 3968.7,
+    "duration": 3.57
+  },
+  {
+    "text": "until we explore the galaxy",
+    "start": 3972.27,
+    "duration": 2.01
+  },
+  {
+    "text": "and maybe find the ruins of\nthese other civilizations.",
+    "start": 3974.28,
+    "duration": 3.48
+  },
+  {
+    "text": "Who knows?",
+    "start": 3977.76,
+    "duration": 0.833
+  },
+  {
+    "text": "I mean, it's quite plausible\nif you think about it.",
+    "start": 3978.593,
+    "duration": 1.987
+  },
+  {
+    "text": "Are we gonna exist in 10,000 years time?",
+    "start": 3980.58,
+    "duration": 2.88
+  },
+  {
+    "text": "It's to a large extent in our hands.",
+    "start": 3983.46,
+    "duration": 3.15
+  },
+  {
+    "text": "Maybe we're sufficiently stupid",
+    "start": 3986.61,
+    "duration": 2.67
+  },
+  {
+    "text": "that we won't exist\nbeyond the next century.",
+    "start": 3989.28,
+    "duration": 2.2
+  },
+  {
+    "text": "There's an idea in this field",
+    "start": 3992.7,
+    "duration": 2.46
+  },
+  {
+    "text": "trying to explain the Fermi paradox",
+    "start": 3995.16,
+    "duration": 1.5
+  },
+  {
+    "text": "called the Great Filter.",
+    "start": 3996.66,
+    "duration": 1.96
+  },
+  {
+    "text": "Now, the great filter can lie\nin our future or our past.",
+    "start": 3998.62,
+    "duration": 4.31
+  },
+  {
+    "text": "So let's think about what it would mean",
+    "start": 4002.93,
+    "duration": 1.35
+  },
+  {
+    "text": "for a great filter to lie in our future.",
+    "start": 4004.28,
+    "duration": 2.7
+  },
+  {
+    "text": "That would mean that\ncivilizations do arise",
+    "start": 4006.98,
+    "duration": 4.59
+  },
+  {
+    "text": "in the Milky Way galaxy",
+    "start": 4011.57,
+    "duration": 2.04
+  },
+  {
+    "text": "and get to somewhere like the\nposition that we are at now,",
+    "start": 4013.61,
+    "duration": 4.92
+  },
+  {
+    "text": "so they develop rocketry,\nthey develop nuclear power,",
+    "start": 4018.53,
+    "duration": 3.72
+  },
+  {
+    "text": "nuclear weapons, for example,",
+    "start": 4022.25,
+    "duration": 1.62
+  },
+  {
+    "text": "they industrialize,",
+    "start": 4023.87,
+    "duration": 1.62
+  },
+  {
+    "text": "but then there's a filter in the future",
+    "start": 4025.49,
+    "duration": 2.49
+  },
+  {
+    "text": "that stops them becoming true\nspacefaring civilizations,",
+    "start": 4027.98,
+    "duration": 4.11
+  },
+  {
+    "text": "so stops them becoming\nmulti-planetary species",
+    "start": 4032.09,
+    "duration": 3.6
+  },
+  {
+    "text": "and stops them ultimately\ntraveling between solar systems",
+    "start": 4035.69,
+    "duration": 3.9
+  },
+  {
+    "text": "to begin to colonize a galaxy.",
+    "start": 4039.59,
+    "duration": 2.28
+  },
+  {
+    "text": "So, why might that be?",
+    "start": 4041.87,
+    "duration": 1.74
+  },
+  {
+    "text": "Why might there be a filter waiting for us",
+    "start": 4043.61,
+    "duration": 3.93
+  },
+  {
+    "text": "in our not too distant future",
+    "start": 4047.54,
+    "duration": 2.46
+  },
+  {
+    "text": "that's gonna stop us going onto Mars",
+    "start": 4050.0,
+    "duration": 2.34
+  },
+  {
+    "text": "and stop us escaping our solar system.",
+    "start": 4052.34,
+    "duration": 2.22
+  },
+  {
+    "text": "What might stop us from becoming\nan interplanetary species",
+    "start": 4054.56,
+    "duration": 3.93
+  },
+  {
+    "text": "and ultimately traveling\nout beyond our solar system?",
+    "start": 4058.49,
+    "duration": 2.79
+  },
+  {
+    "text": "I don't think it's technology.",
+    "start": 4061.28,
+    "duration": 2.1
+  },
+  {
+    "text": "As far as I can see,",
+    "start": 4063.38,
+    "duration": 1.26
+  },
+  {
+    "text": "I don't see anything in the\nlaws of nature in principle",
+    "start": 4064.64,
+    "duration": 4.05
+  },
+  {
+    "text": "that would stop us from becoming\nan interstellar species.",
+    "start": 4068.69,
+    "duration": 4.29
+  },
+  {
+    "text": "Might be 1,000 years in the future,",
+    "start": 4072.98,
+    "duration": 1.97
+  },
+  {
+    "text": "10,000 years in the future,",
+    "start": 4074.95,
+    "duration": 2.17
+  },
+  {
+    "text": "might be 100,000 years in the future,",
+    "start": 4077.12,
+    "duration": 2.73
+  },
+  {
+    "text": "even that, right, 100,000 years,",
+    "start": 4079.85,
+    "duration": 2.49
+  },
+  {
+    "text": "it's a blink of an eye in\nthe lifetime of the universe,",
+    "start": 4082.34,
+    "duration": 2.84
+  },
+  {
+    "text": "in the lifetime of a galaxy.",
+    "start": 4085.18,
+    "duration": 1.84
+  },
+  {
+    "text": "So I don't see any reason in principle",
+    "start": 4087.02,
+    "duration": 2.28
+  },
+  {
+    "text": "why we couldn't become an interplanetary,",
+    "start": 4089.3,
+    "duration": 3.03
+  },
+  {
+    "text": "interstellar species,",
+    "start": 4092.33,
+    "duration": 1.74
+  },
+  {
+    "text": "other than potentially our own stupidity.",
+    "start": 4094.07,
+    "duration": 3.27
+  },
+  {
+    "text": "And I think that probably,",
+    "start": 4097.34,
+    "duration": 2.46
+  },
+  {
+    "text": "it could be one of the reasons",
+    "start": 4099.8,
+    "duration": 1.83
+  },
+  {
+    "text": "why we don't see any other\ncivilizations around.",
+    "start": 4101.63,
+    "duration": 3.48
+  },
+  {
+    "text": "It could be that our knowledge,",
+    "start": 4105.11,
+    "duration": 3.51
+  },
+  {
+    "text": "our scientific prowess exceeds our wisdom,",
+    "start": 4108.62,
+    "duration": 5.0
+  },
+  {
+    "text": "exceeds our political skill.",
+    "start": 4113.63,
+    "duration": 2.34
+  },
+  {
+    "text": "It could be that once a\ncivilization develops the means",
+    "start": 4115.97,
+    "duration": 3.75
+  },
+  {
+    "text": "to destroy itself in the form,",
+    "start": 4119.72,
+    "duration": 2.64
+  },
+  {
+    "text": "for example, of nuclear\nweapons or biological weapons",
+    "start": 4122.36,
+    "duration": 4.2
+  },
+  {
+    "text": "or maybe some kind of a lack\nof control of AI, who knows,",
+    "start": 4126.56,
+    "duration": 5.0
+  },
+  {
+    "text": "it may be that once a\ncivilization acquires",
+    "start": 4132.62,
+    "duration": 2.88
+  },
+  {
+    "text": "that technical know-how,",
+    "start": 4135.5,
+    "duration": 2.19
+  },
+  {
+    "text": "then it goes ahead and destroys itself",
+    "start": 4137.69,
+    "duration": 2.88
+  },
+  {
+    "text": "essentially inexorably",
+    "start": 4140.57,
+    "duration": 1.92
+  },
+  {
+    "text": "because it's just too\ndifficult politically",
+    "start": 4142.49,
+    "duration": 3.0
+  },
+  {
+    "text": "to run a civilization that has\nthe power to destroy itself.",
+    "start": 4145.49,
+    "duration": 3.63
+  },
+  {
+    "text": "If you look back through\nour recent history,",
+    "start": 4149.12,
+    "duration": 1.74
+  },
+  {
+    "text": "there've been several\noccasions that we know about,",
+    "start": 4150.86,
+    "duration": 3.12
+  },
+  {
+    "text": "that I know about and you know about,",
+    "start": 4153.98,
+    "duration": 2.25
+  },
+  {
+    "text": "where we came very close\nto destroying ourselves",
+    "start": 4156.23,
+    "duration": 2.1
+  },
+  {
+    "text": "or at least setting us back\nto the stone age, basically.",
+    "start": 4158.33,
+    "duration": 3.48
+  },
+  {
+    "text": "The Cuban missile crisis,",
+    "start": 4161.81,
+    "duration": 1.71
+  },
+  {
+    "text": "well-documented events in\nthe 1980s, for example,",
+    "start": 4163.52,
+    "duration": 3.63
+  },
+  {
+    "text": "where there could have been\nnuclear launches and weren't,",
+    "start": 4167.15,
+    "duration": 2.43
+  },
+  {
+    "text": "and I'm sure there are many\nothers that we don't know about.",
+    "start": 4169.58,
+    "duration": 2.97
+  },
+  {
+    "text": "There's the challenge of climate change.",
+    "start": 4172.55,
+    "duration": 2.22
+  },
+  {
+    "text": "We're completely incapable of\ncoming together at the moment",
+    "start": 4174.77,
+    "duration": 5.0
+  },
+  {
+    "text": "as a global civilization\nto address that challenge.",
+    "start": 4180.02,
+    "duration": 3.24
+  },
+  {
+    "text": "That could set our civilization back.",
+    "start": 4183.26,
+    "duration": 2.28
+  },
+  {
+    "text": "Biological weapons, the threat of AI,",
+    "start": 4185.54,
+    "duration": 3.51
+  },
+  {
+    "text": "we seem to be completely incapable",
+    "start": 4189.05,
+    "duration": 2.31
+  },
+  {
+    "text": "of regulating those threats.",
+    "start": 4191.36,
+    "duration": 1.74
+  },
+  {
+    "text": "So it might just be\nalmost a law of nature.",
+    "start": 4193.1,
+    "duration": 2.46
+  },
+  {
+    "text": "Things like us,",
+    "start": 4195.56,
+    "duration": 1.653
+  },
+  {
+    "text": "things that can build an\nindustrial civilization",
+    "start": 4198.05,
+    "duration": 3.12
+  },
+  {
+    "text": "are just inherently too stupid",
+    "start": 4201.17,
+    "duration": 3.09
+  },
+  {
+    "text": "to get out there to the stars,",
+    "start": 4204.26,
+    "duration": 1.59
+  },
+  {
+    "text": "and I wouldn't put that past us.",
+    "start": 4205.85,
+    "duration": 1.86
+  },
+  {
+    "text": "My favorite's the other one,",
+    "start": 4207.71,
+    "duration": 0.99
+  },
+  {
+    "text": "so I'll do the other great filter.",
+    "start": 4208.7,
+    "duration": 1.7
+  },
+  {
+    "text": "If I was to guess,",
+    "start": 4211.25,
+    "duration": 1.17
+  },
+  {
+    "text": "and this is a guess,",
+    "start": 4212.42,
+    "duration": 1.17
+  },
+  {
+    "text": "if I was to guess why we see no evidence",
+    "start": 4213.59,
+    "duration": 4.08
+  },
+  {
+    "text": "of other civilizations out there,",
+    "start": 4217.67,
+    "duration": 1.62
+  },
+  {
+    "text": "the so-called great silence\nis what astronomers call it,",
+    "start": 4219.29,
+    "duration": 3.75
+  },
+  {
+    "text": "is because there aren't any",
+    "start": 4223.04,
+    "duration": 1.47
+  },
+  {
+    "text": "and there never have been any.",
+    "start": 4224.51,
+    "duration": 1.77
+  },
+  {
+    "text": "That's my guess.",
+    "start": 4226.28,
+    "duration": 1.17
+  },
+  {
+    "text": "The reason I guess that,",
+    "start": 4227.45,
+    "duration": 1.8
+  },
+  {
+    "text": "and I emphasize it's a guess, is biology.",
+    "start": 4229.25,
+    "duration": 3.39
+  },
+  {
+    "text": "So if you look at the\nhistory of life on Earth,",
+    "start": 4232.64,
+    "duration": 2.1
+  },
+  {
+    "text": "then we see that life began\n3.8 billion years ago,",
+    "start": 4234.74,
+    "duration": 3.84
+  },
+  {
+    "text": "let's say.",
+    "start": 4238.58,
+    "duration": 0.87
+  },
+  {
+    "text": "But then we see",
+    "start": 4239.45,
+    "duration": 1.02
+  },
+  {
+    "text": "for the best part of three\nbillion years on this planet",
+    "start": 4240.47,
+    "duration": 3.6
+  },
+  {
+    "text": "that there's nothing more\ncomplex than a single cell,",
+    "start": 4244.07,
+    "duration": 2.85
+  },
+  {
+    "text": "three billion years.",
+    "start": 4246.92,
+    "duration": 1.41
+  },
+  {
+    "text": "It's only in the last billion years or so,",
+    "start": 4248.33,
+    "duration": 2.4
+  },
+  {
+    "text": "perhaps a little bit less,",
+    "start": 4250.73,
+    "duration": 1.56
+  },
+  {
+    "text": "that multicellular life\nhas existed on this planet,",
+    "start": 4252.29,
+    "duration": 3.21
+  },
+  {
+    "text": "and there could be good\nbiological reasons for that.",
+    "start": 4255.5,
+    "duration": 3.33
+  },
+  {
+    "text": "One that springs to mind is the evolution",
+    "start": 4258.83,
+    "duration": 2.94
+  },
+  {
+    "text": "of what's called the eukaryotic cell,",
+    "start": 4261.77,
+    "duration": 2.01
+  },
+  {
+    "text": "which is the cell with the cell nucleus",
+    "start": 4263.78,
+    "duration": 1.56
+  },
+  {
+    "text": "and all little organelles\nand chloroplasts in plants",
+    "start": 4265.34,
+    "duration": 2.7
+  },
+  {
+    "text": "and all those things,",
+    "start": 4268.04,
+    "duration": 1.08
+  },
+  {
+    "text": "which form all multicellular\nliving things on the planet.",
+    "start": 4269.12,
+    "duration": 3.12
+  },
+  {
+    "text": "Those cells, which seem to be prerequisite",
+    "start": 4272.24,
+    "duration": 3.81
+  },
+  {
+    "text": "for complex multicellular life,",
+    "start": 4276.05,
+    "duration": 2.79
+  },
+  {
+    "text": "evolved once on this planet\nas far as we can tell.",
+    "start": 4278.84,
+    "duration": 4.11
+  },
+  {
+    "text": "It's pretty widely accepted,",
+    "start": 4282.95,
+    "duration": 1.98
+  },
+  {
+    "text": "it's called the fateful\nencounter hypothesis.",
+    "start": 4284.93,
+    "duration": 2.7
+  },
+  {
+    "text": "And so it seems that\nthere was a very unusual",
+    "start": 4287.63,
+    "duration": 2.22
+  },
+  {
+    "text": "evolutionary event at some point,",
+    "start": 4289.85,
+    "duration": 3.57
+  },
+  {
+    "text": "maybe a billion, a billion and a half,",
+    "start": 4293.42,
+    "duration": 2.19
+  },
+  {
+    "text": "even two billion years ago,",
+    "start": 4295.61,
+    "duration": 0.99
+  },
+  {
+    "text": "that laid the foundations for us.",
+    "start": 4296.6,
+    "duration": 2.61
+  },
+  {
+    "text": "If that's typical,",
+    "start": 4299.21,
+    "duration": 1.5
+  },
+  {
+    "text": "if it typically is the case",
+    "start": 4300.71,
+    "duration": 2.31
+  },
+  {
+    "text": "that it takes four billion\nyears from cell to civilization,",
+    "start": 4303.02,
+    "duration": 4.26
+  },
+  {
+    "text": "then I think there may be very few planets",
+    "start": 4307.28,
+    "duration": 2.28
+  },
+  {
+    "text": "in a typical galaxy",
+    "start": 4309.56,
+    "duration": 1.47
+  },
+  {
+    "text": "which is stable enough for long enough",
+    "start": 4311.03,
+    "duration": 2.22
+  },
+  {
+    "text": "for that process to proceed.",
+    "start": 4313.25,
+    "duration": 3.21
+  },
+  {
+    "text": "And we could be, for all we know,",
+    "start": 4316.46,
+    "duration": 1.62
+  },
+  {
+    "text": "on the fortunate end of\nevolutionary timescales,",
+    "start": 4318.08,
+    "duration": 3.87
+  },
+  {
+    "text": "we don't know.",
+    "start": 4321.95,
+    "duration": 0.96
+  },
+  {
+    "text": "Let's imagine that actually\nwe were on the lucky side,",
+    "start": 4322.91,
+    "duration": 2.94
+  },
+  {
+    "text": "and really on a typical planet,\nif there is such a thing,",
+    "start": 4325.85,
+    "duration": 4.53
+  },
+  {
+    "text": "then it takes three or four times as long,",
+    "start": 4330.38,
+    "duration": 2.94
+  },
+  {
+    "text": "that would exceed the\ncurrent age of the universe.",
+    "start": 4333.32,
+    "duration": 2.82
+  },
+  {
+    "text": "My guess is that whilst I\nthink there might be microbes",
+    "start": 4336.14,
+    "duration": 3.45
+  },
+  {
+    "text": "all over the place,",
+    "start": 4339.59,
+    "duration": 1.29
+  },
+  {
+    "text": "I wouldn't be surprised, I'd be delighted,",
+    "start": 4340.88,
+    "duration": 2.37
+  },
+  {
+    "text": "but I wouldn't be surprised\nif we found evidence",
+    "start": 4343.25,
+    "duration": 1.86
+  },
+  {
+    "text": "of microbes on Mars, Europa, Enceladus,",
+    "start": 4345.11,
+    "duration": 4.01
+  },
+  {
+    "text": "even in the subsurface oceans of places",
+    "start": 4350.24,
+    "duration": 3.39
+  },
+  {
+    "text": "potentially even as far\nout as Pluto, right?",
+    "start": 4353.63,
+    "duration": 2.82
+  },
+  {
+    "text": "In subsurface lakes, if they exist,",
+    "start": 4356.45,
+    "duration": 2.52
+  },
+  {
+    "text": "liquid water below the surface, who knows?",
+    "start": 4358.97,
+    "duration": 2.13
+  },
+  {
+    "text": "I wouldn't be surprised\nif we find microbes",
+    "start": 4361.1,
+    "duration": 1.71
+  },
+  {
+    "text": "all over the place.",
+    "start": 4362.81,
+    "duration": 0.99
+  },
+  {
+    "text": "But a galaxy full of\ncomplex living things,",
+    "start": 4363.8,
+    "duration": 3.33
+  },
+  {
+    "text": "other planets with not only complex life,",
+    "start": 4367.13,
+    "duration": 2.73
+  },
+  {
+    "text": "but sentient life,",
+    "start": 4369.86,
+    "duration": 1.77
+  },
+  {
+    "text": "things as smart as us,",
+    "start": 4371.63,
+    "duration": 1.77
+  },
+  {
+    "text": "things smart enough to build rockets",
+    "start": 4373.4,
+    "duration": 2.37
+  },
+  {
+    "text": "and head out to the stars,",
+    "start": 4375.77,
+    "duration": 1.65
+  },
+  {
+    "text": "my guess is that typical a\ngalaxy may have less than,",
+    "start": 4377.42,
+    "duration": 5.0
+  },
+  {
+    "text": "on average, less than one\ncivilization per galaxy,",
+    "start": 4383.18,
+    "duration": 3.69
+  },
+  {
+    "text": "let's put it that way.",
+    "start": 4386.87,
+    "duration": 1.14
+  },
+  {
+    "text": "But actually just to say\nthere's a very famous book,",
+    "start": 4388.01,
+    "duration": 1.95
+  },
+  {
+    "text": "I strongly recommend Barrow and Tipler,",
+    "start": 4389.96,
+    "duration": 2.1
+  },
+  {
+    "text": "called \"The Anthropic\nCosmological Principle\".",
+    "start": 4392.06,
+    "duration": 1.77
+  },
+  {
+    "text": "It's a great book, one of\nthe books I grew up with.",
+    "start": 4393.83,
+    "duration": 2.82
+  },
+  {
+    "text": "And in that book, Barrow and\nTipler say that in their view,",
+    "start": 4396.65,
+    "duration": 4.2
+  },
+  {
+    "text": "there might be one civilization\nin the observable universe,",
+    "start": 4400.85,
+    "duration": 5.0
+  },
+  {
+    "text": "which should be us, right?",
+    "start": 4407.09,
+    "duration": 1.92
+  },
+  {
+    "text": "So who knows whether\nwe should go that far,",
+    "start": 4409.01,
+    "duration": 3.15
+  },
+  {
+    "text": "but I think civilizations are very rare",
+    "start": 4412.16,
+    "duration": 2.43
+  },
+  {
+    "text": "and I think it's the biology.",
+    "start": 4414.59,
+    "duration": 1.77
+  },
+  {
+    "text": "So I'm guessing, I'm giving you guess,",
+    "start": 4416.36,
+    "duration": 1.92
+  },
+  {
+    "text": "I'm saying that in my opinion,",
+    "start": 4418.28,
+    "duration": 1.98
+  },
+  {
+    "text": "I think there's one civilization\nin the Milky Way galaxy",
+    "start": 4420.26,
+    "duration": 3.69
+  },
+  {
+    "text": "and there only has ever been one",
+    "start": 4423.95,
+    "duration": 2.28
+  },
+  {
+    "text": "and there might only ever be one,",
+    "start": 4426.23,
+    "duration": 1.62
+  },
+  {
+    "text": "and that's us,",
+    "start": 4427.85,
+    "duration": 0.87
+  },
+  {
+    "text": "which by the way means",
+    "start": 4428.72,
+    "duration": 1.2
+  },
+  {
+    "text": "that we have a tremendous responsibility",
+    "start": 4429.92,
+    "duration": 1.89
+  },
+  {
+    "text": "not to mess this up.",
+    "start": 4431.81,
+    "duration": 1.26
+  },
+  {
+    "text": "Because as I said to the,",
+    "start": 4433.07,
+    "duration": 1.32
+  },
+  {
+    "text": "I was asked to give a video introduction",
+    "start": 4434.39,
+    "duration": 2.22
+  },
+  {
+    "text": "to the Climate Summit,",
+    "start": 4436.61,
+    "duration": 0.96
+  },
+  {
+    "text": "the COP26 Climate Summit\nin Glasgow recently.",
+    "start": 4437.57,
+    "duration": 2.677
+  },
+  {
+    "text": "\"Give the world leaders\none minute,\" they said.",
+    "start": 4440.247,
+    "duration": 2.46
+  },
+  {
+    "text": "\"You've got a video,\nsay something to them.\"",
+    "start": 4442.707,
+    "duration": 2.183
+  },
+  {
+    "text": "And I said, I think,",
+    "start": 4444.89,
+    "duration": 0.997
+  },
+  {
+    "text": "\"Let's assume that we're\nthe only civilization",
+    "start": 4445.887,
+    "duration": 2.633
+  },
+  {
+    "text": "currently in the Milky Way galaxy,",
+    "start": 4448.52,
+    "duration": 2.34
+  },
+  {
+    "text": "perhaps the only civilization\nthere will ever be.",
+    "start": 4450.86,
+    "duration": 2.19
+  },
+  {
+    "text": "That means the Earth is\nthe only island of meaning",
+    "start": 4453.05,
+    "duration": 2.52
+  },
+  {
+    "text": "in a sea of 400 billion suns.",
+    "start": 4455.57,
+    "duration": 2.49
+  },
+  {
+    "text": "And so if we destroy this,",
+    "start": 4458.06,
+    "duration": 1.41
+  },
+  {
+    "text": "we might destroy meaning\nin a galaxy forever.",
+    "start": 4459.47,
+    "duration": 3.24
+  },
+  {
+    "text": "Discuss.\"",
+    "start": 4462.71,
+    "duration": 1.14
+  },
+  {
+    "text": "So that's my guess.",
+    "start": 4463.85,
+    "duration": 2.34
+  },
+  {
+    "text": "However, that's a hypothesis.",
+    "start": 4466.19,
+    "duration": 3.03
+  },
+  {
+    "text": "I will be delighted if it\nturns out that's not true.",
+    "start": 4469.22,
+    "duration": 4.2
+  },
+  {
+    "text": "And that's not just because\nit removes some responsibility",
+    "start": 4473.42,
+    "duration": 3.09
+  },
+  {
+    "text": "from me and you and everybody else",
+    "start": 4476.51,
+    "duration": 2.4
+  },
+  {
+    "text": "to preserve intelligence in\na galaxy of 400 billion suns",
+    "start": 4478.91,
+    "duration": 4.41
+  },
+  {
+    "text": "or the weight of responsibility is heavy,",
+    "start": 4483.32,
+    "duration": 2.88
+  },
+  {
+    "text": "but also every scientist\nshould be delighted",
+    "start": 4486.2,
+    "duration": 5.0
+  },
+  {
+    "text": "if they are shown to be wrong.",
+    "start": 4491.42,
+    "duration": 1.95
+  },
+  {
+    "text": "Because the moment you\nare shown to be wrong,",
+    "start": 4493.37,
+    "duration": 2.13
+  },
+  {
+    "text": "it means you've learned something,",
+    "start": 4495.5,
+    "duration": 1.56
+  },
+  {
+    "text": "and that's the way that\nknowledge progresses.",
+    "start": 4497.06,
+    "duration": 1.92
+  },
+  {
+    "text": "So nobody should be worried\nabout making a guess,",
+    "start": 4498.98,
+    "duration": 3.75
+  },
+  {
+    "text": "advancing a hypothesis, an educated guess,",
+    "start": 4502.73,
+    "duration": 3.45
+  },
+  {
+    "text": "or even an uneducated guest.",
+    "start": 4506.18,
+    "duration": 1.65
+  },
+  {
+    "text": "Don't worry about doing that",
+    "start": 4507.83,
+    "duration": 1.68
+  },
+  {
+    "text": "as long as the moment it\nturns out you're wrong,",
+    "start": 4509.51,
+    "duration": 3.54
+  },
+  {
+    "text": "and me being wrong, by the way,",
+    "start": 4513.05,
+    "duration": 1.29
+  },
+  {
+    "text": "would constitute a flying saucer landing",
+    "start": 4514.34,
+    "duration": 3.27
+  },
+  {
+    "text": "and some aliens coming out\nlike ET and saying hello.",
+    "start": 4517.61,
+    "duration": 2.63
+  },
+  {
+    "text": "So that would be brilliant,",
+    "start": 4520.24,
+    "duration": 1.6
+  },
+  {
+    "text": "but it would be doubly brilliant",
+    "start": 4521.84,
+    "duration": 2.58
+  },
+  {
+    "text": "because it would turn out",
+    "start": 4524.42,
+    "duration": 1.17
+  },
+  {
+    "text": "that I'd learned something\nabout the universe,",
+    "start": 4525.59,
+    "duration": 2.01
+  },
+  {
+    "text": "which is that complex\ncivilizations are not as rare",
+    "start": 4527.6,
+    "duration": 2.07
+  },
+  {
+    "text": "as I think they are or\ncivilizations aren't as rare.",
+    "start": 4529.67,
+    "duration": 2.4
+  },
+  {
+    "text": "So that would be a good thing.",
+    "start": 4532.07,
+    "duration": 1.17
+  },
+  {
+    "text": "So there's a lesson.",
+    "start": 4533.24,
+    "duration": 1.083
+  },
+  {
+    "text": "I think the biggest\nquestions are in physics.",
+    "start": 4535.61,
+    "duration": 5.0
+  },
+  {
+    "text": "How does space and time\nemerge from a deeper theory",
+    "start": 4541.52,
+    "duration": 5.0
+  },
+  {
+    "text": "if indeed space and time\nemerge from a deeper theory?",
+    "start": 4546.68,
+    "duration": 3.78
+  },
+  {
+    "text": "I want to know what time is",
+    "start": 4550.46,
+    "duration": 2.22
+  },
+  {
+    "text": "and I want to know what space is.",
+    "start": 4552.68,
+    "duration": 2.64
+  },
+  {
+    "text": "I want to know how likely\nit is that life begins",
+    "start": 4555.32,
+    "duration": 3.96
+  },
+  {
+    "text": "on a planet that has the\npotential to support it.",
+    "start": 4559.28,
+    "duration": 2.88
+  },
+  {
+    "text": "So I think a deep question",
+    "start": 4562.16,
+    "duration": 2.25
+  },
+  {
+    "text": "is the question of the origin of life.",
+    "start": 4564.41,
+    "duration": 2.7
+  },
+  {
+    "text": "How does a planet,",
+    "start": 4567.11,
+    "duration": 2.79
+  },
+  {
+    "text": "which is geologically active,\nbut devoid of biology,",
+    "start": 4569.9,
+    "duration": 3.3
+  },
+  {
+    "text": "become a planet that it has biology on it.",
+    "start": 4573.2,
+    "duration": 3.81
+  },
+  {
+    "text": "What is the transition from\ngeochemistry to biochemistry?",
+    "start": 4577.01,
+    "duration": 4.5
+  },
+  {
+    "text": "How does that happen?",
+    "start": 4581.51,
+    "duration": 1.08
+  },
+  {
+    "text": "How likely is it?",
+    "start": 4582.59,
+    "duration": 1.77
+  },
+  {
+    "text": "I want to know how likely it is",
+    "start": 4584.36,
+    "duration": 1.68
+  },
+  {
+    "text": "that given microbes on a planet,",
+    "start": 4586.04,
+    "duration": 3.12
+  },
+  {
+    "text": "those microbes will get together",
+    "start": 4589.16,
+    "duration": 1.53
+  },
+  {
+    "text": "into complex multicellular things.",
+    "start": 4590.69,
+    "duration": 2.76
+  },
+  {
+    "text": "I want to know how something as complex",
+    "start": 4593.45,
+    "duration": 1.98
+  },
+  {
+    "text": "as the human brain\nevolves in the universe,",
+    "start": 4595.43,
+    "duration": 2.85
+  },
+  {
+    "text": "how common are brains in the universe.",
+    "start": 4598.28,
+    "duration": 3.06
+  },
+  {
+    "text": "I'd like to know what it is.",
+    "start": 4601.34,
+    "duration": 1.653
+  },
+  {
+    "text": "How does this little blob of matter,",
+    "start": 4604.16,
+    "duration": 3.36
+  },
+  {
+    "text": "which is just a pattern of atoms,",
+    "start": 4607.52,
+    "duration": 2.22
+  },
+  {
+    "text": "it's just a temporary pattern of atoms,",
+    "start": 4609.74,
+    "duration": 3.21
+  },
+  {
+    "text": "how does that give rise to\nthe feeling of existence,",
+    "start": 4612.95,
+    "duration": 4.59
+  },
+  {
+    "text": "the feeling of consciousness?",
+    "start": 4617.54,
+    "duration": 1.53
+  },
+  {
+    "text": "It's often called the hard\nproblem in neuroscience",
+    "start": 4619.07,
+    "duration": 2.91
+  },
+  {
+    "text": "and it's a very hard problem.",
+    "start": 4621.98,
+    "duration": 1.65
+  },
+  {
+    "text": "So I want to know the origin\nand nature of consciousness.",
+    "start": 4623.63,
+    "duration": 4.92
+  },
+  {
+    "text": "I want to know whether it is possible",
+    "start": 4628.55,
+    "duration": 2.94
+  },
+  {
+    "text": "for a computer to be conscious,",
+    "start": 4631.49,
+    "duration": 3.45
+  },
+  {
+    "text": "not only to pass the Turing test,",
+    "start": 4634.94,
+    "duration": 2.01
+  },
+  {
+    "text": "but actually to be conscious.",
+    "start": 4636.95,
+    "duration": 1.23
+  },
+  {
+    "text": "And what do I mean by that question?",
+    "start": 4638.18,
+    "duration": 2.07
+  },
+  {
+    "text": "My guess is that it is\npossible, but I don't know.",
+    "start": 4640.25,
+    "duration": 2.88
+  },
+  {
+    "text": "I wanna know whether the\nuniverse has a beginning in time",
+    "start": 4643.13,
+    "duration": 3.6
+  },
+  {
+    "text": "or whether it's eternal.",
+    "start": 4646.73,
+    "duration": 1.65
+  },
+  {
+    "text": "I want to know what the origin\nof the laws of nature is.",
+    "start": 4648.38,
+    "duration": 4.77
+  },
+  {
+    "text": "Why is gravity so much weaker",
+    "start": 4653.15,
+    "duration": 2.31
+  },
+  {
+    "text": "than all the other three forces of nature?",
+    "start": 4655.46,
+    "duration": 2.73
+  },
+  {
+    "text": "Why does the Higgs field\nproduce masses for top quarks",
+    "start": 4658.19,
+    "duration": 5.0
+  },
+  {
+    "text": "and up quarks and down quarks,",
+    "start": 4664.85,
+    "duration": 1.62
+  },
+  {
+    "text": "but not photons?",
+    "start": 4666.47,
+    "duration": 1.65
+  },
+  {
+    "text": "I mean, I know the answer to the question,",
+    "start": 4668.12,
+    "duration": 1.44
+  },
+  {
+    "text": "it doesn't interact with photons, but why?",
+    "start": 4669.56,
+    "duration": 2.49
+  },
+  {
+    "text": "Right?",
+    "start": 4672.05,
+    "duration": 1.11
+  },
+  {
+    "text": "What's the origin of those laws of nature?",
+    "start": 4673.16,
+    "duration": 2.1
+  },
+  {
+    "text": "Is there only one way the universe can be?",
+    "start": 4675.26,
+    "duration": 2.55
+  },
+  {
+    "text": "Is there only one logical\nconstruct for a universe",
+    "start": 4677.81,
+    "duration": 4.89
+  },
+  {
+    "text": "and it's this one?",
+    "start": 4682.7,
+    "duration": 0.87
+  },
+  {
+    "text": "Are there other possible universes?",
+    "start": 4683.57,
+    "duration": 1.62
+  },
+  {
+    "text": "Do other possible universes exist?",
+    "start": 4685.19,
+    "duration": 2.13
+  },
+  {
+    "text": "Is it possible that you can have universes",
+    "start": 4687.32,
+    "duration": 2.83
+  },
+  {
+    "text": "which do not support life?",
+    "start": 4690.15,
+    "duration": 1.64
+  },
+  {
+    "text": "Is it possible?",
+    "start": 4691.79,
+    "duration": 1.23
+  },
+  {
+    "text": "How rare are universes\nthat have laws of nature",
+    "start": 4693.02,
+    "duration": 2.82
+  },
+  {
+    "text": "that can support living things?",
+    "start": 4695.84,
+    "duration": 1.59
+  },
+  {
+    "text": "I could go on.",
+    "start": 4697.43,
+    "duration": 1.063
+  },
+  {
+    "text": "(Brian laughs)",
+    "start": 4698.493,
+    "duration": 1.492
+  },
+  {
+    "text": "(lively music)",
+    "start": 4699.985,
+    "duration": 1.89
+  },
+  {
+    "text": "- [Narrator] Wanna support the channel?",
+    "start": 4701.875,
+    "duration": 1.555
+  },
+  {
+    "text": "Join the Big Think members community",
+    "start": 4703.43,
+    "duration": 1.47
+  },
+  {
+    "text": "where you get access to\nvideos early, ad-free.",
+    "start": 4704.9,
+    "duration": 2.883
+  }
+]

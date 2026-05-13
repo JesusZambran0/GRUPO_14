@@ -1,0 +1,1937 @@
+[
+  {
+    "text": "Okay, so we've got a problem right now.",
+    "start": 0.16,
+    "duration": 3.12
+  },
+  {
+    "text": "How fast do you think I'm going right",
+    "start": 1.92,
+    "duration": 7.44
+  },
+  {
+    "text": "now? 55 mph, 75 mph, 110? Uh,",
+    "start": 3.28,
+    "duration": 8.72
+  },
+  {
+    "text": "well, you're wrong because I'm going 130",
+    "start": 9.36,
+    "duration": 5.359
+  },
+  {
+    "text": "mph and it looks nothing like how it",
+    "start": 12.0,
+    "duration": 4.64
+  },
+  {
+    "text": "looks in real life. I mean, I I might as",
+    "start": 14.719,
+    "duration": 3.681
+  },
+  {
+    "text": "well be running right now. That's how",
+    "start": 16.64,
+    "duration": 3.12
+  },
+  {
+    "text": "fast that this looks. It's",
+    "start": 18.4,
+    "duration": 3.12
+  },
+  {
+    "text": "disappointing. Really, it's is",
+    "start": 19.76,
+    "duration": 3.679
+  },
+  {
+    "text": "disappointing. Why do racing games get",
+    "start": 21.52,
+    "duration": 4.56
+  },
+  {
+    "text": "this so wrong? Almost every racing game",
+    "start": 23.439,
+    "duration": 4.641
+  },
+  {
+    "text": "misrepresents what it's like to speed. I",
+    "start": 26.08,
+    "duration": 3.599
+  },
+  {
+    "text": "don't want to feel like I'm doing 55 in",
+    "start": 28.08,
+    "duration": 4.08
+  },
+  {
+    "text": "a Prius. I want to be scared like this",
+    "start": 29.679,
+    "duration": 3.841
+  },
+  {
+    "text": "footage of someone driving like a",
+    "start": 32.16,
+    "duration": 3.76
+  },
+  {
+    "text": "maniac. I want a game like this, but it",
+    "start": 33.52,
+    "duration": 4.0
+  },
+  {
+    "text": "doesn't exist. So, I'm going to take my",
+    "start": 35.92,
+    "duration": 2.959
+  },
+  {
+    "text": "list of features that will make the",
+    "start": 37.52,
+    "duration": 3.52
+  },
+  {
+    "text": "sense of speed in racing games feel real",
+    "start": 38.879,
+    "duration": 4.401
+  },
+  {
+    "text": "and create a whole new genre of racing",
+    "start": 41.04,
+    "duration": 5.24
+  },
+  {
+    "text": "games.",
+    "start": 43.28,
+    "duration": 3.0
+  },
+  {
+    "text": "So, I started by opening a fresh project",
+    "start": 47.92,
+    "duration": 4.0
+  },
+  {
+    "text": "in Unreal Engine 5 using the vehicle",
+    "start": 49.68,
+    "duration": 4.399
+  },
+  {
+    "text": "demo. And it already has a car setup,",
+    "start": 51.92,
+    "duration": 3.68
+  },
+  {
+    "text": "but we're deleting it because I'm",
+    "start": 54.079,
+    "duration": 3.12
+  },
+  {
+    "text": "starting from scratch. If I want to",
+    "start": 55.6,
+    "duration": 3.439
+  },
+  {
+    "text": "build a proper racing game, I need to",
+    "start": 57.199,
+    "duration": 3.921
+  },
+  {
+    "text": "learn how to code a car from scratch.",
+    "start": 59.039,
+    "duration": 3.601
+  },
+  {
+    "text": "The problem is I have no idea how to do",
+    "start": 61.12,
+    "duration": 3.359
+  },
+  {
+    "text": "this. So, for the first time in my life,",
+    "start": 62.64,
+    "duration": 5.479
+  },
+  {
+    "text": "I bought a course",
+    "start": 64.479,
+    "duration": 3.64
+  },
+  {
+    "text": "and I studied this course like it was no",
+    "start": 68.4,
+    "duration": 4.399
+  },
+  {
+    "text": "tomorrow and fully investigating every",
+    "start": 70.64,
+    "duration": 3.76
+  },
+  {
+    "text": "click he did, listening to every",
+    "start": 72.799,
+    "duration": 3.201
+  },
+  {
+    "text": "explanation.",
+    "start": 74.4,
+    "duration": 3.68
+  },
+  {
+    "text": "I totally did not just copy what he was",
+    "start": 76.0,
+    "duration": 4.0
+  },
+  {
+    "text": "doing word for word. And that's exactly",
+    "start": 78.08,
+    "duration": 3.92
+  },
+  {
+    "text": "why after like 2 hours, I had managed to",
+    "start": 80.0,
+    "duration": 4.08
+  },
+  {
+    "text": "set up a fully custom car. And it was it",
+    "start": 82.0,
+    "duration": 3.28
+  },
+  {
+    "text": "was honestly really satisfying. I'm not",
+    "start": 84.08,
+    "duration": 3.1
+  },
+  {
+    "text": "going to lie.",
+    "start": 85.28,
+    "duration": 3.36
+  },
+  {
+    "text": "[Music]",
+    "start": 87.18,
+    "duration": 2.9
+  },
+  {
+    "text": "What the course failed to teach me",
+    "start": 88.64,
+    "duration": 3.28
+  },
+  {
+    "text": "though was the massive amount of values",
+    "start": 90.08,
+    "duration": 3.52
+  },
+  {
+    "text": "that you need to tweak in order to get",
+    "start": 91.92,
+    "duration": 3.519
+  },
+  {
+    "text": "realistic physics for your custom car.",
+    "start": 93.6,
+    "duration": 3.36
+  },
+  {
+    "text": "And if you're brain dead like me with",
+    "start": 95.439,
+    "duration": 2.961
+  },
+  {
+    "text": "numbers, then you'll just randomly",
+    "start": 96.96,
+    "duration": 3.28
+  },
+  {
+    "text": "change stuff until it works. And it's",
+    "start": 98.4,
+    "duration": 4.079
+  },
+  {
+    "text": "working, but I got it good enough. So,",
+    "start": 100.24,
+    "duration": 3.839
+  },
+  {
+    "text": "it's time to move on. I'm only going to",
+    "start": 102.479,
+    "duration": 2.881
+  },
+  {
+    "text": "add one car into the game for now",
+    "start": 104.079,
+    "duration": 3.121
+  },
+  {
+    "text": "because that took way too long. And I",
+    "start": 105.36,
+    "duration": 3.439
+  },
+  {
+    "text": "decided to go with the iconic Ferrari",
+    "start": 107.2,
+    "duration": 6.2
+  },
+  {
+    "text": "F40 because it's beautiful, but also",
+    "start": 108.799,
+    "duration": 7.841
+  },
+  {
+    "text": "[Music]",
+    "start": 113.4,
+    "duration": 4.759
+  },
+  {
+    "text": "I mean, come on. It's You give me one of",
+    "start": 116.64,
+    "duration": 4.079
+  },
+  {
+    "text": "those right now, I'll tear it up live.",
+    "start": 118.159,
+    "duration": 4.081
+  },
+  {
+    "text": "With the driving mechanics set up, it's",
+    "start": 120.719,
+    "duration": 3.68
+  },
+  {
+    "text": "time to start on something called level",
+    "start": 122.24,
+    "duration": 3.68
+  },
+  {
+    "text": "design. My favorite thing. And",
+    "start": 124.399,
+    "duration": 2.961
+  },
+  {
+    "text": "surprisingly, level design is something",
+    "start": 125.92,
+    "duration": 4.16
+  },
+  {
+    "text": "that a lot of racing games get wrong.",
+    "start": 127.36,
+    "duration": 4.879
+  },
+  {
+    "text": "And it's because they lie about the road",
+    "start": 130.08,
+    "duration": 4.879
+  },
+  {
+    "text": "width. In Forsa Horizon 5, a two-lane",
+    "start": 132.239,
+    "duration": 4.72
+  },
+  {
+    "text": "road is so big, you can literally fit",
+    "start": 134.959,
+    "duration": 4.401
+  },
+  {
+    "text": "almost three cars into just one lane.",
+    "start": 136.959,
+    "duration": 4.321
+  },
+  {
+    "text": "Like, wow. When you actually think about",
+    "start": 139.36,
+    "duration": 4.72
+  },
+  {
+    "text": "it, it's kind of crazy. In GTA 5, 2 and",
+    "start": 141.28,
+    "duration": 6.24
+  },
+  {
+    "text": "1/2 to three cars. The crew, 2 and 1/2",
+    "start": 144.08,
+    "duration": 5.519
+  },
+  {
+    "text": "to three cars. I I didn't even notice",
+    "start": 147.52,
+    "duration": 3.52
+  },
+  {
+    "text": "how bad it was until I started making",
+    "start": 149.599,
+    "duration": 2.961
+  },
+  {
+    "text": "this video. And it's pretty obvious why",
+    "start": 151.04,
+    "duration": 2.96
+  },
+  {
+    "text": "they do this. It's because it's more",
+    "start": 152.56,
+    "duration": 4.56
+  },
+  {
+    "text": "forgiving for the player. But",
+    "start": 154.0,
+    "duration": 5.04
+  },
+  {
+    "text": "in real life, you'd be lucky to fit like",
+    "start": 157.12,
+    "duration": 4.24
+  },
+  {
+    "text": "one and a half cars in the same lane.",
+    "start": 159.04,
+    "duration": 3.6
+  },
+  {
+    "text": "And in my game, we're aiming for",
+    "start": 161.36,
+    "duration": 3.36
+  },
+  {
+    "text": "realism. So, we have to do this. Freick",
+    "start": 162.64,
+    "duration": 3.92
+  },
+  {
+    "text": "the whole being nice to the player. I",
+    "start": 164.72,
+    "duration": 3.84
+  },
+  {
+    "text": "want this to be actually scary. Y'all",
+    "start": 166.56,
+    "duration": 5.12
+  },
+  {
+    "text": "are not going to have fun playing this.",
+    "start": 168.56,
+    "duration": 4.319
+  },
+  {
+    "text": ">> Out of pocket for that [ __ ]",
+    "start": 171.68,
+    "duration": 2.4
+  },
+  {
+    "text": ">> So, I went ahead and designed this",
+    "start": 172.879,
+    "duration": 2.561
+  },
+  {
+    "text": "little race circuit with those",
+    "start": 174.08,
+    "duration": 3.12
+  },
+  {
+    "text": "unforgiving road dimensions, and it was",
+    "start": 175.44,
+    "duration": 3.28
+  },
+  {
+    "text": "actually so fun. I was just driving",
+    "start": 177.2,
+    "duration": 3.44
+  },
+  {
+    "text": "around this for like so many laps, and",
+    "start": 178.72,
+    "duration": 3.28
+  },
+  {
+    "text": "that's how I knew it was perfect. But,",
+    "start": 180.64,
+    "duration": 3.36
+  },
+  {
+    "text": "we need some sort of map to actually,",
+    "start": 182.0,
+    "duration": 3.36
+  },
+  {
+    "text": "you know, like what is this?",
+    "start": 184.0,
+    "duration": 2.8
+  },
+  {
+    "text": ">> Y'all losing me, man. So, I was looking",
+    "start": 185.36,
+    "duration": 2.959
+  },
+  {
+    "text": "around for inspiration and I found this",
+    "start": 186.8,
+    "duration": 4.159
+  },
+  {
+    "text": "video of someone absolutely cooking at",
+    "start": 188.319,
+    "duration": 4.321
+  },
+  {
+    "text": "pitch black at night. And this is the",
+    "start": 190.959,
+    "duration": 3.681
+  },
+  {
+    "text": "exact vibe that I want for the game. So,",
+    "start": 192.64,
+    "duration": 3.44
+  },
+  {
+    "text": "I kind of spent the next 3 days",
+    "start": 194.64,
+    "duration": 4.48
+  },
+  {
+    "text": "recreating this whole entire map.",
+    "start": 196.08,
+    "duration": 5.76
+  },
+  {
+    "text": "You you know who Mark Zuckerberg is. Do",
+    "start": 199.12,
+    "duration": 5.36
+  },
+  {
+    "text": "research.",
+    "start": 201.84,
+    "duration": 5.2
+  },
+  {
+    "text": "And it turned out sick.",
+    "start": 204.48,
+    "duration": 3.92
+  },
+  {
+    "text": "Considering I started from nothing",
+    "start": 207.04,
+    "duration": 2.8
+  },
+  {
+    "text": "flying around the viewport, the map",
+    "start": 208.4,
+    "duration": 3.44
+  },
+  {
+    "text": "actually looks pretty sick and it looks",
+    "start": 209.84,
+    "duration": 3.759
+  },
+  {
+    "text": "right on spot with what I'm going for.",
+    "start": 211.84,
+    "duration": 3.92
+  },
+  {
+    "text": "But the big problem is that when you",
+    "start": 213.599,
+    "duration": 4.72
+  },
+  {
+    "text": "play the game,",
+    "start": 215.76,
+    "duration": 4.16
+  },
+  {
+    "text": "you can't see anything because it's",
+    "start": 218.319,
+    "duration": 3.441
+  },
+  {
+    "text": "pitch black. So, I added some headlights",
+    "start": 219.92,
+    "duration": 3.52
+  },
+  {
+    "text": "to our car, but with a little extra",
+    "start": 221.76,
+    "duration": 4.399
+  },
+  {
+    "text": "sauce called S texture. I'm not",
+    "start": 223.44,
+    "duration": 4.159
+  },
+  {
+    "text": "qualified to explain it because when you",
+    "start": 226.159,
+    "duration": 4.401
+  },
+  {
+    "text": "open up the file, it",
+    "start": 227.599,
+    "duration": 4.64
+  },
+  {
+    "text": "I don't know what any of this means, but",
+    "start": 230.56,
+    "duration": 3.36
+  },
+  {
+    "text": "basically, when you have a normal light",
+    "start": 232.239,
+    "duration": 4.401
+  },
+  {
+    "text": "in video games or in a 3D software, it's",
+    "start": 233.92,
+    "duration": 4.879
+  },
+  {
+    "text": "just evenly dispersed and it's not",
+    "start": 236.64,
+    "duration": 5.2
+  },
+  {
+    "text": "realistic. But an IEES texture somehow",
+    "start": 238.799,
+    "duration": 5.121
+  },
+  {
+    "text": "gets all the real life data from Thomas",
+    "start": 241.84,
+    "duration": 3.36
+  },
+  {
+    "text": "Edison himself",
+    "start": 243.92,
+    "duration": 3.76
+  },
+  {
+    "text": ">> and it just it realistically disperses",
+    "start": 245.2,
+    "duration": 5.36
+  },
+  {
+    "text": "the light. I think I nailed that. But",
+    "start": 247.68,
+    "duration": 4.08
+  },
+  {
+    "text": "don't take my word for it. I mean, you",
+    "start": 250.56,
+    "duration": 2.8
+  },
+  {
+    "text": "can see how much more realistic it",
+    "start": 251.76,
+    "duration": 3.36
+  },
+  {
+    "text": "looks.",
+    "start": 253.36,
+    "duration": 3.279
+  },
+  {
+    "text": ">> And then I kind of got carried away with",
+    "start": 255.12,
+    "duration": 3.28
+  },
+  {
+    "text": "the immersion and added some code that",
+    "start": 256.639,
+    "duration": 3.44
+  },
+  {
+    "text": "detects when the player isn't moving.",
+    "start": 258.4,
+    "duration": 3.76
+  },
+  {
+    "text": "And then just a few seconds after bugs",
+    "start": 260.079,
+    "duration": 3.921
+  },
+  {
+    "text": "start flying around the headlights just",
+    "start": 262.16,
+    "duration": 3.36
+  },
+  {
+    "text": "like in real life.",
+    "start": 264.0,
+    "duration": 3.12
+  },
+  {
+    "text": ">> It's the little details that go a long",
+    "start": 265.52,
+    "duration": 6.16
+  },
+  {
+    "text": "way. I call it ahead of its time to end.",
+    "start": 267.12,
+    "duration": 6.079
+  },
+  {
+    "text": ">> I also needed some sort of feedback for",
+    "start": 271.68,
+    "duration": 2.959
+  },
+  {
+    "text": "the player when they hit and scrape",
+    "start": 273.199,
+    "duration": 3.041
+  },
+  {
+    "text": "against objects.",
+    "start": 274.639,
+    "duration": 3.761
+  },
+  {
+    "text": ">> Here I come.",
+    "start": 276.24,
+    "duration": 4.239
+  },
+  {
+    "text": ">> So, I coded up some line traces that are",
+    "start": 278.4,
+    "duration": 3.84
+  },
+  {
+    "text": "constantly checking for collision on the",
+    "start": 280.479,
+    "duration": 3.28
+  },
+  {
+    "text": "side of the vehicle and when they detect",
+    "start": 282.24,
+    "duration": 3.36
+  },
+  {
+    "text": "an impact, it triggers the particle",
+    "start": 283.759,
+    "duration": 3.681
+  },
+  {
+    "text": "system. Very nice. I also added a little",
+    "start": 285.6,
+    "duration": 3.84
+  },
+  {
+    "text": "gas station using an asset pack because",
+    "start": 287.44,
+    "duration": 3.759
+  },
+  {
+    "text": "I later want to add NOS to the vehicle",
+    "start": 289.44,
+    "duration": 3.36
+  },
+  {
+    "text": "which will give us a little bit of extra",
+    "start": 291.199,
+    "duration": 2.801
+  },
+  {
+    "text": "speed. And this is where you're going to",
+    "start": 292.8,
+    "duration": 3.04
+  },
+  {
+    "text": "refuel at. All of this is looking sick,",
+    "start": 294.0,
+    "duration": 4.08
+  },
+  {
+    "text": "but it's all tiny in comparison to what",
+    "start": 295.84,
+    "duration": 4.079
+  },
+  {
+    "text": "I have planned, and I can't wait to add",
+    "start": 298.08,
+    "duration": 3.6
+  },
+  {
+    "text": "it. But if you're like me and you love",
+    "start": 299.919,
+    "duration": 3.28
+  },
+  {
+    "text": "that feeling of discovering how things",
+    "start": 301.68,
+    "duration": 2.799
+  },
+  {
+    "text": "work, you're going to love today's",
+    "start": 303.199,
+    "duration": 3.201
+  },
+  {
+    "text": "sponsor, Brilliant. Brilliant is a",
+    "start": 304.479,
+    "duration": 3.28
+  },
+  {
+    "text": "learning platform with thousands of",
+    "start": 306.4,
+    "duration": 3.04
+  },
+  {
+    "text": "interactive lessons. You're hands-on",
+    "start": 307.759,
+    "duration": 3.041
+  },
+  {
+    "text": "from the start, solving puzzles,",
+    "start": 309.44,
+    "duration": 2.96
+  },
+  {
+    "text": "tinkering with interactive games, and",
+    "start": 310.8,
+    "duration": 3.28
+  },
+  {
+    "text": "you're actually getting dopamine from",
+    "start": 312.4,
+    "duration": 3.12
+  },
+  {
+    "text": "learning. Whether it's math,",
+    "start": 314.08,
+    "duration": 3.44
+  },
+  {
+    "text": "programming, science, data analysis, you",
+    "start": 315.52,
+    "duration": 3.84
+  },
+  {
+    "text": "name it, Brilliant probably has a course",
+    "start": 317.52,
+    "duration": 3.6
+  },
+  {
+    "text": "for it.",
+    "start": 319.36,
+    "duration": 3.279
+  },
+  {
+    "text": "It's way more effective than the old,",
+    "start": 321.12,
+    "duration": 3.2
+  },
+  {
+    "text": "\"Hey, read this whole page and then",
+    "start": 322.639,
+    "duration": 3.441
+  },
+  {
+    "text": "memorize it method.\" Yeah, no thanks,",
+    "start": 324.32,
+    "duration": 3.76
+  },
+  {
+    "text": "I'm slow. My favorite is their thinking",
+    "start": 326.08,
+    "duration": 3.839
+  },
+  {
+    "text": "and code class. On day one, you're",
+    "start": 328.08,
+    "duration": 3.6
+  },
+  {
+    "text": "dragging and dropping blocks of code and",
+    "start": 329.919,
+    "duration": 3.441
+  },
+  {
+    "text": "instantly getting feedback. It's so",
+    "start": 331.68,
+    "duration": 3.519
+  },
+  {
+    "text": "simplified and hands-on, but it sneaks",
+    "start": 333.36,
+    "duration": 3.76
+  },
+  {
+    "text": "in the real fundamentals, so you start",
+    "start": 335.199,
+    "duration": 3.921
+  },
+  {
+    "text": "thinking like a programmer. And the best",
+    "start": 337.12,
+    "duration": 3.76
+  },
+  {
+    "text": "part, it's on mobile, too. So whether",
+    "start": 339.12,
+    "duration": 3.04
+  },
+  {
+    "text": "you're killing time, waiting for your",
+    "start": 340.88,
+    "duration": 3.039
+  },
+  {
+    "text": "McDonald's order that takes way too long",
+    "start": 342.16,
+    "duration": 3.44
+  },
+  {
+    "text": "nowadays, or you're about to doom scroll",
+    "start": 343.919,
+    "duration": 3.441
+  },
+  {
+    "text": "Tik Tok, you can pop into Brilliant",
+    "start": 345.6,
+    "duration": 3.2
+  },
+  {
+    "text": "instead, take a quick lesson, and",
+    "start": 347.36,
+    "duration": 3.36
+  },
+  {
+    "text": "actually learn something useful, you",
+    "start": 348.8,
+    "duration": 3.36
+  },
+  {
+    "text": "guys can learn for free on Brilliant.",
+    "start": 350.72,
+    "duration": 2.64
+  },
+  {
+    "text": "And all you have to do is click the link",
+    "start": 352.16,
+    "duration": 2.56
+  },
+  {
+    "text": "in the description, or you can scan the",
+    "start": 353.36,
+    "duration": 3.36
+  },
+  {
+    "text": "QR code on screen. And if you decide to",
+    "start": 354.72,
+    "duration": 3.36
+  },
+  {
+    "text": "stick with it, Brilliant will give you",
+    "start": 356.72,
+    "duration": 3.6
+  },
+  {
+    "text": "20% off an annual premium subscription.",
+    "start": 358.08,
+    "duration": 3.839
+  },
+  {
+    "text": "And with premium, you'll have unlimited",
+    "start": 360.32,
+    "duration": 3.84
+  },
+  {
+    "text": "daily access to everything on Brilliant.",
+    "start": 361.919,
+    "duration": 4.321
+  },
+  {
+    "text": "Thank you, Brilliant.",
+    "start": 364.16,
+    "duration": 4.4
+  },
+  {
+    "text": "Okay, the problem is this game looks",
+    "start": 366.24,
+    "duration": 4.16
+  },
+  {
+    "text": "awful. I'm going to be honest, there's",
+    "start": 368.56,
+    "duration": 3.759
+  },
+  {
+    "text": "no sense of speed or being scared. It It",
+    "start": 370.4,
+    "duration": 4.56
+  },
+  {
+    "text": "might as well be a Roblox game.",
+    "start": 372.319,
+    "duration": 4.801
+  },
+  {
+    "text": "So, it's time to finally introduce my",
+    "start": 374.96,
+    "duration": 4.32
+  },
+  {
+    "text": "insane list of features that will fix",
+    "start": 377.12,
+    "duration": 4.24
+  },
+  {
+    "text": "the sense of speed in racing games. And",
+    "start": 379.28,
+    "duration": 4.16
+  },
+  {
+    "text": "I want to start with immersion. My",
+    "start": 381.36,
+    "duration": 3.679
+  },
+  {
+    "text": "biggest gripe with immersion in racing",
+    "start": 383.44,
+    "duration": 3.52
+  },
+  {
+    "text": "games is the third person camera. It's",
+    "start": 385.039,
+    "duration": 4.241
+  },
+  {
+    "text": "so far back, it'll never be immersive,",
+    "start": 386.96,
+    "duration": 4.239
+  },
+  {
+    "text": "and you'll never properly feel the sense",
+    "start": 389.28,
+    "duration": 4.0
+  },
+  {
+    "text": "of speed. So, I decided to move the",
+    "start": 391.199,
+    "duration": 4.161
+  },
+  {
+    "text": "camera from third person up into the",
+    "start": 393.28,
+    "duration": 4.4
+  },
+  {
+    "text": "vehicle's windshield. And this spawned a",
+    "start": 395.36,
+    "duration": 5.92
+  },
+  {
+    "text": "mega big brain 200 IQ idea to have this",
+    "start": 397.68,
+    "duration": 7.68
+  },
+  {
+    "text": "game take place from a dash cam",
+    "start": 401.28,
+    "duration": 5.28
+  },
+  {
+    "text": ">> ahead of its time.",
+    "start": 405.36,
+    "duration": 2.72
+  },
+  {
+    "text": ">> And I love the idea of this dash cam",
+    "start": 406.56,
+    "duration": 3.199
+  },
+  {
+    "text": "because think about how Body Cam",
+    "start": 408.08,
+    "duration": 3.52
+  },
+  {
+    "text": "absolutely blew up because of how",
+    "start": 409.759,
+    "duration": 4.081
+  },
+  {
+    "text": "immersive and realistic it felt. I want",
+    "start": 411.6,
+    "duration": 4.159
+  },
+  {
+    "text": "that exact same thing for my game. I",
+    "start": 413.84,
+    "duration": 3.44
+  },
+  {
+    "text": "don't know. I feel like this idea is",
+    "start": 415.759,
+    "duration": 4.16
+  },
+  {
+    "text": "genius. But then this introduced a new",
+    "start": 417.28,
+    "duration": 4.639
+  },
+  {
+    "text": "problem. How in the world do I make the",
+    "start": 419.919,
+    "duration": 4.081
+  },
+  {
+    "text": "game look like it was captured on a dash",
+    "start": 421.919,
+    "duration": 4.081
+  },
+  {
+    "text": "camera? Dash cameras have awful quality",
+    "start": 424.0,
+    "duration": 4.08
+  },
+  {
+    "text": "and they also have bit rate compression.",
+    "start": 426.0,
+    "duration": 3.12
+  },
+  {
+    "text": "And if you want to know what bit rate",
+    "start": 428.08,
+    "duration": 2.64
+  },
+  {
+    "text": "compression is, this video basically",
+    "start": 429.12,
+    "duration": 2.24
+  },
+  {
+    "text": "sums it up.",
+    "start": 430.72,
+    "duration": 2.64
+  },
+  {
+    "text": ">> I'm blocking you. That was the dumbest",
+    "start": 431.36,
+    "duration": 4.399
+  },
+  {
+    "text": "[ __ ] I heard all day.",
+    "start": 433.36,
+    "duration": 3.839
+  },
+  {
+    "text": ">> Meanwhile, video games are",
+    "start": 435.759,
+    "duration": 3.521
+  },
+  {
+    "text": "mathematically perfect. There's no",
+    "start": 437.199,
+    "duration": 6.4
+  },
+  {
+    "text": "imperfections. They're too perfect.",
+    "start": 439.28,
+    "duration": 5.68
+  },
+  {
+    "text": "Is it?",
+    "start": 443.599,
+    "duration": 3.281
+  },
+  {
+    "text": ">> So, after a bunch of research, I found",
+    "start": 444.96,
+    "duration": 3.6
+  },
+  {
+    "text": "this plugin called Imperfector that",
+    "start": 446.88,
+    "duration": 3.439
+  },
+  {
+    "text": "might be the coolest thing ever. It has",
+    "start": 448.56,
+    "duration": 3.44
+  },
+  {
+    "text": "a bunch of post-process effects that",
+    "start": 450.319,
+    "duration": 3.921
+  },
+  {
+    "text": "make your game look not perfect. And I",
+    "start": 452.0,
+    "duration": 3.759
+  },
+  {
+    "text": "mean, just looking at it, look at the",
+    "start": 454.24,
+    "duration": 5.519
+  },
+  {
+    "text": "before and then the after.",
+    "start": 455.759,
+    "duration": 5.521
+  },
+  {
+    "text": "Um, I know what you're thinking. It",
+    "start": 459.759,
+    "duration": 3.121
+  },
+  {
+    "text": "doesn't look that much different. How",
+    "start": 461.28,
+    "duration": 3.84
+  },
+  {
+    "text": "the freak did you spend $50 on this? But",
+    "start": 462.88,
+    "duration": 4.0
+  },
+  {
+    "text": "trust me, I'm cooking. When you actually",
+    "start": 465.12,
+    "duration": 3.12
+  },
+  {
+    "text": "play the game and it looks like it's",
+    "start": 466.88,
+    "duration": 3.28
+  },
+  {
+    "text": "being filmed on a real camera with all",
+    "start": 468.24,
+    "duration": 4.48
+  },
+  {
+    "text": "the artifacting, it looks sick. And this",
+    "start": 470.16,
+    "duration": 4.479
+  },
+  {
+    "text": "makes the game already feel so much more",
+    "start": 472.72,
+    "duration": 3.759
+  },
+  {
+    "text": "immersive. And it gives that sense of",
+    "start": 474.639,
+    "duration": 3.921
+  },
+  {
+    "text": "speed and being scared. And I'm not even",
+    "start": 476.479,
+    "duration": 3.601
+  },
+  {
+    "text": "near done yet. Oh, and if you didn't",
+    "start": 478.56,
+    "duration": 3.199
+  },
+  {
+    "text": "notice, I added some particles that fly",
+    "start": 480.08,
+    "duration": 3.679
+  },
+  {
+    "text": "towards the player's camera using Unreal",
+    "start": 481.759,
+    "duration": 4.88
+  },
+  {
+    "text": "Engine 5's particle system. Nah, that",
+    "start": 483.759,
+    "duration": 4.401
+  },
+  {
+    "text": "that don't hit the same. We need Danny",
+    "start": 486.639,
+    "duration": 3.521
+  },
+  {
+    "text": "back, bro. The particles are a nice",
+    "start": 488.16,
+    "duration": 3.439
+  },
+  {
+    "text": "touch, though. And once again, it helps",
+    "start": 490.16,
+    "duration": 3.12
+  },
+  {
+    "text": "that sense of speed. The next thing I",
+    "start": 491.599,
+    "duration": 3.28
+  },
+  {
+    "text": "quickly enabled was motion blur. If",
+    "start": 493.28,
+    "duration": 3.28
+  },
+  {
+    "text": "we're being honest, motion blur sucks in",
+    "start": 494.879,
+    "duration": 3.681
+  },
+  {
+    "text": "all of video games, but it is crucial in",
+    "start": 496.56,
+    "duration": 3.759
+  },
+  {
+    "text": "racing games to help your speed feel",
+    "start": 498.56,
+    "duration": 3.44
+  },
+  {
+    "text": "like speed. And then for even more",
+    "start": 500.319,
+    "duration": 3.681
+  },
+  {
+    "text": "immersion, I coded up some logic to add",
+    "start": 502.0,
+    "duration": 4.08
+  },
+  {
+    "text": "camera shake and little micro jitters",
+    "start": 504.0,
+    "duration": 4.08
+  },
+  {
+    "text": "based on the player's speed and engine",
+    "start": 506.08,
+    "duration": 3.92
+  },
+  {
+    "text": "RPM. This is another thing that a lot of",
+    "start": 508.08,
+    "duration": 3.6
+  },
+  {
+    "text": "racing games just straight up forget.",
+    "start": 510.0,
+    "duration": 3.599
+  },
+  {
+    "text": "And I have no idea why because it adds",
+    "start": 511.68,
+    "duration": 4.96
+  },
+  {
+    "text": "so much more weight to your driving.",
+    "start": 513.599,
+    "duration": 4.56
+  },
+  {
+    "text": ">> Okay, so I think I've added everything I",
+    "start": 516.64,
+    "duration": 3.519
+  },
+  {
+    "text": "can to make it look visually appealing,",
+    "start": 518.159,
+    "duration": 3.601
+  },
+  {
+    "text": "but there's still no mechanics and it's",
+    "start": 520.159,
+    "duration": 3.921
+  },
+  {
+    "text": "honestly not that fun. But when does",
+    "start": 521.76,
+    "duration": 4.32
+  },
+  {
+    "text": "this game get good? So, it's time to",
+    "start": 524.08,
+    "duration": 3.68
+  },
+  {
+    "text": "introduce some new scary mechanics that",
+    "start": 526.08,
+    "duration": 4.16
+  },
+  {
+    "text": "make it actually interesting to play.",
+    "start": 527.76,
+    "duration": 4.56
+  },
+  {
+    "text": "Starting with AI drivers. Right now,",
+    "start": 530.24,
+    "duration": 3.44
+  },
+  {
+    "text": "there's nothing going on in the world,",
+    "start": 532.32,
+    "duration": 3.199
+  },
+  {
+    "text": "so it just feels a little empty. and",
+    "start": 533.68,
+    "duration": 3.68
+  },
+  {
+    "text": "having cars coming against you in the",
+    "start": 535.519,
+    "duration": 4.911
+  },
+  {
+    "text": "opposite way makes it much more scarier.",
+    "start": 537.36,
+    "duration": 4.479
+  },
+  {
+    "text": "[Music]",
+    "start": 540.43,
+    "duration": 3.17
+  },
+  {
+    "text": "So, I followed some tutorials and set up",
+    "start": 541.839,
+    "duration": 4.961
+  },
+  {
+    "text": "the custom AI drivers and they work, but",
+    "start": 543.6,
+    "duration": 4.88
+  },
+  {
+    "text": "they're kind of stupid. They can't",
+    "start": 546.8,
+    "duration": 6.039
+  },
+  {
+    "text": "follow their path going too fast.",
+    "start": 548.48,
+    "duration": 4.359
+  },
+  {
+    "text": "They kind of have like a a ping delay or",
+    "start": 553.519,
+    "duration": 3.201
+  },
+  {
+    "text": "something. And I couldn't figure out",
+    "start": 555.44,
+    "duration": 3.2
+  },
+  {
+    "text": "what the issue was. So, I just decided",
+    "start": 556.72,
+    "duration": 3.92
+  },
+  {
+    "text": "to embrace the jank. And I'm calling",
+    "start": 558.64,
+    "duration": 4.16
+  },
+  {
+    "text": "them drunk drivers because they drive",
+    "start": 560.64,
+    "duration": 6.16
+  },
+  {
+    "text": "like it. And I guess it's realistic.",
+    "start": 562.8,
+    "duration": 5.68
+  },
+  {
+    "text": "Oh, it's going to get me cancelled.",
+    "start": 566.8,
+    "duration": 3.28
+  },
+  {
+    "text": ">> Hello, Bozo.",
+    "start": 568.48,
+    "duration": 2.88
+  },
+  {
+    "text": ">> The next feature I wanted to add that",
+    "start": 570.08,
+    "duration": 3.199
+  },
+  {
+    "text": "I'm so surprised no other game has done",
+    "start": 571.36,
+    "duration": 4.24
+  },
+  {
+    "text": "yet is deer. Living on the East Coast in",
+    "start": 573.279,
+    "duration": 4.401
+  },
+  {
+    "text": "America, deer jumping out on a back road",
+    "start": 575.6,
+    "duration": 4.16
+  },
+  {
+    "text": "is extremely possible. And it's also one",
+    "start": 577.68,
+    "duration": 3.92
+  },
+  {
+    "text": "of the scariest jump scares that I never",
+    "start": 579.76,
+    "duration": 3.68
+  },
+  {
+    "text": "want to encounter, and it fits the theme",
+    "start": 581.6,
+    "duration": 3.52
+  },
+  {
+    "text": "of this game so well. So, I bought this",
+    "start": 583.44,
+    "duration": 3.6
+  },
+  {
+    "text": "deer model, and then I coded up a random",
+    "start": 585.12,
+    "duration": 4.08
+  },
+  {
+    "text": "spawner that spawns a deer randomly",
+    "start": 587.04,
+    "duration": 3.919
+  },
+  {
+    "text": "along a path, and it walks around that",
+    "start": 589.2,
+    "duration": 3.28
+  },
+  {
+    "text": "path, and you have to swerve to avoid",
+    "start": 590.959,
+    "duration": 3.601
+  },
+  {
+    "text": "it. But if you hit them, it's going to",
+    "start": 592.48,
+    "duration": 4.799
+  },
+  {
+    "text": "slow you down. The deer goes absolutely",
+    "start": 594.56,
+    "duration": 4.8
+  },
+  {
+    "text": "flying and then it kills your momentum.",
+    "start": 597.279,
+    "duration": 3.921
+  },
+  {
+    "text": "This just adds more fear into driving",
+    "start": 599.36,
+    "duration": 3.84
+  },
+  {
+    "text": "fast and it makes speed seem actually",
+    "start": 601.2,
+    "duration": 3.199
+  },
+  {
+    "text": "important because there's real",
+    "start": 603.2,
+    "duration": 3.12
+  },
+  {
+    "text": "consequences. And that's one thing about",
+    "start": 604.399,
+    "duration": 3.761
+  },
+  {
+    "text": "racing games that you never get. There's",
+    "start": 606.32,
+    "duration": 3.68
+  },
+  {
+    "text": "no consequences at all.",
+    "start": 608.16,
+    "duration": 2.72
+  },
+  {
+    "text": ">> Rewind time.",
+    "start": 610.0,
+    "duration": 2.16
+  },
+  {
+    "text": ">> It's not that fun when you can get out",
+    "start": 610.88,
+    "duration": 3.76
+  },
+  {
+    "text": "of any situation with one button. So",
+    "start": 612.16,
+    "duration": 4.239
+  },
+  {
+    "text": "having the deer that can jump out at any",
+    "start": 614.64,
+    "duration": 3.12
+  },
+  {
+    "text": "point adds a little bit of that",
+    "start": 616.399,
+    "duration": 2.961
+  },
+  {
+    "text": "hearttoppping moment that we're missing",
+    "start": 617.76,
+    "duration": 5.24
+  },
+  {
+    "text": "in racing games.",
+    "start": 619.36,
+    "duration": 3.64
+  },
+  {
+    "text": "It's time to play the game.",
+    "start": 624.48,
+    "duration": 7.72
+  },
+  {
+    "text": ">> I beg your pardon ahead of the time.",
+    "start": 626.48,
+    "duration": 5.72
+  },
+  {
+    "text": ">> And honestly, I feel like this would be",
+    "start": 635.36,
+    "duration": 3.28
+  },
+  {
+    "text": "such a good feature for GTA 6. I really",
+    "start": 636.56,
+    "duration": 5.279
+  },
+  {
+    "text": "hope they add this.",
+    "start": 638.64,
+    "duration": 4.8
+  },
+  {
+    "text": "Speaking of GTA, since everything in",
+    "start": 641.839,
+    "duration": 3.601
+  },
+  {
+    "text": "this game moves super fast, I wanted to",
+    "start": 643.44,
+    "duration": 3.6
+  },
+  {
+    "text": "add a slow motion ability just like",
+    "start": 645.44,
+    "duration": 3.6
+  },
+  {
+    "text": "Franklin from GTA 5. And hopefully that",
+    "start": 647.04,
+    "duration": 3.68
+  },
+  {
+    "text": "adds a little bit of extra skill because",
+    "start": 649.04,
+    "duration": 3.68
+  },
+  {
+    "text": "you can choose when to slow motion and",
+    "start": 650.72,
+    "duration": 3.44
+  },
+  {
+    "text": "when not to. And then for the last",
+    "start": 652.72,
+    "duration": 2.96
+  },
+  {
+    "text": "mechanic to make the game feel even",
+    "start": 654.16,
+    "duration": 3.44
+  },
+  {
+    "text": "faster, added a NOS that you can toggle",
+    "start": 655.68,
+    "duration": 3.839
+  },
+  {
+    "text": "on and off. And just for fun, the NOS",
+    "start": 657.6,
+    "duration": 3.6
+  },
+  {
+    "text": "has a limited duration, so you're",
+    "start": 659.519,
+    "duration": 3.201
+  },
+  {
+    "text": "probably going to want to stop by the",
+    "start": 661.2,
+    "duration": 3.68
+  },
+  {
+    "text": "gas station to refuel it after each lap.",
+    "start": 662.72,
+    "duration": 3.44
+  },
+  {
+    "text": "Be careful with this. It's actually",
+    "start": 664.88,
+    "duration": 4.519
+  },
+  {
+    "text": "really overpowered.",
+    "start": 666.16,
+    "duration": 3.239
+  },
+  {
+    "text": "[Music]",
+    "start": 669.99,
+    "duration": 9.37
+  },
+  {
+    "text": "I wish the game sounded like that",
+    "start": 677.44,
+    "duration": 6.2
+  },
+  {
+    "text": "because this is how it currently sounds.",
+    "start": 679.36,
+    "duration": 4.28
+  },
+  {
+    "text": "Hello. I haven't seen y'all this much",
+    "start": 684.399,
+    "duration": 3.281
+  },
+  {
+    "text": "this video, so I wanted to come in for",
+    "start": 686.399,
+    "duration": 3.841
+  },
+  {
+    "text": "this last part. Hi. The last thing on",
+    "start": 687.68,
+    "duration": 4.64
+  },
+  {
+    "text": "the list to do is add a sound to",
+    "start": 690.24,
+    "duration": 3.76
+  },
+  {
+    "text": "literally everything in the game because",
+    "start": 692.32,
+    "duration": 5.199
+  },
+  {
+    "text": "currently the game is dead silent.",
+    "start": 694.0,
+    "duration": 4.88
+  },
+  {
+    "text": "And unless someone is watching what that",
+    "start": 697.519,
+    "duration": 3.361
+  },
+  {
+    "text": "sounds right now, we need to add sounds",
+    "start": 698.88,
+    "duration": 3.76
+  },
+  {
+    "text": "to literally everything in the game. So,",
+    "start": 700.88,
+    "duration": 3.04
+  },
+  {
+    "text": "I got to add sounds to literally",
+    "start": 702.64,
+    "duration": 2.879
+  },
+  {
+    "text": "everything in the game. And I mean",
+    "start": 703.92,
+    "duration": 4.599
+  },
+  {
+    "text": "everything.",
+    "start": 705.519,
+    "duration": 3.0
+  },
+  {
+    "text": "So, I locked in for the next two days",
+    "start": 708.64,
+    "duration": 3.28
+  },
+  {
+    "text": "and made every single sound for the",
+    "start": 710.16,
+    "duration": 3.52
+  },
+  {
+    "text": "game. There's a bunch. And then there's",
+    "start": 711.92,
+    "duration": 3.919
+  },
+  {
+    "text": "even more complicated stuff like wind, a",
+    "start": 713.68,
+    "duration": 4.96
+  },
+  {
+    "text": "six song soundtrack, engine audio, which",
+    "start": 715.839,
+    "duration": 4.481
+  },
+  {
+    "text": "by the way was the hardest thing to",
+    "start": 718.64,
+    "duration": 3.36
+  },
+  {
+    "text": "figure out. But I was able to turn the",
+    "start": 720.32,
+    "duration": 7.32
+  },
+  {
+    "text": "game from sounding like this into this.",
+    "start": 722.0,
+    "duration": 5.64
+  },
+  {
+    "text": "I'm still such a noob when it comes to",
+    "start": 734.16,
+    "duration": 3.2
+  },
+  {
+    "text": "game development. And each project that",
+    "start": 735.76,
+    "duration": 3.519
+  },
+  {
+    "text": "I inevitably end up scrapping because I",
+    "start": 737.36,
+    "duration": 4.56
+  },
+  {
+    "text": "suck, I learn more and more each time.",
+    "start": 739.279,
+    "duration": 4.641
+  },
+  {
+    "text": "Like, here's the code for just the",
+    "start": 741.92,
+    "duration": 4.24
+  },
+  {
+    "text": "playable car alone. And it's insane. I",
+    "start": 743.92,
+    "duration": 3.599
+  },
+  {
+    "text": "love looking at this because it reminds",
+    "start": 746.16,
+    "duration": 3.119
+  },
+  {
+    "text": "me of when I used to play Minecraft as a",
+    "start": 747.519,
+    "duration": 3.361
+  },
+  {
+    "text": "kid and you just looked at everything",
+    "start": 749.279,
+    "duration": 4.24
+  },
+  {
+    "text": "that you built and you'd be like, I made",
+    "start": 750.88,
+    "duration": 4.639
+  },
+  {
+    "text": "that. I did all of this and it's so",
+    "start": 753.519,
+    "duration": 4.32
+  },
+  {
+    "text": "incredibly satisfying. Right now I suck,",
+    "start": 755.519,
+    "duration": 4.801
+  },
+  {
+    "text": "but eventually I'll be a pro. And for",
+    "start": 757.839,
+    "duration": 4.881
+  },
+  {
+    "text": "now, I'm pretty dang proud of this.",
+    "start": 760.32,
+    "duration": 4.079
+  },
+  {
+    "text": ">> We do not care.",
+    "start": 762.72,
+    "duration": 3.44
+  },
+  {
+    "text": ">> The goal of this whole entire video was",
+    "start": 764.399,
+    "duration": 3.521
+  },
+  {
+    "text": "to fix the sense of speed in racing",
+    "start": 766.16,
+    "duration": 3.04
+  },
+  {
+    "text": "games and make it feel like they have",
+    "start": 767.92,
+    "duration": 3.28
+  },
+  {
+    "text": "actual weight and consequences. And",
+    "start": 769.2,
+    "duration": 4.079
+  },
+  {
+    "text": "honestly, I think it turned out sick.",
+    "start": 771.2,
+    "duration": 3.36
+  },
+  {
+    "text": ">> It's time to play the game.",
+    "start": 773.279,
+    "duration": 2.961
+  },
+  {
+    "text": ">> You guys can go download it for free by",
+    "start": 774.56,
+    "duration": 3.6
+  },
+  {
+    "text": "joining my Discord. You just download",
+    "start": 776.24,
+    "duration": 4.08
+  },
+  {
+    "text": "it, unzip it, and run it like any other",
+    "start": 778.16,
+    "duration": 4.239
+  },
+  {
+    "text": "game. It's not perfect, but I'm just so",
+    "start": 780.32,
+    "duration": 4.8
+  },
+  {
+    "text": "proud that I'm making games. Have fun.",
+    "start": 782.399,
+    "duration": 4.961
+  },
+  {
+    "text": "Next video, I recreated GTA 6 and it's",
+    "start": 785.12,
+    "duration": 5.519
+  },
+  {
+    "text": "playable. See you later.",
+    "start": 787.36,
+    "duration": 3.279
+  }
+]

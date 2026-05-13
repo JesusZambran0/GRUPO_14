@@ -1,0 +1,1572 @@
+[
+  {
+    "text": "hi the topic is traveling salesperson",
+    "start": 0.089,
+    "duration": 4.831
+  },
+  {
+    "text": "problem already I have one video on this",
+    "start": 2.1,
+    "duration": 4.92
+  },
+  {
+    "text": "problem already I have taken the same",
+    "start": 4.92,
+    "duration": 4.469
+  },
+  {
+    "text": "example and I have solved there but now",
+    "start": 7.02,
+    "duration": 4.26
+  },
+  {
+    "text": "I am going to explain you in a different",
+    "start": 9.389,
+    "duration": 4.951
+  },
+  {
+    "text": "way by using the forum line each and",
+    "start": 11.28,
+    "duration": 6.63
+  },
+  {
+    "text": "every step so let us see about the",
+    "start": 14.34,
+    "duration": 5.67
+  },
+  {
+    "text": "problem quickly I will tell you see the",
+    "start": 17.91,
+    "duration": 5.07
+  },
+  {
+    "text": "problem is a directed weighted graph is",
+    "start": 20.01,
+    "duration": 5.519
+  },
+  {
+    "text": "given so it means every edge is having",
+    "start": 22.98,
+    "duration": 4.469
+  },
+  {
+    "text": "some weight see these are actually",
+    "start": 25.529,
+    "duration": 3.811
+  },
+  {
+    "text": "parallel edges two edges one two two",
+    "start": 27.449,
+    "duration": 4.56
+  },
+  {
+    "text": "also two two one also but to show two",
+    "start": 29.34,
+    "duration": 4.649
+  },
+  {
+    "text": "edges I have shown it them as only one",
+    "start": 32.009,
+    "duration": 5.791
+  },
+  {
+    "text": "edge bi-directional now every edge is",
+    "start": 33.989,
+    "duration": 5.581
+  },
+  {
+    "text": "having weight so this is the cause",
+    "start": 37.8,
+    "duration": 4.56
+  },
+  {
+    "text": "adjacency matrix for this directed graph",
+    "start": 39.57,
+    "duration": 6.87
+  },
+  {
+    "text": "now the problem is we have to start from",
+    "start": 42.36,
+    "duration": 6.6
+  },
+  {
+    "text": "some vertex and travel all the other",
+    "start": 46.44,
+    "duration": 6.42
+  },
+  {
+    "text": "vertices once and we have to return back",
+    "start": 48.96,
+    "duration": 7.32
+  },
+  {
+    "text": "to the same starting vertex so start",
+    "start": 52.86,
+    "duration": 6.629
+  },
+  {
+    "text": "from any vertex and go through all the",
+    "start": 56.28,
+    "duration": 5.73
+  },
+  {
+    "text": "vertices once and return back to the",
+    "start": 59.489,
+    "duration": 6.0
+  },
+  {
+    "text": "starting vertex and the cost of",
+    "start": 62.01,
+    "duration": 5.899
+  },
+  {
+    "text": "travelling must be minimum",
+    "start": 65.489,
+    "duration": 4.291
+  },
+  {
+    "text": "this is the traveling salesperson",
+    "start": 67.909,
+    "duration": 5.53
+  },
+  {
+    "text": "problem for solving that this is a",
+    "start": 69.78,
+    "duration": 4.98
+  },
+  {
+    "text": "formula given this is a dynamic",
+    "start": 73.439,
+    "duration": 3.901
+  },
+  {
+    "text": "programming formula this is the general",
+    "start": 74.76,
+    "duration": 4.859
+  },
+  {
+    "text": "form of a formula now I will write on",
+    "start": 77.34,
+    "duration": 4.38
+  },
+  {
+    "text": "this formula according to these four",
+    "start": 79.619,
+    "duration": 4.831
+  },
+  {
+    "text": "vertices graphs then I will discuss",
+    "start": 81.72,
+    "duration": 4.98
+  },
+  {
+    "text": "about it the cost function is termed as",
+    "start": 84.45,
+    "duration": 6.27
+  },
+  {
+    "text": "G here our starting vertex is 1 and we",
+    "start": 86.7,
+    "duration": 5.82
+  },
+  {
+    "text": "have to visit remaining vertices those",
+    "start": 90.72,
+    "duration": 4.41
+  },
+  {
+    "text": "are 2 3 & 4",
+    "start": 92.52,
+    "duration": 7.77
+  },
+  {
+    "text": "and minimum of what is this let us see",
+    "start": 95.13,
+    "duration": 9.269
+  },
+  {
+    "text": "see from any starting vertex I I can go",
+    "start": 100.29,
+    "duration": 6.06
+  },
+  {
+    "text": "to any of the K vertices that belong to",
+    "start": 104.399,
+    "duration": 4.321
+  },
+  {
+    "text": "the set it means from starting vertex 1",
+    "start": 106.35,
+    "duration": 6.409
+  },
+  {
+    "text": "I can go to 2 also 3 also for also so",
+    "start": 108.72,
+    "duration": 9.78
+  },
+  {
+    "text": "here C of 1 2 K what K can be K can be",
+    "start": 112.759,
+    "duration": 13.661
+  },
+  {
+    "text": "anything from 2 3 & 4 plus G of starting",
+    "start": 118.5,
+    "duration": 14.23
+  },
+  {
+    "text": "vertex K and from 2 3 4 subtract key",
+    "start": 126.42,
+    "duration": 8.95
+  },
+  {
+    "text": "this is a general formula but we have",
+    "start": 132.73,
+    "duration": 4.74
+  },
+  {
+    "text": "written a formula with respect to four",
+    "start": 135.37,
+    "duration": 5.07
+  },
+  {
+    "text": "vertices the formula says that starting",
+    "start": 137.47,
+    "duration": 5.129
+  },
+  {
+    "text": "vertex is 1 and you have to visit",
+    "start": 140.44,
+    "duration": 4.019
+  },
+  {
+    "text": "remaining what it says in any order you",
+    "start": 142.599,
+    "duration": 4.651
+  },
+  {
+    "text": "want so you can move from 1 to 2 also 1",
+    "start": 144.459,
+    "duration": 5.221
+  },
+  {
+    "text": "to 3 also 1 to 4 also so that all",
+    "start": 147.25,
+    "duration": 4.68
+  },
+  {
+    "text": "possibilities we are trying here we will",
+    "start": 149.68,
+    "duration": 4.74
+  },
+  {
+    "text": "be going from 1 to 2 or 1 to 3 1 to 4",
+    "start": 151.93,
+    "duration": 4.65
+  },
+  {
+    "text": "anything out of that we have to take the",
+    "start": 154.42,
+    "duration": 4.62
+  },
+  {
+    "text": "minimum so whichever one we are going",
+    "start": 156.58,
+    "duration": 4.379
+  },
+  {
+    "text": "that vertex we should subtract from the",
+    "start": 159.04,
+    "duration": 4.62
+  },
+  {
+    "text": "set of vertices see if you observe this",
+    "start": 160.959,
+    "duration": 4.951
+  },
+  {
+    "text": "the formula is recursive it's a",
+    "start": 163.66,
+    "duration": 4.829
+  },
+  {
+    "text": "recursive formula cost of a root is",
+    "start": 165.91,
+    "duration": 5.359
+  },
+  {
+    "text": "defined in terms of cost of a root again",
+    "start": 168.489,
+    "duration": 5.611
+  },
+  {
+    "text": "here the set of vertices to be visited",
+    "start": 171.269,
+    "duration": 4.601
+  },
+  {
+    "text": "are two three four and here it is one",
+    "start": 174.1,
+    "duration": 5.219
+  },
+  {
+    "text": "less this is recursive formula how we",
+    "start": 175.87,
+    "duration": 6.27
+  },
+  {
+    "text": "can find the result of any recursive",
+    "start": 179.319,
+    "duration": 5.851
+  },
+  {
+    "text": "function we generated a recursive tree",
+    "start": 182.14,
+    "duration": 5.67
+  },
+  {
+    "text": "so let us generate a recursive tree for",
+    "start": 185.17,
+    "duration": 6.18
+  },
+  {
+    "text": "this one see here I can go from 1 to 2",
+    "start": 187.81,
+    "duration": 6.509
+  },
+  {
+    "text": "so the starting vertex is 1 so if I go",
+    "start": 191.35,
+    "duration": 7.32
+  },
+  {
+    "text": "to vertex 2 then as per the formula C of",
+    "start": 194.319,
+    "duration": 7.471
+  },
+  {
+    "text": "1k what is the K we are considering 2 so",
+    "start": 198.67,
+    "duration": 9.75
+  },
+  {
+    "text": "C of 1 2 + G of 2 2 remaining so 2 to",
+    "start": 201.79,
+    "duration": 10.289
+  },
+  {
+    "text": "see k k here so remaining remaining what",
+    "start": 208.42,
+    "duration": 6.24
+  },
+  {
+    "text": "K is a 2 here so 2 is removed so",
+    "start": 212.079,
+    "duration": 6.921
+  },
+  {
+    "text": "remaining will be 3 & 4 so this is 3 & 4",
+    "start": 214.66,
+    "duration": 8.27
+  },
+  {
+    "text": "see again we got a cost function next I",
+    "start": 219.0,
+    "duration": 8.29
+  },
+  {
+    "text": "can go on vertex 3 also so 1 2 3 if I go",
+    "start": 222.93,
+    "duration": 6.7
+  },
+  {
+    "text": "from 1 to 3 so this is cost of an edge",
+    "start": 227.29,
+    "duration": 6.569
+  },
+  {
+    "text": "from 1 to 3 plus cost of 3 2 remaining",
+    "start": 229.63,
+    "duration": 8.88
+  },
+  {
+    "text": "so G of 3 2 what is remaining 2 & 4 so",
+    "start": 233.859,
+    "duration": 6.051
+  },
+  {
+    "text": "this is 2 & 4",
+    "start": 238.51,
+    "duration": 4.86
+  },
+  {
+    "text": "and one more",
+    "start": 239.91,
+    "duration": 7.449
+  },
+  {
+    "text": "I can go from 1 to 4 also so this is for",
+    "start": 243.37,
+    "duration": 8.699
+  },
+  {
+    "text": "cost of an edge from 1 to 4 from G of 4",
+    "start": 247.359,
+    "duration": 5.94
+  },
+  {
+    "text": "2 remaining",
+    "start": 252.069,
+    "duration": 5.1
+  },
+  {
+    "text": "what are those 2 & 3 see this is just",
+    "start": 253.299,
+    "duration": 6.601
+  },
+  {
+    "text": "like I have substituted 3 different",
+    "start": 257.169,
+    "duration": 5.941
+  },
+  {
+    "text": "values of K what are those 2 & 3 & 4 2 &",
+    "start": 259.9,
+    "duration": 5.34
+  },
+  {
+    "text": "3 & 4 I have substituted so",
+    "start": 263.11,
+    "duration": 4.559
+  },
+  {
+    "text": "three different formulas now out of",
+    "start": 265.24,
+    "duration": 4.679
+  },
+  {
+    "text": "three different formulas all these three",
+    "start": 267.669,
+    "duration": 4.56
+  },
+  {
+    "text": "I have to take the minimum so this",
+    "start": 269.919,
+    "duration": 4.321
+  },
+  {
+    "text": "expansion I have done here I have",
+    "start": 272.229,
+    "duration": 3.601
+  },
+  {
+    "text": "written them separately I am showing",
+    "start": 274.24,
+    "duration": 3.54
+  },
+  {
+    "text": "them in the form of a tree out of these",
+    "start": 275.83,
+    "duration": 4.44
+  },
+  {
+    "text": "three I have to take minimum this",
+    "start": 277.78,
+    "duration": 6.27
+  },
+  {
+    "text": "minimum can they know minimum I don't",
+    "start": 280.27,
+    "duration": 6.929
+  },
+  {
+    "text": "know this I don't know this and this I",
+    "start": 284.05,
+    "duration": 5.91
+  },
+  {
+    "text": "don't know the cost of this so unless I",
+    "start": 287.199,
+    "duration": 5.611
+  },
+  {
+    "text": "know the cost of these functions I",
+    "start": 289.96,
+    "duration": 5.01
+  },
+  {
+    "text": "cannot get dancer and he cannot find",
+    "start": 292.81,
+    "duration": 4.26
+  },
+  {
+    "text": "minimum so how to find out this one",
+    "start": 294.97,
+    "duration": 4.74
+  },
+  {
+    "text": "again the same formula applies the same",
+    "start": 297.07,
+    "duration": 5.43
+  },
+  {
+    "text": "formula now here the starting point is",
+    "start": 299.71,
+    "duration": 4.59
+  },
+  {
+    "text": "two and here the starting point is three",
+    "start": 302.5,
+    "duration": 4.949
+  },
+  {
+    "text": "and the starting point is four so again",
+    "start": 304.3,
+    "duration": 6.089
+  },
+  {
+    "text": "use the formula expand them but before",
+    "start": 307.449,
+    "duration": 4.711
+  },
+  {
+    "text": "going further I can show you one thing",
+    "start": 310.389,
+    "duration": 4.801
+  },
+  {
+    "text": "cost refer netsy of one to two one two",
+    "start": 312.16,
+    "duration": 5.939
+  },
+  {
+    "text": "three one two four I can get it here",
+    "start": 315.19,
+    "duration": 6.72
+  },
+  {
+    "text": "they are given 1 2 2 1 2 3 1 2 4 that is",
+    "start": 318.099,
+    "duration": 7.561
+  },
+  {
+    "text": "10 15 and 20 so I will write down 1 2 2",
+    "start": 321.91,
+    "duration": 6.599
+  },
+  {
+    "text": "is how much then ok this value will be",
+    "start": 325.66,
+    "duration": 4.289
+  },
+  {
+    "text": "remaining I have to find out this one",
+    "start": 328.509,
+    "duration": 4.65
+  },
+  {
+    "text": "this is how much 15 this is remaining I",
+    "start": 329.949,
+    "duration": 6.181
+  },
+  {
+    "text": "have to find out this this is 20 this is",
+    "start": 333.159,
+    "duration": 5.82
+  },
+  {
+    "text": "remaining now let us expand these",
+    "start": 336.13,
+    "duration": 6.33
+  },
+  {
+    "text": "formulas and get the answer and add it",
+    "start": 338.979,
+    "duration": 5.071
+  },
+  {
+    "text": "to this one then out of this take",
+    "start": 342.46,
+    "duration": 4.35
+  },
+  {
+    "text": "minimum so first let us expand this now",
+    "start": 344.05,
+    "duration": 4.71
+  },
+  {
+    "text": "from here what is the possibility",
+    "start": 346.81,
+    "duration": 3.81
+  },
+  {
+    "text": "starting about X is 2",
+    "start": 348.76,
+    "duration": 6.45
+  },
+  {
+    "text": "I can go to 3 or 4 I can go to vertex 3",
+    "start": 350.62,
+    "duration": 7.71
+  },
+  {
+    "text": "if I am going to vertex 3 this is from 2",
+    "start": 355.21,
+    "duration": 8.01
+  },
+  {
+    "text": "to 3 so cost of an H 2 to 3 plus G of 3",
+    "start": 358.33,
+    "duration": 8.579
+  },
+  {
+    "text": "to four remaining vertex well before C 2",
+    "start": 363.22,
+    "duration": 6.629
+  },
+  {
+    "text": "to 3 and then remaining is 4 so 3 4",
+    "start": 366.909,
+    "duration": 5.25
+  },
+  {
+    "text": "where there so now 3 came out only four",
+    "start": 369.849,
+    "duration": 6.361
+  },
+  {
+    "text": "is remaining or else from two I can go",
+    "start": 372.159,
+    "duration": 7.111
+  },
+  {
+    "text": "to 3 also - I can go to four also so if",
+    "start": 376.21,
+    "duration": 6.989
+  },
+  {
+    "text": "I go on forward then C of 2 to 4 plus G",
+    "start": 379.27,
+    "duration": 7.2
+  },
+  {
+    "text": "of 4 then if I am going one for what",
+    "start": 383.199,
+    "duration": 6.381
+  },
+  {
+    "text": "will be remaining 3 will be remaining",
+    "start": 386.47,
+    "duration": 5.669
+  },
+  {
+    "text": "now in the same way I will expand these",
+    "start": 389.58,
+    "duration": 7.0
+  },
+  {
+    "text": "formulas also 3 to 2 I can go so co of 3",
+    "start": 392.139,
+    "duration": 11.821
+  },
+  {
+    "text": "+ G of 2 to 4 or 3 to 4 I can move so",
+    "start": 396.58,
+    "duration": 13.079
+  },
+  {
+    "text": "this is 4 so C of 3 comma 4 plus G of 4",
+    "start": 403.96,
+    "duration": 10.32
+  },
+  {
+    "text": "2 remaining vertex is 2 then here also I",
+    "start": 409.659,
+    "duration": 7.741
+  },
+  {
+    "text": "will expand so this is I can go from 4",
+    "start": 414.28,
+    "duration": 7.68
+  },
+  {
+    "text": "to 2 also and 3 also so if I am doing 4",
+    "start": 417.4,
+    "duration": 10.199
+  },
+  {
+    "text": "to 2 this is C of 2 2 + G of 2 2",
+    "start": 421.96,
+    "duration": 9.9
+  },
+  {
+    "text": "remaining vertex will be 3 plus C of 4",
+    "start": 427.599,
+    "duration": 8.671
+  },
+  {
+    "text": "to 3 then G of 3 2 remaining vertex will",
+    "start": 431.86,
+    "duration": 8.399
+  },
+  {
+    "text": "be 2 now total 6 formulas we have now I",
+    "start": 436.27,
+    "duration": 6.69
+  },
+  {
+    "text": "can fill up these C values the cost of",
+    "start": 440.259,
+    "duration": 3.271
+  },
+  {
+    "text": "an edge",
+    "start": 442.96,
+    "duration": 4.109
+  },
+  {
+    "text": "so I will write all the values C C of -",
+    "start": 443.53,
+    "duration": 10.159
+  },
+  {
+    "text": "3 - 4 - 3 is 9 - 4 is 10 so this becomes",
+    "start": 447.069,
+    "duration": 13.56
+  },
+  {
+    "text": "9 and this becomes 10 then 3 2 3 4 3 2",
+    "start": 453.689,
+    "duration": 9.79
+  },
+  {
+    "text": "is 13 3 4 is 12",
+    "start": 460.629,
+    "duration": 9.271
+  },
+  {
+    "text": "so this is 13 and this is 12 then C 4 2",
+    "start": 463.479,
+    "duration": 17.821
+  },
+  {
+    "text": "s 8 + 4 3 is 9 this is 8 and this is 9 4",
+    "start": 469.9,
+    "duration": 14.819
+  },
+  {
+    "text": "2 is 8 4 3 is 9 still we don't know the",
+    "start": 481.3,
+    "duration": 5.789
+  },
+  {
+    "text": "value of these functions so let us use",
+    "start": 484.719,
+    "duration": 4.56
+  },
+  {
+    "text": "the formula and expand them if you",
+    "start": 487.089,
+    "duration": 4.531
+  },
+  {
+    "text": "observe here this says that starting",
+    "start": 489.279,
+    "duration": 3.69
+  },
+  {
+    "text": "what its history and the remaining",
+    "start": 491.62,
+    "duration": 3.509
+  },
+  {
+    "text": "vertex that we have to visit it only for",
+    "start": 492.969,
+    "duration": 5.13
+  },
+  {
+    "text": "so I'll go to vertex 4 so this will be",
+    "start": 495.129,
+    "duration": 9.09
+  },
+  {
+    "text": "from 3 to 4 so C of 3 4 plus G of 4 2",
+    "start": 498.099,
+    "duration": 9.901
+  },
+  {
+    "text": "remaining is nothing when 4 is also gone",
+    "start": 504.219,
+    "duration": 5.7
+  },
+  {
+    "text": "we have visited for also there's nothing",
+    "start": 508.0,
+    "duration": 3.599
+  },
+  {
+    "text": "is remaining so same thing here",
+    "start": 509.919,
+    "duration": 7.05
+  },
+  {
+    "text": "remaining is 3 so say C or 4 - 3 + G or",
+    "start": 511.599,
+    "duration": 11.041
+  },
+  {
+    "text": "4 3 2 nothing - 3 plus G of 3 to nothing",
+    "start": 516.969,
+    "duration": 10.11
+  },
+  {
+    "text": "is remaining then this is 3 to 2 so C of",
+    "start": 522.64,
+    "duration": 5.97
+  },
+  {
+    "text": "3 2",
+    "start": 527.079,
+    "duration": 5.521
+  },
+  {
+    "text": "G of 2 nothing is remaining say you know",
+    "start": 528.61,
+    "duration": 7.74
+  },
+  {
+    "text": "you can realize if we are solving it",
+    "start": 532.6,
+    "duration": 6.6
+  },
+  {
+    "text": "using a recursive tree then the tree",
+    "start": 536.35,
+    "duration": 4.89
+  },
+  {
+    "text": "will expand like this no doubt it will",
+    "start": 539.2,
+    "duration": 3.84
+  },
+  {
+    "text": "not execute like this the order of",
+    "start": 541.24,
+    "duration": 3.87
+  },
+  {
+    "text": "execution will be different but the",
+    "start": 543.04,
+    "duration": 3.93
+  },
+  {
+    "text": "complete tree looks like this",
+    "start": 545.11,
+    "duration": 4.349
+  },
+  {
+    "text": "now these cost or suggests I can write",
+    "start": 546.97,
+    "duration": 7.2
+  },
+  {
+    "text": "down here C of 3/4 C of 3/4 is how much",
+    "start": 549.459,
+    "duration": 7.011
+  },
+  {
+    "text": "3 4 is 12",
+    "start": 554.17,
+    "duration": 6.349
+  },
+  {
+    "text": "so let us take that 12 plus so-and-so",
+    "start": 556.47,
+    "duration": 8.489
+  },
+  {
+    "text": "function is there then C off for 3 is 9",
+    "start": 560.519,
+    "duration": 10.651
+  },
+  {
+    "text": "C of 2 for 10 C of 4 2 is 8",
+    "start": 564.959,
+    "duration": 14.671
+  },
+  {
+    "text": "C of 2 3 is 9 C of 3 2 is 13 now",
+    "start": 571.17,
+    "duration": 8.46
+  },
+  {
+    "text": "remaining still functions are there so I",
+    "start": 580.529,
+    "duration": 7.031
+  },
+  {
+    "text": "will show here C cost of a root from 2",
+    "start": 583.839,
+    "duration": 6.87
+  },
+  {
+    "text": "to nothing so you are on what X 2 and no",
+    "start": 587.56,
+    "duration": 5.19
+  },
+  {
+    "text": "other vertex you have to visit because",
+    "start": 590.709,
+    "duration": 5.37
+  },
+  {
+    "text": "if you see from this 1 from 1 to 4 we",
+    "start": 592.75,
+    "duration": 7.47
+  },
+  {
+    "text": "have gone from 4 to 3 then 3 to 2 and as",
+    "start": 596.079,
+    "duration": 6.331
+  },
+  {
+    "text": "first traveling salesperson problem you",
+    "start": 600.22,
+    "duration": 3.63
+  },
+  {
+    "text": "must go back to the starting vertex",
+    "start": 602.41,
+    "duration": 3.75
+  },
+  {
+    "text": "again so from 2 we have to go back to",
+    "start": 603.85,
+    "duration": 5.34
+  },
+  {
+    "text": "vertex 1 again so for 2 to nothing means",
+    "start": 606.16,
+    "duration": 5.91
+  },
+  {
+    "text": "we have to go back to vertex 1 so 2 to 1",
+    "start": 609.19,
+    "duration": 5.67
+  },
+  {
+    "text": "is how much 5 so we can replace this",
+    "start": 612.07,
+    "duration": 5.579
+  },
+  {
+    "text": "with 5 so let us start from here so -",
+    "start": 614.86,
+    "duration": 5.31
+  },
+  {
+    "text": "nothing will fall to 1/4 - 1 is how much",
+    "start": 617.649,
+    "duration": 4.68
+  },
+  {
+    "text": "see you can see this column 4 to 1 is 8",
+    "start": 620.17,
+    "duration": 7.2
+  },
+  {
+    "text": "3 2 1 and 6 2 2 1 is 5 so here I have 4",
+    "start": 622.329,
+    "duration": 5.82
+  },
+  {
+    "text": "to nothing",
+    "start": 627.37,
+    "duration": 5.01
+  },
+  {
+    "text": "4 to 1 4 to 1 is how much 8 & 3 to",
+    "start": 628.149,
+    "duration": 4.651
+  },
+  {
+    "text": "nothing",
+    "start": 632.38,
+    "duration": 7.55
+  },
+  {
+    "text": "3 2 1 is how much 6 4 to nothing so 4 to",
+    "start": 632.8,
+    "duration": 14.31
+  },
+  {
+    "text": "1 is 8 2 to 1 s fine 3 2 1",
+    "start": 639.93,
+    "duration": 14.3
+  },
+  {
+    "text": "s 6 and 2 2 1 s 5",
+    "start": 647.11,
+    "duration": 10.03
+  },
+  {
+    "text": "so the last level we have the values now",
+    "start": 654.23,
+    "duration": 5.25
+  },
+  {
+    "text": "just you look at the three ones I am",
+    "start": 657.14,
+    "duration": 4.53
+  },
+  {
+    "text": "going to substitute the values and get",
+    "start": 659.48,
+    "duration": 4.95
+  },
+  {
+    "text": "back to the final answer just really",
+    "start": 661.67,
+    "duration": 10.59
+  },
+  {
+    "text": "have a look at a tree once the tree have",
+    "start": 664.43,
+    "duration": 10.29
+  },
+  {
+    "text": "expanded so much if we try to use a",
+    "start": 672.26,
+    "duration": 4.74
+  },
+  {
+    "text": "recursive tree then this is how it will",
+    "start": 674.72,
+    "duration": 6.33
+  },
+  {
+    "text": "expand so to avoid this we don't follow",
+    "start": 677.0,
+    "duration": 6.48
+  },
+  {
+    "text": "this method for solving and getting the",
+    "start": 681.05,
+    "duration": 5.85
+  },
+  {
+    "text": "answer but we will make it as a table",
+    "start": 683.48,
+    "duration": 6.12
+  },
+  {
+    "text": "and we get the values for this last",
+    "start": 686.9,
+    "duration": 5.4
+  },
+  {
+    "text": "level first then the upper level then",
+    "start": 689.6,
+    "duration": 4.71
+  },
+  {
+    "text": "above level then automatically we get",
+    "start": 692.3,
+    "duration": 4.2
+  },
+  {
+    "text": "dancer so I will show you how actually",
+    "start": 694.31,
+    "duration": 4.17
+  },
+  {
+    "text": "this is solved this is not the way I am",
+    "start": 696.5,
+    "duration": 4.29
+  },
+  {
+    "text": "just explaining this one I was just",
+    "start": 698.48,
+    "duration": 4.44
+  },
+  {
+    "text": "explaining this now let us see what is",
+    "start": 700.79,
+    "duration": 4.77
+  },
+  {
+    "text": "the way of solving this I'll remove this",
+    "start": 702.92,
+    "duration": 4.83
+  },
+  {
+    "text": "one here I will write on so actually you",
+    "start": 705.56,
+    "duration": 4.35
+  },
+  {
+    "text": "will find out the last level values what",
+    "start": 707.75,
+    "duration": 5.76
+  },
+  {
+    "text": "are those G off we are on the second",
+    "start": 709.91,
+    "duration": 6.33
+  },
+  {
+    "text": "vertex is nothing is remaining G off we",
+    "start": 713.51,
+    "duration": 4.5
+  },
+  {
+    "text": "are on the third vertex and nothing is",
+    "start": 716.24,
+    "duration": 4.35
+  },
+  {
+    "text": "remaining G of your unfold vertex",
+    "start": 718.01,
+    "duration": 4.71
+  },
+  {
+    "text": "nothing is remaining so we need answer",
+    "start": 720.59,
+    "duration": 6.71
+  },
+  {
+    "text": "to do nothing total thing is how much 5",
+    "start": 722.72,
+    "duration": 16.22
+  },
+  {
+    "text": "+ 3 - nothing s 6 4 - nothing s 8 see",
+    "start": 727.3,
+    "duration": 14.08
+  },
+  {
+    "text": "this is like a table will generate",
+    "start": 738.94,
+    "duration": 5.5
+  },
+  {
+    "text": "actually dynamic programming programming",
+    "start": 741.38,
+    "duration": 5.49
+  },
+  {
+    "text": "means with tabular values it's not",
+    "start": 744.44,
+    "duration": 4.92
+  },
+  {
+    "text": "software it's not computer programming",
+    "start": 746.87,
+    "duration": 4.59
+  },
+  {
+    "text": "programming means table or values",
+    "start": 749.36,
+    "duration": 4.8
+  },
+  {
+    "text": "dynamic programming dynamic collision at",
+    "start": 751.46,
+    "duration": 5.55
+  },
+  {
+    "text": "the table actually we should solve it",
+    "start": 754.16,
+    "duration": 4.8
+  },
+  {
+    "text": "like a recursion but we don't solve it",
+    "start": 757.01,
+    "duration": 4.95
+  },
+  {
+    "text": "like this we will prepare a table we",
+    "start": 758.96,
+    "duration": 4.8
+  },
+  {
+    "text": "what values you find out we find out the",
+    "start": 761.96,
+    "duration": 3.9
+  },
+  {
+    "text": "smaller values first then we can know",
+    "start": 763.76,
+    "duration": 4.35
+  },
+  {
+    "text": "that this value C unless I know this",
+    "start": 765.86,
+    "duration": 4.74
+  },
+  {
+    "text": "value it cannot get dance for this this",
+    "start": 768.11,
+    "duration": 5.31
+  },
+  {
+    "text": "why we followed these now in the next",
+    "start": 770.6,
+    "duration": 4.8
+  },
+  {
+    "text": "level you will find out these values C",
+    "start": 773.42,
+    "duration": 5.97
+  },
+  {
+    "text": "what are these 3 to 4 4 to 3 2 to 4 4 to",
+    "start": 775.4,
+    "duration": 7.95
+  },
+  {
+    "text": "2 2 to 3 3 to 2 so we need these values",
+    "start": 779.39,
+    "duration": 5.49
+  },
+  {
+    "text": "we are on vertex",
+    "start": 783.35,
+    "duration": 4.92
+  },
+  {
+    "text": "two and three is remaining we are on",
+    "start": 784.88,
+    "duration": 7.8
+  },
+  {
+    "text": "vertex 2 and 4 is remaining we are on",
+    "start": 788.27,
+    "duration": 8.37
+  },
+  {
+    "text": "vertex 3 and what x2 is remaining we are",
+    "start": 792.68,
+    "duration": 6.57
+  },
+  {
+    "text": "on vertex 3 and vertex 4 is remaining",
+    "start": 796.64,
+    "duration": 6.75
+  },
+  {
+    "text": "and we are on vertex 4 2 is remaining to",
+    "start": 799.25,
+    "duration": 6.33
+  },
+  {
+    "text": "be visited what it's for",
+    "start": 803.39,
+    "duration": 5.85
+  },
+  {
+    "text": "3 is remaining to be visited see here",
+    "start": 805.58,
+    "duration": 7.56
+  },
+  {
+    "text": "nothing remaining so 2/5 3/5 4/5 now one",
+    "start": 809.24,
+    "duration": 5.55
+  },
+  {
+    "text": "vertex remaining so if you are one two",
+    "start": 813.14,
+    "duration": 3.3
+  },
+  {
+    "text": "there are two possibilities three may be",
+    "start": 814.79,
+    "duration": 3.87
+  },
+  {
+    "text": "remaining or 4 maybe remaining so this",
+    "start": 816.44,
+    "duration": 5.31
+  },
+  {
+    "text": "way we have taken these functions and",
+    "start": 818.66,
+    "duration": 4.77
+  },
+  {
+    "text": "that are actually representing this",
+    "start": 821.75,
+    "duration": 6.06
+  },
+  {
+    "text": "second last level you see 4 2 2 3 3 2",
+    "start": 823.43,
+    "duration": 7.89
+  },
+  {
+    "text": "all these are representing them now let",
+    "start": 827.81,
+    "duration": 5.76
+  },
+  {
+    "text": "us see what are these values see this is",
+    "start": 831.32,
+    "duration": 5.37
+  },
+  {
+    "text": "3 for 3 we are on 3 and remaining is 4",
+    "start": 833.57,
+    "duration": 6.75
+  },
+  {
+    "text": "so this is 20 so 3 we are on three",
+    "start": 836.69,
+    "duration": 6.66
+  },
+  {
+    "text": "remaining 4 is 20 so we know this value",
+    "start": 840.32,
+    "duration": 8.19
+  },
+  {
+    "text": "now I will change it with 20 we are on",
+    "start": 843.35,
+    "duration": 7.08
+  },
+  {
+    "text": "four remaining what is this 3 so this is",
+    "start": 848.51,
+    "duration": 5.25
+  },
+  {
+    "text": "15 we are on four remaining what is 3",
+    "start": 850.43,
+    "duration": 6.99
+  },
+  {
+    "text": "this is 15 so I'll change this value to",
+    "start": 853.76,
+    "duration": 7.92
+  },
+  {
+    "text": "15 I know the answer now here on what x2",
+    "start": 857.42,
+    "duration": 7.98
+  },
+  {
+    "text": "remaining value is 4 so this is 18 2 & 4",
+    "start": 861.68,
+    "duration": 8.46
+  },
+  {
+    "text": "this is 18 I'll replace this with 18",
+    "start": 865.4,
+    "duration": 7.86
+  },
+  {
+    "text": "Vinod ons are now here we are on 4",
+    "start": 870.14,
+    "duration": 7.11
+  },
+  {
+    "text": "remaining is true it is 13 we are on 4",
+    "start": 873.26,
+    "duration": 8.01
+  },
+  {
+    "text": "remaining is - as 13 so we know this",
+    "start": 877.25,
+    "duration": 8.49
+  },
+  {
+    "text": "answer 13 we are on to remaining is 3 we",
+    "start": 881.27,
+    "duration": 7.38
+  },
+  {
+    "text": "are on to remaining is 3 is how much 15",
+    "start": 885.74,
+    "duration": 9.42
+  },
+  {
+    "text": "so this is 15 15 we are on 3 and",
+    "start": 888.65,
+    "duration": 10.74
+  },
+  {
+    "text": "remaining is 2 so this is 18 so 2",
+    "start": 895.16,
+    "duration": 6.3
+  },
+  {
+    "text": "remaining we are on 3 and remaining is 2",
+    "start": 899.39,
+    "duration": 9.51
+  },
+  {
+    "text": "is 18 so this is 18 now I'll show you",
+    "start": 901.46,
+    "duration": 10.08
+  },
+  {
+    "text": "from the table leave it on one vertex",
+    "start": 908.9,
+    "duration": 4.29
+  },
+  {
+    "text": "and remaining only one what X was",
+    "start": 911.54,
+    "duration": 4.799
+  },
+  {
+    "text": "remaining now if we say - what is this",
+    "start": 913.19,
+    "duration": 5.16
+  },
+  {
+    "text": "what are the possibilities we are on",
+    "start": 916.339,
+    "duration": 10.5
+  },
+  {
+    "text": "vertex 2 & 3 for our remaining or we are",
+    "start": 918.35,
+    "duration": 13.649
+  },
+  {
+    "text": "on vertex 3 & 2 for our remaining we are",
+    "start": 926.839,
+    "duration": 10.081
+  },
+  {
+    "text": "on what X 4 and 2 3 are remaining these",
+    "start": 931.999,
+    "duration": 8.7
+  },
+  {
+    "text": "are the possibilities see these 3 sets",
+    "start": 936.92,
+    "duration": 7.589
+  },
+  {
+    "text": "are representing this one we are one two",
+    "start": 940.699,
+    "duration": 5.55
+  },
+  {
+    "text": "three four remaining three to four",
+    "start": 944.509,
+    "duration": 5.611
+  },
+  {
+    "text": "remaining four to three minute how to",
+    "start": 946.249,
+    "duration": 6.181
+  },
+  {
+    "text": "get these values minimum of these two",
+    "start": 950.12,
+    "duration": 8.36
+  },
+  {
+    "text": "what is minimum 29 and 25 so this is 25",
+    "start": 952.43,
+    "duration": 12.87
+  },
+  {
+    "text": "25 so this is 25 we don't need this now",
+    "start": 958.48,
+    "duration": 12.789
+  },
+  {
+    "text": "I will remove this now this is 31 and 25",
+    "start": 965.3,
+    "duration": 12.389
+  },
+  {
+    "text": "3 to 4 or remaining is 25 25 so I remove",
+    "start": 971.269,
+    "duration": 10.38
+  },
+  {
+    "text": "this I'll write 25 years now if you do",
+    "start": 977.689,
+    "duration": 6.181
+  },
+  {
+    "text": "not answer for this also 4 remaining is",
+    "start": 981.649,
+    "duration": 4.98
+  },
+  {
+    "text": "2 3 this one out of this which is",
+    "start": 983.87,
+    "duration": 3.329
+  },
+  {
+    "text": "minimum",
+    "start": 986.629,
+    "duration": 5.611
+  },
+  {
+    "text": "this is 23 and this is 27 so 23 is",
+    "start": 987.199,
+    "duration": 8.281
+  },
+  {
+    "text": "minimum so 23 is many more no remove",
+    "start": 992.24,
+    "duration": 9.63
+  },
+  {
+    "text": "this and write 23 now out of these we",
+    "start": 995.48,
+    "duration": 8.099
+  },
+  {
+    "text": "can find out minimum that will be done",
+    "start": 1001.87,
+    "duration": 5.399
+  },
+  {
+    "text": "so for this so that is finally G of 1",
+    "start": 1003.579,
+    "duration": 9.36
+  },
+  {
+    "text": "and 2 3 4 3 vertices sorry meaning out",
+    "start": 1007.269,
+    "duration": 9.771
+  },
+  {
+    "text": "of the switches minimum this is 35 and",
+    "start": 1012.939,
+    "duration": 9.75
+  },
+  {
+    "text": "this is 40 and this is 43 out of this",
+    "start": 1017.04,
+    "duration": 9.999
+  },
+  {
+    "text": "minimum is 35 so answer is 35 so answer",
+    "start": 1022.689,
+    "duration": 8.821
+  },
+  {
+    "text": "for this one is 35 so the shortest route",
+    "start": 1027.039,
+    "duration": 8.3
+  },
+  {
+    "text": "or for traveling salesperson problem is",
+    "start": 1031.51,
+    "duration": 8.24
+  },
+  {
+    "text": "35 so that's it",
+    "start": 1035.339,
+    "duration": 4.411
+  }
+]

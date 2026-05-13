@@ -1,0 +1,982 @@
+[
+  {
+    "text": "The coolest feature in Gears of War is, \ndefinitely, the active reload. Here's how  ",
+    "start": 1.44,
+    "duration": 6.72
+  },
+  {
+    "text": "it works: every time you reload your gun, \nyou're invited to play a tiny mini-game.  ",
+    "start": 8.16,
+    "duration": 4.74
+  },
+  {
+    "text": "A cursor swipes along a line and you can hit \nreload again to try and win a prize. Land here,  ",
+    "start": 12.9,
+    "duration": 6.54
+  },
+  {
+    "text": "and you'll reload super fast. Land here, \nand you'll also get a weapon boost - like,  ",
+    "start": 19.44,
+    "duration": 5.16
+  },
+  {
+    "text": "more powerful bullets. But land \nanywhere else and your gun will jam.",
+    "start": 24.6,
+    "duration": 4.74
+  },
+  {
+    "text": "It's a great feature - adding tension, \nskill, and flourish to one of the most  ",
+    "start": 29.34,
+    "duration": 5.28
+  },
+  {
+    "text": "basic actions in shooters. But, it also left \nEpic with a problem. You see, in playtesting,  ",
+    "start": 34.62,
+    "duration": 5.46
+  },
+  {
+    "text": "the devs found that advanced players \nwere nailing that perfect reload,  ",
+    "start": 40.08,
+    "duration": 4.02
+  },
+  {
+    "text": "constantly giving them better \nbullets and, thus, an advantage  ",
+    "start": 44.1,
+    "duration": 3.06
+  },
+  {
+    "text": "over the enemies. So they had to rebalance \nall the foes, making them more resistant.",
+    "start": 47.16,
+    "duration": 4.86
+  },
+  {
+    "text": "But, beginner players often ignored the \nactive reload entirely. So they didn't get  ",
+    "start": 52.02,
+    "duration": 5.16
+  },
+  {
+    "text": "that weapon buff - and were now fighting these \noverpowered bad guys with weak bullets. Agh!",
+    "start": 57.18,
+    "duration": 5.7
+  },
+  {
+    "text": "So much of game design is about solving problems \nlike this. You come up with an idea - and then  ",
+    "start": 62.88,
+    "duration": 5.88
+  },
+  {
+    "text": "find out that it's flawed in some way. It's \nunbalanced. It's confusing. It's not leading to  ",
+    "start": 68.76,
+    "duration": 5.04
+  },
+  {
+    "text": "the gameplay you intended. Or it's clashing \nwith some other feature in the game. And,  ",
+    "start": 73.8,
+    "duration": 4.38
+  },
+  {
+    "text": "as a designer, you can often find yourself going \naround in circles to find the right solution.",
+    "start": 78.18,
+    "duration": 4.74
+  },
+  {
+    "text": "Surely there's a better way?",
+    "start": 82.92,
+    "duration": 2.34
+  },
+  {
+    "text": "Well, in this episode, let's look at how the \nbest game creators go about solving problems  ",
+    "start": 85.26,
+    "duration": 5.22
+  },
+  {
+    "text": "in their design - to give us some take \nhome tips for fixing future issues. Oh,  ",
+    "start": 90.48,
+    "duration": 4.62
+  },
+  {
+    "text": "and I'll also let you know how Epic fixed \nthe active reload. The solution is...  ",
+    "start": 95.1,
+    "duration": 4.14
+  },
+  {
+    "text": "pretty ingenious. I'm Mark Brown, \nand this is Game Maker's Toolkit.",
+    "start": 99.24,
+    "duration": 4.5
+  },
+  {
+    "text": "So, before we start coming up with \nsolutions... we need to make sure  ",
+    "start": 104.58,
+    "duration": 3.3
+  },
+  {
+    "text": "that we've accurately identified the problem.",
+    "start": 107.88,
+    "duration": 2.16
+  },
+  {
+    "text": "During the development of Dying Light, the game's \ndirector had an issue: weapons break too fast,  ",
+    "start": 110.04,
+    "duration": 5.58
+  },
+  {
+    "text": "and so he told the designers to increase their \ndurability. But, lead designer Maciej 'Matt'  ",
+    "start": 115.62,
+    "duration": 4.47
+  },
+  {
+    "text": "Binkowski didn't want to fiddle with that stat \nbecause it might mess up the game's economy.",
+    "start": 120.09,
+    "duration": 4.23
+  },
+  {
+    "text": "So, instead, he dug deeper, asked more questions,  ",
+    "start": 124.32,
+    "duration": 3.06
+  },
+  {
+    "text": "and got to the real problem - players could only \nkill a few zombies before their weapon broke. So,  ",
+    "start": 127.38,
+    "duration": 5.64
+  },
+  {
+    "text": "to fix this, the designer didn't touch weapon \ndurability at all, but instead lowered the  ",
+    "start": 133.02,
+    "duration": 5.34
+  },
+  {
+    "text": "health points of the enemies. It solved the \nproblem, and basic combat felt better too.",
+    "start": 138.36,
+    "duration": 4.86
+  },
+  {
+    "text": "Binkowski suggests designers step back and \nfigure out the root cause of the problem,  ",
+    "start": 143.22,
+    "duration": 4.26
+  },
+  {
+    "text": "before trying to solve the \nissue that's been reported.",
+    "start": 147.48,
+    "duration": 3.06
+  },
+  {
+    "text": "We also need to make sure that everyone \nis on the same page about the problem.  ",
+    "start": 150.54,
+    "duration": 4.26
+  },
+  {
+    "text": "Just before Astroneer left Early Access, the \ndesigners wanted to improve the game's crafting  ",
+    "start": 154.8,
+    "duration": 4.92
+  },
+  {
+    "text": "system - but had very different ideas about the \nissue. One designer thought it was too simple,  ",
+    "start": 159.72,
+    "duration": 4.8
+  },
+  {
+    "text": "and so wanted to add more machines \nand resource chains. Another actually  ",
+    "start": 164.52,
+    "duration": 3.96
+  },
+  {
+    "text": "thought it was already too complicated, \nwith fiddly, unintuitive processes.",
+    "start": 168.48,
+    "duration": 4.14
+  },
+  {
+    "text": "This, naturally, led to disagreements - but it \nwas only when they stepped back and really broke  ",
+    "start": 172.62,
+    "duration": 5.1
+  },
+  {
+    "text": "the problem down, that they realised they were \ntalking about two completely different issues.  ",
+    "start": 177.72,
+    "duration": 4.14
+  },
+  {
+    "text": "One was looking at the shallow gameplay loop, \nfrom a wide-angle systems perspective. The other  ",
+    "start": 181.86,
+    "duration": 5.4
+  },
+  {
+    "text": "was looking at the operation of complex machines, \nthrough the lens of moment-to-moment interactions.",
+    "start": 187.26,
+    "duration": 5.46
+  },
+  {
+    "text": "Now, seeing eye-to-eye, they could \nsolve the underlying problem,  ",
+    "start": 192.72,
+    "duration": 3.78
+  },
+  {
+    "text": "and fix both issues at once. Those \nfiddly machines could be overhauled,  ",
+    "start": 196.5,
+    "duration": 5.1
+  },
+  {
+    "text": "and then used to expand the simple crafting \nloop to create a more interesting economy.",
+    "start": 201.6,
+    "duration": 4.56
+  },
+  {
+    "text": "Okay, so hopefully we now know what the \nreal problem is. So how do we fix it? Well,  ",
+    "start": 206.16,
+    "duration": 5.64
+  },
+  {
+    "text": "here are some best practices \nfrom across the industry.",
+    "start": 211.8,
+    "duration": 3.78
+  },
+  {
+    "text": "Approach one - quickly iterate \nthrough possible solutions.",
+    "start": 215.58,
+    "duration": 4.86
+  },
+  {
+    "text": "When Blizzard was making Diablo 3, they wanted \nto fix a problem from the previous game:  ",
+    "start": 221.16,
+    "duration": 4.74
+  },
+  {
+    "text": "potion spamming. Players would often \njust guzzle endless potions during  ",
+    "start": 225.9,
+    "duration": 3.96
+  },
+  {
+    "text": "combat - and so enemies needed to \ndo massive one-shot hits to have any  ",
+    "start": 229.86,
+    "duration": 3.66
+  },
+  {
+    "text": "chance of actually killing the player. \nUnfortunately, Blizzard didn't really  ",
+    "start": 233.52,
+    "duration": 3.72
+  },
+  {
+    "text": "know how to solve this thorny issue - \nso, they just tried a bunch of ideas.",
+    "start": 237.24,
+    "duration": 3.9
+  },
+  {
+    "text": "How about - potions become less effective \nif you drink them in quick succession?  ",
+    "start": 241.14,
+    "duration": 4.56
+  },
+  {
+    "text": "Slap a build together and... that didn't \nwork - if a potion only heals for 25%,  ",
+    "start": 245.7,
+    "duration": 4.86
+  },
+  {
+    "text": "players would just chug four of them.",
+    "start": 250.56,
+    "duration": 2.34
+  },
+  {
+    "text": "Okay, how about you automatically heal - but only \nif enemies are unaware of your presence. Make a  ",
+    "start": 252.9,
+    "duration": 5.88
+  },
+  {
+    "text": "build and... no good. Enemy awareness just wasn't \nobvious enough. Alright, let's simplify the rule:  ",
+    "start": 258.78,
+    "duration": 6.6
+  },
+  {
+    "text": "if three seconds pass without you taking \ndamage, you start to heal. Build the game  ",
+    "start": 265.38,
+    "duration": 4.5
+  },
+  {
+    "text": "and... didn't work. Players would run away \nfrom fights, acting passive and defensive.",
+    "start": 269.88,
+    "duration": 5.28
+  },
+  {
+    "text": "That's the opposite of what Blizzard \nwanted - players should be aggressive.",
+    "start": 275.16,
+    "duration": 4.02
+  },
+  {
+    "text": "Ah! But, that did point to the solution: \nmake enemies randomly drop crystal balls  ",
+    "start": 279.18,
+    "duration": 5.58
+  },
+  {
+    "text": "filled with health, when you kill \nthem. This removes potion spamming,  ",
+    "start": 284.76,
+    "duration": 4.02
+  },
+  {
+    "text": "it's simple to understand, and it makes \nplayers act aggressively. Job done.",
+    "start": 288.78,
+    "duration": 4.2
+  },
+  {
+    "text": "This approach is all about trying stuff and \nusing the results to guide your way to the  ",
+    "start": 292.98,
+    "duration": 4.56
+  },
+  {
+    "text": "solution. Like, that first solution with \nthe diluted potions, designer Wyatt Cheng  ",
+    "start": 297.54,
+    "duration": 4.38
+  },
+  {
+    "text": "says \"we weren't totally thrilled with \nthis solution as we were putting it in,  ",
+    "start": 301.92,
+    "duration": 3.42
+  },
+  {
+    "text": "but we did it anyway. We knew that even though \nthis might not be a solution that we're willing  ",
+    "start": 305.34,
+    "duration": 4.2
+  },
+  {
+    "text": "to ship with, it was something that was going \nto teach us a lot more about the problem\".",
+    "start": 309.54,
+    "duration": 4.08
+  },
+  {
+    "text": "Approach two - identify the levers",
+    "start": 314.22,
+    "duration": 3.78
+  },
+  {
+    "text": "In a fascinating GDC talk about game \nbalance, Bungie's Jaime Griesemer  ",
+    "start": 318.0,
+    "duration": 4.56
+  },
+  {
+    "text": "explains how his team fixed the sniper rifle \nin Halo 3. You see, the rifle was broken:  ",
+    "start": 322.56,
+    "duration": 4.98
+  },
+  {
+    "text": "players were able to acquire long-range \ntargets too quickly between shots - and,  ",
+    "start": 327.54,
+    "duration": 4.56
+  },
+  {
+    "text": "they could also use the sniper rifle in close \nquarters for massive damage. It was overpowered.",
+    "start": 332.1,
+    "duration": 5.04
+  },
+  {
+    "text": "Fixing an issue like this means first identifying \nwhich levers can be pulled - and which ones can't.  ",
+    "start": 337.14,
+    "duration": 5.88
+  },
+  {
+    "text": "For Griesemer, you can't shorten the range of \na sniper rifle. And you can't nerf its damage,  ",
+    "start": 343.02,
+    "duration": 5.34
+  },
+  {
+    "text": "reduce its accuracy, or stop it doing insta-kill \nheadshots, either. Those factors all define  ",
+    "start": 348.36,
+    "duration": 5.94
+  },
+  {
+    "text": "the sniper rifle - you can't change those stats \nwithout breaking the very identity of the weapon.",
+    "start": 354.3,
+    "duration": 5.28
+  },
+  {
+    "text": "So by removing those options, it became clear \nwhat can be changed. Stats like the number of  ",
+    "start": 359.58,
+    "duration": 6.06
+  },
+  {
+    "text": "shots in the clip. The length of the reload. The \ntime it takes to zoom in. The time between shots.  ",
+    "start": 365.64,
+    "duration": 5.64
+  },
+  {
+    "text": "Whether you can do insta-kill headshots outside \nof the scope. And the maximum ammo you can carry.",
+    "start": 371.28,
+    "duration": 5.16
+  },
+  {
+    "text": "The right call was changing the \ntime between shots. It stopped  ",
+    "start": 376.44,
+    "duration": 3.54
+  },
+  {
+    "text": "players from instantly acquiring and \nshooting a target after each bullet,  ",
+    "start": 379.98,
+    "duration": 3.12
+  },
+  {
+    "text": "and it made it much less effective in close \nquarters now you can't spam the trigger. In  ",
+    "start": 383.1,
+    "duration": 4.08
+  },
+  {
+    "text": "the end, it was enough to increase the \ntime from 0.5 seconds, to 0.7 seconds.",
+    "start": 387.18,
+    "duration": 4.44
+  },
+  {
+    "text": "By figuring out what can and can't be changed, \nyou can better focus your attention on potential  ",
+    "start": 391.62,
+    "duration": 6.0
+  },
+  {
+    "text": "solutions. However - this must be done carefully. \nSometimes the target really is that thing you've  ",
+    "start": 397.62,
+    "duration": 5.34
+  },
+  {
+    "text": "convinced yourself cannot be changed. As \nalways, be prepared to kill your darlings.",
+    "start": 402.96,
+    "duration": 4.8
+  },
+  {
+    "text": "Approach three - make big changes",
+    "start": 408.66,
+    "duration": 3.78
+  },
+  {
+    "text": "Okay, so I just talked about a change of 0.2 \nseconds - a pretty small change that had a  ",
+    "start": 412.44,
+    "duration": 5.88
+  },
+  {
+    "text": "big impact on the game. But sometimes, \nyou want to swing for the fences. Less  ",
+    "start": 418.32,
+    "duration": 4.38
+  },
+  {
+    "text": "than a month before the first Civilization was \nreleased, Sid Meier realised that the game had  ",
+    "start": 422.7,
+    "duration": 4.14
+  },
+  {
+    "text": "pacing issues. So he decided to solve the \nproblem by reducing the size of the map.",
+    "start": 426.84,
+    "duration": 4.74
+  },
+  {
+    "text": "Not by a few tiles. Or a few \npercentage points. He cut that  ",
+    "start": 431.58,
+    "duration": 3.84
+  },
+  {
+    "text": "sucker in half. And this worked wonders \n- the game moved faster, felt snappier,  ",
+    "start": 435.42,
+    "duration": 5.76
+  },
+  {
+    "text": "and it better captured that true Civ \nfeeling of relentless forward progress.",
+    "start": 441.18,
+    "duration": 4.5
+  },
+  {
+    "text": "We've already talked about iterating on a problem \n- but development time is limited, so if you're  ",
+    "start": 445.68,
+    "duration": 5.04
+  },
+  {
+    "text": "only ever changing things by tiny amounts - a \n5% nerf here, a 6% buff there - you may never  ",
+    "start": 450.72,
+    "duration": 6.06
+  },
+  {
+    "text": "get to the right answer. Or you'll find out too \nlate that your solution would never have worked.",
+    "start": 456.78,
+    "duration": 4.44
+  },
+  {
+    "text": "Meier's advice is to \"double it, or cut it in \nhalf\". With such dramatic changes, you'll very  ",
+    "start": 461.22,
+    "duration": 5.82
+  },
+  {
+    "text": "quickly see if the change has an effect - and if \nyou go too far, you can always drop back down to  ",
+    "start": 467.04,
+    "duration": 4.92
+  },
+  {
+    "text": "readjust. Talking about that Civ map, Meier says \n\"if I’d been afraid to deviate too severely from  ",
+    "start": 471.96,
+    "duration": 5.4
+  },
+  {
+    "text": "what we already had, I never would have gotten to \nthe right size in time before the game shipped\".",
+    "start": 477.36,
+    "duration": 4.56
+  },
+  {
+    "text": "Approach four - flip it on its head",
+    "start": 481.92,
+    "duration": 3.12
+  },
+  {
+    "text": "In Shovel Knight, Yacht Club wanted to \nput an interesting twist on saving your  ",
+    "start": 485.04,
+    "duration": 4.8
+  },
+  {
+    "text": "progress. They wanted a system where players \ncould risk skipping a checkpoint, in order  ",
+    "start": 489.84,
+    "duration": 4.2
+  },
+  {
+    "text": "to get a reward. So they made a checkpoint \nthat you have to pay to use. If you want,  ",
+    "start": 494.04,
+    "duration": 4.74
+  },
+  {
+    "text": "you can skip it and save the cash - but at \nthe risk of losing more progress when you die.",
+    "start": 498.78,
+    "duration": 4.08
+  },
+  {
+    "text": "But this system didn't really work. It was \ncomplicated to use and visually unintuitive. And,  ",
+    "start": 502.86,
+    "duration": 6.66
+  },
+  {
+    "text": "worse still, it had a big balance problem: novice \nplayers, who needed the checkpoints the most,  ",
+    "start": 509.52,
+    "duration": 4.92
+  },
+  {
+    "text": "were also least likely to have the \nfunds to save their game. No good.",
+    "start": 514.44,
+    "duration": 4.08
+  },
+  {
+    "text": "So the solution was to flip \nthe concept upside down.",
+    "start": 518.52,
+    "duration": 3.24
+  },
+  {
+    "text": "Instead of paying money to save your game... \nwhat if you get paid if you don't save? So now,  ",
+    "start": 521.76,
+    "duration": 5.46
+  },
+  {
+    "text": "saving is automatic - removing that \ncomplexity. And it's free - so novice  ",
+    "start": 527.22,
+    "duration": 4.8
+  },
+  {
+    "text": "players never lose out. But it also has \nthat spicy twist of risk and reward - cocky  ",
+    "start": 532.02,
+    "duration": 5.52
+  },
+  {
+    "text": "platforming experts can intentionally \nbreak the checkpoint to make more money.",
+    "start": 537.54,
+    "duration": 3.66
+  },
+  {
+    "text": "Sometimes you're close to the right solution, \nbut you just need to reverse the formula.",
+    "start": 541.2,
+    "duration": 4.38
+  },
+  {
+    "text": "Approach five - find the solution elsewhere",
+    "start": 546.48,
+    "duration": 3.0
+  },
+  {
+    "text": "So when Naughty Dog was working \non the UI for The Last of Us,  ",
+    "start": 549.48,
+    "duration": 3.96
+  },
+  {
+    "text": "they initially let Joel upgrade his weapons at \nany point, from a tab in the inventory UI. But  ",
+    "start": 553.44,
+    "duration": 5.64
+  },
+  {
+    "text": "that created problems - it added complexity \nto the minimalist interface, some players  ",
+    "start": 559.08,
+    "duration": 4.32
+  },
+  {
+    "text": "missed the option entirely, and because \nplayers could upgrade whenever they wanted,  ",
+    "start": 563.4,
+    "duration": 3.24
+  },
+  {
+    "text": "they'd typically just upgrade as soon as they \ncould afford something. Whatever was cheapest.",
+    "start": 566.64,
+    "duration": 4.14
+  },
+  {
+    "text": "Now the developers could have iterated \non this UI design for ages, moving the  ",
+    "start": 570.78,
+    "duration": 4.44
+  },
+  {
+    "text": "upgrade button to different screens or \nchanging how it was communicated to the  ",
+    "start": 575.22,
+    "duration": 3.24
+  },
+  {
+    "text": "player. But the ultimate solution was to \npull upgrading out of the UI entirely.",
+    "start": 578.46,
+    "duration": 4.44
+  },
+  {
+    "text": "Now, the game has upgrade benches. These are \nspecific points in the world where you can  ",
+    "start": 582.9,
+    "duration": 5.52
+  },
+  {
+    "text": "modify your weapon, meaning you might not have a \nchance to upgrade for an hour or two. This ensured  ",
+    "start": 588.42,
+    "duration": 5.04
+  },
+  {
+    "text": "that players actually engaged with the system. \nAnd because they had more resources saved up,  ",
+    "start": 593.46,
+    "duration": 4.62
+  },
+  {
+    "text": "they were able to boost the weapons they enjoyed \nusing the most - not just the cheapest. They also  ",
+    "start": 598.08,
+    "duration": 5.34
+  },
+  {
+    "text": "spent more time assessing all the options, \nand made plans for the next upgrade bench.",
+    "start": 603.42,
+    "duration": 4.92
+  },
+  {
+    "text": "Remember that games are a massive \nweb of interconnected systems - so  ",
+    "start": 608.34,
+    "duration": 4.08
+  },
+  {
+    "text": "sometimes you can fix a problem in one area, \nby actually making a change somewhere else.",
+    "start": 612.42,
+    "duration": 4.5
+  },
+  {
+    "text": "Approach six - solve multiple issues at once",
+    "start": 618.0,
+    "duration": 4.14
+  },
+  {
+    "text": "During the madcap multiplayer \nsessions of New Super Mario Bros. Wii,  ",
+    "start": 622.14,
+    "duration": 4.62
+  },
+  {
+    "text": "the designers found it annoying to die - and \nthen have to wait until the end of the level,  ",
+    "start": 626.76,
+    "duration": 3.78
+  },
+  {
+    "text": "or a checkpoint, to come back \nto life. So they needed a fix.",
+    "start": 630.54,
+    "duration": 3.48
+  },
+  {
+    "text": "The first idea was that knocked-out players \ncould randomly spawn inside question mark  ",
+    "start": 634.02,
+    "duration": 4.44
+  },
+  {
+    "text": "blocks. Which is pretty cute. But they kept going \nuntil they found a better solution: players would  ",
+    "start": 638.46,
+    "duration": 6.06
+  },
+  {
+    "text": "come back in a bubble, and their team mates \nhave to pop it to get them back into the game.",
+    "start": 644.52,
+    "duration": 4.38
+  },
+  {
+    "text": "This didn't just solve the original problem. \nIt also helped fix another one - sometimes,  ",
+    "start": 648.9,
+    "duration": 5.94
+  },
+  {
+    "text": "novice players get to a tricky bit that they \ncan’t tackle. So, now, they can intentionally put  ",
+    "start": 654.84,
+    "duration": 5.58
+  },
+  {
+    "text": "themselves in a bubble, let the better players \nmake progress, and then pop back out when it's  ",
+    "start": 660.42,
+    "duration": 4.92
+  },
+  {
+    "text": "safe. This one feature made dying more fun, and \nalso let players dictate their own difficulty.",
+    "start": 665.34,
+    "duration": 5.64
+  },
+  {
+    "text": "Mario's daddy, Shigeru Miyamoto, has that \nclassic quote - \"A good idea is something  ",
+    "start": 670.98,
+    "duration": 4.92
+  },
+  {
+    "text": "that does not solve just one single problem, but \nrather can solve multiple problems at once.\" So,  ",
+    "start": 675.9,
+    "duration": 6.06
+  },
+  {
+    "text": "sometimes, it's best to wait for a solution \nthat also has other benefits for the game.",
+    "start": 681.96,
+    "duration": 4.32
+  },
+  {
+    "text": "Approach seven - study player behaviour",
+    "start": 687.78,
+    "duration": 2.88
+  },
+  {
+    "text": "Okay, let's finally get back \nto that Gears of War story. So,  ",
+    "start": 690.66,
+    "duration": 3.72
+  },
+  {
+    "text": "remember - Epic had to boost the health \npoints of enemies, because advanced players  ",
+    "start": 694.38,
+    "duration": 4.14
+  },
+  {
+    "text": "kept doing perfect reloads and getting a damage \nboost. But this screwed over beginner players  ",
+    "start": 698.52,
+    "duration": 4.62
+  },
+  {
+    "text": "who ignored the system entirely and were now \ngetting wiped out by these amped up bad guys.",
+    "start": 703.14,
+    "duration": 4.2
+  },
+  {
+    "text": "But Epic noticed another difference between \nthese two player types. Top shooter players  ",
+    "start": 707.34,
+    "duration": 5.28
+  },
+  {
+    "text": "rarely finish a clip - they reload before they're \nout. But novices would typically shoot until the  ",
+    "start": 712.62,
+    "duration": 5.16
+  },
+  {
+    "text": "clip is empty, and let the game automatically \nreload. So this offered up a solution.",
+    "start": 717.78,
+    "duration": 4.68
+  },
+  {
+    "text": "The devs secretly boosted the power of \nthe last few bullets in a clip. Dubbed  ",
+    "start": 722.46,
+    "duration": 5.4
+  },
+  {
+    "text": "them \"magic bullets\". And so - on the whole \n- only novice players would get this buff,  ",
+    "start": 727.86,
+    "duration": 5.04
+  },
+  {
+    "text": "giving them a similar advantage to the \nexpert players with their perfect reloads.",
+    "start": 732.9,
+    "duration": 4.56
+  },
+  {
+    "text": "Most of the problems in game design are \nderived from watching how players interact  ",
+    "start": 737.46,
+    "duration": 4.38
+  },
+  {
+    "text": "with the game. So why not that use that \nsame approach in order to find the solution?",
+    "start": 741.84,
+    "duration": 4.2
+  },
+  {
+    "text": "Okay, so now we have a solution, we can implement \nit. But there's still a few more challenges ahead.",
+    "start": 746.88,
+    "duration": 6.84
+  },
+  {
+    "text": "The first is second-order effects. In Rainbow \nSix Siege, Ubisoft knew that it needed to fix  ",
+    "start": 753.72,
+    "duration": 6.42
+  },
+  {
+    "text": "its overpowered shotgun. So they nerfed \nit - and it had the intended effect. The  ",
+    "start": 760.14,
+    "duration": 5.16
+  },
+  {
+    "text": "shotgun was no longer outperforming the other \nweapons. But it also had a knock-on effect:  ",
+    "start": 765.3,
+    "duration": 5.4
+  },
+  {
+    "text": "because the shotgun is a great defensive \nweapon, this nerf made it much harder for  ",
+    "start": 770.7,
+    "duration": 4.5
+  },
+  {
+    "text": "defenders to win against attackers. \nThey just couldn't hold them back.",
+    "start": 775.2,
+    "duration": 4.26
+  },
+  {
+    "text": "Fixing a problem in one place can create another \nproblem elsewhere. Designers should be aware of  ",
+    "start": 779.46,
+    "duration": 6.12
+  },
+  {
+    "text": "how different systems might interlink, and \nbe smart about avoiding these issues. Or,  ",
+    "start": 785.58,
+    "duration": 4.8
+  },
+  {
+    "text": "perhaps, figure out how to solve these \nnew problems. The solution for Siege was  ",
+    "start": 790.38,
+    "duration": 4.5
+  },
+  {
+    "text": "to reduce the time limit on rounds. Because \ndefenders automatically win if time runs out,  ",
+    "start": 794.88,
+    "duration": 5.52
+  },
+  {
+    "text": "this made that side more likely to \nsucceed, bringing the balance back in line.",
+    "start": 800.4,
+    "duration": 5.04
+  },
+  {
+    "text": "Another challenge is finding the resources to \nimplement those changes. Late in development  ",
+    "start": 805.44,
+    "duration": 5.52
+  },
+  {
+    "text": "of Prey, Arkane's designers realised they \nneeded more monster variety on the space  ",
+    "start": 810.96,
+    "duration": 4.74
+  },
+  {
+    "text": "station - but they didn't really have the time, \nartists, or AI programmers to make anything new.",
+    "start": 815.7,
+    "duration": 5.88
+  },
+  {
+    "text": "So the designers found a creative solution:  ",
+    "start": 821.58,
+    "duration": 2.76
+  },
+  {
+    "text": "the poltergeist. This enemy is invisible \nand attacks by throwing nearby physics  ",
+    "start": 824.34,
+    "duration": 5.94
+  },
+  {
+    "text": "objects. It needed dramatically fewer \nresources than the other foes in the game.",
+    "start": 830.28,
+    "duration": 4.74
+  },
+  {
+    "text": "Prey's designer Ricardo Bare says \"good designers \nunderstand how to solve problems within the  ",
+    "start": 835.299,
+    "duration": 5.241
+  },
+  {
+    "text": "constraints that they have\", and adds \nthat the poltergeist actually ended up  ",
+    "start": 840.54,
+    "duration": 3.36
+  },
+  {
+    "text": "being one of his favourite enemies in the \ngame. A lot of game design issues crop up  ",
+    "start": 843.9,
+    "duration": 3.9
+  },
+  {
+    "text": "late in development - or even after the \ngame has gone live. So sometimes the best  ",
+    "start": 847.8,
+    "duration": 4.26
+  },
+  {
+    "text": "solution is just the one that you can actually \nachieve with the time and resources available.",
+    "start": 852.06,
+    "duration": 5.28
+  },
+  {
+    "text": "And finally, you need to test if the \nsolution actually has the desired effect,  ",
+    "start": 857.34,
+    "duration": 4.38
+  },
+  {
+    "text": "by going back to those playtesters, \nor getting fresh eyes. Halo's Jaime  ",
+    "start": 861.72,
+    "duration": 4.38
+  },
+  {
+    "text": "Griesemer recommends that you don't tell \nyour playtesters how you fixed the issue  ",
+    "start": 866.1,
+    "duration": 3.78
+  },
+  {
+    "text": "as that can bias their experience. Just \nsee if the problem has been resolved.",
+    "start": 869.88,
+    "duration": 4.14
+  },
+  {
+    "text": "If not - well, hopefully, like in the case \nof Diablo 3's rapid iteration, this helped  ",
+    "start": 874.02,
+    "duration": 5.28
+  },
+  {
+    "text": "you figure out what the actual problem is, and \nyou can reframe the question and start again.",
+    "start": 879.3,
+    "duration": 4.56
+  },
+  {
+    "text": "As I've been discovering myself, game design \nis all about solving problems. Very few ideas  ",
+    "start": 884.88,
+    "duration": 5.58
+  },
+  {
+    "text": "survive first contact with players. And so \nthe best game designers aren't those who can  ",
+    "start": 890.46,
+    "duration": 4.92
+  },
+  {
+    "text": "come up with good ideas - they're the ones who \ncan also figure out good solutions to problems.",
+    "start": 895.38,
+    "duration": 4.86
+  },
+  {
+    "text": "This video was absolutely packed with stories of \nclever developers solving game design problems.  ",
+    "start": 900.78,
+    "duration": 4.5
+  },
+  {
+    "text": "It's like, my favourite genre. There were loads \nmore that I couldn't fit in, so if you're a GMTK  ",
+    "start": 905.28,
+    "duration": 5.16
+  },
+  {
+    "text": "Patron on the Bonus Video tier, you can now check \nout a special tie-in video with even more stories.",
+    "start": 910.44,
+    "duration": 5.64
+  },
+  {
+    "text": "Oh, and what about if your game has already been \nreleased and then you start getting criticism?  ",
+    "start": 916.08,
+    "duration": 5.04
+  },
+  {
+    "text": "Well, then you should check out this video to \nfind out how to handle negative player feedback.",
+    "start": 921.12,
+    "duration": 5.58
+  },
+  {
+    "text": "See you soon.",
+    "start": 927.36,
+    "duration": 0.78
+  }
+]

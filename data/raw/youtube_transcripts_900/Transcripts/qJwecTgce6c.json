@@ -1,0 +1,822 @@
+[
+  {
+    "text": "Hi, I’m Rob.  Welcome to Math Antics!",
+    "start": 6.881,
+    "duration": 2.0
+  },
+  {
+    "text": "In this lesson, we’re going to learn about another important geometry quantity called Volume.",
+    "start": 8.881,
+    "duration": 4.402
+  },
+  {
+    "text": "Specifically, we’re going to learn what volume is, and what kind of units we use to measure volume,",
+    "start": 13.283,
+    "duration": 4.567
+  },
+  {
+    "text": "and how we can calculate the volumes of a few simple geometric shapes.",
+    "start": 17.85,
+    "duration": 4.202
+  },
+  {
+    "text": "The first thing you need to know is that Volume is a quantity that all 3-Dimensional objects have,",
+    "start": 22.052,
+    "duration": 5.135
+  },
+  {
+    "text": "but to understand what it means, it will help if we back up just a little",
+    "start": 27.187,
+    "duration": 3.402
+  },
+  {
+    "text": "and start out with a 1-Dimensional object like this line segment.",
+    "start": 30.589,
+    "duration": 3.868
+  },
+  {
+    "text": "To measure a 1-Dimensional object we need a 1-Dimensional quantity which we usually call “length”.",
+    "start": 34.457,
+    "duration": 5.401
+  },
+  {
+    "text": "The length of this line happens to be exactly one centimeter (which is a common unit for measuring length).",
+    "start": 39.858,
+    "duration": 5.92
+  },
+  {
+    "text": "And in the Math Antics video about area, we saw that if we move (or extend) this 1-Dimensional line",
+    "start": 45.778,
+    "duration": 5.868
+  },
+  {
+    "text": "in a direction perpendicular to it by a distance of one centimeter,",
+    "start": 51.646,
+    "duration": 3.768
+  },
+  {
+    "text": "it forms a 2-Dimensional object called a square.",
+    "start": 55.414,
+    "duration": 2.935
+  },
+  {
+    "text": "2-Dimensional objects are measured by the 2-Dimensional quantity that we call area.",
+    "start": 58.349,
+    "duration": 4.384
+  },
+  {
+    "text": "Because the original line was one centimeter long and we extended it a distance of one centimeter,",
+    "start": 62.733,
+    "duration": 5.669
+  },
+  {
+    "text": "the amount of area that this square occupies is one “square centimeter” (which is a common unit for measuring area.)",
+    "start": 68.402,
+    "duration": 7.036
+  },
+  {
+    "text": "Okay now, imagine that we take that 2-Dimensional square and move (or extend) it",
+    "start": 75.438,
+    "duration": 5.235
+  },
+  {
+    "text": "in a direction perpendicular to its surface by a distance of 1 centimeter.",
+    "start": 80.673,
+    "duration": 4.135
+  },
+  {
+    "text": "It forms a 3-Dimensional object that’s called a cube.",
+    "start": 84.808,
+    "duration": 3.284
+  },
+  {
+    "text": "And to measure a 3-Dimensional object like this, we use the 3-Dimensional quantity called volume.",
+    "start": 88.092,
+    "duration": 4.802
+  },
+  {
+    "text": "Volume tells us how much 3-Dimensional space (or 3D space) an object occupies.",
+    "start": 92.894,
+    "duration": 5.835
+  },
+  {
+    "text": "Alright, but how much volume does this cube have?",
+    "start": 98.729,
+    "duration": 3.018
+  },
+  {
+    "text": "Well, since it was made by extending 1 square centimeter a distance of one centimeter in the 3rd dimension,",
+    "start": 101.747,
+    "duration": 5.802
+  },
+  {
+    "text": "we say that its volume is exactly one “cubic centimeter” (which is a common unit for measuring volume.)",
+    "start": 107.549,
+    "duration": 6.135
+  },
+  {
+    "text": "So “square units” are used to measure area, and “cubic units” are used to measure volume.",
+    "start": 113.684,
+    "duration": 5.053
+  },
+  {
+    "text": "Since square units are made by multiplying TWO 1-Dimensional units together, like centimeter times centimeter,",
+    "start": 118.737,
+    "duration": 5.685
+  },
+  {
+    "text": "we can abbreviate them using the exponent notation “centimeters to the 2nd power” or “centimeters squared”.",
+    "start": 124.422,
+    "duration": 6.719
+  },
+  {
+    "text": "And since cubic units are made by multiplying THREE 1-Dimensional units together,",
+    "start": 131.141,
+    "duration": 4.802
+  },
+  {
+    "text": "like centimeter times centimeter times centimeter,",
+    "start": 135.943,
+    "duration": 2.849
+  },
+  {
+    "text": "we can abbreviate them using exponent notation: “centimeters to the 3rd power” or “centimeters cubed”.",
+    "start": 138.792,
+    "duration": 6.955
+  },
+  {
+    "text": "And, just like there were different sizes of square units like square inches, square meters or square miles,",
+    "start": 145.747,
+    "duration": 6.485
+  },
+  {
+    "text": "there are also different sized cubic units like cubic inches, cubic meters or cubic miles.",
+    "start": 152.232,
+    "duration": 5.935
+  },
+  {
+    "text": "See how area and square units are related to volume and cubic units?",
+    "start": 158.167,
+    "duration": 4.669
+  },
+  {
+    "text": "And there’s another similarity too.",
+    "start": 162.836,
+    "duration": 1.801
+  },
+  {
+    "text": "Do you remember how you can use square units to measure the area of ANY 2D shape, not just squares?",
+    "start": 164.637,
+    "duration": 6.285
+  },
+  {
+    "text": "Well, you can use cubic units to measure the volume of ANY 3D shape, not just cubes.",
+    "start": 170.922,
+    "duration": 5.602
+  },
+  {
+    "text": "To see how that works, take a look at this 2D circle and this 3D object called a sphere (which is like a ball).",
+    "start": 176.524,
+    "duration": 6.719
+  },
+  {
+    "text": "Just like you can uses a bunch of small squares to approximate the area of the circle,",
+    "start": 183.243,
+    "duration": 4.551
+  },
+  {
+    "text": "you can use a bunch of small cubes to approximate the volume of the sphere.",
+    "start": 187.794,
+    "duration": 4.084
+  },
+  {
+    "text": "And here’s the really cool part…The smaller the squares you use,",
+    "start": 191.878,
+    "duration": 3.536
+  },
+  {
+    "text": "the closer their combined area will match the area of the circle.",
+    "start": 195.414,
+    "duration": 3.753
+  },
+  {
+    "text": "And the smaller the cubes you use, the closer their combined volume will match the volume of the sphere.",
+    "start": 199.167,
+    "duration": 5.86
+  },
+  {
+    "text": "Okay,  so volume is a 3D quantity for measuring 3D objects,",
+    "start": 205.027,
+    "duration": 4.809
+  },
+  {
+    "text": "but since we’ve also talked a lot about area in this video,",
+    "start": 209.836,
+    "duration": 2.5
+  },
+  {
+    "text": "I want to point out that 3D objects also have a type of area that you don’t want to confuse with volume.",
+    "start": 212.336,
+    "duration": 5.719
+  },
+  {
+    "text": "You might remember from our previous videos,",
+    "start": 218.055,
+    "duration": 2.301
+  },
+  {
+    "text": "that 2D shapes have BOTH a 2D quantity called area and a 1D quantity called perimeter.",
+    "start": 220.356,
+    "duration": 5.685
+  },
+  {
+    "text": "Well, in a similar way, 3D objects have BOTH a 3D quantity called volume and a 2D quantity called called “surface area”.",
+    "start": 226.041,
+    "duration": 8.304
+  },
+  {
+    "text": "Surface area is a lot like it sounds… it’s the area of the object’s outer surface or shell.",
+    "start": 234.345,
+    "duration": 6.285
+  },
+  {
+    "text": "Perimeter and surface area are both outer boundaries of geometric shapes.",
+    "start": 240.63,
+    "duration": 4.72
+  },
+  {
+    "text": "Perimeter is the 1-Dimensional outer boundary of a 2-Dimensional shape,",
+    "start": 245.35,
+    "duration": 3.833
+  },
+  {
+    "text": "and surface area is the 2-Dimensional outer boundary of a 3-Dimensional shape.",
+    "start": 249.183,
+    "duration": 4.868
+  },
+  {
+    "text": "And to help you see the difference between surface area and volume,",
+    "start": 254.051,
+    "duration": 3.418
+  },
+  {
+    "text": "imagine that you have a perfectly thin box filled with ice.",
+    "start": 257.469,
+    "duration": 3.718
+  },
+  {
+    "text": "If you unfold the box, you can see the 2D area that surrounds the volume,",
+    "start": 261.187,
+    "duration": 4.002
+  },
+  {
+    "text": "while the volume itself if the amount of 3D space occupied by the ice inside the box.",
+    "start": 265.189,
+    "duration": 5.434
+  },
+  {
+    "text": "Alright, so now that you understand what volume is, and you won’t confuse it with surface area,",
+    "start": 270.623,
+    "duration": 4.754
+  },
+  {
+    "text": "we’re going to spend the rest of the video learning how to calculate the volumes of some basic geometric shapes.",
+    "start": 275.377,
+    "duration": 5.26
+  },
+  {
+    "text": "But before we do that,",
+    "start": 280.64,
+    "duration": 1.372
+  },
+  {
+    "text": "I want to quickly mention something important about terminology (or the words we use to describe things in math).",
+    "start": 282.012,
+    "duration": 5.42
+  },
+  {
+    "text": "Most of the time, people agree on what to call things in math,",
+    "start": 287.44,
+    "duration": 2.88
+  },
+  {
+    "text": "but not aways.",
+    "start": 290.32,
+    "duration": 1.318
+  },
+  {
+    "text": "And that’s especially true when it comes to the words that we use to describe the dimensions of geometric objects.",
+    "start": 291.66,
+    "duration": 5.474
+  },
+  {
+    "text": "Take the words, “length”, “width” and “height” for example.",
+    "start": 297.134,
+    "duration": 2.901
+  },
+  {
+    "text": "If I have a rectangle, I could name its two dimensions “length” and “width” like we did in the Area video.",
+    "start": 300.035,
+    "duration": 4.901
+  },
+  {
+    "text": "But I could also name them “width” and “height” if I wanted to.",
+    "start": 304.936,
+    "duration": 3.134
+  },
+  {
+    "text": "The actual names of the dimensions really aren’t important, so different teachers might use different names.",
+    "start": 308.07,
+    "duration": 5.519
+  },
+  {
+    "text": "The important thing is to be flexible and realize that the math concepts are the same,",
+    "start": 313.589,
+    "duration": 4.435
+  },
+  {
+    "text": "even if different words are used to explain them.",
+    "start": 318.024,
+    "duration": 2.317
+  },
+  {
+    "text": "For example, the area of a rectangle is always found by multiplying its two side dimensions together,",
+    "start": 320.341,
+    "duration": 5.669
+  },
+  {
+    "text": "no matter what they’re called.",
+    "start": 326.01,
+    "duration": 2.318
+  },
+  {
+    "text": "Okay… back to calculating volumes…",
+    "start": 328.328,
+    "duration": 2.284
+  },
+  {
+    "text": "A lot of 3D shapes can be formed by taking a 2D shape and then extending it along the third dimension.",
+    "start": 330.612,
+    "duration": 6.269
+  },
+  {
+    "text": "For example, if you start with a rectangle, and then extend it along the third dimension,",
+    "start": 336.881,
+    "duration": 4.918
+  },
+  {
+    "text": "you get a 3D shape called a “rectangular prism”.",
+    "start": 341.799,
+    "duration": 3.518
+  },
+  {
+    "text": "If you start with a triangle, and then extend it along the third dimension,",
+    "start": 345.317,
+    "duration": 3.635
+  },
+  {
+    "text": "you get a 3D shape called a “triangular prism”.",
+    "start": 348.952,
+    "duration": 3.28
+  },
+  {
+    "text": "And if you start with a circle, and extend it along the third dimension,",
+    "start": 352.24,
+    "duration": 3.198
+  },
+  {
+    "text": "you get a 3D shape called a “cylinder”.",
+    "start": 355.438,
+    "duration": 2.52
+  },
+  {
+    "text": "From the others, you might have thought it should be called a “circular prism”",
+    "start": 357.96,
+    "duration": 3.413
+  },
+  {
+    "text": "but technically prisms are shapes that are formed by extending a polygon,",
+    "start": 361.373,
+    "duration": 4.185
+  },
+  {
+    "text": "and since a circle is not a polygon, the resulting shape is not called a prism.",
+    "start": 365.56,
+    "duration": 4.9
+  },
+  {
+    "text": "Okay, so the good news is that there’s a general formula for calculating the volume of these types of 3D shape.",
+    "start": 370.46,
+    "duration": 6.16
+  },
+  {
+    "text": "All you have to do is find the area of the original 2D shape that got extended,",
+    "start": 376.628,
+    "duration": 4.535
+  },
+  {
+    "text": "and then multiply that by the length (or distance) that it was extended.",
+    "start": 381.163,
+    "duration": 4.018
+  },
+  {
+    "text": "Usually, that original shape is called the “base” of the object.",
+    "start": 385.181,
+    "duration": 3.802
+  },
+  {
+    "text": "So let’s start with this rectangular prism and calculate its volume.",
+    "start": 388.983,
+    "duration": 4.337
+  },
+  {
+    "text": "The base is the original rectangle, and its dimensions are 4 centimeters by 3 centimeters.",
+    "start": 393.32,
+    "duration": 5.132
+  },
+  {
+    "text": "So to find the area of that base, we need to remember how to calculate the area of a rectangle.",
+    "start": 398.452,
+    "duration": 4.536
+  },
+  {
+    "text": "To do that, we just multiply the two side dimensions together.",
+    "start": 402.988,
+    "duration": 3.584
+  },
+  {
+    "text": "4 centimeters times 3 centimeters gives us 12 centimeters squared as the area.",
+    "start": 406.572,
+    "duration": 4.952
+  },
+  {
+    "text": "Now… to find the volume, we just need to multiply that area by the length that the base was extended.",
+    "start": 411.524,
+    "duration": 5.902
+  },
+  {
+    "text": "Our diagram tells us that distance is 10 centimeters,",
+    "start": 417.426,
+    "duration": 3.468
+  },
+  {
+    "text": "so if we multiply 12 centimeters squared by 10 centimeters, we get 120 centimeters cubed.",
+    "start": 420.894,
+    "duration": 6.352
+  },
+  {
+    "text": "So this rectangular prism has a volume of 120 cubic centimeters.",
+    "start": 427.246,
+    "duration": 4.852
+  },
+  {
+    "text": "Okay, let’s try to find the volume of the triangular prism now.",
+    "start": 432.098,
+    "duration": 3.801
+  },
+  {
+    "text": "Again, the first step is to calculate the area of the base of the prism which is this triangle.",
+    "start": 435.899,
+    "duration": 5.469
+  },
+  {
+    "text": "The formula for finding the area of a triangle is one-half of the triangle’s base times its height.",
+    "start": 441.368,
+    "duration": 5.985
+  },
+  {
+    "text": "Be careful not to confuse the base of the triangle with the base of the prism which IS the triangle itself.",
+    "start": 447.353,
+    "duration": 5.935
+  },
+  {
+    "text": "Our diagram tells us that the base of the triangle is 10 inches and its height is 8 inches,",
+    "start": 453.288,
+    "duration": 4.919
+  },
+  {
+    "text": "so one-half the base times the height would be one-half of 10 times 8.",
+    "start": 458.207,
+    "duration": 4.119
+  },
+  {
+    "text": "10 times 8 is 80,",
+    "start": 462.326,
+    "duration": 1.433
+  },
+  {
+    "text": "and one-half of 80 is 40,",
+    "start": 463.759,
+    "duration": 1.568
+  },
+  {
+    "text": "so the area of the triangle is 40 inches squared.",
+    "start": 465.327,
+    "duration": 3.35
+  },
+  {
+    "text": "Now all we have to do to find the volume is multiply that area by the length that it was extended.",
+    "start": 468.677,
+    "duration": 5.236
+  },
+  {
+    "text": "We’re told that the length is 50 inches, so we multiple 40 inches squared by 50 inches and we get 2,000 inches cubed.",
+    "start": 473.913,
+    "duration": 6.82
+  },
+  {
+    "text": "That’s the volume of this prism.",
+    "start": 480.74,
+    "duration": 2.28
+  },
+  {
+    "text": "Alright, are you ready to try finding the volume of the cylinder now?",
+    "start": 483.02,
+    "duration": 3.94
+  },
+  {
+    "text": "The cylinder is made by extending a circle, so first we need to calculate the area of that circle.",
+    "start": 486.968,
+    "duration": 5.751
+  },
+  {
+    "text": "As we learned in a previous video, the area of a circle is found by multiplying pi times its radius squared.",
+    "start": 492.719,
+    "duration": 6.687
+  },
+  {
+    "text": "The radius of this circle is 2 meters, so if we square that, we get 4 meters squared.",
+    "start": 499.406,
+    "duration": 5.802
+  },
+  {
+    "text": "Then we multiply by pi (which is approximately 3.14) and we get 12.56 meters squared.",
+    "start": 505.208,
+    "duration": 7.202
+  },
+  {
+    "text": "Now that we know the area of the circle, to find the volume of the cylinder,",
+    "start": 512.41,
+    "duration": 3.635
+  },
+  {
+    "text": "we just multiply that area by the length that the circle was extended (which happens to be 10 meters).",
+    "start": 516.045,
+    "duration": 6.202
+  },
+  {
+    "text": "10 meters times 12.56 meters squared gives us 125.6 meters cubed.",
+    "start": 522.247,
+    "duration": 6.768
+  },
+  {
+    "text": "So the volume of this cylinder is 125.6 cubic meters.",
+    "start": 529.015,
+    "duration": 5.136
+  },
+  {
+    "text": "So, do you see how to find the volume of 3D shapes like these?",
+    "start": 534.151,
+    "duration": 3.301
+  },
+  {
+    "text": "…shapes that are made by taking a 2D shape an then extending it along a third axis?",
+    "start": 537.452,
+    "duration": 4.468
+  },
+  {
+    "text": "You just find the area of that shape and then you multiply it by the length that it was extended, and that gives you the volume.",
+    "start": 541.92,
+    "duration": 6.77
+  },
+  {
+    "text": "And it works for ANY 2D shape…",
+    "start": 548.69,
+    "duration": 1.96
+  },
+  {
+    "text": "it works for trapezoids, or pentagons, or diamonds, or stars, or hearts…",
+    "start": 550.65,
+    "duration": 5.18
+  },
+  {
+    "text": "“Man… now that I know how to accurately calculate volumes, playtime is WAY more fun!”",
+    "start": 558.62,
+    "duration": 6.84
+  },
+  {
+    "text": "Of course, not all 3D shapes are made by extending a 2D shape along a third dimension.",
+    "start": 565.46,
+    "duration": 4.92
+  },
+  {
+    "text": "Some are made by rotating a shape around an axis …like that sphere we saw earlier in the video for instance.",
+    "start": 570.382,
+    "duration": 5.75
+  },
+  {
+    "text": "One way to form a sphere is to rotate a 2D circle around one of its diameter lines.",
+    "start": 576.132,
+    "duration": 4.78
+  },
+  {
+    "text": "And another common 3D shape that can be formed by rotating a 2D shape around an axis is a cone.",
+    "start": 580.92,
+    "duration": 6.233
+  },
+  {
+    "text": "A cone can be formed by rotating a right triangle around one of its two perpendicular edges.",
+    "start": 587.153,
+    "duration": 5.868
+  },
+  {
+    "text": "Since the formulas for finding the volumes of spheres and cones are more complicated to explain,",
+    "start": 593.021,
+    "duration": 4.902
+  },
+  {
+    "text": "we don’t have time to learn how we arrive at them in this video.",
+    "start": 597.923,
+    "duration": 3.186
+  },
+  {
+    "text": "So for now, it’s best if you just memorize the formulas so you can use them on tests if you need to.",
+    "start": 601.109,
+    "duration": 4.767
+  },
+  {
+    "text": "To find the volume of a sphere, you use the formula:",
+    "start": 605.876,
+    "duration": 2.917
+  },
+  {
+    "text": "Volume equals four-thirds times pi times radius cubed.",
+    "start": 608.793,
+    "duration": 4.469
+  },
+  {
+    "text": "And to find the volume of a cone, you use the formula:",
+    "start": 613.262,
+    "duration": 2.701
+  },
+  {
+    "text": "Volume equals one-third times height times pi times radius squared.",
+    "start": 615.963,
+    "duration": 4.785
+  },
+  {
+    "text": "Let’s try one example of each before we wrap up.",
+    "start": 620.748,
+    "duration": 3.301
+  },
+  {
+    "text": "Here’s a sphere with a radius of 2 centimeters.",
+    "start": 624.049,
+    "duration": 2.701
+  },
+  {
+    "text": "Fortunately, that’s the only dimension we need to find its volume.",
+    "start": 626.75,
+    "duration": 3.635
+  },
+  {
+    "text": "Our formula says that the volume of a sphere is equal to: 4/3 x pi x r^3",
+    "start": 630.385,
+    "duration": 6.519
+  },
+  {
+    "text": "Cubing the radius mean multiplying it by itself 3 times.",
+    "start": 636.904,
+    "duration": 3.518
+  },
+  {
+    "text": "So we take 2 cm x 2 cm x 2 cm which equals 8 cm cubed.",
+    "start": 640.422,
+    "duration": 6.852
+  },
+  {
+    "text": "Next we’ll multiply that by our approximation for pi:  3.14 times 8 is 25.12.",
+    "start": 647.274,
+    "duration": 7.603
+  },
+  {
+    "text": "And last, we multiply that by four-thirds, which is the same as multiplying by 4 then dividing by 3,",
+    "start": 654.877,
+    "duration": 5.986
+  },
+  {
+    "text": "which gives us a volume of 33.49 centimeters cubed.",
+    "start": 660.863,
+    "duration": 4.968
+  },
+  {
+    "text": "Now let’s try a cone.",
+    "start": 665.831,
+    "duration": 1.867
+  },
+  {
+    "text": "To use our formula to find the volume of a cone, we need to know two things:",
+    "start": 667.698,
+    "duration": 3.952
+  },
+  {
+    "text": "the radius of the circle that forms the base of the cone,",
+    "start": 671.65,
+    "duration": 2.902
+  },
+  {
+    "text": "and the heigh of the cone (which is similar to the height of a triangle.",
+    "start": 674.552,
+    "duration": 3.117
+  },
+  {
+    "text": "It’s the distance from the point at the tip of the cone, straight down to the center of the circular base.)",
+    "start": 677.669,
+    "duration": 6.703
+  },
+  {
+    "text": "The radius of the base of this cone is 3 feet, and its height is 9 feet.",
+    "start": 684.372,
+    "duration": 4.852
+  },
+  {
+    "text": "So first let’s plug that radius into our equation and square it:",
+    "start": 689.224,
+    "duration": 3.5
+  },
+  {
+    "text": "3 feet x 3 feet is 9 feet squared.",
+    "start": 692.724,
+    "duration": 3.476
+  },
+  {
+    "text": "Next we multiply that by pi (again using 3.14) and we get 28.26 feet squared.",
+    "start": 696.209,
+    "duration": 7.052
+  },
+  {
+    "text": "You may notice that that’s just the area of the base circle.",
+    "start": 703.261,
+    "duration": 3.835
+  },
+  {
+    "text": "But now we need to multiply that base area by the one-third times the height of the cone.",
+    "start": 707.096,
+    "duration": 5.218
+  },
+  {
+    "text": "One-third times 9 feet is 3 feet, and 3 feet times 28.26 square feet gives us 84.78 cubic feet,",
+    "start": 712.314,
+    "duration": 8.77
+  },
+  {
+    "text": "which is the volume of the cone.",
+    "start": 721.084,
+    "duration": 2.2
+  },
+  {
+    "text": "Alright…. so now you know a lot about volume.",
+    "start": 723.284,
+    "duration": 2.853
+  },
+  {
+    "text": "You know that it’s a 3D quantity of geometric objects,",
+    "start": 726.137,
+    "duration": 3.067
+  },
+  {
+    "text": "and you know that we measure volume with cubic units.",
+    "start": 729.204,
+    "duration": 3.08
+  },
+  {
+    "text": "You also learned how to calculate the volume of some basic 3D shapes.",
+    "start": 732.284,
+    "duration": 3.873
+  },
+  {
+    "text": "Of course, there’s a lot of other 3D shapes that we didn’t have time to cover in this video,",
+    "start": 736.157,
+    "duration": 3.984
+  },
+  {
+    "text": "but now you know about some of the most common ones.",
+    "start": 740.141,
+    "duration": 3.384
+  },
+  {
+    "text": "The key is to put what you’ve learned into practice by trying some exercise problems on your own.",
+    "start": 743.525,
+    "duration": 5.019
+  },
+  {
+    "text": "As always, thanks for watching Math Antics and I’ll see ya next time.",
+    "start": 748.544,
+    "duration": 3.54
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 752.92,
+    "duration": 1.98
+  }
+]

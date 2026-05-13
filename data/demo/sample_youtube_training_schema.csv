@@ -1,0 +1,3 @@
+video_id,title,description,tags,channel_title,category_id,published_at,views,likes,comments,duration_seconds
+abc123demo01,Aprende a optimizar tus videos,Guía rápida para mejorar tus métricas de YouTube,"youtube,marketing,ads",Demo Channel,22,2026-01-01T12:00:00Z,12000,900,120,45
+abc123demo02,Oferta especial hoy,Contenido promocional corto,"oferta,promo",Demo Channel,24,2026-01-02T12:00:00Z,3000,60,5,7

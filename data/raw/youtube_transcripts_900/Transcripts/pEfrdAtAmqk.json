@@ -1,0 +1,2677 @@
+[
+  {
+    "text": "you've likely seen videos on youtube",
+    "start": 0.08,
+    "duration": 2.96
+  },
+  {
+    "text": "telling you the number one programming",
+    "start": 1.599,
+    "duration": 3.121
+  },
+  {
+    "text": "language to learn right now if you want",
+    "start": 3.04,
+    "duration": 3.44
+  },
+  {
+    "text": "to be rich that's not what we're doing",
+    "start": 4.72,
+    "duration": 3.839
+  },
+  {
+    "text": "today instead we're going to travel to",
+    "start": 6.48,
+    "duration": 3.76
+  },
+  {
+    "text": "the deepest darkest depths of the",
+    "start": 8.559,
+    "duration": 3.441
+  },
+  {
+    "text": "software engineering field to discover",
+    "start": 10.24,
+    "duration": 3.439
+  },
+  {
+    "text": "the programming languages that are loved",
+    "start": 12.0,
+    "duration": 3.679
+  },
+  {
+    "text": "hated beautiful ugly and compiled",
+    "start": 13.679,
+    "duration": 4.241
+  },
+  {
+    "text": "interpreted useful weird and everything",
+    "start": 15.679,
+    "duration": 3.76
+  },
+  {
+    "text": "in between if you make it to the end",
+    "start": 17.92,
+    "duration": 3.279
+  },
+  {
+    "text": "you'll have a roadmap for everything you",
+    "start": 19.439,
+    "duration": 3.6
+  },
+  {
+    "text": "need to know to land a job as a junior",
+    "start": 21.199,
+    "duration": 4.24
+  },
+  {
+    "text": "developer in 2023 or it might just make",
+    "start": 23.039,
+    "duration": 4.08
+  },
+  {
+    "text": "you extremely depressed because this",
+    "start": 25.439,
+    "duration": 3.521
+  },
+  {
+    "text": "iceberg is just the tip of the iceberg",
+    "start": 27.119,
+    "duration": 3.121
+  },
+  {
+    "text": "of what you actually need to learn",
+    "start": 28.96,
+    "duration": 2.719
+  },
+  {
+    "text": "choose any language and you'll find",
+    "start": 30.24,
+    "duration": 3.36
+  },
+  {
+    "text": "another iceberg within this iceberg that",
+    "start": 31.679,
+    "duration": 3.921
+  },
+  {
+    "text": "goes on forever like a mandelbrot set",
+    "start": 33.6,
+    "duration": 3.6
+  },
+  {
+    "text": "which ironically you can represent and",
+    "start": 35.6,
+    "duration": 3.279
+  },
+  {
+    "text": "code with any one of the languages we're",
+    "start": 37.2,
+    "duration": 3.6
+  },
+  {
+    "text": "about to look at before we get started",
+    "start": 38.879,
+    "duration": 3.761
+  },
+  {
+    "text": "there's quite a few programming icebergs",
+    "start": 40.8,
+    "duration": 3.759
+  },
+  {
+    "text": "out there but this one ranks languages",
+    "start": 42.64,
+    "duration": 3.04
+  },
+  {
+    "text": "based on where i think you might",
+    "start": 44.559,
+    "duration": 2.881
+  },
+  {
+    "text": "encounter them as a beginner learning",
+    "start": 45.68,
+    "duration": 3.68
+  },
+  {
+    "text": "how to code from scratch each level has",
+    "start": 47.44,
+    "duration": 3.84
+  },
+  {
+    "text": "its own theme so let's get right into it",
+    "start": 49.36,
+    "duration": 3.6
+  },
+  {
+    "text": "with languages that are designed to make",
+    "start": 51.28,
+    "duration": 3.759
+  },
+  {
+    "text": "programming as easy as possible if you",
+    "start": 52.96,
+    "duration": 3.279
+  },
+  {
+    "text": "know absolutely nothing about",
+    "start": 55.039,
+    "duration": 2.881
+  },
+  {
+    "text": "programming the best place to start in",
+    "start": 56.239,
+    "duration": 3.761
+  },
+  {
+    "text": "my opinion is scratch it was developed",
+    "start": 57.92,
+    "duration": 4.08
+  },
+  {
+    "text": "at mit like some other languages on this",
+    "start": 60.0,
+    "duration": 4.0
+  },
+  {
+    "text": "list but instead of typing out code you",
+    "start": 62.0,
+    "duration": 3.6
+  },
+  {
+    "text": "drag and drop these blocks together like",
+    "start": 64.0,
+    "duration": 3.439
+  },
+  {
+    "text": "lego bricks to represent things like",
+    "start": 65.6,
+    "duration": 4.4
+  },
+  {
+    "text": "variables control flow and operators it",
+    "start": 67.439,
+    "duration": 3.921
+  },
+  {
+    "text": "makes the thinking process behind",
+    "start": 70.0,
+    "duration": 2.96
+  },
+  {
+    "text": "programming much more accessible and you",
+    "start": 71.36,
+    "duration": 2.799
+  },
+  {
+    "text": "might be surprised at what you can",
+    "start": 72.96,
+    "duration": 3.92
+  },
+  {
+    "text": "actually build with it",
+    "start": 74.159,
+    "duration": 4.801
+  },
+  {
+    "text": "long before scratch though we had basic",
+    "start": 76.88,
+    "duration": 3.919
+  },
+  {
+    "text": "or beginner's all-purpose symbolic",
+    "start": 78.96,
+    "duration": 3.199
+  },
+  {
+    "text": "instruction code which came out of",
+    "start": 80.799,
+    "duration": 4.32
+  },
+  {
+    "text": "dartmouth in 1964. at the time fortran",
+    "start": 82.159,
+    "duration": 4.561
+  },
+  {
+    "text": "was all the rage but it wasn't beginner",
+    "start": 85.119,
+    "duration": 3.841
+  },
+  {
+    "text": "friendly basic provides a bunch of basic",
+    "start": 86.72,
+    "duration": 4.88
+  },
+  {
+    "text": "commands like print go to and four and",
+    "start": 88.96,
+    "duration": 4.4
+  },
+  {
+    "text": "was included in most personal computers",
+    "start": 91.6,
+    "duration": 3.28
+  },
+  {
+    "text": "which made it the go-to option for",
+    "start": 93.36,
+    "duration": 3.36
+  },
+  {
+    "text": "people learning to code for the next 50",
+    "start": 94.88,
+    "duration": 3.76
+  },
+  {
+    "text": "years now moving on to the next tier we",
+    "start": 96.72,
+    "duration": 3.759
+  },
+  {
+    "text": "have the extremely popular dynamic",
+    "start": 98.64,
+    "duration": 3.6
+  },
+  {
+    "text": "high-level languages the language most",
+    "start": 100.479,
+    "duration": 3.521
+  },
+  {
+    "text": "people start with today is python",
+    "start": 102.24,
+    "duration": 3.919
+  },
+  {
+    "text": "primarily because of its minimal syntax",
+    "start": 104.0,
+    "duration": 3.6
+  },
+  {
+    "text": "it doesn't require curly braces",
+    "start": 106.159,
+    "duration": 3.441
+  },
+  {
+    "text": "semicolons and stuff like that and",
+    "start": 107.6,
+    "duration": 4.24
+  },
+  {
+    "text": "instead uses indentation to represent",
+    "start": 109.6,
+    "duration": 3.76
+  },
+  {
+    "text": "different blocks of code the other",
+    "start": 111.84,
+    "duration": 2.959
+  },
+  {
+    "text": "popular high-level language is",
+    "start": 113.36,
+    "duration": 3.439
+  },
+  {
+    "text": "javascript syntactically it's pretty",
+    "start": 114.799,
+    "duration": 3.6
+  },
+  {
+    "text": "ugly but it's a requirement if you want",
+    "start": 116.799,
+    "duration": 3.201
+  },
+  {
+    "text": "to do web development and almost every",
+    "start": 118.399,
+    "duration": 3.04
+  },
+  {
+    "text": "developer will have to touch it at some",
+    "start": 120.0,
+    "duration": 3.04
+  },
+  {
+    "text": "point in their career any application",
+    "start": 121.439,
+    "duration": 3.121
+  },
+  {
+    "text": "that can be written in javascript will",
+    "start": 123.04,
+    "duration": 3.439
+  },
+  {
+    "text": "eventually be written in javascript now",
+    "start": 124.56,
+    "duration": 3.44
+  },
+  {
+    "text": "after learning one of these languages",
+    "start": 126.479,
+    "duration": 2.721
+  },
+  {
+    "text": "you'll be able to build pretty much",
+    "start": 128.0,
+    "duration": 2.64
+  },
+  {
+    "text": "anything you can imagine and you could",
+    "start": 129.2,
+    "duration": 3.039
+  },
+  {
+    "text": "have an entire career as a software",
+    "start": 130.64,
+    "duration": 3.28
+  },
+  {
+    "text": "engineer without going any further down",
+    "start": 132.239,
+    "duration": 3.201
+  },
+  {
+    "text": "the iceberg but you don't want to be on",
+    "start": 133.92,
+    "duration": 2.8
+  },
+  {
+    "text": "your deathbed wondering if you should",
+    "start": 135.44,
+    "duration": 3.439
+  },
+  {
+    "text": "have tried out php on this next tier we",
+    "start": 136.72,
+    "duration": 3.519
+  },
+  {
+    "text": "have languages that are extremely",
+    "start": 138.879,
+    "duration": 3.36
+  },
+  {
+    "text": "popular but a little more specialized",
+    "start": 140.239,
+    "duration": 3.441
+  },
+  {
+    "text": "programmers like to get things done from",
+    "start": 142.239,
+    "duration": 2.801
+  },
+  {
+    "text": "the terminal and there are scripting",
+    "start": 143.68,
+    "duration": 3.6
+  },
+  {
+    "text": "languages like bash and powershell that",
+    "start": 145.04,
+    "duration": 3.919
+  },
+  {
+    "text": "allow you to interact with your computer",
+    "start": 147.28,
+    "duration": 3.44
+  },
+  {
+    "text": "programmatically instead of typing out",
+    "start": 148.959,
+    "duration": 3.36
+  },
+  {
+    "text": "the same commands over and over again",
+    "start": 150.72,
+    "duration": 3.04
+  },
+  {
+    "text": "write a bash script to make it",
+    "start": 152.319,
+    "duration": 3.041
+  },
+  {
+    "text": "reproducible now if you get into web",
+    "start": 153.76,
+    "duration": 3.199
+  },
+  {
+    "text": "development you'll also need to learn",
+    "start": 155.36,
+    "duration": 3.76
+  },
+  {
+    "text": "html and css which when combined",
+    "start": 156.959,
+    "duration": 4.401
+  },
+  {
+    "text": "together arguably form a turing complete",
+    "start": 159.12,
+    "duration": 3.52
+  },
+  {
+    "text": "programming language they're not used",
+    "start": 161.36,
+    "duration": 2.879
+  },
+  {
+    "text": "for programming in the traditional sense",
+    "start": 162.64,
+    "duration": 3.36
+  },
+  {
+    "text": "but rather to define the structure and",
+    "start": 164.239,
+    "duration": 3.521
+  },
+  {
+    "text": "style of a website and if i were to say",
+    "start": 166.0,
+    "duration": 3.519
+  },
+  {
+    "text": "html is not a programming language i",
+    "start": 167.76,
+    "duration": 3.119
+  },
+  {
+    "text": "would be immediately canceled by the",
+    "start": 169.519,
+    "duration": 3.201
+  },
+  {
+    "text": "tech community in addition most apps",
+    "start": 170.879,
+    "duration": 3.281
+  },
+  {
+    "text": "need a database and the most common",
+    "start": 172.72,
+    "duration": 3.28
+  },
+  {
+    "text": "language for working with databases is",
+    "start": 174.16,
+    "duration": 3.68
+  },
+  {
+    "text": "structured query language you can call",
+    "start": 176.0,
+    "duration": 4.959
+  },
+  {
+    "text": "it sql sql or squeal this turn complete",
+    "start": 177.84,
+    "duration": 4.399
+  },
+  {
+    "text": "although not used for regular",
+    "start": 180.959,
+    "duration": 3.121
+  },
+  {
+    "text": "programming but rather to read and write",
+    "start": 182.239,
+    "duration": 4.241
+  },
+  {
+    "text": "data in a relational database now python",
+    "start": 184.08,
+    "duration": 3.76
+  },
+  {
+    "text": "is great and all but there are many",
+    "start": 186.48,
+    "duration": 3.2
+  },
+  {
+    "text": "other dynamic languages that might be a",
+    "start": 187.84,
+    "duration": 4.479
+  },
+  {
+    "text": "better fit for certain projects like php",
+    "start": 189.68,
+    "duration": 4.4
+  },
+  {
+    "text": "made it easy to build server-side web",
+    "start": 192.319,
+    "duration": 3.441
+  },
+  {
+    "text": "apps in the 90s and is still very",
+    "start": 194.08,
+    "duration": 4.159
+  },
+  {
+    "text": "popular today lua is easier and faster",
+    "start": 195.76,
+    "duration": 4.32
+  },
+  {
+    "text": "than python and is embedded into many",
+    "start": 198.239,
+    "duration": 3.601
+  },
+  {
+    "text": "engines like roblox and world of",
+    "start": 200.08,
+    "duration": 4.079
+  },
+  {
+    "text": "warcraft ruby is an easy to learn object",
+    "start": 201.84,
+    "duration": 4.0
+  },
+  {
+    "text": "oriented language also commonly used to",
+    "start": 204.159,
+    "duration": 3.36
+  },
+  {
+    "text": "build web apps with the rails framework",
+    "start": 205.84,
+    "duration": 3.119
+  },
+  {
+    "text": "if you work in data science you'll come",
+    "start": 207.519,
+    "duration": 3.841
+  },
+  {
+    "text": "across r which is used for statistics",
+    "start": 208.959,
+    "duration": 4.721
+  },
+  {
+    "text": "and data vis or julia a more modern",
+    "start": 211.36,
+    "duration": 4.159
+  },
+  {
+    "text": "option also used for scientific",
+    "start": 213.68,
+    "duration": 3.199
+  },
+  {
+    "text": "computing the one thing all these",
+    "start": 215.519,
+    "duration": 3.36
+  },
+  {
+    "text": "languages have in common is a dynamic",
+    "start": 216.879,
+    "duration": 3.92
+  },
+  {
+    "text": "type system however as you build more",
+    "start": 218.879,
+    "duration": 3.841
+  },
+  {
+    "text": "complex software you may realize that",
+    "start": 220.799,
+    "duration": 3.681
+  },
+  {
+    "text": "you need a more rigid framework and one",
+    "start": 222.72,
+    "duration": 3.68
+  },
+  {
+    "text": "way to accomplish that is with a static",
+    "start": 224.48,
+    "duration": 3.839
+  },
+  {
+    "text": "type system this tier makes up the bulk",
+    "start": 226.4,
+    "duration": 3.52
+  },
+  {
+    "text": "of production code out in the world",
+    "start": 228.319,
+    "duration": 3.361
+  },
+  {
+    "text": "first up we have java which kind of",
+    "start": 229.92,
+    "duration": 3.679
+  },
+  {
+    "text": "revolutionized programming with the java",
+    "start": 231.68,
+    "duration": 4.16
+  },
+  {
+    "text": "virtual machine it compiles to bytecode",
+    "start": 233.599,
+    "duration": 4.081
+  },
+  {
+    "text": "that runs on the jvm and that allows",
+    "start": 235.84,
+    "duration": 3.679
+  },
+  {
+    "text": "developers to target any computer",
+    "start": 237.68,
+    "duration": 3.759
+  },
+  {
+    "text": "architecture from a single codebase",
+    "start": 239.519,
+    "duration": 3.761
+  },
+  {
+    "text": "syntactically it's an absolute dumpster",
+    "start": 241.439,
+    "duration": 3.52
+  },
+  {
+    "text": "fire for beginners i made an entire",
+    "start": 243.28,
+    "duration": 3.679
+  },
+  {
+    "text": "video about why people hate java but",
+    "start": 244.959,
+    "duration": 3.84
+  },
+  {
+    "text": "having explicit types in your code can",
+    "start": 246.959,
+    "duration": 3.601
+  },
+  {
+    "text": "make it much easier to understand and",
+    "start": 248.799,
+    "duration": 4.321
+  },
+  {
+    "text": "refactor and modern ides like intellij",
+    "start": 250.56,
+    "duration": 4.0
+  },
+  {
+    "text": "will pretty much make the code write",
+    "start": 253.12,
+    "duration": 3.519
+  },
+  {
+    "text": "itself java is legendary but it was",
+    "start": 254.56,
+    "duration": 4.239
+  },
+  {
+    "text": "followed up by microsoft with c-sharp",
+    "start": 256.639,
+    "duration": 4.0
+  },
+  {
+    "text": "it's similar to java in many ways but",
+    "start": 258.799,
+    "duration": 3.84
+  },
+  {
+    "text": "gets a lot more love from its users it's",
+    "start": 260.639,
+    "duration": 3.601
+  },
+  {
+    "text": "used to build games with unity as well",
+    "start": 262.639,
+    "duration": 3.761
+  },
+  {
+    "text": "as web and desktop apps with the.net",
+    "start": 264.24,
+    "duration": 3.76
+  },
+  {
+    "text": "framework another well-loved tool from",
+    "start": 266.4,
+    "duration": 3.6
+  },
+  {
+    "text": "microsoft is typescript it takes",
+    "start": 268.0,
+    "duration": 4.32
+  },
+  {
+    "text": "javascript and adds a type system on top",
+    "start": 270.0,
+    "duration": 4.24
+  },
+  {
+    "text": "of it making it much easier to work with",
+    "start": 272.32,
+    "duration": 3.84
+  },
+  {
+    "text": "on large complex projects if you're",
+    "start": 274.24,
+    "duration": 3.44
+  },
+  {
+    "text": "building a mobile app today you'll",
+    "start": 276.16,
+    "duration": 3.2
+  },
+  {
+    "text": "likely be working with kotlin for",
+    "start": 277.68,
+    "duration": 4.239
+  },
+  {
+    "text": "android swift for ios or dart with the",
+    "start": 279.36,
+    "duration": 4.16
+  },
+  {
+    "text": "flutter framework these languages are",
+    "start": 281.919,
+    "duration": 3.361
+  },
+  {
+    "text": "all statically typed but they go about",
+    "start": 283.52,
+    "duration": 3.76
+  },
+  {
+    "text": "it in a more modern concise way with",
+    "start": 285.28,
+    "duration": 3.76
+  },
+  {
+    "text": "features like type inference that",
+    "start": 287.28,
+    "duration": 3.84
+  },
+  {
+    "text": "minimize boilerplate code next up we",
+    "start": 289.04,
+    "duration": 3.84
+  },
+  {
+    "text": "have go which is a high performance",
+    "start": 291.12,
+    "duration": 3.68
+  },
+  {
+    "text": "language developed at google to build",
+    "start": 292.88,
+    "duration": 3.92
+  },
+  {
+    "text": "low-level systems it was designed as a",
+    "start": 294.8,
+    "duration": 4.16
+  },
+  {
+    "text": "replacement for c and ken thompson one",
+    "start": 296.8,
+    "duration": 3.92
+  },
+  {
+    "text": "of the original creators of c helped",
+    "start": 298.96,
+    "duration": 4.0
+  },
+  {
+    "text": "design it the syntax is nice and concise",
+    "start": 300.72,
+    "duration": 4.0
+  },
+  {
+    "text": "making it approachable to beginners and",
+    "start": 302.96,
+    "duration": 3.679
+  },
+  {
+    "text": "it has a garbage collector which means",
+    "start": 304.72,
+    "duration": 4.08
+  },
+  {
+    "text": "unlike c developers don't need to worry",
+    "start": 306.639,
+    "duration": 4.4
+  },
+  {
+    "text": "about manual memory management okay so",
+    "start": 308.8,
+    "duration": 3.76
+  },
+  {
+    "text": "at this point we've reached the level of",
+    "start": 311.039,
+    "duration": 3.44
+  },
+  {
+    "text": "the iceberg where most people are afraid",
+    "start": 312.56,
+    "duration": 3.6
+  },
+  {
+    "text": "to go any deeper things are gonna get",
+    "start": 314.479,
+    "duration": 3.201
+  },
+  {
+    "text": "weird what happens is that many",
+    "start": 316.16,
+    "duration": 3.28
+  },
+  {
+    "text": "developers get jaded with these big",
+    "start": 317.68,
+    "duration": 4.079
+  },
+  {
+    "text": "heavy object-oriented languages and go",
+    "start": 319.44,
+    "duration": 4.319
+  },
+  {
+    "text": "searching for a better way at this level",
+    "start": 321.759,
+    "duration": 3.761
+  },
+  {
+    "text": "we have functional languages the most",
+    "start": 323.759,
+    "duration": 3.761
+  },
+  {
+    "text": "famous of which is haskell instead of",
+    "start": 325.52,
+    "duration": 3.84
+  },
+  {
+    "text": "classes inheritance and all kinds of",
+    "start": 327.52,
+    "duration": 3.519
+  },
+  {
+    "text": "crazy design patterns the only",
+    "start": 329.36,
+    "duration": 3.279
+  },
+  {
+    "text": "abstraction you really need is the",
+    "start": 331.039,
+    "duration": 3.681
+  },
+  {
+    "text": "function it was inspired by the miranda",
+    "start": 332.639,
+    "duration": 3.441
+  },
+  {
+    "text": "language and is named after the",
+    "start": 334.72,
+    "duration": 3.36
+  },
+  {
+    "text": "mathematician haskell curry most",
+    "start": 336.08,
+    "duration": 4.48
+  },
+  {
+    "text": "importantly variables are immutable and",
+    "start": 338.08,
+    "duration": 4.0
+  },
+  {
+    "text": "functions have no side effects",
+    "start": 340.56,
+    "duration": 2.96
+  },
+  {
+    "text": "surprisingly you can build almost",
+    "start": 342.08,
+    "duration": 3.2
+  },
+  {
+    "text": "anything with these limitations although",
+    "start": 343.52,
+    "duration": 3.119
+  },
+  {
+    "text": "most production code out there is not",
+    "start": 345.28,
+    "duration": 3.199
+  },
+  {
+    "text": "functional most of us run into problems",
+    "start": 346.639,
+    "duration": 3.441
+  },
+  {
+    "text": "when trying to figure out what a monad",
+    "start": 348.479,
+    "duration": 3.361
+  },
+  {
+    "text": "is which in layman's terms is just a",
+    "start": 350.08,
+    "duration": 3.92
+  },
+  {
+    "text": "monoid in the category of n-functors",
+    "start": 351.84,
+    "duration": 4.4
+  },
+  {
+    "text": "haskell is great but microsoft developed",
+    "start": 354.0,
+    "duration": 4.56
+  },
+  {
+    "text": "a functional sister language to c-sharp",
+    "start": 356.24,
+    "duration": 4.239
+  },
+  {
+    "text": "called f-sharp unlike haskell which is",
+    "start": 358.56,
+    "duration": 3.919
+  },
+  {
+    "text": "purely functional f-sharp is also",
+    "start": 360.479,
+    "duration": 4.081
+  },
+  {
+    "text": "imperative and object-oriented making it",
+    "start": 362.479,
+    "duration": 3.761
+  },
+  {
+    "text": "more approachable to developers coming",
+    "start": 364.56,
+    "duration": 3.6
+  },
+  {
+    "text": "from higher up in the iceberg now if you",
+    "start": 366.24,
+    "duration": 4.32
+  },
+  {
+    "text": "hate java a good alternative is scala",
+    "start": 368.16,
+    "duration": 3.759
+  },
+  {
+    "text": "like f-sharp it supports both",
+    "start": 370.56,
+    "duration": 2.88
+  },
+  {
+    "text": "object-oriented and functional",
+    "start": 371.919,
+    "duration": 3.761
+  },
+  {
+    "text": "programming but it runs on the jvm it's",
+    "start": 373.44,
+    "duration": 4.479
+  },
+  {
+    "text": "statically typed but there's another jvm",
+    "start": 375.68,
+    "duration": 4.16
+  },
+  {
+    "text": "language called clojure that is both",
+    "start": 377.919,
+    "duration": 3.84
+  },
+  {
+    "text": "functional and dynamic and this makes it",
+    "start": 379.84,
+    "duration": 3.44
+  },
+  {
+    "text": "more well suited for getting things done",
+    "start": 381.759,
+    "duration": 3.201
+  },
+  {
+    "text": "quickly with the trade-off of type",
+    "start": 383.28,
+    "duration": 3.199
+  },
+  {
+    "text": "safety other popular functional",
+    "start": 384.96,
+    "duration": 3.6
+  },
+  {
+    "text": "languages include ocaml which is used",
+    "start": 386.479,
+    "duration": 4.321
+  },
+  {
+    "text": "extensively at facebook and elixir which",
+    "start": 388.56,
+    "duration": 4.639
+  },
+  {
+    "text": "has a very nice ruby-like syntax and is",
+    "start": 390.8,
+    "duration": 4.239
+  },
+  {
+    "text": "capable of building high-performance",
+    "start": 393.199,
+    "duration": 3.84
+  },
+  {
+    "text": "real-time web apps there's also elm",
+    "start": 395.039,
+    "duration": 3.761
+  },
+  {
+    "text": "which is a purely functional language",
+    "start": 397.039,
+    "duration": 3.6
+  },
+  {
+    "text": "that compiles to javascript which can",
+    "start": 398.8,
+    "duration": 4.239
+  },
+  {
+    "text": "build front-end uis with zero runtime",
+    "start": 400.639,
+    "duration": 4.241
+  },
+  {
+    "text": "errors but now it's time to go one level",
+    "start": 403.039,
+    "duration": 3.841
+  },
+  {
+    "text": "deeper to the heart of the iceberg these",
+    "start": 404.88,
+    "duration": 4.0
+  },
+  {
+    "text": "languages are absolute chats they're",
+    "start": 406.88,
+    "duration": 3.84
+  },
+  {
+    "text": "low-level systems languages that can",
+    "start": 408.88,
+    "duration": 4.159
+  },
+  {
+    "text": "manually manage and optimize memory and",
+    "start": 410.72,
+    "duration": 3.84
+  },
+  {
+    "text": "are used to build things like operating",
+    "start": 413.039,
+    "duration": 3.681
+  },
+  {
+    "text": "system kernels and compilers that make",
+    "start": 414.56,
+    "duration": 3.68
+  },
+  {
+    "text": "all the other soy-based languages",
+    "start": 416.72,
+    "duration": 3.68
+  },
+  {
+    "text": "possible the most legendary of which is",
+    "start": 418.24,
+    "duration": 4.16
+  },
+  {
+    "text": "c it was used to build the windows mac",
+    "start": 420.4,
+    "duration": 3.76
+  },
+  {
+    "text": "and linux operating system kernels and",
+    "start": 422.4,
+    "duration": 3.68
+  },
+  {
+    "text": "its curly brace syntax inspired many",
+    "start": 424.16,
+    "duration": 3.36
+  },
+  {
+    "text": "other languages on this list",
+    "start": 426.08,
+    "duration": 3.04
+  },
+  {
+    "text": "surprisingly it's not all that hard to",
+    "start": 427.52,
+    "duration": 3.2
+  },
+  {
+    "text": "learn and has a relatively small set of",
+    "start": 429.12,
+    "duration": 3.6
+  },
+  {
+    "text": "keywords to memorize however being able",
+    "start": 430.72,
+    "duration": 4.16
+  },
+  {
+    "text": "to use it effectively requires extensive",
+    "start": 432.72,
+    "duration": 3.919
+  },
+  {
+    "text": "knowledge of algorithms and computer",
+    "start": 434.88,
+    "duration": 3.92
+  },
+  {
+    "text": "architecture for example c doesn't have",
+    "start": 436.639,
+    "duration": 4.081
+  },
+  {
+    "text": "hash maps or dictionaries so you'll have",
+    "start": 438.8,
+    "duration": 3.119
+  },
+  {
+    "text": "to learn how to code up that data",
+    "start": 440.72,
+    "duration": 2.96
+  },
+  {
+    "text": "structure on your own c was the perfect",
+    "start": 441.919,
+    "duration": 3.12
+  },
+  {
+    "text": "programming language when it came out in",
+    "start": 443.68,
+    "duration": 3.919
+  },
+  {
+    "text": "1969 but it only supported procedural",
+    "start": 445.039,
+    "duration": 4.241
+  },
+  {
+    "text": "programming and eventually developers",
+    "start": 447.599,
+    "duration": 4.081
+  },
+  {
+    "text": "wanted more c plus was originally a",
+    "start": 449.28,
+    "duration": 4.319
+  },
+  {
+    "text": "super set of c designed to extend it",
+    "start": 451.68,
+    "duration": 3.6
+  },
+  {
+    "text": "with object-oriented programming",
+    "start": 453.599,
+    "duration": 3.761
+  },
+  {
+    "text": "patterns like classes and inheritance",
+    "start": 455.28,
+    "duration": 4.0
+  },
+  {
+    "text": "unlike c it's extremely hard to learn",
+    "start": 457.36,
+    "duration": 3.6
+  },
+  {
+    "text": "and provides many opportunities to not",
+    "start": 459.28,
+    "duration": 3.52
+  },
+  {
+    "text": "only shoot yourself in the foot but blow",
+    "start": 460.96,
+    "duration": 3.76
+  },
+  {
+    "text": "your entire leg off this is a reference",
+    "start": 462.8,
+    "duration": 3.6
+  },
+  {
+    "text": "to manual memory management with",
+    "start": 464.72,
+    "duration": 3.36
+  },
+  {
+    "text": "pointers which got that name because",
+    "start": 466.4,
+    "duration": 3.359
+  },
+  {
+    "text": "they're just as dangerous as pointing a",
+    "start": 468.08,
+    "duration": 3.2
+  },
+  {
+    "text": "gun at someone despite its learning",
+    "start": 469.759,
+    "duration": 3.12
+  },
+  {
+    "text": "curve it's an extremely prolific",
+    "start": 471.28,
+    "duration": 3.44
+  },
+  {
+    "text": "language used to build highly optimized",
+    "start": 472.879,
+    "duration": 4.241
+  },
+  {
+    "text": "software like game engines compilers and",
+    "start": 474.72,
+    "duration": 4.64
+  },
+  {
+    "text": "so on d and c plus are still extremely",
+    "start": 477.12,
+    "duration": 4.4
+  },
+  {
+    "text": "relevant today but the modern chad tends",
+    "start": 479.36,
+    "duration": 4.48
+  },
+  {
+    "text": "to prefer rust for low level programming",
+    "start": 481.52,
+    "duration": 4.399
+  },
+  {
+    "text": "it doesn't have a garbage collector but",
+    "start": 483.84,
+    "duration": 4.639
+  },
+  {
+    "text": "unlike cnc plus plus it uses a technique",
+    "start": 485.919,
+    "duration": 4.241
+  },
+  {
+    "text": "called borrow checking instead of",
+    "start": 488.479,
+    "duration": 3.521
+  },
+  {
+    "text": "pointers for memory management this",
+    "start": 490.16,
+    "duration": 3.52
+  },
+  {
+    "text": "makes it much easier to write memory",
+    "start": 492.0,
+    "duration": 3.919
+  },
+  {
+    "text": "safe programs and consistently ranks as",
+    "start": 493.68,
+    "duration": 4.079
+  },
+  {
+    "text": "the most loved language in the world the",
+    "start": 495.919,
+    "duration": 3.521
+  },
+  {
+    "text": "languages on this tier are extremely",
+    "start": 497.759,
+    "duration": 3.681
+  },
+  {
+    "text": "popular but now we descend further into",
+    "start": 499.44,
+    "duration": 4.159
+  },
+  {
+    "text": "the modern languages that you probably",
+    "start": 501.44,
+    "duration": 4.08
+  },
+  {
+    "text": "haven't heard of first up we have v",
+    "start": 503.599,
+    "duration": 3.521
+  },
+  {
+    "text": "which is a high performance systems",
+    "start": 505.52,
+    "duration": 4.079
+  },
+  {
+    "text": "language that feels very similar to go",
+    "start": 507.12,
+    "duration": 4.639
+  },
+  {
+    "text": "but unlike go it doesn't use a garbage",
+    "start": 509.599,
+    "duration": 4.32
+  },
+  {
+    "text": "collector and unlike rust it doesn't do",
+    "start": 511.759,
+    "duration": 3.921
+  },
+  {
+    "text": "borrow checking but it can still create",
+    "start": 513.919,
+    "duration": 3.68
+  },
+  {
+    "text": "memory safe applications with its own",
+    "start": 515.68,
+    "duration": 4.08
+  },
+  {
+    "text": "auto free innovation where the compiler",
+    "start": 517.599,
+    "duration": 4.0
+  },
+  {
+    "text": "basically cleans everything up i have no",
+    "start": 519.76,
+    "duration": 3.6
+  },
+  {
+    "text": "idea how it works but it looks cool",
+    "start": 521.599,
+    "duration": 4.24
+  },
+  {
+    "text": "another modern replacement 4c is zig",
+    "start": 523.36,
+    "duration": 4.32
+  },
+  {
+    "text": "it's designed to simplify low level",
+    "start": 525.839,
+    "duration": 3.761
+  },
+  {
+    "text": "programming by eliminating features like",
+    "start": 527.68,
+    "duration": 3.839
+  },
+  {
+    "text": "macros and meta programming and is very",
+    "start": 529.6,
+    "duration": 3.52
+  },
+  {
+    "text": "explicit when it comes to memory",
+    "start": 531.519,
+    "duration": 3.921
+  },
+  {
+    "text": "management and it can cross compile cnc",
+    "start": 533.12,
+    "duration": 4.48
+  },
+  {
+    "text": "plus plus just like clang zig is not to",
+    "start": 535.44,
+    "duration": 3.76
+  },
+  {
+    "text": "be confused with nim another high",
+    "start": 537.6,
+    "duration": 3.2
+  },
+  {
+    "text": "performance language that's very",
+    "start": 539.2,
+    "duration": 3.52
+  },
+  {
+    "text": "expressive like python but is statically",
+    "start": 540.8,
+    "duration": 4.159
+  },
+  {
+    "text": "typed and interestingly it has a tunable",
+    "start": 542.72,
+    "duration": 4.08
+  },
+  {
+    "text": "garbage collector that can be turned off",
+    "start": 544.959,
+    "duration": 3.601
+  },
+  {
+    "text": "altogether to enable manual memory",
+    "start": 546.8,
+    "duration": 3.52
+  },
+  {
+    "text": "management recently google announced",
+    "start": 548.56,
+    "duration": 3.92
+  },
+  {
+    "text": "carbon designed to be a successor to c",
+    "start": 550.32,
+    "duration": 4.079
+  },
+  {
+    "text": "plus plus what makes it special is that",
+    "start": 552.48,
+    "duration": 4.16
+  },
+  {
+    "text": "it can fully interop with a legacy c",
+    "start": 554.399,
+    "duration": 4.0
+  },
+  {
+    "text": "plus code base another low-level",
+    "start": 556.64,
+    "duration": 3.759
+  },
+  {
+    "text": "specialty language is solidity it's a",
+    "start": 558.399,
+    "duration": 3.521
+  },
+  {
+    "text": "statically typed object-oriented",
+    "start": 560.399,
+    "duration": 2.88
+  },
+  {
+    "text": "language but is designed for",
+    "start": 561.92,
+    "duration": 3.28
+  },
+  {
+    "text": "implementing smart contracts especially",
+    "start": 563.279,
+    "duration": 3.68
+  },
+  {
+    "text": "on the ethereum blockchain then we've",
+    "start": 565.2,
+    "duration": 3.68
+  },
+  {
+    "text": "got hack from facebook which is designed",
+    "start": 566.959,
+    "duration": 4.161
+  },
+  {
+    "text": "to interop with php the original website",
+    "start": 568.88,
+    "duration": 3.92
+  },
+  {
+    "text": "was built with php but they needed a",
+    "start": 571.12,
+    "duration": 3.279
+  },
+  {
+    "text": "language with better performance and a",
+    "start": 572.8,
+    "duration": 3.28
+  },
+  {
+    "text": "type system to scale it up to the",
+    "start": 574.399,
+    "duration": 3.601
+  },
+  {
+    "text": "monstrosity that it is today there are",
+    "start": 576.08,
+    "duration": 3.92
+  },
+  {
+    "text": "many other good modern languages at this",
+    "start": 578.0,
+    "duration": 4.24
+  },
+  {
+    "text": "point in the iceberg like crystal hacks",
+    "start": 580.0,
+    "duration": 4.16
+  },
+  {
+    "text": "and pharaoh just to name a few but now",
+    "start": 582.24,
+    "duration": 3.52
+  },
+  {
+    "text": "it's time to go down to the next level",
+    "start": 584.16,
+    "duration": 2.96
+  },
+  {
+    "text": "where we look at languages that are",
+    "start": 585.76,
+    "duration": 3.44
+  },
+  {
+    "text": "still either widely used or historically",
+    "start": 587.12,
+    "duration": 3.52
+  },
+  {
+    "text": "important but not something you would",
+    "start": 589.2,
+    "duration": 3.44
+  },
+  {
+    "text": "likely choose to program in fortran was",
+    "start": 590.64,
+    "duration": 3.36
+  },
+  {
+    "text": "the first high-level programming",
+    "start": 592.64,
+    "duration": 3.28
+  },
+  {
+    "text": "language and was by far the most popular",
+    "start": 594.0,
+    "duration": 4.0
+  },
+  {
+    "text": "language for many years intel c came",
+    "start": 595.92,
+    "duration": 4.32
+  },
+  {
+    "text": "around not long after fortran lisp was",
+    "start": 598.0,
+    "duration": 5.12
+  },
+  {
+    "text": "invented in 1958 it pioneered many ideas",
+    "start": 600.24,
+    "duration": 4.719
+  },
+  {
+    "text": "we take for granted in computer science",
+    "start": 603.12,
+    "duration": 4.08
+  },
+  {
+    "text": "today like dynamic typing higher order",
+    "start": 604.959,
+    "duration": 4.401
+  },
+  {
+    "text": "functions recursion and repel it",
+    "start": 607.2,
+    "duration": 3.84
+  },
+  {
+    "text": "inspired many other languages like",
+    "start": 609.36,
+    "duration": 3.84
+  },
+  {
+    "text": "racket scheme closure and to a certain",
+    "start": 611.04,
+    "duration": 4.08
+  },
+  {
+    "text": "extent javascript another highly",
+    "start": 613.2,
+    "duration": 3.44
+  },
+  {
+    "text": "influential language that came out this",
+    "start": 615.12,
+    "duration": 4.0
+  },
+  {
+    "text": "year was algorithmic language it's a big",
+    "start": 616.64,
+    "duration": 4.24
+  },
+  {
+    "text": "complex language and never got as",
+    "start": 619.12,
+    "duration": 4.0
+  },
+  {
+    "text": "popular as fortran but its type system",
+    "start": 620.88,
+    "duration": 3.92
+  },
+  {
+    "text": "and use of expressions had a major",
+    "start": 623.12,
+    "duration": 3.6
+  },
+  {
+    "text": "influence on the development of c and c",
+    "start": 624.8,
+    "duration": 4.64
+  },
+  {
+    "text": "plus plus the following year in 1959",
+    "start": 626.72,
+    "duration": 4.32
+  },
+  {
+    "text": "cobalt was born if you want to make",
+    "start": 629.44,
+    "duration": 3.76
+  },
+  {
+    "text": "money in the 2020s learn cobol because",
+    "start": 631.04,
+    "duration": 4.08
+  },
+  {
+    "text": "over 40 percent of banking systems still",
+    "start": 633.2,
+    "duration": 3.84
+  },
+  {
+    "text": "use it with over 200 billion lines of",
+    "start": 635.12,
+    "duration": 5.04
+  },
+  {
+    "text": "code in production today in 62 apl first",
+    "start": 637.04,
+    "duration": 5.28
+  },
+  {
+    "text": "appeared which stands for a programming",
+    "start": 640.16,
+    "duration": 4.16
+  },
+  {
+    "text": "language it implements linear algebra",
+    "start": 642.32,
+    "duration": 3.519
+  },
+  {
+    "text": "directly into the language with a",
+    "start": 644.32,
+    "duration": 3.6
+  },
+  {
+    "text": "multi-dimensional array or matrix being",
+    "start": 645.839,
+    "duration": 3.761
+  },
+  {
+    "text": "the central data type this leads to",
+    "start": 647.92,
+    "duration": 3.44
+  },
+  {
+    "text": "extremely terse code that resembles",
+    "start": 649.6,
+    "duration": 3.52
+  },
+  {
+    "text": "mathematical notation and makes heavy",
+    "start": 651.36,
+    "duration": 4.56
+  },
+  {
+    "text": "use of the greek alphabet in 1970 pascal",
+    "start": 653.12,
+    "duration": 4.399
+  },
+  {
+    "text": "was invented and took the programming",
+    "start": 655.92,
+    "duration": 3.359
+  },
+  {
+    "text": "world by storm it's a procedural",
+    "start": 657.519,
+    "duration": 4.081
+  },
+  {
+    "text": "language with a familiar syntax and also",
+    "start": 659.279,
+    "duration": 4.081
+  },
+  {
+    "text": "had very fast compile times it",
+    "start": 661.6,
+    "duration": 3.12
+  },
+  {
+    "text": "eventually became the most popular",
+    "start": 663.36,
+    "duration": 3.44
+  },
+  {
+    "text": "language in the early 1980s before the",
+    "start": 664.72,
+    "duration": 3.84
+  },
+  {
+    "text": "rise of c a few years later there are",
+    "start": 666.8,
+    "duration": 3.36
+  },
+  {
+    "text": "many other important languages from this",
+    "start": 668.56,
+    "duration": 3.519
+  },
+  {
+    "text": "time period like simula the first",
+    "start": 670.16,
+    "duration": 3.76
+  },
+  {
+    "text": "object-oriented language that went on to",
+    "start": 672.079,
+    "duration": 4.161
+  },
+  {
+    "text": "inspire small talk which itself inspired",
+    "start": 673.92,
+    "duration": 4.32
+  },
+  {
+    "text": "many other object-oriented languages",
+    "start": 676.24,
+    "duration": 4.159
+  },
+  {
+    "text": "like python java and ruby then there's",
+    "start": 678.24,
+    "duration": 3.76
+  },
+  {
+    "text": "erlang a concurrent functional",
+    "start": 680.399,
+    "duration": 3.201
+  },
+  {
+    "text": "programming language that basically",
+    "start": 682.0,
+    "duration": 3.44
+  },
+  {
+    "text": "powered the entire telecom industry and",
+    "start": 683.6,
+    "duration": 3.84
+  },
+  {
+    "text": "is still in use today there's ada a",
+    "start": 685.44,
+    "duration": 3.92
+  },
+  {
+    "text": "general purpose language named after ada",
+    "start": 687.44,
+    "duration": 3.68
+  },
+  {
+    "text": "lovelace who's generally considered the",
+    "start": 689.36,
+    "duration": 3.68
+  },
+  {
+    "text": "world's first computer programmer it was",
+    "start": 691.12,
+    "duration": 3.92
+  },
+  {
+    "text": "extremely popular in the 1980s and is",
+    "start": 693.04,
+    "duration": 3.44
+  },
+  {
+    "text": "still used today by the department of",
+    "start": 695.04,
+    "duration": 3.52
+  },
+  {
+    "text": "defense to blow people up in addition we",
+    "start": 696.48,
+    "duration": 3.68
+  },
+  {
+    "text": "should mention prologue the language",
+    "start": 698.56,
+    "duration": 3.36
+  },
+  {
+    "text": "that pioneered logic programming and",
+    "start": 700.16,
+    "duration": 3.28
+  },
+  {
+    "text": "meta language which pioneered the",
+    "start": 701.92,
+    "duration": 3.44
+  },
+  {
+    "text": "polymorphic type system used by other",
+    "start": 703.44,
+    "duration": 3.6
+  },
+  {
+    "text": "statically type functional languages",
+    "start": 705.36,
+    "duration": 3.28
+  },
+  {
+    "text": "like haskell there are many other",
+    "start": 707.04,
+    "duration": 3.359
+  },
+  {
+    "text": "historical languages we could talk about",
+    "start": 708.64,
+    "duration": 3.68
+  },
+  {
+    "text": "but now it's time to descend into the",
+    "start": 710.399,
+    "duration": 3.921
+  },
+  {
+    "text": "realm of the esoteric where we find rare",
+    "start": 712.32,
+    "duration": 3.68
+  },
+  {
+    "text": "and bizarre languages that feel more",
+    "start": 714.32,
+    "duration": 3.84
+  },
+  {
+    "text": "like works of art than engineering tools",
+    "start": 716.0,
+    "duration": 3.839
+  },
+  {
+    "text": "the first known esoteric language came",
+    "start": 718.16,
+    "duration": 4.08
+  },
+  {
+    "text": "out in 1972 and was called intercal",
+    "start": 719.839,
+    "duration": 4.24
+  },
+  {
+    "text": "which stands for compiler language with",
+    "start": 722.24,
+    "duration": 3.839
+  },
+  {
+    "text": "no pronounceable acronym it was designed",
+    "start": 724.079,
+    "duration": 3.76
+  },
+  {
+    "text": "as a parody to make fun of the languages",
+    "start": 726.079,
+    "duration": 4.081
+  },
+  {
+    "text": "of the day like algol and fortran it has",
+    "start": 727.839,
+    "duration": 4.161
+  },
+  {
+    "text": "an entire paradoxical reference manual",
+    "start": 730.16,
+    "duration": 3.28
+  },
+  {
+    "text": "that makes no sense and has an",
+    "start": 732.0,
+    "duration": 3.04
+  },
+  {
+    "text": "interesting choice of keywords like",
+    "start": 733.44,
+    "duration": 3.44
+  },
+  {
+    "text": "please and mingle please doesn't",
+    "start": 735.04,
+    "duration": 3.44
+  },
+  {
+    "text": "actually do anything but it makes you a",
+    "start": 736.88,
+    "duration": 3.44
+  },
+  {
+    "text": "more polite programmer next up we have",
+    "start": 738.48,
+    "duration": 4.4
+  },
+  {
+    "text": "brain brain is most well known for being",
+    "start": 740.32,
+    "duration": 4.56
+  },
+  {
+    "text": "extremely minimal urban mueller created",
+    "start": 742.88,
+    "duration": 3.6
+  },
+  {
+    "text": "breakback in college and it works by",
+    "start": 744.88,
+    "duration": 3.36
+  },
+  {
+    "text": "initializing an array then gives you a",
+    "start": 746.48,
+    "duration": 3.44
+  },
+  {
+    "text": "pointer and eight different characters",
+    "start": 748.24,
+    "duration": 3.76
+  },
+  {
+    "text": "to manipulate memory in that array this",
+    "start": 749.92,
+    "duration": 3.76
+  },
+  {
+    "text": "results in a code base that will",
+    "start": 752.0,
+    "duration": 3.12
+  },
+  {
+    "text": "your brain up it inspired another",
+    "start": 753.68,
+    "duration": 3.76
+  },
+  {
+    "text": "language called male bulge or maybe it's",
+    "start": 755.12,
+    "duration": 4.159
+  },
+  {
+    "text": "malbulgia which is named after the",
+    "start": 757.44,
+    "duration": 3.519
+  },
+  {
+    "text": "eighth circle of hell in the divine",
+    "start": 759.279,
+    "duration": 3.68
+  },
+  {
+    "text": "comedy or dante's inferno if you thought",
+    "start": 760.959,
+    "duration": 4.0
+  },
+  {
+    "text": "brain was difficult this language takes",
+    "start": 762.959,
+    "duration": 3.68
+  },
+  {
+    "text": "things to a whole nother level it makes",
+    "start": 764.959,
+    "duration": 3.12
+  },
+  {
+    "text": "programming so difficult that i can't",
+    "start": 766.639,
+    "duration": 3.121
+  },
+  {
+    "text": "even summarize how it works in a single",
+    "start": 768.079,
+    "duration": 3.521
+  },
+  {
+    "text": "sentence if that's a little too dark a",
+    "start": 769.76,
+    "duration": 3.92
+  },
+  {
+    "text": "far more fun language is chef which is",
+    "start": 771.6,
+    "duration": 3.76
+  },
+  {
+    "text": "stack based and is designed to make your",
+    "start": 773.68,
+    "duration": 3.68
+  },
+  {
+    "text": "code look like a cooking recipe instead",
+    "start": 775.36,
+    "duration": 4.159
+  },
+  {
+    "text": "of concise keywords it uses sentences",
+    "start": 777.36,
+    "duration": 4.24
+  },
+  {
+    "text": "like put ingredient into mixing bowl to",
+    "start": 779.519,
+    "duration": 3.921
+  },
+  {
+    "text": "push a value onto the stack put these",
+    "start": 781.6,
+    "duration": 3.44
+  },
+  {
+    "text": "commands together to create a hello",
+    "start": 783.44,
+    "duration": 3.6
+  },
+  {
+    "text": "world souffle then specify how many it",
+    "start": 785.04,
+    "duration": 3.52
+  },
+  {
+    "text": "serves to write it to the standard",
+    "start": 787.04,
+    "duration": 2.96
+  },
+  {
+    "text": "output that's pretty cool but it may",
+    "start": 788.56,
+    "duration": 3.2
+  },
+  {
+    "text": "seem kind of silly to an intellectual",
+    "start": 790.0,
+    "duration": 3.279
+  },
+  {
+    "text": "the shakespeare programming language",
+    "start": 791.76,
+    "duration": 2.879
+  },
+  {
+    "text": "will make your code look like a",
+    "start": 793.279,
+    "duration": 3.36
+  },
+  {
+    "text": "shakespearean play it provides the low",
+    "start": 794.639,
+    "duration": 3.521
+  },
+  {
+    "text": "level control of assembly with the",
+    "start": 796.639,
+    "duration": 4.081
+  },
+  {
+    "text": "verbosity of 16th century poetry but if",
+    "start": 798.16,
+    "duration": 3.84
+  },
+  {
+    "text": "words aren't really your thing then a",
+    "start": 800.72,
+    "duration": 3.119
+  },
+  {
+    "text": "good language choice would be piet which",
+    "start": 802.0,
+    "duration": 4.0
+  },
+  {
+    "text": "is named after piap mondrian it's also",
+    "start": 803.839,
+    "duration": 4.24
+  },
+  {
+    "text": "stack based but you write code utilizing",
+    "start": 806.0,
+    "duration": 4.0
+  },
+  {
+    "text": "patterns of 20 different colors on a",
+    "start": 808.079,
+    "duration": 3.921
+  },
+  {
+    "text": "bitmap image the end result is a code",
+    "start": 810.0,
+    "duration": 4.0
+  },
+  {
+    "text": "base that looks like abstract art now if",
+    "start": 812.0,
+    "duration": 3.519
+  },
+  {
+    "text": "you're a crazy cat lady you're really",
+    "start": 814.0,
+    "duration": 3.519
+  },
+  {
+    "text": "going to love this next language lol",
+    "start": 815.519,
+    "duration": 3.44
+  },
+  {
+    "text": "code which provides a developer",
+    "start": 817.519,
+    "duration": 4.081
+  },
+  {
+    "text": "experience similar to an llcap meme you",
+    "start": 818.959,
+    "duration": 4.801
+  },
+  {
+    "text": "open a program by saying hi then end it",
+    "start": 821.6,
+    "duration": 4.239
+  },
+  {
+    "text": "by saying k thanks bye loops can be",
+    "start": 823.76,
+    "duration": 4.0
+  },
+  {
+    "text": "performed with i'm in your or broken out",
+    "start": 825.839,
+    "duration": 3.68
+  },
+  {
+    "text": "of with i'm out of year that's nice and",
+    "start": 827.76,
+    "duration": 3.519
+  },
+  {
+    "text": "easy to understand but it would be even",
+    "start": 829.519,
+    "duration": 4.0
+  },
+  {
+    "text": "better if it included emojis emoji code",
+    "start": 831.279,
+    "duration": 3.92
+  },
+  {
+    "text": "is a language where the syntax is",
+    "start": 833.519,
+    "duration": 3.521
+  },
+  {
+    "text": "entirely based on emojis modern",
+    "start": 835.199,
+    "duration": 3.76
+  },
+  {
+    "text": "developers like to use so many emojis in",
+    "start": 837.04,
+    "duration": 3.599
+  },
+  {
+    "text": "their documentation that this language",
+    "start": 838.959,
+    "duration": 3.601
+  },
+  {
+    "text": "would just streamline the entire process",
+    "start": 840.639,
+    "duration": 3.841
+  },
+  {
+    "text": "it's a fully featured object-oriented",
+    "start": 842.56,
+    "duration": 3.36
+  },
+  {
+    "text": "language where you can define code",
+    "start": 844.48,
+    "duration": 3.039
+  },
+  {
+    "text": "blocks with grapes and watermelons",
+    "start": 845.92,
+    "duration": 3.68
+  },
+  {
+    "text": "classes with rabbits and generics with",
+    "start": 847.519,
+    "duration": 3.841
+  },
+  {
+    "text": "shells and eggplants another language",
+    "start": 849.6,
+    "duration": 4.08
+  },
+  {
+    "text": "that's not necessarily esoteric is c",
+    "start": 851.36,
+    "duration": 4.56
+  },
+  {
+    "text": "minus minus it's designed as a portable",
+    "start": 853.68,
+    "duration": 4.0
+  },
+  {
+    "text": "assembly language that borrows heavily",
+    "start": 855.92,
+    "duration": 3.919
+  },
+  {
+    "text": "from sea but omits many of its features",
+    "start": 857.68,
+    "duration": 4.56
+  },
+  {
+    "text": "the ultimate dialect of c though is holy",
+    "start": 859.839,
+    "duration": 4.641
+  },
+  {
+    "text": "see which was created by terry a davis",
+    "start": 862.24,
+    "duration": 4.32
+  },
+  {
+    "text": "used to build temple os an operating",
+    "start": 864.48,
+    "duration": 3.599
+  },
+  {
+    "text": "system written under the direction of",
+    "start": 866.56,
+    "duration": 3.279
+  },
+  {
+    "text": "god holy c is actually really cool",
+    "start": 868.079,
+    "duration": 3.681
+  },
+  {
+    "text": "because it works like c but it's just in",
+    "start": 869.839,
+    "duration": 3.761
+  },
+  {
+    "text": "time compiled on the operating system",
+    "start": 871.76,
+    "duration": 3.04
+  },
+  {
+    "text": "which means you can use it like a",
+    "start": 873.6,
+    "duration": 2.799
+  },
+  {
+    "text": "scripting language that can interact",
+    "start": 874.8,
+    "duration": 3.12
+  },
+  {
+    "text": "directly with the operating system",
+    "start": 876.399,
+    "duration": 3.201
+  },
+  {
+    "text": "kernel and that brings us to the final",
+    "start": 877.92,
+    "duration": 3.52
+  },
+  {
+    "text": "tier the absolute lowest level you can",
+    "start": 879.6,
+    "duration": 3.52
+  },
+  {
+    "text": "go with your learning as a software",
+    "start": 881.44,
+    "duration": 3.839
+  },
+  {
+    "text": "engineer assembly is a language of which",
+    "start": 883.12,
+    "duration": 3.76
+  },
+  {
+    "text": "there are many variations that",
+    "start": 885.279,
+    "duration": 3.761
+  },
+  {
+    "text": "correspond directly to the architecture",
+    "start": 886.88,
+    "duration": 4.72
+  },
+  {
+    "text": "on the cpu different cpu architectures",
+    "start": 889.04,
+    "duration": 4.88
+  },
+  {
+    "text": "like x86 and arm require different",
+    "start": 891.6,
+    "duration": 4.239
+  },
+  {
+    "text": "machine code instructions assembly",
+    "start": 893.92,
+    "duration": 3.44
+  },
+  {
+    "text": "allows you to represent this code with",
+    "start": 895.839,
+    "duration": 3.601
+  },
+  {
+    "text": "simple commands that manipulate values",
+    "start": 897.36,
+    "duration": 4.32
+  },
+  {
+    "text": "on the cpu's registers now if that looks",
+    "start": 899.44,
+    "duration": 4.399
+  },
+  {
+    "text": "too easy the next level down is machine",
+    "start": 901.68,
+    "duration": 3.839
+  },
+  {
+    "text": "code at this point we're looking at ones",
+    "start": 903.839,
+    "duration": 3.921
+  },
+  {
+    "text": "and zeros or raw binary usually",
+    "start": 905.519,
+    "duration": 4.401
+  },
+  {
+    "text": "represented in hexadecimal format to",
+    "start": 907.76,
+    "duration": 3.68
+  },
+  {
+    "text": "code at this level you'll need to have",
+    "start": 909.92,
+    "duration": 3.039
+  },
+  {
+    "text": "intimate knowledge of the computer's",
+    "start": 911.44,
+    "duration": 3.6
+  },
+  {
+    "text": "architecture and also be able to count",
+    "start": 912.959,
+    "duration": 3.841
+  },
+  {
+    "text": "in binary but if we go beyond machine",
+    "start": 915.04,
+    "duration": 3.44
+  },
+  {
+    "text": "code now we're looking at billions of",
+    "start": 916.8,
+    "duration": 4.64
+  },
+  {
+    "text": "transistors on a cpu a single transistor",
+    "start": 918.48,
+    "duration": 5.76
+  },
+  {
+    "text": "represents one bit like a one or zero by",
+    "start": 921.44,
+    "duration": 4.399
+  },
+  {
+    "text": "controlling the amount of electricity",
+    "start": 924.24,
+    "duration": 3.52
+  },
+  {
+    "text": "that flows through a piece of silicon",
+    "start": 925.839,
+    "duration": 3.761
+  },
+  {
+    "text": "now in order to do anything useful the",
+    "start": 927.76,
+    "duration": 3.84
+  },
+  {
+    "text": "transistors need to be organized into",
+    "start": 929.6,
+    "duration": 5.2
+  },
+  {
+    "text": "logic gates like not and or exclusive",
+    "start": 931.6,
+    "duration": 5.44
+  },
+  {
+    "text": "ore and so on ultimately it's these very",
+    "start": 934.8,
+    "duration": 4.08
+  },
+  {
+    "text": "simple chunks of logic that perform the",
+    "start": 937.04,
+    "duration": 4.0
+  },
+  {
+    "text": "miracle of taking some electricity as an",
+    "start": 938.88,
+    "duration": 3.519
+  },
+  {
+    "text": "input that can produce some other",
+    "start": 941.04,
+    "duration": 3.2
+  },
+  {
+    "text": "electricity as an output and do it",
+    "start": 942.399,
+    "duration": 3.36
+  },
+  {
+    "text": "billions of times per second all over",
+    "start": 944.24,
+    "duration": 3.039
+  },
+  {
+    "text": "the world so you can play video games",
+    "start": 945.759,
+    "duration": 3.2
+  },
+  {
+    "text": "with your friend in vietnam if that was",
+    "start": 947.279,
+    "duration": 3.281
+  },
+  {
+    "text": "too easy then you may want to look into",
+    "start": 948.959,
+    "duration": 3.921
+  },
+  {
+    "text": "the field of quantum electrodynamics you",
+    "start": 950.56,
+    "duration": 3.839
+  },
+  {
+    "text": "fully understand how these particles",
+    "start": 952.88,
+    "duration": 3.6
+  },
+  {
+    "text": "behave in the electromagnetic quantum",
+    "start": 954.399,
+    "duration": 4.0
+  },
+  {
+    "text": "vacuum you can then use your skills to",
+    "start": 956.48,
+    "duration": 4.24
+  },
+  {
+    "text": "build a next-gen blazingly fast quantum",
+    "start": 958.399,
+    "duration": 4.24
+  },
+  {
+    "text": "computer and become the richest person",
+    "start": 960.72,
+    "duration": 3.6
+  },
+  {
+    "text": "in history at this point in the iceberg",
+    "start": 962.639,
+    "duration": 3.281
+  },
+  {
+    "text": "there's only one place left to go the",
+    "start": 964.32,
+    "duration": 4.079
+  },
+  {
+    "text": "scariest place of all yourself once you",
+    "start": 965.92,
+    "duration": 4.32
+  },
+  {
+    "text": "know everything the question becomes",
+    "start": 968.399,
+    "duration": 4.0
+  },
+  {
+    "text": "what is knowledge epistemology is the",
+    "start": 970.24,
+    "duration": 3.839
+  },
+  {
+    "text": "theory of knowledge and philosophers",
+    "start": 972.399,
+    "duration": 3.041
+  },
+  {
+    "text": "still don't have a good answer to this",
+    "start": 974.079,
+    "duration": 3.44
+  },
+  {
+    "text": "day reality only exists within my own",
+    "start": 975.44,
+    "duration": 4.24
+  },
+  {
+    "text": "mind for all i know the entire external",
+    "start": 977.519,
+    "duration": 3.44
+  },
+  {
+    "text": "world and all the knowledge i've",
+    "start": 979.68,
+    "duration": 2.88
+  },
+  {
+    "text": "acquired are just illusions and",
+    "start": 980.959,
+    "duration": 3.521
+  },
+  {
+    "text": "projections from my own ego maybe",
+    "start": 982.56,
+    "duration": 3.519
+  },
+  {
+    "text": "there's a god-like being that controls",
+    "start": 984.48,
+    "duration": 3.039
+  },
+  {
+    "text": "all the sensations and knowledge",
+    "start": 986.079,
+    "duration": 3.281
+  },
+  {
+    "text": "received by my mind or perhaps my real",
+    "start": 987.519,
+    "duration": 3.68
+  },
+  {
+    "text": "body isn't a vat of goo and i'm already",
+    "start": 989.36,
+    "duration": 3.68
+  },
+  {
+    "text": "living in zuckerberg's metaverse or",
+    "start": 991.199,
+    "duration": 3.521
+  },
+  {
+    "text": "maybe i never came out of that ayahuasca",
+    "start": 993.04,
+    "duration": 3.52
+  },
+  {
+    "text": "trip i took 10 years ago the only thing",
+    "start": 994.72,
+    "duration": 3.44
+  },
+  {
+    "text": "i really know is that i know nothing",
+    "start": 996.56,
+    "duration": 3.44
+  },
+  {
+    "text": "thanks for watching and i will see you",
+    "start": 998.16,
+    "duration": 5.32
+  },
+  {
+    "text": "in the next one",
+    "start": 1000.0,
+    "duration": 3.48
+  }
+]

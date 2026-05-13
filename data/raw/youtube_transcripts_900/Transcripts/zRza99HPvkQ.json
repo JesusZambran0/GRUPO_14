@@ -1,0 +1,1602 @@
+[
+  {
+    "text": "hi the topic is 01 ABS problem using",
+    "start": 0.56,
+    "duration": 5.12
+  },
+  {
+    "text": "dynamic programming already I have one",
+    "start": 3.04,
+    "duration": 4.279
+  },
+  {
+    "text": "video on this problem where I have",
+    "start": 5.68,
+    "duration": 3.76
+  },
+  {
+    "text": "explained how the dynamic programming",
+    "start": 7.319,
+    "duration": 5.681
+  },
+  {
+    "text": "approach is used for solving Z1 aback",
+    "start": 9.44,
+    "duration": 6.32
+  },
+  {
+    "text": "problem there I have shown more than one",
+    "start": 13.0,
+    "duration": 5.64
+  },
+  {
+    "text": "methods but here I am going to discuss",
+    "start": 15.76,
+    "duration": 4.96
+  },
+  {
+    "text": "the program for that one so I have",
+    "start": 18.64,
+    "duration": 4.28
+  },
+  {
+    "text": "written a program and I will trace the",
+    "start": 20.72,
+    "duration": 3.96
+  },
+  {
+    "text": "program and solve the problem so that",
+    "start": 22.92,
+    "duration": 3.439
+  },
+  {
+    "text": "you get the idea how to write a program",
+    "start": 24.68,
+    "duration": 3.759
+  },
+  {
+    "text": "for this type of",
+    "start": 26.359,
+    "duration": 4.84
+  },
+  {
+    "text": "problem you may be of the problem that a",
+    "start": 28.439,
+    "duration": 4.841
+  },
+  {
+    "text": "napsack problem is a bag is given you",
+    "start": 31.199,
+    "duration": 5.161
+  },
+  {
+    "text": "have to include the objects in the bag",
+    "start": 33.28,
+    "duration": 4.92
+  },
+  {
+    "text": "such that the capacity should not",
+    "start": 36.36,
+    "duration": 4.039
+  },
+  {
+    "text": "increase and when you include the bag",
+    "start": 38.2,
+    "duration": 4.16
+  },
+  {
+    "text": "you'll get the profit and you should",
+    "start": 40.399,
+    "duration": 3.521
+  },
+  {
+    "text": "include the complete object or don't",
+    "start": 42.36,
+    "duration": 5.199
+  },
+  {
+    "text": "include at all now for solving this one",
+    "start": 43.92,
+    "duration": 6.44
+  },
+  {
+    "text": "I have taken one instance example here",
+    "start": 47.559,
+    "duration": 4.921
+  },
+  {
+    "text": "so inside the program if you see look at",
+    "start": 50.36,
+    "duration": 4.879
+  },
+  {
+    "text": "the program this is the data that I need",
+    "start": 52.48,
+    "duration": 5.28
+  },
+  {
+    "text": "I need array of profits array of weights",
+    "start": 55.239,
+    "duration": 4.201
+  },
+  {
+    "text": "and the number of objects and the total",
+    "start": 57.76,
+    "duration": 4.439
+  },
+  {
+    "text": "capacity of the bag now one thing to",
+    "start": 59.44,
+    "duration": 4.679
+  },
+  {
+    "text": "observe here is I have only four objects",
+    "start": 62.199,
+    "duration": 4.401
+  },
+  {
+    "text": "but the array size I have taken five",
+    "start": 64.119,
+    "duration": 4.401
+  },
+  {
+    "text": "because we want to start counting from",
+    "start": 66.6,
+    "duration": 3.879
+  },
+  {
+    "text": "one first object will not call it as",
+    "start": 68.52,
+    "duration": 4.2
+  },
+  {
+    "text": "zero we will call it as one that is the",
+    "start": 70.479,
+    "duration": 4.921
+  },
+  {
+    "text": "reason I taking zero index MD that is",
+    "start": 72.72,
+    "duration": 4.399
+  },
+  {
+    "text": "zero this is also",
+    "start": 75.4,
+    "duration": 4.679
+  },
+  {
+    "text": "zero now for solving this problem we",
+    "start": 77.119,
+    "duration": 6.04
+  },
+  {
+    "text": "need a table so that table size should",
+    "start": 80.079,
+    "duration": 7.161
+  },
+  {
+    "text": "be of 5 comma 9 so 5 is 0 to 4 for four",
+    "start": 83.159,
+    "duration": 8.761
+  },
+  {
+    "text": "objects and the 9 is 0 to 8 for eight",
+    "start": 87.24,
+    "duration": 7.4
+  },
+  {
+    "text": "weights so whatever the capacity is you",
+    "start": 91.92,
+    "duration": 4.879
+  },
+  {
+    "text": "should take that many columns and how",
+    "start": 94.64,
+    "duration": 4.439
+  },
+  {
+    "text": "many objects you have that many rows and",
+    "start": 96.799,
+    "duration": 4.161
+  },
+  {
+    "text": "you should add zeroth row and zeroth",
+    "start": 99.079,
+    "duration": 5.72
+  },
+  {
+    "text": "column also so that's our K of 5 to 9 5",
+    "start": 100.96,
+    "duration": 7.56
+  },
+  {
+    "text": "means 0 to 4 9 0 to 8 so I'll get five",
+    "start": 104.799,
+    "duration": 7.081
+  },
+  {
+    "text": "rows and nine columns now this is the",
+    "start": 108.52,
+    "duration": 6.48
+  },
+  {
+    "text": "working see one thing I have written",
+    "start": 111.88,
+    "duration": 5.0
+  },
+  {
+    "text": "just a main function everything inside",
+    "start": 115.0,
+    "duration": 3.52
+  },
+  {
+    "text": "main function I did not write it into",
+    "start": 116.88,
+    "duration": 4.159
+  },
+  {
+    "text": "multiple functions because I don't need",
+    "start": 118.52,
+    "duration": 4.8
+  },
+  {
+    "text": "it here if I have to write I can write",
+    "start": 121.039,
+    "duration": 3.881
+  },
+  {
+    "text": "the logic in some other function and",
+    "start": 123.32,
+    "duration": 3.479
+  },
+  {
+    "text": "divide the program into two or three",
+    "start": 124.92,
+    "duration": 4.28
+  },
+  {
+    "text": "functions but it's waste I have written",
+    "start": 126.799,
+    "duration": 4.841
+  },
+  {
+    "text": "a simple code here and this will work",
+    "start": 129.2,
+    "duration": 4.44
+  },
+  {
+    "text": "only for this example if you want it to",
+    "start": 131.64,
+    "duration": 3.84
+  },
+  {
+    "text": "work for a different example just change",
+    "start": 133.64,
+    "duration": 4.879
+  },
+  {
+    "text": "the values and compile it and run it if",
+    "start": 135.48,
+    "duration": 5.08
+  },
+  {
+    "text": "you say No it should always run for",
+    "start": 138.519,
+    "duration": 4.281
+  },
+  {
+    "text": "different type of uh objects different",
+    "start": 140.56,
+    "duration": 4.6
+  },
+  {
+    "text": "number of objects then take these values",
+    "start": 142.8,
+    "duration": 5.0
+  },
+  {
+    "text": "as input from the keyboard ask how many",
+    "start": 145.16,
+    "duration": 5.0
+  },
+  {
+    "text": "objects are there what is the capacity",
+    "start": 147.8,
+    "duration": 4.159
+  },
+  {
+    "text": "and what are their weights and profits",
+    "start": 150.16,
+    "duration": 4.28
+  },
+  {
+    "text": "you can add the code here now remaining",
+    "start": 151.959,
+    "duration": 4.521
+  },
+  {
+    "text": "part this is the logic so I have focused",
+    "start": 154.44,
+    "duration": 5.159
+  },
+  {
+    "text": "only on the logic let us follow this one",
+    "start": 156.48,
+    "duration": 5.479
+  },
+  {
+    "text": "how this is working this is nested for",
+    "start": 159.599,
+    "duration": 6.081
+  },
+  {
+    "text": "loop I value is taking from 0 to n mean",
+    "start": 161.959,
+    "duration": 7.841
+  },
+  {
+    "text": "0 to 4 I is for rows of this table and",
+    "start": 165.68,
+    "duration": 9.24
+  },
+  {
+    "text": "the W value is from 0 to M so 0 to8 it",
+    "start": 169.8,
+    "duration": 7.799
+  },
+  {
+    "text": "is for columns I and J will be changing",
+    "start": 174.92,
+    "duration": 5.8
+  },
+  {
+    "text": "the values of rows and columns how they",
+    "start": 177.599,
+    "duration": 6.481
+  },
+  {
+    "text": "work let us trace this two follow loops",
+    "start": 180.72,
+    "duration": 6.28
+  },
+  {
+    "text": "and fill up the table initially I is",
+    "start": 184.08,
+    "duration": 7.0
+  },
+  {
+    "text": "zero I is z and I is less than equal to",
+    "start": 187.0,
+    "duration": 9.64
+  },
+  {
+    "text": "m n so enter inside and W is also z w is",
+    "start": 191.08,
+    "duration": 5.56
+  },
+  {
+    "text": "z Now enter inside if I is z or W is 0",
+    "start": 199.4,
+    "duration": 6.28
+  },
+  {
+    "text": "if any one of them is zero then this",
+    "start": 203.92,
+    "duration": 3.64
+  },
+  {
+    "text": "condition is true if you observe there",
+    "start": 205.68,
+    "duration": 4.119
+  },
+  {
+    "text": "are three cases here so this is first",
+    "start": 207.56,
+    "duration": 5.48
+  },
+  {
+    "text": "and the second and the third so if is",
+    "start": 209.799,
+    "duration": 6.961
+  },
+  {
+    "text": "true so I comma W is made as 0 that is 0",
+    "start": 213.04,
+    "duration": 6.279
+  },
+  {
+    "text": "comma 0 is made as zero this is",
+    "start": 216.76,
+    "duration": 5.559
+  },
+  {
+    "text": "zero so actually right now I is here",
+    "start": 219.319,
+    "duration": 6.521
+  },
+  {
+    "text": "that is on zero throw and the W was here",
+    "start": 222.319,
+    "duration": 9.12
+  },
+  {
+    "text": "now W will move to 1 so this is 0a 1 so",
+    "start": 225.84,
+    "duration": 10.08
+  },
+  {
+    "text": "enter inside again I value is Zer only",
+    "start": 231.439,
+    "duration": 7.08
+  },
+  {
+    "text": "so this will be zero see now W will be",
+    "start": 235.92,
+    "duration": 6.8
+  },
+  {
+    "text": "taking the values from 0 1 2 till 8 so w",
+    "start": 238.519,
+    "duration": 7.161
+  },
+  {
+    "text": "will become 2 then 3 then 4 then till 8",
+    "start": 242.72,
+    "duration": 4.799
+  },
+  {
+    "text": "always I is zero only so this will be",
+    "start": 245.68,
+    "duration": 4.04
+  },
+  {
+    "text": "filled with zeros",
+    "start": 247.519,
+    "duration": 5.761
+  },
+  {
+    "text": "only now next",
+    "start": 249.72,
+    "duration": 3.56
+  },
+  {
+    "text": "is this inner loop ends now I ++ I",
+    "start": 253.319,
+    "duration": 7.44
+  },
+  {
+    "text": "becomes 1 I moves to row one now we'll",
+    "start": 257.68,
+    "duration": 5.92
+  },
+  {
+    "text": "be considering first object now let us",
+    "start": 260.759,
+    "duration": 6.201
+  },
+  {
+    "text": "start w w will be zero the first time",
+    "start": 263.6,
+    "duration": 6.24
+  },
+  {
+    "text": "when w is zero then also the same first",
+    "start": 266.96,
+    "duration": 5.56
+  },
+  {
+    "text": "condition is true so this will be zero",
+    "start": 269.84,
+    "duration": 4.84
+  },
+  {
+    "text": "so till now only first condition was",
+    "start": 272.52,
+    "duration": 6.36
+  },
+  {
+    "text": "true next let us see W becomes",
+    "start": 274.68,
+    "duration": 8.44
+  },
+  {
+    "text": "one W becomes one now when w becomes one",
+    "start": 278.88,
+    "duration": 6.96
+  },
+  {
+    "text": "this is not true now check this one",
+    "start": 283.12,
+    "duration": 6.0
+  },
+  {
+    "text": "weight of I object is less than equal to",
+    "start": 285.84,
+    "duration": 7.0
+  },
+  {
+    "text": "W what is w 1 weight of the object is",
+    "start": 289.12,
+    "duration": 5.4
+  },
+  {
+    "text": "already I have written it here weight is",
+    "start": 292.84,
+    "duration": 5.799
+  },
+  {
+    "text": "two here two weight of one right I is 1",
+    "start": 294.52,
+    "duration": 8.679
+  },
+  {
+    "text": "is two two is it less than W no else",
+    "start": 298.639,
+    "duration": 7.921
+  },
+  {
+    "text": "this one what to write here in K of I",
+    "start": 303.199,
+    "duration": 7.921
+  },
+  {
+    "text": "comma W write i - 1A W that is 1A 1",
+    "start": 306.56,
+    "duration": 8.32
+  },
+  {
+    "text": "right 0a 1 so that is zero only that",
+    "start": 311.12,
+    "duration": 6.12
+  },
+  {
+    "text": "value in the above Row in the same",
+    "start": 314.88,
+    "duration": 5.159
+  },
+  {
+    "text": "column just fill up the same value so we",
+    "start": 317.24,
+    "duration": 5.72
+  },
+  {
+    "text": "have seen this also and this also now",
+    "start": 320.039,
+    "duration": 5.041
+  },
+  {
+    "text": "next W becomes",
+    "start": 322.96,
+    "duration": 7.16
+  },
+  {
+    "text": "2 when w is 2 1A 2 now this time this",
+    "start": 325.08,
+    "duration": 6.88
+  },
+  {
+    "text": "condition will be true weight of an",
+    "start": 330.12,
+    "duration": 4.32
+  },
+  {
+    "text": "object is less than equal to W so weight",
+    "start": 331.96,
+    "duration": 5.519
+  },
+  {
+    "text": "of an object weight of one 2 that is",
+    "start": 334.44,
+    "duration": 6.8
+  },
+  {
+    "text": "equal to 2 now this formula is computed",
+    "start": 337.479,
+    "duration": 6.121
+  },
+  {
+    "text": "let us see how this formula is",
+    "start": 341.24,
+    "duration": 6.76
+  },
+  {
+    "text": "computed so I'll follow the Formula K of",
+    "start": 343.6,
+    "duration": 13.56
+  },
+  {
+    "text": "1A 2 1A 2 IA W is Max",
+    "start": 348.0,
+    "duration": 14.84
+  },
+  {
+    "text": "of P of I profit of first object so P of",
+    "start": 357.16,
+    "duration": 7.92
+  },
+  {
+    "text": "first object",
+    "start": 362.84,
+    "duration": 11.799
+  },
+  {
+    "text": "plus K of IUS one k of I is what 1 1 -",
+    "start": 365.08,
+    "duration": 9.559
+  },
+  {
+    "text": "1 and W of sorry W minus weight of the",
+    "start": 375.16,
+    "duration": 9.439
+  },
+  {
+    "text": "object what is w 2 so what is the weight",
+    "start": 381.4,
+    "duration": 7.12
+  },
+  {
+    "text": "of an object weight of an object is two",
+    "start": 384.599,
+    "duration": 5.6
+  },
+  {
+    "text": "two",
+    "start": 388.52,
+    "duration": 5.6
+  },
+  {
+    "text": "comma next value K",
+    "start": 390.199,
+    "duration": 10.921
+  },
+  {
+    "text": "of i - 1 I is 1 1 - 1 and W is 2",
+    "start": 394.12,
+    "duration": 9.799
+  },
+  {
+    "text": "only I have to take the maximum out of",
+    "start": 401.12,
+    "duration": 3.6
+  },
+  {
+    "text": "these",
+    "start": 403.919,
+    "duration": 3.56
+  },
+  {
+    "text": "two let us fill the values and check",
+    "start": 404.72,
+    "duration": 7.12
+  },
+  {
+    "text": "profit of first object is 1 plus K of 0a",
+    "start": 407.479,
+    "duration": 6.0
+  },
+  {
+    "text": "0 is",
+    "start": 411.84,
+    "duration": 8.039
+  },
+  {
+    "text": "0 comma this is 0a 2 0a 2 this 0 so",
+    "start": 413.479,
+    "duration": 9.641
+  },
+  {
+    "text": "which is maximum one take it as",
+    "start": 419.879,
+    "duration": 5.401
+  },
+  {
+    "text": "one that's",
+    "start": 423.12,
+    "duration": 7.04
+  },
+  {
+    "text": "it next value of w changes it becomes",
+    "start": 425.28,
+    "duration": 6.84
+  },
+  {
+    "text": "three now I will simply change the",
+    "start": 430.16,
+    "duration": 4.879
+  },
+  {
+    "text": "values W is a three now so this is a",
+    "start": 432.12,
+    "duration": 7.919
+  },
+  {
+    "text": "three W is three so this is uh",
+    "start": 435.039,
+    "duration": 8.361
+  },
+  {
+    "text": "three and this is also three let us fill",
+    "start": 440.039,
+    "duration": 6.321
+  },
+  {
+    "text": "up the values P1 profit will be one only",
+    "start": 443.4,
+    "duration": 7.68
+  },
+  {
+    "text": "plus this is 0a 1 0 comma 1 is also 0",
+    "start": 446.36,
+    "duration": 9.959
+  },
+  {
+    "text": "only comma this is 0a 3 0a 3 this value",
+    "start": 451.08,
+    "duration": 8.2
+  },
+  {
+    "text": "the upper value is 0 only so it's one so",
+    "start": 456.319,
+    "duration": 5.0
+  },
+  {
+    "text": "anyway all these rows will be one only",
+    "start": 459.28,
+    "duration": 4.319
+  },
+  {
+    "text": "if I use the formula and always this",
+    "start": 461.319,
+    "duration": 3.801
+  },
+  {
+    "text": "second condition will be true and it",
+    "start": 463.599,
+    "duration": 2.961
+  },
+  {
+    "text": "will be entering in and finding the",
+    "start": 465.12,
+    "duration": 6.0
+  },
+  {
+    "text": "maximum value let us go to next",
+    "start": 466.56,
+    "duration": 10.68
+  },
+  {
+    "text": "row I becomes 2 and W again starts from",
+    "start": 471.12,
+    "duration": 9.479
+  },
+  {
+    "text": "zero now this time is zero one of the",
+    "start": 477.24,
+    "duration": 6.84
+  },
+  {
+    "text": "value is zero so it will enter here it",
+    "start": 480.599,
+    "duration": 5.121
+  },
+  {
+    "text": "will fill",
+    "start": 484.08,
+    "duration": 6.76
+  },
+  {
+    "text": "zero and 2 comma 1 when w is 1 see this",
+    "start": 485.72,
+    "duration": 7.64
+  },
+  {
+    "text": "condition weight of an object is less",
+    "start": 490.84,
+    "duration": 5.039
+  },
+  {
+    "text": "than or equal to W weight of an object",
+    "start": 493.36,
+    "duration": 6.279
+  },
+  {
+    "text": "is three is it less than this one no",
+    "start": 495.879,
+    "duration": 5.681
+  },
+  {
+    "text": "this is greater than that one so it will",
+    "start": 499.639,
+    "duration": 3.641
+  },
+  {
+    "text": "enter into lse part and it will write",
+    "start": 501.56,
+    "duration": 3.4
+  },
+  {
+    "text": "down the value in the previous Row in",
+    "start": 503.28,
+    "duration": 3.72
+  },
+  {
+    "text": "the same column so it will write zero",
+    "start": 504.96,
+    "duration": 6.16
+  },
+  {
+    "text": "only for here also one and for here now",
+    "start": 507.0,
+    "duration": 7.279
+  },
+  {
+    "text": "it is equal so now it will enter into",
+    "start": 511.12,
+    "duration": 5.52
+  },
+  {
+    "text": "the second part so let me evaluate",
+    "start": 514.279,
+    "duration": 5.64
+  },
+  {
+    "text": "second part for this particular row now",
+    "start": 516.64,
+    "duration": 7.68
+  },
+  {
+    "text": "this is 2 comma 3 2 comma",
+    "start": 519.919,
+    "duration": 10.841
+  },
+  {
+    "text": "3 profit of second object this is 2 -",
+    "start": 524.32,
+    "duration": 6.44
+  },
+  {
+    "text": "1 weight is three and the weight of this",
+    "start": 530.88,
+    "duration": 4.92
+  },
+  {
+    "text": "object is also",
+    "start": 534.0,
+    "duration": 6.32
+  },
+  {
+    "text": "three 2 - 1 and the weight is",
+    "start": 535.8,
+    "duration": 7.24
+  },
+  {
+    "text": "three I have filled the values in this",
+    "start": 540.32,
+    "duration": 4.48
+  },
+  {
+    "text": "formula",
+    "start": 543.04,
+    "duration": 5.2
+  },
+  {
+    "text": "directly maximum of P of 2 profit of the",
+    "start": 544.8,
+    "duration": 7.039
+  },
+  {
+    "text": "second object is 2 plus this is 1 comma",
+    "start": 548.24,
+    "duration": 10.52
+  },
+  {
+    "text": "0 1 comma 0 is 0 comma this is 1A 3 1A 3",
+    "start": 551.839,
+    "duration": 11.24
+  },
+  {
+    "text": "is 1 which is minimum two two is written",
+    "start": 558.76,
+    "duration": 7.319
+  },
+  {
+    "text": "here now in the next value also you will",
+    "start": 563.079,
+    "duration": 5.88
+  },
+  {
+    "text": "get two only if you try that but here",
+    "start": 566.079,
+    "duration": 6.081
+  },
+  {
+    "text": "for this it will change let me show you",
+    "start": 568.959,
+    "duration": 7.281
+  },
+  {
+    "text": "this so I is 2 only W is five so I will",
+    "start": 572.16,
+    "duration": 7.799
+  },
+  {
+    "text": "change the value of w this is five and",
+    "start": 576.24,
+    "duration": 7.2
+  },
+  {
+    "text": "this is five and this is five for the",
+    "start": 579.959,
+    "duration": 6.56
+  },
+  {
+    "text": "same row what are the values profit of",
+    "start": 583.44,
+    "duration": 7.519
+  },
+  {
+    "text": "second object is two plus K of 1 comma",
+    "start": 586.519,
+    "duration": 11.76
+  },
+  {
+    "text": "this is 2 1A 2 is 1 1 comma this is 1A 5",
+    "start": 590.959,
+    "duration": 10.241
+  },
+  {
+    "text": "1A 5 is one only one out of this which",
+    "start": 598.279,
+    "duration": 7.24
+  },
+  {
+    "text": "is minimum maximum 2 + 1 3 is maximum we",
+    "start": 601.2,
+    "duration": 6.6
+  },
+  {
+    "text": "got three this means that when the",
+    "start": 605.519,
+    "duration": 5.081
+  },
+  {
+    "text": "capacity of the bag is five we can fill",
+    "start": 607.8,
+    "duration": 5.719
+  },
+  {
+    "text": "up two objects both objects this one",
+    "start": 610.6,
+    "duration": 5.08
+  },
+  {
+    "text": "both see their weights are two and three",
+    "start": 613.519,
+    "duration": 5.44
+  },
+  {
+    "text": "total is five so we can include both the",
+    "start": 615.68,
+    "duration": 5.8
+  },
+  {
+    "text": "objects rest I'll get the same thing",
+    "start": 618.959,
+    "duration": 4.88
+  },
+  {
+    "text": "only 3 3",
+    "start": 621.48,
+    "duration": 6.88
+  },
+  {
+    "text": "3 now when I becomes three third object",
+    "start": 623.839,
+    "duration": 7.081
+  },
+  {
+    "text": "till wait for four we'll be getting same",
+    "start": 628.36,
+    "duration": 4.96
+  },
+  {
+    "text": "thing in the previous",
+    "start": 630.92,
+    "duration": 5.719
+  },
+  {
+    "text": "row now here this object can be included",
+    "start": 633.32,
+    "duration": 6.56
+  },
+  {
+    "text": "we get five and the next also",
+    "start": 636.639,
+    "duration": 6.64
+  },
+  {
+    "text": "five if you use the formula next this",
+    "start": 639.88,
+    "duration": 10.04
+  },
+  {
+    "text": "one I'll show you 3A 6 K of 3A 6 is",
+    "start": 643.279,
+    "duration": 8.401
+  },
+  {
+    "text": "maximum",
+    "start": 649.92,
+    "duration": 9.8
+  },
+  {
+    "text": "of P of third object plus K of",
+    "start": 651.68,
+    "duration": 8.04
+  },
+  {
+    "text": "two and the weight is how much 6 W is 6",
+    "start": 660.48,
+    "duration": 9.359
+  },
+  {
+    "text": "and the weight of this one",
+    "start": 666.68,
+    "duration": 3.159
+  },
+  {
+    "text": "is weight is 6 minus weight of the",
+    "start": 669.959,
+    "duration": 10.841
+  },
+  {
+    "text": "object is 4 6 - 4 comma K of 2 comma 6",
+    "start": 673.079,
+    "duration": 11.521
+  },
+  {
+    "text": "let us check profit of this object five",
+    "start": 680.8,
+    "duration": 8.76
+  },
+  {
+    "text": "plus 2 comma this is 2 2A 2 2 comma 2 is",
+    "start": 684.6,
+    "duration": 9.919
+  },
+  {
+    "text": "1 1 comma 2 comma 6 2A 6 is three which",
+    "start": 689.56,
+    "duration": 8.2
+  },
+  {
+    "text": "one is greater six so answer is six this",
+    "start": 694.519,
+    "duration": 5.76
+  },
+  {
+    "text": "means that when the capacity of the bag",
+    "start": 697.76,
+    "duration": 5.639
+  },
+  {
+    "text": "is a six we can include these two",
+    "start": 700.279,
+    "duration": 5.081
+  },
+  {
+    "text": "objects these two",
+    "start": 703.399,
+    "duration": 4.921
+  },
+  {
+    "text": "objects four as well as two means first",
+    "start": 705.36,
+    "duration": 4.32
+  },
+  {
+    "text": "object and the second object so the",
+    "start": 708.32,
+    "duration": 3.28
+  },
+  {
+    "text": "profit that we get is",
+    "start": 709.68,
+    "duration": 5.8
+  },
+  {
+    "text": "six let us try an X when it is",
+    "start": 711.6,
+    "duration": 9.4
+  },
+  {
+    "text": "7 so 3A 7 so this becomes 7 7 and this",
+    "start": 715.48,
+    "duration": 9.2
+  },
+  {
+    "text": "becomes 7 profit of this object is 5",
+    "start": 721.0,
+    "duration": 9.16
+  },
+  {
+    "text": "plus 2 comma 7 - 4 that is 3 2A 3 2A 3",
+    "start": 724.68,
+    "duration": 11.64
+  },
+  {
+    "text": "is 2 2 comma 2A 7 2 comma 7 is 3 three",
+    "start": 730.16,
+    "duration": 8.679
+  },
+  {
+    "text": "which one is greater 7",
+    "start": 736.32,
+    "duration": 5.48
+  },
+  {
+    "text": "7 what does this mean when the capacity",
+    "start": 738.839,
+    "duration": 5.12
+  },
+  {
+    "text": "of the bag is seven we can include these",
+    "start": 741.8,
+    "duration": 4.44
+  },
+  {
+    "text": "two objects you see their weights are 3",
+    "start": 743.959,
+    "duration": 5.761
+  },
+  {
+    "text": "+ 4 7 so it will be profit will be seven",
+    "start": 746.24,
+    "duration": 7.52
+  },
+  {
+    "text": "5 + 2 7 so rest also I'll get 7 this way",
+    "start": 749.72,
+    "duration": 6.119
+  },
+  {
+    "text": "every time second condition is true and",
+    "start": 753.76,
+    "duration": 4.56
+  },
+  {
+    "text": "these are getting filled right first and",
+    "start": 755.839,
+    "duration": 4.8
+  },
+  {
+    "text": "say last condition will not get filled",
+    "start": 758.32,
+    "duration": 6.04
+  },
+  {
+    "text": "now for the fourth row fourth row its",
+    "start": 760.639,
+    "duration": 7.521
+  },
+  {
+    "text": "weight is five till five these will be",
+    "start": 764.36,
+    "duration": 8.36
+  },
+  {
+    "text": "as it is and fifth profit will be six",
+    "start": 768.16,
+    "duration": 6.44
+  },
+  {
+    "text": "and when it is",
+    "start": 772.72,
+    "duration": 4.96
+  },
+  {
+    "text": "six it will be six only and when it is",
+    "start": 774.6,
+    "duration": 6.72
+  },
+  {
+    "text": "seven then these two can be included so",
+    "start": 777.68,
+    "duration": 6.24
+  },
+  {
+    "text": "that is 2 and five they can be included",
+    "start": 781.32,
+    "duration": 7.12
+  },
+  {
+    "text": "so this will be 7 7 and at eight these",
+    "start": 783.92,
+    "duration": 6.88
+  },
+  {
+    "text": "two can be included five and three so",
+    "start": 788.44,
+    "duration": 5.0
+  },
+  {
+    "text": "this will be eight without the formula",
+    "start": 790.8,
+    "duration": 4.12
+  },
+  {
+    "text": "I'm showing you now you have understood",
+    "start": 793.44,
+    "duration": 6.0
+  },
+  {
+    "text": "how this code is working finally C out K",
+    "start": 794.92,
+    "duration": 9.159
+  },
+  {
+    "text": "of n comma w n is 4 W is 8 so this is",
+    "start": 799.44,
+    "duration": 5.639
+  },
+  {
+    "text": "the",
+    "start": 804.079,
+    "duration": 4.041
+  },
+  {
+    "text": "answer this is the",
+    "start": 805.079,
+    "duration": 7.401
+  },
+  {
+    "text": "answer so this is the optimal cost we",
+    "start": 808.12,
+    "duration": 7.079
+  },
+  {
+    "text": "got now we want to know which object is",
+    "start": 812.48,
+    "duration": 5.32
+  },
+  {
+    "text": "included which is not included so for",
+    "start": 815.199,
+    "duration": 4.401
+  },
+  {
+    "text": "that we can",
+    "start": 817.8,
+    "duration": 5.159
+  },
+  {
+    "text": "start I from",
+    "start": 819.6,
+    "duration": 10.039
+  },
+  {
+    "text": "n that is n and J from M that is 8 so 4A",
+    "start": 822.959,
+    "duration": 9.0
+  },
+  {
+    "text": "8 they will start for 4A",
+    "start": 829.639,
+    "duration": 5.241
+  },
+  {
+    "text": "8 now what to do",
+    "start": 831.959,
+    "duration": 8.32
+  },
+  {
+    "text": "if K of I comma J",
+    "start": 834.88,
+    "duration": 8.319
+  },
+  {
+    "text": "is equal to K of i",
+    "start": 840.279,
+    "duration": 7.161
+  },
+  {
+    "text": "-1a j this means that if this value is",
+    "start": 843.199,
+    "duration": 6.681
+  },
+  {
+    "text": "already present in this one also it",
+    "start": 847.44,
+    "duration": 5.399
+  },
+  {
+    "text": "means if this is also eight means fourth",
+    "start": 849.88,
+    "duration": 5.72
+  },
+  {
+    "text": "object is not included this solution is",
+    "start": 852.839,
+    "duration": 5.641
+  },
+  {
+    "text": "not because of including fourth object",
+    "start": 855.6,
+    "duration": 4.88
+  },
+  {
+    "text": "we got eight now only so this means",
+    "start": 858.48,
+    "duration": 5.08
+  },
+  {
+    "text": "fourth object is included so if this is",
+    "start": 860.48,
+    "duration": 5.32
+  },
+  {
+    "text": "equal means it is not included so if it",
+    "start": 863.56,
+    "duration": 7.079
+  },
+  {
+    "text": "is not included then what I can do is C",
+    "start": 865.8,
+    "duration": 10.68
+  },
+  {
+    "text": "out four that is fourth object that is",
+    "start": 870.639,
+    "duration": 9.88
+  },
+  {
+    "text": "I is equal to zero this will be",
+    "start": 876.48,
+    "duration": 8.359
+  },
+  {
+    "text": "displayed right and L and also go to the",
+    "start": 880.519,
+    "duration": 6.68
+  },
+  {
+    "text": "previous object so and weight will be",
+    "start": 884.839,
+    "duration": 5.201
+  },
+  {
+    "text": "same only IUS minus I have written in",
+    "start": 887.199,
+    "duration": 5.2
+  },
+  {
+    "text": "the single row only because",
+    "start": 890.04,
+    "duration": 5.4
+  },
+  {
+    "text": "else see this is not equal this is not",
+    "start": 892.399,
+    "duration": 5.081
+  },
+  {
+    "text": "equal then what to do it means this",
+    "start": 895.44,
+    "duration": 4.68
+  },
+  {
+    "text": "object is included so C",
+    "start": 897.48,
+    "duration": 7.56
+  },
+  {
+    "text": "out I is equals to 1 this is included in",
+    "start": 900.12,
+    "duration": 10.76
+  },
+  {
+    "text": "the bag and this is and L and L then",
+    "start": 905.04,
+    "duration": 7.919
+  },
+  {
+    "text": "what more I should do go to the previous",
+    "start": 910.88,
+    "duration": 6.48
+  },
+  {
+    "text": "row okay IUS minus but what about weight",
+    "start": 912.959,
+    "duration": 6.201
+  },
+  {
+    "text": "when this object is included I have to",
+    "start": 917.36,
+    "duration": 3.76
+  },
+  {
+    "text": "know to the previous object whether it",
+    "start": 919.16,
+    "duration": 4.2
+  },
+  {
+    "text": "is included or not so the weight of this",
+    "start": 921.12,
+    "duration": 5.159
+  },
+  {
+    "text": "object that is six should sorry five",
+    "start": 923.36,
+    "duration": 5.88
+  },
+  {
+    "text": "should be subtracted from J so I'll",
+    "start": 926.279,
+    "duration": 9.12
+  },
+  {
+    "text": "remove this J assign J minus weight",
+    "start": 929.24,
+    "duration": 9.519
+  },
+  {
+    "text": "of that object height object weight of",
+    "start": 935.399,
+    "duration": 4.24
+  },
+  {
+    "text": "that",
+    "start": 938.759,
+    "duration": 4.64
+  },
+  {
+    "text": "object and that's all this is El",
+    "start": 939.639,
+    "duration": 6.961
+  },
+  {
+    "text": "part so this I have to continue I have",
+    "start": 943.399,
+    "duration": 7.161
+  },
+  {
+    "text": "to go on doing it while I is greater",
+    "start": 946.6,
+    "duration": 8.2
+  },
+  {
+    "text": "than z and j is greater than zero so",
+    "start": 950.56,
+    "duration": 6.519
+  },
+  {
+    "text": "this Loop will print what all the values",
+    "start": 954.8,
+    "duration": 5.0
+  },
+  {
+    "text": "included see how we do it see fourth",
+    "start": 957.079,
+    "duration": 4.88
+  },
+  {
+    "text": "object included now the weight of this",
+    "start": 959.8,
+    "duration": 4.92
+  },
+  {
+    "text": "object is five subtract five three so go",
+    "start": 961.959,
+    "duration": 6.961
+  },
+  {
+    "text": "to 2 comma 3 sorry 3 comma 3 3A 3 2 but",
+    "start": 964.72,
+    "duration": 6.44
+  },
+  {
+    "text": "this was there here also so third object",
+    "start": 968.92,
+    "duration": 6.039
+  },
+  {
+    "text": "is not included now 2 comma 3 this one",
+    "start": 971.16,
+    "duration": 6.239
+  },
+  {
+    "text": "this is all was not there here so this",
+    "start": 974.959,
+    "duration": 5.24
+  },
+  {
+    "text": "object is included right then the weight",
+    "start": 977.399,
+    "duration": 5.24
+  },
+  {
+    "text": "of this is subtracted 0a 0 so you'll get",
+    "start": 980.199,
+    "duration": 6.961
+  },
+  {
+    "text": "0 1A 0 1A 0 it was here also so this is",
+    "start": 982.639,
+    "duration": 6.76
+  },
+  {
+    "text": "not included so this means second and",
+    "start": 987.16,
+    "duration": 4.96
+  },
+  {
+    "text": "the fourth object is",
+    "start": 989.399,
+    "duration": 5.281
+  },
+  {
+    "text": "included okay so quickly I have shown",
+    "start": 992.12,
+    "duration": 4.959
+  },
+  {
+    "text": "you I guess you know how to do this one",
+    "start": 994.68,
+    "duration": 3.959
+  },
+  {
+    "text": "so the piece of code I have written if",
+    "start": 997.079,
+    "duration": 3.521
+  },
+  {
+    "text": "you want to continue writing here so",
+    "start": 998.639,
+    "duration": 4.401
+  },
+  {
+    "text": "using a loop you can go from the last",
+    "start": 1000.6,
+    "duration": 5.28
+  },
+  {
+    "text": "row towards the first zero row and find",
+    "start": 1003.04,
+    "duration": 4.52
+  },
+  {
+    "text": "out which objects are included which are",
+    "start": 1005.88,
+    "duration": 3.84
+  },
+  {
+    "text": "not included see it is just playing with",
+    "start": 1007.56,
+    "duration": 4.24
+  },
+  {
+    "text": "the values only just filling the values",
+    "start": 1009.72,
+    "duration": 4.2
+  },
+  {
+    "text": "but the code is important so I have",
+    "start": 1011.8,
+    "duration": 4.44
+  },
+  {
+    "text": "shown you the code tracing of the",
+    "start": 1013.92,
+    "duration": 4.599
+  },
+  {
+    "text": "program so this program you can find it",
+    "start": 1016.24,
+    "duration": 5.12
+  },
+  {
+    "text": "in the link think",
+    "start": 1018.519,
+    "duration": 2.841
+  }
+]

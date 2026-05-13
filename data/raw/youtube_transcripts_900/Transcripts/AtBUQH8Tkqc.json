@@ -1,0 +1,577 @@
+[
+  {
+    "text": "In a previous video, we learned all about factoring whole numbers.",
+    "start": 6.66,
+    "duration": 3.519
+  },
+  {
+    "text": "And now we’re gonna learn how factoring can help us when working with fractions.",
+    "start": 10.179,
+    "duration": 3.984
+  },
+  {
+    "text": "We’re gonna learn how to simplify fractions.",
+    "start": 14.163,
+    "duration": 2.635
+  },
+  {
+    "text": "Simplifying a fraction means re-writing the fraction using the smallest top and bottom numbers we can without changing the value of the fraction.",
+    "start": 16.798,
+    "duration": 8.56
+  },
+  {
+    "text": "To help us understand what simplifying a fraction really means,",
+    "start": 25.36,
+    "duration": 3.0
+  },
+  {
+    "text": "let’s take a look at the simplest fraction I can think of: 1 over 2",
+    "start": 28.369,
+    "duration": 4.084
+  },
+  {
+    "text": "Now this is already as simple as it can possibly be.",
+    "start": 32.453,
+    "duration": 3.035
+  },
+  {
+    "text": "So, let’s go the other way and ‘complicate’ it by dividing our rectangle here up into more parts.",
+    "start": 35.488,
+    "duration": 5.852
+  },
+  {
+    "text": "The amount of our rectangle that’s shaded is still the same, but now the numbers for our fraction are 3 over 6.",
+    "start": 41.34,
+    "duration": 6.252
+  },
+  {
+    "text": "The numbers are bigger because our rectangle is now divided into more parts.",
+    "start": 47.592,
+    "duration": 3.9
+  },
+  {
+    "text": "The fraction we have now (3 over 6) is equivalent to our original fraction (1 over 2)",
+    "start": 51.5,
+    "duration": 5.611
+  },
+  {
+    "text": "That means they have the same value.  They represent the same amount.",
+    "start": 57.111,
+    "duration": 3.72
+  },
+  {
+    "text": "So what if someone gives you the fraction 3 over 6.  (Like three-sixths of a candy bar)",
+    "start": 60.84,
+    "duration": 4.54
+  },
+  {
+    "text": "Well we know from our picture, that means they’re really giving you one-half.",
+    "start": 65.381,
+    "duration": 3.369
+  },
+  {
+    "text": "But how can we show that using math and not pictures?",
+    "start": 68.75,
+    "duration": 2.983
+  },
+  {
+    "text": "Well, that’s where factoring comes in!",
+    "start": 71.733,
+    "duration": 2.768
+  },
+  {
+    "text": "Let’s take our ‘complicated’ fraction (3 over 6) and factor both the top and bottom numbers.",
+    "start": 74.501,
+    "duration": 5.42
+  },
+  {
+    "text": "Now the bottom number (6) can be factored into 2 × 3.",
+    "start": 79.921,
+    "duration": 4.05
+  },
+  {
+    "text": "The top number (3) is a prime number.  Its only factors are ‘1’ and itself, so we can write that as 1 × 3.",
+    "start": 83.971,
+    "duration": 8.153
+  },
+  {
+    "text": "There… we have re-written our fraction using factoring,",
+    "start": 92.124,
+    "duration": 2.717
+  },
+  {
+    "text": "and now it kinda looks like two fractions being multiplied together: (1 over 2) times (3 over 3)",
+    "start": 94.841,
+    "duration": 6.52
+  },
+  {
+    "text": "Of course, 3 over 3 is what I like to call a “whole fraction” since its value is equal to 1.",
+    "start": 101.361,
+    "duration": 5.701
+  },
+  {
+    "text": "Now here’s the interesting part...",
+    "start": 107.062,
+    "duration": 1.685
+  },
+  {
+    "text": "Since 3 over 3 equals 1, and multiplying by 1 has no effect on a number, we can just get rid of that 3 over 3.",
+    "start": 108.747,
+    "duration": 8.068
+  },
+  {
+    "text": "Basically, the 3 on the top and the 3 on the bottom cancel each other out.",
+    "start": 116.815,
+    "duration": 4.67
+  },
+  {
+    "text": "And once they’re gone, we’re left with the fraction: 1 over 2.",
+    "start": 121.485,
+    "duration": 3.718
+  },
+  {
+    "text": "So that means that the fraction 3 over 6 simplifies to 1 over 2.",
+    "start": 125.203,
+    "duration": 4.88
+  },
+  {
+    "text": "Another way of thinking about it is that we’re trying to find any whole fractions that are ‘hiding’ in the fraction we are trying to simplify.",
+    "start": 130.083,
+    "duration": 6.997
+  },
+  {
+    "text": "And if we find any, we can just get rid of them and the fraction we’re left with is simpler than what we started with.",
+    "start": 137.09,
+    "duration": 6.719
+  },
+  {
+    "text": "Now that we know the basics, let’s learn the procedure for simplifying fractions.",
+    "start": 143.809,
+    "duration": 3.985
+  },
+  {
+    "text": "First:  Replace the top and bottom numbers of the fraction with their prime factors.",
+    "start": 147.794,
+    "duration": 4.785
+  },
+  {
+    "text": "Next:  Look to see if any of the factors are the same on the top and bottom.",
+    "start": 152.579,
+    "duration": 3.885
+  },
+  {
+    "text": "If they are, we call them “common factors” because they’re something that both the top and bottom have in common.",
+    "start": 156.464,
+    "duration": 5.54
+  },
+  {
+    "text": "If you find a pair of common factors, you can cancel them out.  Just draw a line through them like this.",
+    "start": 162.004,
+    "duration": 6.256
+  },
+  {
+    "text": "And Last:  Once all the common factors have been canceled,",
+    "start": 168.26,
+    "duration": 2.859
+  },
+  {
+    "text": "you need to re-multiply any factors that are left over on the top or bottom.",
+    "start": 171.119,
+    "duration": 4.202
+  },
+  {
+    "text": "This makes sure that you end up with only one number on the top and bottom of your simplified fraction.",
+    "start": 175.321,
+    "duration": 5.434
+  },
+  {
+    "text": "Oh… and there’s one important thing to remember.",
+    "start": 180.755,
+    "duration": 2.686
+  },
+  {
+    "text": "If you’re ever able to cancel out ALL of the factors on the top or bottom of a fraction,",
+    "start": 183.441,
+    "duration": 4.367
+  },
+  {
+    "text": "don’t be tempted to write in a zero.  Put a ‘1’ in there instead!",
+    "start": 187.808,
+    "duration": 3.785
+  },
+  {
+    "text": "The reason you can write in a ‘1’ is because ‘1’ is ALWAYS a factor of ANY number.",
+    "start": 191.593,
+    "duration": 4.435
+  },
+  {
+    "text": "It’s just we usually  don’t write it in.",
+    "start": 196.028,
+    "duration": 2.25
+  },
+  {
+    "text": "For instance, if you’re gonna factor the number 15, you just say that it’s 5 × 3.",
+    "start": 198.278,
+    "duration": 5.286
+  },
+  {
+    "text": "But you could also say that it’s 5 × 3 × 1.",
+    "start": 203.564,
+    "duration": 3.685
+  },
+  {
+    "text": "In fact, you could even say it’s 5 × 3 × 1 × 1 × 1 × 1 × 1 × 1…..",
+    "start": 207.249,
+    "duration": 6.002
+  },
+  {
+    "text": "…see why there’s always a ‘1’ left over when you’re canceling common factors?",
+    "start": 213.251,
+    "duration": 3.717
+  },
+  {
+    "text": "Alright, so that’s the basic idea behind simplifying fractions.",
+    "start": 216.968,
+    "duration": 3.735
+  },
+  {
+    "text": "And once you know the procedure, it’s really not that hard.",
+    "start": 220.703,
+    "duration": 2.885
+  },
+  {
+    "text": "But you might want to re-watch this video just to make sure you’ve got the idea.",
+    "start": 223.588,
+    "duration": 4.285
+  },
+  {
+    "text": "Now there aren’t any exercises for this video cuz it’s really just an introduction.",
+    "start": 227.873,
+    "duration": 3.884
+  },
+  {
+    "text": "But in Part 2, we’ll see a couple more examples of how you can use the procedure to simplify fractions,",
+    "start": 231.757,
+    "duration": 5.454
+  },
+  {
+    "text": "and then you’ll get plenty of exercises to do as homework.  [cheering] Oh yeah!",
+    "start": 237.211,
+    "duration": 4.14
+  },
+  {
+    "text": "Welcome to Part 2 of Simplifying Fractions.  In Part 1, we learned the procedure for simplifying fractions.",
+    "start": 244.64,
+    "duration": 5.758
+  },
+  {
+    "text": "Basically, you just take the top and bottom numbers and factor them down to their prime factors.",
+    "start": 250.398,
+    "duration": 5.217
+  },
+  {
+    "text": "And then you see if there’s any factors that are the same on the top and bottom.",
+    "start": 255.615,
+    "duration": 4.12
+  },
+  {
+    "text": "We call those “common factors”.  And if there are, you just cancel them out.",
+    "start": 259.735,
+    "duration": 4.268
+  },
+  {
+    "text": "And once you’ve canceled out all the common factors, you re-multiply whatever is left over to get your final answer.",
+    "start": 264.003,
+    "duration": 6.734
+  },
+  {
+    "text": "In this video we’re gonna see a couple examples of how we can use that procedure to simplify fractions.",
+    "start": 270.737,
+    "duration": 5.387
+  },
+  {
+    "text": "Let’s start with an easy one.  Let’s simplify the fraction: 5 over 15.",
+    "start": 276.124,
+    "duration": 4.896
+  },
+  {
+    "text": "Step 1 is to factor the top and bottom numbers, so…",
+    "start": 281.02,
+    "duration": 3.655
+  },
+  {
+    "text": "We know that 15 factors into 5 × 3",
+    "start": 284.675,
+    "duration": 3.58
+  },
+  {
+    "text": "And 5 is a prime number. That means its only factors are ‘1’ and itself.",
+    "start": 288.26,
+    "duration": 4.752
+  },
+  {
+    "text": "But ‘1’ is always a factor, so we don’t need to write that down.",
+    "start": 293.012,
+    "duration": 3.667
+  },
+  {
+    "text": "Step 2 is to look for common factors and cancel them.",
+    "start": 296.679,
+    "duration": 3.054
+  },
+  {
+    "text": "And we can see that there’s a 5 on the top and there’s a 5 on the bottom.",
+    "start": 299.733,
+    "duration": 3.517
+  },
+  {
+    "text": "They’re not directly over each other, but that doesn’t matter.",
+    "start": 303.25,
+    "duration": 2.667
+  },
+  {
+    "text": "They still form a common factor pair, so we can cancel them out like this.",
+    "start": 305.917,
+    "duration": 4.319
+  },
+  {
+    "text": "Step 3 is to re-organize our answer.",
+    "start": 310.236,
+    "duration": 2.818
+  },
+  {
+    "text": "Now we don’t have any factors that need to be re-combined by multiplying.",
+    "start": 313.054,
+    "duration": 3.583
+  },
+  {
+    "text": "We just have a 3 on the bottom, and we don’t have any factors left over on top.",
+    "start": 316.637,
+    "duration": 3.969
+  },
+  {
+    "text": "But you’ll remember that there’s always a factor of ‘1’.",
+    "start": 320.606,
+    "duration": 3.284
+  },
+  {
+    "text": "So, 5 over 15 simplifies to one-third.",
+    "start": 323.89,
+    "duration": 5.36
+  },
+  {
+    "text": "Alright, I think we need to see another example, but a harder one this time.",
+    "start": 329.25,
+    "duration": 4.644
+  },
+  {
+    "text": "Let’s simplify the fraction 30 over 36.",
+    "start": 333.894,
+    "duration": 3.385
+  },
+  {
+    "text": "The procedure is the same:",
+    "start": 337.279,
+    "duration": 1.7
+  },
+  {
+    "text": "Step 1 is we factor the top and bottom numbers all the way down to their prime factors.",
+    "start": 338.979,
+    "duration": 5.418
+  },
+  {
+    "text": "Let’s do the top number first:  30 factors into 5 × 6.",
+    "start": 344.397,
+    "duration": 4.802
+  },
+  {
+    "text": "5 is prime, but 6 can be factored into 2 × 3.",
+    "start": 349.199,
+    "duration": 4.602
+  },
+  {
+    "text": "So our 30 on top becomes 5 × 2 × 3.",
+    "start": 353.801,
+    "duration": 4.785
+  },
+  {
+    "text": "Now the bottom number…",
+    "start": 358.586,
+    "duration": 1.4
+  },
+  {
+    "text": "36 can be factored into 6 × 6.  And each of those sixes can be factored into 2 × 3.",
+    "start": 359.986,
+    "duration": 6.786
+  },
+  {
+    "text": "So our bottom number becomes 2 × 3 × 2 × 3.",
+    "start": 366.772,
+    "duration": 5.32
+  },
+  {
+    "text": "Well, it looks like we do have some common factors.",
+    "start": 372.1,
+    "duration": 2.62
+  },
+  {
+    "text": "There’s a 2 on both the top and the bottom that will cancel each other out.",
+    "start": 374.725,
+    "duration": 3.768
+  },
+  {
+    "text": "And even though there’s more than one ‘2’ on the bottom, we can only cancel one of them out because there’s only one ‘2’ on top.",
+    "start": 378.493,
+    "duration": 6.62
+  },
+  {
+    "text": "Remember, you always have to cancel common factors as pairs.",
+    "start": 385.113,
+    "duration": 4.4
+  },
+  {
+    "text": "Now we can see that there’s another pair we can cancel.",
+    "start": 389.513,
+    "duration": 2.768
+  },
+  {
+    "text": "The there’s a ‘3’ on both the top and bottom, so we can just cross those out.",
+    "start": 392.281,
+    "duration": 4.235
+  },
+  {
+    "text": "Okay, that’s all the common factors we can cancel.  So now all we have to do is see what’s left over.",
+    "start": 396.516,
+    "duration": 5.418
+  },
+  {
+    "text": "We’ve got a ‘5’ on the top and a ‘2 × 3’ on the bottom.",
+    "start": 401.934,
+    "duration": 3.752
+  },
+  {
+    "text": "We don’t want to leave our problem looking like this, so we need to re-combine any factors that didn’t cancel.",
+    "start": 405.686,
+    "duration": 5.269
+  },
+  {
+    "text": "…that means multiplying together our 2 and 3 on the bottom, which gives us 6.",
+    "start": 410.955,
+    "duration": 4.835
+  },
+  {
+    "text": "There, we’re left with the fraction 5 over 6.  That’s the simplified form of the fraction 30 over 36.",
+    "start": 415.79,
+    "duration": 6.885
+  },
+  {
+    "text": "They both have the same value, but the simplified one is written using the smallest numbers possible.",
+    "start": 422.675,
+    "duration": 5.819
+  },
+  {
+    "text": "Now some of you may have been taught that the way to simplify fractions",
+    "start": 428.494,
+    "duration": 3.384
+  },
+  {
+    "text": "is to find the greatest common factor of the top and bottom numbers, and just cancel that.",
+    "start": 431.878,
+    "duration": 5.151
+  },
+  {
+    "text": "Basically, that’s what we ARE doing when cancel all of the common factors using our procedure.",
+    "start": 437.029,
+    "duration": 5.436
+  },
+  {
+    "text": "In fact, if you multiply all of the common factors together, you’ll get the greatest common factor…",
+    "start": 442.465,
+    "duration": 6.321
+  },
+  {
+    "text": "or GCF as I like to call it.  Ya know… to sound cool…",
+    "start": 448.786,
+    "duration": 5.084
+  },
+  {
+    "text": "Alright, so that’s how you simplify fractions.  But, I’ll bet some of you are wondering,",
+    "start": 453.87,
+    "duration": 4.16
+  },
+  {
+    "text": "“Why would we even want to simplify fractions?”",
+    "start": 458.03,
+    "duration": 2.75
+  },
+  {
+    "text": "That’s a good question.  Basically it’s to make life simpler!",
+    "start": 460.788,
+    "duration": 3.602
+  },
+  {
+    "text": "Well… at least for your teacher who has to grade all your homework.",
+    "start": 464.39,
+    "duration": 3.45
+  },
+  {
+    "text": "For you it just makes life more complicated!",
+    "start": 467.84,
+    "duration": 3.219
+  },
+  {
+    "text": "No, just kidding! [laughter] Simplified fractions make YOUR life easier too!",
+    "start": 471.059,
+    "duration": 3.968
+  },
+  {
+    "text": "Cuz usually, simplified fractions are much easier to work with.",
+    "start": 475.027,
+    "duration": 3.893
+  },
+  {
+    "text": "For example, if your friend said to you,",
+    "start": 478.92,
+    "duration": 2.32
+  },
+  {
+    "text": "“Here, you can have 27/54 of my sandwich.”",
+    "start": 481.24,
+    "duration": 3.02
+  },
+  {
+    "text": "it would have been much easier if they had just said that you could have 1/2 of their sandwich,",
+    "start": 484.264,
+    "duration": 4.703
+  },
+  {
+    "text": "since 1/2 is the simplified form of 27/54.",
+    "start": 488.967,
+    "duration": 3.88
+  },
+  {
+    "text": "So now, whenever you see a fraction you can ask yourself,",
+    "start": 492.847,
+    "duration": 2.97
+  },
+  {
+    "text": "“Hmmm… could that be any simpler?”",
+    "start": 495.817,
+    "duration": 2.552
+  },
+  {
+    "text": "And if so, you’ll know just what to do!",
+    "start": 498.369,
+    "duration": 2.74
+  },
+  {
+    "text": "So get on out there, work on those exercises, and start making the world a simpler place for us all!  [Cheers]",
+    "start": 501.109,
+    "duration": 6.52
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 508.54,
+    "duration": 1.96
+  }
+]

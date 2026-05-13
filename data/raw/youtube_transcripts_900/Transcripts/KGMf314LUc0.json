@@ -1,0 +1,582 @@
+[
+  {
+    "text": "Hi and welcome to Math Antics.",
+    "start": 6.52,
+    "duration": 1.938
+  },
+  {
+    "text": "In this video lesson, we’re gonna learn the basics of division.  And if you really understand these basics,",
+    "start": 8.458,
+    "duration": 5.218
+  },
+  {
+    "text": "then it’ll make it much easier learning how to do ‘long division’ which is the subject of our next video.",
+    "start": 13.676,
+    "duration": 5.535
+  },
+  {
+    "text": "Okay, so here’s how basic division works.  You get a problem like this one: 9 divided by 3,",
+    "start": 19.211,
+    "duration": 6.368
+  },
+  {
+    "text": "which means you have a total of 9 and you want to divide it into 3 equal groups.",
+    "start": 25.579,
+    "duration": 4.569
+  },
+  {
+    "text": "And if you can remember that 9 is an answer to one of the multiplication facts,",
+    "start": 30.148,
+    "duration": 4.18
+  },
+  {
+    "text": "or that it’s an answer on the multiplication table,",
+    "start": 34.328,
+    "duration": 2.532
+  },
+  {
+    "text": "then you can see that since 3 × 3 is 9, then 9 divided by 3 is 3.  It’s that simple!",
+    "start": 36.866,
+    "duration": 6.837
+  },
+  {
+    "text": "Well… at least it WAS that simple when you learned about the fact families.",
+    "start": 43.703,
+    "duration": 4.219
+  },
+  {
+    "text": "Now it’s gonna get a little bit tricky because most division problems aren’t quite this easy,",
+    "start": 47.922,
+    "duration": 5.318
+  },
+  {
+    "text": "like this one:  9 divided by 4",
+    "start": 53.24,
+    "duration": 3.034
+  },
+  {
+    "text": "The trouble here is that 9 and 4 aren’t part of a fact family,",
+    "start": 56.274,
+    "duration": 3.601
+  },
+  {
+    "text": "so you can’t just find the answer on the multiplication table.",
+    "start": 59.875,
+    "duration": 2.902
+  },
+  {
+    "text": "That’s because 9 is not a multiple of 4. There’s no whole number that you can multiply 4 by and end up with 9.",
+    "start": 62.777,
+    "duration": 7.418
+  },
+  {
+    "text": "That means that 9 can’t be divided equally into 4 groups without having something left over.",
+    "start": 70.195,
+    "duration": 5.536
+  },
+  {
+    "text": "Like if you had 9 cookies and 4 kids, each kid could have 2 cookies but there would be 1 left over.",
+    "start": 75.731,
+    "duration": 6.319
+  },
+  {
+    "text": "And in division, that left over amount is called a “remainder”.",
+    "start": 82.05,
+    "duration": 4.08
+  },
+  {
+    "text": "So the answer to 9 divided by 4 is 2 with a remainder of 1.",
+    "start": 86.13,
+    "duration": 5.15
+  },
+  {
+    "text": "Alright, so it’s not that hard to figure out a simple division problem when you have a picture like this,",
+    "start": 91.28,
+    "duration": 5.12
+  },
+  {
+    "text": "but what about when we just have numbers.  To do that, we use a special division procedure.",
+    "start": 96.4,
+    "duration": 5.32
+  },
+  {
+    "text": "Up until now, you probably have used this division symbol the most.",
+    "start": 101.724,
+    "duration": 3.668
+  },
+  {
+    "text": "It works well for very simple division problems, like the ones in our fact families.",
+    "start": 105.392,
+    "duration": 4.5
+  },
+  {
+    "text": "But, now that we’re gonna be doing some harder problems, we need a new division symbol… this one…",
+    "start": 109.9,
+    "duration": 5.64
+  },
+  {
+    "text": "This division symbol is special, because it’s almost like a stage that will help us solve our division problem.",
+    "start": 115.545,
+    "duration": 5.419
+  },
+  {
+    "text": "And there’s three special areas of this stage where the three main parts (or characters) of our division problem will go.",
+    "start": 120.964,
+    "duration": 6.453
+  },
+  {
+    "text": "The first area is here under the long horizontal line on our division symbol.",
+    "start": 127.417,
+    "duration": 4.534
+  },
+  {
+    "text": "This is the area where we put the number that we will be dividing up.",
+    "start": 131.951,
+    "duration": 3.768
+  },
+  {
+    "text": "The fancy math term for this is the “dividend”.",
+    "start": 135.719,
+    "duration": 3.035
+  },
+  {
+    "text": "Most of the time, the biggest number will go here, because we usually start with a big amount and want to divide it into smaller groups.",
+    "start": 138.754,
+    "duration": 6.635
+  },
+  {
+    "text": "The second area is out in front of the curved part of the division symbol.",
+    "start": 145.389,
+    "duration": 3.851
+  },
+  {
+    "text": "This is the area where we put the number we will be dividing BY.",
+    "start": 149.24,
+    "duration": 3.886
+  },
+  {
+    "text": "The math term for that is the “divisor”.",
+    "start": 153.126,
+    "duration": 2.349
+  },
+  {
+    "text": "In other words, this number will tell us how many groups we will be dividing our big amount into.",
+    "start": 155.475,
+    "duration": 5.02
+  },
+  {
+    "text": "And the third area is up above the horizontal line.",
+    "start": 160.495,
+    "duration": 3.04
+  },
+  {
+    "text": "This is where our answer will go, once we figure out what the answer is.",
+    "start": 163.54,
+    "duration": 3.356
+  },
+  {
+    "text": "The answer to a division problem is called the “quotient”.",
+    "start": 166.896,
+    "duration": 3.319
+  },
+  {
+    "text": "The answer tells us how many we will end up with in each group.",
+    "start": 170.215,
+    "duration": 3.884
+  },
+  {
+    "text": "So whenever you have a complicated division problem to do, the first step is to re-write your problem in this form.",
+    "start": 174.099,
+    "duration": 5.986
+  },
+  {
+    "text": "If you have 9 divided by 4 like this, you put the ‘9’ down here (that’s the number we’re dividing UP)",
+    "start": 180.085,
+    "duration": 5.24
+  },
+  {
+    "text": "and you put the ‘4’ out here (that’s the number we’re dividing BY) and you’re ready to start the next step of the procedure.",
+    "start": 185.325,
+    "duration": 6.514
+  },
+  {
+    "text": "The next step is the most important step, because it’s where you figure out the answer.",
+    "start": 191.839,
+    "duration": 4.78
+  },
+  {
+    "text": "And to figure out the answer (which is how many you’ll end up in each group after you divide),",
+    "start": 196.62,
+    "duration": 4.855
+  },
+  {
+    "text": "you have to ask yourself a really important question involving the other two numbers.",
+    "start": 201.475,
+    "duration": 4.652
+  },
+  {
+    "text": "The question is, “How many ‘4’s will it take to make 9 or almost 9?”",
+    "start": 206.127,
+    "duration": 4.64
+  },
+  {
+    "text": "And the key to answering this question is for the number to be “just right”.",
+    "start": 210.767,
+    "duration": 4.448
+  },
+  {
+    "text": "Do you remember the story of Goldilocks and the Three Bears?",
+    "start": 215.215,
+    "duration": 2.7
+  },
+  {
+    "text": "…how one chair was too big, and one chair was too small, but the other chair was “just right”.",
+    "start": 217.92,
+    "duration": 5.114
+  },
+  {
+    "text": "Well, it’s the same way with our division problem.",
+    "start": 223.034,
+    "duration": 2.42
+  },
+  {
+    "text": "If I choose an answer that’s too big or too small, it will cause trouble for me.",
+    "start": 225.46,
+    "duration": 4.1
+  },
+  {
+    "text": "Here’s what I mean…",
+    "start": 229.569,
+    "duration": 1.401
+  },
+  {
+    "text": "Let’s say that I decide that I only need ONE ‘4’ to make 9.  So, I’ll write a ‘1’ up here in the spot for the answer.",
+    "start": 230.97,
+    "duration": 6.85
+  },
+  {
+    "text": "Well now, the next step in the procedure is to multiply that answer I put there (the 1) by the number of groups out front here (the 4)",
+    "start": 237.82,
+    "duration": 8.88
+  },
+  {
+    "text": "and I write the answer to that multiplication down below the number I’m dividing up (the 9).",
+    "start": 246.709,
+    "duration": 5.902
+  },
+  {
+    "text": "I do that so I can subtract that amount from the 9 to see how much I’m gonna have left over; to see how big the remainder will be.",
+    "start": 252.611,
+    "duration": 7.586
+  },
+  {
+    "text": "And when I do that, I see that 9 minus 4 will give me 5.",
+    "start": 260.197,
+    "duration": 3.78
+  },
+  {
+    "text": "Hmmm… that’s a pretty big remainder.",
+    "start": 263.98,
+    "duration": 2.36
+  },
+  {
+    "text": "In fact, the remainder is bigger that the number I am dividing by, and that’s why this answer is trouble.",
+    "start": 266.34,
+    "duration": 6.34
+  },
+  {
+    "text": "If the remainder is bigger than the number you are dividing by, it means that you should have picked a bigger answer",
+    "start": 272.686,
+    "duration": 5.668
+  },
+  {
+    "text": "because each of the groups you are dividing up into could have gotten more than they did.",
+    "start": 278.354,
+    "duration": 4.351
+  },
+  {
+    "text": "Your answer was too small, and so the remainder was too big.",
+    "start": 282.705,
+    "duration": 4.234
+  },
+  {
+    "text": "Okay then, I guess I’d better come up with a better answer to the question: “How many ‘4’s will it take to make 9 or almost 9?”",
+    "start": 286.939,
+    "duration": 7.37
+  },
+  {
+    "text": "This time, I think I’ll pick 3.",
+    "start": 294.309,
+    "duration": 2.451
+  },
+  {
+    "text": "So, I put a ‘3’ in the answer space, and then I follow the next step of the procedure like I did before.",
+    "start": 296.76,
+    "duration": 5.802
+  },
+  {
+    "text": "I multiply the answer I chose (3) by the number of groups (4) and I write the answer of that multiplication problem (12) down below the number we’re dividing up (9).",
+    "start": 302.562,
+    "duration": 11.704
+  },
+  {
+    "text": "Now I can subtract that number to see what my remainder will be… or can I?",
+    "start": 314.266,
+    "duration": 4.903
+  },
+  {
+    "text": "This looks like trouble again!  The answer to my multiplication is bigger than the number we’re dividing up, so I can’t subtract it.",
+    "start": 319.169,
+    "duration": 7.067
+  },
+  {
+    "text": "The remainder would be less than ZERO!  And I can’t have a remainder less than zero.  That can’t be right.",
+    "start": 326.236,
+    "duration": 6.686
+  },
+  {
+    "text": "Here’s the problem… when you choose an answer that’s too big, it’s like trying to give too many to each group",
+    "start": 332.922,
+    "duration": 5.619
+  },
+  {
+    "text": "and then you run out of things to give before the groups are equal.",
+    "start": 338.541,
+    "duration": 3.368
+  },
+  {
+    "text": "And if the groups aren’t equal they get all upset, [high speed] and if they get all upset they start fighting,",
+    "start": 341.909,
+    "duration": 4.285
+  },
+  {
+    "text": "and if they start fighting they get in trouble and the teacher puts them in “time out”, and then they can’t go to recess….",
+    "start": 346.194,
+    "duration": 4.54
+  },
+  {
+    "text": "Okay, so 1 was too small:  it gave us too big of a remainder.",
+    "start": 351.96,
+    "duration": 3.971
+  },
+  {
+    "text": "And 3 is too big: there wouldn’t be any remainder at all and the groups wouldn’t be equal, which causes big problems!",
+    "start": 355.931,
+    "duration": 7.003
+  },
+  {
+    "text": "So let’s try 2.",
+    "start": 362.934,
+    "duration": 1.6
+  },
+  {
+    "text": "If we say that TWO ‘4’s will make 9 or almost 9, our problem looks like this.",
+    "start": 364.54,
+    "duration": 5.46
+  },
+  {
+    "text": "2 goes in the answer spot, and then we do our multiplication procedure… We multiply that 2 by the 4 and we get 8.",
+    "start": 370.0,
+    "duration": 7.86
+  },
+  {
+    "text": "Then we write the 8 below the 9 so we can subtract it and find our remainder.",
+    "start": 377.86,
+    "duration": 4.813
+  },
+  {
+    "text": "9 − 8 = 1, so that means our remainder is 1.  Now that sounds good!",
+    "start": 382.673,
+    "duration": 5.72
+  },
+  {
+    "text": "It’s less than our number of groups.  And you can see with our cookie problem that it’s exactly right.",
+    "start": 388.393,
+    "duration": 5.502
+  },
+  {
+    "text": "9 cookies divider into 4 groups gives 2 cookies to each group with 1 left over as the remainder,",
+    "start": 393.895,
+    "duration": 6.88
+  },
+  {
+    "text": "which we put right up here in the answer with an ‘r‘ for remainder.  Perfect!",
+    "start": 400.78,
+    "duration": 5.535
+  },
+  {
+    "text": "And now you can see how you can do division without using pictures (or cookies) but just with numbers and a procedure to follow.",
+    "start": 406.315,
+    "duration": 6.436
+  },
+  {
+    "text": "Let’s try a couple more so you really see how it works.  Let’s try 23 divided by 5.",
+    "start": 412.751,
+    "duration": 6.086
+  },
+  {
+    "text": "We start, as always, by making sure our problem is written correctly using our new division symbol.",
+    "start": 418.837,
+    "duration": 5.601
+  },
+  {
+    "text": "The 23 is what we’ll be dividing up (it’s our dividend), so we put it under the line,",
+    "start": 424.438,
+    "duration": 5.436
+  },
+  {
+    "text": "and the 5 is what we are dividing by (our divisor), so it goes out front.",
+    "start": 429.874,
+    "duration": 4.969
+  },
+  {
+    "text": "Ok, so now we ask, “How many fives will it take to make 23 or almost 23?”",
+    "start": 434.843,
+    "duration": 6.917
+  },
+  {
+    "text": "Well, ONE  ‘5’ would be way to small,",
+    "start": 441.76,
+    "duration": 3.136
+  },
+  {
+    "text": "TWO ‘5’s is 10, (that’s also too small)",
+    "start": 444.896,
+    "duration": 2.934
+  },
+  {
+    "text": "THREE ‘5’s would be 15,",
+    "start": 447.83,
+    "duration": 1.68
+  },
+  {
+    "text": "FOUR ‘5’s is 20 (Ohh, that sounds promising)",
+    "start": 449.51,
+    "duration": 3.63
+  },
+  {
+    "text": "now FIVE ‘5’s is 25 (and that would be too much)",
+    "start": 453.148,
+    "duration": 3.535
+  },
+  {
+    "text": "So, it sounds like 4 is a really good number to pick for our answer, so let's put that on the answer line.",
+    "start": 456.683,
+    "duration": 5.717
+  },
+  {
+    "text": "Next, we need to do the step where we multiply the answer (4) by the number of groups (5) and we get 20 which we’ll write below the number we’re dividing up (23).",
+    "start": 462.4,
+    "duration": 10.92
+  },
+  {
+    "text": "Now we subtract those numbers to see what our remainder is:  23 minus 20 is 3.",
+    "start": 473.323,
+    "duration": 5.952
+  },
+  {
+    "text": "Well that’s good. 3 is less than our number of groups, so it’s a reasonable remainder.",
+    "start": 479.275,
+    "duration": 4.42
+  },
+  {
+    "text": "So our answer to 23 divided by 5 is 4 with a remainder of 3.",
+    "start": 483.7,
+    "duration": 5.62
+  },
+  {
+    "text": "Let’s do one more before you try working some out on your own, okay?  Let’s do 57 divided by 6.",
+    "start": 489.328,
+    "duration": 6.812
+  },
+  {
+    "text": "First we set up out problem and then we ask the question, “How many ‘6’s do we need to make 57 or almost 57?”",
+    "start": 496.14,
+    "duration": 7.077
+  },
+  {
+    "text": "Well this one’s a little more tricky, so I think I might use a multiplication table to help me out.",
+    "start": 503.217,
+    "duration": 5.88
+  },
+  {
+    "text": "The nice thing about a multiplication table is that it shows me all the multiples of a number.",
+    "start": 509.1,
+    "duration": 4.4
+  },
+  {
+    "text": "For example, since I want to know how many ‘6’s I need, I can look on this row of the chart and see all the multiples of 6.",
+    "start": 513.5,
+    "duration": 6.62
+  },
+  {
+    "text": "Here they are: 6, 12, 18, 24, 30, 36, 42, 48, 54, and 60.",
+    "start": 520.122,
+    "duration": 9.12
+  },
+  {
+    "text": "We need the multiple that’s 57 or almost 57.",
+    "start": 529.242,
+    "duration": 3.552
+  },
+  {
+    "text": "And since 57 is not on the list, it looks like 54 is the next closest thing without being to big (like 60).",
+    "start": 532.794,
+    "duration": 7.468
+  },
+  {
+    "text": "And to get 54, we need to have NINE ‘6’s, so we will choose 9 as our answer.",
+    "start": 540.262,
+    "duration": 5.303
+  },
+  {
+    "text": "Next, we multiply 9 by 6, which we already know will give us 54 because that’s what our multiplication table showed us.",
+    "start": 545.565,
+    "duration": 7.855
+  },
+  {
+    "text": "Now we need to subtract 54 from 57. That gives us a remainder of 3.",
+    "start": 553.42,
+    "duration": 5.28
+  },
+  {
+    "text": "Again, that’s good because that’s less than our divisor.",
+    "start": 558.7,
+    "duration": 2.771
+  },
+  {
+    "text": "So, 57 divided by 6 equals 9 with a remainder of 3.",
+    "start": 561.471,
+    "duration": 5.851
+  },
+  {
+    "text": "Alright, that’s all for this lesson.  And if you’re new to division, that’s plenty to get you started.",
+    "start": 567.322,
+    "duration": 5.619
+  },
+  {
+    "text": "It’s really important to master these basic division problems that just involve one step that leaves you with a remainder.",
+    "start": 572.941,
+    "duration": 6.302
+  },
+  {
+    "text": "In the next video, we’re gonna learn how to take this basic procedure we’ve learned and repeat it multiple times in a process called “long division”.",
+    "start": 579.243,
+    "duration": 7.836
+  },
+  {
+    "text": "But before you move on, make sure you really practice what you’ve learned in this video first.",
+    "start": 587.079,
+    "duration": 5.02
+  },
+  {
+    "text": "Good luck and I’ll see ya next time.",
+    "start": 592.1,
+    "duration": 2.74
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 595.58,
+    "duration": 2.02
+  }
+]

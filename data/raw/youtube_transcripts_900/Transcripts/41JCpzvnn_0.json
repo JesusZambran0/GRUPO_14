@@ -1,0 +1,1327 @@
+[
+  {
+    "text": "Welcome to 99Bitcoins.com.",
+    "start": 0.525,
+    "duration": 2.412
+  },
+  {
+    "text": "I'm Nate Martin and I'll be your guide\n through this video series ",
+    "start": 3.171,
+    "duration": 2.811
+  },
+  {
+    "text": "Bitcoin Whiteboard Tuesday.",
+    "start": 5.982,
+    "duration": 1.623
+  },
+  {
+    "text": "We're going to cover a lot of topics such as ",
+    "start": 8.165,
+    "duration": 2.172
+  },
+  {
+    "text": "Bitcoin mining, Bitcoin wallets, \nhow to trade Bitcoin and a lot more.",
+    "start": 10.337,
+    "duration": 4.0
+  },
+  {
+    "text": "Today we're going to start from scratch ",
+    "start": 14.891,
+    "duration": 1.983
+  },
+  {
+    "text": "and answer the third most searched term\n on Google today, what is Bitcoin?",
+    "start": 16.897,
+    "duration": 4.668
+  },
+  {
+    "text": "If you’re worried that\n we’re going to get too technical ",
+    "start": 22.542,
+    "duration": 2.292
+  },
+  {
+    "text": "and use a lot of complicated words, don’t.",
+    "start": 24.845,
+    "duration": 2.612
+  },
+  {
+    "text": "Here at 99Bitcoins\n we translate Bitcoin into plain English ",
+    "start": 27.994,
+    "duration": 3.686
+  },
+  {
+    "text": "so even if you have \nno technical background ",
+    "start": 31.691,
+    "duration": 2.211
+  },
+  {
+    "text": "you’ll be able to understand everything.",
+    "start": 33.942,
+    "duration": 2.029
+  },
+  {
+    "text": "By the end of this course, ",
+    "start": 36.72,
+    "duration": 1.074
+  },
+  {
+    "text": "you’ll know more about Bitcoin\n and how it works ",
+    "start": 37.8,
+    "duration": 2.32
+  },
+  {
+    "text": "than 99% of the population.",
+    "start": 40.131,
+    "duration": 2.314
+  },
+  {
+    "text": "So let’s get started…",
+    "start": 42.68,
+    "duration": 1.051
+  },
+  {
+    "text": "Before we talk about Bitcoin ",
+    "start": 50.537,
+    "duration": 1.525
+  },
+  {
+    "text": "I want to take a moment\n and talk about money.",
+    "start": 52.102,
+    "duration": 2.258
+  },
+  {
+    "text": "What is money exactly?",
+    "start": 54.782,
+    "duration": 1.252
+  },
+  {
+    "text": "At its core, money represents value.",
+    "start": 56.725,
+    "duration": 2.692
+  },
+  {
+    "text": "If I do some work for you, ",
+    "start": 59.737,
+    "duration": 1.177
+  },
+  {
+    "text": "you give me money in exchange for \nthe value I gave you.",
+    "start": 60.977,
+    "duration": 2.703
+  },
+  {
+    "text": "I can then use that money \nto get something of value ",
+    "start": 64.234,
+    "duration": 2.743
+  },
+  {
+    "text": "from someone else in the future.",
+    "start": 66.977,
+    "duration": 1.44
+  },
+  {
+    "text": "Throughout history, \nvalue has taken many forms ",
+    "start": 69.16,
+    "duration": 2.485
+  },
+  {
+    "text": "and people used a lot of\n different materials to represent money.",
+    "start": 71.651,
+    "duration": 3.263
+  },
+  {
+    "text": "Salt, wheat, shells and of course gold ",
+    "start": 75.251,
+    "duration": 3.034
+  },
+  {
+    "text": "have all been used as \na medium of exchange.",
+    "start": 78.588,
+    "duration": 2.303
+  },
+  {
+    "text": "However, in order for something \nto represent value ",
+    "start": 81.56,
+    "duration": 2.868
+  },
+  {
+    "text": "people have to trust that \nit is indeed valuable ",
+    "start": 84.485,
+    "duration": 2.566
+  },
+  {
+    "text": "and will stay valuable \nlong enough for them to ",
+    "start": 87.142,
+    "duration": 2.115
+  },
+  {
+    "text": "redeem that value in the future.",
+    "start": 89.257,
+    "duration": 1.611
+  },
+  {
+    "text": "Up until a hundred years ago or so ",
+    "start": 91.834,
+    "duration": 1.726
+  },
+  {
+    "text": "we always trusted in someTHING\n to represent money.",
+    "start": 93.571,
+    "duration": 2.617
+  },
+  {
+    "text": "However something happened\n along the way ",
+    "start": 96.451,
+    "duration": 2.297
+  },
+  {
+    "text": "and we’ve changed our trust model ",
+    "start": 98.748,
+    "duration": 1.554
+  },
+  {
+    "text": "from trusting someTHING \nto trusting in someONE.",
+    "start": 100.308,
+    "duration": 2.697
+  },
+  {
+    "text": "Let me explain.",
+    "start": 103.514,
+    "duration": 0.726
+  },
+  {
+    "text": "Over time, people found it \ntoo cumbersome ",
+    "start": 104.857,
+    "duration": 2.268
+  },
+  {
+    "text": "to walk around the world \ncarrying bars of gold ",
+    "start": 107.137,
+    "duration": 2.257
+  },
+  {
+    "text": "or other forms of money, \nso paper money was invented.",
+    "start": 109.394,
+    "duration": 3.211
+  },
+  {
+    "text": "Here’s how it worked: ",
+    "start": 112.96,
+    "duration": 0.748
+  },
+  {
+    "text": "a bank or government would offer to take \npossession of your bar of gold; ",
+    "start": 114.108,
+    "duration": 3.634
+  },
+  {
+    "text": "let’s say worth $1000, ",
+    "start": 117.851,
+    "duration": 1.617
+  },
+  {
+    "text": "and in return, that bank would\n give you receipt certificates, ",
+    "start": 119.588,
+    "duration": 2.989
+  },
+  {
+    "text": "which we call bills, \namounting to $1000.",
+    "start": 122.577,
+    "duration": 2.834
+  },
+  {
+    "text": "Not only were these pieces of paper \nmuch easier to carry, ",
+    "start": 126.017,
+    "duration": 2.674
+  },
+  {
+    "text": "but you could spend a dollar\n on a cup of coffee ",
+    "start": 128.845,
+    "duration": 2.04
+  },
+  {
+    "text": "and not have to cut your gold bar\n into a thousand pieces.",
+    "start": 130.885,
+    "duration": 2.64
+  },
+  {
+    "text": "And if you wanted your gold back, ",
+    "start": 134.04,
+    "duration": 1.731
+  },
+  {
+    "text": "you simply took $1000 in bills \nback to the bank ",
+    "start": 135.845,
+    "duration": 2.92
+  },
+  {
+    "text": "to redeem them for\n the actual form of money, ",
+    "start": 138.788,
+    "duration": 2.137
+  },
+  {
+    "text": "in this case that gold bar, \nwhenever you needed…",
+    "start": 141.011,
+    "duration": 2.286
+  },
+  {
+    "text": "And so, paper began its use as money ",
+    "start": 143.777,
+    "duration": 2.377
+  },
+  {
+    "text": "as an instrument of practicality \nand convenience.",
+    "start": 146.165,
+    "duration": 2.697
+  },
+  {
+    "text": "However as time progressed, \nand due to macroeconomic changes, ",
+    "start": 149.611,
+    "duration": 3.64
+  },
+  {
+    "text": "this bond between the paper receipt \nand the gold it stands for was broken.",
+    "start": 153.28,
+    "duration": 3.794
+  },
+  {
+    "text": "Now, to explain the path that \nled us away from the gold standard ",
+    "start": 157.348,
+    "duration": 3.32
+  },
+  {
+    "text": "is extremely complex, \nbut suffice to say that ",
+    "start": 160.668,
+    "duration": 2.829
+  },
+  {
+    "text": "governments told their people that ",
+    "start": 163.497,
+    "duration": 1.617
+  },
+  {
+    "text": "the government itself would be liable \nfor the value of that paper money.",
+    "start": 165.114,
+    "duration": 3.6
+  },
+  {
+    "text": "Basically we all said ",
+    "start": 169.342,
+    "duration": 1.195
+  },
+  {
+    "text": "“let’s just forget about gold \nand trade paper instead”.",
+    "start": 170.594,
+    "duration": 2.76
+  },
+  {
+    "text": "So people continued to ",
+    "start": 173.834,
+    "duration": 1.446
+  },
+  {
+    "text": "trade with receipts that are backed by \nnothing but the government’s promise.",
+    "start": 175.291,
+    "duration": 3.583
+  },
+  {
+    "text": "And why did that continue to work?",
+    "start": 179.325,
+    "duration": 1.486
+  },
+  {
+    "text": "Well, because of trust.",
+    "start": 181.131,
+    "duration": 1.949
+  },
+  {
+    "text": "Even though there is no actual commodity \nbacking paper money, ",
+    "start": 183.628,
+    "duration": 3.263
+  },
+  {
+    "text": "people trusted the government\n and that’s how fiat money was created.",
+    "start": 187.182,
+    "duration": 3.543
+  },
+  {
+    "text": "Fiat is a Latin word that means “by decree”.",
+    "start": 191.582,
+    "duration": 3.332
+  },
+  {
+    "text": "Meaning the dollars, or euros\n or any other currency for that matter ",
+    "start": 195.451,
+    "duration": 3.491
+  },
+  {
+    "text": "have value because\n the government orders it to.",
+    "start": 198.954,
+    "duration": 2.686
+  },
+  {
+    "text": "It’s what is known as “legal tender” - ",
+    "start": 202.125,
+    "duration": 2.075
+  },
+  {
+    "text": "coins or banknotes\n that must be accepted ",
+    "start": 204.451,
+    "duration": 2.309
+  },
+  {
+    "text": "if offered as payment.",
+    "start": 206.777,
+    "duration": 1.148
+  },
+  {
+    "text": "So the value of today’s money ",
+    "start": 208.691,
+    "duration": 1.743
+  },
+  {
+    "text": "actually comes from a legal status \ngiven to it by a central authority, ",
+    "start": 210.462,
+    "duration": 3.623
+  },
+  {
+    "text": "in this case, the government.",
+    "start": 214.137,
+    "duration": 1.331
+  },
+  {
+    "text": "And so the trust model has changed, ",
+    "start": 215.994,
+    "duration": 2.04
+  },
+  {
+    "text": "from trusting someTHING\n to trusting someONE, ",
+    "start": 218.074,
+    "duration": 2.663
+  },
+  {
+    "text": "in this case, the government.",
+    "start": 220.782,
+    "duration": 1.475
+  },
+  {
+    "text": "Fiat money has two main drawbacks: ",
+    "start": 222.994,
+    "duration": 2.697
+  },
+  {
+    "text": "1. It is centralized: ",
+    "start": 225.96,
+    "duration": 1.851
+  },
+  {
+    "text": "You have a central authority\n that controls and issues it.",
+    "start": 228.142,
+    "duration": 2.903
+  },
+  {
+    "text": "In this case the government \nor central bank.",
+    "start": 231.537,
+    "duration": 2.091
+  },
+  {
+    "text": "And two, it is not limited by quantity: ",
+    "start": 233.994,
+    "duration": 2.948
+  },
+  {
+    "text": "The government or central bank \ncan print as much as they want ",
+    "start": 237.445,
+    "duration": 2.852
+  },
+  {
+    "text": "whenever needed and inflate\n the money supply on the market.",
+    "start": 240.297,
+    "duration": 2.851
+  },
+  {
+    "text": "The problem with printing money is that ",
+    "start": 243.777,
+    "duration": 1.72
+  },
+  {
+    "text": "because you’re flooding the market \nwith more money ",
+    "start": 245.497,
+    "duration": 2.057
+  },
+  {
+    "text": "the value of each dollar drops, \nso your own money is worth less.",
+    "start": 247.565,
+    "duration": 4.732
+  },
+  {
+    "text": "When you see prices rising\n throughout the years ",
+    "start": 252.902,
+    "duration": 2.229
+  },
+  {
+    "text": "it’s not necessarily that\n prices are rising as much as that ",
+    "start": 255.165,
+    "duration": 2.817
+  },
+  {
+    "text": "the purchasing power of \nyour money is dropping.",
+    "start": 258.0,
+    "duration": 2.777
+  },
+  {
+    "text": "You need more dollars to buy something \nthat used to “cost less”.",
+    "start": 261.32,
+    "duration": 3.645
+  },
+  {
+    "text": "Once fiat money was in place, ",
+    "start": 265.925,
+    "duration": 1.709
+  },
+  {
+    "text": "the move to digital money\n was pretty simple.",
+    "start": 267.64,
+    "duration": 2.228
+  },
+  {
+    "text": "We already have a central authority \nthat issues money, ",
+    "start": 270.32,
+    "duration": 2.657
+  },
+  {
+    "text": "so why not make money mostly digital ",
+    "start": 272.977,
+    "duration": 2.314
+  },
+  {
+    "text": "and let that authority \nkeep track of who owns what.",
+    "start": 275.302,
+    "duration": 2.503
+  },
+  {
+    "text": "Today we mainly use credit cards, \nwire transfers, Paypal ",
+    "start": 278.68,
+    "duration": 3.742
+  },
+  {
+    "text": "and others forms of digital money.",
+    "start": 282.422,
+    "duration": 1.675
+  },
+  {
+    "text": "The amount of physical money\n in the world is almost negligible ",
+    "start": 284.651,
+    "duration": 3.046
+  },
+  {
+    "text": "and is getting smaller\n with each year that passes.",
+    "start": 287.72,
+    "duration": 2.434
+  },
+  {
+    "text": "So if money today is digital, \nhow does that even work?",
+    "start": 290.948,
+    "duration": 2.869
+  },
+  {
+    "text": "I mean, if I have a file\n that represents a dollar, ",
+    "start": 293.971,
+    "duration": 2.623
+  },
+  {
+    "text": "what’s to stop me from \ncopying it a million times ",
+    "start": 296.605,
+    "duration": 2.355
+  },
+  {
+    "text": "and having a million dollars?",
+    "start": 298.971,
+    "duration": 1.354
+  },
+  {
+    "text": "This is called the “double spend problem”.",
+    "start": 300.8,
+    "duration": 2.354
+  },
+  {
+    "text": "The solution that banks use today is \na “centralized” solution; ",
+    "start": 303.908,
+    "duration": 3.406
+  },
+  {
+    "text": "they keep a ledger on their computer \nwhich keeps track of who owns what.",
+    "start": 307.474,
+    "duration": 3.451
+  },
+  {
+    "text": "Everyone has an account ",
+    "start": 312.011,
+    "duration": 1.269
+  },
+  {
+    "text": "and this ledger keeps\n a tally for each account.",
+    "start": 313.382,
+    "duration": 2.32
+  },
+  {
+    "text": "We all trust the bank\n and the bank trusts their computer, ",
+    "start": 316.171,
+    "duration": 2.566
+  },
+  {
+    "text": "and so the solution is centralized\n on this ledger in this computer.",
+    "start": 319.108,
+    "duration": 3.84
+  },
+  {
+    "text": "You may not know this, ",
+    "start": 324.011,
+    "duration": 1.091
+  },
+  {
+    "text": "but there were many attempts to create \nalternative forms of digital currencies, ",
+    "start": 325.114,
+    "duration": 3.806
+  },
+  {
+    "text": "however none were successful \nin solving the double spend problem ",
+    "start": 329.302,
+    "duration": 3.555
+  },
+  {
+    "text": "without a central authority.",
+    "start": 332.857,
+    "duration": 1.514
+  },
+  {
+    "text": "Whenever you give a anyone control \nover the money supply ",
+    "start": 335.354,
+    "duration": 2.754
+  },
+  {
+    "text": "you’re giving them enormous power \nand this creates three major issues:",
+    "start": 338.108,
+    "duration": 4.32
+  },
+  {
+    "text": "The first issue is corruption; ",
+    "start": 343.205,
+    "duration": 2.069
+  },
+  {
+    "text": "power corrupts, and absolute power \ncorrupts absolutely.",
+    "start": 345.885,
+    "duration": 3.755
+  },
+  {
+    "text": "When banks have a mandate\n to create money, or value, ",
+    "start": 350.371,
+    "duration": 2.954
+  },
+  {
+    "text": "they basically control \nthe flow of value in the world, ",
+    "start": 353.371,
+    "duration": 2.874
+  },
+  {
+    "text": "which gives them\n almost unlimited power.",
+    "start": 356.285,
+    "duration": 2.195
+  },
+  {
+    "text": "A small example of how power corrupts ",
+    "start": 359.08,
+    "duration": 2.091
+  },
+  {
+    "text": "can be seen in the Wells Fargo’s scandal ",
+    "start": 361.211,
+    "duration": 1.937
+  },
+  {
+    "text": "where employees secretly created ",
+    "start": 363.211,
+    "duration": 1.943
+  },
+  {
+    "text": "millions of unauthorized \nbank and credit card accounts ",
+    "start": 365.165,
+    "duration": 2.749
+  },
+  {
+    "text": "in order to inflate\n the bank’s revenue stream, ",
+    "start": 368.222,
+    "duration": 2.366
+  },
+  {
+    "text": "without their customers \nknowing about it for years.",
+    "start": 370.702,
+    "duration": 2.652
+  },
+  {
+    "text": "The second issue of a centralised\n system is mismanagement.",
+    "start": 374.222,
+    "duration": 3.24
+  },
+  {
+    "text": "If the central authority’s interest\n isn’t aligned with the people it controls ",
+    "start": 377.977,
+    "duration": 3.468
+  },
+  {
+    "text": "there may be a case of \nmismanagement of the money.",
+    "start": 381.577,
+    "duration": 2.405
+  },
+  {
+    "text": "For example, printing a lot of money ",
+    "start": 384.657,
+    "duration": 1.983
+  },
+  {
+    "text": "in order to save a certain bank \nor institution from collapsing, ",
+    "start": 386.651,
+    "duration": 3.234
+  },
+  {
+    "text": "as what happened in 2008.",
+    "start": 390.325,
+    "duration": 1.589
+  },
+  {
+    "text": "The problem with printing \ntoo much money is that ",
+    "start": 392.714,
+    "duration": 1.943
+  },
+  {
+    "text": "it causes inflation and basically \nerodes the value of the citizen’s money.",
+    "start": 394.657,
+    "duration": 4.211
+  },
+  {
+    "text": "One extreme example \nfor this is Venezuela,",
+    "start": 399.514,
+    "duration": 2.646
+  },
+  {
+    "text": "where the government has printed \nso much money, ",
+    "start": 402.342,
+    "duration": 2.08
+  },
+  {
+    "text": "and the value of it \nhas dropped so much, ",
+    "start": 404.457,
+    "duration": 1.988
+  },
+  {
+    "text": "that people are no longer counting money \nbut are weighing it instead.",
+    "start": 406.737,
+    "duration": 2.994
+  },
+  {
+    "text": "The last issue is control.",
+    "start": 410.554,
+    "duration": 1.931
+  },
+  {
+    "text": "You are basically giving away \nall control of your money ",
+    "start": 412.645,
+    "duration": 2.623
+  },
+  {
+    "text": "to the government or bank.",
+    "start": 415.297,
+    "duration": 1.4
+  },
+  {
+    "text": "At any point in time ",
+    "start": 417.217,
+    "duration": 1.223
+  },
+  {
+    "text": "the government can decide to \nfreeze your account ",
+    "start": 418.451,
+    "duration": 2.229
+  },
+  {
+    "text": "and deny you access to your funds.",
+    "start": 420.708,
+    "duration": 1.846
+  },
+  {
+    "text": "Even if you use only cold hard cash ",
+    "start": 423.148,
+    "duration": 2.537
+  },
+  {
+    "text": "the government can cancel \nthe legal status of your currency ",
+    "start": 425.782,
+    "duration": 2.766
+  },
+  {
+    "text": "as was done in India a few years back.",
+    "start": 428.685,
+    "duration": 2.206
+  },
+  {
+    "text": "This was the state of things until 2009.",
+    "start": 431.714,
+    "duration": 2.554
+  },
+  {
+    "text": "Creating an alternative to \nthe current monetary system ",
+    "start": 434.777,
+    "duration": 2.588
+  },
+  {
+    "text": "seemed like a lost cause.",
+    "start": 437.411,
+    "duration": 1.383
+  },
+  {
+    "text": "But then everything changed….",
+    "start": 438.862,
+    "duration": 1.972
+  },
+  {
+    "text": "In October 2008 ",
+    "start": 441.651,
+    "duration": 1.703
+  },
+  {
+    "text": "a document was published online \nby a guy calling himself Satoshi Nakamoto.",
+    "start": 443.485,
+    "duration": 4.423
+  },
+  {
+    "text": "The document, also called a whitepaper, ",
+    "start": 448.422,
+    "duration": 2.2
+  },
+  {
+    "text": "suggested a way of creating a system ",
+    "start": 450.691,
+    "duration": 2.131
+  },
+  {
+    "text": "for a decentralised currency\n called Bitcoin.",
+    "start": 452.828,
+    "duration": 3.052
+  },
+  {
+    "text": "This system claimed to create\n digital money that solves ",
+    "start": 456.49,
+    "duration": 3.452
+  },
+  {
+    "text": "the double spend problem \nwithout the need for a central authority.",
+    "start": 459.954,
+    "duration": 3.731
+  },
+  {
+    "text": "At its core Bitcoin is a transparent ledger \nwithout a central authority, ",
+    "start": 464.645,
+    "duration": 4.035
+  },
+  {
+    "text": "but what does this confusing phrase\n even really mean?",
+    "start": 469.045,
+    "duration": 2.88
+  },
+  {
+    "text": "Well, let’s compare Bitcoin to the bank.",
+    "start": 472.56,
+    "duration": 2.251
+  },
+  {
+    "text": "Since most money today\n is already digital, ",
+    "start": 475.257,
+    "duration": 2.143
+  },
+  {
+    "text": "the bank basically manages its own ledger \nof balances and transactions.",
+    "start": 477.554,
+    "duration": 3.897
+  },
+  {
+    "text": "However the bank’s ledger\n is not transparent ",
+    "start": 481.714,
+    "duration": 2.611
+  },
+  {
+    "text": "and it is stored on\n the bank’s main computer.",
+    "start": 484.405,
+    "duration": 1.926
+  },
+  {
+    "text": "You can’t sneak a peek\n into the bank’s ledger, ",
+    "start": 486.531,
+    "duration": 2.086
+  },
+  {
+    "text": "and only the bank has \ncomplete control over it.",
+    "start": 488.748,
+    "duration": 2.554
+  },
+  {
+    "text": "Bitcoin on the other hand\n is a transparent ledger.",
+    "start": 492.034,
+    "duration": 2.697
+  },
+  {
+    "text": "At any point in time\n I can sneak a peek into the ledger ",
+    "start": 494.908,
+    "duration": 3.04
+  },
+  {
+    "text": "and see all of the transactions \nand balances that are taking place.",
+    "start": 497.948,
+    "duration": 3.412
+  },
+  {
+    "text": "The only thing you can’t figure out is ",
+    "start": 501.971,
+    "duration": 1.794
+  },
+  {
+    "text": "who owns these balances\n and who is behind each transaction.",
+    "start": 503.771,
+    "duration": 3.017
+  },
+  {
+    "text": "This means Bitcoin is pseudo-anonymous; ",
+    "start": 507.365,
+    "duration": 3.052
+  },
+  {
+    "text": "everything is open,\n transparent and trackable ",
+    "start": 510.737,
+    "duration": 2.143
+  },
+  {
+    "text": "but you still can’t tell\n who is sending what to whom.",
+    "start": 513.217,
+    "duration": 2.623
+  },
+  {
+    "text": "Let’s explain this with an example.",
+    "start": 516.645,
+    "duration": 1.657
+  },
+  {
+    "text": "You can see on your screen \ncertain rows from Bitcoin’s ledger.",
+    "start": 518.617,
+    "duration": 2.994
+  },
+  {
+    "text": "We can see that\n a certain Bitcoin address ",
+    "start": 522.222,
+    "duration": 2.04
+  },
+  {
+    "text": "sent 10,000 Bitcoins \nto another Bitcoin address ",
+    "start": 524.314,
+    "duration": 2.731
+  },
+  {
+    "text": "in May of 2010.",
+    "start": 527.057,
+    "duration": 1.423
+  },
+  {
+    "text": "This specific transaction \nis the first purchase ",
+    "start": 529.302,
+    "duration": 2.863
+  },
+  {
+    "text": "that was ever made with Bitcoin ",
+    "start": 532.177,
+    "duration": 1.623
+  },
+  {
+    "text": "and it was used to buy 2 pizzas\n by a guy named Laszlo.",
+    "start": 533.845,
+    "duration": 3.663
+  },
+  {
+    "text": "Laszlo published a post back in 2010 ",
+    "start": 538.142,
+    "duration": 2.663
+  },
+  {
+    "text": "asking for someone to sell him 2 pizzas\n in exchange for 10,000 Bitcoins.",
+    "start": 540.988,
+    "duration": 3.892
+  },
+  {
+    "text": "Well, someone did,\n and now the price of these two Pizzas ",
+    "start": 544.994,
+    "duration": 3.503
+  },
+  {
+    "text": "is worth well over \n100 million dollars today.",
+    "start": 548.497,
+    "duration": 2.885
+  },
+  {
+    "text": "Bitcoin is also decentralized; ",
+    "start": 552.325,
+    "duration": 2.577
+  },
+  {
+    "text": "there’s no one computer \nthat holds the ledger.",
+    "start": 555.08,
+    "duration": 2.057
+  },
+  {
+    "text": "With Bitcoin, every computer \nthat participates in the system ",
+    "start": 557.622,
+    "duration": 3.383
+  },
+  {
+    "text": "is also keeping a copy of the ledger, \nalso known as the Blockchain.",
+    "start": 561.022,
+    "duration": 4.132
+  },
+  {
+    "text": "So if you want to take down the system\n or hack the ledger ",
+    "start": 565.702,
+    "duration": 3.023
+  },
+  {
+    "text": "you’ll have to take down \nthousands of computers ",
+    "start": 568.742,
+    "duration": 2.383
+  },
+  {
+    "text": "which are keeping a copy\n and constantly updating it.",
+    "start": 571.131,
+    "duration": 2.874
+  },
+  {
+    "text": "Like most money today, \nBitcoin is also digital.",
+    "start": 574.822,
+    "duration": 3.338
+  },
+  {
+    "text": "This means there’s nothing physical \nthat you can touch in Bitcoin.",
+    "start": 578.582,
+    "duration": 3.246
+  },
+  {
+    "text": "There are no actual coins, ",
+    "start": 582.057,
+    "duration": 1.508
+  },
+  {
+    "text": "there are only rows of \ntransactions and balances.",
+    "start": 583.954,
+    "duration": 2.554
+  },
+  {
+    "text": "When you “own” Bitcoin ",
+    "start": 586.954,
+    "duration": 1.577
+  },
+  {
+    "text": "it means that you own\n the right to access ",
+    "start": 588.588,
+    "duration": 2.212
+  },
+  {
+    "text": "a specific Bitcoin address record\n in the ledger ",
+    "start": 590.817,
+    "duration": 2.577
+  },
+  {
+    "text": "and send funds from it \nto a different address.",
+    "start": 593.457,
+    "duration": 2.4
+  },
+  {
+    "text": "So what does all of this mean?",
+    "start": 596.32,
+    "duration": 1.64
+  },
+  {
+    "text": "Why is Bitcoin such big news?",
+    "start": 598.171,
+    "duration": 2.349
+  },
+  {
+    "text": "Well for the first time since \ndigital money came into existence ",
+    "start": 600.988,
+    "duration": 3.692
+  },
+  {
+    "text": "we now have an alternative to\n the current system.",
+    "start": 604.697,
+    "duration": 2.645
+  },
+  {
+    "text": "Bitcoin is a form of money that \nno government or bank can control.",
+    "start": 608.034,
+    "duration": 4.331
+  },
+  {
+    "text": "Think about the time before the Internet, ",
+    "start": 612.897,
+    "duration": 1.565
+  },
+  {
+    "text": "how centralized\n the flow of information was.",
+    "start": 614.908,
+    "duration": 2.269
+  },
+  {
+    "text": "Basically if you wanted information ",
+    "start": 617.485,
+    "duration": 2.017
+  },
+  {
+    "text": "you could get it from a few major players ",
+    "start": 619.52,
+    "duration": 1.748
+  },
+  {
+    "text": "like the New York Times, \nThe Washington Post ",
+    "start": 621.268,
+    "duration": 2.034
+  },
+  {
+    "text": "and others like them.",
+    "start": 623.337,
+    "duration": 1.04
+  },
+  {
+    "text": "Today, thanks to the Internet,\n information is decentralized ",
+    "start": 624.931,
+    "duration": 3.646
+  },
+  {
+    "text": "and you can communicate\n and consume knowledge ",
+    "start": 628.605,
+    "duration": 2.115
+  },
+  {
+    "text": "from around the world \nwith the click of a button.",
+    "start": 630.731,
+    "duration": 2.029
+  },
+  {
+    "text": "Bitcoin is the Internet of money ",
+    "start": 633.348,
+    "duration": 2.177
+  },
+  {
+    "text": "and it’s offering\n a decentralized solution to money.",
+    "start": 635.874,
+    "duration": 2.771
+  },
+  {
+    "text": "Bitcoin has several advantages \nover the current system.",
+    "start": 639.422,
+    "duration": 2.806
+  },
+  {
+    "text": "First, it gives you complete control \nover your money.",
+    "start": 642.531,
+    "duration": 3.309
+  },
+  {
+    "text": "With Bitcoin, you and you alone\n can access your funds.",
+    "start": 646.131,
+    "duration": 3.6
+  },
+  {
+    "text": "How you actually do this \nwill be explained in a later video.",
+    "start": 650.2,
+    "duration": 2.577
+  },
+  {
+    "text": "No government or bank\n can decide to freeze your account ",
+    "start": 653.331,
+    "duration": 2.8
+  },
+  {
+    "text": "or confiscate your holdings.",
+    "start": 656.24,
+    "duration": 1.611
+  },
+  {
+    "text": "Bitcoin also cuts a lot of the middlemen\nfrom the process of transferring money.",
+    "start": 658.78,
+    "duration": 4.077
+  },
+  {
+    "text": "This means that in many cases",
+    "start": 663.4,
+    "duration": 1.48
+  },
+  {
+    "text": "Bitcoin is cheaper to use than \ntraditional wire transfers or money orders.",
+    "start": 664.891,
+    "duration": 3.983
+  },
+  {
+    "text": "Also, unlike fiat currencies, ",
+    "start": 669.291,
+    "duration": 2.189
+  },
+  {
+    "text": "Bitcoin was designed to be \ndigital by nature, ",
+    "start": 671.554,
+    "duration": 2.823
+  },
+  {
+    "text": "this means you can add additional \nlayers of programming on top of it ",
+    "start": 674.977,
+    "duration": 3.325
+  },
+  {
+    "text": "and turn it into “smart money”,\n but more on that in later videos.",
+    "start": 678.308,
+    "duration": 3.834
+  },
+  {
+    "text": "Finally, Bitcoin opens up \ndigital commerce to ",
+    "start": 682.68,
+    "duration": 2.691
+  },
+  {
+    "text": "2.5 billion people around the world ",
+    "start": 685.417,
+    "duration": 2.308
+  },
+  {
+    "text": "who don’t have access to\n the current banking system.",
+    "start": 687.742,
+    "duration": 2.509
+  },
+  {
+    "text": "These people are unbanked \nor underbanked ",
+    "start": 690.88,
+    "duration": 2.462
+  },
+  {
+    "text": "because of where they leave \nand the reality that they have been born into.",
+    "start": 693.4,
+    "duration": 3.434
+  },
+  {
+    "text": "However, today, with a mobile phone\n and a click of a button ",
+    "start": 697.308,
+    "duration": 3.389
+  },
+  {
+    "text": "they can start trading using Bitcoin, \nno permission needed.",
+    "start": 700.697,
+    "duration": 3.583
+  },
+  {
+    "text": "Today there are several merchants \nonline and offline that accept Bitcoin.",
+    "start": 705.234,
+    "duration": 4.406
+  },
+  {
+    "text": "You can order a flight or book a hotel \nwith Bitcoin if you like.",
+    "start": 710.114,
+    "duration": 3.12
+  },
+  {
+    "text": "There are even Bitcoin debit cards ",
+    "start": 713.491,
+    "duration": 2.103
+  },
+  {
+    "text": "that allow you to pay at almost \nany store with your Bitcoin balance.",
+    "start": 715.628,
+    "duration": 3.28
+  },
+  {
+    "text": "However the road toward acceptance\n by the majority of the public ",
+    "start": 719.44,
+    "duration": 3.211
+  },
+  {
+    "text": "is still a long one.",
+    "start": 722.691,
+    "duration": 1.069
+  },
+  {
+    "text": "As we continue in this video series, ",
+    "start": 724.868,
+    "duration": 1.846
+  },
+  {
+    "text": "we will break down exactly\n how Bitcoin works and how to use it.",
+    "start": 726.731,
+    "duration": 3.274
+  },
+  {
+    "text": "We will learn about Bitcoin mining, \nBitcoin wallets, how to buy Bitcoins ",
+    "start": 730.502,
+    "duration": 3.595
+  },
+  {
+    "text": "and much more.",
+    "start": 734.125,
+    "duration": 0.846
+  },
+  {
+    "text": "The revolution of money began in 2009 ",
+    "start": 735.548,
+    "duration": 2.76
+  },
+  {
+    "text": "and these days we are seeing it \nchange money as we know it.",
+    "start": 738.428,
+    "duration": 3.172
+  },
+  {
+    "text": "You may still have some questions.",
+    "start": 742.485,
+    "duration": 1.377
+  },
+  {
+    "text": "If so, just leave them \nin the comment section below.",
+    "start": 743.988,
+    "duration": 2.366
+  },
+  {
+    "text": "And if you're watching this video on YouTube",
+    "start": 746.662,
+    "duration": 1.829
+  },
+  {
+    "text": "and enjoy what you've seen,",
+    "start": 748.674,
+    "duration": 1.12
+  },
+  {
+    "text": "don't forget to hit the like button.",
+    "start": 749.84,
+    "duration": 1.691
+  },
+  {
+    "text": "Then, make sure to subscribe ",
+    "start": 751.731,
+    "duration": 1.64
+  },
+  {
+    "text": "for notifications about new episodes.",
+    "start": 753.377,
+    "duration": 2.0
+  },
+  {
+    "text": "Thanks for joining me here at the Whiteboard.",
+    "start": 756.188,
+    "duration": 1.629
+  },
+  {
+    "text": "For 99Bitcoins.com, I’m Nate Martin, \nand I’ll see you… in a bit.",
+    "start": 757.817,
+    "duration": 3.8
+  }
+]

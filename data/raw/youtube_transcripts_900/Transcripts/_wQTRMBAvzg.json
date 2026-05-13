@@ -1,0 +1,582 @@
+[
+  {
+    "text": "you probably heard of a vpn before it's",
+    "start": 0.08,
+    "duration": 4.88
+  },
+  {
+    "text": "even possible you've used one before but",
+    "start": 2.56,
+    "duration": 5.12
+  },
+  {
+    "text": "do you know what it does a vpn stands",
+    "start": 4.96,
+    "duration": 4.719
+  },
+  {
+    "text": "for virtual private network which",
+    "start": 7.68,
+    "duration": 4.079
+  },
+  {
+    "text": "basically means it gives you privacy",
+    "start": 9.679,
+    "duration": 5.681
+  },
+  {
+    "text": "online originally vpns were only used in",
+    "start": 11.759,
+    "duration": 5.761
+  },
+  {
+    "text": "business settings where big businesses",
+    "start": 15.36,
+    "duration": 4.4
+  },
+  {
+    "text": "organizations or governments wanted to",
+    "start": 17.52,
+    "duration": 4.48
+  },
+  {
+    "text": "secure their data since people worked",
+    "start": 19.76,
+    "duration": 4.56
+  },
+  {
+    "text": "remotely and needed to connect online",
+    "start": 22.0,
+    "duration": 4.16
+  },
+  {
+    "text": "businesses needed to create a secure",
+    "start": 24.32,
+    "duration": 4.0
+  },
+  {
+    "text": "connection otherwise they were at risk",
+    "start": 26.16,
+    "duration": 4.56
+  },
+  {
+    "text": "for hacking or other loss of data",
+    "start": 28.32,
+    "duration": 5.28
+  },
+  {
+    "text": "nowadays vpns are used by everyone",
+    "start": 30.72,
+    "duration": 4.64
+  },
+  {
+    "text": "specifically because it ensures your",
+    "start": 33.6,
+    "duration": 4.24
+  },
+  {
+    "text": "location stays private your data is",
+    "start": 35.36,
+    "duration": 4.96
+  },
+  {
+    "text": "encrypted and that you can surf the web",
+    "start": 37.84,
+    "duration": 5.2
+  },
+  {
+    "text": "anonymously but how does it work",
+    "start": 40.32,
+    "duration": 4.72
+  },
+  {
+    "text": "let's back up for a second to understand",
+    "start": 43.04,
+    "duration": 3.999
+  },
+  {
+    "text": "how the internet works when you visit a",
+    "start": 45.04,
+    "duration": 4.08
+  },
+  {
+    "text": "site like facebook or twitter you type",
+    "start": 47.039,
+    "duration": 4.241
+  },
+  {
+    "text": "in a domain name that domain is",
+    "start": 49.12,
+    "duration": 4.16
+  },
+  {
+    "text": "basically a nickname for the website's",
+    "start": 51.28,
+    "duration": 5.119
+  },
+  {
+    "text": "ip address an ip address is just like",
+    "start": 53.28,
+    "duration": 5.279
+  },
+  {
+    "text": "your home address only it consists of",
+    "start": 56.399,
+    "duration": 4.48
+  },
+  {
+    "text": "numbers and not street names since it's",
+    "start": 58.559,
+    "duration": 3.921
+  },
+  {
+    "text": "much easier to remember names in a",
+    "start": 60.879,
+    "duration": 3.68
+  },
+  {
+    "text": "string of numbers we give websites",
+    "start": 62.48,
+    "duration": 4.48
+  },
+  {
+    "text": "domain names and a server translates",
+    "start": 64.559,
+    "duration": 5.281
+  },
+  {
+    "text": "them your computer has an ip address too",
+    "start": 66.96,
+    "duration": 4.96
+  },
+  {
+    "text": "and so does every device browsing the",
+    "start": 69.84,
+    "duration": 4.16
+  },
+  {
+    "text": "internet when you type in the website's",
+    "start": 71.92,
+    "duration": 3.92
+  },
+  {
+    "text": "domain name on your browser whether",
+    "start": 74.0,
+    "duration": 4.159
+  },
+  {
+    "text": "you're using chrome firefox or even",
+    "start": 75.84,
+    "duration": 4.48
+  },
+  {
+    "text": "internet explorer you send your data",
+    "start": 78.159,
+    "duration": 4.081
+  },
+  {
+    "text": "into the internet until it reaches a",
+    "start": 80.32,
+    "duration": 4.24
+  },
+  {
+    "text": "server that server then translates the",
+    "start": 82.24,
+    "duration": 4.559
+  },
+  {
+    "text": "data and sends you back the website you",
+    "start": 84.56,
+    "duration": 4.64
+  },
+  {
+    "text": "requested the problem is when you send",
+    "start": 86.799,
+    "duration": 4.401
+  },
+  {
+    "text": "that data to the server you're sending",
+    "start": 89.2,
+    "duration": 4.4
+  },
+  {
+    "text": "them your ip address and a lot of other",
+    "start": 91.2,
+    "duration": 4.64
+  },
+  {
+    "text": "information too this is where hackers",
+    "start": 93.6,
+    "duration": 4.479
+  },
+  {
+    "text": "can intercept your information imagine",
+    "start": 95.84,
+    "duration": 4.239
+  },
+  {
+    "text": "you're sitting in a coffee shop using",
+    "start": 98.079,
+    "duration": 4.161
+  },
+  {
+    "text": "their public wi-fi on your phone and you",
+    "start": 100.079,
+    "duration": 4.161
+  },
+  {
+    "text": "want to check your bank account someone",
+    "start": 102.24,
+    "duration": 4.239
+  },
+  {
+    "text": "else with the laptop can easily log into",
+    "start": 104.24,
+    "duration": 3.919
+  },
+  {
+    "text": "the network and get a hold of your",
+    "start": 106.479,
+    "duration": 4.481
+  },
+  {
+    "text": "passwords emails and other information",
+    "start": 108.159,
+    "duration": 5.92
+  },
+  {
+    "text": "you might have but if you use a vpn they",
+    "start": 110.96,
+    "duration": 5.36
+  },
+  {
+    "text": "won't be able to access that",
+    "start": 114.079,
+    "duration": 4.241
+  },
+  {
+    "text": "the websites you visit can also gather",
+    "start": 116.32,
+    "duration": 4.079
+  },
+  {
+    "text": "your information but they tend to do it",
+    "start": 118.32,
+    "duration": 4.0
+  },
+  {
+    "text": "in order to study their demographic",
+    "start": 120.399,
+    "duration": 4.801
+  },
+  {
+    "text": "usually it's not a problem but sometimes",
+    "start": 122.32,
+    "duration": 4.479
+  },
+  {
+    "text": "you want to protect your identity and",
+    "start": 125.2,
+    "duration": 4.24
+  },
+  {
+    "text": "privacy so how does a vpn protect my",
+    "start": 126.799,
+    "duration": 5.44
+  },
+  {
+    "text": "privacy when you send information online",
+    "start": 129.44,
+    "duration": 4.879
+  },
+  {
+    "text": "a vpn creates a tunnel that encrypts",
+    "start": 132.239,
+    "duration": 4.0
+  },
+  {
+    "text": "your information this way if someone",
+    "start": 134.319,
+    "duration": 3.681
+  },
+  {
+    "text": "gets a hold of your data they won't be",
+    "start": 136.239,
+    "duration": 3.841
+  },
+  {
+    "text": "able to read it the tunnel also makes it",
+    "start": 138.0,
+    "duration": 4.48
+  },
+  {
+    "text": "harder to hack in but don't be fooled it",
+    "start": 140.08,
+    "duration": 5.2
+  },
+  {
+    "text": "is still possible just much harder to do",
+    "start": 142.48,
+    "duration": 5.68
+  },
+  {
+    "text": "a vpn also adds in an extra server we",
+    "start": 145.28,
+    "duration": 4.72
+  },
+  {
+    "text": "spoke about how you send data from your",
+    "start": 148.16,
+    "duration": 3.84
+  },
+  {
+    "text": "computer to a server and then that",
+    "start": 150.0,
+    "duration": 4.16
+  },
+  {
+    "text": "server pings you back with the website",
+    "start": 152.0,
+    "duration": 4.56
+  },
+  {
+    "text": "but with vpn your data goes to their",
+    "start": 154.16,
+    "duration": 4.4
+  },
+  {
+    "text": "server first and then it's sent out to",
+    "start": 156.56,
+    "duration": 4.319
+  },
+  {
+    "text": "the website this extra step helps in a",
+    "start": 158.56,
+    "duration": 4.72
+  },
+  {
+    "text": "lot of ways first it can change your",
+    "start": 160.879,
+    "duration": 4.401
+  },
+  {
+    "text": "location a lot of video streaming",
+    "start": 163.28,
+    "duration": 4.08
+  },
+  {
+    "text": "websites like netflix and hulu have",
+    "start": 165.28,
+    "duration": 3.92
+  },
+  {
+    "text": "strict content depending on your geo",
+    "start": 167.36,
+    "duration": 3.12
+  },
+  {
+    "text": "location",
+    "start": 169.2,
+    "duration": 2.56
+  },
+  {
+    "text": "let's say you want to watch your",
+    "start": 170.48,
+    "duration": 3.119
+  },
+  {
+    "text": "favorite show on netflix but it's not",
+    "start": 171.76,
+    "duration": 3.759
+  },
+  {
+    "text": "available in your country you send your",
+    "start": 173.599,
+    "duration": 4.161
+  },
+  {
+    "text": "information to one of the vpn servers in",
+    "start": 175.519,
+    "duration": 4.321
+  },
+  {
+    "text": "america and then that server sends it to",
+    "start": 177.76,
+    "duration": 4.479
+  },
+  {
+    "text": "the netflix website netflix now thinks",
+    "start": 179.84,
+    "duration": 4.0
+  },
+  {
+    "text": "you're in america and you can stream",
+    "start": 182.239,
+    "duration": 4.241
+  },
+  {
+    "text": "your show without any problems a vpn",
+    "start": 183.84,
+    "duration": 4.08
+  },
+  {
+    "text": "tricks them into thinking you're in a",
+    "start": 186.48,
+    "duration": 3.52
+  },
+  {
+    "text": "different location because the signal is",
+    "start": 187.92,
+    "duration": 4.16
+  },
+  {
+    "text": "coming from a different server clever",
+    "start": 190.0,
+    "duration": 4.48
+  },
+  {
+    "text": "right changing your location can also be",
+    "start": 192.08,
+    "duration": 4.72
+  },
+  {
+    "text": "helpful when booking a hotel or flight",
+    "start": 194.48,
+    "duration": 4.0
+  },
+  {
+    "text": "research has shown that hotels and",
+    "start": 196.8,
+    "duration": 3.68
+  },
+  {
+    "text": "flight prices change depending on your",
+    "start": 198.48,
+    "duration": 4.479
+  },
+  {
+    "text": "location and a vpn could potentially",
+    "start": 200.48,
+    "duration": 4.399
+  },
+  {
+    "text": "save you lots of money but let's get",
+    "start": 202.959,
+    "duration": 4.161
+  },
+  {
+    "text": "back to your privacy remember how we",
+    "start": 204.879,
+    "duration": 3.921
+  },
+  {
+    "text": "mentioned websites sometimes collect",
+    "start": 207.12,
+    "duration": 3.759
+  },
+  {
+    "text": "your data well many times governments",
+    "start": 208.8,
+    "duration": 4.24
+  },
+  {
+    "text": "can request this information and use the",
+    "start": 210.879,
+    "duration": 4.241
+  },
+  {
+    "text": "listed ip addresses to track your",
+    "start": 213.04,
+    "duration": 4.16
+  },
+  {
+    "text": "location but with the vpn their",
+    "start": 215.12,
+    "duration": 4.64
+  },
+  {
+    "text": "information only reaches the vpn server",
+    "start": 217.2,
+    "duration": 4.0
+  },
+  {
+    "text": "they can't track you back to your",
+    "start": 219.76,
+    "duration": 4.399
+  },
+  {
+    "text": "original ip address see how cool that is",
+    "start": 221.2,
+    "duration": 5.599
+  },
+  {
+    "text": "many vpns also have a no logs policy",
+    "start": 224.159,
+    "duration": 4.561
+  },
+  {
+    "text": "which means they don't record what sites",
+    "start": 226.799,
+    "duration": 4.0
+  },
+  {
+    "text": "you visit so if the government requests",
+    "start": 228.72,
+    "duration": 4.56
+  },
+  {
+    "text": "a vpn provider for tracking logs your",
+    "start": 230.799,
+    "duration": 4.961
+  },
+  {
+    "text": "information won't be there vpns are",
+    "start": 233.28,
+    "duration": 4.319
+  },
+  {
+    "text": "really handy when it comes to keeping",
+    "start": 235.76,
+    "duration": 4.24
+  },
+  {
+    "text": "your privacy safe on the web by changing",
+    "start": 237.599,
+    "duration": 4.56
+  },
+  {
+    "text": "your location encrypting your data and",
+    "start": 240.0,
+    "duration": 4.72
+  },
+  {
+    "text": "ensuring your privacy it's no wonder so",
+    "start": 242.159,
+    "duration": 4.8
+  },
+  {
+    "text": "many people use them these days now that",
+    "start": 244.72,
+    "duration": 4.879
+  },
+  {
+    "text": "you know what a vpn is it's time to go",
+    "start": 246.959,
+    "duration": 4.801
+  },
+  {
+    "text": "get one click on the link to see our top",
+    "start": 249.599,
+    "duration": 4.801
+  },
+  {
+    "text": "vpns or click the icon below to share",
+    "start": 251.76,
+    "duration": 6.6
+  },
+  {
+    "text": "this video with your friends",
+    "start": 254.4,
+    "duration": 3.96
+  }
+]

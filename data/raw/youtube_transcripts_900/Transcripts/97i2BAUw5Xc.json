@@ -1,0 +1,1017 @@
+[
+  {
+    "text": "I get asked all the time in stream you",
+    "start": 0.16,
+    "duration": 3.88
+  },
+  {
+    "text": "know if I were to start over again and",
+    "start": 2.04,
+    "duration": 3.64
+  },
+  {
+    "text": "have to relearn all the stuff that I",
+    "start": 4.04,
+    "duration": 3.839
+  },
+  {
+    "text": "know what would I do today to learn",
+    "start": 5.68,
+    "duration": 4.12
+  },
+  {
+    "text": "about the lowest level for those of you",
+    "start": 7.879,
+    "duration": 3.081
+  },
+  {
+    "text": "that don't know my name is l level",
+    "start": 9.8,
+    "duration": 2.799
+  },
+  {
+    "text": "learning my day job I'm a security",
+    "start": 10.96,
+    "duration": 3.679
+  },
+  {
+    "text": "researcher but on the internet I teach",
+    "start": 12.599,
+    "duration": 4.481
+  },
+  {
+    "text": "people how to code in languages like C",
+    "start": 14.639,
+    "duration": 3.681
+  },
+  {
+    "text": "and teach them how computers work",
+    "start": 17.08,
+    "duration": 3.199
+  },
+  {
+    "text": "through languages like assembly and",
+    "start": 18.32,
+    "duration": 3.84
+  },
+  {
+    "text": "others if you're new here welcome to the",
+    "start": 20.279,
+    "duration": 3.481
+  },
+  {
+    "text": "channel hit that sub button and let's",
+    "start": 22.16,
+    "duration": 4.119
+  },
+  {
+    "text": "learn how to be lowl together so how",
+    "start": 23.76,
+    "duration": 4.96
+  },
+  {
+    "text": "would I get from zero to lowlevel as",
+    "start": 26.279,
+    "duration": 4.201
+  },
+  {
+    "text": "fast as possible thought this question",
+    "start": 28.72,
+    "duration": 3.08
+  },
+  {
+    "text": "really hard and I came up with the",
+    "start": 30.48,
+    "duration": 3.44
+  },
+  {
+    "text": "following three answers three things",
+    "start": 31.8,
+    "duration": 4.84
+  },
+  {
+    "text": "that I would do today to get good at the",
+    "start": 33.92,
+    "duration": 6.0
+  },
+  {
+    "text": "low level starting with number one code",
+    "start": 36.64,
+    "duration": 6.0
+  },
+  {
+    "text": "in a lowlevel language this probably",
+    "start": 39.92,
+    "duration": 4.2
+  },
+  {
+    "text": "goes without saying but if you know how",
+    "start": 42.64,
+    "duration": 3.12
+  },
+  {
+    "text": "to code right now maybe you know how to",
+    "start": 44.12,
+    "duration": 5.279
+  },
+  {
+    "text": "code in python or Ruby or God forbid",
+    "start": 45.76,
+    "duration": 5.36
+  },
+  {
+    "text": "JavaScript I would say take that",
+    "start": 49.399,
+    "duration": 3.241
+  },
+  {
+    "text": "knowledge of programming and go and",
+    "start": 51.12,
+    "duration": 3.72
+  },
+  {
+    "text": "learn a language that gives you raw",
+    "start": 52.64,
+    "duration": 4.68
+  },
+  {
+    "text": "unfettered access to the memory of your",
+    "start": 54.84,
+    "duration": 3.96
+  },
+  {
+    "text": "process space and the language I",
+    "start": 57.32,
+    "duration": 3.16
+  },
+  {
+    "text": "recommend for that is the c programming",
+    "start": 58.8,
+    "duration": 2.919
+  },
+  {
+    "text": "language I know there's a lot of talk",
+    "start": 60.48,
+    "duration": 2.28
+  },
+  {
+    "text": "and I talk about this a lot on my",
+    "start": 61.719,
+    "duration": 3.681
+  },
+  {
+    "text": "YouTube channel if C is the appropriate",
+    "start": 62.76,
+    "duration": 4.0
+  },
+  {
+    "text": "language for the future when it comes to",
+    "start": 65.4,
+    "duration": 3.68
+  },
+  {
+    "text": "systems programming I think that rust",
+    "start": 66.76,
+    "duration": 4.32
+  },
+  {
+    "text": "eventually will take over for C we're",
+    "start": 69.08,
+    "duration": 3.48
+  },
+  {
+    "text": "not talking about that today in this",
+    "start": 71.08,
+    "duration": 3.64
+  },
+  {
+    "text": "video I want to talk about why C is the",
+    "start": 72.56,
+    "duration": 4.04
+  },
+  {
+    "text": "best language to learn with also we're",
+    "start": 74.72,
+    "duration": 3.64
+  },
+  {
+    "text": "not going to get into the holy war of",
+    "start": 76.6,
+    "duration": 4.199
+  },
+  {
+    "text": "whether or not C is a high or low-level",
+    "start": 78.36,
+    "duration": 4.92
+  },
+  {
+    "text": "language for the purposes of this video",
+    "start": 80.799,
+    "duration": 5.0
+  },
+  {
+    "text": "C is a low-level language discussed in",
+    "start": 83.28,
+    "duration": 3.879
+  },
+  {
+    "text": "the comments learning to code",
+    "start": 85.799,
+    "duration": 4.201
+  },
+  {
+    "text": "effectively in C forces you to learn",
+    "start": 87.159,
+    "duration": 5.0
+  },
+  {
+    "text": "effective memory management it forces",
+    "start": 90.0,
+    "duration": 4.72
+  },
+  {
+    "text": "you to learn how to write code that is",
+    "start": 92.159,
+    "duration": 4.521
+  },
+  {
+    "text": "bulletproof because if you don't the",
+    "start": 94.72,
+    "duration": 4.28
+  },
+  {
+    "text": "code will just inherently be unsafe",
+    "start": 96.68,
+    "duration": 3.719
+  },
+  {
+    "text": "there are lots of things you have to do",
+    "start": 99.0,
+    "duration": 3.88
+  },
+  {
+    "text": "in C to not leak memory to not give your",
+    "start": 100.399,
+    "duration": 4.76
+  },
+  {
+    "text": "code access to hackers and to not have",
+    "start": 102.88,
+    "duration": 4.72
+  },
+  {
+    "text": "the crash the code just crash whenever",
+    "start": 105.159,
+    "duration": 4.24
+  },
+  {
+    "text": "it runs the number one project I tell",
+    "start": 107.6,
+    "duration": 3.64
+  },
+  {
+    "text": "people to write when they're trying to",
+    "start": 109.399,
+    "duration": 3.441
+  },
+  {
+    "text": "learn to code maybe they know the",
+    "start": 111.24,
+    "duration": 3.44
+  },
+  {
+    "text": "language but don't have a project to go",
+    "start": 112.84,
+    "duration": 4.76
+  },
+  {
+    "text": "after is to write an HTTP server and I",
+    "start": 114.68,
+    "duration": 4.119
+  },
+  {
+    "text": "know that sounds fairly Advanced for",
+    "start": 117.6,
+    "duration": 2.68
+  },
+  {
+    "text": "somebody who may be new to a language",
+    "start": 118.799,
+    "duration": 3.481
+  },
+  {
+    "text": "but it will teach you not only the ins",
+    "start": 120.28,
+    "duration": 5.32
+  },
+  {
+    "text": "and outs of the HTTP RFC but a lot of",
+    "start": 122.28,
+    "duration": 5.199
+  },
+  {
+    "text": "really important things about",
+    "start": 125.6,
+    "duration": 3.359
+  },
+  {
+    "text": "programming for example when you're",
+    "start": 127.479,
+    "duration": 3.241
+  },
+  {
+    "text": "writing the HTTP parser you have to not",
+    "start": 128.959,
+    "duration": 3.401
+  },
+  {
+    "text": "only write the code that adheres to the",
+    "start": 130.72,
+    "duration": 4.0
+  },
+  {
+    "text": "RFC but then you also have to think of",
+    "start": 132.36,
+    "duration": 4.04
+  },
+  {
+    "text": "your code defensively you're going to be",
+    "start": 134.72,
+    "duration": 4.64
+  },
+  {
+    "text": "inprocessing and reading code from",
+    "start": 136.4,
+    "duration": 4.559
+  },
+  {
+    "text": "literally anybody on the internet you",
+    "start": 139.36,
+    "duration": 3.239
+  },
+  {
+    "text": "have to treat your code as if it's being",
+    "start": 140.959,
+    "duration": 3.801
+  },
+  {
+    "text": "attacked you have to code defensively",
+    "start": 142.599,
+    "duration": 4.521
+  },
+  {
+    "text": "writing an HTTP server will allow you to",
+    "start": 144.76,
+    "duration": 4.199
+  },
+  {
+    "text": "get really familiar with how to read the",
+    "start": 147.12,
+    "duration": 3.6
+  },
+  {
+    "text": "documentation of a language you're not",
+    "start": 148.959,
+    "duration": 3.881
+  },
+  {
+    "text": "just going to know the networking stack",
+    "start": 150.72,
+    "duration": 3.2
+  },
+  {
+    "text": "off the top of your head you have to",
+    "start": 152.84,
+    "duration": 3.24
+  },
+  {
+    "text": "learn how to read Man pages read",
+    "start": 153.92,
+    "duration": 4.28
+  },
+  {
+    "text": "documentation and read how return values",
+    "start": 156.08,
+    "duration": 4.2
+  },
+  {
+    "text": "work in the language of your choosing I",
+    "start": 158.2,
+    "duration": 4.08
+  },
+  {
+    "text": "think learning C teaches you how",
+    "start": 160.28,
+    "duration": 4.92
+  },
+  {
+    "text": "computers work at a fairly high level so",
+    "start": 162.28,
+    "duration": 4.28
+  },
+  {
+    "text": "go and take your programming knowledge",
+    "start": 165.2,
+    "duration": 4.119
+  },
+  {
+    "text": "and learn a language like C as step one",
+    "start": 166.56,
+    "duration": 6.24
+  },
+  {
+    "text": "step two go learn an assembly variant",
+    "start": 169.319,
+    "duration": 4.961
+  },
+  {
+    "text": "I'm not saying you have to be some",
+    "start": 172.8,
+    "duration": 3.2
+  },
+  {
+    "text": "wizard who can just look at an assembly",
+    "start": 174.28,
+    "duration": 3.16
+  },
+  {
+    "text": "blob and tell you exactly what's going",
+    "start": 176.0,
+    "duration": 3.92
+  },
+  {
+    "text": "on as fast as possible I am saying that",
+    "start": 177.44,
+    "duration": 4.68
+  },
+  {
+    "text": "knowing an assembly variant and knowing",
+    "start": 179.92,
+    "duration": 4.239
+  },
+  {
+    "text": "how the CPU works at the instruction",
+    "start": 182.12,
+    "duration": 4.479
+  },
+  {
+    "text": "level gives you a really really good",
+    "start": 184.159,
+    "duration": 3.881
+  },
+  {
+    "text": "understanding of how your code is going",
+    "start": 186.599,
+    "duration": 4.081
+  },
+  {
+    "text": "to behave and also if you can look at a",
+    "start": 188.04,
+    "duration": 5.44
+  },
+  {
+    "text": "blob of c and figure out basically how",
+    "start": 190.68,
+    "duration": 4.08
+  },
+  {
+    "text": "it's going to happen under the hood in",
+    "start": 193.48,
+    "duration": 3.479
+  },
+  {
+    "text": "the CPU architecture it gives you a",
+    "start": 194.76,
+    "duration": 4.6
+  },
+  {
+    "text": "superpower in choosing what code you",
+    "start": 196.959,
+    "duration": 4.081
+  },
+  {
+    "text": "make and deciding how to design your",
+    "start": 199.36,
+    "duration": 3.56
+  },
+  {
+    "text": "code so that it performs better the best",
+    "start": 201.04,
+    "duration": 3.759
+  },
+  {
+    "text": "way you can learn assembly right now is",
+    "start": 202.92,
+    "duration": 3.599
+  },
+  {
+    "text": "by taking this snippet of C code and",
+    "start": 204.799,
+    "duration": 3.401
+  },
+  {
+    "text": "I'll put it in the description below and",
+    "start": 206.519,
+    "duration": 3.8
+  },
+  {
+    "text": "go and compile that in",
+    "start": 208.2,
+    "duration": 4.759
+  },
+  {
+    "text": "if you can object dump this piece of",
+    "start": 210.319,
+    "duration": 4.84
+  },
+  {
+    "text": "code go to the main function in reverse",
+    "start": 212.959,
+    "duration": 4.28
+  },
+  {
+    "text": "engineer how it works you will learn the",
+    "start": 215.159,
+    "duration": 4.561
+  },
+  {
+    "text": "basic 101 of that CPU architecture and",
+    "start": 217.239,
+    "duration": 4.28
+  },
+  {
+    "text": "that will give you a significant",
+    "start": 219.72,
+    "duration": 4.32
+  },
+  {
+    "text": "advantage on how things work and number",
+    "start": 221.519,
+    "duration": 4.561
+  },
+  {
+    "text": "three once you've learned how to code in",
+    "start": 224.04,
+    "duration": 4.52
+  },
+  {
+    "text": "a low-l language once you've begin to",
+    "start": 226.08,
+    "duration": 4.12
+  },
+  {
+    "text": "understand when you write that low-l",
+    "start": 228.56,
+    "duration": 4.039
+  },
+  {
+    "text": "code what architecture code gets spit",
+    "start": 230.2,
+    "duration": 4.28
+  },
+  {
+    "text": "out by the compiler and generally how",
+    "start": 232.599,
+    "duration": 3.72
+  },
+  {
+    "text": "the architecture works I recommend",
+    "start": 234.48,
+    "duration": 4.119
+  },
+  {
+    "text": "learning the basics of reverse",
+    "start": 236.319,
+    "duration": 4.241
+  },
+  {
+    "text": "engineering now this pays off in a",
+    "start": 238.599,
+    "duration": 4.2
+  },
+  {
+    "text": "number of ways one maybe your job is",
+    "start": 240.56,
+    "duration": 4.12
+  },
+  {
+    "text": "just a malware reverse engineer maybe",
+    "start": 242.799,
+    "duration": 3.481
+  },
+  {
+    "text": "you're a Bug Hunter looking for bugs and",
+    "start": 244.68,
+    "duration": 3.96
+  },
+  {
+    "text": "taking binaries apart or maybe you're",
+    "start": 246.28,
+    "duration": 4.319
+  },
+  {
+    "text": "just somebody who is looking at code and",
+    "start": 248.64,
+    "duration": 4.239
+  },
+  {
+    "text": "you can't figure out why it doesn't work",
+    "start": 250.599,
+    "duration": 3.84
+  },
+  {
+    "text": "learning the basics of reverse",
+    "start": 252.879,
+    "duration": 4.48
+  },
+  {
+    "text": "engineering will teach you fundamentally",
+    "start": 254.439,
+    "duration": 5.121
+  },
+  {
+    "text": "not only how things work but how things",
+    "start": 257.359,
+    "duration": 5.081
+  },
+  {
+    "text": "are engineered and what the final output",
+    "start": 259.56,
+    "duration": 5.359
+  },
+  {
+    "text": "of the compiler will be also when you do",
+    "start": 262.44,
+    "duration": 4.199
+  },
+  {
+    "text": "reverse engineering challenges typically",
+    "start": 264.919,
+    "duration": 4.84
+  },
+  {
+    "text": "they're all based around a specific",
+    "start": 266.639,
+    "duration": 4.521
+  },
+  {
+    "text": "thing that you should know or like a",
+    "start": 269.759,
+    "duration": 3.761
+  },
+  {
+    "text": "specific fact like maybe it has to do",
+    "start": 271.16,
+    "duration": 4.759
+  },
+  {
+    "text": "with the Trap flag in the Intel CPU or",
+    "start": 273.52,
+    "duration": 4.239
+  },
+  {
+    "text": "maybe it has to do with the global",
+    "start": 275.919,
+    "duration": 3.441
+  },
+  {
+    "text": "offset table all of these challenges",
+    "start": 277.759,
+    "duration": 3.0
+  },
+  {
+    "text": "teach you a little thing that you can",
+    "start": 279.36,
+    "duration": 2.96
+  },
+  {
+    "text": "kind of put into your toolbox of",
+    "start": 280.759,
+    "duration": 3.481
+  },
+  {
+    "text": "knowledge that over time you'll just",
+    "start": 282.32,
+    "duration": 4.12
+  },
+  {
+    "text": "begin to H have a holistic picture of",
+    "start": 284.24,
+    "duration": 5.64
+  },
+  {
+    "text": "how binaries are how binaries are",
+    "start": 286.44,
+    "duration": 5.96
+  },
+  {
+    "text": "constructed in the Linux operating",
+    "start": 289.88,
+    "duration": 4.159
+  },
+  {
+    "text": "system for example and I highly",
+    "start": 292.4,
+    "duration": 4.04
+  },
+  {
+    "text": "recommend going to crack. one this is",
+    "start": 294.039,
+    "duration": 3.921
+  },
+  {
+    "text": "not sponsored this is not an ad it's",
+    "start": 296.44,
+    "duration": 2.92
+  },
+  {
+    "text": "just a website that I like where there",
+    "start": 297.96,
+    "duration": 3.88
+  },
+  {
+    "text": "are people who write reverse engineering",
+    "start": 299.36,
+    "duration": 4.52
+  },
+  {
+    "text": "challenges and you can download them run",
+    "start": 301.84,
+    "duration": 4.04
+  },
+  {
+    "text": "them on your computer run them in a VM",
+    "start": 303.88,
+    "duration": 3.48
+  },
+  {
+    "text": "because you have no idea if the code is",
+    "start": 305.88,
+    "duration": 3.44
+  },
+  {
+    "text": "malicious or not um but I think these",
+    "start": 307.36,
+    "duration": 4.0
+  },
+  {
+    "text": "challenges are really cool and an easy",
+    "start": 309.32,
+    "duration": 4.92
+  },
+  {
+    "text": "and fast way to learn the skills of",
+    "start": 311.36,
+    "duration": 4.559
+  },
+  {
+    "text": "reverse engineering and ultimately one",
+    "start": 314.24,
+    "duration": 3.32
+  },
+  {
+    "text": "of the lowest level techniques and then",
+    "start": 315.919,
+    "duration": 3.601
+  },
+  {
+    "text": "finally actually number four secret",
+    "start": 317.56,
+    "duration": 4.32
+  },
+  {
+    "text": "bonus um I think that another way to get",
+    "start": 319.52,
+    "duration": 3.959
+  },
+  {
+    "text": "really good at low level stuff is to",
+    "start": 321.88,
+    "duration": 5.36
+  },
+  {
+    "text": "pick up a board to learn to write C on",
+    "start": 323.479,
+    "duration": 6.201
+  },
+  {
+    "text": "that board so this for example is an",
+    "start": 327.24,
+    "duration": 4.72
+  },
+  {
+    "text": "stm32 it's an arm-based board this is",
+    "start": 329.68,
+    "duration": 6.28
+  },
+  {
+    "text": "the stm32 F7 nucleo if you can learn C",
+    "start": 331.96,
+    "duration": 5.56
+  },
+  {
+    "text": "if you then learn an assembly",
+    "start": 335.96,
+    "duration": 4.0
+  },
+  {
+    "text": "architecture if you can then get that",
+    "start": 337.52,
+    "duration": 5.6
+  },
+  {
+    "text": "code to run on a specific architecture",
+    "start": 339.96,
+    "duration": 4.799
+  },
+  {
+    "text": "of microcontroller so again be it like",
+    "start": 343.12,
+    "duration": 4.16
+  },
+  {
+    "text": "an STM maybe an Arduino or risk v-b Bo",
+    "start": 344.759,
+    "duration": 4.681
+  },
+  {
+    "text": "an esp32 something like that it will",
+    "start": 347.28,
+    "duration": 4.8
+  },
+  {
+    "text": "give you the ability to read a data",
+    "start": 349.44,
+    "duration": 4.68
+  },
+  {
+    "text": "sheet to understand how to interpret",
+    "start": 352.08,
+    "duration": 4.04
+  },
+  {
+    "text": "that data sheet and how to crossport",
+    "start": 354.12,
+    "duration": 5.0
+  },
+  {
+    "text": "your code to a board that can run",
+    "start": 356.12,
+    "duration": 4.919
+  },
+  {
+    "text": "somewhere else as Computing gets more",
+    "start": 359.12,
+    "duration": 4.44
+  },
+  {
+    "text": "advanced as computers get older and",
+    "start": 361.039,
+    "duration": 4.801
+  },
+  {
+    "text": "older and they get more technologically",
+    "start": 363.56,
+    "duration": 4.639
+  },
+  {
+    "text": "Superior as time goes on I feel like we",
+    "start": 365.84,
+    "duration": 5.68
+  },
+  {
+    "text": "lose touch with how CPUs work at a basic",
+    "start": 368.199,
+    "duration": 5.801
+  },
+  {
+    "text": "level I can literally take out my iPhone",
+    "start": 371.52,
+    "duration": 4.56
+  },
+  {
+    "text": "and access any information that I need",
+    "start": 374.0,
+    "duration": 4.56
+  },
+  {
+    "text": "to in the world and the whole Magic of",
+    "start": 376.08,
+    "duration": 4.239
+  },
+  {
+    "text": "what's going on we literally tricked",
+    "start": 378.56,
+    "duration": 4.039
+  },
+  {
+    "text": "rocks into thinking I think it's kind of",
+    "start": 380.319,
+    "duration": 4.561
+  },
+  {
+    "text": "lost on us so part of what I made this",
+    "start": 382.599,
+    "duration": 4.44
+  },
+  {
+    "text": "YouTube channel to do is to teach people",
+    "start": 384.88,
+    "duration": 4.84
+  },
+  {
+    "text": "and remind people that you know",
+    "start": 387.039,
+    "duration": 4.201
+  },
+  {
+    "text": "computers work and to make sure that we",
+    "start": 389.72,
+    "duration": 4.56
+  },
+  {
+    "text": "have a cohort of people moving on into",
+    "start": 391.24,
+    "duration": 5.399
+  },
+  {
+    "text": "the future that once the gray beards of",
+    "start": 394.28,
+    "duration": 4.4
+  },
+  {
+    "text": "the world lest tals of the world that",
+    "start": 396.639,
+    "duration": 4.56
+  },
+  {
+    "text": "built these systems move on and possibly",
+    "start": 398.68,
+    "duration": 4.44
+  },
+  {
+    "text": "pass away you know we have the second",
+    "start": 401.199,
+    "duration": 4.641
+  },
+  {
+    "text": "generation of low-l Architects that that",
+    "start": 403.12,
+    "duration": 4.96
+  },
+  {
+    "text": "know how CPUs work so if you think",
+    "start": 405.84,
+    "duration": 3.52
+  },
+  {
+    "text": "that's cool or you enjoyed this video or",
+    "start": 408.08,
+    "duration": 2.839
+  },
+  {
+    "text": "you want to be a part of that cohort hit",
+    "start": 409.36,
+    "duration": 3.559
+  },
+  {
+    "text": "that sub button really appreciate it and",
+    "start": 410.919,
+    "duration": 3.12
+  },
+  {
+    "text": "uh yeah we'll see you guys on the next",
+    "start": 412.919,
+    "duration": 2.28
+  },
+  {
+    "text": "video you can go check out this other",
+    "start": 414.039,
+    "duration": 2.72
+  },
+  {
+    "text": "video that I made about an interview",
+    "start": 415.199,
+    "duration": 3.0
+  },
+  {
+    "text": "question that I got asked it was really",
+    "start": 416.759,
+    "duration": 3.321
+  },
+  {
+    "text": "cool and it taught me actually a lot",
+    "start": 418.199,
+    "duration": 3.361
+  },
+  {
+    "text": "about how CPUs work you can go find that",
+    "start": 420.08,
+    "duration": 6.32
+  },
+  {
+    "text": "out right there see you guys",
+    "start": 421.56,
+    "duration": 4.84
+  }
+]

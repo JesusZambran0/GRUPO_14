@@ -1,0 +1,2237 @@
+[
+  {
+    "text": "this video was brought to you by IND",
+    "start": 0.28,
+    "duration": 5.28
+  },
+  {
+    "text": "dentle IO learning python Made Simple",
+    "start": 2.159,
+    "duration": 5.401
+  },
+  {
+    "text": "how's it going everyone in today's video",
+    "start": 5.56,
+    "duration": 3.959
+  },
+  {
+    "text": "we're going to be covering 10 python",
+    "start": 7.56,
+    "duration": 4.36
+  },
+  {
+    "text": "Concepts that you should know about so",
+    "start": 9.519,
+    "duration": 4.601
+  },
+  {
+    "text": "starting with the first concept after",
+    "start": 11.92,
+    "duration": 3.639
+  },
+  {
+    "text": "you have downloaded python from",
+    "start": 14.12,
+    "duration": 3.76
+  },
+  {
+    "text": "python.org or wherever you downloaded it",
+    "start": 15.559,
+    "duration": 4.401
+  },
+  {
+    "text": "from you can create a file anywhere on",
+    "start": 17.88,
+    "duration": 5.319
+  },
+  {
+    "text": "your computer using the py extension for",
+    "start": 19.96,
+    "duration": 4.8
+  },
+  {
+    "text": "example if we want to create our main",
+    "start": 23.199,
+    "duration": 3.48
+  },
+  {
+    "text": "script we'll just type in main as the",
+    "start": 24.76,
+    "duration": 4.96
+  },
+  {
+    "text": "name and add the py extension this will",
+    "start": 26.679,
+    "duration": 6.281
+  },
+  {
+    "text": "make it a pi file or a python file which",
+    "start": 29.72,
+    "duration": 6.24
+  },
+  {
+    "text": "will be executed by an interpreter in",
+    "start": 32.96,
+    "duration": 5.4
+  },
+  {
+    "text": "Python if you want to create a variable",
+    "start": 35.96,
+    "duration": 5.4
+  },
+  {
+    "text": "you start by typing the variable name",
+    "start": 38.36,
+    "duration": 5.32
+  },
+  {
+    "text": "followed by an equal sign and the value",
+    "start": 41.36,
+    "duration": 4.92
+  },
+  {
+    "text": "that you want to assign to that name for",
+    "start": 43.68,
+    "duration": 5.32
+  },
+  {
+    "text": "example here we can type in Bob and Bob",
+    "start": 46.28,
+    "duration": 4.4
+  },
+  {
+    "text": "might have an age so we can create",
+    "start": 49.0,
+    "duration": 4.76
+  },
+  {
+    "text": "another variable called age and that's",
+    "start": 50.68,
+    "duration": 6.16
+  },
+  {
+    "text": "going to be 20 now if we ever want to",
+    "start": 53.76,
+    "duration": 5.36
+  },
+  {
+    "text": "use these we can just refer to those",
+    "start": 56.84,
+    "duration": 3.76
+  },
+  {
+    "text": "variable names",
+    "start": 59.12,
+    "duration": 4.0
+  },
+  {
+    "text": "instead of hardcoding in the values or",
+    "start": 60.6,
+    "duration": 4.599
+  },
+  {
+    "text": "typing them in by hand each time we want",
+    "start": 63.12,
+    "duration": 4.6
+  },
+  {
+    "text": "to use them for example using the print",
+    "start": 65.199,
+    "duration": 5.721
+  },
+  {
+    "text": "statement we can print the name comma",
+    "start": 67.72,
+    "duration": 5.56
+  },
+  {
+    "text": "age if I can spell that I still can't",
+    "start": 70.92,
+    "duration": 5.04
+  },
+  {
+    "text": "spell that age and when we run it in the",
+    "start": 73.28,
+    "duration": 4.199
+  },
+  {
+    "text": "console you should see that we were able",
+    "start": 75.96,
+    "duration": 4.08
+  },
+  {
+    "text": "to use both of those variables which",
+    "start": 77.479,
+    "duration": 4.121
+  },
+  {
+    "text": "again is quite convenient because we can",
+    "start": 80.04,
+    "duration": 3.96
+  },
+  {
+    "text": "use these anywhere in the program I mean",
+    "start": 81.6,
+    "duration": 4.28
+  },
+  {
+    "text": "another example would be",
+    "start": 84.0,
+    "duration": 6.799
+  },
+  {
+    "text": "hello my name is and then insert name",
+    "start": 85.88,
+    "duration": 7.68
+  },
+  {
+    "text": "and we would get that as an output in",
+    "start": 90.799,
+    "duration": 6.081
+  },
+  {
+    "text": "Python we have many data types and the",
+    "start": 93.56,
+    "duration": 7.64
+  },
+  {
+    "text": "basic data types are integers floats",
+    "start": 96.88,
+    "duration": 7.68
+  },
+  {
+    "text": "strings Boolean which can either be set",
+    "start": 101.2,
+    "duration": 9.0
+  },
+  {
+    "text": "to true or false then we have lists",
+    "start": 104.56,
+    "duration": 10.64
+  },
+  {
+    "text": "tupes sets and dictionaries an integer",
+    "start": 110.2,
+    "duration": 8.519
+  },
+  {
+    "text": "is any whole number while a float is any",
+    "start": 115.2,
+    "duration": 6.32
+  },
+  {
+    "text": "decimal number a string is anything",
+    "start": 118.719,
+    "duration": 4.921
+  },
+  {
+    "text": "that's inside quotes and that can be",
+    "start": 121.52,
+    "duration": 4.279
+  },
+  {
+    "text": "either single quotes or double quotes",
+    "start": 123.64,
+    "duration": 4.64
+  },
+  {
+    "text": "and it just represents text while a",
+    "start": 125.799,
+    "duration": 5.24
+  },
+  {
+    "text": "Boolean is used to represent two states",
+    "start": 128.28,
+    "duration": 6.2
+  },
+  {
+    "text": "either true or false then we have lists",
+    "start": 131.039,
+    "duration": 6.241
+  },
+  {
+    "text": "which can contain an arbitrary amount of",
+    "start": 134.48,
+    "duration": 4.88
+  },
+  {
+    "text": "elements so in case you have a grocery",
+    "start": 137.28,
+    "duration": 4.959
+  },
+  {
+    "text": "list or a list of names we have a way of",
+    "start": 139.36,
+    "duration": 5.4
+  },
+  {
+    "text": "handling that kind of data after we have",
+    "start": 142.239,
+    "duration": 5.241
+  },
+  {
+    "text": "tuples which are a lot like lists except",
+    "start": 144.76,
+    "duration": 4.559
+  },
+  {
+    "text": "they are immutable which means once you",
+    "start": 147.48,
+    "duration": 3.08
+  },
+  {
+    "text": "set the dat",
+    "start": 149.319,
+    "duration": 3.481
+  },
+  {
+    "text": "you can't add anything to it or remove",
+    "start": 150.56,
+    "duration": 4.64
+  },
+  {
+    "text": "anything from it while with lists you",
+    "start": 152.8,
+    "duration": 4.88
+  },
+  {
+    "text": "can perform many operations such as",
+    "start": 155.2,
+    "duration": 5.119
+  },
+  {
+    "text": "adding elements and removing elements",
+    "start": 157.68,
+    "duration": 5.279
+  },
+  {
+    "text": "after that we have sets which are quite",
+    "start": 160.319,
+    "duration": 6.081
+  },
+  {
+    "text": "similar to lists except here you can not",
+    "start": 162.959,
+    "duration": 5.721
+  },
+  {
+    "text": "have any duplicates everything is",
+    "start": 166.4,
+    "duration": 5.32
+  },
+  {
+    "text": "guaranteed to be unique and finally we",
+    "start": 168.68,
+    "duration": 6.04
+  },
+  {
+    "text": "have dictionaries which is the basic way",
+    "start": 171.72,
+    "duration": 5.76
+  },
+  {
+    "text": "of representing key and value pairs so",
+    "start": 174.72,
+    "duration": 4.84
+  },
+  {
+    "text": "here we have a name of Bob and an age of",
+    "start": 177.48,
+    "duration": 4.88
+  },
+  {
+    "text": "20 20 in Python we have the option to",
+    "start": 179.56,
+    "duration": 6.039
+  },
+  {
+    "text": "use type annotations type annotations",
+    "start": 182.36,
+    "duration": 6.04
+  },
+  {
+    "text": "are completely optional and to show you",
+    "start": 185.599,
+    "duration": 4.681
+  },
+  {
+    "text": "what type annotations look like let's",
+    "start": 188.4,
+    "duration": 5.0
+  },
+  {
+    "text": "create a simple example such as name is",
+    "start": 190.28,
+    "duration": 6.239
+  },
+  {
+    "text": "equal to Bob this is obviously a string",
+    "start": 193.4,
+    "duration": 5.119
+  },
+  {
+    "text": "but we can also tell python explicitly",
+    "start": 196.519,
+    "duration": 4.041
+  },
+  {
+    "text": "that this was meant to be a string by",
+    "start": 198.519,
+    "duration": 4.401
+  },
+  {
+    "text": "annotating it with the string type and",
+    "start": 200.56,
+    "duration": 4.52
+  },
+  {
+    "text": "we can do the same thing for the age",
+    "start": 202.92,
+    "duration": 4.48
+  },
+  {
+    "text": "we'll say age of type integer is equal",
+    "start": 205.08,
+    "duration": 5.92
+  },
+  {
+    "text": "to 11 but what you will notice is that",
+    "start": 207.4,
+    "duration": 5.68
+  },
+  {
+    "text": "if we insert something wrong our code",
+    "start": 211.0,
+    "duration": 4.64
+  },
+  {
+    "text": "editor is going to give us a warning",
+    "start": 213.08,
+    "duration": 4.92
+  },
+  {
+    "text": "that we did not pass in the right type",
+    "start": 215.64,
+    "duration": 3.84
+  },
+  {
+    "text": "and when your code gets more and more",
+    "start": 218.0,
+    "duration": 4.0
+  },
+  {
+    "text": "complex These Warnings become a",
+    "start": 219.48,
+    "duration": 4.92
+  },
+  {
+    "text": "lifesaver because as programmers we are",
+    "start": 222.0,
+    "duration": 4.239
+  },
+  {
+    "text": "bound to make mistakes eventually",
+    "start": 224.4,
+    "duration": 4.479
+  },
+  {
+    "text": "whether it's because we are drunk tired",
+    "start": 226.239,
+    "duration": 4.92
+  },
+  {
+    "text": "or just not that attentive we're bound",
+    "start": 228.879,
+    "duration": 4.56
+  },
+  {
+    "text": "to make a mistake eventually and having",
+    "start": 231.159,
+    "duration": 4.881
+  },
+  {
+    "text": "These Warnings help a lot because if we",
+    "start": 233.439,
+    "duration": 4.201
+  },
+  {
+    "text": "did not specify this to be of type",
+    "start": 236.04,
+    "duration": 3.96
+  },
+  {
+    "text": "integer we would not get any warning",
+    "start": 237.64,
+    "duration": 4.0
+  },
+  {
+    "text": "there the code editor would not know",
+    "start": 240.0,
+    "duration": 3.76
+  },
+  {
+    "text": "what we were trying to do so we would be",
+    "start": 241.64,
+    "duration": 4.799
+  },
+  {
+    "text": "able to do that even if it's not what we",
+    "start": 243.76,
+    "duration": 4.759
+  },
+  {
+    "text": "wanted although it's important to point",
+    "start": 246.439,
+    "duration": 5.321
+  },
+  {
+    "text": "out that even if we Define this to be of",
+    "start": 248.519,
+    "duration": 6.36
+  },
+  {
+    "text": "type integer and we assigned it a string",
+    "start": 251.76,
+    "duration": 5.4
+  },
+  {
+    "text": "the program is still going to run as",
+    "start": 254.879,
+    "duration": 5.001
+  },
+  {
+    "text": "normal type annotations do nothing in",
+    "start": 257.16,
+    "duration": 5.4
+  },
+  {
+    "text": "terms of how the program executes they",
+    "start": 259.88,
+    "duration": 5.68
+  },
+  {
+    "text": "are just a tool for the developer and my",
+    "start": 262.56,
+    "duration": 4.8
+  },
+  {
+    "text": "favorite analogy for using type",
+    "start": 265.56,
+    "duration": 4.4
+  },
+  {
+    "text": "annotations is the traffic light if you",
+    "start": 267.36,
+    "duration": 4.2
+  },
+  {
+    "text": "think about it when you're driving a",
+    "start": 269.96,
+    "duration": 3.72
+  },
+  {
+    "text": "traffic light doesn't really do anything",
+    "start": 271.56,
+    "duration": 4.44
+  },
+  {
+    "text": "it just has three callers that tell you",
+    "start": 273.68,
+    "duration": 4.12
+  },
+  {
+    "text": "when it's safe to drive through an",
+    "start": 276.0,
+    "duration": 4.4
+  },
+  {
+    "text": "intersection it doesn't do anything at",
+    "start": 277.8,
+    "duration": 4.08
+  },
+  {
+    "text": "all you can still drive through that",
+    "start": 280.4,
+    "duration": 4.72
+  },
+  {
+    "text": "intersection even if the lights are red",
+    "start": 281.88,
+    "duration": 4.879
+  },
+  {
+    "text": "sometimes that might go well and other",
+    "start": 285.12,
+    "duration": 4.48
+  },
+  {
+    "text": "times you might end up in an accident so",
+    "start": 286.759,
+    "duration": 4.681
+  },
+  {
+    "text": "type annotations are kind of like the",
+    "start": 289.6,
+    "duration": 3.72
+  },
+  {
+    "text": "same thing they do not prevent you from",
+    "start": 291.44,
+    "duration": 3.8
+  },
+  {
+    "text": "making terrible mistakes but they warn",
+    "start": 293.32,
+    "duration": 4.12
+  },
+  {
+    "text": "you that you're about to make a mistake",
+    "start": 295.24,
+    "duration": 4.84
+  },
+  {
+    "text": "moving on constants",
+    "start": 297.44,
+    "duration": 4.52
+  },
+  {
+    "text": "in Python we don't really have any way",
+    "start": 300.08,
+    "duration": 4.64
+  },
+  {
+    "text": "of creating constants but you can use",
+    "start": 301.96,
+    "duration": 5.12
+  },
+  {
+    "text": "type annotations along with the caps",
+    "start": 304.72,
+    "duration": 4.919
+  },
+  {
+    "text": "lock naming convention to show that it",
+    "start": 307.08,
+    "duration": 5.2
+  },
+  {
+    "text": "is a constant for example if we were to",
+    "start": 309.639,
+    "duration": 6.881
+  },
+  {
+    "text": "import from typing the final type we can",
+    "start": 312.28,
+    "duration": 6.8
+  },
+  {
+    "text": "now tell python using type annotations",
+    "start": 316.52,
+    "duration": 4.959
+  },
+  {
+    "text": "that we are creating a constant for",
+    "start": 319.08,
+    "duration": 4.839
+  },
+  {
+    "text": "example we might have a version number",
+    "start": 321.479,
+    "duration": 4.321
+  },
+  {
+    "text": "of type final of type",
+    "start": 323.919,
+    "duration": 4.72
+  },
+  {
+    "text": "string and that's going to equal",
+    "start": 325.8,
+    "duration": 4.72
+  },
+  {
+    "text": "1.0",
+    "start": 328.639,
+    "duration": 4.441
+  },
+  {
+    "text": "12 and that would be the correct way to",
+    "start": 330.52,
+    "duration": 5.679
+  },
+  {
+    "text": "define a constant even without the type",
+    "start": 333.08,
+    "duration": 5.2
+  },
+  {
+    "text": "annotation you will know it's a constant",
+    "start": 336.199,
+    "duration": 4.401
+  },
+  {
+    "text": "by the use of uppercase characters but",
+    "start": 338.28,
+    "duration": 4.6
+  },
+  {
+    "text": "unfortunately we can still change the",
+    "start": 340.6,
+    "duration": 4.12
+  },
+  {
+    "text": "constant so we can say that the version",
+    "start": 342.88,
+    "duration": 3.439
+  },
+  {
+    "text": "is now",
+    "start": 344.72,
+    "duration": 4.12
+  },
+  {
+    "text": "1.1 and your code editor will give you a",
+    "start": 346.319,
+    "duration": 5.081
+  },
+  {
+    "text": "warning only if you're using the final",
+    "start": 348.84,
+    "duration": 4.359
+  },
+  {
+    "text": "type because this type annotation",
+    "start": 351.4,
+    "duration": 4.76
+  },
+  {
+    "text": "explicitly tells the developer that this",
+    "start": 353.199,
+    "duration": 5.201
+  },
+  {
+    "text": "value or this variable should not be",
+    "start": 356.16,
+    "duration": 4.039
+  },
+  {
+    "text": "overwritten so here we're going to get",
+    "start": 358.4,
+    "duration": 3.72
+  },
+  {
+    "text": "that warning but otherwise you can even",
+    "start": 360.199,
+    "duration": 4.881
+  },
+  {
+    "text": "have a constant such as Pi which will be",
+    "start": 362.12,
+    "duration": 7.28
+  },
+  {
+    "text": "of type final of float and that can be",
+    "start": 365.08,
+    "duration": 6.839
+  },
+  {
+    "text": "3.1415 and that's another example of how",
+    "start": 369.4,
+    "duration": 5.0
+  },
+  {
+    "text": "you could create a constant in Python",
+    "start": 371.919,
+    "duration": 4.12
+  },
+  {
+    "text": "next we're going to be looking at how we",
+    "start": 374.4,
+    "duration": 5.239
+  },
+  {
+    "text": "can create reusable code in Python so to",
+    "start": 376.039,
+    "duration": 6.041
+  },
+  {
+    "text": "get started I'm going to import from",
+    "start": 379.639,
+    "duration": 5.521
+  },
+  {
+    "text": "datetime the date and time and what we",
+    "start": 382.08,
+    "duration": 5.2
+  },
+  {
+    "text": "want to do with this is show the user",
+    "start": 385.16,
+    "duration": 4.0
+  },
+  {
+    "text": "the current date and time so we're going",
+    "start": 387.28,
+    "duration": 6.0
+  },
+  {
+    "text": "to print this is the current time and",
+    "start": 389.16,
+    "duration": 7.759
+  },
+  {
+    "text": "we're going to print the datetime dot",
+    "start": 393.28,
+    "duration": 5.639
+  },
+  {
+    "text": "now when we run this we're going to get",
+    "start": 396.919,
+    "duration": 4.4
+  },
+  {
+    "text": "the following output this is the current",
+    "start": 398.919,
+    "duration": 4.761
+  },
+  {
+    "text": "time with the current date and time so",
+    "start": 401.319,
+    "duration": 4.44
+  },
+  {
+    "text": "that works perfectly fine but if we ever",
+    "start": 403.68,
+    "duration": 3.48
+  },
+  {
+    "text": "want to reuse this we're going to have",
+    "start": 405.759,
+    "duration": 4.081
+  },
+  {
+    "text": "to copy and paste this everywhere which",
+    "start": 407.16,
+    "duration": 5.039
+  },
+  {
+    "text": "is a terrible idea because one day you",
+    "start": 409.84,
+    "duration": 5.16
+  },
+  {
+    "text": "might decide what if I wanted to type in",
+    "start": 412.199,
+    "duration": 5.521
+  },
+  {
+    "text": "this is the current time and date or",
+    "start": 415.0,
+    "duration": 5.28
+  },
+  {
+    "text": "date and time well that's perfectly fine",
+    "start": 417.72,
+    "duration": 5.599
+  },
+  {
+    "text": "we updated it where we had to but the",
+    "start": 420.28,
+    "duration": 5.16
+  },
+  {
+    "text": "problem is it did not update in the",
+    "start": 423.319,
+    "duration": 4.401
+  },
+  {
+    "text": "other places which sucks because now we",
+    "start": 425.44,
+    "duration": 5.039
+  },
+  {
+    "text": "need to manually waste our time going",
+    "start": 427.72,
+    "duration": 4.199
+  },
+  {
+    "text": "through our project which could be",
+    "start": 430.479,
+    "duration": 3.72
+  },
+  {
+    "text": "thousands of lines long to fix all the",
+    "start": 431.919,
+    "duration": 4.4
+  },
+  {
+    "text": "occurrences so this is where functions",
+    "start": 434.199,
+    "duration": 3.641
+  },
+  {
+    "text": "come in and in Python to create a",
+    "start": 436.319,
+    "duration": 3.521
+  },
+  {
+    "text": "function we use the dev keyword so here",
+    "start": 437.84,
+    "duration": 5.12
+  },
+  {
+    "text": "we can type in show date and this is",
+    "start": 439.84,
+    "duration": 5.199
+  },
+  {
+    "text": "going to return none and then all we",
+    "start": 442.96,
+    "duration": 4.48
+  },
+  {
+    "text": "need to do is indent this code inside",
+    "start": 445.039,
+    "duration": 4.961
+  },
+  {
+    "text": "the function since python uses uses",
+    "start": 447.44,
+    "duration": 4.0
+  },
+  {
+    "text": "significant",
+    "start": 450.0,
+    "duration": 4.36
+  },
+  {
+    "text": "indentation for its code blocks but now",
+    "start": 451.44,
+    "duration": 4.52
+  },
+  {
+    "text": "thanks to that we can just type in show",
+    "start": 454.36,
+    "duration": 4.8
+  },
+  {
+    "text": "date and duplicate that and no matter",
+    "start": 455.96,
+    "duration": 5.6
+  },
+  {
+    "text": "how many times we use this function it's",
+    "start": 459.16,
+    "duration": 4.28
+  },
+  {
+    "text": "always going to come from the same",
+    "start": 461.56,
+    "duration": 5.039
+  },
+  {
+    "text": "source which means now we can type in",
+    "start": 463.44,
+    "duration": 5.719
+  },
+  {
+    "text": "this is the current date and remove the",
+    "start": 466.599,
+    "duration": 5.28
+  },
+  {
+    "text": "last bit and it will update everywhere",
+    "start": 469.159,
+    "duration": 5.121
+  },
+  {
+    "text": "we use this function otherwise if you",
+    "start": 471.879,
+    "duration": 3.72
+  },
+  {
+    "text": "want to make a function more",
+    "start": 474.28,
+    "duration": 4.56
+  },
+  {
+    "text": "customizable you can provide parameters",
+    "start": 475.599,
+    "duration": 4.88
+  },
+  {
+    "text": "and to do so we can create another",
+    "start": 478.84,
+    "duration": 3.88
+  },
+  {
+    "text": "function called greit that takes a",
+    "start": 480.479,
+    "duration": 5.481
+  },
+  {
+    "text": "parameter called name and that will be",
+    "start": 482.72,
+    "duration": 5.319
+  },
+  {
+    "text": "of type string and once again this will",
+    "start": 485.96,
+    "duration": 5.519
+  },
+  {
+    "text": "return none and inside here we can print",
+    "start": 488.039,
+    "duration": 6.88
+  },
+  {
+    "text": "the F string of hello name so that the",
+    "start": 491.479,
+    "duration": 4.881
+  },
+  {
+    "text": "next time we want to use this function",
+    "start": 494.919,
+    "duration": 5.12
+  },
+  {
+    "text": "we can say greet Bob duplicate that and",
+    "start": 496.36,
+    "duration": 6.36
+  },
+  {
+    "text": "greet Luigi and that will greet both of",
+    "start": 500.039,
+    "duration": 5.16
+  },
+  {
+    "text": "them using the parameter that we have",
+    "start": 502.72,
+    "duration": 4.36
+  },
+  {
+    "text": "specified which is really nice because",
+    "start": 505.199,
+    "duration": 3.84
+  },
+  {
+    "text": "once again if we ever need to apply any",
+    "start": 507.08,
+    "duration": 4.559
+  },
+  {
+    "text": "changes we can do so here we can say",
+    "start": 509.039,
+    "duration": 6.0
+  },
+  {
+    "text": "ciao instead of hello and the next time",
+    "start": 511.639,
+    "duration": 5.801
+  },
+  {
+    "text": "we run this we will get two outputs with",
+    "start": 515.039,
+    "duration": 5.321
+  },
+  {
+    "text": "that update and functions can even",
+    "start": 517.44,
+    "duration": 5.279
+  },
+  {
+    "text": "return results for example we might have",
+    "start": 520.36,
+    "duration": 4.64
+  },
+  {
+    "text": "a function called add that takes a of",
+    "start": 522.719,
+    "duration": 4.841
+  },
+  {
+    "text": "type float and B of type float because",
+    "start": 525.0,
+    "duration": 3.92
+  },
+  {
+    "text": "we want to add these two numbers",
+    "start": 527.56,
+    "duration": 3.279
+  },
+  {
+    "text": "together and the intention with this is",
+    "start": 528.92,
+    "duration": 4.96
+  },
+  {
+    "text": "to return a float well to do so you just",
+    "start": 530.839,
+    "duration": 6.12
+  },
+  {
+    "text": "need to return that data type so a plus",
+    "start": 533.88,
+    "duration": 5.639
+  },
+  {
+    "text": "b and now if we were to print let's say",
+    "start": 536.959,
+    "duration": 5.12
+  },
+  {
+    "text": "say add one and",
+    "start": 539.519,
+    "duration": 5.44
+  },
+  {
+    "text": "two this function would return a result",
+    "start": 542.079,
+    "duration": 5.681
+  },
+  {
+    "text": "which means calling this function will",
+    "start": 544.959,
+    "duration": 5.44
+  },
+  {
+    "text": "give us back the result of three and",
+    "start": 547.76,
+    "duration": 4.44
+  },
+  {
+    "text": "it's actually optional to define a",
+    "start": 550.399,
+    "duration": 4.481
+  },
+  {
+    "text": "return type it just once again makes our",
+    "start": 552.2,
+    "duration": 4.879
+  },
+  {
+    "text": "code much more safe because if for",
+    "start": 554.88,
+    "duration": 4.92
+  },
+  {
+    "text": "whatever reason we return the string",
+    "start": 557.079,
+    "duration": 6.32
+  },
+  {
+    "text": "of hello our code editor is going to",
+    "start": 559.8,
+    "duration": 6.52
+  },
+  {
+    "text": "complain that hello was the wrong type",
+    "start": 563.399,
+    "duration": 4.321
+  },
+  {
+    "text": "and if your function doesn't return",
+    "start": 566.32,
+    "duration": 2.639
+  },
+  {
+    "text": "anything for example if you're just",
+    "start": 567.72,
+    "duration": 3.64
+  },
+  {
+    "text": "printing hello you can explicitly say",
+    "start": 568.959,
+    "duration": 4.641
+  },
+  {
+    "text": "that you are returning none which just",
+    "start": 571.36,
+    "duration": 4.599
+  },
+  {
+    "text": "tells the developer that this function",
+    "start": 573.6,
+    "duration": 4.64
+  },
+  {
+    "text": "was only meant to be run and that they",
+    "start": 575.959,
+    "duration": 5.081
+  },
+  {
+    "text": "should not expect a return value from it",
+    "start": 578.24,
+    "duration": 6.159
+  },
+  {
+    "text": "moving on we have the concept of classes",
+    "start": 581.04,
+    "duration": 5.6
+  },
+  {
+    "text": "and to break down what a class is a",
+    "start": 584.399,
+    "duration": 5.56
+  },
+  {
+    "text": "class is just a blueprint for code but",
+    "start": 586.64,
+    "duration": 5.36
+  },
+  {
+    "text": "let's get started by creating the main",
+    "start": 589.959,
+    "duration": 4.641
+  },
+  {
+    "text": "components of a class to see how it",
+    "start": 592.0,
+    "duration": 5.279
+  },
+  {
+    "text": "works and in Python to define a class we",
+    "start": 594.6,
+    "duration": 6.12
+  },
+  {
+    "text": "use the class keyword followed by a name",
+    "start": 597.279,
+    "duration": 5.881
+  },
+  {
+    "text": "starting with an uppercase character and",
+    "start": 600.72,
+    "duration": 5.0
+  },
+  {
+    "text": "this is how you would create a class now",
+    "start": 603.16,
+    "duration": 4.6
+  },
+  {
+    "text": "obviously it would be much more useful",
+    "start": 605.72,
+    "duration": 3.88
+  },
+  {
+    "text": "if this class could do something because",
+    "start": 607.76,
+    "duration": 4.519
+  },
+  {
+    "text": "all we did is insert an ellipses as a",
+    "start": 609.6,
+    "duration": 4.72
+  },
+  {
+    "text": "placeholder so what we're going to do",
+    "start": 612.279,
+    "duration": 5.321
+  },
+  {
+    "text": "instead of that is Define an initializer",
+    "start": 614.32,
+    "duration": 6.079
+  },
+  {
+    "text": "and an initializer is used to set up an",
+    "start": 617.6,
+    "duration": 5.479
+  },
+  {
+    "text": "instance of the class which means we're",
+    "start": 620.399,
+    "duration": 4.481
+  },
+  {
+    "text": "going to create an object from this",
+    "start": 623.079,
+    "duration": 4.361
+  },
+  {
+    "text": "class using some specific information",
+    "start": 624.88,
+    "duration": 4.24
+  },
+  {
+    "text": "and the specific information we want to",
+    "start": 627.44,
+    "duration": 4.24
+  },
+  {
+    "text": "use use for each one of these cars in",
+    "start": 629.12,
+    "duration": 4.88
+  },
+  {
+    "text": "this class is what color the car should",
+    "start": 631.68,
+    "duration": 4.52
+  },
+  {
+    "text": "be which will be of type string and how",
+    "start": 634.0,
+    "duration": 4.839
+  },
+  {
+    "text": "much horsepower that car has which will",
+    "start": 636.2,
+    "duration": 5.48
+  },
+  {
+    "text": "be of type integer and initializers",
+    "start": 638.839,
+    "duration": 5.321
+  },
+  {
+    "text": "return none by default and they will",
+    "start": 641.68,
+    "duration": 4.719
+  },
+  {
+    "text": "always return none but personally I love",
+    "start": 644.16,
+    "duration": 4.04
+  },
+  {
+    "text": "to specify that now inside the",
+    "start": 646.399,
+    "duration": 3.841
+  },
+  {
+    "text": "initializer we need to assign these",
+    "start": 648.2,
+    "duration": 5.24
+  },
+  {
+    "text": "values to the instance of the car and to",
+    "start": 650.24,
+    "duration": 5.279
+  },
+  {
+    "text": "do so we need to use the self keyword so",
+    "start": 653.44,
+    "duration": 5.519
+  },
+  {
+    "text": "self. Cola is going to equal Cola and",
+    "start": 655.519,
+    "duration": 6.201
+  },
+  {
+    "text": "self . horsepower is going to equal",
+    "start": 658.959,
+    "duration": 4.56
+  },
+  {
+    "text": "horsepower now with that being done we",
+    "start": 661.72,
+    "duration": 4.559
+  },
+  {
+    "text": "can create a car called Volvo which will",
+    "start": 663.519,
+    "duration": 5.201
+  },
+  {
+    "text": "be of type car and the car is going to",
+    "start": 666.279,
+    "duration": 6.281
+  },
+  {
+    "text": "be a red car with 200 horsepower so this",
+    "start": 668.72,
+    "duration": 6.679
+  },
+  {
+    "text": "part here is what we refer to as an",
+    "start": 672.56,
+    "duration": 5.399
+  },
+  {
+    "text": "instance of the class or an object of",
+    "start": 675.399,
+    "duration": 4.44
+  },
+  {
+    "text": "the class because we are instantiating",
+    "start": 677.959,
+    "duration": 3.721
+  },
+  {
+    "text": "it with this specific information so",
+    "start": 679.839,
+    "duration": 5.44
+  },
+  {
+    "text": "that we can have a customized object and",
+    "start": 681.68,
+    "duration": 5.2
+  },
+  {
+    "text": "what that means is that we can type in",
+    "start": 685.279,
+    "duration": 5.441
+  },
+  {
+    "text": "Volvo and refer to the cola or be more",
+    "start": 686.88,
+    "duration": 7.56
+  },
+  {
+    "text": "fitting to print that and also the",
+    "start": 690.72,
+    "duration": 5.799
+  },
+  {
+    "text": "horsepower we can refer to those",
+    "start": 694.44,
+    "duration": 4.0
+  },
+  {
+    "text": "attributes which are related to the",
+    "start": 696.519,
+    "duration": 3.801
+  },
+  {
+    "text": "instance so that when we run this we",
+    "start": 698.44,
+    "duration": 4.079
+  },
+  {
+    "text": "will get that information back as you",
+    "start": 700.32,
+    "duration": 3.36
+  },
+  {
+    "text": "could see the class was just the",
+    "start": 702.519,
+    "duration": 3.641
+  },
+  {
+    "text": "blueprint for how that car should look",
+    "start": 703.68,
+    "duration": 4.12
+  },
+  {
+    "text": "and with that blueprint we can create",
+    "start": 706.16,
+    "duration": 4.08
+  },
+  {
+    "text": "several cars and it just simplifies that",
+    "start": 707.8,
+    "duration": 5.0
+  },
+  {
+    "text": "process so instead of having a Volvo or",
+    "start": 710.24,
+    "duration": 4.2
+  },
+  {
+    "text": "in addition we could also have another",
+    "start": 712.8,
+    "duration": 5.92
+  },
+  {
+    "text": "car called BMW which would be blue and",
+    "start": 714.44,
+    "duration": 6.56
+  },
+  {
+    "text": "it would have the the horsepower of",
+    "start": 718.72,
+    "duration": 6.2
+  },
+  {
+    "text": "240 now we could print BMW with the",
+    "start": 721.0,
+    "duration": 7.56
+  },
+  {
+    "text": "cola and horsepower and we would get the",
+    "start": 724.92,
+    "duration": 7.159
+  },
+  {
+    "text": "output for the BMW as well so classes",
+    "start": 728.56,
+    "duration": 6.399
+  },
+  {
+    "text": "simplify the process of creating objects",
+    "start": 732.079,
+    "duration": 5.641
+  },
+  {
+    "text": "or code that has to be duplicated a lot",
+    "start": 734.959,
+    "duration": 4.361
+  },
+  {
+    "text": "because otherwise it would be quite",
+    "start": 737.72,
+    "duration": 3.28
+  },
+  {
+    "text": "difficult to create many different CS",
+    "start": 739.32,
+    "duration": 4.199
+  },
+  {
+    "text": "that all share the same attributes or",
+    "start": 741.0,
+    "duration": 4.36
+  },
+  {
+    "text": "the same properties but I'm going to",
+    "start": 743.519,
+    "duration": 3.921
+  },
+  {
+    "text": "remove all of this because what we're",
+    "start": 745.36,
+    "duration": 6.08
+  },
+  {
+    "text": "going to do next is learn about methods",
+    "start": 747.44,
+    "duration": 6.28
+  },
+  {
+    "text": "and instead of cola I'm going to change",
+    "start": 751.44,
+    "duration": 6.0
+  },
+  {
+    "text": "this to brand and the brand for Volvo is",
+    "start": 753.72,
+    "duration": 6.32
+  },
+  {
+    "text": "obviously going to be Volvo anyway with",
+    "start": 757.44,
+    "duration": 5.199
+  },
+  {
+    "text": "this we can actually go down inside our",
+    "start": 760.04,
+    "duration": 6.64
+  },
+  {
+    "text": "class and Define a function and a method",
+    "start": 762.639,
+    "duration": 7.081
+  },
+  {
+    "text": "is just a function that's inside a class",
+    "start": 766.68,
+    "duration": 4.56
+  },
+  {
+    "text": "anyway here we're going to create a",
+    "start": 769.72,
+    "duration": 3.88
+  },
+  {
+    "text": "method called drive and that's going to",
+    "start": 771.24,
+    "duration": 4.08
+  },
+  {
+    "text": "return none because what we're going to",
+    "start": 773.6,
+    "duration": 6.96
+  },
+  {
+    "text": "do is print that the self. brand is",
+    "start": 775.32,
+    "duration": 7.36
+  },
+  {
+    "text": "driving and what's important to note",
+    "start": 780.56,
+    "duration": 4.0
+  },
+  {
+    "text": "here is that we have self written",
+    "start": 782.68,
+    "duration": 5.24
+  },
+  {
+    "text": "everywhere and self refers to the",
+    "start": 784.56,
+    "duration": 5.399
+  },
+  {
+    "text": "instance of the class so here we have a",
+    "start": 787.92,
+    "duration": 4.88
+  },
+  {
+    "text": "Volvo and we are referring to its",
+    "start": 789.959,
+    "duration": 5.56
+  },
+  {
+    "text": "attributes so in other words self is the",
+    "start": 792.8,
+    "duration": 5.56
+  },
+  {
+    "text": "Volvo and if we had a BMW self would be",
+    "start": 795.519,
+    "duration": 6.361
+  },
+  {
+    "text": "the BMW it refers to the instance so if",
+    "start": 798.36,
+    "duration": 5.0
+  },
+  {
+    "text": "you actually want to refer to these",
+    "start": 801.88,
+    "duration": 3.319
+  },
+  {
+    "text": "values you're going to have to use the",
+    "start": 803.36,
+    "duration": 3.919
+  },
+  {
+    "text": "self keyword but we'll create one more",
+    "start": 805.199,
+    "duration": 6.0
+  },
+  {
+    "text": "method called get info and that's going",
+    "start": 807.279,
+    "duration": 6.521
+  },
+  {
+    "text": "to return none because we're going to",
+    "start": 811.199,
+    "duration": 6.76
+  },
+  {
+    "text": "print self. brand with",
+    "start": 813.8,
+    "duration": 8.039
+  },
+  {
+    "text": "self. horsepower horsepower and that's",
+    "start": 817.959,
+    "duration": 6.281
+  },
+  {
+    "text": "going to be our entire class now we have",
+    "start": 821.839,
+    "duration": 5.44
+  },
+  {
+    "text": "a class with some attributes and some",
+    "start": 824.24,
+    "duration": 5.8
+  },
+  {
+    "text": "methods so with that we can type in",
+    "start": 827.279,
+    "duration": 5.721
+  },
+  {
+    "text": "Volvo do drive and",
+    "start": 830.04,
+    "duration": 7.64
+  },
+  {
+    "text": "Volvo do get info these are methods that",
+    "start": 833.0,
+    "duration": 7.68
+  },
+  {
+    "text": "we can use on that that instance and",
+    "start": 837.68,
+    "duration": 4.839
+  },
+  {
+    "text": "when we run that we're going to see that",
+    "start": 840.68,
+    "duration": 4.279
+  },
+  {
+    "text": "the Volvo is driving and that it's a",
+    "start": 842.519,
+    "duration": 5.12
+  },
+  {
+    "text": "Volvo with 200 horsepower and this can",
+    "start": 844.959,
+    "duration": 6.24
+  },
+  {
+    "text": "be used with any object of this class so",
+    "start": 847.639,
+    "duration": 6.041
+  },
+  {
+    "text": "if we were to have a BMW once again",
+    "start": 851.199,
+    "duration": 5.32
+  },
+  {
+    "text": "which will be of type car and that was",
+    "start": 853.68,
+    "duration": 7.12
+  },
+  {
+    "text": "to be BMW with the 240 horsepower we can",
+    "start": 856.519,
+    "duration": 6.521
+  },
+  {
+    "text": "now drive that",
+    "start": 860.8,
+    "duration": 6.08
+  },
+  {
+    "text": "BMW as you can see the BMW is driving",
+    "start": 863.04,
+    "duration": 5.68
+  },
+  {
+    "text": "and also you're not limited to just",
+    "start": 866.88,
+    "duration": 4.68
+  },
+  {
+    "text": "using the information inside the class",
+    "start": 868.72,
+    "duration": 5.039
+  },
+  {
+    "text": "but you can also Define your own",
+    "start": 871.56,
+    "duration": 5.24
+  },
+  {
+    "text": "parameters in methods so after the self",
+    "start": 873.759,
+    "duration": 6.281
+  },
+  {
+    "text": "keyword anything you type in is going to",
+    "start": 876.8,
+    "duration": 5.68
+  },
+  {
+    "text": "be a normal parameter and I'm just going",
+    "start": 880.04,
+    "duration": 4.76
+  },
+  {
+    "text": "to call this variable of type integer",
+    "start": 882.48,
+    "duration": 4.4
+  },
+  {
+    "text": "just as an example to show you that we",
+    "start": 884.8,
+    "duration": 5.2
+  },
+  {
+    "text": "can now use that and to refer to it you",
+    "start": 886.88,
+    "duration": 4.879
+  },
+  {
+    "text": "do not use the self keyword because this",
+    "start": 890.0,
+    "duration": 5.079
+  },
+  {
+    "text": "is included inside the method signature",
+    "start": 891.759,
+    "duration": 5.08
+  },
+  {
+    "text": "so now the next time we actually use get",
+    "start": 895.079,
+    "duration": 4.68
+  },
+  {
+    "text": "info we're going to have to also give it",
+    "start": 896.839,
+    "duration": 5.881
+  },
+  {
+    "text": "a value and I'm going to remove the BMW",
+    "start": 899.759,
+    "duration": 5.401
+  },
+  {
+    "text": "and run this so as you can see now we",
+    "start": 902.72,
+    "duration": 5.08
+  },
+  {
+    "text": "have 10 and Volvo with 200",
+    "start": 905.16,
+    "duration": 5.08
+  },
+  {
+    "text": "horsepower we were able to use this",
+    "start": 907.8,
+    "duration": 4.52
+  },
+  {
+    "text": "information inside the method just by",
+    "start": 910.24,
+    "duration": 4.12
+  },
+  {
+    "text": "including it as a parameter but let's",
+    "start": 912.32,
+    "duration": 4.24
+  },
+  {
+    "text": "remove all of that because the final",
+    "start": 914.36,
+    "duration": 3.919
+  },
+  {
+    "text": "concept I want to talk about in this",
+    "start": 916.56,
+    "duration": 5.12
+  },
+  {
+    "text": "video is the concept of Dunder methods",
+    "start": 918.279,
+    "duration": 5.321
+  },
+  {
+    "text": "and we're still going to have our Volvo",
+    "start": 921.68,
+    "duration": 5.12
+  },
+  {
+    "text": "car for this but uh right now I want to",
+    "start": 923.6,
+    "duration": 5.44
+  },
+  {
+    "text": "show you that if we were to print Volvo",
+    "start": 926.8,
+    "duration": 5.36
+  },
+  {
+    "text": "as it is what we're going to get back is",
+    "start": 929.04,
+    "duration": 6.12
+  },
+  {
+    "text": "a car object which is located at this",
+    "start": 932.16,
+    "duration": 5.359
+  },
+  {
+    "text": "memory address and that information",
+    "start": 935.16,
+    "duration": 5.0
+  },
+  {
+    "text": "isn't that useful to anyone who's not a",
+    "start": 937.519,
+    "duration": 4.601
+  },
+  {
+    "text": "programmer what if we actually want to",
+    "start": 940.16,
+    "duration": 3.919
+  },
+  {
+    "text": "get back the information that's inside",
+    "start": 942.12,
+    "duration": 4.76
+  },
+  {
+    "text": "the car well we can do so using a Dunder",
+    "start": 944.079,
+    "duration": 5.68
+  },
+  {
+    "text": "method and a Dunder method is just a",
+    "start": 946.88,
+    "duration": 5.959
+  },
+  {
+    "text": "double uncore method so here we're going",
+    "start": 949.759,
+    "duration": 5.64
+  },
+  {
+    "text": "to define the string Dunder method and",
+    "start": 952.839,
+    "duration": 5.521
+  },
+  {
+    "text": "this is going to return a string so what",
+    "start": 955.399,
+    "duration": 5.841
+  },
+  {
+    "text": "we're going to do is return the F string",
+    "start": 958.36,
+    "duration": 6.599
+  },
+  {
+    "text": "of self. brand and self.",
+    "start": 961.24,
+    "duration": 6.44
+  },
+  {
+    "text": "horsepower HP now the next time we try",
+    "start": 964.959,
+    "duration": 5.201
+  },
+  {
+    "text": "to print this Volvo what you're going to",
+    "start": 967.68,
+    "duration": 4.48
+  },
+  {
+    "text": "notice is that we're not going to get",
+    "start": 970.16,
+    "duration": 4.239
+  },
+  {
+    "text": "that complex object back but we're",
+    "start": 972.16,
+    "duration": 3.84
+  },
+  {
+    "text": "actually going to get the string that we",
+    "start": 974.399,
+    "duration": 3.56
+  },
+  {
+    "text": "specified because now in any situation",
+    "start": 976.0,
+    "duration": 4.8
+  },
+  {
+    "text": "we refer to it as a string it's going to",
+    "start": 977.959,
+    "duration": 5.8
+  },
+  {
+    "text": "use the string dander method and another",
+    "start": 980.8,
+    "duration": 5.599
+  },
+  {
+    "text": "example of a d method would be if we",
+    "start": 983.759,
+    "duration": 4.88
+  },
+  {
+    "text": "wanted to add cars together we could use",
+    "start": 986.399,
+    "duration": 4.641
+  },
+  {
+    "text": "the add Dunder method so this is going",
+    "start": 988.639,
+    "duration": 5.0
+  },
+  {
+    "text": "to take self and other which is going to",
+    "start": 991.04,
+    "duration": 5.32
+  },
+  {
+    "text": "be the object that we want to add to the",
+    "start": 993.639,
+    "duration": 3.64
+  },
+  {
+    "text": "current",
+    "start": 996.36,
+    "duration": 3.0
+  },
+  {
+    "text": "object and for this example we're just",
+    "start": 997.279,
+    "duration": 4.881
+  },
+  {
+    "text": "going to return a string why not so what",
+    "start": 999.36,
+    "duration": 6.0
+  },
+  {
+    "text": "we're going to do is return the F string",
+    "start": 1002.16,
+    "duration": 5.56
+  },
+  {
+    "text": "of self. brand",
+    "start": 1005.36,
+    "duration": 5.399
+  },
+  {
+    "text": "and other. brand and if you actually",
+    "start": 1007.72,
+    "duration": 4.44
+  },
+  {
+    "text": "want your code Editor to give you",
+    "start": 1010.759,
+    "duration": 3.841
+  },
+  {
+    "text": "suggestions for this you would have to",
+    "start": 1012.16,
+    "duration": 5.64
+  },
+  {
+    "text": "annotate this as self which can be",
+    "start": 1014.6,
+    "duration": 6.32
+  },
+  {
+    "text": "imported from the typing module so from",
+    "start": 1017.8,
+    "duration": 6.56
+  },
+  {
+    "text": "typing import self other of type",
+    "start": 1020.92,
+    "duration": 6.68
+  },
+  {
+    "text": "self and that will lead you to this code",
+    "start": 1024.36,
+    "duration": 5.559
+  },
+  {
+    "text": "completion which contains brand and",
+    "start": 1027.6,
+    "duration": 4.4
+  },
+  {
+    "text": "horsepower anyway to make this work",
+    "start": 1029.919,
+    "duration": 3.52
+  },
+  {
+    "text": "we're going to have to create another",
+    "start": 1032.0,
+    "duration": 4.52
+  },
+  {
+    "text": "car called BMW of type car which will",
+    "start": 1033.439,
+    "duration": 4.12
+  },
+  {
+    "text": "equal a",
+    "start": 1036.52,
+    "duration": 6.0
+  },
+  {
+    "text": "car called BMW with 240 horsepower next",
+    "start": 1037.559,
+    "duration": 6.921
+  },
+  {
+    "text": "we can print",
+    "start": 1042.52,
+    "duration": 5.72
+  },
+  {
+    "text": "Volvo plus BMW and this thunder method",
+    "start": 1044.48,
+    "duration": 4.88
+  },
+  {
+    "text": "is going to take care of the",
+    "start": 1048.24,
+    "duration": 4.04
+  },
+  {
+    "text": "functionality of plus which means that",
+    "start": 1049.36,
+    "duration": 4.12
+  },
+  {
+    "text": "when we run this we're going to get",
+    "start": 1052.28,
+    "duration": 4.639
+  },
+  {
+    "text": "Volvo and BMW as an output without this",
+    "start": 1053.48,
+    "duration": 6.439
+  },
+  {
+    "text": "Dunder method Python's not going to know",
+    "start": 1056.919,
+    "duration": 5.401
+  },
+  {
+    "text": "how to handle this because it does not",
+    "start": 1059.919,
+    "duration": 4.561
+  },
+  {
+    "text": "define the add Dunder method and it",
+    "start": 1062.32,
+    "duration": 4.2
+  },
+  {
+    "text": "actually wants you about that but if we",
+    "start": 1064.48,
+    "duration": 3.84
+  },
+  {
+    "text": "were to run it anyway once again it",
+    "start": 1066.52,
+    "duration": 4.08
+  },
+  {
+    "text": "would not know how to do that so you can",
+    "start": 1068.32,
+    "duration": 4.28
+  },
+  {
+    "text": "choose to Define that in your class and",
+    "start": 1070.6,
+    "duration": 3.84
+  },
+  {
+    "text": "then it will work properly and it's",
+    "start": 1072.6,
+    "duration": 3.88
+  },
+  {
+    "text": "worth mentioning that there are a lot of",
+    "start": 1074.44,
+    "duration": 4.88
+  },
+  {
+    "text": "Dunder methods worth researching because",
+    "start": 1076.48,
+    "duration": 5.0
+  },
+  {
+    "text": "obviously maybe in the future you will",
+    "start": 1079.32,
+    "duration": 4.64
+  },
+  {
+    "text": "want to multiply cars so for all of",
+    "start": 1081.48,
+    "duration": 4.76
+  },
+  {
+    "text": "these operations there's a Dunder method",
+    "start": 1083.96,
+    "duration": 5.68
+  },
+  {
+    "text": "for them such as multiply and once you",
+    "start": 1086.24,
+    "duration": 5.96
+  },
+  {
+    "text": "define that you'll be able to use this",
+    "start": 1089.64,
+    "duration": 4.72
+  },
+  {
+    "text": "comfortably but yeah those were 10",
+    "start": 1092.2,
+    "duration": 5.28
+  },
+  {
+    "text": "python Concepts that are quite important",
+    "start": 1094.36,
+    "duration": 5.36
+  },
+  {
+    "text": "and this video was just an introduction",
+    "start": 1097.48,
+    "duration": 4.6
+  },
+  {
+    "text": "to them I still recommend you study",
+    "start": 1099.72,
+    "duration": 4.6
+  },
+  {
+    "text": "these Concepts more thoroughly do some",
+    "start": 1102.08,
+    "duration": 4.0
+  },
+  {
+    "text": "more research online watch some other",
+    "start": 1104.32,
+    "duration": 3.839
+  },
+  {
+    "text": "YouTube videos regarding them but",
+    "start": 1106.08,
+    "duration": 3.92
+  },
+  {
+    "text": "otherwise it should have been a great",
+    "start": 1108.159,
+    "duration": 4.0
+  },
+  {
+    "text": "starting point for how the concepts in",
+    "start": 1110.0,
+    "duration": 5.2
+  },
+  {
+    "text": "Python actually work so yeah let me know",
+    "start": 1112.159,
+    "duration": 4.241
+  },
+  {
+    "text": "in the comment section down below",
+    "start": 1115.2,
+    "duration": 3.64
+  },
+  {
+    "text": "whether you have any other questions or",
+    "start": 1116.4,
+    "duration": 4.279
+  },
+  {
+    "text": "whether some Concepts should have had",
+    "start": 1118.84,
+    "duration": 4.8
+  },
+  {
+    "text": "some more explanation but otherwise with",
+    "start": 1120.679,
+    "duration": 5.321
+  },
+  {
+    "text": "all that being said as always thanks for",
+    "start": 1123.64,
+    "duration": 4.039
+  },
+  {
+    "text": "watching and I'll see you in the next",
+    "start": 1126.0,
+    "duration": 4.679
+  },
+  {
+    "text": "video",
+    "start": 1127.679,
+    "duration": 3.0
+  }
+]

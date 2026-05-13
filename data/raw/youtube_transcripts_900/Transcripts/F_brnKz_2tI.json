@@ -1,0 +1,1302 @@
+[
+  {
+    "text": "so Matt I'm going to go and turn on the",
+    "start": 2.08,
+    "duration": 4.52
+  },
+  {
+    "text": "arm try and go",
+    "start": 3.96,
+    "duration": 5.4
+  },
+  {
+    "text": "up okay and back",
+    "start": 6.6,
+    "duration": 5.199
+  },
+  {
+    "text": "down this is the most complex robotic",
+    "start": 9.36,
+    "duration": 5.12
+  },
+  {
+    "text": "arm in existence today you can control",
+    "start": 11.799,
+    "duration": 5.761
+  },
+  {
+    "text": "that using thought from the brain as",
+    "start": 14.48,
+    "duration": 5.6
+  },
+  {
+    "text": "humans we are tool users and every time",
+    "start": 17.56,
+    "duration": 5.12
+  },
+  {
+    "text": "we invent a new tool that changes the",
+    "start": 20.08,
+    "duration": 6.76
+  },
+  {
+    "text": "way we live",
+    "start": 22.68,
+    "duration": 4.16
+  },
+  {
+    "text": "[Music]",
+    "start": 32.75,
+    "duration": 3.1
+  },
+  {
+    "text": "outside of Baltimore Maryland the",
+    "start": 39.2,
+    "duration": 3.879
+  },
+  {
+    "text": "Applied Physics laboratory a branch of",
+    "start": 40.96,
+    "duration": 4.8
+  },
+  {
+    "text": "John's Hopkins University is an unlikely",
+    "start": 43.079,
+    "duration": 4.48
+  },
+  {
+    "text": "incubator for robotics that are pushing",
+    "start": 45.76,
+    "duration": 4.04
+  },
+  {
+    "text": "the limits of human machine interfaces",
+    "start": 47.559,
+    "duration": 4.081
+  },
+  {
+    "text": "thanks in part to a DARPA program",
+    "start": 49.8,
+    "duration": 4.72
+  },
+  {
+    "text": "started in 2005 Engineers have developed",
+    "start": 51.64,
+    "duration": 5.719
+  },
+  {
+    "text": "the modular prosthetic limb a bionic arm",
+    "start": 54.52,
+    "duration": 4.92
+  },
+  {
+    "text": "that responds to human thought creating",
+    "start": 57.359,
+    "duration": 4.0
+  },
+  {
+    "text": "a new gen ER ation of Robotics that can",
+    "start": 59.44,
+    "duration": 3.919
+  },
+  {
+    "text": "seamlessly integrate with our bodies",
+    "start": 61.359,
+    "duration": 4.201
+  },
+  {
+    "text": "this technology is still relatively new",
+    "start": 63.359,
+    "duration": 3.921
+  },
+  {
+    "text": "and the effects that robotic bodies will",
+    "start": 65.56,
+    "duration": 3.84
+  },
+  {
+    "text": "have on our future are already raising",
+    "start": 67.28,
+    "duration": 5.12
+  },
+  {
+    "text": "serious social and ethical questions",
+    "start": 69.4,
+    "duration": 5.0
+  },
+  {
+    "text": "there's a lot of interest in how this is",
+    "start": 72.4,
+    "duration": 4.88
+  },
+  {
+    "text": "affecting the way we evolve where's this",
+    "start": 74.4,
+    "duration": 4.92
+  },
+  {
+    "text": "all go in the future you know I think",
+    "start": 77.28,
+    "duration": 5.08
+  },
+  {
+    "text": "we're just at the beginning it could be",
+    "start": 79.32,
+    "duration": 5.0
+  },
+  {
+    "text": "tremendous scientists are trying to",
+    "start": 82.36,
+    "duration": 4.119
+  },
+  {
+    "text": "bridge the gap but it's the patience",
+    "start": 84.32,
+    "duration": 3.479
+  },
+  {
+    "text": "that will push the limits of this",
+    "start": 86.479,
+    "duration": 3.68
+  },
+  {
+    "text": "technology forward",
+    "start": 87.799,
+    "duration": 3.68
+  },
+  {
+    "text": "we went to Baltimore to meet with",
+    "start": 90.159,
+    "duration": 4.161
+  },
+  {
+    "text": "Melissa Lumis an amput from Ohio who is",
+    "start": 91.479,
+    "duration": 4.481
+  },
+  {
+    "text": "visiting the lab to be outfitted with",
+    "start": 94.32,
+    "duration": 4.68
+  },
+  {
+    "text": "the bionic limb for the first time",
+    "start": 95.96,
+    "duration": 4.56
+  },
+  {
+    "text": "thanks to a groundbreaking surgery",
+    "start": 99.0,
+    "duration": 3.56
+  },
+  {
+    "text": "called sensory reinnervation that",
+    "start": 100.52,
+    "duration": 3.639
+  },
+  {
+    "text": "remapped her nerves responsible for",
+    "start": 102.56,
+    "duration": 3.44
+  },
+  {
+    "text": "touch Melissa is one of the first",
+    "start": 104.159,
+    "duration": 4.121
+  },
+  {
+    "text": "amputees in the world to be able to feel",
+    "start": 106.0,
+    "duration": 3.799
+  },
+  {
+    "text": "through a robotic",
+    "start": 108.28,
+    "duration": 4.199
+  },
+  {
+    "text": "prosthetic so can you walk us through",
+    "start": 109.799,
+    "duration": 3.881
+  },
+  {
+    "text": "what took place on the day of your",
+    "start": 112.479,
+    "duration": 3.401
+  },
+  {
+    "text": "accident it was 6:00 on a Saturday",
+    "start": 113.68,
+    "duration": 4.799
+  },
+  {
+    "text": "morning on July 25th uh I got up to let",
+    "start": 115.88,
+    "duration": 4.72
+  },
+  {
+    "text": "my dogs out her",
+    "start": 118.479,
+    "duration": 5.6
+  },
+  {
+    "text": "horrible noise went outside and the dogs",
+    "start": 120.6,
+    "duration": 5.32
+  },
+  {
+    "text": "had a raccoon cornered on the top of the",
+    "start": 124.079,
+    "duration": 3.881
+  },
+  {
+    "text": "fence and then they both kind of went in",
+    "start": 125.92,
+    "duration": 5.08
+  },
+  {
+    "text": "for the kill and I went to grab the dogs",
+    "start": 127.96,
+    "duration": 5.16
+  },
+  {
+    "text": "off of the raccoon and the raccoon",
+    "start": 131.0,
+    "duration": 5.44
+  },
+  {
+    "text": "grabbed onto my forearm so I grabbed it",
+    "start": 133.12,
+    "duration": 5.16
+  },
+  {
+    "text": "and threw it over the fence I had gotten",
+    "start": 136.44,
+    "duration": 3.64
+  },
+  {
+    "text": "bitten on my forearm and I was just kind",
+    "start": 138.28,
+    "duration": 4.039
+  },
+  {
+    "text": "of standing there bleeding so I went",
+    "start": 140.08,
+    "duration": 3.84
+  },
+  {
+    "text": "straight to the hospital they said",
+    "start": 142.319,
+    "duration": 3.241
+  },
+  {
+    "text": "you're you're now going to be referred",
+    "start": 143.92,
+    "duration": 4.76
+  },
+  {
+    "text": "to Dr Seth he's our hand specialist and",
+    "start": 145.56,
+    "duration": 5.8
+  },
+  {
+    "text": "he said you never seen such a terrible",
+    "start": 148.68,
+    "duration": 4.72
+  },
+  {
+    "text": "infection it just kept getting worse and",
+    "start": 151.36,
+    "duration": 6.239
+  },
+  {
+    "text": "worse so I went septic and they",
+    "start": 153.4,
+    "duration": 7.44
+  },
+  {
+    "text": "said I'm going to take your arm or",
+    "start": 157.599,
+    "duration": 4.841
+  },
+  {
+    "text": "you're going to",
+    "start": 160.84,
+    "duration": 4.44
+  },
+  {
+    "text": "die this right here is my muscles and",
+    "start": 162.44,
+    "duration": 5.96
+  },
+  {
+    "text": "tendons and that was the top of my arm",
+    "start": 165.28,
+    "duration": 7.599
+  },
+  {
+    "text": "29 days and 13 surgeries later I had my",
+    "start": 168.4,
+    "duration": 6.64
+  },
+  {
+    "text": "arm amputated to get up in the morning",
+    "start": 172.879,
+    "duration": 3.881
+  },
+  {
+    "text": "and get a shower and brush your teeth",
+    "start": 175.04,
+    "duration": 3.88
+  },
+  {
+    "text": "and get ready for work you know whereas",
+    "start": 176.76,
+    "duration": 5.36
+  },
+  {
+    "text": "it was a 15 minute process before my",
+    "start": 178.92,
+    "duration": 5.399
+  },
+  {
+    "text": "accident now it's a half an hour process",
+    "start": 182.12,
+    "duration": 3.6
+  },
+  {
+    "text": "I can't just go home and make dinner by",
+    "start": 184.319,
+    "duration": 3.92
+  },
+  {
+    "text": "myself without help opening cans or",
+    "start": 185.72,
+    "duration": 4.68
+  },
+  {
+    "text": "lifting pots buttoning button zipping",
+    "start": 188.239,
+    "duration": 4.161
+  },
+  {
+    "text": "zippers little things that you never",
+    "start": 190.4,
+    "duration": 4.96
+  },
+  {
+    "text": "think about I hope to just use my",
+    "start": 192.4,
+    "duration": 5.199
+  },
+  {
+    "text": "robotic arm just like I use my regular",
+    "start": 195.36,
+    "duration": 5.599
+  },
+  {
+    "text": "arm and just go about my business as a",
+    "start": 197.599,
+    "duration": 6.681
+  },
+  {
+    "text": "normal two arm",
+    "start": 200.959,
+    "duration": 5.721
+  },
+  {
+    "text": "person just behind me is the Applied",
+    "start": 204.28,
+    "duration": 4.039
+  },
+  {
+    "text": "Physics laboratory at John Hopkins",
+    "start": 206.68,
+    "duration": 3.279
+  },
+  {
+    "text": "University where we're meeting the chief",
+    "start": 208.319,
+    "duration": 4.48
+  },
+  {
+    "text": "engineer Dr Mike mlin and his team",
+    "start": 209.959,
+    "duration": 4.441
+  },
+  {
+    "text": "they're working on neuroprosthetics that",
+    "start": 212.799,
+    "duration": 3.481
+  },
+  {
+    "text": "are controlled by the mind this is",
+    "start": 214.4,
+    "duration": 3.759
+  },
+  {
+    "text": "completely revolutionizing how human",
+    "start": 216.28,
+    "duration": 4.92
+  },
+  {
+    "text": "beings interact with",
+    "start": 218.159,
+    "duration": 3.041
+  },
+  {
+    "text": "machines so this was a a program started",
+    "start": 222.08,
+    "duration": 4.799
+  },
+  {
+    "text": "by Dara the defense Advanced research",
+    "start": 224.68,
+    "duration": 4.88
+  },
+  {
+    "text": "projects agency and the whole purpose",
+    "start": 226.879,
+    "duration": 4.841
+  },
+  {
+    "text": "was really to move Prosthetics to a",
+    "start": 229.56,
+    "duration": 5.239
+  },
+  {
+    "text": "whole new level the kill this is Robo",
+    "start": 231.72,
+    "duration": 5.92
+  },
+  {
+    "text": "Sally Robo Sally has two of the",
+    "start": 234.799,
+    "duration": 5.921
+  },
+  {
+    "text": "prostetic climbs this arm can do",
+    "start": 237.64,
+    "duration": 5.239
+  },
+  {
+    "text": "basically everything you can do with",
+    "start": 240.72,
+    "duration": 3.84
+  },
+  {
+    "text": "your",
+    "start": 242.879,
+    "duration": 5.321
+  },
+  {
+    "text": "hand the modular prosthetic limb or MPL",
+    "start": 244.56,
+    "duration": 5.28
+  },
+  {
+    "text": "interprets and converts signals from the",
+    "start": 248.2,
+    "duration": 4.52
+  },
+  {
+    "text": "body's nervous system to motion when the",
+    "start": 249.84,
+    "duration": 5.36
+  },
+  {
+    "text": "MPL interacts with an object signals",
+    "start": 252.72,
+    "duration": 4.72
+  },
+  {
+    "text": "from over 100 sensors send information",
+    "start": 255.2,
+    "duration": 5.999
+  },
+  {
+    "text": "back to the brain creating a sense of",
+    "start": 257.44,
+    "duration": 6.88
+  },
+  {
+    "text": "touch these are very expensive this limb",
+    "start": 261.199,
+    "duration": 5.361
+  },
+  {
+    "text": "costs hundreds of thousands of dollars",
+    "start": 264.32,
+    "duration": 3.56
+  },
+  {
+    "text": "but at the end of the day we really want",
+    "start": 266.56,
+    "duration": 3.32
+  },
+  {
+    "text": "to get this out so people can use it",
+    "start": 267.88,
+    "duration": 4.44
+  },
+  {
+    "text": "everyday",
+    "start": 269.88,
+    "duration": 3.96
+  },
+  {
+    "text": "life",
+    "start": 272.32,
+    "duration": 5.0
+  },
+  {
+    "text": "W more expensive than my whole life so",
+    "start": 273.84,
+    "duration": 6.799
+  },
+  {
+    "text": "what's unique about Melissa is that",
+    "start": 277.32,
+    "duration": 5.84
+  },
+  {
+    "text": "we'll be able to actually feed back to",
+    "start": 280.639,
+    "duration": 5.921
+  },
+  {
+    "text": "her sensory information at a level that",
+    "start": 283.16,
+    "duration": 6.24
+  },
+  {
+    "text": "we haven't been able to do before that",
+    "start": 286.56,
+    "duration": 4.96
+  },
+  {
+    "text": "is really going to move this to you know",
+    "start": 289.4,
+    "duration": 4.32
+  },
+  {
+    "text": "an entirely new",
+    "start": 291.52,
+    "duration": 5.119
+  },
+  {
+    "text": "level so you've been quoted saying that",
+    "start": 293.72,
+    "duration": 5.6
+  },
+  {
+    "text": "uh Melissa is a very special case very",
+    "start": 296.639,
+    "duration": 5.84
+  },
+  {
+    "text": "rare can you explain yeah we ended up",
+    "start": 299.32,
+    "duration": 6.24
+  },
+  {
+    "text": "doing a surgery it's called targeted",
+    "start": 302.479,
+    "duration": 5.681
+  },
+  {
+    "text": "muscle reinnervation is a type of",
+    "start": 305.56,
+    "duration": 6.72
+  },
+  {
+    "text": "surgery that allows an amput to use",
+    "start": 308.16,
+    "duration": 7.84
+  },
+  {
+    "text": "their brain to operate the bionic or",
+    "start": 312.28,
+    "duration": 5.88
+  },
+  {
+    "text": "prosthetic arm if she wants to open her",
+    "start": 316.0,
+    "duration": 5.08
+  },
+  {
+    "text": "hand she just thinks open my hand now",
+    "start": 318.16,
+    "duration": 5.12
+  },
+  {
+    "text": "the part that's never been done here in",
+    "start": 321.08,
+    "duration": 4.76
+  },
+  {
+    "text": "the US was to try to get someone to feel",
+    "start": 323.28,
+    "duration": 4.88
+  },
+  {
+    "text": "their prosthetic hand the targeted",
+    "start": 325.84,
+    "duration": 4.32
+  },
+  {
+    "text": "sensory renovation",
+    "start": 328.16,
+    "duration": 3.52
+  },
+  {
+    "text": "if you have a prosthetic arm you can't",
+    "start": 330.16,
+    "duration": 4.879
+  },
+  {
+    "text": "feel you can't hold somebody's hand and",
+    "start": 331.68,
+    "duration": 5.68
+  },
+  {
+    "text": "feel that touch and so what I ended up",
+    "start": 335.039,
+    "duration": 5.72
+  },
+  {
+    "text": "doing was finding the nerve that gives",
+    "start": 337.36,
+    "duration": 6.32
+  },
+  {
+    "text": "you feeling and I took that basically",
+    "start": 340.759,
+    "duration": 6.681
+  },
+  {
+    "text": "attached it to her skin here and here",
+    "start": 343.68,
+    "duration": 6.0
+  },
+  {
+    "text": "mhm and the idea is that if that nerve",
+    "start": 347.44,
+    "duration": 5.12
+  },
+  {
+    "text": "gives you feeling here her brain will",
+    "start": 349.68,
+    "duration": 5.76
+  },
+  {
+    "text": "think that her fingers are actually",
+    "start": 352.56,
+    "duration": 5.68
+  },
+  {
+    "text": "here because of her surgery the quality",
+    "start": 355.44,
+    "duration": 4.879
+  },
+  {
+    "text": "of sensory signals Melissa receives are",
+    "start": 358.24,
+    "duration": 3.92
+  },
+  {
+    "text": "better than anything tested before with",
+    "start": 360.319,
+    "duration": 4.841
+  },
+  {
+    "text": "the bionic limb we accompanied Melissa",
+    "start": 362.16,
+    "duration": 4.8
+  },
+  {
+    "text": "as she used the prosthetic limb for the",
+    "start": 365.16,
+    "duration": 3.159
+  },
+  {
+    "text": "first",
+    "start": 366.96,
+    "duration": 4.359
+  },
+  {
+    "text": "time",
+    "start": 368.319,
+    "duration": 3.0
+  },
+  {
+    "text": "ready basically they just put sensors",
+    "start": 372.12,
+    "duration": 4.6
+  },
+  {
+    "text": "around my arm that could read my muscle",
+    "start": 374.44,
+    "duration": 4.8
+  },
+  {
+    "text": "patterns and then I would do the",
+    "start": 376.72,
+    "duration": 5.8
+  },
+  {
+    "text": "movements with my imaginary arm and the",
+    "start": 379.24,
+    "duration": 4.959
+  },
+  {
+    "text": "Machine would recognize the muscle",
+    "start": 382.52,
+    "duration": 4.119
+  },
+  {
+    "text": "patterns and then the arm would do those",
+    "start": 384.199,
+    "duration": 5.881
+  },
+  {
+    "text": "motions afterwards",
+    "start": 386.639,
+    "duration": 3.441
+  },
+  {
+    "text": "the limb may move in a weird way and",
+    "start": 390.479,
+    "duration": 3.921
+  },
+  {
+    "text": "that's okay because it's the first time",
+    "start": 392.479,
+    "duration": 4.881
+  },
+  {
+    "text": "it's hearing those muscle patterns we'll",
+    "start": 394.4,
+    "duration": 5.88
+  },
+  {
+    "text": "do elbow up and",
+    "start": 397.36,
+    "duration": 2.92
+  },
+  {
+    "text": "down nice the arm learns how to",
+    "start": 403.84,
+    "duration": 6.759
+  },
+  {
+    "text": "understand what you want to do as",
+    "start": 408.36,
+    "duration": 4.0
+  },
+  {
+    "text": "opposed to you learning how to control",
+    "start": 410.599,
+    "duration": 3.32
+  },
+  {
+    "text": "the arm that's a very fundamental",
+    "start": 412.36,
+    "duration": 2.959
+  },
+  {
+    "text": "difference of what we're trying to do",
+    "start": 413.919,
+    "duration": 3.761
+  },
+  {
+    "text": "here so the next one we want to try is",
+    "start": 415.319,
+    "duration": 6.201
+  },
+  {
+    "text": "the um the hand close",
+    "start": 417.68,
+    "duration": 3.84
+  },
+  {
+    "text": "and",
+    "start": 423.319,
+    "duration": 2.28
+  },
+  {
+    "text": "relax so when you first used the modular",
+    "start": 426.24,
+    "duration": 4.88
+  },
+  {
+    "text": "prosthetic limb how did it feel to",
+    "start": 429.08,
+    "duration": 4.119
+  },
+  {
+    "text": "control it with your mind you know you",
+    "start": 431.12,
+    "duration": 4.44
+  },
+  {
+    "text": "control your hand with your mind",
+    "start": 433.199,
+    "duration": 4.601
+  },
+  {
+    "text": "naturally so to me I feel like I have a",
+    "start": 435.56,
+    "duration": 5.52
+  },
+  {
+    "text": "hand and I'm just moving it naturally",
+    "start": 437.8,
+    "duration": 7.2
+  },
+  {
+    "text": "just try the",
+    "start": 441.08,
+    "duration": 3.92
+  },
+  {
+    "text": "thumb let's go ahead and try um to do a",
+    "start": 445.479,
+    "duration": 5.881
+  },
+  {
+    "text": "a tip",
+    "start": 448.72,
+    "duration": 5.96
+  },
+  {
+    "text": "grasp very nice perfect I mean and these",
+    "start": 451.36,
+    "duration": 5.48
+  },
+  {
+    "text": "are really fine movements to be able to",
+    "start": 454.68,
+    "duration": 4.079
+  },
+  {
+    "text": "pick up those individual movements is",
+    "start": 456.84,
+    "duration": 6.16
+  },
+  {
+    "text": "pretty amazing so this is thumb okay so",
+    "start": 458.759,
+    "duration": 7.16
+  },
+  {
+    "text": "thumb is red they put the sensors on",
+    "start": 463.0,
+    "duration": 5.08
+  },
+  {
+    "text": "where the nerves are reinnervated into",
+    "start": 465.919,
+    "duration": 4.4
+  },
+  {
+    "text": "the skin he put little spots where you",
+    "start": 468.08,
+    "duration": 4.32
+  },
+  {
+    "text": "can feel the fingers tingle like here my",
+    "start": 470.319,
+    "duration": 4.961
+  },
+  {
+    "text": "thumb tingle each individual finger has",
+    "start": 472.4,
+    "duration": 5.6
+  },
+  {
+    "text": "its own kind of little spot all right",
+    "start": 475.28,
+    "duration": 4.359
+  },
+  {
+    "text": "I'm going to buzz it let me know if it's",
+    "start": 478.0,
+    "duration": 4.919
+  },
+  {
+    "text": "uncomfortable or can you feel it yeah",
+    "start": 479.639,
+    "duration": 5.721
+  },
+  {
+    "text": "when they vibrated I would just say this",
+    "start": 482.919,
+    "duration": 5.28
+  },
+  {
+    "text": "is this finger and we just went through",
+    "start": 485.36,
+    "duration": 5.559
+  },
+  {
+    "text": "all the fingers is there a perception of",
+    "start": 488.199,
+    "duration": 4.241
+  },
+  {
+    "text": "where the vibration is coming from when",
+    "start": 490.919,
+    "duration": 2.68
+  },
+  {
+    "text": "you can't localize it does it just feel",
+    "start": 492.44,
+    "duration": 2.479
+  },
+  {
+    "text": "like it's coming all through the Phantom",
+    "start": 493.599,
+    "duration": 2.921
+  },
+  {
+    "text": "does it ever feel like it's actually on",
+    "start": 494.919,
+    "duration": 4.4
+  },
+  {
+    "text": "your upper arm no it's it's all coming",
+    "start": 496.52,
+    "duration": 4.84
+  },
+  {
+    "text": "through the hand yeah it's huge that",
+    "start": 499.319,
+    "duration": 3.681
+  },
+  {
+    "text": "it's coming from your Phantom and not",
+    "start": 501.36,
+    "duration": 4.44
+  },
+  {
+    "text": "sort of on this is like firstever so's",
+    "start": 503.0,
+    "duration": 7.08
+  },
+  {
+    "text": "no no one's ever seen this before",
+    "start": 505.8,
+    "duration": 7.88
+  },
+  {
+    "text": "okay here we go are you ready Yep this",
+    "start": 510.08,
+    "duration": 8.12
+  },
+  {
+    "text": "is it yeah you can feel it",
+    "start": 513.68,
+    "duration": 4.52
+  },
+  {
+    "text": "yeah yeah all right ready close your",
+    "start": 519.039,
+    "duration": 5.68
+  },
+  {
+    "text": "eyes oh right there yeah all right so",
+    "start": 524.839,
+    "duration": 5.961
+  },
+  {
+    "text": "see if you can tell when you've actually",
+    "start": 528.959,
+    "duration": 5.041
+  },
+  {
+    "text": "gotten this so just close",
+    "start": 530.8,
+    "duration": 7.96
+  },
+  {
+    "text": "slowly got it got it got it got it okay",
+    "start": 534.0,
+    "duration": 5.89
+  },
+  {
+    "text": "and open",
+    "start": 538.76,
+    "duration": 3.759
+  },
+  {
+    "text": "[Music]",
+    "start": 539.89,
+    "duration": 5.15
+  },
+  {
+    "text": "that's awesome Melissa your case is very",
+    "start": 542.519,
+    "duration": 4.601
+  },
+  {
+    "text": "special cuz you're able to feel so can",
+    "start": 545.04,
+    "duration": 4.0
+  },
+  {
+    "text": "you walk us through how it felt um using",
+    "start": 547.12,
+    "duration": 6.04
+  },
+  {
+    "text": "the prosthetic LM good cuz I mean I",
+    "start": 549.04,
+    "duration": 6.6
+  },
+  {
+    "text": "wanted that's the thing I missed the",
+    "start": 553.16,
+    "duration": 6.28
+  },
+  {
+    "text": "most it felt like tingling in my fingers",
+    "start": 555.64,
+    "duration": 6.68
+  },
+  {
+    "text": "when I would grabed on the ball it would",
+    "start": 559.44,
+    "duration": 4.8
+  },
+  {
+    "text": "like vibrate like sometimes I'd be like",
+    "start": 562.32,
+    "duration": 4.48
+  },
+  {
+    "text": "oh wow that was like a jolt up your",
+    "start": 564.24,
+    "duration": 4.24
+  },
+  {
+    "text": "finger and you were the first in the",
+    "start": 566.8,
+    "duration": 3.64
+  },
+  {
+    "text": "country to have this",
+    "start": 568.48,
+    "duration": 4.64
+  },
+  {
+    "text": "correct it's just",
+    "start": 570.44,
+    "duration": 6.6
+  },
+  {
+    "text": "incredible oh yeah got it got it we",
+    "start": 573.12,
+    "duration": 8.32
+  },
+  {
+    "text": "nailed it we showed that you can feel",
+    "start": 577.04,
+    "duration": 7.2
+  },
+  {
+    "text": "and you can move a prosthetic hand I",
+    "start": 581.44,
+    "duration": 4.32
+  },
+  {
+    "text": "felt the orange",
+    "start": 584.24,
+    "duration": 4.56
+  },
+  {
+    "text": "ball wow this is huge I'm going to be",
+    "start": 585.76,
+    "duration": 4.8
+  },
+  {
+    "text": "the bionic",
+    "start": 588.8,
+    "duration": 4.36
+  },
+  {
+    "text": "woman okay watching Melissa in her face",
+    "start": 590.56,
+    "duration": 4.48
+  },
+  {
+    "text": "with the machine to regain capability",
+    "start": 593.16,
+    "duration": 4.76
+  },
+  {
+    "text": "she thought she lost was incredible but",
+    "start": 595.04,
+    "duration": 5.68
+  },
+  {
+    "text": "being bionic raises a new question can a",
+    "start": 597.92,
+    "duration": 5.32
+  },
+  {
+    "text": "bionic arm outclass a human one people",
+    "start": 600.72,
+    "duration": 4.559
+  },
+  {
+    "text": "frequently draw comparisons to the",
+    "start": 603.24,
+    "duration": 5.44
+  },
+  {
+    "text": "Terminator and you know our arm can curl",
+    "start": 605.279,
+    "duration": 5.24
+  },
+  {
+    "text": "45 lbs you know it's not going to pick",
+    "start": 608.68,
+    "duration": 5.12
+  },
+  {
+    "text": "up a a bus while even the most advanced",
+    "start": 610.519,
+    "duration": 5.121
+  },
+  {
+    "text": "prosthetic is no replacement for a flesh",
+    "start": 613.8,
+    "duration": 4.08
+  },
+  {
+    "text": "and blood limb as the technology",
+    "start": 615.64,
+    "duration": 4.56
+  },
+  {
+    "text": "progresses we're likely to progress with",
+    "start": 617.88,
+    "duration": 4.72
+  },
+  {
+    "text": "it neuroprosthetics are still in their",
+    "start": 620.2,
+    "duration": 4.48
+  },
+  {
+    "text": "infancy and limited mostly to medical",
+    "start": 622.6,
+    "duration": 4.12
+  },
+  {
+    "text": "use but what happens when these",
+    "start": 624.68,
+    "duration": 4.08
+  },
+  {
+    "text": "Technologies become more advanced",
+    "start": 626.72,
+    "duration": 3.239
+  },
+  {
+    "text": "smarter",
+    "start": 628.76,
+    "duration": 4.319
+  },
+  {
+    "text": "stronger will other people want",
+    "start": 629.959,
+    "duration": 5.721
+  },
+  {
+    "text": "them policy makers have already started",
+    "start": 633.079,
+    "duration": 4.401
+  },
+  {
+    "text": "to bring up the issue that as humans",
+    "start": 635.68,
+    "duration": 4.32
+  },
+  {
+    "text": "become more mechanical our laws will",
+    "start": 637.48,
+    "duration": 4.52
+  },
+  {
+    "text": "have to evolve to reflect how we look at",
+    "start": 640.0,
+    "duration": 6.2
+  },
+  {
+    "text": "privacy access and domain over our own",
+    "start": 642.0,
+    "duration": 6.16
+  },
+  {
+    "text": "bodies you know there's certainly lots",
+    "start": 646.2,
+    "duration": 4.52
+  },
+  {
+    "text": "of Ethics questions going around about",
+    "start": 648.16,
+    "duration": 5.119
+  },
+  {
+    "text": "robotics you can hack into those devices",
+    "start": 650.72,
+    "duration": 4.359
+  },
+  {
+    "text": "people have shown you can hack into cars",
+    "start": 653.279,
+    "duration": 3.24
+  },
+  {
+    "text": "and have them do things that you don't",
+    "start": 655.079,
+    "duration": 3.76
+  },
+  {
+    "text": "want them to do I really believe that in",
+    "start": 656.519,
+    "duration": 3.841
+  },
+  {
+    "text": "the end you know we'll be able to deal",
+    "start": 658.839,
+    "duration": 3.841
+  },
+  {
+    "text": "with those kinds of things Humanity has",
+    "start": 660.36,
+    "duration": 6.12
+  },
+  {
+    "text": "so much to gain here so yes I think all",
+    "start": 662.68,
+    "duration": 6.159
+  },
+  {
+    "text": "these technologies will will change us",
+    "start": 666.48,
+    "duration": 6.14
+  },
+  {
+    "text": "but I don't think that's a bad thing",
+    "start": 668.839,
+    "duration": 17.731
+  },
+  {
+    "text": "[Music]",
+    "start": 672.62,
+    "duration": 13.95
+  }
+]

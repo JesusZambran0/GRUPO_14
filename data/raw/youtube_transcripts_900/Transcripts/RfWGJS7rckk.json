@@ -1,0 +1,1232 @@
+[
+  {
+    "text": "let me ask you uh",
+    "start": 3.199,
+    "duration": 3.12
+  },
+  {
+    "text": "uh",
+    "start": 5.279,
+    "duration": 4.081
+  },
+  {
+    "text": "sort of a big question about preference",
+    "start": 6.319,
+    "duration": 4.881
+  },
+  {
+    "text": "what would you say is the best",
+    "start": 9.36,
+    "duration": 4.159
+  },
+  {
+    "text": "programming language",
+    "start": 11.2,
+    "duration": 3.599
+  },
+  {
+    "text": "your favorite",
+    "start": 13.519,
+    "duration": 3.84
+  },
+  {
+    "text": "but also the best you've seen",
+    "start": 14.799,
+    "duration": 4.48
+  },
+  {
+    "text": "throughout your career you're considered",
+    "start": 17.359,
+    "duration": 3.281
+  },
+  {
+    "text": "by many to be",
+    "start": 19.279,
+    "duration": 4.08
+  },
+  {
+    "text": "the greatest programmer ever i mean it's",
+    "start": 20.64,
+    "duration": 4.559
+  },
+  {
+    "text": "so difficult to place that label on",
+    "start": 23.359,
+    "duration": 3.601
+  },
+  {
+    "text": "anyone if but if you put it on you and",
+    "start": 25.199,
+    "duration": 3.601
+  },
+  {
+    "text": "it's you so let me ask you these kind of",
+    "start": 26.96,
+    "duration": 4.0
+  },
+  {
+    "text": "ridiculous questions of what's the best",
+    "start": 28.8,
+    "duration": 4.56
+  },
+  {
+    "text": "band of all time but in your case what's",
+    "start": 30.96,
+    "duration": 4.48
+  },
+  {
+    "text": "the best programming language everything",
+    "start": 33.36,
+    "duration": 4.4
+  },
+  {
+    "text": "has all the caveats about it but so what",
+    "start": 35.44,
+    "duration": 5.68
+  },
+  {
+    "text": "i use so nowadays i i do program a",
+    "start": 37.76,
+    "duration": 6.0
+  },
+  {
+    "text": "reasonable amount of python for aiml",
+    "start": 41.12,
+    "duration": 5.759
+  },
+  {
+    "text": "sorts of work uh that's i'm not a native",
+    "start": 43.76,
+    "duration": 4.959
+  },
+  {
+    "text": "python programmer it's something i came",
+    "start": 46.879,
+    "duration": 4.32
+  },
+  {
+    "text": "to very late in my career i understand",
+    "start": 48.719,
+    "duration": 4.401
+  },
+  {
+    "text": "what it's good for you don't dream in",
+    "start": 51.199,
+    "duration": 4.401
+  },
+  {
+    "text": "python i do not and it has some of those",
+    "start": 53.12,
+    "duration": 4.56
+  },
+  {
+    "text": "things where there's some amazing stats",
+    "start": 55.6,
+    "duration": 4.08
+  },
+  {
+    "text": "when you say if you just start if you",
+    "start": 57.68,
+    "duration": 4.08
+  },
+  {
+    "text": "make a loop you know a triply nested",
+    "start": 59.68,
+    "duration": 3.92
+  },
+  {
+    "text": "loop and start doing operations in",
+    "start": 61.76,
+    "duration": 4.719
+  },
+  {
+    "text": "python you can be thousands to",
+    "start": 63.6,
+    "duration": 4.96
+  },
+  {
+    "text": "potentially a million times slower than",
+    "start": 66.479,
+    "duration": 5.121
+  },
+  {
+    "text": "a proper gpu tensor operation and these",
+    "start": 68.56,
+    "duration": 5.04
+  },
+  {
+    "text": "are staggering numbers you know you can",
+    "start": 71.6,
+    "duration": 4.159
+  },
+  {
+    "text": "be as much slower as we've almost gotten",
+    "start": 73.6,
+    "duration": 4.64
+  },
+  {
+    "text": "faster in our uh you know our pace of",
+    "start": 75.759,
+    "duration": 4.161
+  },
+  {
+    "text": "progress and all this other miraculous",
+    "start": 78.24,
+    "duration": 3.28
+  },
+  {
+    "text": "stuff so your intuition's about",
+    "start": 79.92,
+    "duration": 3.839
+  },
+  {
+    "text": "inefficiencies within the python sort of",
+    "start": 81.52,
+    "duration": 4.08
+  },
+  {
+    "text": "it keeps hitting me upside the face",
+    "start": 83.759,
+    "duration": 3.04
+  },
+  {
+    "text": "where it just it's gotten to the point",
+    "start": 85.6,
+    "duration": 2.96
+  },
+  {
+    "text": "now i understand it's like okay you just",
+    "start": 86.799,
+    "duration": 3.68
+  },
+  {
+    "text": "can't do a loop if you care about",
+    "start": 88.56,
+    "duration": 4.239
+  },
+  {
+    "text": "performance in python you have to figure",
+    "start": 90.479,
+    "duration": 4.801
+  },
+  {
+    "text": "out how you can reformat this into some",
+    "start": 92.799,
+    "duration": 4.561
+  },
+  {
+    "text": "big vector operation or something that's",
+    "start": 95.28,
+    "duration": 4.0
+  },
+  {
+    "text": "going to be done completely within a c",
+    "start": 97.36,
+    "duration": 4.16
+  },
+  {
+    "text": "plus plus library but the other hand is",
+    "start": 99.28,
+    "duration": 4.72
+  },
+  {
+    "text": "it's it's amazingly convenient and you",
+    "start": 101.52,
+    "duration": 4.48
+  },
+  {
+    "text": "just see stuff that people are able to",
+    "start": 104.0,
+    "duration": 4.32
+  },
+  {
+    "text": "cobble together by you just import a few",
+    "start": 106.0,
+    "duration": 4.0
+  },
+  {
+    "text": "different things and you can do stuff",
+    "start": 108.32,
+    "duration": 3.759
+  },
+  {
+    "text": "that nobody on earth could do 10 years",
+    "start": 110.0,
+    "duration": 3.36
+  },
+  {
+    "text": "ago and you can do it in a little",
+    "start": 112.079,
+    "duration": 3.121
+  },
+  {
+    "text": "cookbook thing that you copy pasted out",
+    "start": 113.36,
+    "duration": 4.96
+  },
+  {
+    "text": "of a website so that is really great",
+    "start": 115.2,
+    "duration": 4.72
+  },
+  {
+    "text": "when i'm sitting down to do what i",
+    "start": 118.32,
+    "duration": 3.759
+  },
+  {
+    "text": "consider kind of serious programming",
+    "start": 119.92,
+    "duration": 4.64
+  },
+  {
+    "text": "it's still in c plus plus and it's",
+    "start": 122.079,
+    "duration": 5.04
+  },
+  {
+    "text": "really kind of a c flavored c plus at",
+    "start": 124.56,
+    "duration": 5.52
+  },
+  {
+    "text": "that where i'm not big into the modern",
+    "start": 127.119,
+    "duration": 4.801
+  },
+  {
+    "text": "uh template meta programming sorts of",
+    "start": 130.08,
+    "duration": 3.76
+  },
+  {
+    "text": "things i see a lot of train wrecks",
+    "start": 131.92,
+    "duration": 3.679
+  },
+  {
+    "text": "coming from some of that over",
+    "start": 133.84,
+    "duration": 3.36
+  },
+  {
+    "text": "abstraction",
+    "start": 135.599,
+    "duration": 4.401
+  },
+  {
+    "text": "i spent a few years really going kind of",
+    "start": 137.2,
+    "duration": 5.28
+  },
+  {
+    "text": "deep into the kind of historical lisp",
+    "start": 140.0,
+    "duration": 4.879
+  },
+  {
+    "text": "work um and the haskell and some of the",
+    "start": 142.48,
+    "duration": 4.64
+  },
+  {
+    "text": "functional programming sides of things",
+    "start": 144.879,
+    "duration": 4.0
+  },
+  {
+    "text": "and there's",
+    "start": 147.12,
+    "duration": 3.92
+  },
+  {
+    "text": "there is a lot of value there in the way",
+    "start": 148.879,
+    "duration": 4.161
+  },
+  {
+    "text": "you think about things and i changed a",
+    "start": 151.04,
+    "duration": 4.0
+  },
+  {
+    "text": "lot of the way i write my c and c plus",
+    "start": 153.04,
+    "duration": 4.559
+  },
+  {
+    "text": "plus code based on what i learned about",
+    "start": 155.04,
+    "duration": 4.8
+  },
+  {
+    "text": "uh the value that comes out of not",
+    "start": 157.599,
+    "duration": 4.321
+  },
+  {
+    "text": "having this random mutable state that",
+    "start": 159.84,
+    "duration": 3.92
+  },
+  {
+    "text": "you kind of lose track of",
+    "start": 161.92,
+    "duration": 3.52
+  },
+  {
+    "text": "because something that",
+    "start": 163.76,
+    "duration": 3.36
+  },
+  {
+    "text": "many people don't really appreciate",
+    "start": 165.44,
+    "duration": 3.6
+  },
+  {
+    "text": "until they've been at it for a long time",
+    "start": 167.12,
+    "duration": 3.6
+  },
+  {
+    "text": "is that it's not the writing of the",
+    "start": 169.04,
+    "duration": 3.36
+  },
+  {
+    "text": "program initially it's the whole",
+    "start": 170.72,
+    "duration": 4.32
+  },
+  {
+    "text": "lifespan of the program and that's when",
+    "start": 172.4,
+    "duration": 4.479
+  },
+  {
+    "text": "it's not necessarily just how fast you",
+    "start": 175.04,
+    "duration": 4.24
+  },
+  {
+    "text": "wrote it or how fast it operates but",
+    "start": 176.879,
+    "duration": 4.561
+  },
+  {
+    "text": "it's how can it bend and adapt as",
+    "start": 179.28,
+    "duration": 4.239
+  },
+  {
+    "text": "situations change and then the thing",
+    "start": 181.44,
+    "duration": 3.92
+  },
+  {
+    "text": "that i've really been learning in my",
+    "start": 183.519,
+    "duration": 4.72
+  },
+  {
+    "text": "time at meta with the oculus and vr work",
+    "start": 185.36,
+    "duration": 5.12
+  },
+  {
+    "text": "is it's also how well it hands off",
+    "start": 188.239,
+    "duration": 4.241
+  },
+  {
+    "text": "between a continuous kind of revolving",
+    "start": 190.48,
+    "duration": 3.6
+  },
+  {
+    "text": "door of programmers taking over",
+    "start": 192.48,
+    "duration": 3.52
+  },
+  {
+    "text": "maintenance and different things and how",
+    "start": 194.08,
+    "duration": 3.6
+  },
+  {
+    "text": "you get people up to speed in different",
+    "start": 196.0,
+    "duration": 3.44
+  },
+  {
+    "text": "areas and there's all these other",
+    "start": 197.68,
+    "duration": 4.4
+  },
+  {
+    "text": "different aspects of it so c plus plus a",
+    "start": 199.44,
+    "duration": 5.68
+  },
+  {
+    "text": "good language for handover between",
+    "start": 202.08,
+    "duration": 6.32
+  },
+  {
+    "text": "engineers probably not the best i and",
+    "start": 205.12,
+    "duration": 4.88
+  },
+  {
+    "text": "there's some really interesting aspects",
+    "start": 208.4,
+    "duration": 4.479
+  },
+  {
+    "text": "to this where in some cases languages",
+    "start": 210.0,
+    "duration": 5.36
+  },
+  {
+    "text": "that are not um that are not generally",
+    "start": 212.879,
+    "duration": 4.72
+  },
+  {
+    "text": "thought well of for many reasons like c",
+    "start": 215.36,
+    "duration": 4.64
+  },
+  {
+    "text": "is derided pretty broadly that yes",
+    "start": 217.599,
+    "duration": 4.081
+  },
+  {
+    "text": "obviously all of these security flaws",
+    "start": 220.0,
+    "duration": 3.12
+  },
+  {
+    "text": "that happen with the memory and",
+    "start": 221.68,
+    "duration": 3.119
+  },
+  {
+    "text": "unsafeness and",
+    "start": 223.12,
+    "duration": 3.199
+  },
+  {
+    "text": "buffer overruns and the things that",
+    "start": 224.799,
+    "duration": 4.0
+  },
+  {
+    "text": "you've got there but there is this",
+    "start": 226.319,
+    "duration": 4.64
+  },
+  {
+    "text": "underappreciated aspect to the language",
+    "start": 228.799,
+    "duration": 5.121
+  },
+  {
+    "text": "is so simple anyone can go and you know",
+    "start": 230.959,
+    "duration": 5.121
+  },
+  {
+    "text": "if you know c you can generally jump in",
+    "start": 233.92,
+    "duration": 4.399
+  },
+  {
+    "text": "someplace and not have to learn what",
+    "start": 236.08,
+    "duration": 4.0
+  },
+  {
+    "text": "paradigms they're using because there",
+    "start": 238.319,
+    "duration": 3.92
+  },
+  {
+    "text": "just aren't that many available i think",
+    "start": 240.08,
+    "duration": 4.079
+  },
+  {
+    "text": "there's you know and there's some really",
+    "start": 242.239,
+    "duration": 4.64
+  },
+  {
+    "text": "really well-written c code like it's i",
+    "start": 244.159,
+    "duration": 4.8
+  },
+  {
+    "text": "find it great that if i'm messing around",
+    "start": 246.879,
+    "duration": 4.161
+  },
+  {
+    "text": "with something in open bsd say i mean i",
+    "start": 248.959,
+    "duration": 4.0
+  },
+  {
+    "text": "can be walking around in the kernel and",
+    "start": 251.04,
+    "duration": 3.279
+  },
+  {
+    "text": "i'm like i understand everything that's",
+    "start": 252.959,
+    "duration": 4.0
+  },
+  {
+    "text": "going on here uh it's not hard for me to",
+    "start": 254.319,
+    "duration": 4.721
+  },
+  {
+    "text": "figure out what's i you know what i need",
+    "start": 256.959,
+    "duration": 3.601
+  },
+  {
+    "text": "to do to",
+    "start": 259.04,
+    "duration": 3.039
+  },
+  {
+    "text": "you know make whatever change that i",
+    "start": 260.56,
+    "duration": 2.8
+  },
+  {
+    "text": "need to",
+    "start": 262.079,
+    "duration": 3.12
+  },
+  {
+    "text": "while you can have you know more",
+    "start": 263.36,
+    "duration": 3.76
+  },
+  {
+    "text": "significant languages like",
+    "start": 265.199,
+    "duration": 3.761
+  },
+  {
+    "text": "it's a downside of lisp where i don't",
+    "start": 267.12,
+    "duration": 3.92
+  },
+  {
+    "text": "regret the time that i spent with lisp i",
+    "start": 268.96,
+    "duration": 4.64
+  },
+  {
+    "text": "i think that it i it did help you know",
+    "start": 271.04,
+    "duration": 4.24
+  },
+  {
+    "text": "help my thinking about programming in",
+    "start": 273.6,
+    "duration": 2.72
+  },
+  {
+    "text": "some ways",
+    "start": 275.28,
+    "duration": 2.639
+  },
+  {
+    "text": "but the people that are the biggest",
+    "start": 276.32,
+    "duration": 3.36
+  },
+  {
+    "text": "defenders of lisp are saying how",
+    "start": 277.919,
+    "duration": 4.0
+  },
+  {
+    "text": "malleable of a language it is that if",
+    "start": 279.68,
+    "duration": 4.079
+  },
+  {
+    "text": "you write a huge list program you've",
+    "start": 281.919,
+    "duration": 4.321
+  },
+  {
+    "text": "basically invented your own kind of",
+    "start": 283.759,
+    "duration": 4.561
+  },
+  {
+    "text": "language and structure because it's not",
+    "start": 286.24,
+    "duration": 3.36
+  },
+  {
+    "text": "the primitives of the language you're",
+    "start": 288.32,
+    "duration": 3.04
+  },
+  {
+    "text": "using very much it's all of the things",
+    "start": 289.6,
+    "duration": 3.76
+  },
+  {
+    "text": "you've built on top of that and then a",
+    "start": 291.36,
+    "duration": 3.68
+  },
+  {
+    "text": "language like racket kind of one of the",
+    "start": 293.36,
+    "duration": 3.76
+  },
+  {
+    "text": "more modern lisp versions it's",
+    "start": 295.04,
+    "duration": 4.0
+  },
+  {
+    "text": "essentially touted as a language for",
+    "start": 297.12,
+    "duration": 4.639
+  },
+  {
+    "text": "building other languages and",
+    "start": 299.04,
+    "duration": 5.28
+  },
+  {
+    "text": "i understand the value of that for a",
+    "start": 301.759,
+    "duration": 5.28
+  },
+  {
+    "text": "tiny little project but the idea of that",
+    "start": 304.32,
+    "duration": 4.8
+  },
+  {
+    "text": "for one of these long term supported by",
+    "start": 307.039,
+    "duration": 4.561
+  },
+  {
+    "text": "lots of people kind of horrifies me",
+    "start": 309.12,
+    "duration": 4.56
+  },
+  {
+    "text": "where all of those abstractions that",
+    "start": 311.6,
+    "duration": 3.68
+  },
+  {
+    "text": "you're like okay you can't touch this",
+    "start": 313.68,
+    "duration": 4.48
+  },
+  {
+    "text": "code till you educate yourself on all of",
+    "start": 315.28,
+    "duration": 4.56
+  },
+  {
+    "text": "these things that we've built on top of",
+    "start": 318.16,
+    "duration": 4.16
+  },
+  {
+    "text": "that and it was interesting to see how",
+    "start": 319.84,
+    "duration": 5.52
+  },
+  {
+    "text": "uh when google made go a lot of the",
+    "start": 322.32,
+    "duration": 4.56
+  },
+  {
+    "text": "criticisms of that are it's like wow",
+    "start": 325.36,
+    "duration": 3.119
+  },
+  {
+    "text": "this is not a state-of-the-art language",
+    "start": 326.88,
+    "duration": 3.759
+  },
+  {
+    "text": "this language is just so simple and",
+    "start": 328.479,
+    "duration": 3.841
+  },
+  {
+    "text": "almost crude and you could see the",
+    "start": 330.639,
+    "duration": 4.081
+  },
+  {
+    "text": "programming language people just looking",
+    "start": 332.32,
+    "duration": 4.8
+  },
+  {
+    "text": "down at it but it does seem to be quite",
+    "start": 334.72,
+    "duration": 4.72
+  },
+  {
+    "text": "popular as basically saying this is the",
+    "start": 337.12,
+    "duration": 4.48
+  },
+  {
+    "text": "good things about c everybody can just",
+    "start": 339.44,
+    "duration": 4.16
+  },
+  {
+    "text": "jump right in and use it you don't need",
+    "start": 341.6,
+    "duration": 4.72
+  },
+  {
+    "text": "to restructure your brain to write good",
+    "start": 343.6,
+    "duration": 5.599
+  },
+  {
+    "text": "code in it so i i wish that i had more",
+    "start": 346.32,
+    "duration": 5.04
+  },
+  {
+    "text": "opportunity for doing some work",
+    "start": 349.199,
+    "duration": 4.72
+  },
+  {
+    "text": "in go uh rust is the other modern",
+    "start": 351.36,
+    "duration": 4.72
+  },
+  {
+    "text": "language that everybody talks about that",
+    "start": 353.919,
+    "duration": 4.481
+  },
+  {
+    "text": "i'm not fit past judgement on i've done",
+    "start": 356.08,
+    "duration": 4.0
+  },
+  {
+    "text": "you know a little bit beyond hello world",
+    "start": 358.4,
+    "duration": 3.68
+  },
+  {
+    "text": "i wrote some like video decompression",
+    "start": 360.08,
+    "duration": 4.959
+  },
+  {
+    "text": "work in rust just as an exercise but",
+    "start": 362.08,
+    "duration": 4.64
+  },
+  {
+    "text": "that was a few years ago and i haven't",
+    "start": 365.039,
+    "duration": 3.841
+  },
+  {
+    "text": "really used it since you know the best",
+    "start": 366.72,
+    "duration": 3.44
+  },
+  {
+    "text": "programming language is the one that",
+    "start": 368.88,
+    "duration": 3.039
+  },
+  {
+    "text": "works generally that you're currently",
+    "start": 370.16,
+    "duration": 4.319
+  },
+  {
+    "text": "using because that's another trap is in",
+    "start": 371.919,
+    "duration": 4.72
+  },
+  {
+    "text": "almost every case i've seen when people",
+    "start": 374.479,
+    "duration": 4.321
+  },
+  {
+    "text": "mixed languages on a project that's a",
+    "start": 376.639,
+    "duration": 4.241
+  },
+  {
+    "text": "mistake i would rather",
+    "start": 378.8,
+    "duration": 4.08
+  },
+  {
+    "text": "stay just in one language so that",
+    "start": 380.88,
+    "duration": 3.84
+  },
+  {
+    "text": "everybody can work across the entire",
+    "start": 382.88,
+    "duration": 4.24
+  },
+  {
+    "text": "thing and we have i get meta we have a",
+    "start": 384.72,
+    "duration": 4.64
+  },
+  {
+    "text": "lot of projects that use kind of react",
+    "start": 387.12,
+    "duration": 4.32
+  },
+  {
+    "text": "frameworks so you've got javascript here",
+    "start": 389.36,
+    "duration": 3.52
+  },
+  {
+    "text": "and then you have",
+    "start": 391.44,
+    "duration": 3.36
+  },
+  {
+    "text": "c plus plus for real work and then you",
+    "start": 392.88,
+    "duration": 3.68
+  },
+  {
+    "text": "may have java interfacing with some",
+    "start": 394.8,
+    "duration": 3.679
+  },
+  {
+    "text": "other part of the android system and",
+    "start": 396.56,
+    "duration": 4.0
+  },
+  {
+    "text": "those are all kind of horrible things",
+    "start": 398.479,
+    "duration": 3.601
+  },
+  {
+    "text": "and that was",
+    "start": 400.56,
+    "duration": 3.52
+  },
+  {
+    "text": "you know one thing that i",
+    "start": 402.08,
+    "duration": 4.16
+  },
+  {
+    "text": "i remember talking with uh with baz at",
+    "start": 404.08,
+    "duration": 4.72
+  },
+  {
+    "text": "facebook about it where like man i wish",
+    "start": 406.24,
+    "duration": 3.6
+  },
+  {
+    "text": "we could have just said we're only",
+    "start": 408.8,
+    "duration": 4.08
+  },
+  {
+    "text": "hiring c plus plus programmers i am and",
+    "start": 409.84,
+    "duration": 5.12
+  },
+  {
+    "text": "he just thought from the from the",
+    "start": 412.88,
+    "duration": 3.68
+  },
+  {
+    "text": "facebook meta perspective well we just",
+    "start": 414.96,
+    "duration": 3.679
+  },
+  {
+    "text": "wouldn't be able to find enough i",
+    "start": 416.56,
+    "duration": 3.68
+  },
+  {
+    "text": "you know with the thousands of",
+    "start": 418.639,
+    "duration": 3.921
+  },
+  {
+    "text": "programmers they've got there it is",
+    "start": 420.24,
+    "duration": 4.48
+  },
+  {
+    "text": "not necessarily a dying breed but you",
+    "start": 422.56,
+    "duration": 4.639
+  },
+  {
+    "text": "can sure find a lot more java javascript",
+    "start": 424.72,
+    "duration": 3.759
+  },
+  {
+    "text": "programmers",
+    "start": 427.199,
+    "duration": 3.201
+  },
+  {
+    "text": "and i i kind of mentioned that to elon",
+    "start": 428.479,
+    "duration": 4.961
+  },
+  {
+    "text": "one time and he was kind of",
+    "start": 430.4,
+    "duration": 4.72
+  },
+  {
+    "text": "flabbergasted about that it's like well",
+    "start": 433.44,
+    "duration": 3.52
+  },
+  {
+    "text": "you just you go out and you find those",
+    "start": 435.12,
+    "duration": 3.359
+  },
+  {
+    "text": "programmers and you don't hire the other",
+    "start": 436.96,
+    "duration": 3.359
+  },
+  {
+    "text": "programmers that don't do the languages",
+    "start": 438.479,
+    "duration": 4.0
+  },
+  {
+    "text": "that you want to use but right now i",
+    "start": 440.319,
+    "duration": 3.841
+  },
+  {
+    "text": "guess yeah they're using javascript on a",
+    "start": 442.479,
+    "duration": 4.321
+  },
+  {
+    "text": "bunch of the spacex work for the ui side",
+    "start": 444.16,
+    "duration": 4.159
+  },
+  {
+    "text": "of things when you go find ui",
+    "start": 446.8,
+    "duration": 3.6
+  },
+  {
+    "text": "programmers their javascript programmers",
+    "start": 448.319,
+    "duration": 3.521
+  },
+  {
+    "text": "i wonder if that's because there's a lot",
+    "start": 450.4,
+    "duration": 3.76
+  },
+  {
+    "text": "of javascript programmers because i do",
+    "start": 451.84,
+    "duration": 3.199
+  },
+  {
+    "text": "think",
+    "start": 454.16,
+    "duration": 4.08
+  },
+  {
+    "text": "that great programmers are rare",
+    "start": 455.039,
+    "duration": 5.201
+  },
+  {
+    "text": "that it's not",
+    "start": 458.24,
+    "duration": 3.679
+  },
+  {
+    "text": "you know if you just look at statistics",
+    "start": 460.24,
+    "duration": 3.6
+  },
+  {
+    "text": "of how many people are using different",
+    "start": 461.919,
+    "duration": 3.521
+  },
+  {
+    "text": "programming languages that doesn't tell",
+    "start": 463.84,
+    "duration": 2.96
+  },
+  {
+    "text": "you the story",
+    "start": 465.44,
+    "duration": 3.92
+  },
+  {
+    "text": "of what the great programmers are using",
+    "start": 466.8,
+    "duration": 4.079
+  },
+  {
+    "text": "and so you have to",
+    "start": 469.36,
+    "duration": 3.279
+  },
+  {
+    "text": "really look at what you were speaking to",
+    "start": 470.879,
+    "duration": 3.44
+  },
+  {
+    "text": "which is the fundamentals of a language",
+    "start": 472.639,
+    "duration": 3.041
+  },
+  {
+    "text": "what does it encourage how does it",
+    "start": 474.319,
+    "duration": 2.961
+  },
+  {
+    "text": "encourage you to think what kind of",
+    "start": 475.68,
+    "duration": 3.519
+  },
+  {
+    "text": "systems does it encourage you to build",
+    "start": 477.28,
+    "duration": 5.12
+  },
+  {
+    "text": "there is something about c plus plus",
+    "start": 479.199,
+    "duration": 5.84
+  },
+  {
+    "text": "that has elements of creativity but",
+    "start": 482.4,
+    "duration": 5.04
+  },
+  {
+    "text": "forces you to be an adult",
+    "start": 485.039,
+    "duration": 4.241
+  },
+  {
+    "text": "about your programming which it expects",
+    "start": 487.44,
+    "duration": 3.4
+  },
+  {
+    "text": "you to be an",
+    "start": 489.28,
+    "duration": 1.759
+  },
+  {
+    "text": "expectantly and so",
+    "start": 490.84,
+    "duration": 1.24
+  },
+  {
+    "text": "forced adult",
+    "start": 491.039,
+    "duration": 1.041
+  },
+  {
+    "text": "it's so it brings out people",
+    "start": 493.36,
+    "duration": 5.839
+  },
+  {
+    "text": "that are willing to be creative in terms",
+    "start": 496.879,
+    "duration": 4.88
+  },
+  {
+    "text": "of building large systems and coming up",
+    "start": 499.199,
+    "duration": 3.921
+  },
+  {
+    "text": "with interesting solutions but at the",
+    "start": 501.759,
+    "duration": 4.801
+  },
+  {
+    "text": "same time have the sort of the good",
+    "start": 503.12,
+    "duration": 5.28
+  },
+  {
+    "text": "software engineering",
+    "start": 506.56,
+    "duration": 4.4
+  },
+  {
+    "text": "practices that amend themselves to real",
+    "start": 508.4,
+    "duration": 5.88
+  },
+  {
+    "text": "world systems",
+    "start": 510.96,
+    "duration": 3.32
+  },
+  {
+    "text": "you",
+    "start": 531.68,
+    "duration": 2.08
+  }
+]

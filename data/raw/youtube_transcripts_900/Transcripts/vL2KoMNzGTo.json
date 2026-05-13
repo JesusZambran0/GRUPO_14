@@ -1,0 +1,702 @@
+[
+  {
+    "text": "My name is Aiman Hussein,",
+    "start": 6.56,
+    "duration": 1.77
+  },
+  {
+    "text": "and I am the director of\n3D printing at Alquist.",
+    "start": 8.33,
+    "duration": 3.513
+  },
+  {
+    "text": "Here at Alquist, we\nfocus on printing homes",
+    "start": 11.843,
+    "duration": 2.077
+  },
+  {
+    "text": "that are affordable in the community",
+    "start": 13.92,
+    "duration": 1.51
+  },
+  {
+    "text": "and for people in the area.",
+    "start": 15.43,
+    "duration": 1.52
+  },
+  {
+    "text": "We range between 1,500 square feet",
+    "start": 16.95,
+    "duration": 2.172
+  },
+  {
+    "text": "and 1,300 for a single family.",
+    "start": 19.122,
+    "duration": 2.068
+  },
+  {
+    "text": "We use large-scale\nconstruction 3D printers",
+    "start": 21.19,
+    "duration": 2.6
+  },
+  {
+    "text": "to be able to create affordable housing",
+    "start": 23.79,
+    "duration": 2.42
+  },
+  {
+    "text": "in rural and unserved areas.",
+    "start": 26.21,
+    "duration": 2.1
+  },
+  {
+    "text": "So, when we arrive on site,",
+    "start": 32.13,
+    "duration": 1.55
+  },
+  {
+    "text": "we typically work on a\nslab or a ribbon footing.",
+    "start": 33.68,
+    "duration": 3.5
+  },
+  {
+    "text": "And what we do is we set the printer up",
+    "start": 37.18,
+    "duration": 1.932
+  },
+  {
+    "text": "around where the house is going to go.",
+    "start": 39.112,
+    "duration": 1.658
+  },
+  {
+    "text": "We typically have around",
+    "start": 40.77,
+    "duration": 1.591
+  },
+  {
+    "text": "five or six pieces of equipment,",
+    "start": 42.361,
+    "duration": 1.239
+  },
+  {
+    "text": "and that is printer,",
+    "start": 43.6,
+    "duration": 1.474
+  },
+  {
+    "text": "and we also have a control panel",
+    "start": 45.074,
+    "duration": 1.683
+  },
+  {
+    "text": "to operate and monitor the print settings.",
+    "start": 46.757,
+    "duration": 3.413
+  },
+  {
+    "text": "Then on the material side we have a silo,",
+    "start": 50.17,
+    "duration": 3.18
+  },
+  {
+    "text": "which holds the dry material,",
+    "start": 53.35,
+    "duration": 2.1
+  },
+  {
+    "text": "but directly below that\nwe have a mixing system",
+    "start": 55.45,
+    "duration": 3.7
+  },
+  {
+    "text": "and a pumping system.",
+    "start": 59.15,
+    "duration": 1.45
+  },
+  {
+    "text": "The water is added in that process",
+    "start": 60.6,
+    "duration": 1.692
+  },
+  {
+    "text": "and pumped through a hose,",
+    "start": 62.292,
+    "duration": 1.583
+  },
+  {
+    "text": "which then feeds the printer material.",
+    "start": 63.875,
+    "duration": 2.626
+  },
+  {
+    "text": "This process isn't very different than",
+    "start": 70.35,
+    "duration": 2.086
+  },
+  {
+    "text": "a typical desktop 3D printer.",
+    "start": 72.436,
+    "duration": 1.964
+  },
+  {
+    "text": "What you do is you start your design stage",
+    "start": 74.4,
+    "duration": 3.0
+  },
+  {
+    "text": "and you create a CAD file that basically",
+    "start": 77.4,
+    "duration": 3.09
+  },
+  {
+    "text": "tells the machine where to go",
+    "start": 80.49,
+    "duration": 1.366
+  },
+  {
+    "text": "and how fast to do it\nand how much material",
+    "start": 81.856,
+    "duration": 2.508
+  },
+  {
+    "text": "to let out in that specific spot.",
+    "start": 84.364,
+    "duration": 2.516
+  },
+  {
+    "text": "And so the program is the centerline",
+    "start": 86.88,
+    "duration": 1.908
+  },
+  {
+    "text": "of where the nozzle is,",
+    "start": 88.788,
+    "duration": 1.442
+  },
+  {
+    "text": "and the printer will follow that line",
+    "start": 90.23,
+    "duration": 2.52
+  },
+  {
+    "text": "throughout the whole process.",
+    "start": 92.75,
+    "duration": 1.307
+  },
+  {
+    "text": "The way the printer reads,\nit's a cross section.",
+    "start": 94.057,
+    "duration": 2.603
+  },
+  {
+    "text": "So if you were to draw this up,",
+    "start": 96.66,
+    "duration": 2.12
+  },
+  {
+    "text": "and you'd cut out a very\nthin line of that object,",
+    "start": 98.78,
+    "duration": 3.36
+  },
+  {
+    "text": "that's what the machine sees,",
+    "start": 102.14,
+    "duration": 1.733
+  },
+  {
+    "text": "and it sees a bunch of those",
+    "start": 103.873,
+    "duration": 1.208
+  },
+  {
+    "text": "over and over and over\nagain to complete the house.",
+    "start": 105.081,
+    "duration": 3.009
+  },
+  {
+    "text": "The two rails, if you will,",
+    "start": 108.09,
+    "duration": 1.83
+  },
+  {
+    "text": "those provide your outer\nbounds for your wall.",
+    "start": 109.92,
+    "duration": 2.38
+  },
+  {
+    "text": "And so in that middle portion",
+    "start": 112.3,
+    "duration": 2.21
+  },
+  {
+    "text": "is where you can run\nelectrical, your plumbing.",
+    "start": 114.51,
+    "duration": 3.23
+  },
+  {
+    "text": "In a sense we are like a framing company.",
+    "start": 117.74,
+    "duration": 2.63
+  },
+  {
+    "text": "However, we're much more\nof a hands-on system,",
+    "start": 120.37,
+    "duration": 2.26
+  },
+  {
+    "text": "where we construct all the walls",
+    "start": 122.63,
+    "duration": 2.04
+  },
+  {
+    "text": "and then we guide the\nGCs through installing",
+    "start": 124.67,
+    "duration": 2.19
+  },
+  {
+    "text": "the doors, windows, HVAC,\nand plumbing systems.",
+    "start": 126.86,
+    "duration": 3.35
+  },
+  {
+    "text": "You're doing the house,",
+    "start": 135.64,
+    "duration": 1.15
+  },
+  {
+    "text": "and you have to leave\ncavities for your two doors.",
+    "start": 136.79,
+    "duration": 3.09
+  },
+  {
+    "text": "What happens is it kind of",
+    "start": 139.88,
+    "duration": 1.628
+  },
+  {
+    "text": "splits that house into two wall sections,",
+    "start": 141.508,
+    "duration": 3.522
+  },
+  {
+    "text": "left of the door and right of the door.",
+    "start": 145.03,
+    "duration": 2.05
+  },
+  {
+    "text": "And what it'll do is it'll\ndo that wall section,",
+    "start": 147.08,
+    "duration": 2.67
+  },
+  {
+    "text": "it'll lift up, go to the\nother side of the door,",
+    "start": 149.75,
+    "duration": 2.79
+  },
+  {
+    "text": "and complete that other wall section.",
+    "start": 152.54,
+    "duration": 1.91
+  },
+  {
+    "text": "And then once you're\nat the top of the door,",
+    "start": 154.45,
+    "duration": 1.78
+  },
+  {
+    "text": "what we do is we add a,",
+    "start": 156.23,
+    "duration": 1.133
+  },
+  {
+    "text": "I refer to it as a manual support,",
+    "start": 157.363,
+    "duration": 1.908
+  },
+  {
+    "text": "and so what we do is we add a steel lintel",
+    "start": 159.271,
+    "duration": 2.789
+  },
+  {
+    "text": "that stretches across that window or door,",
+    "start": 162.06,
+    "duration": 2.81
+  },
+  {
+    "text": "and then the printer\nthen continues printing",
+    "start": 164.87,
+    "duration": 2.58
+  },
+  {
+    "text": "directly over top that system.",
+    "start": 167.45,
+    "duration": 1.56
+  },
+  {
+    "text": "Each house consists of around 150 layers.",
+    "start": 169.01,
+    "duration": 2.21
+  },
+  {
+    "text": "Each layer is approximately",
+    "start": 171.22,
+    "duration": 1.408
+  },
+  {
+    "text": "three-quarters of an inch thick,",
+    "start": 172.628,
+    "duration": 2.016
+  },
+  {
+    "text": "and so that makes a standard 9-foot wall.",
+    "start": 174.644,
+    "duration": 3.726
+  },
+  {
+    "text": "Based on our current mixed design,",
+    "start": 178.37,
+    "duration": 2.16
+  },
+  {
+    "text": "each layer takes around five to 10 minutes",
+    "start": 180.53,
+    "duration": 2.1
+  },
+  {
+    "text": "before we add another layer on top of it.",
+    "start": 182.63,
+    "duration": 2.87
+  },
+  {
+    "text": "So that's the layer set time,",
+    "start": 185.5,
+    "duration": 1.733
+  },
+  {
+    "text": "until it's hard enough\nto be able to hold weight",
+    "start": 187.233,
+    "duration": 2.191
+  },
+  {
+    "text": "for another layer to be added.",
+    "start": 189.424,
+    "duration": 1.586
+  },
+  {
+    "text": "And then we try to hold\noff for around two weeks",
+    "start": 191.01,
+    "duration": 3.76
+  },
+  {
+    "text": "before any large load-bearing weight,",
+    "start": 194.77,
+    "duration": 2.77
+  },
+  {
+    "text": "such as a roof system, be added.",
+    "start": 197.54,
+    "duration": 2.5
+  },
+  {
+    "text": "And concrete reaches the\nmax strength at 28 days.",
+    "start": 200.04,
+    "duration": 3.863
+  },
+  {
+    "text": "Nozzle design is really customizable,",
+    "start": 205.98,
+    "duration": 2.64
+  },
+  {
+    "text": "especially in the\n3D-construction industry.",
+    "start": 208.62,
+    "duration": 2.36
+  },
+  {
+    "text": "There's the squared-off nozzle,",
+    "start": 210.98,
+    "duration": 1.87
+  },
+  {
+    "text": "where it has a flat aesthetic.",
+    "start": 212.85,
+    "duration": 1.69
+  },
+  {
+    "text": "And then there's the rounder nozzle",
+    "start": 214.54,
+    "duration": 2.02
+  },
+  {
+    "text": "that leaves a more of a bead look.",
+    "start": 216.56,
+    "duration": 1.72
+  },
+  {
+    "text": "They have the same properties",
+    "start": 218.28,
+    "duration": 1.133
+  },
+  {
+    "text": "as far as structural design.",
+    "start": 219.413,
+    "duration": 1.916
+  },
+  {
+    "text": "It's more of aesthetic finish.",
+    "start": 221.329,
+    "duration": 1.724
+  },
+  {
+    "text": "With the printed system, if you wanted",
+    "start": 224.298,
+    "duration": 1.956
+  },
+  {
+    "text": "a more structural or more\nballistic-based wall,",
+    "start": 226.254,
+    "duration": 3.866
+  },
+  {
+    "text": "you could increase the\nconcrete in that wall system",
+    "start": 230.12,
+    "duration": 2.67
+  },
+  {
+    "text": "by increasing the nozzle thickness.",
+    "start": 232.79,
+    "duration": 2.17
+  },
+  {
+    "text": "What we have is, on this specific nozzle,",
+    "start": 234.96,
+    "duration": 3.19
+  },
+  {
+    "text": "the back end of the nozzle",
+    "start": 238.15,
+    "duration": 2.708
+  },
+  {
+    "text": "has a raking system.",
+    "start": 240.858,
+    "duration": 2.358
+  },
+  {
+    "text": "And so as it goes, it\nprovides those grooves,",
+    "start": 243.216,
+    "duration": 2.764
+  },
+  {
+    "text": "and that's just the indicator",
+    "start": 245.98,
+    "duration": 1.131
+  },
+  {
+    "text": "of making sure you're at that right height",
+    "start": 247.111,
+    "duration": 2.639
+  },
+  {
+    "text": "and allowing the next layer to",
+    "start": 249.75,
+    "duration": 1.75
+  },
+  {
+    "text": "smooth it directly over top.",
+    "start": 251.5,
+    "duration": 1.291
+  },
+  {
+    "text": "The process and way it's done,",
+    "start": 252.791,
+    "duration": 1.509
+  },
+  {
+    "text": "very similar to a brick-laying system,",
+    "start": 254.3,
+    "duration": 3.553
+  },
+  {
+    "text": "where you would go around",
+    "start": 257.853,
+    "duration": 1.4
+  },
+  {
+    "text": "and you do one layer of bricks,",
+    "start": 259.253,
+    "duration": 2.257
+  },
+  {
+    "text": "and then once that layer's finished,",
+    "start": 261.51,
+    "duration": 1.308
+  },
+  {
+    "text": "you go to the next one.",
+    "start": 262.818,
+    "duration": 1.092
+  },
+  {
+    "text": "It's very similar in that process.",
+    "start": 263.91,
+    "duration": 1.74
+  },
+  {
+    "text": "However, the building materials",
+    "start": 265.65,
+    "duration": 1.4
+  },
+  {
+    "text": "and the labor-intensive portion of that",
+    "start": 267.05,
+    "duration": 2.56
+  },
+  {
+    "text": "is obviously different.",
+    "start": 269.61,
+    "duration": 1.04
+  },
+  {
+    "text": "3D-printed homes allow\nfor quicker construction",
+    "start": 270.65,
+    "duration": 2.09
+  },
+  {
+    "text": "that are also less expensive",
+    "start": 272.74,
+    "duration": 1.97
+  },
+  {
+    "text": "and more durable over\na long period of time.",
+    "start": 274.71,
+    "duration": 1.93
+  },
+  {
+    "text": "Since we have those two withes,",
+    "start": 276.64,
+    "duration": 1.79
+  },
+  {
+    "text": "all our homes are\nconsidered thermally broken,",
+    "start": 278.43,
+    "duration": 2.36
+  },
+  {
+    "text": "which allows for less utility cost",
+    "start": 280.79,
+    "duration": 2.475
+  },
+  {
+    "text": "to maintain the home.",
+    "start": 283.265,
+    "duration": 2.175
+  },
+  {
+    "text": "One of the main questions",
+    "start": 285.44,
+    "duration": 2.225
+  },
+  {
+    "text": "that I get on my TikTok\nor personal interactions",
+    "start": 287.665,
+    "duration": 4.259
+  },
+  {
+    "text": "is the replacing of manual labor",
+    "start": 291.924,
+    "duration": 2.733
+  },
+  {
+    "text": "and people leaving without jobs.",
+    "start": 294.657,
+    "duration": 1.703
+  },
+  {
+    "text": "And just want to address that here,",
+    "start": 296.36,
+    "duration": 1.5
+  },
+  {
+    "text": "is this technology we see as the answer to",
+    "start": 297.86,
+    "duration": 3.13
+  },
+  {
+    "text": "and not the cause of the\nnational job shortage.",
+    "start": 300.99,
+    "duration": 2.62
+  },
+  {
+    "text": "We are committed to locally hire",
+    "start": 303.61,
+    "duration": 1.967
+  },
+  {
+    "text": "crews to run our machines.",
+    "start": 305.577,
+    "duration": 0.908
+  },
+  {
+    "text": "So if we go into a community,",
+    "start": 306.485,
+    "duration": 1.541
+  },
+  {
+    "text": "we hire from within that town,",
+    "start": 308.026,
+    "duration": 1.616
+  },
+  {
+    "text": "train them on the printer,",
+    "start": 309.642,
+    "duration": 1.228
+  },
+  {
+    "text": "and they become our\nprint crew in the area.",
+    "start": 310.87,
+    "duration": 2.89
+  },
+  {
+    "text": "And just like any automation company,",
+    "start": 313.76,
+    "duration": 2.29
+  },
+  {
+    "text": "it's our duty to replace",
+    "start": 316.05,
+    "duration": 1.033
+  },
+  {
+    "text": "any jobs lost through the process.",
+    "start": 317.083,
+    "duration": 2.45
+  },
+  {
+    "text": "And so we are working\nwith a lot of universities",
+    "start": 319.533,
+    "duration": 3.027
+  },
+  {
+    "text": "across the country to create",
+    "start": 322.56,
+    "duration": 1.458
+  },
+  {
+    "text": "a job force development program",
+    "start": 324.018,
+    "duration": 3.116
+  },
+  {
+    "text": "to train people on this new system",
+    "start": 327.134,
+    "duration": 2.176
+  },
+  {
+    "text": "in this very new industry.",
+    "start": 329.31,
+    "duration": 1.442
+  }
+]

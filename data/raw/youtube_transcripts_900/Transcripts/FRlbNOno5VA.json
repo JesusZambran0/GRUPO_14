@@ -1,0 +1,1487 @@
+[
+  {
+    "text": "- Is your character a girl?",
+    "start": 1.347,
+    "duration": 1.743
+  },
+  {
+    "text": "- No. (laughs)",
+    "start": 3.09,
+    "duration": 3.303
+  },
+  {
+    "text": "(board game clicking)",
+    "start": 6.393,
+    "duration": 2.337
+  },
+  {
+    "text": "- Is your person Max?",
+    "start": 8.73,
+    "duration": 1.83
+  },
+  {
+    "text": "- I hate you. (laughs)",
+    "start": 10.56,
+    "duration": 3.96
+  },
+  {
+    "text": "- This is the board game Guess Who.",
+    "start": 14.52,
+    "duration": 2.49
+  },
+  {
+    "text": "- You win.",
+    "start": 17.01,
+    "duration": 1.148
+  },
+  {
+    "text": "- Let's play again.",
+    "start": 18.158,
+    "duration": 0.842
+  },
+  {
+    "text": "- Can you Guess Who?",
+    "start": 19.0,
+    "duration": 0.833
+  },
+  {
+    "text": "- [Narrator] Guess Who.",
+    "start": 19.833,
+    "duration": 0.833
+  },
+  {
+    "text": "Game cards do not actually talk.",
+    "start": 20.666,
+    "duration": 1.234
+  },
+  {
+    "text": "- It was created in the early eighties",
+    "start": 21.9,
+    "duration": 1.44
+  },
+  {
+    "text": "and it was probably my\nfavorite game to play",
+    "start": 23.34,
+    "duration": 2.04
+  },
+  {
+    "text": "as a kid just because\nthe rules were so simple.",
+    "start": 25.38,
+    "duration": 2.16
+  },
+  {
+    "text": "Now, we each had different\nguessing strategies as kids",
+    "start": 27.54,
+    "duration": 2.4
+  },
+  {
+    "text": "but now that I've taken a bunch",
+    "start": 29.94,
+    "duration": 0.93
+  },
+  {
+    "text": "of math classes dealing with\nprobabilities, I wondered",
+    "start": 30.87,
+    "duration": 2.73
+  },
+  {
+    "text": "if there was a way to just\ntotally dominate every game.",
+    "start": 33.6,
+    "duration": 2.82
+  },
+  {
+    "text": "So I thought about it a bunch",
+    "start": 36.42,
+    "duration": 1.47
+  },
+  {
+    "text": "probably more than I\nshould have, but it turns",
+    "start": 37.89,
+    "duration": 1.98
+  },
+  {
+    "text": "out there is a super\nsimple guessing strategy",
+    "start": 39.87,
+    "duration": 3.03
+  },
+  {
+    "text": "that is perfectly legal that\ntheoretically will win you more",
+    "start": 42.9,
+    "duration": 3.24
+  },
+  {
+    "text": "than 96% of your\ncompetitive Guess Who games?",
+    "start": 46.14,
+    "duration": 3.543
+  },
+  {
+    "text": "- I tried it out on a bunch of people",
+    "start": 52.86,
+    "duration": 1.5
+  },
+  {
+    "text": "and it absolutely works.",
+    "start": 54.36,
+    "duration": 1.62
+  },
+  {
+    "text": "So I've been documenting the\npast two weeks of my life",
+    "start": 55.98,
+    "duration": 2.16
+  },
+  {
+    "text": "and instead of just giving you\nguys the answer I wanna share",
+    "start": 58.14,
+    "duration": 3.15
+  },
+  {
+    "text": "in the process of discovery\nbecause I feel like most",
+    "start": 61.29,
+    "duration": 3.03
+  },
+  {
+    "text": "of the times, that's the coolest part.",
+    "start": 64.32,
+    "duration": 1.95
+  },
+  {
+    "text": "I'm running about 20 minutes\nlate, but I'm packing right now",
+    "start": 66.27,
+    "duration": 2.61
+  },
+  {
+    "text": "to take an airplane ride to\nvisit someone I haven't seen",
+    "start": 68.88,
+    "duration": 2.52
+  },
+  {
+    "text": "in 18 years.",
+    "start": 71.4,
+    "duration": 1.41
+  },
+  {
+    "text": "His name is Mr. Malloy",
+    "start": 72.81,
+    "duration": 1.02
+  },
+  {
+    "text": "and he was my high school\nstatistics teacher.",
+    "start": 73.83,
+    "duration": 2.19
+  },
+  {
+    "text": "Basically, I think I figured out a killer",
+    "start": 76.02,
+    "duration": 1.83
+  },
+  {
+    "text": "Guess Who strategy, but I want\nto pick his brain about it.",
+    "start": 77.85,
+    "duration": 2.9
+  },
+  {
+    "text": "As a quick reminder",
+    "start": 83.44,
+    "duration": 0.833
+  },
+  {
+    "text": "in Guess Who you each draw a\ncard and that's your character.",
+    "start": 84.273,
+    "duration": 3.057
+  },
+  {
+    "text": "Then for example, you could start",
+    "start": 87.33,
+    "duration": 1.14
+  },
+  {
+    "text": "by asking does your person wear glasses?",
+    "start": 88.47,
+    "duration": 1.92
+  },
+  {
+    "text": "And if they say no",
+    "start": 90.39,
+    "duration": 1.29
+  },
+  {
+    "text": "then you would flip down all\nthe people wearing glasses.",
+    "start": 91.68,
+    "duration": 2.4
+  },
+  {
+    "text": "Then you take turns\nasking yes or no questions",
+    "start": 94.08,
+    "duration": 1.86
+  },
+  {
+    "text": "and the first person to\nnarrow it down to one wins.",
+    "start": 95.94,
+    "duration": 3.48
+  },
+  {
+    "text": "I think the biggest strategic question is",
+    "start": 99.42,
+    "duration": 1.92
+  },
+  {
+    "text": "whether it's better to ask\nbroad or narrow questions.",
+    "start": 101.34,
+    "duration": 2.88
+  },
+  {
+    "text": "For example, there's\nfive people with hats.",
+    "start": 104.22,
+    "duration": 2.07
+  },
+  {
+    "text": "So a narrow question would be,\ndoes your person have a hat?",
+    "start": 106.29,
+    "duration": 3.03
+  },
+  {
+    "text": "Now there's about a 20% chance they do.",
+    "start": 109.32,
+    "duration": 1.92
+  },
+  {
+    "text": "And if you're right",
+    "start": 111.24,
+    "duration": 0.93
+  },
+  {
+    "text": "you've narrowed it down to\nfive and practically one.",
+    "start": 112.17,
+    "duration": 2.4
+  },
+  {
+    "text": "On the other hand",
+    "start": 114.57,
+    "duration": 1.593
+  },
+  {
+    "text": "if you ask a more broad\nquestion that applies to",
+    "start": 116.163,
+    "duration": 1.197
+  },
+  {
+    "text": "say 10 people",
+    "start": 117.36,
+    "duration": 1.23
+  },
+  {
+    "text": "there's a greater chance the\nanswer will be yes, about 40%.",
+    "start": 118.59,
+    "duration": 3.0
+  },
+  {
+    "text": "But because it was more\nbroad, you're still left",
+    "start": 121.59,
+    "duration": 2.19
+  },
+  {
+    "text": "with 10 people to guess from\nas opposed to only five.",
+    "start": 123.78,
+    "duration": 2.58
+  },
+  {
+    "text": "So my ride is here,\nbut while I'm traveling",
+    "start": 126.36,
+    "duration": 2.64
+  },
+  {
+    "text": "try and think of which of\nthe two strategies is better.",
+    "start": 129.0,
+    "duration": 2.85
+  },
+  {
+    "text": "I'll give you a hint.",
+    "start": 131.85,
+    "duration": 0.833
+  },
+  {
+    "text": "One is definitely way\nbetter than the other.",
+    "start": 132.683,
+    "duration": 2.527
+  },
+  {
+    "text": "And the difference is the key to sort of",
+    "start": 135.21,
+    "duration": 2.58
+  },
+  {
+    "text": "unlocking the super killer strategy.",
+    "start": 137.79,
+    "duration": 2.915
+  },
+  {
+    "text": "(bright electronic music)",
+    "start": 140.705,
+    "duration": 3.5
+  },
+  {
+    "text": "And I'll just say I've had\nliterally hundreds of teachers",
+    "start": 187.29,
+    "duration": 2.43
+  },
+  {
+    "text": "over the past 30 years and\nteachers don't make a difference.",
+    "start": 189.72,
+    "duration": 3.03
+  },
+  {
+    "text": "Awesome teachers make a difference.",
+    "start": 192.75,
+    "duration": 2.1
+  },
+  {
+    "text": "The guy we're about to meet is one",
+    "start": 194.85,
+    "duration": 1.26
+  },
+  {
+    "text": "of four or five teachers\nthat have had more",
+    "start": 196.11,
+    "duration": 1.71
+  },
+  {
+    "text": "of an effect on shaping me\ninto the person I am today",
+    "start": 197.82,
+    "duration": 2.91
+  },
+  {
+    "text": "than all of the rest of them combined.",
+    "start": 200.73,
+    "duration": 2.455
+  },
+  {
+    "text": "(bright electronic music)",
+    "start": 203.185,
+    "duration": 3.5
+  },
+  {
+    "text": "Each are those awesome\nteachers have their own",
+    "start": 213.03,
+    "duration": 1.62
+  },
+  {
+    "text": "teaching style",
+    "start": 214.65,
+    "duration": 0.833
+  },
+  {
+    "text": "but I think the common\nthread was I could just tell",
+    "start": 215.483,
+    "duration": 1.717
+  },
+  {
+    "text": "that they cared about me as\na person and their passion",
+    "start": 217.2,
+    "duration": 2.64
+  },
+  {
+    "text": "about the subject they were\nteaching was contagious.",
+    "start": 219.84,
+    "duration": 2.31
+  },
+  {
+    "text": "You'll see that in a\nminute with Mr. Malloy.",
+    "start": 222.15,
+    "duration": 1.83
+  },
+  {
+    "text": "That's why whenever a teacher asks me to",
+    "start": 223.98,
+    "duration": 1.56
+  },
+  {
+    "text": "like Skype with their classroom",
+    "start": 225.54,
+    "duration": 1.29
+  },
+  {
+    "text": "I always try to find\ntime to make it happen.",
+    "start": 226.83,
+    "duration": 2.01
+  },
+  {
+    "text": "Mainly is like a fist bump",
+    "start": 228.84,
+    "duration": 1.32
+  },
+  {
+    "text": "to that teacher for caring\nenough to do something more",
+    "start": 230.16,
+    "duration": 2.55
+  },
+  {
+    "text": "than just reading from a textbook.",
+    "start": 232.71,
+    "duration": 1.83
+  },
+  {
+    "text": "Cool man.",
+    "start": 234.54,
+    "duration": 0.833
+  },
+  {
+    "text": "Thanks.",
+    "start": 235.373,
+    "duration": 1.387
+  },
+  {
+    "text": "I have not seen Mr. Malloy",
+    "start": 236.76,
+    "duration": 1.44
+  },
+  {
+    "text": "in 18 years and he is in this classroom.",
+    "start": 238.2,
+    "duration": 4.29
+  },
+  {
+    "text": "I'm like scared.",
+    "start": 242.49,
+    "duration": 1.113
+  },
+  {
+    "text": "Here we go.",
+    "start": 244.71,
+    "duration": 0.833
+  },
+  {
+    "text": "- My brother.",
+    "start": 247.602,
+    "duration": 1.083
+  },
+  {
+    "text": "- Brothers don't shake hands.",
+    "start": 249.982,
+    "duration": 1.656
+  },
+  {
+    "text": "How are you?",
+    "start": 251.638,
+    "duration": 0.833
+  },
+  {
+    "text": "The years have been\nkind to you, old friend.",
+    "start": 252.471,
+    "duration": 2.319
+  },
+  {
+    "text": "So there's 24 characters, right?",
+    "start": 254.79,
+    "duration": 2.245
+  },
+  {
+    "text": "Okay, so here it is.",
+    "start": 257.035,
+    "duration": 0.833
+  },
+  {
+    "text": "I mentioned two strategies earlier.",
+    "start": 257.868,
+    "duration": 1.152
+  },
+  {
+    "text": "One was a more narrow guessing\nand one was more broad.",
+    "start": 259.02,
+    "duration": 2.85
+  },
+  {
+    "text": "I always find it useful\nin cases like this where",
+    "start": 261.87,
+    "duration": 1.95
+  },
+  {
+    "text": "the answer isn't totally clear",
+    "start": 263.82,
+    "duration": 1.5
+  },
+  {
+    "text": "to sort of look at the extremes.",
+    "start": 265.32,
+    "duration": 1.74
+  },
+  {
+    "text": "- Does your person's\nname rhyme with fralfred?",
+    "start": 267.06,
+    "duration": 3.39
+  },
+  {
+    "text": "- No.",
+    "start": 270.45,
+    "duration": 1.14
+  },
+  {
+    "text": "So Sarah's question is so narrow",
+    "start": 271.59,
+    "duration": 2.25
+  },
+  {
+    "text": "it only applies to one person.",
+    "start": 273.84,
+    "duration": 2.04
+  },
+  {
+    "text": "Is your person African American?",
+    "start": 275.88,
+    "duration": 3.3
+  },
+  {
+    "text": "Yes.",
+    "start": 279.18,
+    "duration": 0.833
+  },
+  {
+    "text": "And thankfully we've evolved,",
+    "start": 280.013,
+    "duration": 1.177
+  },
+  {
+    "text": "but in Milton Bradley's defense,\nit was the early eighties",
+    "start": 281.19,
+    "duration": 2.46
+  },
+  {
+    "text": "and casual racism was still acceptable.",
+    "start": 283.65,
+    "duration": 2.37
+  },
+  {
+    "text": "You see, with a super\nnarrow guessing strategy.",
+    "start": 286.02,
+    "duration": 2.16
+  },
+  {
+    "text": "One out of 24 times you\nactually get it right",
+    "start": 288.18,
+    "duration": 2.43
+  },
+  {
+    "text": "on the first guess.",
+    "start": 290.61,
+    "duration": 1.23
+  },
+  {
+    "text": "But equally likely is",
+    "start": 291.84,
+    "duration": 1.47
+  },
+  {
+    "text": "that you don't get it right\nuntil your final and 24th guess.",
+    "start": 293.31,
+    "duration": 3.18
+  },
+  {
+    "text": "And since it really has an\nequal chance of being any one",
+    "start": 296.49,
+    "duration": 2.6
+  },
+  {
+    "text": "of those numbers, on average\nit will take 12 guesses to win.",
+    "start": 299.09,
+    "duration": 3.61
+  },
+  {
+    "text": "Now let's look at the other extreme",
+    "start": 302.7,
+    "duration": 1.47
+  },
+  {
+    "text": "with the really broad question.",
+    "start": 304.17,
+    "duration": 1.56
+  },
+  {
+    "text": "So the broadest question would apply",
+    "start": 305.73,
+    "duration": 1.74
+  },
+  {
+    "text": "to exactly half of the characters.",
+    "start": 307.47,
+    "duration": 1.95
+  },
+  {
+    "text": "So no matter",
+    "start": 309.42,
+    "duration": 0.833
+  },
+  {
+    "text": "if the answer is yes or\nno, you knock down half.",
+    "start": 310.253,
+    "duration": 2.857
+  },
+  {
+    "text": "So starting with 24",
+    "start": 313.11,
+    "duration": 1.5
+  },
+  {
+    "text": "then it goes to 12,",
+    "start": 314.61,
+    "duration": 1.56
+  },
+  {
+    "text": "then to six,",
+    "start": 316.17,
+    "duration": 1.23
+  },
+  {
+    "text": "and then to three",
+    "start": 317.4,
+    "duration": 1.2
+  },
+  {
+    "text": "and then to either two or one,\nand then your final guess.",
+    "start": 318.6,
+    "duration": 2.52
+  },
+  {
+    "text": "So in this case you would\nalways win in five or six moves.",
+    "start": 321.12,
+    "duration": 3.78
+  },
+  {
+    "text": "So any other combination of\nnarrow versus broad questions",
+    "start": 324.9,
+    "duration": 3.66
+  },
+  {
+    "text": "including the 10 and five person questions",
+    "start": 328.56,
+    "duration": 3.24
+  },
+  {
+    "text": "I mentioned before would just\nfall somewhere in between.",
+    "start": 331.8,
+    "duration": 2.97
+  },
+  {
+    "text": "And this gives you a\nhuge advantage because",
+    "start": 334.77,
+    "duration": 2.19
+  },
+  {
+    "text": "the game is intentionally\ndesigned to ask narrow questions.",
+    "start": 336.96,
+    "duration": 3.3
+  },
+  {
+    "text": "So prepare to have your mind blown,",
+    "start": 340.26,
+    "duration": 2.34
+  },
+  {
+    "text": "but every single attribute",
+    "start": 342.6,
+    "duration": 1.56
+  },
+  {
+    "text": "and Guess Who applies\nto exactly five people.",
+    "start": 344.16,
+    "duration": 3.18
+  },
+  {
+    "text": "So five people have\nglasses, five have mustaches",
+    "start": 347.34,
+    "duration": 3.45
+  },
+  {
+    "text": "five people have red hair",
+    "start": 350.79,
+    "duration": 1.62
+  },
+  {
+    "text": "five have hats, blue eyes, five are women",
+    "start": 352.41,
+    "duration": 3.18
+  },
+  {
+    "text": "five are bald, blonde hair,\nblack hair, white hair, exactly.",
+    "start": 355.59,
+    "duration": 4.08
+  },
+  {
+    "text": "Five people even have big\nnoses and rosy cheeks.",
+    "start": 359.67,
+    "duration": 3.51
+  },
+  {
+    "text": "So given that every attribute\napplies to only five people",
+    "start": 363.18,
+    "duration": 3.45
+  },
+  {
+    "text": "how can you possibly ask\na question that applies",
+    "start": 366.63,
+    "duration": 2.7
+  },
+  {
+    "text": "to exactly half of them?",
+    "start": 369.33,
+    "duration": 1.38
+  },
+  {
+    "text": "Well, there's several\ndifferent ways to do it",
+    "start": 370.71,
+    "duration": 1.2
+  },
+  {
+    "text": "but one idea is to ask a question like",
+    "start": 371.91,
+    "duration": 2.34
+  },
+  {
+    "text": "does your person have white\nhair or red hair or glasses?",
+    "start": 374.25,
+    "duration": 5.0
+  },
+  {
+    "text": "Now this is perfectly\nlegal since the rules state",
+    "start": 379.361,
+    "duration": 3.019
+  },
+  {
+    "text": "you just have to ask a yes or no question.",
+    "start": 382.38,
+    "duration": 2.79
+  },
+  {
+    "text": "Then on your next turn, you\njust pick some combination",
+    "start": 385.17,
+    "duration": 2.25
+  },
+  {
+    "text": "of attributes that applies\nto half the remaining people.",
+    "start": 387.42,
+    "duration": 2.49
+  },
+  {
+    "text": "Another idea would be",
+    "start": 389.91,
+    "duration": 0.84
+  },
+  {
+    "text": "does your person's name start\nwith a letters A through L?",
+    "start": 390.75,
+    "duration": 2.82
+  },
+  {
+    "text": "- No, that sounds right.",
+    "start": 393.57,
+    "duration": 1.607
+  },
+  {
+    "text": "- Okay, good.",
+    "start": 395.177,
+    "duration": 0.924
+  },
+  {
+    "text": "I have his approval.",
+    "start": 396.101,
+    "duration": 0.833
+  },
+  {
+    "text": "(laughing)",
+    "start": 396.934,
+    "duration": 0.833
+  },
+  {
+    "text": "Okay. And now for the hard part",
+    "start": 397.767,
+    "duration": 1.173
+  },
+  {
+    "text": "I want to know what is\nthe true probability",
+    "start": 398.94,
+    "duration": 2.4
+  },
+  {
+    "text": "of me winning with this strategy, right?",
+    "start": 401.34,
+    "duration": 2.37
+  },
+  {
+    "text": "I wanna know when I go",
+    "start": 403.71,
+    "duration": 0.84
+  },
+  {
+    "text": "into battle against my\nsix year old nephew,",
+    "start": 404.55,
+    "duration": 3.03
+  },
+  {
+    "text": "How confident can I be that I'm gonna win?",
+    "start": 407.58,
+    "duration": 2.16
+  },
+  {
+    "text": "- Right?\n- Can you do that?",
+    "start": 409.74,
+    "duration": 1.5
+  },
+  {
+    "text": "- Yeah.\n- Okay.",
+    "start": 411.24,
+    "duration": 1.14
+  },
+  {
+    "text": "Statistics!",
+    "start": 412.38,
+    "duration": 0.873
+  },
+  {
+    "text": "Let's talk about it.",
+    "start": 414.21,
+    "duration": 1.14
+  },
+  {
+    "text": "- Well, here's an example\nof a random event happening.",
+    "start": 415.35,
+    "duration": 2.25
+  },
+  {
+    "text": "There's 256 little BBs in here, okay?",
+    "start": 417.6,
+    "duration": 2.64
+  },
+  {
+    "text": "And when they drop through the hopper",
+    "start": 420.24,
+    "duration": 1.87
+  },
+  {
+    "text": "they always make this normal curve.",
+    "start": 423.45,
+    "duration": 1.98
+  },
+  {
+    "text": "It's a random process, but you do know",
+    "start": 425.43,
+    "duration": 2.07
+  },
+  {
+    "text": "that the group will always look like this.",
+    "start": 427.5,
+    "duration": 2.64
+  },
+  {
+    "text": "It's fascinating.",
+    "start": 430.14,
+    "duration": 0.87
+  },
+  {
+    "text": "- And what's also fascinating\nis that anytime you",
+    "start": 431.01,
+    "duration": 2.37
+  },
+  {
+    "text": "have a bell curve like this\nin real life, it always breaks",
+    "start": 433.38,
+    "duration": 2.49
+  },
+  {
+    "text": "down to the percentage you\nsee here for each standard",
+    "start": 435.87,
+    "duration": 2.82
+  },
+  {
+    "text": "deviation away from the\naverage in the middle.",
+    "start": 438.69,
+    "duration": 2.16
+  },
+  {
+    "text": "So for example, every time you\nflip that card over about 38%",
+    "start": 440.85,
+    "duration": 3.21
+  },
+  {
+    "text": "of the BBs will always fall\ninto the chute in the middle.",
+    "start": 444.06,
+    "duration": 2.91
+  },
+  {
+    "text": "- So even though your strategy is better",
+    "start": 446.97,
+    "duration": 1.68
+  },
+  {
+    "text": "than your opponents, sometimes he'll win.",
+    "start": 448.65,
+    "duration": 2.61
+  },
+  {
+    "text": "So knowing the from the mean\nand the standard deviation",
+    "start": 451.26,
+    "duration": 2.75
+  },
+  {
+    "text": "and the normal curve calculations",
+    "start": 454.891,
+    "duration": 1.451
+  },
+  {
+    "text": "we can calculate how often\nhe'll win in three moves, okay?",
+    "start": 456.342,
+    "duration": 2.118
+  },
+  {
+    "text": "And how often he'll win\nin seven moves, say, okay.",
+    "start": 458.46,
+    "duration": 2.85
+  },
+  {
+    "text": "And then if you multiply\nthose probabilities",
+    "start": 461.31,
+    "duration": 2.04
+  },
+  {
+    "text": "together using the multiplication rule",
+    "start": 463.35,
+    "duration": 1.95
+  },
+  {
+    "text": "you'll actually get a little\nsquare here and that says",
+    "start": 465.3,
+    "duration": 3.18
+  },
+  {
+    "text": "what's the probability\nof that game happening?",
+    "start": 468.48,
+    "duration": 2.3
+  },
+  {
+    "text": "And you can fill in this whole grid",
+    "start": 471.66,
+    "duration": 1.68
+  },
+  {
+    "text": "and know all the probabilities",
+    "start": 473.34,
+    "duration": 1.44
+  },
+  {
+    "text": "of a certain game occurring.",
+    "start": 474.78,
+    "duration": 2.013
+  },
+  {
+    "text": "And if you add these up, we have 99%",
+    "start": 477.87,
+    "duration": 2.31
+  },
+  {
+    "text": "of all the outcomes of the\ngames you lose 14% of the time.",
+    "start": 480.18,
+    "duration": 3.723
+  },
+  {
+    "text": "- And you got that",
+    "start": 486.0,
+    "duration": 1.627
+  },
+  {
+    "text": "by just saying two plus two\nplus two plus two plus six.",
+    "start": 487.627,
+    "duration": 2.413
+  },
+  {
+    "text": "- It's that easy, yep.",
+    "start": 490.04,
+    "duration": 1.121
+  },
+  {
+    "text": "And you win 63% of the time.",
+    "start": 491.161,
+    "duration": 2.092
+  },
+  {
+    "text": "- This is super cool\nbecause these percentages",
+    "start": 493.253,
+    "duration": 2.647
+  },
+  {
+    "text": "for a bell curve match up\nwith exactly what our BBs",
+    "start": 495.9,
+    "duration": 3.06
+  },
+  {
+    "text": "showed us earlier in real life, right?",
+    "start": 498.96,
+    "duration": 2.16
+  },
+  {
+    "text": "So just to make sure I got\nthis, for our hypothetical",
+    "start": 501.12,
+    "duration": 2.01
+  },
+  {
+    "text": "situation here, there is\na 38% chance my opponent",
+    "start": 503.13,
+    "duration": 4.17
+  },
+  {
+    "text": "will guess their person in six moves.",
+    "start": 507.3,
+    "duration": 2.4
+  },
+  {
+    "text": "Yep. Now I'm a little better.",
+    "start": 509.7,
+    "duration": 2.49
+  },
+  {
+    "text": "So there's a 38% chance\nthat I will guess my person",
+    "start": 512.19,
+    "duration": 4.56
+  },
+  {
+    "text": "in five moves.",
+    "start": 516.75,
+    "duration": 1.801
+  },
+  {
+    "text": "Yes. So the chance of having\nthat game happen where I win",
+    "start": 518.551,
+    "duration": 2.729
+  },
+  {
+    "text": "in five guesses versus\nhis six guesses is 15%",
+    "start": 521.28,
+    "duration": 5.0
+  },
+  {
+    "text": "right? And that's because\n38% times 38% equals 15.",
+    "start": 527.97,
+    "duration": 4.26
+  },
+  {
+    "text": "- Yep.",
+    "start": 532.23,
+    "duration": 0.833
+  },
+  {
+    "text": "You just multiply, it's just\nlike a rectangular area.",
+    "start": 533.063,
+    "duration": 3.247
+  },
+  {
+    "text": "- It's just like old times.",
+    "start": 536.31,
+    "duration": 0.96
+  },
+  {
+    "text": "It's like we multiplied\nall the time in your class.",
+    "start": 537.27,
+    "duration": 2.64
+  },
+  {
+    "text": "- Just like back in the day,",
+    "start": 539.91,
+    "duration": 1.14
+  },
+  {
+    "text": "all that multiplying.",
+    "start": 541.05,
+    "duration": 1.26
+  },
+  {
+    "text": "- Now, one of the things I remember",
+    "start": 542.31,
+    "duration": 1.29
+  },
+  {
+    "text": "from your class is that I can't\njust like play three games",
+    "start": 543.6,
+    "duration": 3.24
+  },
+  {
+    "text": "and assume that that's going",
+    "start": 546.84,
+    "duration": 1.77
+  },
+  {
+    "text": "to be statistically valid, right?",
+    "start": 548.61,
+    "duration": 2.07
+  },
+  {
+    "text": "- Yes.",
+    "start": 550.68,
+    "duration": 0.833
+  },
+  {
+    "text": "- How many games of Guess\nWho do I need to play",
+    "start": 551.513,
+    "duration": 2.347
+  },
+  {
+    "text": "to be confident that I have\nthe right distribution?",
+    "start": 553.86,
+    "duration": 3.15
+  },
+  {
+    "text": "- You would have to play 625 games.",
+    "start": 557.01,
+    "duration": 2.283
+  },
+  {
+    "text": "- That's a big number. (laughing)",
+    "start": 560.97,
+    "duration": 1.65
+  },
+  {
+    "text": "- That's a lot of Guess Who.",
+    "start": 562.62,
+    "duration": 1.4
+  },
+  {
+    "text": "- That is a lot of Guess Who.",
+    "start": 565.11,
+    "duration": 2.55
+  },
+  {
+    "text": "So I have 625 games to\ngo, but at the end of that",
+    "start": 567.66,
+    "duration": 5.0
+  },
+  {
+    "text": "my goal is to find the true bell curve",
+    "start": 572.91,
+    "duration": 3.36
+  },
+  {
+    "text": "for the standard strategy",
+    "start": 576.27,
+    "duration": 1.41
+  },
+  {
+    "text": "and the true bell curve for\nmy tricky strategy, right?",
+    "start": 577.68,
+    "duration": 2.64
+  },
+  {
+    "text": "And then at that point,\nI can populate this chart",
+    "start": 580.32,
+    "duration": 2.49
+  },
+  {
+    "text": "and then I can add up\nthe pink numbers, right?",
+    "start": 582.81,
+    "duration": 2.01
+  },
+  {
+    "text": "So that means if I sit down",
+    "start": 584.82,
+    "duration": 1.26
+  },
+  {
+    "text": "and play my five year\nold nephew in Guess Who",
+    "start": 586.08,
+    "duration": 2.37
+  },
+  {
+    "text": "I'll be like there's a 90% chance I win",
+    "start": 588.45,
+    "duration": 2.49
+  },
+  {
+    "text": "I'm gonna destroy the underground",
+    "start": 590.94,
+    "duration": 1.89
+  },
+  {
+    "text": "Guess Who gambling market in\nVegas with one YouTube video.",
+    "start": 592.83,
+    "duration": 3.363
+  },
+  {
+    "text": "(bright electronic music)",
+    "start": 597.282,
+    "duration": 3.5
+  },
+  {
+    "text": "So it was gonna take a\nwhile to finish 625 games.",
+    "start": 617.52,
+    "duration": 4.8
+  },
+  {
+    "text": "So I called up my super smart buddy Chad",
+    "start": 622.32,
+    "duration": 2.01
+  },
+  {
+    "text": "who you might recognize",
+    "start": 624.33,
+    "duration": 1.17
+  },
+  {
+    "text": "from when we built the annoying\ncoworker countdown NES hack.",
+    "start": 625.5,
+    "duration": 3.753
+  },
+  {
+    "text": "- Oh gosh.",
+    "start": 630.15,
+    "duration": 0.833
+  },
+  {
+    "text": "- And with Chad's big brain\nand a computer program",
+    "start": 632.43,
+    "duration": 2.1
+  },
+  {
+    "text": "he wrote emulating the\nstandard guessing strategy.",
+    "start": 634.53,
+    "duration": 2.76
+  },
+  {
+    "text": "After a thousand games,\nwe discover the typical",
+    "start": 637.29,
+    "duration": 2.37
+  },
+  {
+    "text": "Guess Who player will\ntake about seven guesses",
+    "start": 639.66,
+    "duration": 3.12
+  },
+  {
+    "text": "with the standard deviation of about two.",
+    "start": 642.78,
+    "duration": 2.817
+  },
+  {
+    "text": "So when you plug that into Mr.",
+    "start": 645.597,
+    "duration": 1.834
+  },
+  {
+    "text": "Malloy's chart, we find",
+    "start": 647.431,
+    "duration": 1.652
+  },
+  {
+    "text": "that the improved guessing\nstrategy will win 80%",
+    "start": 649.083,
+    "duration": 2.008
+  },
+  {
+    "text": "of the time.",
+    "start": 651.091,
+    "duration": 0.885
+  },
+  {
+    "text": "Now, at the beginning of this video",
+    "start": 651.976,
+    "duration": 1.185
+  },
+  {
+    "text": "I promised you would win\n96% of your Guess Who games.",
+    "start": 653.161,
+    "duration": 2.339
+  },
+  {
+    "text": "And the key to get there\nis just to play first",
+    "start": 655.5,
+    "duration": 1.95
+  },
+  {
+    "text": "one to five wins.",
+    "start": 657.45,
+    "duration": 0.99
+  },
+  {
+    "text": "Guess Who actually calls\nthis championship mode?",
+    "start": 658.44,
+    "duration": 1.98
+  },
+  {
+    "text": "And they even provide pegs",
+    "start": 660.42,
+    "duration": 1.2
+  },
+  {
+    "text": "for you to keep track of\nthe first one to five.",
+    "start": 661.62,
+    "duration": 1.89
+  },
+  {
+    "text": "The reason this increases\nyour chances so much is",
+    "start": 663.51,
+    "duration": 2.25
+  },
+  {
+    "text": "because of what's called\nthe law of large numbers.",
+    "start": 665.76,
+    "duration": 1.95
+  },
+  {
+    "text": "Basically, the more games you\nplay, there's a regression",
+    "start": 667.71,
+    "duration": 2.61
+  },
+  {
+    "text": "to the mean or a convergence\nto the predicted probability.",
+    "start": 670.32,
+    "duration": 3.93
+  },
+  {
+    "text": "So this dash line is your\npredicted winning percentage",
+    "start": 674.25,
+    "duration": 2.7
+  },
+  {
+    "text": "but to win overall",
+    "start": 676.95,
+    "duration": 1.23
+  },
+  {
+    "text": "you just need to win\nmore games than you lose.",
+    "start": 678.18,
+    "duration": 2.13
+  },
+  {
+    "text": "So you want to be above the\ndried spaghetti line at 50%.",
+    "start": 680.31,
+    "duration": 3.54
+  },
+  {
+    "text": "Now this spot here is just pizza grease",
+    "start": 683.85,
+    "duration": 2.46
+  },
+  {
+    "text": "and it has no meaning.",
+    "start": 686.31,
+    "duration": 1.02
+  },
+  {
+    "text": "So you might get unlucky\nand lose the first game",
+    "start": 687.33,
+    "duration": 2.46
+  },
+  {
+    "text": "but then you win the second game.",
+    "start": 689.79,
+    "duration": 1.44
+  },
+  {
+    "text": "Now this frozen chicken\nnugget will represent",
+    "start": 691.23,
+    "duration": 2.22
+  },
+  {
+    "text": "the running average, and right\nnow it's right in the middle.",
+    "start": 693.45,
+    "duration": 2.28
+  },
+  {
+    "text": "But let's say you get unlucky\nand lose the third game",
+    "start": 695.73,
+    "duration": 3.12
+  },
+  {
+    "text": "if the match was over now you would lose",
+    "start": 698.85,
+    "duration": 2.52
+  },
+  {
+    "text": "since the nugget is below the spaghetti.",
+    "start": 701.37,
+    "duration": 2.1
+  },
+  {
+    "text": "But the law of large number states",
+    "start": 703.47,
+    "duration": 1.41
+  },
+  {
+    "text": "that over time the chicken\nnugget will migrate",
+    "start": 704.88,
+    "duration": 2.1
+  },
+  {
+    "text": "towards the dashed line\nand then just stay there.",
+    "start": 706.98,
+    "duration": 2.28
+  },
+  {
+    "text": "So after a while you can see\nthat even if your opponent goes",
+    "start": 709.26,
+    "duration": 2.79
+  },
+  {
+    "text": "on a hot streak, the\nnugget doesn't move much",
+    "start": 712.05,
+    "duration": 2.7
+  },
+  {
+    "text": "and you can pretty much\nguarantee victory since",
+    "start": 714.75,
+    "duration": 2.16
+  },
+  {
+    "text": "there's no way we'll dip back\ndown below the spaghetti.",
+    "start": 716.91,
+    "duration": 3.69
+  },
+  {
+    "text": "This is exactly why Vegas casinos\nhave no windows or clocks.",
+    "start": 720.6,
+    "duration": 2.64
+  },
+  {
+    "text": "They have a small statistical advantage.",
+    "start": 723.24,
+    "duration": 1.98
+  },
+  {
+    "text": "So the longer you stay there",
+    "start": 725.22,
+    "duration": 1.68
+  },
+  {
+    "text": "the more they are guaranteed\nto come out ahead.",
+    "start": 726.9,
+    "duration": 2.64
+  },
+  {
+    "text": "And it's also why",
+    "start": 729.54,
+    "duration": 1.08
+  },
+  {
+    "text": "if LeBron James ever challenges\nyou to a game of one-on-one",
+    "start": 730.62,
+    "duration": 3.15
+  },
+  {
+    "text": "do not play best two out\nof three, play one game.",
+    "start": 733.77,
+    "duration": 3.54
+  },
+  {
+    "text": "First point wins if possible.",
+    "start": 737.31,
+    "duration": 1.594
+  },
+  {
+    "text": "But you know what I like a lot more",
+    "start": 738.904,
+    "duration": 1.406
+  },
+  {
+    "text": "than children's board games?",
+    "start": 740.31,
+    "duration": 1.77
+  },
+  {
+    "text": "Knowledge.",
+    "start": 742.08,
+    "duration": 1.203
+  }
+]

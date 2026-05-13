@@ -1,0 +1,266 @@
+{
+  "name": "requiere ajustes (políticas)",
+  "transcript_text": "Esta dieta milagrosa funciona sin fallar, garantizado 100%. Pierde peso rápido y sin esfuerzo.",
+  "ocr_text": "DIETA MILAGROSA RESULTADOS GARANTIZADOS",
+  "result_json": {
+    "prediccion_rendimiento": "muy_alto",
+    "probabilidad_rendimiento": 0.881,
+    "recomendacion_impulso": "ajustar antes de impulsar",
+    "requiere_ajustes": true,
+    "nivel_prioridad": "alta",
+    "alcance_estimado_por_dolar": 320.0,
+    "alcance_estimado_total": 6400.0,
+    "metricas": {
+      "views": 2400,
+      "likes": 42,
+      "comments": 8,
+      "engagement_rate": 0.020833,
+      "like_rate": 0.0175,
+      "comment_rate": 0.003333,
+      "views_per_day": 2400.0,
+      "duration_seconds": 120.0,
+      "duration_fit_score": 0.55,
+      "text_power_score": 0.35,
+      "title_word_count": 7,
+      "description_word_count": 9,
+      "transcript_word_count": 14,
+      "ocr_word_count": 4,
+      "ocr_frame_coverage": 0.5333,
+      "visual_text_density": "media",
+      "video_type": "con narrador",
+      "operational": {
+        "shares": 5,
+        "share_rate": 0.002083,
+        "retention_rate": 0.3,
+        "hours_since_publication": 24.0,
+        "views_per_hour": 100.0,
+        "average_watch_time": 0.0,
+        "followers_count": 0,
+        "avg_channel_reach": 0
+      }
+    },
+    "analisis_transcripcion": {
+      "disponible": true,
+      "fuente": "demo_precalculado",
+      "advertencia": "",
+      "longitud_caracteres": 94,
+      "cantidad_palabras": 14,
+      "tiene_cta": false,
+      "tiene_beneficio": true,
+      "tiene_urgencia": false,
+      "tiene_confianza": false,
+      "preview": "Esta dieta milagrosa funciona sin fallar, garantizado 100%. Pierde peso rápido y sin esfuerzo."
+    },
+    "analisis_ocr": {
+      "disponible": true,
+      "motor": "demo_precalculado",
+      "advertencia": "",
+      "frames_con_texto": 8,
+      "frames_totales": 15,
+      "cobertura": 0.5333,
+      "cantidad_palabras": 4,
+      "densidad": "media",
+      "tiene_cta": false,
+      "tiene_promocion": true,
+      "tiene_urgencia": false,
+      "tiene_confianza": true,
+      "tiene_exceso_texto": false,
+      "preview": "DIETA MILAGROSA RESULTADOS GARANTIZADOS"
+    },
+    "analisis_llm": {
+      "llm_available": false,
+      "llm_engine": "rules",
+      "claridad_mensaje": 78,
+      "fuerza_cta": 30,
+      "coherencia_semantica": 75,
+      "complejidad_sintactica": "baja",
+      "tipo_contenido": "promocional",
+      "riesgo_comunicacional": "alto",
+      "fortalezas": [
+        "Incluye señales de confianza o legitimidad.",
+        "Incluye elementos promocionales útiles para pauta.",
+        "Presenta una propuesta de valor reconocible."
+      ],
+      "debilidades": [
+        "El llamado a la acción no es suficientemente explícito.",
+        "La duración extensa puede penalizar la retención en formatos pagos.",
+        "Riesgo de políticas de YouTube Ads detectado: alto."
+      ],
+      "ajustes_sugeridos": [
+        "Agregar un llamado a la acción claro en los primeros segundos del video.",
+        "Evaluar una versión más corta para pauta, priorizando el gancho inicial."
+      ],
+      "recomendacion_llm": "ajustar antes de impulsar",
+      "justificacion": "Redacción generada por el motor de reglas locales (sin LLM). Las puntuaciones provienen de heurísticas léxicas y métricas derivadas; no reemplazan al modelo predictivo."
+    },
+    "analisis_politicas": {
+      "policy_risk_level": "alto",
+      "policy_risk_categories": [
+        "afirmaciones exageradas",
+        "salud o pérdida de peso"
+      ],
+      "policy_explanation": "Se detectaron señales en: afirmaciones exageradas, salud o pérdida de peso. El nivel de riesgo es alto; YouTube probablemente limitará la monetización. Este screening no reemplaza la revisión oficial de YouTube.",
+      "youtube_ad_status_estimate": "no apto",
+      "hits": {
+        "afirmaciones exageradas": [
+          "garantizado 100",
+          "resultados garantizados",
+          "sin fallar",
+          "milagrosa",
+          "milagro"
+        ],
+        "salud o pérdida de peso": [
+          "pierde peso rápido",
+          "dieta milagrosa"
+        ]
+      },
+      "partial_evaluation": false,
+      "evaluation_coverage": "completa"
+    },
+    "ajustes_sugeridos": [
+      "Agregar un llamado a la acción claro en los primeros segundos del video.",
+      "Evaluar una versión más corta para pauta, priorizando el gancho inicial."
+    ],
+    "justificacion": "Modelo predictivo: nivel `muy_alto` con probabilidad estimada 88.10%. Se aprovechó la transcripción del audio para reforzar el análisis textual. Se incorporó el texto visible detectado por OCR. Se detectaron ajustes recomendados antes de pautar. Riesgo publicitario estimado: alto (estado YouTube Ads: no apto). Score híbrido de decisión: 0.28 (penalización por políticas: ×0.5). El alcance por dólar se estima con CPM parametrizado y multiplicador de potencial; no representa ROI causal real.",
+    "accion_final": "NO IMPULSAR",
+    "score_hibrido": 0.2833,
+    "score_hibrido_detalle": {
+      "score_base": 0.5667,
+      "policy_penalty": 0.5,
+      "hybrid_score": 0.2833,
+      "components": {
+        "model_probability": 0.881,
+        "engagement_rate_norm": 0.1389,
+        "share_rate_norm": 0.0417,
+        "retention_rate_norm": 0.3,
+        "views_per_hour_norm": 0.668
+      }
+    },
+    "policy_risk_level": "alto",
+    "youtube_ad_status_estimate": "no apto",
+    "cpm_estimado": 5.0,
+    "multiplicador_potencial": 1.6,
+    "alcance_base_por_dolar": 200.0,
+    "nota_metodologica": "El modelo fue entrenado con videos públicos de YouTube en trending (Kaggle), lo que introduce sesgo de selección hacia contenido exitoso. Las probabilidades tienden a ser altas; las reglas de ajuste y el score híbrido compensan ese sesgo. La estimación de alcance por dólar usa CPM parametrizado y potencial predicho; no representa ROI causal real.",
+    "warnings": [
+      "Resultado precalculado en modo demo seguro."
+    ]
+  },
+  "metricas": {
+    "views": 2400,
+    "likes": 42,
+    "comments": 8,
+    "engagement_rate": 0.020833,
+    "like_rate": 0.0175,
+    "comment_rate": 0.003333,
+    "views_per_day": 2400.0,
+    "duration_seconds": 120.0,
+    "duration_fit_score": 0.55,
+    "text_power_score": 0.35,
+    "title_word_count": 7,
+    "description_word_count": 9,
+    "transcript_word_count": 14,
+    "ocr_word_count": 4,
+    "ocr_frame_coverage": 0.5333,
+    "visual_text_density": "media",
+    "video_type": "con narrador",
+    "operational": {
+      "shares": 5,
+      "share_rate": 0.002083,
+      "retention_rate": 0.3,
+      "hours_since_publication": 24.0,
+      "views_per_hour": 100.0,
+      "average_watch_time": 0.0,
+      "followers_count": 0,
+      "avg_channel_reach": 0
+    }
+  },
+  "analisis_transcripcion": {
+    "disponible": true,
+    "fuente": "demo_precalculado",
+    "advertencia": "",
+    "longitud_caracteres": 94,
+    "cantidad_palabras": 14,
+    "tiene_cta": false,
+    "tiene_beneficio": true,
+    "tiene_urgencia": false,
+    "tiene_confianza": false,
+    "preview": "Esta dieta milagrosa funciona sin fallar, garantizado 100%. Pierde peso rápido y sin esfuerzo."
+  },
+  "analisis_ocr": {
+    "disponible": true,
+    "motor": "demo_precalculado",
+    "advertencia": "",
+    "frames_con_texto": 8,
+    "frames_totales": 15,
+    "cobertura": 0.5333,
+    "cantidad_palabras": 4,
+    "densidad": "media",
+    "tiene_cta": false,
+    "tiene_promocion": true,
+    "tiene_urgencia": false,
+    "tiene_confianza": true,
+    "tiene_exceso_texto": false,
+    "preview": "DIETA MILAGROSA RESULTADOS GARANTIZADOS"
+  },
+  "analisis_llm": {
+    "llm_available": false,
+    "llm_engine": "rules",
+    "claridad_mensaje": 78,
+    "fuerza_cta": 30,
+    "coherencia_semantica": 75,
+    "complejidad_sintactica": "baja",
+    "tipo_contenido": "promocional",
+    "riesgo_comunicacional": "alto",
+    "fortalezas": [
+      "Incluye señales de confianza o legitimidad.",
+      "Incluye elementos promocionales útiles para pauta.",
+      "Presenta una propuesta de valor reconocible."
+    ],
+    "debilidades": [
+      "El llamado a la acción no es suficientemente explícito.",
+      "La duración extensa puede penalizar la retención en formatos pagos.",
+      "Riesgo de políticas de YouTube Ads detectado: alto."
+    ],
+    "ajustes_sugeridos": [
+      "Agregar un llamado a la acción claro en los primeros segundos del video.",
+      "Evaluar una versión más corta para pauta, priorizando el gancho inicial."
+    ],
+    "recomendacion_llm": "ajustar antes de impulsar",
+    "justificacion": "Redacción generada por el motor de reglas locales (sin LLM). Las puntuaciones provienen de heurísticas léxicas y métricas derivadas; no reemplazan al modelo predictivo."
+  },
+  "analisis_politicas": {
+    "policy_risk_level": "alto",
+    "policy_risk_categories": [
+      "afirmaciones exageradas",
+      "salud o pérdida de peso"
+    ],
+    "policy_explanation": "Se detectaron señales en: afirmaciones exageradas, salud o pérdida de peso. El nivel de riesgo es alto; YouTube probablemente limitará la monetización. Este screening no reemplaza la revisión oficial de YouTube.",
+    "youtube_ad_status_estimate": "no apto",
+    "hits": {
+      "afirmaciones exageradas": [
+        "garantizado 100",
+        "resultados garantizados",
+        "sin fallar",
+        "milagrosa",
+        "milagro"
+      ],
+      "salud o pérdida de peso": [
+        "pierde peso rápido",
+        "dieta milagrosa"
+      ]
+    },
+    "partial_evaluation": false,
+    "evaluation_coverage": "completa"
+  },
+  "ajustes_sugeridos": [
+    "Agregar un llamado a la acción claro en los primeros segundos del video.",
+    "Evaluar una versión más corta para pauta, priorizando el gancho inicial."
+  ],
+  "justificacion": "Modelo predictivo: nivel `muy_alto` con probabilidad estimada 88.10%. Se aprovechó la transcripción del audio para reforzar el análisis textual. Se incorporó el texto visible detectado por OCR. Se detectaron ajustes recomendados antes de pautar. Riesgo publicitario estimado: alto (estado YouTube Ads: no apto). Score híbrido de decisión: 0.28 (penalización por políticas: ×0.5). El alcance por dólar se estima con CPM parametrizado y multiplicador de potencial; no representa ROI causal real.",
+  "accion_final": "NO IMPULSAR",
+  "score_hibrido": 0.2833,
+  "warnings": [
+    "Resultado precalculado en modo demo seguro."
+  ]
+}

@@ -1,0 +1,512 @@
+[
+  {
+    "text": "Hi Kids",
+    "start": 7.14,
+    "duration": 1.5
+  },
+  {
+    "text": "Let's learn Counting 1 to 100",
+    "start": 9.16,
+    "duration": 2.96
+  },
+  {
+    "text": "One",
+    "start": 13.28,
+    "duration": 2.48
+  },
+  {
+    "text": "Two",
+    "start": 16.32,
+    "duration": 2.76
+  },
+  {
+    "text": "Three",
+    "start": 20.0,
+    "duration": 2.76
+  },
+  {
+    "text": "four",
+    "start": 23.68,
+    "duration": 2.14
+  },
+  {
+    "text": "five",
+    "start": 26.96,
+    "duration": 2.0
+  },
+  {
+    "text": "six",
+    "start": 30.4,
+    "duration": 2.18
+  },
+  {
+    "text": "seven",
+    "start": 33.8,
+    "duration": 2.0
+  },
+  {
+    "text": "eight",
+    "start": 37.1,
+    "duration": 2.0
+  },
+  {
+    "text": "nine",
+    "start": 40.4,
+    "duration": 2.0
+  },
+  {
+    "text": "ten",
+    "start": 43.96,
+    "duration": 2.0
+  },
+  {
+    "text": "eleven",
+    "start": 47.24,
+    "duration": 2.0
+  },
+  {
+    "text": "twelve",
+    "start": 50.88,
+    "duration": 2.0
+  },
+  {
+    "text": "thirteen",
+    "start": 54.48,
+    "duration": 2.0
+  },
+  {
+    "text": "fourteen",
+    "start": 57.7,
+    "duration": 2.0
+  },
+  {
+    "text": "fifteen",
+    "start": 61.26,
+    "duration": 2.0
+  },
+  {
+    "text": "sixteen",
+    "start": 64.78,
+    "duration": 2.0
+  },
+  {
+    "text": "seventeen",
+    "start": 68.14,
+    "duration": 2.0
+  },
+  {
+    "text": "eighteen",
+    "start": 71.52,
+    "duration": 2.0
+  },
+  {
+    "text": "nineteen",
+    "start": 74.98,
+    "duration": 2.0
+  },
+  {
+    "text": "twenty",
+    "start": 78.6,
+    "duration": 1.42
+  },
+  {
+    "text": "twenty one",
+    "start": 80.76,
+    "duration": 2.0
+  },
+  {
+    "text": "twenty two",
+    "start": 84.04,
+    "duration": 2.0
+  },
+  {
+    "text": "twenty three",
+    "start": 87.52,
+    "duration": 2.0
+  },
+  {
+    "text": "twenty four",
+    "start": 90.92,
+    "duration": 2.0
+  },
+  {
+    "text": "twenty five",
+    "start": 94.44,
+    "duration": 2.0
+  },
+  {
+    "text": "twenty six",
+    "start": 97.6,
+    "duration": 2.0
+  },
+  {
+    "text": "twenty seven",
+    "start": 101.46,
+    "duration": 2.0
+  },
+  {
+    "text": "twenty eight",
+    "start": 105.0,
+    "duration": 2.0
+  },
+  {
+    "text": "twenty nine",
+    "start": 108.44,
+    "duration": 2.0
+  },
+  {
+    "text": "thirty",
+    "start": 112.2,
+    "duration": 2.0
+  },
+  {
+    "text": "thirty one",
+    "start": 115.84,
+    "duration": 2.0
+  },
+  {
+    "text": "thirty three",
+    "start": 119.5,
+    "duration": 2.0
+  },
+  {
+    "text": "thirty four",
+    "start": 123.26,
+    "duration": 1.7
+  },
+  {
+    "text": "thirty five",
+    "start": 127.04,
+    "duration": 2.0
+  },
+  {
+    "text": "thirty five",
+    "start": 130.58,
+    "duration": 2.0
+  },
+  {
+    "text": "thirty six",
+    "start": 134.0,
+    "duration": 2.0
+  },
+  {
+    "text": "thirty seven",
+    "start": 137.94,
+    "duration": 2.0
+  },
+  {
+    "text": "thirty eight",
+    "start": 141.68,
+    "duration": 2.0
+  },
+  {
+    "text": "thirty nine",
+    "start": 145.34,
+    "duration": 2.0
+  },
+  {
+    "text": "forty",
+    "start": 149.02,
+    "duration": 2.0
+  },
+  {
+    "text": "forty one",
+    "start": 151.54,
+    "duration": 2.0
+  },
+  {
+    "text": "forty two",
+    "start": 155.12,
+    "duration": 2.0
+  },
+  {
+    "text": "forty three",
+    "start": 158.92,
+    "duration": 2.0
+  },
+  {
+    "text": "forty four",
+    "start": 163.1,
+    "duration": 2.0
+  },
+  {
+    "text": "forty five",
+    "start": 167.24,
+    "duration": 2.0
+  },
+  {
+    "text": "forty six",
+    "start": 171.56,
+    "duration": 2.0
+  },
+  {
+    "text": "forty seven",
+    "start": 175.78,
+    "duration": 2.0
+  },
+  {
+    "text": "forty eight",
+    "start": 179.4,
+    "duration": 2.0
+  },
+  {
+    "text": "forty nine",
+    "start": 183.5,
+    "duration": 2.0
+  },
+  {
+    "text": "fifty",
+    "start": 187.7,
+    "duration": 2.0
+  },
+  {
+    "text": "fifty one",
+    "start": 191.42,
+    "duration": 2.0
+  },
+  {
+    "text": "fifty two",
+    "start": 195.2,
+    "duration": 2.0
+  },
+  {
+    "text": "fifty three",
+    "start": 198.6,
+    "duration": 1.56
+  },
+  {
+    "text": "fifty four",
+    "start": 202.04,
+    "duration": 1.62
+  },
+  {
+    "text": "fifty five",
+    "start": 205.32,
+    "duration": 2.0
+  },
+  {
+    "text": "fifty six",
+    "start": 208.86,
+    "duration": 2.0
+  },
+  {
+    "text": "fifty seven",
+    "start": 212.32,
+    "duration": 2.0
+  },
+  {
+    "text": "fifty eight",
+    "start": 215.74,
+    "duration": 2.0
+  },
+  {
+    "text": "fifty nine",
+    "start": 219.24,
+    "duration": 2.0
+  },
+  {
+    "text": "sixty",
+    "start": 222.56,
+    "duration": 2.0
+  },
+  {
+    "text": "sixty one",
+    "start": 225.46,
+    "duration": 2.0
+  },
+  {
+    "text": "sixty two",
+    "start": 228.76,
+    "duration": 2.0
+  },
+  {
+    "text": "sixty three",
+    "start": 232.74,
+    "duration": 2.0
+  },
+  {
+    "text": "sixty four",
+    "start": 236.04,
+    "duration": 2.0
+  },
+  {
+    "text": "sixty five",
+    "start": 239.7,
+    "duration": 2.0
+  },
+  {
+    "text": "sixty six",
+    "start": 243.06,
+    "duration": 2.0
+  },
+  {
+    "text": "sixty seven",
+    "start": 246.76,
+    "duration": 2.0
+  },
+  {
+    "text": "sixty eight",
+    "start": 250.0,
+    "duration": 2.0
+  },
+  {
+    "text": "sixty nine",
+    "start": 253.36,
+    "duration": 2.0
+  },
+  {
+    "text": "seventy",
+    "start": 256.9,
+    "duration": 2.0
+  },
+  {
+    "text": "seventy one",
+    "start": 259.4,
+    "duration": 2.0
+  },
+  {
+    "text": "seventy two",
+    "start": 262.36,
+    "duration": 2.0
+  },
+  {
+    "text": "seventy three",
+    "start": 265.84,
+    "duration": 2.0
+  },
+  {
+    "text": "seventy four",
+    "start": 269.4,
+    "duration": 2.0
+  },
+  {
+    "text": "seventy  five",
+    "start": 272.58,
+    "duration": 2.0
+  },
+  {
+    "text": "seventy six",
+    "start": 276.12,
+    "duration": 2.0
+  },
+  {
+    "text": "seventy seven",
+    "start": 279.66,
+    "duration": 2.0
+  },
+  {
+    "text": "seventy eight",
+    "start": 283.18,
+    "duration": 2.0
+  },
+  {
+    "text": "seventy nine",
+    "start": 286.8,
+    "duration": 2.0
+  },
+  {
+    "text": "Eighty",
+    "start": 290.46,
+    "duration": 2.0
+  },
+  {
+    "text": "Eighty one",
+    "start": 293.84,
+    "duration": 2.0
+  },
+  {
+    "text": "Eighty two",
+    "start": 297.68,
+    "duration": 2.0
+  },
+  {
+    "text": "Eighty three",
+    "start": 301.52,
+    "duration": 2.0
+  },
+  {
+    "text": "Eighty four",
+    "start": 305.28,
+    "duration": 2.0
+  },
+  {
+    "text": "Eighty five",
+    "start": 309.22,
+    "duration": 2.0
+  },
+  {
+    "text": "Eighty six",
+    "start": 312.66,
+    "duration": 2.0
+  },
+  {
+    "text": "Eighty seven",
+    "start": 316.3,
+    "duration": 2.0
+  },
+  {
+    "text": "Eighty eight",
+    "start": 319.96,
+    "duration": 2.0
+  },
+  {
+    "text": "Eighty nine",
+    "start": 323.6,
+    "duration": 2.0
+  },
+  {
+    "text": "Ninety",
+    "start": 327.24,
+    "duration": 2.0
+  },
+  {
+    "text": "Ninety one",
+    "start": 330.02,
+    "duration": 2.0
+  },
+  {
+    "text": "Ninety two",
+    "start": 333.66,
+    "duration": 2.0
+  },
+  {
+    "text": "Ninety three",
+    "start": 337.3,
+    "duration": 2.0
+  },
+  {
+    "text": "Ninety four",
+    "start": 341.34,
+    "duration": 2.0
+  },
+  {
+    "text": "Ninety five",
+    "start": 345.78,
+    "duration": 2.0
+  },
+  {
+    "text": "Ninety six",
+    "start": 349.82,
+    "duration": 2.0
+  },
+  {
+    "text": "Ninety seven",
+    "start": 353.88,
+    "duration": 2.0
+  },
+  {
+    "text": "Ninety eight",
+    "start": 357.82,
+    "duration": 2.0
+  },
+  {
+    "text": "Ninety nine",
+    "start": 361.82,
+    "duration": 2.0
+  },
+  {
+    "text": "One Hundred",
+    "start": 366.06,
+    "duration": 2.0
+  }
+]

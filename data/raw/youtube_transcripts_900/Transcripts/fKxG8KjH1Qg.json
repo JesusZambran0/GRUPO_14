@@ -1,0 +1,532 @@
+[
+  {
+    "text": "chess how to play the object of the game",
+    "start": 0.32,
+    "duration": 5.36
+  },
+  {
+    "text": "is to Checkmate the other king Checkmate",
+    "start": 3.159,
+    "duration": 3.961
+  },
+  {
+    "text": "happens when the king is in a position",
+    "start": 5.68,
+    "duration": 4.2
+  },
+  {
+    "text": "to be captured it's in check and cannot",
+    "start": 7.12,
+    "duration": 5.12
+  },
+  {
+    "text": "escape from the capture at the beginning",
+    "start": 9.88,
+    "duration": 4.08
+  },
+  {
+    "text": "of the game the chess board is laid out",
+    "start": 12.24,
+    "duration": 3.24
+  },
+  {
+    "text": "so that each player is sitting across",
+    "start": 13.96,
+    "duration": 3.28
+  },
+  {
+    "text": "from the other and has the white or",
+    "start": 15.48,
+    "duration": 3.76
+  },
+  {
+    "text": "lighter colored Square in the bottom",
+    "start": 17.24,
+    "duration": 4.32
+  },
+  {
+    "text": "right hand side the chest pieces are",
+    "start": 19.24,
+    "duration": 5.199
+  },
+  {
+    "text": "then arranged the same way each time the",
+    "start": 21.56,
+    "duration": 5.0
+  },
+  {
+    "text": "second row is filled with pawns the",
+    "start": 24.439,
+    "duration": 4.16
+  },
+  {
+    "text": "first row should be set up as following",
+    "start": 26.56,
+    "duration": 5.08
+  },
+  {
+    "text": "going from left to right Rook Knight",
+    "start": 28.599,
+    "duration": 7.721
+  },
+  {
+    "text": "Bishop King Queen Bishop Knight Rook",
+    "start": 31.64,
+    "duration": 6.48
+  },
+  {
+    "text": "you've set it up correctly if your queen",
+    "start": 36.32,
+    "duration": 3.64
+  },
+  {
+    "text": "is on the same colored Square as the",
+    "start": 38.12,
+    "duration": 4.4
+  },
+  {
+    "text": "color of the piece the player with the",
+    "start": 39.96,
+    "duration": 5.439
+  },
+  {
+    "text": "white pieces always moves first a turn",
+    "start": 42.52,
+    "duration": 5.879
+  },
+  {
+    "text": "consists of moving One Piece One Time",
+    "start": 45.399,
+    "duration": 4.721
+  },
+  {
+    "text": "Players alternate turns until the end of",
+    "start": 48.399,
+    "duration": 4.401
+  },
+  {
+    "text": "the game spaces may not be shared by",
+    "start": 50.12,
+    "duration": 5.32
+  },
+  {
+    "text": "pieces pieces cannot move through or",
+    "start": 52.8,
+    "duration": 5.64
+  },
+  {
+    "text": "over any other piece opponent's pieces",
+    "start": 55.44,
+    "duration": 5.279
+  },
+  {
+    "text": "can be captured by correctly moving your",
+    "start": 58.44,
+    "duration": 4.72
+  },
+  {
+    "text": "piece to the square of the opponent's",
+    "start": 60.719,
+    "duration": 4.8
+  },
+  {
+    "text": "piece when a piece is captured it is",
+    "start": 63.16,
+    "duration": 4.8
+  },
+  {
+    "text": "eliminated and removed from the board",
+    "start": 65.519,
+    "duration": 3.96
+  },
+  {
+    "text": "each of the six different kinds of",
+    "start": 67.96,
+    "duration": 4.64
+  },
+  {
+    "text": "pieces has a unique way of moving pawns",
+    "start": 69.479,
+    "duration": 5.161
+  },
+  {
+    "text": "move one square forward towards your",
+    "start": 72.6,
+    "duration": 4.32
+  },
+  {
+    "text": "opponent's side of the board at a time",
+    "start": 74.64,
+    "duration": 4.08
+  },
+  {
+    "text": "unless it is the first time it is moved",
+    "start": 76.92,
+    "duration": 3.559
+  },
+  {
+    "text": "during the game in which case it may be",
+    "start": 78.72,
+    "duration": 4.16
+  },
+  {
+    "text": "moved up to two squares forward pawns",
+    "start": 80.479,
+    "duration": 4.401
+  },
+  {
+    "text": "can only capture pieces one square",
+    "start": 82.88,
+    "duration": 3.96
+  },
+  {
+    "text": "diagonal in front of them and cannot",
+    "start": 84.88,
+    "duration": 4.239
+  },
+  {
+    "text": "capture pieces directly in front of them",
+    "start": 86.84,
+    "duration": 4.76
+  },
+  {
+    "text": "but instead are unable to move forward",
+    "start": 89.119,
+    "duration": 4.121
+  },
+  {
+    "text": "if a pawn reaches the other side of the",
+    "start": 91.6,
+    "duration": 3.72
+  },
+  {
+    "text": "board it can be changed into any other",
+    "start": 93.24,
+    "duration": 5.0
+  },
+  {
+    "text": "type of piece this is called a promotion",
+    "start": 95.32,
+    "duration": 4.799
+  },
+  {
+    "text": "Rooks can move any number of squares",
+    "start": 98.24,
+    "duration": 4.48
+  },
+  {
+    "text": "side to side or back and forth Rooks",
+    "start": 100.119,
+    "duration": 5.28
+  },
+  {
+    "text": "cannot move diagonally Rooks cannot jump",
+    "start": 102.72,
+    "duration": 4.679
+  },
+  {
+    "text": "pieces but instead capture the first",
+    "start": 105.399,
+    "duration": 4.481
+  },
+  {
+    "text": "enemy piece they move into Knights move",
+    "start": 107.399,
+    "duration": 4.801
+  },
+  {
+    "text": "in the shape of an L moving two squares",
+    "start": 109.88,
+    "duration": 4.519
+  },
+  {
+    "text": "in One Direction except diagonal and",
+    "start": 112.2,
+    "duration": 5.04
+  },
+  {
+    "text": "then one more square at a 90° angle the",
+    "start": 114.399,
+    "duration": 4.841
+  },
+  {
+    "text": "Knight jumps over any piece in the way",
+    "start": 117.24,
+    "duration": 3.76
+  },
+  {
+    "text": "capturing any opponent piece in its",
+    "start": 119.24,
+    "duration": 4.839
+  },
+  {
+    "text": "final move position Bishops can move any",
+    "start": 121.0,
+    "duration": 5.0
+  },
+  {
+    "text": "number of squares diagonally they",
+    "start": 124.079,
+    "duration": 4.6
+  },
+  {
+    "text": "capture the first enemy piece they move",
+    "start": 126.0,
+    "duration": 5.36
+  },
+  {
+    "text": "into the queen can move any number of",
+    "start": 128.679,
+    "duration": 5.041
+  },
+  {
+    "text": "spaces in any direction the queen",
+    "start": 131.36,
+    "duration": 5.12
+  },
+  {
+    "text": "captures the first enemy piece she moves",
+    "start": 133.72,
+    "duration": 5.68
+  },
+  {
+    "text": "into the king can move one square at a",
+    "start": 136.48,
+    "duration": 5.32
+  },
+  {
+    "text": "time in any direction the king can never",
+    "start": 139.4,
+    "duration": 5.64
+  },
+  {
+    "text": "move himself into check whenever a move",
+    "start": 141.8,
+    "duration": 5.04
+  },
+  {
+    "text": "directly results in the opponent's king",
+    "start": 145.04,
+    "duration": 4.4
+  },
+  {
+    "text": "being threatened meaning if an action is",
+    "start": 146.84,
+    "duration": 4.399
+  },
+  {
+    "text": "not taken taken the next turn the king",
+    "start": 149.44,
+    "duration": 4.079
+  },
+  {
+    "text": "would be captured the attacking player",
+    "start": 151.239,
+    "duration": 4.921
+  },
+  {
+    "text": "must say check the opponent must then",
+    "start": 153.519,
+    "duration": 4.961
+  },
+  {
+    "text": "use their turn to protect the King by",
+    "start": 156.16,
+    "duration": 4.079
+  },
+  {
+    "text": "either moving the king out of check",
+    "start": 158.48,
+    "duration": 3.88
+  },
+  {
+    "text": "moving a different piece to block the",
+    "start": 160.239,
+    "duration": 4.601
+  },
+  {
+    "text": "path of the attacker or by capturing the",
+    "start": 162.36,
+    "duration": 5.159
+  },
+  {
+    "text": "piece that threatens the king if a move",
+    "start": 164.84,
+    "duration": 4.399
+  },
+  {
+    "text": "directly results in the opponent's king",
+    "start": 167.519,
+    "duration": 4.08
+  },
+  {
+    "text": "being threatened and there is no move to",
+    "start": 169.239,
+    "duration": 4.321
+  },
+  {
+    "text": "protect the king the attacking player",
+    "start": 171.599,
+    "duration": 4.601
+  },
+  {
+    "text": "then declares Checkmate the game is over",
+    "start": 173.56,
+    "duration": 5.88
+  },
+  {
+    "text": "and he wins a draw or stalemate occurs",
+    "start": 176.2,
+    "duration": 4.92
+  },
+  {
+    "text": "when the king king is not in check and",
+    "start": 179.44,
+    "duration": 3.719
+  },
+  {
+    "text": "the player cannot legally move any of",
+    "start": 181.12,
+    "duration": 4.56
+  },
+  {
+    "text": "his pieces or if there is any other",
+    "start": 183.159,
+    "duration": 3.8
+  },
+  {
+    "text": "situation where there is an",
+    "start": 185.68,
+    "duration": 4.0
+  },
+  {
+    "text": "impossibility of Checkmate there are a",
+    "start": 186.959,
+    "duration": 5.241
+  },
+  {
+    "text": "couple other types of unique moves the",
+    "start": 189.68,
+    "duration": 4.839
+  },
+  {
+    "text": "first is called castling on a player's",
+    "start": 192.2,
+    "duration": 4.319
+  },
+  {
+    "text": "turn he may move his King two squares",
+    "start": 194.519,
+    "duration": 4.44
+  },
+  {
+    "text": "over to one side and then move the Rook",
+    "start": 196.519,
+    "duration": 4.761
+  },
+  {
+    "text": "from that side's corner to right next to",
+    "start": 198.959,
+    "duration": 4.881
+  },
+  {
+    "text": "the King on the opposite side however in",
+    "start": 201.28,
+    "duration": 4.879
+  },
+  {
+    "text": "order to Castle the following conditions",
+    "start": 203.84,
+    "duration": 4.92
+  },
+  {
+    "text": "must be met it must be the king's very",
+    "start": 206.159,
+    "duration": 5.241
+  },
+  {
+    "text": "first move it must be that rook's very",
+    "start": 208.76,
+    "duration": 5.479
+  },
+  {
+    "text": "first move there cannot be any pieces in",
+    "start": 211.4,
+    "duration": 5.0
+  },
+  {
+    "text": "between the king and the rook and the",
+    "start": 214.239,
+    "duration": 4.241
+  },
+  {
+    "text": "King may not be in check nor pass",
+    "start": 216.4,
+    "duration": 4.72
+  },
+  {
+    "text": "through check the second is called n",
+    "start": 218.48,
+    "duration": 5.52
+  },
+  {
+    "text": "pant if a pawn moves out two squares on",
+    "start": 221.12,
+    "duration": 5.28
+  },
+  {
+    "text": "its first move and by doing so lands on",
+    "start": 224.0,
+    "duration": 4.12
+  },
+  {
+    "text": "the side of an opponent's Pawn",
+    "start": 226.4,
+    "duration": 3.28
+  },
+  {
+    "text": "effectively jumping past the other",
+    "start": 228.12,
+    "duration": 3.839
+  },
+  {
+    "text": "Pawn's ability to capture it that other",
+    "start": 229.68,
+    "duration": 4.399
+  },
+  {
+    "text": "Pawn has the option of capturing the",
+    "start": 231.959,
+    "duration": 5.28
+  },
+  {
+    "text": "First Pawn as it passes by but must do",
+    "start": 234.079,
+    "duration": 5.72
+  },
+  {
+    "text": "so by the very next turn otherwise it LO",
+    "start": 237.239,
+    "duration": 4.92
+  },
+  {
+    "text": "loses the opportunity to capture it the",
+    "start": 239.799,
+    "duration": 4.041
+  },
+  {
+    "text": "pawn must move diagonally to the square",
+    "start": 242.159,
+    "duration": 4.08
+  },
+  {
+    "text": "directly behind the other Pawn the first",
+    "start": 243.84,
+    "duration": 6.92
+  },
+  {
+    "text": "player to Checkmate their opponent wins",
+    "start": 246.239,
+    "duration": 4.521
+  }
+]

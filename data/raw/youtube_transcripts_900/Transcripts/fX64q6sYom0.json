@@ -1,0 +1,732 @@
+[
+  {
+    "text": "hello in this video we will learn how to \nsolve any star pattern program in python  ",
+    "start": 0.4,
+    "duration": 6.16
+  },
+  {
+    "text": "when you search the internet you might have \ncome across many videos playlists or lengthy  ",
+    "start": 7.2,
+    "duration": 6.0
+  },
+  {
+    "text": "blogs explaining different pattern programs so \ndo you need to learn each of them answer is no  ",
+    "start": 13.2,
+    "duration": 6.8
+  },
+  {
+    "text": "what you need is to understand the basics and \nlearn the tricks so that you can answer any random  ",
+    "start": 20.64,
+    "duration": 6.4
+  },
+  {
+    "text": "pattern question which is given to you now if you \ngo through this video you will be able to make any  ",
+    "start": 27.04,
+    "duration": 6.96
+  },
+  {
+    "text": "of these patterns shown and i will explain to you \nhow now you might have played with blocks when you  ",
+    "start": 34.0,
+    "duration": 7.28
+  },
+  {
+    "text": "were a kid you could create any kind of shapes and \ndesign from a simple block we are going to use the  ",
+    "start": 41.28,
+    "duration": 8.16
+  },
+  {
+    "text": "same method here what we are going to learn is two \nbasic blocks how to make an increasing triangle  ",
+    "start": 49.44,
+    "duration": 8.08
+  },
+  {
+    "text": "and a decreasing triangle using just these two we \nwill teach you how to join them together to make  ",
+    "start": 57.52,
+    "duration": 7.04
+  },
+  {
+    "text": "any kind of pattern that is asked so a complex \npattern is nothing but these two basic triangles  ",
+    "start": 64.56,
+    "duration": 7.44
+  },
+  {
+    "text": "either filled with star hash or dollar an \nimportant point you need to know before you start  ",
+    "start": 72.0,
+    "duration": 7.68
+  },
+  {
+    "text": "is that when we print we do it row by row you \nalways start printing from left side of the screen  ",
+    "start": 79.68,
+    "duration": 7.76
+  },
+  {
+    "text": "if your star is printed away from the left side \nof the screen or there is space in between the  ",
+    "start": 88.16,
+    "duration": 6.16
+  },
+  {
+    "text": "stars like in these two hills then you do not jump \nand print this is actually done by printing spaces  ",
+    "start": 94.32,
+    "duration": 8.24
+  },
+  {
+    "text": "so in this line there are four spaces printed \nfirst then one star and then again seven spaces  ",
+    "start": 103.12,
+    "duration": 7.92
+  },
+  {
+    "text": "and then one star and so on for all \nremaining rows we cannot go back to  ",
+    "start": 111.04,
+    "duration": 6.48
+  },
+  {
+    "text": "previous row you have to print this entire row \nand then move to next row so let's get started  ",
+    "start": 117.52,
+    "duration": 7.68
+  },
+  {
+    "text": "the first thing in pattern is the size size means \nhow big or how many rows you want in the triangle  ",
+    "start": 126.16,
+    "duration": 7.76
+  },
+  {
+    "text": "now either you could be asked to take size from \nthe user and you can use input function to take in  ",
+    "start": 134.56,
+    "duration": 6.96
+  },
+  {
+    "text": "the size or if you are asked to write a function \nthis n could be passed to you as a parameter if  ",
+    "start": 141.52,
+    "duration": 7.44
+  },
+  {
+    "text": "you are given size in the question itself in that \ncase you can just directly assign it to a variable  ",
+    "start": 148.96,
+    "duration": 7.12
+  },
+  {
+    "text": "n for our examples we will consider that we have \nsize in variable n which has value 5. also in the  ",
+    "start": 156.08,
+    "duration": 9.04
+  },
+  {
+    "text": "remaining video we will just focus on code to make \nthe pattern depending upon your question you can  ",
+    "start": 165.12,
+    "duration": 7.28
+  },
+  {
+    "text": "either write a function or take input from user \nand just plug this code in first let's start by  ",
+    "start": 172.4,
+    "duration": 7.6
+  },
+  {
+    "text": "basics pattern program requires you to use loops \nif you do not know basics of loops in python  ",
+    "start": 180.0,
+    "duration": 8.0
+  },
+  {
+    "text": "please watch my video on iterations first let's \nstart with a simple square as an example first  ",
+    "start": 188.0,
+    "duration": 7.2
+  },
+  {
+    "text": "now if you are asked to print one star you will \nwrite a print statement which will print a star  ",
+    "start": 195.92,
+    "duration": 6.4
+  },
+  {
+    "text": "for you now if you are asked to print n stars \nwhat will we do there are two ways you can do it  ",
+    "start": 202.32,
+    "duration": 7.44
+  },
+  {
+    "text": "one is just use multiplication in print statement \nand you can get n stars or we can use a loop  ",
+    "start": 209.76,
+    "duration": 7.36
+  },
+  {
+    "text": "in this method we use the range function along \nwith for loop if we give range n then the loop  ",
+    "start": 218.0,
+    "duration": 8.08
+  },
+  {
+    "text": "will run from 0 to less than n means i will have \nvalues from 0 to 4 but if we run this code we see  ",
+    "start": 226.08,
+    "duration": 9.36
+  },
+  {
+    "text": "it prints each star in a new line but we want it \nin one line so we will add end is equal to blank  ",
+    "start": 235.44,
+    "duration": 8.4
+  },
+  {
+    "text": "and it will override the new line and print stars \nin the same line this loop will run five times and  ",
+    "start": 243.84,
+    "duration": 7.84
+  },
+  {
+    "text": "print the star five times so we have written \nthis code with which we can print one row but  ",
+    "start": 251.68,
+    "duration": 7.44
+  },
+  {
+    "text": "what we want is to print this row five times \nto get our square pattern so what i will do is  ",
+    "start": 259.12,
+    "duration": 7.68
+  },
+  {
+    "text": "insert this complete set of code inside another \nloop which will print this row five times  ",
+    "start": 266.8,
+    "duration": 6.64
+  },
+  {
+    "text": "if you run this you will see that all \nstars are getting printed on the same row  ",
+    "start": 274.24,
+    "duration": 5.12
+  },
+  {
+    "text": "how do we fix this we know our print statement \nwith end is equal to blank is making it print  ",
+    "start": 280.0,
+    "duration": 7.04
+  },
+  {
+    "text": "in the same row so can we just remove it \nfrom the print star statement to fix it  ",
+    "start": 287.04,
+    "duration": 5.44
+  },
+  {
+    "text": "if we do that then what happens is \nnow each star is going to next line  ",
+    "start": 293.2,
+    "duration": 4.8
+  },
+  {
+    "text": "what we want is 5 stars in the same row and then \nit should go to next line means this loop will  ",
+    "start": 298.64,
+    "duration": 7.68
+  },
+  {
+    "text": "continue to have print statement with end is equal \nto blank and only after this whole row is printed  ",
+    "start": 306.32,
+    "duration": 8.0
+  },
+  {
+    "text": "we go to next line so we will insert a print \nstatement as the last statement of the outer loop  ",
+    "start": 314.32,
+    "duration": 7.28
+  },
+  {
+    "text": "so let's just understand how the loop will work we \nstart with the outer loop it holds our row numbers  ",
+    "start": 322.4,
+    "duration": 7.84
+  },
+  {
+    "text": "and starts with 0 then we enter the inner loop \nit holds our column numbers and starts with 0  ",
+    "start": 330.24,
+    "duration": 7.6
+  },
+  {
+    "text": "and runs till less than n which is 4 to print \nall the columns once inner loop is finished  ",
+    "start": 338.48,
+    "duration": 7.68
+  },
+  {
+    "text": "the control comes back to the outer loop and \nouter loop increments by 1 so we go to next row  ",
+    "start": 346.16,
+    "duration": 7.84
+  },
+  {
+    "text": "and again in a loop prints 5 columns as \nit will again start from 0 to less than  ",
+    "start": 354.0,
+    "duration": 6.16
+  },
+  {
+    "text": "n this repeats for all rows till i is less \nthan n and then we exit from the outer loop  ",
+    "start": 360.16,
+    "duration": 7.6
+  },
+  {
+    "text": "a key takeaway from this is do not forget to put \nprint statement before exiting the outer loop  ",
+    "start": 368.48,
+    "duration": 7.44
+  },
+  {
+    "text": "this is a very important point and if you miss \nwriting print statement as the last statement  ",
+    "start": 376.64,
+    "duration": 6.48
+  },
+  {
+    "text": "your whole pattern can go for a toss now if i run \nthis you will see our output has stars to close  ",
+    "start": 383.12,
+    "duration": 8.08
+  },
+  {
+    "text": "and it is giving an effect of rectangle instead \nof square you can fix this by just adding an extra  ",
+    "start": 391.2,
+    "duration": 7.36
+  },
+  {
+    "text": "space using the end parameter what we will do is \ninstead of blank we will put a single space in  ",
+    "start": 398.56,
+    "duration": 7.84
+  },
+  {
+    "text": "the end parameter which will ensure that there is \na space after every start so this is a final code  ",
+    "start": 406.4,
+    "duration": 8.0
+  },
+  {
+    "text": "to print a square let's go back to the print \nstatement we are printing star here this could  ",
+    "start": 414.4,
+    "duration": 7.92
+  },
+  {
+    "text": "actually be anything if you print hash it will \nbe a pattern of hash a dollar then it will be  ",
+    "start": 422.32,
+    "duration": 6.72
+  },
+  {
+    "text": "a pattern of dollar and so on now let's learn \nour first basic pattern of increasing triangle  ",
+    "start": 429.04,
+    "duration": 7.36
+  },
+  {
+    "text": "let's take a previous program which printed a \nsquare we will just edit this to print triangle  ",
+    "start": 437.28,
+    "duration": 7.36
+  },
+  {
+    "text": "we know now that the outer loop determines the \nrows and inner loop determines the columns we  ",
+    "start": 445.28,
+    "duration": 7.04
+  },
+  {
+    "text": "see that in this pattern the rows are 5 or \nn only so our outer loop is correct already  ",
+    "start": 452.32,
+    "duration": 7.76
+  },
+  {
+    "text": "and requires no change and it is already printing \nn rows coming to columns instead of printing  ",
+    "start": 460.08,
+    "duration": 7.76
+  },
+  {
+    "text": "5 stars or printing from 0 to 4 it should print \n1 star for 0 through 2 star for first row 3 star  ",
+    "start": 467.84,
+    "duration": 9.12
+  },
+  {
+    "text": "for second row and so on point to note here is \nthat for each row i need row number plus 1 stars  ",
+    "start": 476.96,
+    "duration": 8.8
+  },
+  {
+    "text": "row number is stored in variable i which \nis starting from 0 and incrementing to 1 2  ",
+    "start": 486.64,
+    "duration": 7.04
+  },
+  {
+    "text": "3 till all rows are printed so what we will just \nchange here is set inner loop to run to i plus 1.  ",
+    "start": 493.68,
+    "duration": 8.4
+  },
+  {
+    "text": "this will ensure inner loop runs for only \none time in the first row two time in the  ",
+    "start": 502.96,
+    "duration": 5.76
+  },
+  {
+    "text": "second row then three then four and then n this \ncompletes our program for increasing triangle  ",
+    "start": 508.72,
+    "duration": 7.2
+  },
+  {
+    "text": "important point to remember in this is that for \nmaking an increasing triangle outer loop is set to  ",
+    "start": 516.48,
+    "duration": 7.2
+  },
+  {
+    "text": "n and nested loop is set to i plus 1 \nremaining program is exactly the same  ",
+    "start": 523.68,
+    "duration": 6.56
+  },
+  {
+    "text": "now let's learn second basic pattern \ndecreasing triangle we will again take  ",
+    "start": 531.2,
+    "duration": 5.76
+  },
+  {
+    "text": "our square program we will just edit this to \nprint decreasing triangle if you see this code  ",
+    "start": 536.96,
+    "duration": 7.68
+  },
+  {
+    "text": "outer loop is correct already and requires no \nchange as it is already printing n rows from  ",
+    "start": 544.64,
+    "duration": 7.44
+  },
+  {
+    "text": "0 to less than n but now we need the columns to \nprint decreasing number of stars 5 4 3 2 and 1.  ",
+    "start": 552.08,
+    "duration": 10.08
+  },
+  {
+    "text": "how do we change our nested for loop to reduce \nby 1 every time this time we will add a start  ",
+    "start": 562.8,
+    "duration": 7.44
+  },
+  {
+    "text": "condition we will use i as the start condition \nso for first row the loop will run from 0 to 5  ",
+    "start": 570.24,
+    "duration": 8.56
+  },
+  {
+    "text": "printing 5 stars second row it will run from 1 \nto 5 that means 4 times and then 3 2 and 1 star  ",
+    "start": 578.8,
+    "duration": 9.12
+  },
+  {
+    "text": "this completes our program for decreasing \ntriangle so important point to remember in  ",
+    "start": 588.64,
+    "duration": 6.32
+  },
+  {
+    "text": "making decreasing triangle pattern is that outer \nloop is still n and nested loop is from i to n  ",
+    "start": 594.96,
+    "duration": 8.88
+  },
+  {
+    "text": "now you have the basic ammunition in place if \nyou do not understand these two basic triangles  ",
+    "start": 603.84,
+    "duration": 6.96
+  },
+  {
+    "text": "go back rewind and understand it again let's take \na look at some of the patterns we saw earlier  ",
+    "start": 610.8,
+    "duration": 7.6
+  },
+  {
+    "text": "all of the patterns you see here are made from \ncombination of these two type of triangles as  ",
+    "start": 618.96,
+    "duration": 7.2
+  },
+  {
+    "text": "you know we always start printing from left side \nof the screen so where we see blank is actually  ",
+    "start": 626.16,
+    "duration": 7.36
+  },
+  {
+    "text": "the same triangle pattern made with spaces \nso this pattern is made up of two triangles  ",
+    "start": 633.52,
+    "duration": 6.64
+  },
+  {
+    "text": "one increasing pattern of space and one \ndecreasing pattern of star this pattern also  ",
+    "start": 640.16,
+    "duration": 7.28
+  },
+  {
+    "text": "has two triangles it has one decreasing pattern of \nspace followed by one increasing pattern of star  ",
+    "start": 647.44,
+    "duration": 7.52
+  },
+  {
+    "text": "this pattern has three triangles first \nit has one decreasing pattern of space  ",
+    "start": 655.92,
+    "duration": 5.52
+  },
+  {
+    "text": "followed by one increasing pattern of star and \none more increasing pattern of star also do  ",
+    "start": 662.0,
+    "duration": 7.68
+  },
+  {
+    "text": "note in all of these here the rows are n only but \ncolumns have different printing options space or  ",
+    "start": 669.68,
+    "duration": 8.64
+  },
+  {
+    "text": "star so let's try to solve it let's pick up this \npattern first now this pattern has two triangles  ",
+    "start": 678.32,
+    "duration": 8.56
+  },
+  {
+    "text": "first is decreasing triangle printing space and \nsecond is increasing triangle printing stars  ",
+    "start": 687.44,
+    "duration": 7.2
+  },
+  {
+    "text": "do note that on same row we have to now print \nspace and star let's write the program for it  ",
+    "start": 695.44,
+    "duration": 7.76
+  },
+  {
+    "text": "since our number of rows are same as that of \nsquare pattern we will first copy the outer  ",
+    "start": 703.84,
+    "duration": 6.4
+  },
+  {
+    "text": "loop from our previous program and it runs till \nn to note our empty print line which takes us to  ",
+    "start": 710.24,
+    "duration": 7.84
+  },
+  {
+    "text": "new row every time sticks to the end of the outer \nloop you should not forget it or try to link it  ",
+    "start": 718.08,
+    "duration": 7.52
+  },
+  {
+    "text": "with any nested loop ever first we have decreasing \ntriangle of space so we recall our code of nested  ",
+    "start": 725.6,
+    "duration": 8.72
+  },
+  {
+    "text": "loop for decreasing triangle and we will write \nour nested for loop for decreasing triangle from  ",
+    "start": 734.32,
+    "duration": 7.12
+  },
+  {
+    "text": "i to n here the print statement will print space \nonly now the next triangle is increasing triangle  ",
+    "start": 741.44,
+    "duration": 8.56
+  },
+  {
+    "text": "pattern printing stars in the same row so \nwe will just add another nested for loop  ",
+    "start": 750.0,
+    "duration": 6.88
+  },
+  {
+    "text": "for increasing triangle pattern and we know this \nwill run till i plus one this will print star  ",
+    "start": 756.88,
+    "duration": 7.52
+  },
+  {
+    "text": "let's take a look at how this will work for the \nfirst row when i is zero first the upper nested  ",
+    "start": 765.2,
+    "duration": 7.28
+  },
+  {
+    "text": "loop will execute and print 5 spaces then in the \nsame row it will enter the second nested loop and  ",
+    "start": 772.48,
+    "duration": 8.96
+  },
+  {
+    "text": "will print 1 star then it will go to next row and \ni will become one then it will print four space  ",
+    "start": 781.44,
+    "duration": 8.96
+  },
+  {
+    "text": "from the first nested loop and then two star from \nthe second nested loop so these two nested loops  ",
+    "start": 790.4,
+    "duration": 7.28
+  },
+  {
+    "text": "are working one after the other to print all \ncolumns we need in a row this will go on till  ",
+    "start": 797.68,
+    "duration": 7.92
+  },
+  {
+    "text": "the entire pattern is printed now this is the \nprogram for this pattern you need to remember two  ",
+    "start": 805.6,
+    "duration": 8.16
+  },
+  {
+    "text": "important things here first empty print statement \nis linked to rows or outer loop we do not repeat  ",
+    "start": 813.76,
+    "duration": 8.96
+  },
+  {
+    "text": "it with every inner loop second each print has \ngot either a space or a character followed by  ",
+    "start": 822.72,
+    "duration": 9.36
+  },
+  {
+    "text": "a space which is part of the end that means two \ncharacters are printed in each print statement  ",
+    "start": 832.08,
+    "duration": 6.64
+  },
+  {
+    "text": "all of your print statement need to have the same \nnumber of characters even if it is printing space  ",
+    "start": 839.6,
+    "duration": 7.92
+  },
+  {
+    "text": "now let's see another pattern what if the pattern \nwas like this it is increasing triangle of space  ",
+    "start": 848.4,
+    "duration": 7.84
+  },
+  {
+    "text": "and then decreasing triangle of star since our \nnumber of rows are same as that of square pattern  ",
+    "start": 856.24,
+    "duration": 7.76
+  },
+  {
+    "text": "we will first copy the same outer loop from the \nprevious program and it runs till n since first  ",
+    "start": 864.0,
+    "duration": 7.68
+  },
+  {
+    "text": "loop is increasing triangle we will write our \nnested for loop for increasing triangle till i  ",
+    "start": 871.68,
+    "duration": 6.8
+  },
+  {
+    "text": "plus 1. here the print statement will print space \nonly now the next triangle is decreasing triangle  ",
+    "start": 878.48,
+    "duration": 8.32
+  },
+  {
+    "text": "so we will just add another nested for loop for \ndecreasing triangle pattern which will run from  ",
+    "start": 886.8,
+    "duration": 6.56
+  },
+  {
+    "text": "i to n this will print start this \nis the final code for this pattern  ",
+    "start": 893.36,
+    "duration": 5.68
+  },
+  {
+    "text": "now what if pattern was like this a hill \npattern now we already have written code for  ",
+    "start": 899.76,
+    "duration": 6.16
+  },
+  {
+    "text": "first two triangle of this pattern here the third \ntriangle is also an increasing triangle pattern  ",
+    "start": 905.92,
+    "duration": 7.52
+  },
+  {
+    "text": "so we will write one more nested loop now there \nis a small catch here which you need to remember  ",
+    "start": 913.44,
+    "duration": 6.64
+  },
+  {
+    "text": "let's run this and see here when you see the \noutput you see it does not have a peak why  ",
+    "start": 920.64,
+    "duration": 6.8
+  },
+  {
+    "text": "because our loop knows how to make 5 columns each \nin such pattern actually there is one less column  ",
+    "start": 928.16,
+    "duration": 8.0
+  },
+  {
+    "text": "printed we need to make one of the nested loop \nprint one less column so to make this nested loop  ",
+    "start": 936.16,
+    "duration": 8.32
+  },
+  {
+    "text": "run one less we will just change the for condition \nof first increasing triangle from range i plus 1  ",
+    "start": 944.48,
+    "duration": 8.4
+  },
+  {
+    "text": "to range i this will make the loop print one less \ncolumn so this is a final code for this pattern  ",
+    "start": 952.88,
+    "duration": 8.24
+  },
+  {
+    "text": "now what if it was reverse mountain pattern \nhere there is one decreasing triangle and two  ",
+    "start": 962.0,
+    "duration": 6.4
+  },
+  {
+    "text": "increasing triangle now we already have written \ncode for first two triangle of this pattern  ",
+    "start": 968.4,
+    "duration": 6.56
+  },
+  {
+    "text": "like in previous question we will just add a \nthird nested loop for increasing triangle and to  ",
+    "start": 975.6,
+    "duration": 7.44
+  },
+  {
+    "text": "make sure we have our valley correct we will have \nnested loop print 1 less column so we will change  ",
+    "start": 983.04,
+    "duration": 7.92
+  },
+  {
+    "text": "n to n minus 1 in range function this \nis our code for reverse mountain pattern  ",
+    "start": 990.96,
+    "duration": 7.36
+  },
+  {
+    "text": "let's take a look at patterns which double up \non rows as well let's take this diamond pattern  ",
+    "start": 999.28,
+    "duration": 7.2
+  },
+  {
+    "text": "here you have to print pattern below another \npattern now we have the code for hill pattern  ",
+    "start": 1006.48,
+    "duration": 6.72
+  },
+  {
+    "text": "and inverted hill pattern 2. here note that the \nrows are also doubling up so what you need to  ",
+    "start": 1013.2,
+    "duration": 6.88
+  },
+  {
+    "text": "do is just place two code one below the other \nalong with the outer loop so you run one outer  ",
+    "start": 1020.08,
+    "duration": 8.16
+  },
+  {
+    "text": "loop along with its nested loop for rows of upper \nset of triangles and run another outer loop along  ",
+    "start": 1028.24,
+    "duration": 8.24
+  },
+  {
+    "text": "with its nested loop for rows for lower set of \ntriangles let's run this to see by just doing this  ",
+    "start": 1036.48,
+    "duration": 7.68
+  },
+  {
+    "text": "do we get the desired pattern this is close \nbut this too has one issue that it does not  ",
+    "start": 1044.16,
+    "duration": 6.72
+  },
+  {
+    "text": "have pointed corners looking closely we \nsee actually our rows two don't double up  ",
+    "start": 1050.88,
+    "duration": 6.4
+  },
+  {
+    "text": "there is one less row to give us pointed edges \nthe solution is similar to what we did for columns  ",
+    "start": 1057.28,
+    "duration": 7.76
+  },
+  {
+    "text": "we need to print one less row how do we do that \nwe just reduce the condition of outer for loop  ",
+    "start": 1065.04,
+    "duration": 7.84
+  },
+  {
+    "text": "to print one less row effectively deleting its \nlast row so we will just change our outer loop  ",
+    "start": 1072.88,
+    "duration": 7.12
+  },
+  {
+    "text": "condition from range n to range n minus 1. \nnow this is our required program for diamond  ",
+    "start": 1080.0,
+    "duration": 7.84
+  },
+  {
+    "text": "now you can try any different pattern like \nthis shown using the same logic break it into  ",
+    "start": 1088.56,
+    "duration": 6.8
+  },
+  {
+    "text": "increasing and decreasing triangles and then just \nbundle up the code hope you have understood how to  ",
+    "start": 1095.36,
+    "duration": 7.12
+  },
+  {
+    "text": "solve the pattern problems in our next video \nwe will cover how to solve any of the number  ",
+    "start": 1102.48,
+    "duration": 6.48
+  },
+  {
+    "text": "patterns if you have any doubts do reach out \nto us at simplycoding.in thank you and goodbye",
+    "start": 1108.96,
+    "duration": 12.88
+  }
+]

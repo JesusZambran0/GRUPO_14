@@ -1,0 +1,447 @@
+[
+  {
+    "text": "Hi and welcome to Math Antics.",
+    "start": 6.821,
+    "duration": 1.833
+  },
+  {
+    "text": "In today’s video, we’re gonna learn how to do one of the most common calculations with percentages.",
+    "start": 8.654,
+    "duration": 4.735
+  },
+  {
+    "text": "We’re gonna learn how to find a percent of a number.",
+    "start": 13.389,
+    "duration": 3.268
+  },
+  {
+    "text": "But what does that even mean?",
+    "start": 16.657,
+    "duration": 1.633
+  },
+  {
+    "text": "Do numbers have percents that they hide somewhere and then we have to go looking for them like a game of hide and seek?",
+    "start": 18.29,
+    "duration": 5.7
+  },
+  {
+    "text": "Gottch ya!",
+    "start": 27.78,
+    "duration": 1.48
+  },
+  {
+    "text": "Umm - not exactly.",
+    "start": 29.261,
+    "duration": 2.351
+  },
+  {
+    "text": "Finding a percent of a number makes more sense if you remember that a number just represents an amount and that a percent is really just a fraction.",
+    "start": 31.612,
+    "duration": 8.403
+  },
+  {
+    "text": "So finding a percent of a number really means finding a fraction of an amount.",
+    "start": 40.015,
+    "duration": 5.04
+  },
+  {
+    "text": "Think about it this way…",
+    "start": 45.06,
+    "duration": 1.5
+  },
+  {
+    "text": "Let’s say the number 20 represents an amount, like the amount of lady bugs that you found at the park one day.",
+    "start": 46.567,
+    "duration": 5.769
+  },
+  {
+    "text": "And let’s also imagine that you agreed to give 25% of all the lady bugs you found to your little sister.",
+    "start": 52.336,
+    "duration": 6.569
+  },
+  {
+    "text": "Okay then, so how many is that?",
+    "start": 58.905,
+    "duration": 2.318
+  },
+  {
+    "text": "If you have 20 lady bugs, how many is 25% of that amount?",
+    "start": 61.223,
+    "duration": 4.702
+  },
+  {
+    "text": "That’s what it means to find a percent of a number.",
+    "start": 65.925,
+    "duration": 2.851
+  },
+  {
+    "text": "You’re finding out how much that percent (or fraction) of the total is.",
+    "start": 68.776,
+    "duration": 4.534
+  },
+  {
+    "text": "In this case, since our total is 20, we need to know what 25% of 20 is.",
+    "start": 73.31,
+    "duration": 6.002
+  },
+  {
+    "text": "So how do we figure that out?",
+    "start": 79.312,
+    "duration": 1.785
+  },
+  {
+    "text": "Well, it’s really easy if you remember back to one of our fractions videos; the one about multiplying fractions.",
+    "start": 81.097,
+    "duration": 6.54
+  },
+  {
+    "text": "In that video, we learned that when dealing with fractions,",
+    "start": 87.64,
+    "duration": 3.5
+  },
+  {
+    "text": "sometimes the word “of” is used instead of the multiplication symbol.",
+    "start": 91.15,
+    "duration": 4.39
+  },
+  {
+    "text": "When they say find 1/2 of 16, they really mean find 1/2 times 16.",
+    "start": 95.54,
+    "duration": 6.68
+  },
+  {
+    "text": "Well guess what…",
+    "start": 102.22,
+    "duration": 1.28
+  },
+  {
+    "text": "Since a percent is just a special fraction… “of” means the exact same thing with percents that it did with fractions.",
+    "start": 103.5,
+    "duration": 6.88
+  },
+  {
+    "text": "When we have 25% of 20, that means the same as 25% times 20.",
+    "start": 110.38,
+    "duration": 7.44
+  },
+  {
+    "text": "Great!  So all we have to do to find a percent of a number is to multiply.",
+    "start": 117.82,
+    "duration": 4.46
+  },
+  {
+    "text": "But how do we multiply a percent and a number together?",
+    "start": 122.28,
+    "duration": 2.76
+  },
+  {
+    "text": "Do we just forget about the percent sign and multiply the numbers together?",
+    "start": 125.042,
+    "duration": 4.254
+  },
+  {
+    "text": "No!  If we did it that way, our answer would be WAY too big.",
+    "start": 129.296,
+    "duration": 4.418
+  },
+  {
+    "text": "25% should be a smaller part (or fraction) of 20 lady bugs.",
+    "start": 133.714,
+    "duration": 4.903
+  },
+  {
+    "text": "But if we did 25 times 20, we’d get 500 lady bugs!!  Clearly that’s not the right answer!",
+    "start": 138.617,
+    "duration": 7.436
+  },
+  {
+    "text": "Here’s what we have to do instead...",
+    "start": 146.053,
+    "duration": 1.8
+  },
+  {
+    "text": "Remember that when you see a percent written like this with the percent sign, it’s an abbreviation for a fraction; in this case, 25 over 100.",
+    "start": 147.853,
+    "duration": 8.47
+  },
+  {
+    "text": "So we need to use that fraction form when we multiply since we’re really multiplying by a fraction.",
+    "start": 156.323,
+    "duration": 5.38
+  },
+  {
+    "text": "Now some of you may also remember that percents have a decimal form.  We’ll get to that in just a minute.",
+    "start": 161.703,
+    "duration": 5.657
+  },
+  {
+    "text": "Okay then, if we use the fraction form of our percent, then our problem becomes: 25/100 times 20.",
+    "start": 167.36,
+    "duration": 7.12
+  },
+  {
+    "text": "Now that’s a problem we know how to do.",
+    "start": 174.48,
+    "duration": 2.617
+  },
+  {
+    "text": "To multiply fractions, we just multiply the top numbers, and then we multiply the bottom numbers to get the answer.",
+    "start": 177.097,
+    "duration": 5.902
+  },
+  {
+    "text": "And we can just write 20 as a fraction by putting a 1 as the bottom number, because 20 over 1 is the exact same value as 20.",
+    "start": 182.999,
+    "duration": 7.887
+  },
+  {
+    "text": "So, let’s go ahead and multiply.",
+    "start": 190.886,
+    "duration": 2.754
+  },
+  {
+    "text": "On the top, we have 25 × 20 which gives us 500.",
+    "start": 193.64,
+    "duration": 4.48
+  },
+  {
+    "text": "And on the bottom, we have 100 × 1 which is just 100.",
+    "start": 198.12,
+    "duration": 4.569
+  },
+  {
+    "text": "So our answer is 500 over 100.",
+    "start": 202.689,
+    "duration": 3.452
+  },
+  {
+    "text": "Now 500 over 100 might seem like a strange answer, but that’s just because we still need to simplify it.",
+    "start": 206.141,
+    "duration": 6.119
+  },
+  {
+    "text": "500 over 100 simplifies to 5 over 1, and 5 over 1 is just 5.",
+    "start": 212.26,
+    "duration": 6.317
+  },
+  {
+    "text": "That’s much better.  So,  25% of 20 is 5.",
+    "start": 218.577,
+    "duration": 5.886
+  },
+  {
+    "text": "Alright, so to find a percent of a number, we just need to multiply the fraction form of the percent by the number and we have our answer.",
+    "start": 224.463,
+    "duration": 8.171
+  },
+  {
+    "text": "But, there’s another slightly different method that you can use that works especially well if you’re allowed to use a calculator.",
+    "start": 232.634,
+    "duration": 7.068
+  },
+  {
+    "text": "In our first percentages video, we learned that percents have both a fraction form and a decimal form.",
+    "start": 239.702,
+    "duration": 6.003
+  },
+  {
+    "text": "We’ve already seen how we can use the fraction form to find a percent of a number, but we can also use the decimal form if we want to instead.",
+    "start": 245.705,
+    "duration": 7.215
+  },
+  {
+    "text": "The procedure starts the same.  If you need to find 25% of 20, you first replace the word “of” with the multiplication symbol.",
+    "start": 252.92,
+    "duration": 8.48
+  },
+  {
+    "text": "Next, we’ll replace the percent, but with its decimal form this time. 25% is the same as the decimal 0.25",
+    "start": 261.41,
+    "duration": 8.35
+  },
+  {
+    "text": "Then, all we have to do is multiply.",
+    "start": 269.76,
+    "duration": 2.72
+  },
+  {
+    "text": "And although I could easily do the decimal multiplication by hand, I happen to have a calculator, so I’m gonna use it.",
+    "start": 272.48,
+    "duration": 7.136
+  },
+  {
+    "text": "I just enter 0.25 × 20, hit equals, and I get 5.",
+    "start": 279.616,
+    "duration": 6.27
+  },
+  {
+    "text": "Yep - That’s the same answer we got when we used the fraction form of 25%.  Oh Yeah!",
+    "start": 285.886,
+    "duration": 5.853
+  },
+  {
+    "text": "So that’s how you find a percent of a number.  You just multiply the number by either the fraction form OR the decimal form of the percent.",
+    "start": 291.739,
+    "duration": 6.968
+  },
+  {
+    "text": "Either way will give you the right answer, so you can choose whichever will be easier for you to do.",
+    "start": 298.707,
+    "duration": 5.217
+  },
+  {
+    "text": "Let’s see a couple more examples before you practice on your own.",
+    "start": 303.924,
+    "duration": 3.136
+  },
+  {
+    "text": "This next one involves money.",
+    "start": 307.06,
+    "duration": 2.668
+  },
+  {
+    "text": "Pretend that your best friend has a job walking dogs and offers to give you 35% of whatever he earns if you help walk some of the dogs.",
+    "start": 309.728,
+    "duration": 7.936
+  },
+  {
+    "text": "If your friend earns $80 that week, how much of the money will you get?",
+    "start": 317.664,
+    "duration": 4.384
+  },
+  {
+    "text": "In other words, you need to figure out what 35% of 80 is.",
+    "start": 322.048,
+    "duration": 4.772
+  },
+  {
+    "text": "Okay then, let’s start by replacing the “of” with the times symbol.",
+    "start": 326.82,
+    "duration": 4.232
+  },
+  {
+    "text": "And next we have to decide if we want to replace the percent with its fraction form or its decimal form.",
+    "start": 331.052,
+    "duration": 5.268
+  },
+  {
+    "text": "I think I’ll use the decimal form for this one which means I'll replace the 35% with 0.35",
+    "start": 336.32,
+    "duration": 6.46
+  },
+  {
+    "text": "Now, all we have to do is multiply 0.35 times 80, and that’s 28.",
+    "start": 342.78,
+    "duration": 5.74
+  },
+  {
+    "text": "That means you’ll get 28 dollars if you help your friend walk those dog.",
+    "start": 348.524,
+    "duration": 3.64
+  },
+  {
+    "text": "Cha-ching!",
+    "start": 352.164,
+    "duration": 1.6
+  },
+  {
+    "text": "Okay then… In the last two problems, we found a percent of a number,",
+    "start": 353.764,
+    "duration": 4.031
+  },
+  {
+    "text": "which, like we learned at the beginning of the video, just means finding a fraction of an amount.",
+    "start": 357.795,
+    "duration": 4.702
+  },
+  {
+    "text": "And like you’d expect when finding a fraction of something, the answer was smaller than the amount we started with.",
+    "start": 362.497,
+    "duration": 5.535
+  },
+  {
+    "text": "But remember, fractions can be ‘improper’ too which means that their value is greater than 1.",
+    "start": 368.032,
+    "duration": 5.985
+  },
+  {
+    "text": "And in the same way, percents can be greater than 100%.  So you might come across situations like this…",
+    "start": 374.017,
+    "duration": 6.836
+  },
+  {
+    "text": "Suppose that last year, your school had 400 students, but this year it has 120% of that amount.",
+    "start": 380.853,
+    "duration": 6.835
+  },
+  {
+    "text": "Well, 100% would mean the exact same number of students as last year,",
+    "start": 387.688,
+    "duration": 3.853
+  },
+  {
+    "text": "so 120% must mean that there’s more students now, but how many students?",
+    "start": 391.541,
+    "duration": 5.839
+  },
+  {
+    "text": "To find out, we need to calculate what 120% of 400 is.",
+    "start": 397.38,
+    "duration": 4.514
+  },
+  {
+    "text": "Great, we know just how to do that.",
+    "start": 401.894,
+    "duration": 2.284
+  },
+  {
+    "text": "We just multiply 400 by the fraction form OR the decimal form of 120%.",
+    "start": 404.178,
+    "duration": 6.16
+  },
+  {
+    "text": "Let’s use the decimal form again.",
+    "start": 410.34,
+    "duration": 2.18
+  },
+  {
+    "text": "To get the decimal form of 120%, we move the decimal point over 2 places to the left, and we get 1.20",
+    "start": 412.52,
+    "duration": 8.24
+  },
+  {
+    "text": "So we multiply 1.20 times 400 which gives us 480.",
+    "start": 420.768,
+    "duration": 6.268
+  },
+  {
+    "text": "So this year there’s 480 students at school.",
+    "start": 427.036,
+    "duration": 4.118
+  },
+  {
+    "text": "Alright then, that’s how you find the percent of a number.",
+    "start": 431.154,
+    "duration": 2.867
+  },
+  {
+    "text": "And it’s a really useful math skill that has a LOT of real-life applications so it’s important to learn how to do it right.",
+    "start": 434.021,
+    "duration": 7.339
+  },
+  {
+    "text": "As always, the best way to learn math is to practice on your own.",
+    "start": 441.36,
+    "duration": 4.033
+  },
+  {
+    "text": "Thanks for watching Math Antics, and I’ll see ya next time.",
+    "start": 445.393,
+    "duration": 3.201
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 449.12,
+    "duration": 2.14
+  }
+]

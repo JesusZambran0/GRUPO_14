@@ -1,0 +1,867 @@
+[
+  {
+    "text": "Last week, I was looking for some",
+    "start": 0.24,
+    "duration": 3.52
+  },
+  {
+    "text": "software to solve a very specific",
+    "start": 1.839,
+    "duration": 3.92
+  },
+  {
+    "text": "problem. Lo and behold, I found this",
+    "start": 3.76,
+    "duration": 4.32
+  },
+  {
+    "text": "great app for 10 bucks. But as a Vibe",
+    "start": 5.759,
+    "duration": 4.321
+  },
+  {
+    "text": "engineer, I didn't pay for it. Instead,",
+    "start": 8.08,
+    "duration": 4.96
+  },
+  {
+    "text": "I spent 3 days, $500 in claude credits,",
+    "start": 10.08,
+    "duration": 4.559
+  },
+  {
+    "text": "and missed my kids' baseball game over",
+    "start": 13.04,
+    "duration": 3.52
+  },
+  {
+    "text": "the weekend to build a crappier version",
+    "start": 14.639,
+    "duration": 3.841
+  },
+  {
+    "text": "from scratch. Developers are living in",
+    "start": 16.56,
+    "duration": 3.84
+  },
+  {
+    "text": "weird times as some of us are becoming",
+    "start": 18.48,
+    "duration": 3.68
+  },
+  {
+    "text": "less productive and ditching AI",
+    "start": 20.4,
+    "duration": 3.6
+  },
+  {
+    "text": "altogether. Like the streamer coding",
+    "start": 22.16,
+    "duration": 3.359
+  },
+  {
+    "text": "garden just completely destroyed the",
+    "start": 24.0,
+    "duration": 2.72
+  },
+  {
+    "text": "grift in this video.",
+    "start": 25.519,
+    "duration": 2.961
+  },
+  {
+    "text": ">> And it's not fun. It's not fun at all.",
+    "start": 26.72,
+    "duration": 3.76
+  },
+  {
+    "text": "But many others are going allin and",
+    "start": 28.48,
+    "duration": 3.68
+  },
+  {
+    "text": "seeing productivity gains like never",
+    "start": 30.48,
+    "duration": 3.84
+  },
+  {
+    "text": "before. Every employee at multi-trillion",
+    "start": 32.16,
+    "duration": 4.88
+  },
+  {
+    "text": "dollar company Nvidia is now AI enabled.",
+    "start": 34.32,
+    "duration": 6.399
+  },
+  {
+    "text": ">> Every one of our engineers 100% is now",
+    "start": 37.04,
+    "duration": 5.199
+  },
+  {
+    "text": "assisted by AI coders and our",
+    "start": 40.719,
+    "duration": 3.761
+  },
+  {
+    "text": "productivity has gone up incredibly.",
+    "start": 42.239,
+    "duration": 4.561
+  },
+  {
+    "text": ">> The truth is that AI does suck. It's",
+    "start": 44.48,
+    "duration": 4.0
+  },
+  {
+    "text": "like gambling. When you prompt it and",
+    "start": 46.8,
+    "duration": 3.599
+  },
+  {
+    "text": "the code actually works, you feel that",
+    "start": 48.48,
+    "duration": 3.919
+  },
+  {
+    "text": "indescribable rush of dopamine.",
+    "start": 50.399,
+    "duration": 4.0
+  },
+  {
+    "text": ">> I'm coming day and night. I mean, it's",
+    "start": 52.399,
+    "duration": 4.0
+  },
+  {
+    "text": "terrific. But eventually your prompt",
+    "start": 54.399,
+    "duration": 3.761
+  },
+  {
+    "text": "won't work and this leads to a vicious",
+    "start": 56.399,
+    "duration": 3.601
+  },
+  {
+    "text": "cycle that I like to call the prompt",
+    "start": 58.16,
+    "duration": 3.68
+  },
+  {
+    "text": "treadmill of hell where you keep burning",
+    "start": 60.0,
+    "duration": 3.68
+  },
+  {
+    "text": "through credits but never actually get",
+    "start": 61.84,
+    "duration": 4.0
+  },
+  {
+    "text": "what you need. Despite that drawback,",
+    "start": 63.68,
+    "duration": 4.0
+  },
+  {
+    "text": "there are ways to make AI coding more",
+    "start": 65.84,
+    "duration": 4.16
+  },
+  {
+    "text": "reliable and quasi deterministic thanks",
+    "start": 67.68,
+    "duration": 4.799
+  },
+  {
+    "text": "to the power of model context protocol",
+    "start": 70.0,
+    "duration": 4.56
+  },
+  {
+    "text": "servers. In today's video, we'll look at",
+    "start": 72.479,
+    "duration": 4.64
+  },
+  {
+    "text": "seven MCP servers every dev needs to",
+    "start": 74.56,
+    "duration": 4.96
+  },
+  {
+    "text": "know about to make AI coding suck less.",
+    "start": 77.119,
+    "duration": 5.281
+  },
+  {
+    "text": "It is October 14th, 2025, and you're",
+    "start": 79.52,
+    "duration": 4.4
+  },
+  {
+    "text": "watching the code report. I think it's",
+    "start": 82.4,
+    "duration": 3.039
+  },
+  {
+    "text": "safe to say that the majority of",
+    "start": 83.92,
+    "duration": 3.76
+  },
+  {
+    "text": "programmers are now using AI in some",
+    "start": 85.439,
+    "duration": 4.641
+  },
+  {
+    "text": "capacity, but very few are using it to",
+    "start": 87.68,
+    "duration": 4.16
+  },
+  {
+    "text": "its full potential. If you don't already",
+    "start": 90.08,
+    "duration": 3.84
+  },
+  {
+    "text": "have a couple of MCP servers hooked up",
+    "start": 91.84,
+    "duration": 4.319
+  },
+  {
+    "text": "to claude code, cursor, open code, or",
+    "start": 93.92,
+    "duration": 3.68
+  },
+  {
+    "text": "whatever you prefer, you're falling",
+    "start": 96.159,
+    "duration": 3.121
+  },
+  {
+    "text": "behind and you're not going to make it.",
+    "start": 97.6,
+    "duration": 3.839
+  },
+  {
+    "text": "But what even is a model context",
+    "start": 99.28,
+    "duration": 4.479
+  },
+  {
+    "text": "protocol server? Well, in one sentence,",
+    "start": 101.439,
+    "duration": 4.241
+  },
+  {
+    "text": "it's a standardized way for your coding",
+    "start": 103.759,
+    "duration": 4.561
+  },
+  {
+    "text": "agent to talk to external systems. That",
+    "start": 105.68,
+    "duration": 4.16
+  },
+  {
+    "text": "could be an app running on your local",
+    "start": 108.32,
+    "duration": 3.2
+  },
+  {
+    "text": "machine. It could be a remote server",
+    "start": 109.84,
+    "duration": 3.36
+  },
+  {
+    "text": "that runs your code. or it could be a",
+    "start": 111.52,
+    "duration": 3.84
+  },
+  {
+    "text": "thirdparty API. To understand its full",
+    "start": 113.2,
+    "duration": 4.16
+  },
+  {
+    "text": "potential, let's look at some examples.",
+    "start": 115.36,
+    "duration": 3.439
+  },
+  {
+    "text": "On this channel, I've complained",
+    "start": 117.36,
+    "duration": 3.52
+  },
+  {
+    "text": "endlessly about AI not being able to",
+    "start": 118.799,
+    "duration": 4.161
+  },
+  {
+    "text": "generate proper spelt 5 code. Well,",
+    "start": 120.88,
+    "duration": 3.919
+  },
+  {
+    "text": "luckily, just a few days ago, that",
+    "start": 122.96,
+    "duration": 3.519
+  },
+  {
+    "text": "problem has been solved thanks to the",
+    "start": 124.799,
+    "duration": 4.08
+  },
+  {
+    "text": "release of the spelt MCP server. All you",
+    "start": 126.479,
+    "duration": 4.0
+  },
+  {
+    "text": "have to do is install this bad boy in",
+    "start": 128.879,
+    "duration": 3.121
+  },
+  {
+    "text": "your favorite coding tool, like I'm",
+    "start": 130.479,
+    "duration": 3.521
+  },
+  {
+    "text": "using Claude Code here. And now, instead",
+    "start": 132.0,
+    "duration": 3.84
+  },
+  {
+    "text": "of going in blind, you can start a",
+    "start": 134.0,
+    "duration": 3.92
+  },
+  {
+    "text": "prompt with /spelt. This will",
+    "start": 135.84,
+    "duration": 3.92
+  },
+  {
+    "text": "automatically tell Claude how to get the",
+    "start": 137.92,
+    "duration": 3.84
+  },
+  {
+    "text": "right spelt documentation. And more",
+    "start": 139.76,
+    "duration": 4.16
+  },
+  {
+    "text": "importantly, use the spelt autofixer.",
+    "start": 141.76,
+    "duration": 4.08
+  },
+  {
+    "text": "It'll perform a static analysis on the",
+    "start": 143.92,
+    "duration": 4.24
+  },
+  {
+    "text": "code and delopify it when the LLM",
+    "start": 145.84,
+    "duration": 4.64
+  },
+  {
+    "text": "hallucinates random ReactJS code in your",
+    "start": 148.16,
+    "duration": 3.92
+  },
+  {
+    "text": "project. But if you're a front-end",
+    "start": 150.48,
+    "duration": 3.759
+  },
+  {
+    "text": "developer, the most time-conuming task",
+    "start": 152.08,
+    "duration": 4.239
+  },
+  {
+    "text": "is implementing your designer's Figma",
+    "start": 154.239,
+    "duration": 4.08
+  },
+  {
+    "text": "files into actual code. Well, not",
+    "start": 156.319,
+    "duration": 4.64
+  },
+  {
+    "text": "anymore. The Figma MCP server allows you",
+    "start": 158.319,
+    "duration": 4.881
+  },
+  {
+    "text": "to connect your local Figma app on the",
+    "start": 160.959,
+    "duration": 4.241
+  },
+  {
+    "text": "desktop or in the cloud. It'll pull a",
+    "start": 163.2,
+    "duration": 4.16
+  },
+  {
+    "text": "design file and automatically implement",
+    "start": 165.2,
+    "duration": 4.64
+  },
+  {
+    "text": "it in HTML and CSS. You can even",
+    "start": 167.36,
+    "duration": 4.879
+  },
+  {
+    "text": "generate React components, use Tailwind,",
+    "start": 169.84,
+    "duration": 5.119
+  },
+  {
+    "text": "or build iOS UI elements using Figma's",
+    "start": 172.239,
+    "duration": 4.72
+  },
+  {
+    "text": "more reliable tooling. Pretty cool. But",
+    "start": 174.959,
+    "duration": 3.441
+  },
+  {
+    "text": "what if you're building something like a",
+    "start": 176.959,
+    "duration": 3.92
+  },
+  {
+    "text": "payment system with a third-party API?",
+    "start": 178.4,
+    "duration": 3.759
+  },
+  {
+    "text": "If this is something you really can't",
+    "start": 180.879,
+    "duration": 3.201
+  },
+  {
+    "text": "afford to screw up, well, Stripe and",
+    "start": 182.159,
+    "duration": 4.8
+  },
+  {
+    "text": "many other APIs now have an MCP server",
+    "start": 184.08,
+    "duration": 5.04
+  },
+  {
+    "text": "that can fetch documentation for the",
+    "start": 186.959,
+    "duration": 4.64
+  },
+  {
+    "text": "exact API version you're using. Not only",
+    "start": 189.12,
+    "duration": 4.24
+  },
+  {
+    "text": "that, but it has a long list of tools",
+    "start": 191.599,
+    "duration": 3.601
+  },
+  {
+    "text": "you can use to access live data in",
+    "start": 193.36,
+    "duration": 3.84
+  },
+  {
+    "text": "Stripe, opening the door to all sorts of",
+    "start": 195.2,
+    "duration": 3.92
+  },
+  {
+    "text": "possibilities, like accidentally",
+    "start": 197.2,
+    "duration": 4.08
+  },
+  {
+    "text": "refunding 10,000 customers with a single",
+    "start": 199.12,
+    "duration": 3.839
+  },
+  {
+    "text": "prompt. Now, even if you leverage these",
+    "start": 201.28,
+    "duration": 3.52
+  },
+  {
+    "text": "tools, your code is still probably going",
+    "start": 202.959,
+    "duration": 4.0
+  },
+  {
+    "text": "to break in unexpected ways at runtime.",
+    "start": 204.8,
+    "duration": 3.76
+  },
+  {
+    "text": "If you use a monitoring tool like",
+    "start": 206.959,
+    "duration": 3.761
+  },
+  {
+    "text": "Sentry, you can access all of the issues",
+    "start": 208.56,
+    "duration": 4.16
+  },
+  {
+    "text": "and errors your AI assistant missed",
+    "start": 210.72,
+    "duration": 3.68
+  },
+  {
+    "text": "before deploying. Instead of trying to",
+    "start": 212.72,
+    "duration": 3.28
+  },
+  {
+    "text": "understand the slop you rolled out a few",
+    "start": 214.4,
+    "duration": 3.199
+  },
+  {
+    "text": "minutes ago, you just tell it to query",
+    "start": 216.0,
+    "duration": 3.519
+  },
+  {
+    "text": "the Sentry issues and fix them on the",
+    "start": 217.599,
+    "duration": 4.241
+  },
+  {
+    "text": "fly. That's helpful, but not all runtime",
+    "start": 219.519,
+    "duration": 4.321
+  },
+  {
+    "text": "issues can be caught. At other times, it",
+    "start": 221.84,
+    "duration": 3.52
+  },
+  {
+    "text": "might be the QA guy who worked at",
+    "start": 223.84,
+    "duration": 3.28
+  },
+  {
+    "text": "Blizzard for 7 years who assigns you a",
+    "start": 225.36,
+    "duration": 3.76
+  },
+  {
+    "text": "Jira ticket to fix some pointless edge",
+    "start": 227.12,
+    "duration": 3.839
+  },
+  {
+    "text": "case he found, in which case you'll want",
+    "start": 229.12,
+    "duration": 4.32
+  },
+  {
+    "text": "to have the Atlassian or GitHub MCP",
+    "start": 230.959,
+    "duration": 4.321
+  },
+  {
+    "text": "server installed. You can use it to",
+    "start": 233.44,
+    "duration": 3.76
+  },
+  {
+    "text": "automatically pull issues and tickets",
+    "start": 235.28,
+    "duration": 3.44
+  },
+  {
+    "text": "without ever needing to read them",
+    "start": 237.2,
+    "duration": 3.36
+  },
+  {
+    "text": "yourself. Just run a prompt that tells",
+    "start": 238.72,
+    "duration": 3.92
+  },
+  {
+    "text": "the AI to fix the issue and close the",
+    "start": 240.56,
+    "duration": 3.599
+  },
+  {
+    "text": "ticket while you sit on the train",
+    "start": 242.64,
+    "duration": 2.879
+  },
+  {
+    "text": "reading your favorite book. That's",
+    "start": 244.159,
+    "duration": 3.201
+  },
+  {
+    "text": "awesome. And if you follow this guide,",
+    "start": 245.519,
+    "duration": 3.36
+  },
+  {
+    "text": "you'll eventually have a billion-dollar",
+    "start": 247.36,
+    "duration": 3.439
+  },
+  {
+    "text": "app that requires more infrastructure to",
+    "start": 248.879,
+    "duration": 4.241
+  },
+  {
+    "text": "scale. There are now MCP servers for",
+    "start": 250.799,
+    "duration": 4.881
+  },
+  {
+    "text": "AWS, Cloudflare, Verscell, and many",
+    "start": 253.12,
+    "duration": 4.72
+  },
+  {
+    "text": "others that can let AI provision the",
+    "start": 255.68,
+    "duration": 4.079
+  },
+  {
+    "text": "actual resources you use in the cloud.",
+    "start": 257.84,
+    "duration": 3.679
+  },
+  {
+    "text": "In theory, the great thing about robots",
+    "start": 259.759,
+    "duration": 3.201
+  },
+  {
+    "text": "is that they won't forget to shut down",
+    "start": 261.519,
+    "duration": 3.441
+  },
+  {
+    "text": "an EC2 instance that will destroy your",
+    "start": 262.96,
+    "duration": 4.32
+  },
+  {
+    "text": "finances, but don't quote me on that. So",
+    "start": 264.96,
+    "duration": 4.239
+  },
+  {
+    "text": "far, all the examples we've looked at",
+    "start": 267.28,
+    "duration": 3.52
+  },
+  {
+    "text": "require the trust of a third party",
+    "start": 269.199,
+    "duration": 3.601
+  },
+  {
+    "text": "developer. So, you have to trust us.",
+    "start": 270.8,
+    "duration": 7.04
+  },
+  {
+    "text": "Just relax and fall. One, two, three.",
+    "start": 272.8,
+    "duration": 6.08
+  },
+  {
+    "text": "No.",
+    "start": 277.84,
+    "duration": 2.56
+  },
+  {
+    "text": ">> What's cool about this protocol, though,",
+    "start": 278.88,
+    "duration": 3.2
+  },
+  {
+    "text": "is that it's essentially standardized",
+    "start": 280.4,
+    "duration": 3.28
+  },
+  {
+    "text": "now. And you can use it to build your",
+    "start": 282.08,
+    "duration": 3.52
+  },
+  {
+    "text": "own highly specialized server. Like",
+    "start": 283.68,
+    "duration": 3.44
+  },
+  {
+    "text": "maybe you want a server that can look up",
+    "start": 285.6,
+    "duration": 3.44
+  },
+  {
+    "text": "custom data sources, manage your",
+    "start": 287.12,
+    "duration": 3.76
+  },
+  {
+    "text": "smartome, or really anything you can",
+    "start": 289.04,
+    "duration": 3.52
+  },
+  {
+    "text": "imagine. And they're easy to build",
+    "start": 290.88,
+    "duration": 3.759
+  },
+  {
+    "text": "because there's now an MCP framework for",
+    "start": 292.56,
+    "duration": 3.68
+  },
+  {
+    "text": "every major programming language out",
+    "start": 294.639,
+    "duration": 3.521
+  },
+  {
+    "text": "there. But after you build one, you'll",
+    "start": 296.24,
+    "duration": 3.36
+  },
+  {
+    "text": "need a place to deploy it. And an",
+    "start": 298.16,
+    "duration": 2.96
+  },
+  {
+    "text": "awesome platform you need to know about",
+    "start": 299.6,
+    "duration": 4.0
+  },
+  {
+    "text": "is Savala, the sponsor of today's video.",
+    "start": 301.12,
+    "duration": 4.639
+  },
+  {
+    "text": "It's a modern successor to Heroku that",
+    "start": 303.6,
+    "duration": 4.08
+  },
+  {
+    "text": "combines Google Kubernetes Engine with",
+    "start": 305.759,
+    "duration": 3.841
+  },
+  {
+    "text": "Cloudflare to give you a simple way to",
+    "start": 307.68,
+    "duration": 3.76
+  },
+  {
+    "text": "deploy full stack applications,",
+    "start": 309.6,
+    "duration": 4.0
+  },
+  {
+    "text": "databases, and static sites without",
+    "start": 311.44,
+    "duration": 4.319
+  },
+  {
+    "text": "drowning in YAML configs. We can easily",
+    "start": 313.6,
+    "duration": 4.319
+  },
+  {
+    "text": "ship our app by connecting a Git repo in",
+    "start": 315.759,
+    "duration": 4.481
+  },
+  {
+    "text": "the Savala dashboard or by selecting one",
+    "start": 317.919,
+    "duration": 4.161
+  },
+  {
+    "text": "of their pre-built templates. Once it's",
+    "start": 320.24,
+    "duration": 4.32
+  },
+  {
+    "text": "live, you get app analytics, environment",
+    "start": 322.08,
+    "duration": 4.32
+  },
+  {
+    "text": "variables, and everything else you need",
+    "start": 324.56,
+    "duration": 3.84
+  },
+  {
+    "text": "to scale your app. You also get real",
+    "start": 326.4,
+    "duration": 4.0
+  },
+  {
+    "text": "environment pipelines for preview,",
+    "start": 328.4,
+    "duration": 3.92
+  },
+  {
+    "text": "staging, and production, so your team",
+    "start": 330.4,
+    "duration": 3.84
+  },
+  {
+    "text": "can promote changes safely instead of",
+    "start": 332.32,
+    "duration": 3.76
+  },
+  {
+    "text": "just praying to the prod gods. So try",
+    "start": 334.24,
+    "duration": 4.08
+  },
+  {
+    "text": "out Savala for free with $50 in free",
+    "start": 336.08,
+    "duration": 3.92
+  },
+  {
+    "text": "credits using the link below. This has",
+    "start": 338.32,
+    "duration": 3.2
+  },
+  {
+    "text": "been the Code Report. Thanks for",
+    "start": 340.0,
+    "duration": 5.28
+  },
+  {
+    "text": "watching and I will see you in the next",
+    "start": 341.52,
+    "duration": 3.76
+  }
+]

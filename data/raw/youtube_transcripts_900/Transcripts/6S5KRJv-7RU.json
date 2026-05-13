@@ -1,0 +1,1402 @@
+[
+  {
+    "text": "Assembly Language is the language that",
+    "start": 0.179,
+    "duration": 4.321
+  },
+  {
+    "text": "computers speak it's not C it's not",
+    "start": 2.159,
+    "duration": 4.861
+  },
+  {
+    "text": "python it's not JavaScript and before",
+    "start": 4.5,
+    "duration": 5.04
+  },
+  {
+    "text": "you say well actually Triple L computers",
+    "start": 7.02,
+    "duration": 4.8
+  },
+  {
+    "text": "speak machine code we all know that",
+    "start": 9.54,
+    "duration": 4.2
+  },
+  {
+    "text": "assembly is the human readable version",
+    "start": 11.82,
+    "duration": 4.76
+  },
+  {
+    "text": "of machine code",
+    "start": 13.74,
+    "duration": 5.58
+  },
+  {
+    "text": "and while assembly may seem like an",
+    "start": 16.58,
+    "duration": 4.9
+  },
+  {
+    "text": "alien language it's actually really easy",
+    "start": 19.32,
+    "duration": 4.02
+  },
+  {
+    "text": "to learn",
+    "start": 21.48,
+    "duration": 3.6
+  },
+  {
+    "text": "once you know how to do it you can show",
+    "start": 23.34,
+    "duration": 3.3
+  },
+  {
+    "text": "off to your friends on how big your",
+    "start": 25.08,
+    "duration": 3.42
+  },
+  {
+    "text": "brain is and how cool your programming",
+    "start": 26.64,
+    "duration": 3.12
+  },
+  {
+    "text": "knowledge is today we'll be writing",
+    "start": 28.5,
+    "duration": 3.84
+  },
+  {
+    "text": "baby's first 64-bit assembly program",
+    "start": 29.76,
+    "duration": 5.28
+  },
+  {
+    "text": "it'll only take us 10 minutes and please",
+    "start": 32.34,
+    "duration": 4.32
+  },
+  {
+    "text": "follow along because you can do it too",
+    "start": 35.04,
+    "duration": 2.88
+  },
+  {
+    "text": "now before we actually get started",
+    "start": 36.66,
+    "duration": 2.82
+  },
+  {
+    "text": "coding in assembly we have to talk about",
+    "start": 37.92,
+    "duration": 3.12
+  },
+  {
+    "text": "a few things that are important to know",
+    "start": 39.48,
+    "duration": 4.02
+  },
+  {
+    "text": "about the CPU so if this little square",
+    "start": 41.04,
+    "duration": 5.76
+  },
+  {
+    "text": "here is your CPU it will say CPU inside",
+    "start": 43.5,
+    "duration": 5.879
+  },
+  {
+    "text": "of the CPU are a bunch of variables that",
+    "start": 46.8,
+    "duration": 4.38
+  },
+  {
+    "text": "are called registers they're just super",
+    "start": 49.379,
+    "duration": 4.321
+  },
+  {
+    "text": "fast memory that your computer uses to",
+    "start": 51.18,
+    "duration": 5.46
+  },
+  {
+    "text": "do operations with the registers are the",
+    "start": 53.7,
+    "duration": 4.499
+  },
+  {
+    "text": "width of the instruction set so today",
+    "start": 56.64,
+    "duration": 3.899
+  },
+  {
+    "text": "we're doing a 64-bit assembly so every",
+    "start": 58.199,
+    "duration": 5.401
+  },
+  {
+    "text": "register is 64 bits wide they have",
+    "start": 60.539,
+    "duration": 7.141
+  },
+  {
+    "text": "different names like RDI and RSI and",
+    "start": 63.6,
+    "duration": 6.42
+  },
+  {
+    "text": "maybe R8 for example all of these are",
+    "start": 67.68,
+    "duration": 5.16
+  },
+  {
+    "text": "64-bit registers and this are here I",
+    "start": 70.02,
+    "duration": 4.5
+  },
+  {
+    "text": "think of it meaning really big meaning",
+    "start": 72.84,
+    "duration": 3.84
+  },
+  {
+    "text": "that it's a 64-bit register and also",
+    "start": 74.52,
+    "duration": 4.26
+  },
+  {
+    "text": "before you ask yes I did lose my voice",
+    "start": 76.68,
+    "duration": 4.02
+  },
+  {
+    "text": "this weekend and yes I did shave my",
+    "start": 78.78,
+    "duration": 3.18
+  },
+  {
+    "text": "beard off this weekend it's been a",
+    "start": 80.7,
+    "duration": 3.12
+  },
+  {
+    "text": "weekend full of events I think you for",
+    "start": 81.96,
+    "duration": 4.26
+  },
+  {
+    "text": "asking so with these registers we can do",
+    "start": 83.82,
+    "duration": 4.32
+  },
+  {
+    "text": "a series of operations on them one of",
+    "start": 86.22,
+    "duration": 4.2
+  },
+  {
+    "text": "them being move for example so we'll say",
+    "start": 88.14,
+    "duration": 5.339
+  },
+  {
+    "text": "move RDI the number eight that means",
+    "start": 90.42,
+    "duration": 5.22
+  },
+  {
+    "text": "move the number eight the constant value",
+    "start": 93.479,
+    "duration": 5.041
+  },
+  {
+    "text": "into RDI we can also move registers",
+    "start": 95.64,
+    "duration": 4.56
+  },
+  {
+    "text": "between each other so we can say move",
+    "start": 98.52,
+    "duration": 5.639
+  },
+  {
+    "text": "into RDI the value in RSI so these are",
+    "start": 100.2,
+    "duration": 6.3
+  },
+  {
+    "text": "both movements in and out of registers",
+    "start": 104.159,
+    "duration": 3.841
+  },
+  {
+    "text": "those are pretty simple and then one of",
+    "start": 106.5,
+    "duration": 2.82
+  },
+  {
+    "text": "the more important ones we can do are",
+    "start": 108.0,
+    "duration": 3.659
+  },
+  {
+    "text": "called memory operations we can move",
+    "start": 109.32,
+    "duration": 5.159
+  },
+  {
+    "text": "into RDI",
+    "start": 111.659,
+    "duration": 5.82
+  },
+  {
+    "text": "the value at we call it the quad word",
+    "start": 114.479,
+    "duration": 5.541
+  },
+  {
+    "text": "pointer",
+    "start": 117.479,
+    "duration": 2.541
+  },
+  {
+    "text": "of RSI for example what that means is it",
+    "start": 120.42,
+    "duration": 6.6
+  },
+  {
+    "text": "says treat the value in RSI as a pointer",
+    "start": 123.54,
+    "duration": 5.699
+  },
+  {
+    "text": "and then remove the quad word length",
+    "start": 127.02,
+    "duration": 5.52
+  },
+  {
+    "text": "that's 8 bytes or 64 bits remove eight",
+    "start": 129.239,
+    "duration": 5.761
+  },
+  {
+    "text": "bytes from memory and put it into RDI",
+    "start": 132.54,
+    "duration": 4.02
+  },
+  {
+    "text": "and then we can do the opposite we can",
+    "start": 135.0,
+    "duration": 3.68
+  },
+  {
+    "text": "do the same thing in Reverse we can say",
+    "start": 136.56,
+    "duration": 7.52
+  },
+  {
+    "text": "move to the quad word pointer",
+    "start": 138.68,
+    "duration": 5.4
+  },
+  {
+    "text": "in RSI",
+    "start": 144.48,
+    "duration": 3.259
+  },
+  {
+    "text": "the value in RDI so the first one was a",
+    "start": 149.94,
+    "duration": 5.1
+  },
+  {
+    "text": "load we took values from memory and put",
+    "start": 152.94,
+    "duration": 4.14
+  },
+  {
+    "text": "them into registers now we can take",
+    "start": 155.04,
+    "duration": 3.96
+  },
+  {
+    "text": "values that are in registers and put",
+    "start": 157.08,
+    "duration": 3.72
+  },
+  {
+    "text": "them into memory so this is a store",
+    "start": 159.0,
+    "duration": 3.9
+  },
+  {
+    "text": "operation so with the basics out of the",
+    "start": 160.8,
+    "duration": 3.06
+  },
+  {
+    "text": "way and again if you're a little lost",
+    "start": 162.9,
+    "duration": 2.339
+  },
+  {
+    "text": "it's okay we're going to write some code",
+    "start": 163.86,
+    "duration": 2.94
+  },
+  {
+    "text": "now to kind of clear it all up let's get",
+    "start": 165.239,
+    "duration": 2.941
+  },
+  {
+    "text": "into our virtual machine and write some",
+    "start": 166.8,
+    "duration": 2.939
+  },
+  {
+    "text": "code okay so to get started we have to",
+    "start": 168.18,
+    "duration": 3.3
+  },
+  {
+    "text": "install the assembler and the Linker",
+    "start": 169.739,
+    "duration": 3.421
+  },
+  {
+    "text": "that will allow us to compile our",
+    "start": 171.48,
+    "duration": 3.24
+  },
+  {
+    "text": "assembly code into machine code that",
+    "start": 173.16,
+    "duration": 3.359
+  },
+  {
+    "text": "runs on the computer so do that we have",
+    "start": 174.72,
+    "duration": 4.56
+  },
+  {
+    "text": "to run a sudo app install GCC by running",
+    "start": 176.519,
+    "duration": 4.8
+  },
+  {
+    "text": "this we'll actually get the assembler as",
+    "start": 179.28,
+    "duration": 4.14
+  },
+  {
+    "text": "and the loader LD I already have it so",
+    "start": 181.319,
+    "duration": 3.301
+  },
+  {
+    "text": "nothing happened here but just to test",
+    "start": 183.42,
+    "duration": 3.179
+  },
+  {
+    "text": "you have it if you type as assembler",
+    "start": 184.62,
+    "duration": 3.3
+  },
+  {
+    "text": "that should hang meaning it's looking",
+    "start": 186.599,
+    "duration": 3.72
+  },
+  {
+    "text": "for an input of the file to assemble so",
+    "start": 187.92,
+    "duration": 3.78
+  },
+  {
+    "text": "we're good there and also LD it should",
+    "start": 190.319,
+    "duration": 3.0
+  },
+  {
+    "text": "say no input files if you have both of",
+    "start": 191.7,
+    "duration": 3.72
+  },
+  {
+    "text": "those that run you should be able to",
+    "start": 193.319,
+    "duration": 3.721
+  },
+  {
+    "text": "follow along as well so now let's",
+    "start": 195.42,
+    "duration": 3.12
+  },
+  {
+    "text": "actually write some code that we're",
+    "start": 197.04,
+    "duration": 4.02
+  },
+  {
+    "text": "going to assemble in our program so in",
+    "start": 198.54,
+    "duration": 3.72
+  },
+  {
+    "text": "my folder assembly tutorial what we're",
+    "start": 201.06,
+    "duration": 2.099
+  },
+  {
+    "text": "going to do is we're going to open up",
+    "start": 202.26,
+    "duration": 3.6
+  },
+  {
+    "text": "our file we're going to say Vim assem.s",
+    "start": 203.159,
+    "duration": 4.021
+  },
+  {
+    "text": "so you can name this file whatever you",
+    "start": 205.86,
+    "duration": 3.239
+  },
+  {
+    "text": "want and here we are we're in a file",
+    "start": 207.18,
+    "duration": 3.12
+  },
+  {
+    "text": "that we're going to actually write our",
+    "start": 209.099,
+    "duration": 2.821
+  },
+  {
+    "text": "machine code now before we write our",
+    "start": 210.3,
+    "duration": 3.359
+  },
+  {
+    "text": "machine code we have to start the file",
+    "start": 211.92,
+    "duration": 3.72
+  },
+  {
+    "text": "off with some boilerplate code that",
+    "start": 213.659,
+    "duration": 4.261
+  },
+  {
+    "text": "tells the assembler what to do so the",
+    "start": 215.64,
+    "duration": 5.4
+  },
+  {
+    "text": "first one is global start that exposes a",
+    "start": 217.92,
+    "duration": 5.039
+  },
+  {
+    "text": "symbol called start to the Linker so it",
+    "start": 221.04,
+    "duration": 3.779
+  },
+  {
+    "text": "knows where our code starts and also",
+    "start": 222.959,
+    "duration": 4.56
+  },
+  {
+    "text": "we're going to say Intel syntax no",
+    "start": 224.819,
+    "duration": 4.021
+  },
+  {
+    "text": "prefix",
+    "start": 227.519,
+    "duration": 3.3
+  },
+  {
+    "text": "that makes our code a little easier to",
+    "start": 228.84,
+    "duration": 3.479
+  },
+  {
+    "text": "read and write for an average human",
+    "start": 230.819,
+    "duration": 3.42
+  },
+  {
+    "text": "being so then we can say underscore",
+    "start": 232.319,
+    "duration": 3.721
+  },
+  {
+    "text": "start and then a colon and that is where",
+    "start": 234.239,
+    "duration": 3.78
+  },
+  {
+    "text": "our code is going to start so if we",
+    "start": 236.04,
+    "duration": 3.9
+  },
+  {
+    "text": "write this and we get out of here we're",
+    "start": 238.019,
+    "duration": 3.72
+  },
+  {
+    "text": "now going to try to assemble our code",
+    "start": 239.94,
+    "duration": 5.18
+  },
+  {
+    "text": "using the assemblers we'll say as on our",
+    "start": 241.739,
+    "duration": 5.78
+  },
+  {
+    "text": "code.s we're going to say",
+    "start": 245.12,
+    "duration": 5.259
+  },
+  {
+    "text": "assem.o and there we go so now we have a",
+    "start": 247.519,
+    "duration": 4.841
+  },
+  {
+    "text": "file called a sem.o now we need to",
+    "start": 250.379,
+    "duration": 3.961
+  },
+  {
+    "text": "invoke the Linker to actually convert",
+    "start": 252.36,
+    "duration": 3.299
+  },
+  {
+    "text": "that into an executable elf because",
+    "start": 254.34,
+    "duration": 3.359
+  },
+  {
+    "text": "right now this is an intermediate object",
+    "start": 255.659,
+    "duration": 3.54
+  },
+  {
+    "text": "we can't actually run this we have to",
+    "start": 257.699,
+    "duration": 3.361
+  },
+  {
+    "text": "use the Linker to make it a full Elf",
+    "start": 259.199,
+    "duration": 3.361
+  },
+  {
+    "text": "that runs we can use the Linker itself",
+    "start": 261.06,
+    "duration": 3.3
+  },
+  {
+    "text": "or we can use GCC we're going to use GCC",
+    "start": 262.56,
+    "duration": 5.04
+  },
+  {
+    "text": "and say GCC Tac o assem do that on a",
+    "start": 264.36,
+    "duration": 5.7
+  },
+  {
+    "text": "sem.o we're also going to say no",
+    "start": 267.6,
+    "duration": 4.86
+  },
+  {
+    "text": "standard lib and tax static that makes",
+    "start": 270.06,
+    "duration": 4.02
+  },
+  {
+    "text": "it so that the binary doesn't get any",
+    "start": 272.46,
+    "duration": 3.72
+  },
+  {
+    "text": "additional stuff in there from lib C and",
+    "start": 274.08,
+    "duration": 4.5
+  },
+  {
+    "text": "makes it easier to run so if we run this",
+    "start": 276.18,
+    "duration": 4.799
+  },
+  {
+    "text": "file we are going to get a crash and",
+    "start": 278.58,
+    "duration": 3.72
+  },
+  {
+    "text": "there's a reason for that we haven't",
+    "start": 280.979,
+    "duration": 3.72
+  },
+  {
+    "text": "told the binary how to properly exit so",
+    "start": 282.3,
+    "duration": 3.78
+  },
+  {
+    "text": "we can go back into our file here and we",
+    "start": 284.699,
+    "duration": 2.881
+  },
+  {
+    "text": "can do some operations that we talked",
+    "start": 286.08,
+    "duration": 2.7
+  },
+  {
+    "text": "about in our previous example when I was",
+    "start": 287.58,
+    "duration": 2.82
+  },
+  {
+    "text": "talking about the registers right we can",
+    "start": 288.78,
+    "duration": 4.02
+  },
+  {
+    "text": "say things like move RDI the number",
+    "start": 290.4,
+    "duration": 5.4
+  },
+  {
+    "text": "eight and we can say move into RSI the",
+    "start": 292.8,
+    "duration": 4.679
+  },
+  {
+    "text": "value of RDI so at the end of this code",
+    "start": 295.8,
+    "duration": 4.679
+  },
+  {
+    "text": "both RDI and RSI the registers will have",
+    "start": 297.479,
+    "duration": 4.5
+  },
+  {
+    "text": "the value 8 in them so that's pretty",
+    "start": 300.479,
+    "duration": 4.081
+  },
+  {
+    "text": "cool let's go back and rerun our Command",
+    "start": 301.979,
+    "duration": 4.801
+  },
+  {
+    "text": "so again we use as to assemble it we use",
+    "start": 304.56,
+    "duration": 4.74
+  },
+  {
+    "text": "GCC to compile it and then we can use",
+    "start": 306.78,
+    "duration": 4.08
+  },
+  {
+    "text": "that and run the programs and you're",
+    "start": 309.3,
+    "duration": 3.24
+  },
+  {
+    "text": "going to see we get a crash again so",
+    "start": 310.86,
+    "duration": 3.119
+  },
+  {
+    "text": "those operations actually did happen",
+    "start": 312.54,
+    "duration": 3.36
+  },
+  {
+    "text": "under the hood when it got to the end of",
+    "start": 313.979,
+    "duration": 3.961
+  },
+  {
+    "text": "our code it didn't know how to exit our",
+    "start": 315.9,
+    "duration": 3.84
+  },
+  {
+    "text": "program you may be asking you know we",
+    "start": 317.94,
+    "duration": 4.14
+  },
+  {
+    "text": "have these operations to move values in",
+    "start": 319.74,
+    "duration": 4.26
+  },
+  {
+    "text": "and out of registers in and out of",
+    "start": 322.08,
+    "duration": 3.839
+  },
+  {
+    "text": "memory but how do we make the computer",
+    "start": 324.0,
+    "duration": 3.419
+  },
+  {
+    "text": "do something how do we make it print",
+    "start": 325.919,
+    "duration": 4.141
+  },
+  {
+    "text": "data or properly exit our process or do",
+    "start": 327.419,
+    "duration": 4.201
+  },
+  {
+    "text": "something that matters to us as human",
+    "start": 330.06,
+    "duration": 3.419
+  },
+  {
+    "text": "beings to do that we have to invoke what",
+    "start": 331.62,
+    "duration": 3.54
+  },
+  {
+    "text": "is called a syscall and the actual",
+    "start": 333.479,
+    "duration": 3.06
+  },
+  {
+    "text": "instruction in assembly to do that is",
+    "start": 335.16,
+    "duration": 4.08
+  },
+  {
+    "text": "called a syscall now it's a little more",
+    "start": 336.539,
+    "duration": 4.38
+  },
+  {
+    "text": "complicated than just typing the word",
+    "start": 339.24,
+    "duration": 3.84
+  },
+  {
+    "text": "syscall we have to set up the registers",
+    "start": 340.919,
+    "duration": 4.5
+  },
+  {
+    "text": "in a particular way that the kernel",
+    "start": 343.08,
+    "duration": 4.86
+  },
+  {
+    "text": "beneath us understands what to do what",
+    "start": 345.419,
+    "duration": 4.261
+  },
+  {
+    "text": "is the question that we're asking the",
+    "start": 347.94,
+    "duration": 3.36
+  },
+  {
+    "text": "kernel to do for us so what I'm looking",
+    "start": 349.68,
+    "duration": 3.6
+  },
+  {
+    "text": "at here is what is called a syscall",
+    "start": 351.3,
+    "duration": 4.02
+  },
+  {
+    "text": "table this is a list of all the",
+    "start": 353.28,
+    "duration": 4.08
+  },
+  {
+    "text": "operations the kernel is able to do for",
+    "start": 355.32,
+    "duration": 4.439
+  },
+  {
+    "text": "us when we invoke a syscall and as you",
+    "start": 357.36,
+    "duration": 4.02
+  },
+  {
+    "text": "can see here we have things like sys",
+    "start": 359.759,
+    "duration": 4.021
+  },
+  {
+    "text": "read sys right we have Assist exit in",
+    "start": 361.38,
+    "duration": 3.42
+  },
+  {
+    "text": "here somewhere let's see if we can find",
+    "start": 363.78,
+    "duration": 2.94
+  },
+  {
+    "text": "it I'm pretty sure it's like syscall 62",
+    "start": 364.8,
+    "duration": 4.38
+  },
+  {
+    "text": "or something",
+    "start": 366.72,
+    "duration": 4.68
+  },
+  {
+    "text": "16 there we go so you'll see that we",
+    "start": 369.18,
+    "duration": 3.359
+  },
+  {
+    "text": "have all these things we can ask the",
+    "start": 371.4,
+    "duration": 3.299
+  },
+  {
+    "text": "kernel to do for us the way we ask the",
+    "start": 372.539,
+    "duration": 3.901
+  },
+  {
+    "text": "kernel to do them is before we invoke",
+    "start": 374.699,
+    "duration": 3.541
+  },
+  {
+    "text": "the syscall we have to set up the",
+    "start": 376.44,
+    "duration": 3.479
+  },
+  {
+    "text": "registers in a way that the kernel",
+    "start": 378.24,
+    "duration": 4.44
+  },
+  {
+    "text": "recognizes our Command so here we have",
+    "start": 379.919,
+    "duration": 4.741
+  },
+  {
+    "text": "register Rax that means for example to",
+    "start": 382.68,
+    "duration": 4.739
+  },
+  {
+    "text": "do the sysread operation we put the zero",
+    "start": 384.66,
+    "duration": 5.52
+  },
+  {
+    "text": "into the Rax register we also put the",
+    "start": 387.419,
+    "duration": 4.5
+  },
+  {
+    "text": "file description number we want to read",
+    "start": 390.18,
+    "duration": 3.84
+  },
+  {
+    "text": "the buffer we want to read into Etc so",
+    "start": 391.919,
+    "duration": 5.041
+  },
+  {
+    "text": "let's test this out with the exit",
+    "start": 394.02,
+    "duration": 4.26
+  },
+  {
+    "text": "syscall again it's going to be just",
+    "start": 396.96,
+    "duration": 5.04
+  },
+  {
+    "text": "called number 60 here so we put into Rax",
+    "start": 398.28,
+    "duration": 6.96
+  },
+  {
+    "text": "the number 60 and then into RDI we put",
+    "start": 402.0,
+    "duration": 5.16
+  },
+  {
+    "text": "the error code we want our process to",
+    "start": 405.24,
+    "duration": 3.72
+  },
+  {
+    "text": "return with so let's let's try this out",
+    "start": 407.16,
+    "duration": 4.14
+  },
+  {
+    "text": "so we said we wanted to put the number",
+    "start": 408.96,
+    "duration": 5.519
+  },
+  {
+    "text": "60 into Rax and then into RDI we wanted",
+    "start": 411.3,
+    "duration": 4.44
+  },
+  {
+    "text": "the error code and I'll show you how to",
+    "start": 414.479,
+    "duration": 2.881
+  },
+  {
+    "text": "check that at the end of this run",
+    "start": 415.74,
+    "duration": 3.6
+  },
+  {
+    "text": "we're gonna try the number 69 real quick",
+    "start": 417.36,
+    "duration": 3.959
+  },
+  {
+    "text": "so let's do that and we're going to",
+    "start": 419.34,
+    "duration": 3.84
+  },
+  {
+    "text": "re-assemble our program we're going to",
+    "start": 421.319,
+    "duration": 4.201
+  },
+  {
+    "text": "run GCC on it and then if we run our",
+    "start": 423.18,
+    "duration": 4.38
+  },
+  {
+    "text": "code our program didn't crash and the",
+    "start": 425.52,
+    "duration": 4.08
+  },
+  {
+    "text": "reason for that is we told it how to",
+    "start": 427.56,
+    "duration": 4.02
+  },
+  {
+    "text": "exit we gave it the instruction from the",
+    "start": 429.6,
+    "duration": 3.659
+  },
+  {
+    "text": "kernel to exit and now we're going to",
+    "start": 431.58,
+    "duration": 3.059
+  },
+  {
+    "text": "check the exit code to see if it's",
+    "start": 433.259,
+    "duration": 3.421
+  },
+  {
+    "text": "actually doing what we asked it to do or",
+    "start": 434.639,
+    "duration": 3.78
+  },
+  {
+    "text": "something else so we'll do Echo oh",
+    "start": 436.68,
+    "duration": 4.2
+  },
+  {
+    "text": "dollar sign question mark and boom the",
+    "start": 438.419,
+    "duration": 4.441
+  },
+  {
+    "text": "return code is 69 which means that this",
+    "start": 440.88,
+    "duration": 4.56
+  },
+  {
+    "text": "is the code that we ran so let's level",
+    "start": 442.86,
+    "duration": 4.679
+  },
+  {
+    "text": "this up let's add another layer to this",
+    "start": 445.44,
+    "duration": 4.44
+  },
+  {
+    "text": "let's make the program print the string",
+    "start": 447.539,
+    "duration": 3.841
+  },
+  {
+    "text": "hello world the way we do the Hello",
+    "start": 449.88,
+    "duration": 3.0
+  },
+  {
+    "text": "World operation is we're going to invoke",
+    "start": 451.38,
+    "duration": 4.08
+  },
+  {
+    "text": "a syscall called sys right we're going",
+    "start": 452.88,
+    "duration": 4.86
+  },
+  {
+    "text": "to put 1 into RX to do that we're going",
+    "start": 455.46,
+    "duration": 4.44
+  },
+  {
+    "text": "to write out to the standard out file",
+    "start": 457.74,
+    "duration": 3.48
+  },
+  {
+    "text": "descriptor which is file descriptor",
+    "start": 459.9,
+    "duration": 3.78
+  },
+  {
+    "text": "number one in out an error zero one two",
+    "start": 461.22,
+    "duration": 4.68
+  },
+  {
+    "text": "and we're going to write out a buffer",
+    "start": 463.68,
+    "duration": 4.799
+  },
+  {
+    "text": "that contains our hello world string and",
+    "start": 465.9,
+    "duration": 4.38
+  },
+  {
+    "text": "also we're going to be put into RDX the",
+    "start": 468.479,
+    "duration": 3.361
+  },
+  {
+    "text": "number of bytes to write so let's add",
+    "start": 470.28,
+    "duration": 3.06
+  },
+  {
+    "text": "that into our program real quick so",
+    "start": 471.84,
+    "duration": 2.639
+  },
+  {
+    "text": "we're going to leave this in here",
+    "start": 473.34,
+    "duration": 2.52
+  },
+  {
+    "text": "because this is actually just us exiting",
+    "start": 474.479,
+    "duration": 2.521
+  },
+  {
+    "text": "so we'll add a little comment here we'll",
+    "start": 475.86,
+    "duration": 3.839
+  },
+  {
+    "text": "say this is the sys exit call",
+    "start": 477.0,
+    "duration": 4.139
+  },
+  {
+    "text": "and then we're going to do the sys right",
+    "start": 479.699,
+    "duration": 3.541
+  },
+  {
+    "text": "call to do the sysrite syscall we have",
+    "start": 481.139,
+    "duration": 3.361
+  },
+  {
+    "text": "to do a few things again first we have",
+    "start": 483.24,
+    "duration": 3.42
+  },
+  {
+    "text": "to tell Rax what is this call we're",
+    "start": 484.5,
+    "duration": 4.8
+  },
+  {
+    "text": "doing so we move 1 into Rax we need to",
+    "start": 486.66,
+    "duration": 4.86
+  },
+  {
+    "text": "put the file descriptor into rdis",
+    "start": 489.3,
+    "duration": 3.839
+  },
+  {
+    "text": "remember standard out is file descript",
+    "start": 491.52,
+    "duration": 3.42
+  },
+  {
+    "text": "number one so we'll also put one here",
+    "start": 493.139,
+    "duration": 4.741
+  },
+  {
+    "text": "and we're going to move into our SI the",
+    "start": 494.94,
+    "duration": 4.979
+  },
+  {
+    "text": "address of the buffer that contains our",
+    "start": 497.88,
+    "duration": 3.42
+  },
+  {
+    "text": "string so this is actually going to be a",
+    "start": 499.919,
+    "duration": 3.18
+  },
+  {
+    "text": "new operation called load effective",
+    "start": 501.3,
+    "duration": 3.119
+  },
+  {
+    "text": "address we're going to load the",
+    "start": 503.099,
+    "duration": 4.081
+  },
+  {
+    "text": "effective address into RSI of our hello",
+    "start": 504.419,
+    "duration": 4.441
+  },
+  {
+    "text": "world buffer and we're going to Define",
+    "start": 507.18,
+    "duration": 3.12
+  },
+  {
+    "text": "that here in a second",
+    "start": 508.86,
+    "duration": 4.38
+  },
+  {
+    "text": "and then finally we move into our DX the",
+    "start": 510.3,
+    "duration": 4.739
+  },
+  {
+    "text": "length of our buffer which is just going",
+    "start": 513.24,
+    "duration": 3.299
+  },
+  {
+    "text": "to be 13. we can hardly code that into",
+    "start": 515.039,
+    "duration": 3.0
+  },
+  {
+    "text": "our code right there and then we'll",
+    "start": 516.539,
+    "duration": 3.901
+  },
+  {
+    "text": "invoke the syscall and then we'll go",
+    "start": 518.039,
+    "duration": 3.841
+  },
+  {
+    "text": "from there",
+    "start": 520.44,
+    "duration": 3.06
+  },
+  {
+    "text": "now we can do it on here is we can",
+    "start": 521.88,
+    "duration": 3.42
+  },
+  {
+    "text": "create a new symbol called hello world",
+    "start": 523.5,
+    "duration": 3.899
+  },
+  {
+    "text": "with a colon we're going to say it's an",
+    "start": 525.3,
+    "duration": 4.8
+  },
+  {
+    "text": "ASCII string zero delimited that'll be",
+    "start": 527.399,
+    "duration": 4.741
+  },
+  {
+    "text": "hello world",
+    "start": 530.1,
+    "duration": 4.56
+  },
+  {
+    "text": "exclamation point new line and then a",
+    "start": 532.14,
+    "duration": 4.139
+  },
+  {
+    "text": "zero will come at the end of that like C",
+    "start": 534.66,
+    "duration": 3.66
+  },
+  {
+    "text": "is supposed to have so we can do that we",
+    "start": 536.279,
+    "duration": 4.201
+  },
+  {
+    "text": "can save it we can quit and now we'll do",
+    "start": 538.32,
+    "duration": 3.72
+  },
+  {
+    "text": "the same thing as before we can type as",
+    "start": 540.48,
+    "duration": 4.88
+  },
+  {
+    "text": "to assemble our program",
+    "start": 542.04,
+    "duration": 3.32
+  },
+  {
+    "text": "oh it didn't like my comments hold on",
+    "start": 546.54,
+    "duration": 3.799
+  },
+  {
+    "text": "I think it's a double backslash here",
+    "start": 551.16,
+    "duration": 3.299
+  },
+  {
+    "text": "yeah let's try that",
+    "start": 552.779,
+    "duration": 3.781
+  },
+  {
+    "text": "it's either double backslash or a pound",
+    "start": 554.459,
+    "duration": 4.401
+  },
+  {
+    "text": "sign",
+    "start": 556.56,
+    "duration": 2.3
+  },
+  {
+    "text": "okay double backslash is good GCC and",
+    "start": 559.92,
+    "duration": 4.979
+  },
+  {
+    "text": "then we're gonna run our program",
+    "start": 562.44,
+    "duration": 4.5
+  },
+  {
+    "text": "hello world uh we missed a new line so",
+    "start": 564.899,
+    "duration": 3.181
+  },
+  {
+    "text": "it's actually gonna be 14 characters",
+    "start": 566.94,
+    "duration": 2.76
+  },
+  {
+    "text": "let's fix that real quick instead of 13",
+    "start": 568.08,
+    "duration": 4.68
+  },
+  {
+    "text": "it's 14.",
+    "start": 569.7,
+    "duration": 6.24
+  },
+  {
+    "text": "we'll do as we'll do GCC and we'll run",
+    "start": 572.76,
+    "duration": 5.579
+  },
+  {
+    "text": "it again hello world all done at",
+    "start": 575.94,
+    "duration": 4.2
+  },
+  {
+    "text": "assembly assembly isn't that hard I hope",
+    "start": 578.339,
+    "duration": 2.761
+  },
+  {
+    "text": "you learned something today if you did",
+    "start": 580.14,
+    "duration": 2.699
+  },
+  {
+    "text": "do me a favor hit that like button hit",
+    "start": 581.1,
+    "duration": 3.54
+  },
+  {
+    "text": "subscribe and we'll see you in the next",
+    "start": 582.839,
+    "duration": 6.021
+  },
+  {
+    "text": "low level tutorial talk to you then",
+    "start": 584.64,
+    "duration": 4.22
+  }
+]

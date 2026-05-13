@@ -1,0 +1,79 @@
+{
+  "model_name": "xgboost_paid_ads_multioutput",
+  "targets": [
+    "paid_performance_score",
+    "cpm"
+  ],
+  "feature_columns": [
+    "source_dataset",
+    "campaign",
+    "channel",
+    "device",
+    "ad_type",
+    "age",
+    "gender",
+    "city",
+    "campaign_numeric_id",
+    "ad_numeric_id",
+    "interest",
+    "month",
+    "weekday",
+    "ctr_prior",
+    "cvr_prior"
+  ],
+  "categorical_columns": [
+    "source_dataset",
+    "campaign",
+    "channel",
+    "device",
+    "ad_type",
+    "age",
+    "gender",
+    "city"
+  ],
+  "numeric_columns": [
+    "campaign_numeric_id",
+    "ad_numeric_id",
+    "interest",
+    "month",
+    "weekday",
+    "ctr_prior",
+    "cvr_prior"
+  ],
+  "train_rows": 8610,
+  "test_rows": 2153,
+  "source_files": [
+    "facebook_kag_conversion.csv",
+    "onyx_marketing_campaign.csv"
+  ],
+  "metrics": {
+    "paid_performance_score": {
+      "mae": 8.812764919048815,
+      "rmse": 10.902629646787105,
+      "r2": 0.37750773469891763,
+      "mape_pct": 19.457599943242517,
+      "test_mean": 50.607021121988566
+    },
+    "cpm": {
+      "mae": 4.50505755053344,
+      "rmse": 5.910916344158139,
+      "r2": 0.5086430751881359,
+      "mape_pct": 149.55851720913512,
+      "test_mean": 10.011057839993084
+    }
+  },
+  "baseline_mean": {
+    "paid_performance_score": {
+      "mae": 11.086558570291052,
+      "rmse": 13.839298653080661,
+      "r2": -0.0029969287244282494
+    },
+    "cpm": {
+      "mae": 6.7532469699974085,
+      "rmse": 8.438294695080407,
+      "r2": -0.0013752012405083835
+    }
+  },
+  "threshold_gate_probability": 0.51,
+  "training_note": "Modelo XGBoost multi-output entrenado con datasets de campañas pagadas. Predice score de rendimiento pagado normalizado y CPM; no predice ROI causal real de YouTube Ads sin datos propios de campañas."
+}

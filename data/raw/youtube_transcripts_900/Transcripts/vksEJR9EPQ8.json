@@ -1,0 +1,987 @@
+[
+  {
+    "text": "It’s a Monday evening\nin Minneapolis.",
+    "start": 4.385,
+    "duration": 2.545
+  },
+  {
+    "text": "Police respond to a call\nabout a man",
+    "start": 6.93,
+    "duration": 1.87
+  },
+  {
+    "text": "who allegedly used a counterfeit\n$20 bill to buy cigarettes.",
+    "start": 8.8,
+    "duration": 5.15
+  },
+  {
+    "text": "Seventeen minutes later,",
+    "start": 13.95,
+    "duration": 1.45
+  },
+  {
+    "text": "the man they are there\nto investigate",
+    "start": 15.4,
+    "duration": 1.61
+  },
+  {
+    "text": "lies motionless on the ground,",
+    "start": 17.01,
+    "duration": 1.88
+  },
+  {
+    "text": "and is pronounced dead\nshortly after.",
+    "start": 18.89,
+    "duration": 3.76
+  },
+  {
+    "text": "The man was 46-year-old\nGeorge Floyd,",
+    "start": 22.65,
+    "duration": 2.85
+  },
+  {
+    "text": "a bouncer originally from\nHouston who had lost his job",
+    "start": 25.5,
+    "duration": 2.98
+  },
+  {
+    "text": "at a restaurant when the\ncoronavirus pandemic hit.",
+    "start": 28.48,
+    "duration": 2.626
+  },
+  {
+    "text": "Crowd: “No justice, no peace.”",
+    "start": 31.106,
+    "duration": 2.849
+  },
+  {
+    "text": "Floyd’s death triggered\nmajor protests in Minneapolis,",
+    "start": 33.955,
+    "duration": 4.065
+  },
+  {
+    "text": "and sparked rage\nacross the country.",
+    "start": 38.02,
+    "duration": 2.235
+  },
+  {
+    "text": "One of the officers involved, \nDerek Chauvin,",
+    "start": 42.72,
+    "duration": 2.573
+  },
+  {
+    "text": "has been arrested and charged\nwith second-degree murder.",
+    "start": 45.293,
+    "duration": 3.51
+  },
+  {
+    "text": "The other three officers\nhave been charged",
+    "start": 48.803,
+    "duration": 1.841
+  },
+  {
+    "text": "with aiding and abetting murder.",
+    "start": 50.644,
+    "duration": 1.886
+  },
+  {
+    "text": "The Times analyzed bystander\nvideos, security camera footage",
+    "start": 53.6,
+    "duration": 3.372
+  },
+  {
+    "text": "and police scanner audio,",
+    "start": 56.972,
+    "duration": 1.688
+  },
+  {
+    "text": "spoke to witnesses\nand experts,",
+    "start": 58.66,
+    "duration": 1.68
+  },
+  {
+    "text": "and reviewed documents\nreleased by the authorities",
+    "start": 60.34,
+    "duration": 2.85
+  },
+  {
+    "text": "to build as comprehensive\na picture as possible",
+    "start": 63.19,
+    "duration": 2.82
+  },
+  {
+    "text": "and better understand\nhow George Floyd",
+    "start": 66.01,
+    "duration": 2.01
+  },
+  {
+    "text": "died in police custody.",
+    "start": 68.02,
+    "duration": 1.95
+  },
+  {
+    "text": "The events of May 25\nbegin here.",
+    "start": 74.61,
+    "duration": 2.58
+  },
+  {
+    "text": "Floyd is sitting in\nthe driver’s seat",
+    "start": 77.19,
+    "duration": 1.56
+  },
+  {
+    "text": "of this blue S.U.V.",
+    "start": 78.75,
+    "duration": 1.95
+  },
+  {
+    "text": "Across the street is a\nconvenience store",
+    "start": 80.7,
+    "duration": 2.04
+  },
+  {
+    "text": "called Cup Foods.",
+    "start": 82.74,
+    "duration": 1.65
+  },
+  {
+    "text": "Footage from this\nrestaurant security camera",
+    "start": 84.39,
+    "duration": 2.64
+  },
+  {
+    "text": "helps us understand\nwhat happens next.",
+    "start": 87.03,
+    "duration": 2.97
+  },
+  {
+    "text": "Note that the timestamp on\nthe camera is 24 minutes fast.",
+    "start": 90.0,
+    "duration": 4.14
+  },
+  {
+    "text": "At 7:57 p.m., two\nemployees from Cup Foods",
+    "start": 94.14,
+    "duration": 3.18
+  },
+  {
+    "text": "confront Floyd\nand his companions",
+    "start": 97.32,
+    "duration": 2.15
+  },
+  {
+    "text": "about an alleged\ncounterfeit bill",
+    "start": 99.47,
+    "duration": 1.63
+  },
+  {
+    "text": "he just used in their store\nto buy cigarettes.",
+    "start": 101.1,
+    "duration": 3.03
+  },
+  {
+    "text": "They demand the\ncigarettes back",
+    "start": 104.13,
+    "duration": 2.02
+  },
+  {
+    "text": "but walk away empty-handed.",
+    "start": 106.15,
+    "duration": 2.45
+  },
+  {
+    "text": "Four minutes later,\nthey call the police.",
+    "start": 108.6,
+    "duration": 2.67
+  },
+  {
+    "text": "According to the\n911 transcript,",
+    "start": 111.27,
+    "duration": 1.77
+  },
+  {
+    "text": "an employee says that\nFloyd used fake bills",
+    "start": 113.04,
+    "duration": 2.25
+  },
+  {
+    "text": "to buy cigarettes, and that\nhe is “awfully drunk”",
+    "start": 115.29,
+    "duration": 2.45
+  },
+  {
+    "text": "and “not in control\nof himself.”",
+    "start": 117.74,
+    "duration": 2.6
+  },
+  {
+    "text": "Soon, the first police vehicle\narrives on the scene.",
+    "start": 120.34,
+    "duration": 4.18
+  },
+  {
+    "text": "Officers Thomas Lane\nand J. Alexander Kueng",
+    "start": 124.52,
+    "duration": 2.64
+  },
+  {
+    "text": "step out of the car and\napproach the blue S.U.V.",
+    "start": 127.16,
+    "duration": 3.99
+  },
+  {
+    "text": "Seconds later,\nLane pulls his gun.",
+    "start": 131.15,
+    "duration": 2.34
+  },
+  {
+    "text": "We don’t know exactly why.",
+    "start": 133.49,
+    "duration": 1.58
+  },
+  {
+    "text": "He orders Floyd to put\nhis hands on the wheel.",
+    "start": 135.07,
+    "duration": 3.3
+  },
+  {
+    "text": "Lane reholsters the gun,\nand after about 90 seconds",
+    "start": 138.37,
+    "duration": 2.83
+  },
+  {
+    "text": "of back and forth,\nyanks Floyd out of the S.U.V.",
+    "start": 141.2,
+    "duration": 4.25
+  },
+  {
+    "text": "A man is filming\nthe confrontation",
+    "start": 145.45,
+    "duration": 1.57
+  },
+  {
+    "text": "from a car parked behind them.",
+    "start": 147.02,
+    "duration": 3.71
+  },
+  {
+    "text": "The officers cuff Floyd’s\nhands behind his back.",
+    "start": 150.73,
+    "duration": 2.83
+  },
+  {
+    "text": "And Kueng walks him to\nthe restaurant wall.",
+    "start": 153.56,
+    "duration": 1.972
+  },
+  {
+    "text": "“All right, what’s your name?”",
+    "start": 155.532,
+    "duration": 1.753
+  },
+  {
+    "text": "From the 911 transcript\nand the footage,",
+    "start": 157.285,
+    "duration": 2.055
+  },
+  {
+    "text": "we now know three\nimportant facts:",
+    "start": 159.34,
+    "duration": 2.46
+  },
+  {
+    "text": "First, that the police\nbelieved they",
+    "start": 161.8,
+    "duration": 1.73
+  },
+  {
+    "text": "were responding to a man who\nwas drunk and out of control.",
+    "start": 163.53,
+    "duration": 3.23
+  },
+  {
+    "text": "But second, even\nthough the police",
+    "start": 166.76,
+    "duration": 1.7
+  },
+  {
+    "text": "were expecting\nthis situation,",
+    "start": 168.46,
+    "duration": 1.95
+  },
+  {
+    "text": "we can see that Floyd\nhas not acted violently.",
+    "start": 170.41,
+    "duration": 3.3
+  },
+  {
+    "text": "And third, that he seems\nto already be in distress.",
+    "start": 173.71,
+    "duration": 3.96
+  },
+  {
+    "text": "Six minutes into the arrest,\nthe two officers",
+    "start": 177.67,
+    "duration": 2.285
+  },
+  {
+    "text": "move Floyd back\nto their vehicle.",
+    "start": 179.955,
+    "duration": 2.015
+  },
+  {
+    "text": "As the officers\napproach their car,",
+    "start": 184.39,
+    "duration": 2.0
+  },
+  {
+    "text": "we can see Floyd\nfall to the ground.",
+    "start": 186.39,
+    "duration": 3.322
+  },
+  {
+    "text": "According to the\ncriminal complaints",
+    "start": 189.712,
+    "duration": 1.698
+  },
+  {
+    "text": "filed against the officers,",
+    "start": 191.41,
+    "duration": 2.003
+  },
+  {
+    "text": "Floyd says he is\nclaustrophobic",
+    "start": 193.413,
+    "duration": 1.667
+  },
+  {
+    "text": "and refuses to enter\nthe police car.",
+    "start": 195.08,
+    "duration": 2.96
+  },
+  {
+    "text": "During the struggle, Floyd\nappears to turn his head",
+    "start": 198.04,
+    "duration": 2.35
+  },
+  {
+    "text": "to address the officers\nmultiple times.",
+    "start": 200.39,
+    "duration": 2.68
+  },
+  {
+    "text": "According to the complaints,\nhe tells them he can’t breathe.",
+    "start": 203.07,
+    "duration": 4.62
+  },
+  {
+    "text": "Nine minutes into the arrest,\nthe third and final police car",
+    "start": 207.69,
+    "duration": 3.191
+  },
+  {
+    "text": "arrives on the scene.",
+    "start": 210.881,
+    "duration": 2.039
+  },
+  {
+    "text": "It’s carrying officers\nTou Thao and Derek Chauvin.",
+    "start": 212.92,
+    "duration": 3.39
+  },
+  {
+    "text": "Both have previous\nrecords of complaints",
+    "start": 216.31,
+    "duration": 1.8
+  },
+  {
+    "text": "brought against them.",
+    "start": 218.11,
+    "duration": 1.46
+  },
+  {
+    "text": "Thao was once sued for\nthrowing a man to the ground",
+    "start": 219.57,
+    "duration": 2.44
+  },
+  {
+    "text": "and hitting him.",
+    "start": 222.01,
+    "duration": 1.23
+  },
+  {
+    "text": "Chauvin has been involved\nin three police shootings,",
+    "start": 223.24,
+    "duration": 2.61
+  },
+  {
+    "text": "one of them fatal.",
+    "start": 225.85,
+    "duration": 1.39
+  },
+  {
+    "text": "Chauvin becomes\ninvolved in the struggle",
+    "start": 227.24,
+    "duration": 1.86
+  },
+  {
+    "text": "to get Floyd into the car.",
+    "start": 229.1,
+    "duration": 1.68
+  },
+  {
+    "text": "Security camera footage\nfrom Cup Foods",
+    "start": 230.78,
+    "duration": 1.97
+  },
+  {
+    "text": "shows Kueng struggling\nwith Floyd in the backseat",
+    "start": 232.75,
+    "duration": 2.61
+  },
+  {
+    "text": "while Thao watches.",
+    "start": 235.36,
+    "duration": 1.83
+  },
+  {
+    "text": "Chauvin pulls him\nthrough the back seat",
+    "start": 237.19,
+    "duration": 1.98
+  },
+  {
+    "text": "and onto the street.",
+    "start": 239.17,
+    "duration": 1.95
+  },
+  {
+    "text": "We don’t know why.",
+    "start": 241.12,
+    "duration": 1.83
+  },
+  {
+    "text": "Floyd is now lying on\nthe pavement, face down.",
+    "start": 242.95,
+    "duration": 4.01
+  },
+  {
+    "text": "That’s when two\nwitnesses begin filming,",
+    "start": 246.96,
+    "duration": 2.17
+  },
+  {
+    "text": "almost simultaneously.",
+    "start": 249.13,
+    "duration": 2.37
+  },
+  {
+    "text": "The footage from\nthe first witness",
+    "start": 251.5,
+    "duration": 1.53
+  },
+  {
+    "text": "shows us that all\nfour officers are now",
+    "start": 253.03,
+    "duration": 1.77
+  },
+  {
+    "text": "gathered around Floyd.",
+    "start": 254.8,
+    "duration": 2.46
+  },
+  {
+    "text": "It’s the first moment\nwhen we can clearly see",
+    "start": 257.26,
+    "duration": 2.139
+  },
+  {
+    "text": "that Floyd is face down on\nthe ground, with three officers",
+    "start": 259.399,
+    "duration": 3.401
+  },
+  {
+    "text": "applying pressure to\nhis neck, torso and legs.",
+    "start": 262.8,
+    "duration": 4.87
+  },
+  {
+    "text": "At 8:20 p.m., we hear Floyd’s\nvoice for the first time.",
+    "start": 267.67,
+    "duration": 3.06
+  },
+  {
+    "text": "The video stops when Lane\nappears to tell",
+    "start": 276.145,
+    "duration": 1.835
+  },
+  {
+    "text": "the person filming\nto walk away.",
+    "start": 277.98,
+    "duration": 1.629
+  },
+  {
+    "text": "“Get off to the\nsidewalk, please.",
+    "start": 279.609,
+    "duration": 1.135
+  },
+  {
+    "text": "One side or the\nother, please.”",
+    "start": 280.744,
+    "duration": 2.666
+  },
+  {
+    "text": "The officers radio a Code 2,",
+    "start": 283.41,
+    "duration": 1.78
+  },
+  {
+    "text": "a call for non-emergency\nmedical assistance,",
+    "start": 285.19,
+    "duration": 2.78
+  },
+  {
+    "text": "reporting an injury\nto Floyd’s mouth.",
+    "start": 287.97,
+    "duration": 2.16
+  },
+  {
+    "text": "In the background, we can\nhear Floyd struggling.",
+    "start": 290.13,
+    "duration": 2.315
+  },
+  {
+    "text": "The call is quickly\nupgraded to a Code 3,",
+    "start": 298.17,
+    "duration": 2.75
+  },
+  {
+    "text": "a call for emergency\nmedical assistance.",
+    "start": 300.92,
+    "duration": 2.226
+  },
+  {
+    "text": "By now another bystander,\n17-year-old Darnella Frazier,",
+    "start": 310.15,
+    "duration": 3.68
+  },
+  {
+    "text": "is filming from a\ndifferent angle.",
+    "start": 313.83,
+    "duration": 2.79
+  },
+  {
+    "text": "Her footage shows\nthat despite calls",
+    "start": 316.62,
+    "duration": 1.92
+  },
+  {
+    "text": "for medical help, Chauvin\nkeeps Floyd pinned down",
+    "start": 318.54,
+    "duration": 2.55
+  },
+  {
+    "text": "for another seven minutes.",
+    "start": 321.09,
+    "duration": 2.23
+  },
+  {
+    "text": "We can’t see whether\nKueng and Lane are still",
+    "start": 323.32,
+    "duration": 2.12
+  },
+  {
+    "text": "applying pressure.",
+    "start": 325.44,
+    "duration": 1.7
+  },
+  {
+    "text": "Floyd: [gasping]",
+    "start": 327.14,
+    "duration": 0.805
+  },
+  {
+    "text": "Officer: “What do you want?”",
+    "start": 327.945,
+    "duration": 1.081
+  },
+  {
+    "text": "Bystander: “I’ve been —”",
+    "start": 338.616,
+    "duration": 1.415
+  },
+  {
+    "text": "Floyd: [gasping]",
+    "start": 340.031,
+    "duration": 1.426
+  },
+  {
+    "text": "In the two videos, Floyd can\nbe heard telling officers",
+    "start": 346.554,
+    "duration": 3.056
+  },
+  {
+    "text": "that he can’t breathe\nat least 16 times",
+    "start": 349.61,
+    "duration": 2.64
+  },
+  {
+    "text": "in less than five minutes.",
+    "start": 352.25,
+    "duration": 1.362
+  },
+  {
+    "text": "Bystander: “You\nhaving fun?”",
+    "start": 354.764,
+    "duration": 0.875
+  },
+  {
+    "text": "But Chauvin never takes\nhis knee off of Floyd,",
+    "start": 356.395,
+    "duration": 2.605
+  },
+  {
+    "text": "even as his eyes close and\nhe appears to go unconscious.",
+    "start": 359.0,
+    "duration": 2.972
+  },
+  {
+    "text": "Bystander: “Bro.”",
+    "start": 362.555,
+    "duration": 0.847
+  },
+  {
+    "text": "According to medical\nand policing experts,",
+    "start": 370.255,
+    "duration": 2.365
+  },
+  {
+    "text": "these four police officers\nare committing a series",
+    "start": 372.62,
+    "duration": 2.4
+  },
+  {
+    "text": "of actions that violate\npolicies, and in this case,",
+    "start": 375.02,
+    "duration": 2.73
+  },
+  {
+    "text": "turn fatal.",
+    "start": 377.75,
+    "duration": 1.89
+  },
+  {
+    "text": "They’ve kept Floyd\nlying face down,",
+    "start": 379.64,
+    "duration": 2.19
+  },
+  {
+    "text": "applying pressure for\nat least five minutes.",
+    "start": 381.83,
+    "duration": 2.79
+  },
+  {
+    "text": "This combined action is\nlikely compressing his chest",
+    "start": 384.62,
+    "duration": 2.76
+  },
+  {
+    "text": "and making it\nimpossible to breathe.",
+    "start": 387.38,
+    "duration": 2.61
+  },
+  {
+    "text": "Chauvin is pushing his\nknee into Floyd’s neck,",
+    "start": 389.99,
+    "duration": 2.9
+  },
+  {
+    "text": "a move banned by most\npolice departments.",
+    "start": 392.89,
+    "duration": 2.385
+  },
+  {
+    "text": "Minneapolis Police Department\npolicy states",
+    "start": 399.847,
+    "duration": 1.933
+  },
+  {
+    "text": "an officer can only\ndo this if someone is,",
+    "start": 401.78,
+    "duration": 2.46
+  },
+  {
+    "text": "quote, “actively resisting.”",
+    "start": 404.24,
+    "duration": 3.33
+  },
+  {
+    "text": "And even though the officers\ncall for medical assistance,",
+    "start": 407.57,
+    "duration": 2.73
+  },
+  {
+    "text": "they take no action\nto treat Floyd on their own",
+    "start": 410.3,
+    "duration": 2.17
+  },
+  {
+    "text": "while waiting for the\nambulance to arrive.",
+    "start": 412.47,
+    "duration": 2.053
+  },
+  {
+    "text": "Officer: “Get back\non the sidewalk.”",
+    "start": 418.755,
+    "duration": 1.215
+  },
+  {
+    "text": "According to the complaints \nagainst the officers,",
+    "start": 422.598,
+    "duration": 2.452
+  },
+  {
+    "text": "Lane asks him twice\nif they should roll Floyd",
+    "start": 425.05,
+    "duration": 2.59
+  },
+  {
+    "text": "onto his side.",
+    "start": 427.64,
+    "duration": 1.55
+  },
+  {
+    "text": "Chauvin says no.",
+    "start": 429.19,
+    "duration": 3.37
+  },
+  {
+    "text": "Twenty minutes\ninto the arrest,",
+    "start": 432.56,
+    "duration": 1.493
+  },
+  {
+    "text": "an ambulance arrives\non the scene.",
+    "start": 434.053,
+    "duration": 2.058
+  },
+  {
+    "text": "Bystander: “Get off\nof his neck!”",
+    "start": 436.111,
+    "duration": 1.523
+  },
+  {
+    "text": "Bystander: “He’s still on him?”",
+    "start": 437.634,
+    "duration": 0.856
+  },
+  {
+    "text": "The E.M.T.s check\nFloyd’s pulse.",
+    "start": 438.49,
+    "duration": 2.35
+  },
+  {
+    "text": "Bystander: “Are you serious?”",
+    "start": 440.84,
+    "duration": 1.597
+  },
+  {
+    "text": "Chauvin keeps his\nknee on Floyd’s neck",
+    "start": 442.437,
+    "duration": 1.583
+  },
+  {
+    "text": "for almost another\nwhole minute,",
+    "start": 444.02,
+    "duration": 1.78
+  },
+  {
+    "text": "even though Floyd appears\ncompletely unresponsive.",
+    "start": 445.8,
+    "duration": 3.82
+  },
+  {
+    "text": "He only gets off once\nthe E.M.T.s tell him to.",
+    "start": 449.62,
+    "duration": 4.75
+  },
+  {
+    "text": "Chauvin’s kept his\nknee on Floyd’s neck",
+    "start": 454.37,
+    "duration": 2.04
+  },
+  {
+    "text": "for a total of 8 minutes\nand 46 seconds,",
+    "start": 456.41,
+    "duration": 2.61
+  },
+  {
+    "text": "according to the complaint\nfiled against him.",
+    "start": 459.02,
+    "duration": 4.14
+  },
+  {
+    "text": "Floyd is loaded\ninto the ambulance.",
+    "start": 463.16,
+    "duration": 3.58
+  },
+  {
+    "text": "The ambulance leaves\nthe scene,",
+    "start": 466.74,
+    "duration": 1.74
+  },
+  {
+    "text": "possibly because\na crowd is forming.",
+    "start": 468.48,
+    "duration": 2.0
+  },
+  {
+    "text": "But the E.M.T.s call for\nadditional medical help",
+    "start": 470.48,
+    "duration": 2.49
+  },
+  {
+    "text": "from the fire department.",
+    "start": 472.97,
+    "duration": 1.5
+  },
+  {
+    "text": "But when the engine arrives,\nthe officers give them, quote,",
+    "start": 477.955,
+    "duration": 2.715
+  },
+  {
+    "text": "“no clear info on Floyd\nor his whereabouts,”",
+    "start": 480.67,
+    "duration": 2.719
+  },
+  {
+    "text": "according to a fire department\nincident report.",
+    "start": 483.389,
+    "duration": 3.921
+  },
+  {
+    "text": "This delays their ability\nto help the paramedics.",
+    "start": 487.31,
+    "duration": 3.21
+  },
+  {
+    "text": "Meanwhile, Floyd is going\ninto cardiac arrest.",
+    "start": 490.52,
+    "duration": 2.965
+  },
+  {
+    "text": "It takes the engine\nfive minutes",
+    "start": 503.215,
+    "duration": 1.545
+  },
+  {
+    "text": "to reach Floyd\nin the ambulance.",
+    "start": 504.76,
+    "duration": 4.28
+  },
+  {
+    "text": "He’s pronounced dead\nat a nearby hospital",
+    "start": 509.04,
+    "duration": 2.12
+  },
+  {
+    "text": "around 9:25 p.m.",
+    "start": 511.16,
+    "duration": 1.59
+  },
+  {
+    "text": "Preliminary autopsies \nconducted by the state",
+    "start": 518.54,
+    "duration": 2.989
+  },
+  {
+    "text": "and Floyd’s family",
+    "start": 521.529,
+    "duration": 1.296
+  },
+  {
+    "text": "both ruled his death\na homicide.",
+    "start": 522.825,
+    "duration": 2.395
+  },
+  {
+    "text": "The widely circulated\narrest videos",
+    "start": 526.718,
+    "duration": 2.05
+  },
+  {
+    "text": "don’t paint the entire\npicture of what happened",
+    "start": 528.768,
+    "duration": 2.19
+  },
+  {
+    "text": "to George Floyd.",
+    "start": 530.958,
+    "duration": 1.139
+  },
+  {
+    "text": "Crowd: “Floyd!",
+    "start": 532.097,
+    "duration": 1.014
+  },
+  {
+    "text": "Floyd!”",
+    "start": 533.111,
+    "duration": 0.73
+  },
+  {
+    "text": "Additional video and audio\nfrom the body cameras",
+    "start": 533.841,
+    "duration": 2.541
+  },
+  {
+    "text": "of the key officers\nwould reveal more",
+    "start": 536.382,
+    "duration": 1.989
+  },
+  {
+    "text": "about why the struggle began\nand how it escalated.",
+    "start": 538.371,
+    "duration": 2.9
+  },
+  {
+    "text": "The city quickly fired\nall four officers.",
+    "start": 542.181,
+    "duration": 2.52
+  },
+  {
+    "text": "And Chauvin has been charged\nwith second degree murder.",
+    "start": 544.701,
+    "duration": 3.803
+  },
+  {
+    "text": "Thomas Lane,\nJ. Alexander Kueng",
+    "start": 548.504,
+    "duration": 2.37
+  },
+  {
+    "text": "and Tou Thao were\ncharged with",
+    "start": 550.874,
+    "duration": 1.646
+  },
+  {
+    "text": "aiding and abetting\nmurder.",
+    "start": 552.52,
+    "duration": 1.493
+  },
+  {
+    "text": "But outrage over\nGeorge Floyd’s death",
+    "start": 554.83,
+    "duration": 2.49
+  },
+  {
+    "text": "has only spread\nfurther and further",
+    "start": 557.32,
+    "duration": 2.48
+  },
+  {
+    "text": "across the United States.",
+    "start": 559.8,
+    "duration": 2.16
+  }
+]

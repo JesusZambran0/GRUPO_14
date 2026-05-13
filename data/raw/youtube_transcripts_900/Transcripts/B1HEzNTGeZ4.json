@@ -1,0 +1,922 @@
+[
+  {
+    "text": "Hi, this is Rob. Welcome to Math Antics!",
+    "start": 6.833,
+    "duration": 2.219
+  },
+  {
+    "text": "In this lesson, we’re gonna learn about three important math concepts called",
+    "start": 9.052,
+    "duration": 3.284
+  },
+  {
+    "text": "the Mean, the Median and the Mode.",
+    "start": 12.336,
+    "duration": 3.001
+  },
+  {
+    "text": "Math often deals with data sets, and data sets are often just collections (or groups) of numbers.",
+    "start": 15.337,
+    "duration": 5.551
+  },
+  {
+    "text": "These numbers may be the results of scientific measurements or surveys or other data collection methods.",
+    "start": 20.888,
+    "duration": 6.252
+  },
+  {
+    "text": "For example, you might record the ages of each member of you family into a data set.",
+    "start": 27.14,
+    "duration": 4.66
+  },
+  {
+    "text": "Or you might measure the weight of each of your pets and list them in a data set.",
+    "start": 31.8,
+    "duration": 4.52
+  },
+  {
+    "text": "Those data sets are fairly small and easy to understand.",
+    "start": 36.326,
+    "duration": 2.92
+  },
+  {
+    "text": "But you could have much bigger data sets.",
+    "start": 39.246,
+    "duration": 2.334
+  },
+  {
+    "text": "A really big data set might contain the cost of every item in a store,",
+    "start": 41.58,
+    "duration": 3.918
+  },
+  {
+    "text": "or the top speed of every land mammal,",
+    "start": 45.498,
+    "duration": 2.484
+  },
+  {
+    "text": "or the brightness of all the stars in our galaxy!",
+    "start": 47.982,
+    "duration": 3.434
+  },
+  {
+    "text": "Those data sets would contain a lot of different numbers!",
+    "start": 51.416,
+    "duration": 2.918
+  },
+  {
+    "text": "And if you had to look at a big data set all at one time…",
+    "start": 54.334,
+    "duration": 2.751
+  },
+  {
+    "text": "it would be pretty hard to make sense of it or say much about it besides",
+    "start": 57.085,
+    "duration": 3.986
+  },
+  {
+    "text": "“well that’s a lot of numbers”!",
+    "start": 61.071,
+    "duration": 2.233
+  },
+  {
+    "text": "But that’s where Mean, Median and Mode can really help us out.",
+    "start": 63.304,
+    "duration": 3.852
+  },
+  {
+    "text": "They’re three different properties of data sets",
+    "start": 67.156,
+    "duration": 2.167
+  },
+  {
+    "text": "that can give us useful, easy to understand information about a data set",
+    "start": 69.323,
+    "duration": 3.568
+  },
+  {
+    "text": "so that we can see the big picture and understand what the data means about the world we live in.",
+    "start": 72.891,
+    "duration": 5.235
+  },
+  {
+    "text": "That sounds pretty useful, huh?",
+    "start": 78.126,
+    "duration": 1.533
+  },
+  {
+    "text": "So let’s learn what each property really is and find out how to calculate them for any particular data set.",
+    "start": 79.659,
+    "duration": 5.77
+  },
+  {
+    "text": "Let’s start with the Mean.",
+    "start": 85.429,
+    "duration": 2.1
+  },
+  {
+    "text": "You may not have ever heard of something called “the mean” before,",
+    "start": 87.529,
+    "duration": 3.002
+  },
+  {
+    "text": "but I’ll bet you’ve heard of “the average”.",
+    "start": 90.531,
+    "duration": 2.117
+  },
+  {
+    "text": "If so, then I’ve got good news!",
+    "start": 92.648,
+    "duration": 2.117
+  },
+  {
+    "text": "Mean means average!",
+    "start": 94.765,
+    "duration": 1.984
+  },
+  {
+    "text": "“Mean” and “average” are just two different terms for the exact same property of a data set.",
+    "start": 96.749,
+    "duration": 4.751
+  },
+  {
+    "text": "The mean (or average) is an extremely useful property.",
+    "start": 101.5,
+    "duration": 3.236
+  },
+  {
+    "text": "To understand what it is, let’s look at a simple data set that contains 5 numbers.",
+    "start": 104.736,
+    "duration": 4.234
+  },
+  {
+    "text": "As a visual aid, let’s also represent those numbers with stacks of blocks",
+    "start": 108.97,
+    "duration": 3.835
+  },
+  {
+    "text": "who’s heights correspond to their values:",
+    "start": 112.805,
+    "duration": 2.334
+  },
+  {
+    "text": "one, eight, three, two, six",
+    "start": 115.139,
+    "duration": 3.035
+  },
+  {
+    "text": "Right now, since each of the 5 numbers is different, the stacks of blocks are all different heights.",
+    "start": 118.174,
+    "duration": 5.118
+  },
+  {
+    "text": "But what if we rearrange the blocks with the goal of making the stacks the same height?",
+    "start": 123.292,
+    "duration": 4.368
+  },
+  {
+    "text": "In other words, if each stack could have the exact same amount, what would that amount be?",
+    "start": 127.66,
+    "duration": 5.086
+  },
+  {
+    "text": "Well, with a bit of trial and error,",
+    "start": 132.746,
+    "duration": 1.774
+  },
+  {
+    "text": "you’ll see that we have enough blocks for each stack to have a total of 4.",
+    "start": 134.52,
+    "duration": 3.64
+  },
+  {
+    "text": "That means that the Mean (or average) for our original data set would be 4.",
+    "start": 138.163,
+    "duration": 4.687
+  },
+  {
+    "text": "Some of the numbers are greater than 4 and some are less,",
+    "start": 142.85,
+    "duration": 2.949
+  },
+  {
+    "text": "but if the amounts could all be made the same,",
+    "start": 145.799,
+    "duration": 2.069
+  },
+  {
+    "text": "they would all become 4.",
+    "start": 147.868,
+    "duration": 2.066
+  },
+  {
+    "text": "So that’s the concept of Mean; it’s the value you’d get if you could smooth out or flatten",
+    "start": 149.934,
+    "duration": 5.202
+  },
+  {
+    "text": "all of the different data values into one consistent value.",
+    "start": 155.136,
+    "duration": 3.534
+  },
+  {
+    "text": "But, is there a way we can use math to calculate the mean of a data set?",
+    "start": 158.67,
+    "duration": 4.03
+  },
+  {
+    "text": "After all, it would be very inconvenient if we always had to use stacks of blocks to do it!",
+    "start": 162.7,
+    "duration": 5.48
+  },
+  {
+    "text": "There’s got to be an easier way!!",
+    "start": 168.5,
+    "duration": 2.28
+  },
+  {
+    "text": "[crash]",
+    "start": 171.7,
+    "duration": 1.68
+  },
+  {
+    "text": "To learn the mathematical procedure for calculating the Mean, lets start with blocks again.",
+    "start": 175.38,
+    "duration": 4.198
+  },
+  {
+    "text": "But this time, instead of using trial and error,",
+    "start": 179.578,
+    "duration": 2.301
+  },
+  {
+    "text": "let’s use a more systematic way to make the stacks all the same height.",
+    "start": 181.879,
+    "duration": 3.535
+  },
+  {
+    "text": "This way involves a clever combination of addition and division.",
+    "start": 185.414,
+    "duration": 4.018
+  },
+  {
+    "text": "We know that we want to end up with 5 stacks that all have the same number of blocks, right?",
+    "start": 189.432,
+    "duration": 4.734
+  },
+  {
+    "text": "So first, let’s add up all of the numbers, which is like putting all of the blocks we have into one big stack.",
+    "start": 194.166,
+    "duration": 5.87
+  },
+  {
+    "text": "Adding up all of the numbers (or counting all the blocks) shows us that we have a total of 20.",
+    "start": 200.036,
+    "duration": 5.351
+  },
+  {
+    "text": "Next, we divide that number (or stack) into 5 equal parts.",
+    "start": 205.387,
+    "duration": 4.033
+  },
+  {
+    "text": "Since the stack has a total of 20 blocks,",
+    "start": 209.42,
+    "duration": 2.28
+  },
+  {
+    "text": "dividing it into 5 equal stacks means that we’ll have 4 in each,",
+    "start": 211.705,
+    "duration": 3.603
+  },
+  {
+    "text": "since 20 divided by 5 equals 4.",
+    "start": 215.308,
+    "duration": 2.701
+  },
+  {
+    "text": "So that’s the math procedure you use to find the mean of a data set.",
+    "start": 218.009,
+    "duration": 3.551
+  },
+  {
+    "text": "It’s just two simple steps.",
+    "start": 221.56,
+    "duration": 1.817
+  },
+  {
+    "text": "First, you add up all the numbers in the set.",
+    "start": 223.377,
+    "duration": 2.601
+  },
+  {
+    "text": "And then you divide the total you get by how many numbers you added up.",
+    "start": 225.978,
+    "duration": 3.618
+  },
+  {
+    "text": "The answer you get is the Mean of the data set.",
+    "start": 229.596,
+    "duration": 3.484
+  },
+  {
+    "text": "Let’s use that procedure to find the mean age of the members of this fine looking family here.",
+    "start": 233.08,
+    "duration": 4.603
+  },
+  {
+    "text": "If we add them all up using a calculator (or by hand if you’d like)",
+    "start": 237.683,
+    "duration": 3.267
+  },
+  {
+    "text": "the total of the ages is 222 years.",
+    "start": 240.95,
+    "duration": 3.418
+  },
+  {
+    "text": "But then, we need to divide that total by the number of ages we added which is 6.",
+    "start": 244.368,
+    "duration": 4.719
+  },
+  {
+    "text": "222 divided by 6 is 37.  So that’s the mean age of all the members in this family.",
+    "start": 249.087,
+    "duration": 7.293
+  },
+  {
+    "text": "Alright, that’s the Mean.  Now what about the Median?",
+    "start": 256.38,
+    "duration": 3.42
+  },
+  {
+    "text": "The Median is the middle of a data set.",
+    "start": 259.807,
+    "duration": 2.317
+  },
+  {
+    "text": "It’s the number that splits the data set into two equally sized group or halves.",
+    "start": 262.124,
+    "duration": 4.396
+  },
+  {
+    "text": "One half contains members that are greater than or equal to the Median,",
+    "start": 266.52,
+    "duration": 3.56
+  },
+  {
+    "text": "and the other half contains members that are less than or equal to the Median.",
+    "start": 270.08,
+    "duration": 3.632
+  },
+  {
+    "text": "Sometimes finding the Median of a data set is easy, and sometimes it’s hard.",
+    "start": 273.712,
+    "duration": 4.302
+  },
+  {
+    "text": "That’s because finding the middle value of a data set",
+    "start": 278.02,
+    "duration": 2.8
+  },
+  {
+    "text": "requires that its members be in order from the least to the greatest (or vice versa).",
+    "start": 280.82,
+    "duration": 5.412
+  },
+  {
+    "text": "And if the data set has a lot of numbers,",
+    "start": 286.232,
+    "duration": 2.102
+  },
+  {
+    "text": "it might take a lot of work to put them in the right order if they aren’t already that way.",
+    "start": 288.334,
+    "duration": 4.635
+  },
+  {
+    "text": "So to make things easier, let’s start with a really basic data set that isn’t in order.",
+    "start": 292.969,
+    "duration": 4.751
+  },
+  {
+    "text": "It’s pretty easy to see that",
+    "start": 297.72,
+    "duration": 1.301
+  },
+  {
+    "text": "we can put this data set in order from the least to the greatest value just by switching the 2 and the 1.",
+    "start": 299.021,
+    "duration": 5.435
+  },
+  {
+    "text": "There, now we have the data set {1, 2, 3}",
+    "start": 304.456,
+    "duration": 2.867
+  },
+  {
+    "text": "and finding the Median (or middle) of this data set is easy!",
+    "start": 307.323,
+    "duration": 3.285
+  },
+  {
+    "text": "It’s just 2 because the 2 is located exactly in the middle.",
+    "start": 310.608,
+    "duration": 3.851
+  },
+  {
+    "text": "That almost seems too easy, doesn’t it?",
+    "start": 314.459,
+    "duration": 1.751
+  },
+  {
+    "text": "But don’t worry… it gets harder!",
+    "start": 316.21,
+    "duration": 2.17
+  },
+  {
+    "text": "But before we try a harder problem,",
+    "start": 318.38,
+    "duration": 1.72
+  },
+  {
+    "text": "I want to point out that sometimes the Mean and the Median of a data set are the same number,",
+    "start": 320.11,
+    "duration": 4.353
+  },
+  {
+    "text": "and sometimes they’re not.",
+    "start": 324.463,
+    "duration": 1.483
+  },
+  {
+    "text": "In the case of our simple data set {1, 2, 3},",
+    "start": 325.946,
+    "duration": 3.154
+  },
+  {
+    "text": "the Median is 2 and the Mean is also 2,",
+    "start": 329.1,
+    "duration": 2.6
+  },
+  {
+    "text": "as you can see if we rearrange the amounts",
+    "start": 331.7,
+    "duration": 2.016
+  },
+  {
+    "text": "or follow the procedure we learned to calculate the Mean.",
+    "start": 333.716,
+    "duration": 2.884
+  },
+  {
+    "text": "But what about the first data set that we found the mean of?",
+    "start": 336.6,
+    "duration": 2.82
+  },
+  {
+    "text": "We determined than the Mean of this data set is 4.",
+    "start": 339.42,
+    "duration": 2.82
+  },
+  {
+    "text": "But what about the Median?",
+    "start": 342.24,
+    "duration": 1.72
+  },
+  {
+    "text": "Well, the Median is the middle,",
+    "start": 343.96,
+    "duration": 2.04
+  },
+  {
+    "text": "and since this data set is already in order from least to greatest,",
+    "start": 346.004,
+    "duration": 3.818
+  },
+  {
+    "text": "it’s easy to see that the 3 is located in the middle since it splits the other members into two equal groups.",
+    "start": 349.822,
+    "duration": 6.358
+  },
+  {
+    "text": "So for this data set, the Mean is 4 but the Median is 3.",
+    "start": 356.18,
+    "duration": 4.578
+  },
+  {
+    "text": "So to find the Median of a set of numbers,",
+    "start": 360.758,
+    "duration": 2.186
+  },
+  {
+    "text": "first you need to make sure that all the numbers are in order",
+    "start": 362.944,
+    "duration": 2.684
+  },
+  {
+    "text": "and then you can identify the member that’s exactly in the middle",
+    "start": 365.628,
+    "duration": 3.251
+  },
+  {
+    "text": "by making sure there’s an equal number of members on either side of it.",
+    "start": 368.88,
+    "duration": 3.66
+  },
+  {
+    "text": "Okay, ...so far so good.  But some of you may be wondering,",
+    "start": 372.54,
+    "duration": 3.46
+  },
+  {
+    "text": "“What if a data set doesn’t have an obvious middle member?”",
+    "start": 376.0,
+    "duration": 3.3
+  },
+  {
+    "text": "All of the sets we’ve found the Median of so far have an odd number of members.",
+    "start": 379.3,
+    "duration": 4.04
+  },
+  {
+    "text": "But, what if it has an even number of members?",
+    "start": 383.34,
+    "duration": 2.7
+  },
+  {
+    "text": "…like the data set {1, 2, 3, 4}",
+    "start": 386.04,
+    "duration": 2.497
+  },
+  {
+    "text": "There isn’t a member in the middle that splits the set into two equally sized groups.",
+    "start": 388.537,
+    "duration": 5.051
+  },
+  {
+    "text": "If that’s the case, we can actually use what we learned about the Mean to help us out.",
+    "start": 393.588,
+    "duration": 4.385
+  },
+  {
+    "text": "If the data set has an even number of members, then to find the Median,",
+    "start": 397.973,
+    "duration": 4.051
+  },
+  {
+    "text": "we need to take the middle TWO numbers and calculate the Mean (or average) of those two.",
+    "start": 402.024,
+    "duration": 4.896
+  },
+  {
+    "text": "By doing that, we’re basically figuring out what number WOULD be exactly half way between the two middle numbers,",
+    "start": 406.92,
+    "duration": 6.0
+  },
+  {
+    "text": "and that number will be our Median.",
+    "start": 412.927,
+    "duration": 2.534
+  },
+  {
+    "text": "For example, in the set {1, 2, 3, 4}",
+    "start": 415.461,
+    "duration": 2.769
+  },
+  {
+    "text": "we need to take the middle TWO numbers (2 and 3) and find the Mean of those numbers.",
+    "start": 418.23,
+    "duration": 4.69
+  },
+  {
+    "text": "We can do that by adding 2 and 3 and then dividing by 2.",
+    "start": 422.92,
+    "duration": 3.794
+  },
+  {
+    "text": "2 plus 3 equals 5",
+    "start": 426.714,
+    "duration": 1.353
+  },
+  {
+    "text": "and 5 divided by 2 is 2.5",
+    "start": 428.067,
+    "duration": 2.583
+  },
+  {
+    "text": "So the Median of the data set is 2.5",
+    "start": 430.65,
+    "duration": 3.55
+  },
+  {
+    "text": "Even though the number 2.5 isn’t actually a member of the data set,",
+    "start": 434.2,
+    "duration": 3.88
+  },
+  {
+    "text": "it’s the Median because it represents the middle of the data set",
+    "start": 438.087,
+    "duration": 3.401
+  },
+  {
+    "text": "and it splits the members into two equally sized groups.",
+    "start": 441.488,
+    "duration": 3.651
+  },
+  {
+    "text": "Okay, so now you know the difference between Mean and Median.",
+    "start": 445.139,
+    "duration": 3.435
+  },
+  {
+    "text": "But what about the Mode of a data set?  What in the world does that mean?",
+    "start": 448.574,
+    "duration": 4.451
+  },
+  {
+    "text": "Well, “Mode” is just a technical word for the value in a data set that occurs most often.",
+    "start": 453.025,
+    "duration": 5.72
+  },
+  {
+    "text": "In the data sets we’ve seen so far,",
+    "start": 458.745,
+    "duration": 1.85
+  },
+  {
+    "text": "there hasn’t even been a Mode because none of the data values were ever repeated.",
+    "start": 460.6,
+    "duration": 4.76
+  },
+  {
+    "text": "But what if you had this data set?",
+    "start": 465.36,
+    "duration": 2.02
+  },
+  {
+    "text": "This set has 6 members, but some of the value are repeated.",
+    "start": 467.38,
+    "duration": 3.96
+  },
+  {
+    "text": "If we rearrange them, you can see that there’s one ‘1’, two ‘2’s and three ‘3’s",
+    "start": 471.34,
+    "duration": 5.177
+  },
+  {
+    "text": "The Mode of this data set is the value that occurs most often (or most frequently)",
+    "start": 476.517,
+    "duration": 4.35
+  },
+  {
+    "text": "so that would be 3 since there’s three ‘3’s.",
+    "start": 480.867,
+    "duration": 3.136
+  },
+  {
+    "text": "Now don’t get confused just because the number 3 was repeater 3 times.",
+    "start": 484.003,
+    "duration": 3.851
+  },
+  {
+    "text": "The mode is the number that’s repeated most often, NOT how many times it was repeated.",
+    "start": 487.86,
+    "duration": 5.22
+  },
+  {
+    "text": "As I mentioned, if each member in a data set occurs only once, it had no mode,",
+    "start": 493.08,
+    "duration": 4.36
+  },
+  {
+    "text": "but it’s also possible for a data set to have more than one mode.",
+    "start": 497.44,
+    "duration": 3.26
+  },
+  {
+    "text": "Here’s an example of a data set like that:",
+    "start": 500.7,
+    "duration": 2.82
+  },
+  {
+    "text": "In this set, the number 7 is repeated twice but so is the number 15.",
+    "start": 503.527,
+    "duration": 4.185
+  },
+  {
+    "text": "That means they tie for the title of Mode.  This set has two modes: 7 and 15.",
+    "start": 507.712,
+    "duration": 5.934
+  },
+  {
+    "text": "Okay, so now that you know what the Mean, Median and Mode of a data set are.",
+    "start": 513.646,
+    "duration": 4.62
+  },
+  {
+    "text": "Let’s put all that new information to use on one final real-world example.",
+    "start": 518.266,
+    "duration": 4.784
+  },
+  {
+    "text": "Suppose there’s this guy who makes and sells custom electric guitars.",
+    "start": 523.05,
+    "duration": 3.95
+  },
+  {
+    "text": "Here’s a table showing how many guitars he sold during each month of the year.",
+    "start": 527.0,
+    "duration": 4.369
+  },
+  {
+    "text": "Let’s find the Mean, Median and Mode of this data set.",
+    "start": 531.369,
+    "duration": 3.791
+  },
+  {
+    "text": "First, to find the Mean we need to add up the number of guitars sold in each month.",
+    "start": 535.16,
+    "duration": 4.48
+  },
+  {
+    "text": "You can do the addition by hand or you can use a calculator if you want to.",
+    "start": 539.64,
+    "duration": 3.22
+  },
+  {
+    "text": "Either way, be careful since that’s a lot of numbers to add up and we don’t want to make a mistake.",
+    "start": 542.86,
+    "duration": 5.1
+  },
+  {
+    "text": "The answer I get is 108.",
+    "start": 547.96,
+    "duration": 2.517
+  },
+  {
+    "text": "So that’s the total he sold for the whole year, but to get the Mean sold each month,",
+    "start": 550.477,
+    "duration": 4.233
+  },
+  {
+    "text": "we need to divide that total by the number of months which is 12.",
+    "start": 554.71,
+    "duration": 3.552
+  },
+  {
+    "text": "108 divided by 12 is 9,",
+    "start": 558.262,
+    "duration": 2.685
+  },
+  {
+    "text": "so the Mean (or average) is 9.",
+    "start": 560.947,
+    "duration": 3.051
+  },
+  {
+    "text": "Next, to find the Median of the data set,",
+    "start": 563.998,
+    "duration": 2.134
+  },
+  {
+    "text": "we’re going to have to rearrange the 12 data points in order",
+    "start": 566.132,
+    "duration": 2.885
+  },
+  {
+    "text": "from smallest to largest so we can figure out what the middle value is.",
+    "start": 569.02,
+    "duration": 3.64
+  },
+  {
+    "text": "There, that’s better.",
+    "start": 572.66,
+    "duration": 1.975
+  },
+  {
+    "text": "Since there’s an even number of members in this set, we can’t just choose the middle number,",
+    "start": 574.635,
+    "duration": 4.085
+  },
+  {
+    "text": "so we’re going to have to pick the middle two numbers and then find the Mean of them.",
+    "start": 578.72,
+    "duration": 3.901
+  },
+  {
+    "text": "9 and 10 are in the middle since there’s an equal number of data values on either side of them.",
+    "start": 582.621,
+    "duration": 4.739
+  },
+  {
+    "text": "So we need to take the Mean of 9 and 10.",
+    "start": 587.36,
+    "duration": 2.38
+  },
+  {
+    "text": "That’s easy, 9 plus 10 equals 19",
+    "start": 589.74,
+    "duration": 2.66
+  },
+  {
+    "text": "and then 19 divided by 2 is 9.5",
+    "start": 592.408,
+    "duration": 3.368
+  },
+  {
+    "text": "So, the Median number of guitars sold is 9.5.",
+    "start": 595.776,
+    "duration": 3.585
+  },
+  {
+    "text": "That means that in half of the months, he sold more than 9.5,",
+    "start": 599.361,
+    "duration": 3.184
+  },
+  {
+    "text": "and in half of the months, he sold less than 9.5.",
+    "start": 602.545,
+    "duration": 3.275
+  },
+  {
+    "text": "Last of all, let’s identify the Mode of this data set (if there is one).",
+    "start": 605.82,
+    "duration": 4.028
+  },
+  {
+    "text": "We let’s see… there’s two ‘8’s in the data set…",
+    "start": 609.848,
+    "duration": 3.084
+  },
+  {
+    "text": "Oh… but there’s three ’10’s.  That looks like the most frequent number,",
+    "start": 612.94,
+    "duration": 4.58
+  },
+  {
+    "text": "so 10 is the Mode of this data set.",
+    "start": 617.52,
+    "duration": 2.16
+  },
+  {
+    "text": "It’s the result that occurred most often.",
+    "start": 619.68,
+    "duration": 2.82
+  },
+  {
+    "text": "Alright, so that’s the basics of Mean, Median, and Mode.",
+    "start": 622.502,
+    "duration": 3.818
+  },
+  {
+    "text": "They are three really useful properties of data sets and now you know how to find them.",
+    "start": 626.32,
+    "duration": 5.068
+  },
+  {
+    "text": "But sometimes, the hardest part about Mean, Median and Mode is just remembering which is which.",
+    "start": 631.388,
+    "duration": 5.936
+  },
+  {
+    "text": "So remember that “Mean means average”,",
+    "start": 637.324,
+    "duration": 2.816
+  },
+  {
+    "text": "Median is in the middle,",
+    "start": 640.14,
+    "duration": 1.918
+  },
+  {
+    "text": "and Mode starts with ‘M’ ‘O’ which can remind you that it’s the number that occurs “Most Often”.",
+    "start": 642.06,
+    "duration": 5.86
+  },
+  {
+    "text": "Remember, to get good at math, you need to do more than just watch videos about it.",
+    "start": 647.92,
+    "duration": 3.82
+  },
+  {
+    "text": "You need to Practice!",
+    "start": 651.746,
+    "duration": 1.218
+  },
+  {
+    "text": "So be sure to try finding the Mean, Median and Mode on your own.",
+    "start": 652.964,
+    "duration": 3.634
+  },
+  {
+    "text": "As always, thank for watching Math Antics, and I’ll see ya next time.",
+    "start": 656.6,
+    "duration": 3.44
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 660.88,
+    "duration": 2.08
+  }
+]

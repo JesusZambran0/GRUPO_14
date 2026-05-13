@@ -1,0 +1,832 @@
+[
+  {
+    "text": "Ada, where am I?",
+    "start": 56.68,
+    "duration": 1.2
+  },
+  {
+    "text": "Ada: You are in orbit of Q-465b.",
+    "start": 58.28,
+    "duration": 3.5
+  },
+  {
+    "text": "What about Philip?",
+    "start": 66.36,
+    "duration": 1.0
+  },
+  {
+    "text": "Ada: Philip's cryopod has lost power.",
+    "start": 67.8,
+    "duration": 2.16
+  },
+  {
+    "text": "His oxygen level is critical.",
+    "start": 69.96,
+    "duration": 1.84
+  },
+  {
+    "text": "Plot a course to get me next to him.",
+    "start": 85.52,
+    "duration": 1.56
+  },
+  {
+    "text": "Ada: This will significantly reduce your power reserves.",
+    "start": 87.54,
+    "duration": 2.74
+  },
+  {
+    "text": "You may not have enough to return to Solis. Are you sure?",
+    "start": 90.28,
+    "duration": 3.3
+  },
+  {
+    "text": "Emiliana: Positive, do it.",
+    "start": 93.76,
+    "duration": 1.4
+  },
+  {
+    "text": "[pod engines fire up]",
+    "start": 95.32,
+    "duration": 1.02
+  },
+  {
+    "text": "[low fuel warning beeps]",
+    "start": 123.12,
+    "duration": 1.68
+  },
+  {
+    "text": "Decelerate.",
+    "start": 128.28,
+    "duration": 1.0
+  },
+  {
+    "text": "Deploy the left lateral connectors.",
+    "start": 142.86,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 144.02,
+    "duration": 1.0
+  },
+  {
+    "text": "Reverse engines. Get me to Solis.",
+    "start": 154.22,
+    "duration": 1.74
+  },
+  {
+    "text": " ",
+    "start": 180.18,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 182.42,
+    "duration": 1.0
+  },
+  {
+    "text": "Ada: Power reserves depleted.",
+    "start": 186.36,
+    "duration": 1.36
+  },
+  {
+    "text": "Emiliana: Open doors to docking bay 2. Ada: Understood.",
+    "start": 188.44,
+    "duration": 1.86
+  },
+  {
+    "text": "But you won't be able to correct your trajectory.",
+    "start": 190.9,
+    "duration": 2.48
+  },
+  {
+    "text": "Deploy top connectors.",
+    "start": 197.92,
+    "duration": 1.24
+  },
+  {
+    "text": "Magnetize.",
+    "start": 204.18,
+    "duration": 1.0
+  },
+  {
+    "text": "[alarm cycles]",
+    "start": 231.8,
+    "duration": 2.42
+  },
+  {
+    "text": "Ada, power up the medlab. Ada: Understood.",
+    "start": 240.92,
+    "duration": 2.74
+  },
+  {
+    "text": " ",
+    "start": 247.7,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 251.475,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 258.4,
+    "duration": 1.0
+  },
+  {
+    "text": "Ada, what's wrong with the med equipment?",
+    "start": 279.2,
+    "duration": 1.42
+  },
+  {
+    "text": "Ada: The medical equipment is functioning properly.",
+    "start": 280.82,
+    "duration": 2.06
+  },
+  {
+    "text": "Is Philip alive?",
+    "start": 283.04,
+    "duration": 0.62
+  },
+  {
+    "text": "Ada: Yes.",
+    "start": 283.92,
+    "duration": 0.5
+  },
+  {
+    "text": "Then why are the probes telling me he's dead?",
+    "start": 286.1,
+    "duration": 1.28
+  },
+  {
+    "text": "Ada: I don't know.",
+    "start": 287.88,
+    "duration": 1.06
+  },
+  {
+    "text": "Keep pumping O2 no matter what it says.",
+    "start": 293.66,
+    "duration": 1.36
+  },
+  {
+    "text": "Ada: Understood.",
+    "start": 295.48,
+    "duration": 1.02
+  },
+  {
+    "text": " ",
+    "start": 315.56,
+    "duration": 1.0
+  },
+  {
+    "text": "Ada.",
+    "start": 333.56,
+    "duration": 1.0
+  },
+  {
+    "text": "What the fuck happened?",
+    "start": 336.22,
+    "duration": 0.92
+  },
+  {
+    "text": "Ada: I don't know.",
+    "start": 337.14,
+    "duration": 0.94
+  },
+  {
+    "text": "Why did you eject our cryopods?",
+    "start": 347.44,
+    "duration": 1.8
+  },
+  {
+    "text": "Ada: I did not eject any of the cryopods on the ship.",
+    "start": 349.64,
+    "duration": 2.82
+  },
+  {
+    "text": "We landed with them. That means we should have been ejected.",
+    "start": 353.98,
+    "duration": 3.16
+  },
+  {
+    "text": "Ada: I cannot explain this discrepancy.",
+    "start": 357.14,
+    "duration": 2.02
+  },
+  {
+    "text": "[thud echoes aboard the ship]",
+    "start": 359.5,
+    "duration": 1.46
+  },
+  {
+    "text": "[whispers] Ada...",
+    "start": 363.36,
+    "duration": 0.78
+  },
+  {
+    "text": "Who else is on the ship?",
+    "start": 365.8,
+    "duration": 1.16
+  },
+  {
+    "text": "Ada: You and Philip Mayda are the only people on the ship.",
+    "start": 367.72,
+    "duration": 2.46
+  },
+  {
+    "text": "How many living beings are on the ship?",
+    "start": 380.14,
+    "duration": 1.92
+  },
+  {
+    "text": "Ada: Two.",
+    "start": 382.62,
+    "duration": 1.0
+  },
+  {
+    "text": "How many heat sources of approximately 37 degrees are on the ship?",
+    "start": 391.1,
+    "duration": 3.18
+  },
+  {
+    "text": "Ada: Three.",
+    "start": 394.74,
+    "duration": 1.0
+  },
+  {
+    "text": "[erie music builds]",
+    "start": 395.98,
+    "duration": 1.36
+  },
+  {
+    "text": "[music intensifies]",
+    "start": 414.56,
+    "duration": 1.44
+  },
+  {
+    "text": "[whispers] Ada, open control room door.",
+    "start": 460.22,
+    "duration": 1.88
+  },
+  {
+    "text": "[door chimes]",
+    "start": 462.62,
+    "duration": 0.96
+  },
+  {
+    "text": " ",
+    "start": 497.56,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 503.44,
+    "duration": 1.0
+  },
+  {
+    "text": "[sighs]",
+    "start": 512.78,
+    "duration": 1.74
+  },
+  {
+    "text": " ",
+    "start": 514.64,
+    "duration": 1.26
+  },
+  {
+    "text": "Ada.",
+    "start": 518.94,
+    "duration": 1.0
+  },
+  {
+    "text": "Identify the  person in front of me.",
+    "start": 521.58,
+    "duration": 2.02
+  },
+  {
+    "text": "Ada: Emiliana Newton.",
+    "start": 523.98,
+    "duration": 1.3
+  },
+  {
+    "text": "Are you sure?",
+    "start": 525.32,
+    "duration": 0.5
+  },
+  {
+    "text": "Ada: Yes.",
+    "start": 525.88,
+    "duration": 0.58
+  },
+  {
+    "text": "Ada, identify the person I'm speaking with.",
+    "start": 529.16,
+    "duration": 1.88
+  },
+  {
+    "text": "Ada: Philip Mayda",
+    "start": 531.28,
+    "duration": 0.98
+  },
+  {
+    "text": "Identify the person on the med slab.",
+    "start": 534.42,
+    "duration": 1.64
+  },
+  {
+    "text": "Ada: Philip Mayda.",
+    "start": 536.76,
+    "duration": 1.3
+  },
+  {
+    "text": "Philip: Ada, how is that possible?",
+    "start": 539.58,
+    "duration": 1.64
+  },
+  {
+    "text": "Ada: I cannot explain this discrepancy.",
+    "start": 541.3,
+    "duration": 1.92
+  },
+  {
+    "text": "[sighs]",
+    "start": 546.3,
+    "duration": 1.0
+  },
+  {
+    "text": "You died.",
+    "start": 549.88,
+    "duration": 1.32
+  },
+  {
+    "text": "Philip: The hyperlight core gave out a few days ago.",
+    "start": 554.06,
+    "duration": 2.74
+  },
+  {
+    "text": "We came out of cryo and... we been trying to fix it...",
+    "start": 557.24,
+    "duration": 4.34
+  },
+  {
+    "text": "...since it happened.",
+    "start": 561.58,
+    "duration": 1.22
+  },
+  {
+    "text": "You went space walking... I accessed the",
+    "start": 563.58,
+    "duration": 2.32
+  },
+  {
+    "text": "core's external sensors. We were operating under no sleep but...",
+    "start": 566.2,
+    "duration": 3.48
+  },
+  {
+    "text": "[external boom]",
+    "start": 570.04,
+    "duration": 1.0
+  },
+  {
+    "text": "...just two hours ago",
+    "start": 571.04,
+    "duration": 1.3
+  },
+  {
+    "text": "boom there was this explosion that surrounded the whole ship and y-",
+    "start": 572.9,
+    "duration": 3.44
+  },
+  {
+    "text": "She died in the rain of wreckage.",
+    "start": 579.86,
+    "duration": 1.78
+  },
+  {
+    "text": "Now you're here.",
+    "start": 592.98,
+    "duration": 1.34
+  },
+  {
+    "text": "Alive. And-",
+    "start": 596.3,
+    "duration": 1.86
+  },
+  {
+    "text": "You look... just like her.",
+    "start": 599.9,
+    "duration": 2.26
+  },
+  {
+    "text": "Emeliana: Ada.",
+    "start": 606.3,
+    "duration": 1.0
+  },
+  {
+    "text": "What's the current date and time?",
+    "start": 608.24,
+    "duration": 1.84
+  },
+  {
+    "text": "Ada: Earth date is March 22, 2103.",
+    "start": 610.24,
+    "duration": 3.4
+  },
+  {
+    "text": "The SUT is currently 954:34:54.",
+    "start": 613.64,
+    "duration": 4.4
+  },
+  {
+    "text": "Philip: What?",
+    "start": 620.4,
+    "duration": 1.0
+  },
+  {
+    "text": "Emiliana: T- Two hours ago was when were were schedule to exit hyperlight.",
+    "start": 623.34,
+    "duration": 2.94
+  },
+  {
+    "text": "Philip: Heading where?",
+    "start": 627.34,
+    "duration": 0.9
+  },
+  {
+    "text": "Did you activate your distress beacon?",
+    "start": 629.8,
+    "duration": 1.54
+  },
+  {
+    "text": "Philip: Of course I did, it's protocol.",
+    "start": 631.48,
+    "duration": 1.7
+  },
+  {
+    "text": "That's, that's why we came here - to respond to a distress beacon.",
+    "start": 633.26,
+    "duration": 3.18
+  },
+  {
+    "text": "Philip: Christ!",
+    "start": 637.06,
+    "duration": 1.0
+  },
+  {
+    "text": "Emiliana: When... When our Solis arrived yours was already here.",
+    "start": 638.32,
+    "duration": 3.06
+  },
+  {
+    "text": "And we can't be in the same place at the same...",
+    "start": 642.54,
+    "duration": 2.0
+  },
+  {
+    "text": "That's why you, the um...",
+    "start": 644.62,
+    "duration": 1.84
+  },
+  {
+    "text": "The other you has no vitals because in this reality you're already here.",
+    "start": 646.62,
+    "duration": 4.28
+  },
+  {
+    "text": "And I'm ok because I'm dead.",
+    "start": 652.56,
+    "duration": 2.02
+  },
+  {
+    "text": "Emiliana: I'm so sorry.",
+    "start": 658.18,
+    "duration": 1.2
+  },
+  {
+    "text": "Philip: Maybe uh...",
+    "start": 664.92,
+    "duration": 1.02
+  },
+  {
+    "text": "...you and he...",
+    "start": 668.18,
+    "duration": 1.3
+  },
+  {
+    "text": "...the other Phil worked but...",
+    "start": 669.92,
+    "duration": 1.28
+  },
+  {
+    "text": "Sorry.",
+    "start": 672.26,
+    "duration": 1.22
+  },
+  {
+    "text": "Listen, now that you're uh, back...",
+    "start": 675.22,
+    "duration": 2.24
+  },
+  {
+    "text": "...here...",
+    "start": 678.24,
+    "duration": 1.0
+  },
+  {
+    "text": "...we need to, uh, work on the hyperlink core again.",
+    "start": 679.86,
+    "duration": 2.48
+  },
+  {
+    "text": "Emiliana: Ok.",
+    "start": 682.7,
+    "duration": 0.92
+  },
+  {
+    "text": "Philip: Alright I'm gonna go hack away at the CPU.",
+    "start": 683.7,
+    "duration": 2.66
+  },
+  {
+    "text": "I think the uh, next thing you were planning was uh...",
+    "start": 686.88,
+    "duration": 2.58
+  },
+  {
+    "text": "you were gonna go check out the shore controller.",
+    "start": 690.46,
+    "duration": 2.58
+  },
+  {
+    "text": "Ok.",
+    "start": 693.48,
+    "duration": 0.5
+  },
+  {
+    "text": "Ada: Emiliana...",
+    "start": 706.42,
+    "duration": 1.0
+  },
+  {
+    "text": "Are you feeling well?",
+    "start": 707.8,
+    "duration": 1.16
+  },
+  {
+    "text": "[ship rumbling in space]",
+    "start": 712.0,
+    "duration": 4.54
+  },
+  {
+    "text": "[connectors click]",
+    "start": 727.8,
+    "duration": 3.12
+  },
+  {
+    "text": "[display beeps to life]",
+    "start": 734.64,
+    "duration": 1.68
+  },
+  {
+    "text": "Philip on intercom: How's it goin?",
+    "start": 736.72,
+    "duration": 1.94
+  },
+  {
+    "text": "It's not communicating with anything on the ship.",
+    "start": 743.32,
+    "duration": 2.14
+  },
+  {
+    "text": "Yeah, I know.",
+    "start": 746.54,
+    "duration": 1.98
+  },
+  {
+    "text": "I'm gonna try some mods.",
+    "start": 750.12,
+    "duration": 2.52
+  },
+  {
+    "text": "Who knows if any of them work.",
+    "start": 754.06,
+    "duration": 1.4
+  },
+  {
+    "text": "Ada, where are my quanter tools?",
+    "start": 763.96,
+    "duration": 1.8
+  },
+  {
+    "text": "Ada: They're still in docking bay two.",
+    "start": 766.08,
+    "duration": 2.22
+  },
+  {
+    "text": "Stay put.",
+    "start": 768.96,
+    "duration": 1.04
+  },
+  {
+    "text": "I'll get 'em.",
+    "start": 770.64,
+    "duration": 1.06
+  },
+  {
+    "text": "[intense music builds]",
+    "start": 773.6,
+    "duration": 3.4
+  },
+  {
+    "text": "[door closes and locks]",
+    "start": 809.0,
+    "duration": 3.04
+  },
+  {
+    "text": "[warning alarm begins]",
+    "start": 812.04,
+    "duration": 2.78
+  },
+  {
+    "text": "Elimiana...",
+    "start": 818.4,
+    "duration": 1.02
+  },
+  {
+    "text": "The shore controller's fried.",
+    "start": 822.58,
+    "duration": 1.36
+  },
+  {
+    "text": "We're gonna be stuck here a long",
+    "start": 827.22,
+    "duration": 1.96
+  },
+  {
+    "text": "long time.",
+    "start": 829.78,
+    "duration": 1.32
+  },
+  {
+    "text": "No.",
+    "start": 835.52,
+    "duration": 1.0
+  },
+  {
+    "text": "Don't do this.",
+    "start": 837.98,
+    "duration": 1.0
+  },
+  {
+    "text": "Emiliana: You can't be in the same place at the same time.",
+    "start": 840.4,
+    "duration": 2.68
+  },
+  {
+    "text": "Philip: Don't do this!",
+    "start": 844.08,
+    "duration": 1.56
+  },
+  {
+    "text": "Whatever she did...",
+    "start": 849.48,
+    "duration": 1.26
+  },
+  {
+    "text": "I'm sorry.",
+    "start": 854.76,
+    "duration": 1.0
+  },
+  {
+    "text": "Ada: Emiliana I can't open the doors to docking bay to while Philip is inside.",
+    "start": 857.4,
+    "duration": 3.26
+  },
+  {
+    "text": "Ada, manual override, priority five.",
+    "start": 860.66,
+    "duration": 2.64
+  },
+  {
+    "text": "[override mechanism engaged]",
+    "start": 868.78,
+    "duration": 0.9
+  },
+  {
+    "text": "He's gonna find out.",
+    "start": 869.84,
+    "duration": 1.22
+  },
+  {
+    "text": "[docking bay doors close]",
+    "start": 878.36,
+    "duration": 1.76
+  },
+  {
+    "text": "[docking bay locks and repressurizes]",
+    "start": 881.68,
+    "duration": 1.18
+  },
+  {
+    "text": "[alarm cycles]",
+    "start": 889.0,
+    "duration": 3.48
+  },
+  {
+    "text": "Philip: Hey.",
+    "start": 907.82,
+    "duration": 0.96
+  },
+  {
+    "text": "I missed you.",
+    "start": 909.68,
+    "duration": 1.06
+  },
+  {
+    "text": "What happened?",
+    "start": 915.64,
+    "duration": 1.0
+  },
+  {
+    "text": "[grunts]",
+    "start": 919.08,
+    "duration": 1.0
+  },
+  {
+    "text": "Tell me later.",
+    "start": 922.06,
+    "duration": 1.22
+  },
+  {
+    "text": "I have a headache.",
+    "start": 923.72,
+    "duration": 1.08
+  },
+  {
+    "text": "You ok?",
+    "start": 939.22,
+    "duration": 1.0
+  },
+  {
+    "text": "I'm ok.",
+    "start": 941.0,
+    "duration": 0.92
+  },
+  {
+    "text": "Totally fine.",
+    "start": 944.8,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 947.56,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 949.02,
+    "duration": 1.0
+  },
+  {
+    "text": "Thanks for taking care of me.",
+    "start": 958.28,
+    "duration": 1.74
+  },
+  {
+    "text": "Always.",
+    "start": 963.78,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 972.52,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 977.84,
+    "duration": 1.78
+  },
+  {
+    "text": " ",
+    "start": 980.04,
+    "duration": 1.46
+  },
+  {
+    "text": " ",
+    "start": 981.895,
+    "duration": 3.45
+  },
+  {
+    "text": " ",
+    "start": 985.345,
+    "duration": 2.94
+  },
+  {
+    "text": " ",
+    "start": 988.535,
+    "duration": 1.2
+  }
+]

@@ -1,0 +1,1317 @@
+[
+  {
+    "text": "You must have heard that chess is 10% strategy\nand 90% tactics.",
+    "start": 0.12,
+    "duration": 3.68
+  },
+  {
+    "text": "While strategy is your long-term plan in a\ngame, tactics are a set of moves to gain a",
+    "start": 3.8,
+    "duration": 4.759
+  },
+  {
+    "text": "quick win like a material or a positional\nadvantage.",
+    "start": 8.559,
+    "duration": 3.091
+  },
+  {
+    "text": "In this video, I will show you all the major\ntactics with examples and also a really interesting",
+    "start": 11.65,
+    "duration": 5.1
+  },
+  {
+    "text": "chess puzzle to test your understanding of\nthese tactics.",
+    "start": 16.75,
+    "duration": 3.17
+  },
+  {
+    "text": "So stay tuned till the end and keep watching\nChess Talk.",
+    "start": 19.92,
+    "duration": 2.18
+  },
+  {
+    "text": "I will be showing you 24 tactics and in each\ncase, it will be white to move.",
+    "start": 28.1,
+    "duration": 4.759
+  },
+  {
+    "text": "Let's start with one of the most common tactics\nand that is the fork.",
+    "start": 32.859,
+    "duration": 3.731
+  },
+  {
+    "text": "A fork happens when a single piece makes two\nor more direct attacks at the same time.",
+    "start": 36.59,
+    "duration": 4.989
+  },
+  {
+    "text": "In most cases, two pieces are threatened,\ntherefore, a fork is also sometimes called",
+    "start": 41.579,
+    "duration": 4.05
+  },
+  {
+    "text": "a double attack.",
+    "start": 45.629,
+    "duration": 1.77
+  },
+  {
+    "text": "Let's look at this game.",
+    "start": 47.399,
+    "duration": 1.75
+  },
+  {
+    "text": "White plays rook to c7 placing a double attack\non the knight & bishop.",
+    "start": 49.149,
+    "duration": 4.331
+  },
+  {
+    "text": "Since black can only save one of them, white\nwill win a piece & that's the main idea behind",
+    "start": 53.48,
+    "duration": 4.579
+  },
+  {
+    "text": "a fork.",
+    "start": 58.059,
+    "duration": 1.061
+  },
+  {
+    "text": "Remember, you can fork with all your pieces\nincluding a pawn so always be on the lookout",
+    "start": 59.12,
+    "duration": 4.689
+  },
+  {
+    "text": "for such positions.",
+    "start": 63.809,
+    "duration": 1.851
+  },
+  {
+    "text": "This is an example of a fork with the knight,\nthis is a fork with the bishop, here's a fork",
+    "start": 65.66,
+    "duration": 4.65
+  },
+  {
+    "text": "with the queen, this is how you can fork with\nyour king and finally, this is a fork with",
+    "start": 70.31,
+    "duration": 4.6
+  },
+  {
+    "text": "a pawn.",
+    "start": 74.91,
+    "duration": 4.28
+  },
+  {
+    "text": "A pin occurs when a piece is held in place\nand can't move without giving up a more valuable",
+    "start": 79.19,
+    "duration": 4.93
+  },
+  {
+    "text": "piece behind it.",
+    "start": 84.12,
+    "duration": 1.82
+  },
+  {
+    "text": "In this game, white plays queen to h8 pinning\nthis bishop.",
+    "start": 85.94,
+    "duration": 4.33
+  },
+  {
+    "text": "Black cannot move his bishop since the king\nis behind it and therefore, white will win",
+    "start": 90.27,
+    "duration": 3.68
+  },
+  {
+    "text": "this bishop.",
+    "start": 93.95,
+    "duration": 1.0
+  },
+  {
+    "text": "There are 2 types of pins - an absolute pin\n& a relative pin.",
+    "start": 94.95,
+    "duration": 5.01
+  },
+  {
+    "text": "When a piece is pinned to the King, it is\ncalled an absolute pin.",
+    "start": 99.96,
+    "duration": 4.24
+  },
+  {
+    "text": "The pinned piece just cannot move in this\ncase.",
+    "start": 104.2,
+    "duration": 2.78
+  },
+  {
+    "text": "It would be illegal if he tries to move his\nknight here, therefore, it's an absolute pin.",
+    "start": 106.98,
+    "duration": 5.25
+  },
+  {
+    "text": "On the other hand, a relative pin is when\na piece is pinned to another piece of greater",
+    "start": 112.23,
+    "duration": 4.22
+  },
+  {
+    "text": "value, and not the King.",
+    "start": 116.45,
+    "duration": 2.22
+  },
+  {
+    "text": "In this case, the knight is pinned to the\nqueen.",
+    "start": 118.67,
+    "duration": 2.99
+  },
+  {
+    "text": "So eventhough black can legally move his knight,\nbut it would be a terrible move because he",
+    "start": 121.66,
+    "duration": 4.1
+  },
+  {
+    "text": "would then lose his queen.",
+    "start": 125.76,
+    "duration": 1.33
+  },
+  {
+    "text": "Hence, it's a relative pin.",
+    "start": 127.09,
+    "duration": 2.069
+  },
+  {
+    "text": "Remember, you can pin only with 3 pieces - the\nqueen, the rook & the bishop.",
+    "start": 129.159,
+    "duration": 5.881
+  },
+  {
+    "text": "The next tactic we are going to look at is\na skewer.",
+    "start": 135.04,
+    "duration": 2.8
+  },
+  {
+    "text": "A Skewer is an attack on two pieces that are\nlined up with one another.",
+    "start": 137.84,
+    "duration": 4.209
+  },
+  {
+    "text": "The first piece is the more valuable piece.",
+    "start": 142.049,
+    "duration": 2.64
+  },
+  {
+    "text": "When it moves out of the way, the less valuable\npiece behind it is captured.",
+    "start": 144.689,
+    "duration": 4.231
+  },
+  {
+    "text": "In this case, when the king moves, the queen\nis captured.",
+    "start": 148.92,
+    "duration": 2.849
+  },
+  {
+    "text": "In fact, you can think of a Skewer as an opposite\nof the Pin.",
+    "start": 151.769,
+    "duration": 4.651
+  },
+  {
+    "text": "In a pin, the less valuable piece is in the\nfront.",
+    "start": 156.42,
+    "duration": 2.5
+  },
+  {
+    "text": "Whereas, in a Skewer, the more valuable piece\nis in the front.",
+    "start": 158.92,
+    "duration": 3.0
+  },
+  {
+    "text": "Just like the pin, you can skewer only with\n3 pieces - the queen, rook & bishop.",
+    "start": 161.92,
+    "duration": 6.23
+  },
+  {
+    "text": "Now let's look at discovered attacks.",
+    "start": 168.15,
+    "duration": 1.899
+  },
+  {
+    "text": "A Discovered Attack occurs when one piece\nmoves, and uncovers an attack by another piece.",
+    "start": 170.049,
+    "duration": 5.541
+  },
+  {
+    "text": "In this game, white moves his bishop & by\ndoing so, we can say that he has launched",
+    "start": 175.59,
+    "duration": 4.16
+  },
+  {
+    "text": "a discovered attack on this knight.",
+    "start": 179.75,
+    "duration": 2.129
+  },
+  {
+    "text": "We can also call this a discovered double\nattack since he is also attacking this rook",
+    "start": 181.879,
+    "duration": 4.791
+  },
+  {
+    "text": "with his bishop.",
+    "start": 186.67,
+    "duration": 1.679
+  },
+  {
+    "text": "Since black cannot save both of them in one\nmove, white will win material & gain a solid",
+    "start": 188.349,
+    "duration": 5.021
+  },
+  {
+    "text": "advantage.",
+    "start": 193.37,
+    "duration": 1.0
+  },
+  {
+    "text": "A very effective form of Discovered Attack\nis the Discovered Check.",
+    "start": 194.37,
+    "duration": 3.83
+  },
+  {
+    "text": "This occurs when the uncovered piece checks\nthe opposing King.",
+    "start": 198.2,
+    "duration": 4.119
+  },
+  {
+    "text": "In this game, white moves his rook and uncovers\na discovered check on the black king.",
+    "start": 202.319,
+    "duration": 5.301
+  },
+  {
+    "text": "Once the king moves, white can capture this\nknight & gain a match winning advantage.",
+    "start": 207.62,
+    "duration": 5.32
+  },
+  {
+    "text": "Another powerful form of the discovered check\nis the discovered double check.",
+    "start": 212.94,
+    "duration": 3.73
+  },
+  {
+    "text": "A Double check is more dangerous because with\nthis, not only the hidden piece attacks the",
+    "start": 216.67,
+    "duration": 4.53
+  },
+  {
+    "text": "king, but also the piece that moves.",
+    "start": 221.2,
+    "duration": 2.06
+  },
+  {
+    "text": "Have a look at this game.",
+    "start": 223.26,
+    "duration": 1.97
+  },
+  {
+    "text": "White plays knight to f5 and its a double\ncheck.",
+    "start": 225.23,
+    "duration": 3.229
+  },
+  {
+    "text": "Not only is the queen attacking the enemy\nking, but also this knight.",
+    "start": 228.459,
+    "duration": 4.12
+  },
+  {
+    "text": "Whenever its a double check, the enemy king\nhas to move.",
+    "start": 232.579,
+    "duration": 3.14
+  },
+  {
+    "text": "In this game, since there is no safe square\nfor the king to go, its a brilliant checkmate.",
+    "start": 235.719,
+    "duration": 6.02
+  },
+  {
+    "text": "Next on our list is a tactic called Windmill.",
+    "start": 241.739,
+    "duration": 3.161
+  },
+  {
+    "text": "It's a rare tactic in which a repeated discovered\ncheck allows one piece to go on a rampage,",
+    "start": 244.9,
+    "duration": 5.159
+  },
+  {
+    "text": "capturing multiple enemy pieces.",
+    "start": 250.059,
+    "duration": 2.191
+  },
+  {
+    "text": "Let's take a look.",
+    "start": 252.25,
+    "duration": 1.17
+  },
+  {
+    "text": "In this game, white first sacrifices his queen\n& then captures on g7 with a check.",
+    "start": 253.42,
+    "duration": 5.49
+  },
+  {
+    "text": "He then begins a series of checks which are\nall forced and inescapable by black.",
+    "start": 258.91,
+    "duration": 4.65
+  },
+  {
+    "text": "This leads to a series of captures as you\ncan see & eventually white ends up with a",
+    "start": 263.56,
+    "duration": 4.2
+  },
+  {
+    "text": "huge material advantage.",
+    "start": 267.76,
+    "duration": 3.2
+  },
+  {
+    "text": "The next tactic we are going to look at is\ninterference.",
+    "start": 270.96,
+    "duration": 1.89
+  },
+  {
+    "text": "In chess, interference occurs when the line\nbetween an attacked piece and its defender",
+    "start": 272.85,
+    "duration": 6.02
+  },
+  {
+    "text": "is interrupted by interposing a piece.",
+    "start": 278.87,
+    "duration": 2.93
+  },
+  {
+    "text": "In this game, as you can see, both these rooks\nare defending each other.",
+    "start": 281.8,
+    "duration": 4.18
+  },
+  {
+    "text": "White plays the smart move knight c6 check.",
+    "start": 285.98,
+    "duration": 3.18
+  },
+  {
+    "text": "This knight is now interfering between these\ntwo rooks and making this rook vulnerable.",
+    "start": 289.16,
+    "duration": 4.99
+  },
+  {
+    "text": "Whatever move black plays, white will gain\nmaterial & take the lead.",
+    "start": 294.15,
+    "duration": 4.7
+  },
+  {
+    "text": "On no.7 is overloading.",
+    "start": 298.85,
+    "duration": 2.24
+  },
+  {
+    "text": "As the name suggests, overloading is when\none piece is assigned to protect multiple",
+    "start": 301.09,
+    "duration": 4.04
+  },
+  {
+    "text": "pieces, squares or threats at the same time.",
+    "start": 305.13,
+    "duration": 3.08
+  },
+  {
+    "text": "When this happens, we refer to that piece\nas being overloaded or overworked.",
+    "start": 308.21,
+    "duration": 5.69
+  },
+  {
+    "text": "Let's understand from this example how we\ncan distract an overloaded piece from one",
+    "start": 313.9,
+    "duration": 3.84
+  },
+  {
+    "text": "of its protecting tasks.",
+    "start": 317.74,
+    "duration": 1.66
+  },
+  {
+    "text": "If you analyze, this bishop is defending 2\nthreats - preventing this checkmate & protecting",
+    "start": 319.4,
+    "duration": 5.54
+  },
+  {
+    "text": "this pawn.",
+    "start": 324.94,
+    "duration": 1.0
+  },
+  {
+    "text": "Since this bishop is overloaded, white can\ntake advantage by capturing this pawn.",
+    "start": 325.94,
+    "duration": 5.08
+  },
+  {
+    "text": "Black cannot take this bishop because of this\ncheckmate so eventually, he will lose a lot",
+    "start": 331.02,
+    "duration": 4.47
+  },
+  {
+    "text": "of material.",
+    "start": 335.49,
+    "duration": 1.0
+  },
+  {
+    "text": "The next tactic you need to know is the deflection\ntactic.",
+    "start": 336.49,
+    "duration": 3.459
+  },
+  {
+    "text": "The idea here is to chase away or to deflect\nan enemy piece from an important square.",
+    "start": 339.949,
+    "duration": 5.34
+  },
+  {
+    "text": "In this game for example, we can see that\nthis king is defending this rook.",
+    "start": 345.289,
+    "duration": 4.081
+  },
+  {
+    "text": "If white can move this king away from this\nsquare, then he can take this rook.",
+    "start": 349.37,
+    "duration": 4.66
+  },
+  {
+    "text": "So can you find a move to achieve that?",
+    "start": 354.03,
+    "duration": 2.569
+  },
+  {
+    "text": "Yes, white can simply play bishop h7 check\nto deflect this king away from this important",
+    "start": 356.599,
+    "duration": 5.521
+  },
+  {
+    "text": "square.",
+    "start": 362.12,
+    "duration": 1.0
+  },
+  {
+    "text": "And after the king moves, white can capture\nthe rook & gain a material advantage.",
+    "start": 363.12,
+    "duration": 5.62
+  },
+  {
+    "text": "Now let's look at decoy.",
+    "start": 368.74,
+    "duration": 1.269
+  },
+  {
+    "text": "It's a tactic where you set up a trap for\nyour opponent.",
+    "start": 370.009,
+    "duration": 3.581
+  },
+  {
+    "text": "It's kind of related to deflection.",
+    "start": 373.59,
+    "duration": 1.799
+  },
+  {
+    "text": "In deflection, we force the opponent away\nfrom a particular square, whereas in decoy,",
+    "start": 375.389,
+    "duration": 4.31
+  },
+  {
+    "text": "we force him to move his piece to a particular\nsquare.",
+    "start": 379.699,
+    "duration": 3.411
+  },
+  {
+    "text": "Such a square where we want to get him to\nis generally called a poisoned square.",
+    "start": 383.11,
+    "duration": 4.529
+  },
+  {
+    "text": "So basically, we play a move that forces the\nenemy piece to that poisoned square.",
+    "start": 387.639,
+    "duration": 4.351
+  },
+  {
+    "text": "In this game, black is completely dominating.",
+    "start": 391.99,
+    "duration": 2.85
+  },
+  {
+    "text": "One more move & white will be gone.",
+    "start": 394.84,
+    "duration": 2.549
+  },
+  {
+    "text": "Can you think of any way for white to win\nthis immediately?",
+    "start": 397.389,
+    "duration": 3.391
+  },
+  {
+    "text": "See white can give checks, but black can escape\nthis way.",
+    "start": 400.78,
+    "duration": 3.84
+  },
+  {
+    "text": "Had this black king been here, rook to c8\nwas checkmate.",
+    "start": 404.62,
+    "duration": 4.12
+  },
+  {
+    "text": "Thinking on these lines, we need to get this\nking to this poisoned f8 square & how can",
+    "start": 408.74,
+    "duration": 4.609
+  },
+  {
+    "text": "we do that?",
+    "start": 413.349,
+    "duration": 1.25
+  },
+  {
+    "text": "Yes, it's queen f8 check.",
+    "start": 414.599,
+    "duration": 2.59
+  },
+  {
+    "text": "If king moves to h7, then queen g7 is a checkmate.",
+    "start": 417.189,
+    "duration": 4.461
+  },
+  {
+    "text": "And if king takes the queen, then rook to\nc8 is a checkmate.",
+    "start": 421.65,
+    "duration": 4.13
+  },
+  {
+    "text": "Okay, we are almost half way through.",
+    "start": 425.78,
+    "duration": 2.43
+  },
+  {
+    "text": "And if you have reached this far and liked\nit, then please show your support & hit that",
+    "start": 428.21,
+    "duration": 3.639
+  },
+  {
+    "text": "Thumbs up button right now.",
+    "start": 431.849,
+    "duration": 1.931
+  },
+  {
+    "text": "Okay, now lets look at a tactic called X-ray\nattack.",
+    "start": 433.78,
+    "duration": 4.009
+  },
+  {
+    "text": "Its an indirect attack on an enemy piece or\nan indirect defense through an enemy piece.",
+    "start": 437.789,
+    "duration": 4.961
+  },
+  {
+    "text": "To understand, let's look at this game.",
+    "start": 442.75,
+    "duration": 2.969
+  },
+  {
+    "text": "As you can see, the bishop on f3 is attacking\nthe bishop on d5.",
+    "start": 445.719,
+    "duration": 4.551
+  },
+  {
+    "text": "At the same time, its indirectly attacking\nthe pawn on b7.",
+    "start": 450.27,
+    "duration": 4.02
+  },
+  {
+    "text": "By using the x-ray tactic, we can take this\npawn on b7 with our knight and then if the",
+    "start": 454.29,
+    "duration": 5.14
+  },
+  {
+    "text": "bishop captures our knight, we can recapture\nwith our bishop & eventually, we are up by",
+    "start": 459.43,
+    "duration": 4.48
+  },
+  {
+    "text": "a pawn.",
+    "start": 463.91,
+    "duration": 1.909
+  },
+  {
+    "text": "Let's look at another example.",
+    "start": 465.819,
+    "duration": 1.871
+  },
+  {
+    "text": "Here white plays queen to e8 check.",
+    "start": 467.69,
+    "duration": 2.349
+  },
+  {
+    "text": "Eventhough there is no direct defender for\nthis queen, this rook & queen still defend",
+    "start": 470.039,
+    "duration": 4.85
+  },
+  {
+    "text": "each other through this enemy rook.",
+    "start": 474.889,
+    "duration": 1.881
+  },
+  {
+    "text": "Its like an x-ray defense.",
+    "start": 476.77,
+    "duration": 2.449
+  },
+  {
+    "text": "Since it is a check & the black king cannot\nmove, therefore, black is forced to take the",
+    "start": 479.219,
+    "duration": 3.781
+  },
+  {
+    "text": "queen.",
+    "start": 483.0,
+    "duration": 1.05
+  },
+  {
+    "text": "And finally, after rook captures, its a checkmate.",
+    "start": 484.05,
+    "duration": 3.29
+  },
+  {
+    "text": "Next, we have Zugzwang, which is a German\nword that means \"It is your turn to move,",
+    "start": 487.34,
+    "duration": 5.659
+  },
+  {
+    "text": "and all your moves are bad!\"",
+    "start": 492.999,
+    "duration": 2.081
+  },
+  {
+    "text": "This is a situation where every move a player\ncould make will significantly worsen his position",
+    "start": 495.08,
+    "duration": 4.98
+  },
+  {
+    "text": "& at times, even cause him to lose the game.",
+    "start": 500.06,
+    "duration": 3.199
+  },
+  {
+    "text": "Let's take a look.",
+    "start": 503.259,
+    "duration": 1.351
+  },
+  {
+    "text": "In this game, white plays the waiting move,\nrook to d8, placing black in Zugzwang.",
+    "start": 504.61,
+    "duration": 4.609
+  },
+  {
+    "text": "Black's only move loses the game immediately.",
+    "start": 509.219,
+    "duration": 4.031
+  },
+  {
+    "text": "Since there is no option to \"skip a move\"\nin chess, black will have to move his king",
+    "start": 513.25,
+    "duration": 3.85
+  },
+  {
+    "text": "& then its game over.",
+    "start": 517.1,
+    "duration": 3.08
+  },
+  {
+    "text": "Tactic no 12 is Zwischenzug.",
+    "start": 520.18,
+    "duration": 2.68
+  },
+  {
+    "text": "This is a German word meaning an intermediate\nmove or an in-between move.",
+    "start": 522.86,
+    "duration": 3.78
+  },
+  {
+    "text": "It is a chess tactic in which a player inserts\nan unexpected move in between an otherwise",
+    "start": 526.64,
+    "duration": 5.11
+  },
+  {
+    "text": "forcing sequence of moves.",
+    "start": 531.75,
+    "duration": 1.779
+  },
+  {
+    "text": "Let's see how it works.",
+    "start": 533.529,
+    "duration": 1.981
+  },
+  {
+    "text": "In this game, white first takes this pawn\nwith his knight.",
+    "start": 535.51,
+    "duration": 3.23
+  },
+  {
+    "text": "Black is forced to take this rook.",
+    "start": 538.74,
+    "duration": 2.13
+  },
+  {
+    "text": "And now comes the in-between move.",
+    "start": 540.87,
+    "duration": 1.86
+  },
+  {
+    "text": "Instead of recapturing the rook, the knight\ngrabs another pawn with a check.",
+    "start": 542.73,
+    "duration": 4.36
+  },
+  {
+    "text": "And after the knight reaches a safe square,\nhe finally takes back the rook gaining a material",
+    "start": 547.09,
+    "duration": 4.04
+  },
+  {
+    "text": "advantage.",
+    "start": 551.13,
+    "duration": 2.59
+  },
+  {
+    "text": "The next tactic we need to know is undermining\nwhich means Removal of the defender.",
+    "start": 553.72,
+    "duration": 5.01
+  },
+  {
+    "text": "It basically involves attacking or capturing\na critical defending piece to gain significant",
+    "start": 558.73,
+    "duration": 4.65
+  },
+  {
+    "text": "material advantage or even checkmate your\nopponent.",
+    "start": 563.38,
+    "duration": 3.57
+  },
+  {
+    "text": "In this game, white takes this knight with\nhis rook.",
+    "start": 566.95,
+    "duration": 2.27
+  },
+  {
+    "text": "The main idea being to remove the knight on\ne8 from its protection of the g7 pawn.",
+    "start": 569.22,
+    "duration": 5.29
+  },
+  {
+    "text": "So after the rook takes, queen g7 would be\na checkmate.",
+    "start": 574.51,
+    "duration": 5.05
+  },
+  {
+    "text": "Another tactic you can use is that of forcing\na stalemate from an otherwise lost or unfavorable",
+    "start": 579.56,
+    "duration": 4.69
+  },
+  {
+    "text": "position.",
+    "start": 584.25,
+    "duration": 1.4
+  },
+  {
+    "text": "In this game, as you can see, white is clearly\nbehind.",
+    "start": 585.65,
+    "duration": 3.249
+  },
+  {
+    "text": "A draw will be good for white.",
+    "start": 588.899,
+    "duration": 2.171
+  },
+  {
+    "text": "In order to achieve this, he starts off with\nthis rook check.",
+    "start": 591.07,
+    "duration": 3.55
+  },
+  {
+    "text": "Black plays the only legal move, king to b3.",
+    "start": 594.62,
+    "duration": 3.25
+  },
+  {
+    "text": "Now the white king has no square to go.",
+    "start": 597.87,
+    "duration": 2.219
+  },
+  {
+    "text": "Therefore, white plays the cunning move, rook\nto c7, sacrificing the Rook to take advantage",
+    "start": 600.089,
+    "duration": 5.511
+  },
+  {
+    "text": "of the King's stalemate position.",
+    "start": 605.6,
+    "duration": 2.55
+  },
+  {
+    "text": "Even if black moves his rook away, white can\nkeep chasing him & again, the game will end",
+    "start": 608.15,
+    "duration": 4.73
+  },
+  {
+    "text": "in a draw.",
+    "start": 612.88,
+    "duration": 1.399
+  },
+  {
+    "text": "Okay, now let's look at another way of achieving\na draw from an otherwise losing position and",
+    "start": 614.279,
+    "duration": 5.461
+  },
+  {
+    "text": "that is by way of perpetual checks or by the\nrule of threefold repetition.",
+    "start": 619.74,
+    "duration": 5.05
+  },
+  {
+    "text": "Draw by perpetual checks is a situation where\none player can check the opponent's king forever,",
+    "start": 624.79,
+    "duration": 5.239
+  },
+  {
+    "text": "but cannot checkmate it.",
+    "start": 630.029,
+    "duration": 2.021
+  },
+  {
+    "text": "When perpetual check happens, the players\nusually either agree to a draw or if the same",
+    "start": 632.05,
+    "duration": 4.479
+  },
+  {
+    "text": "position is repeated three times, it results\nin a draw by the rule of \"Threefold Repetition\".",
+    "start": 636.529,
+    "duration": 5.691
+  },
+  {
+    "text": "In this game, since white is down a significant\namount of material already, he decides to",
+    "start": 642.22,
+    "duration": 4.72
+  },
+  {
+    "text": "sacrifice his rook.",
+    "start": 646.94,
+    "duration": 1.74
+  },
+  {
+    "text": "After king takes, he continues to check with\nhis queen & the game ends in a draw.",
+    "start": 648.68,
+    "duration": 4.7
+  },
+  {
+    "text": "This is how you can use this rule to your\nadvantage.",
+    "start": 653.38,
+    "duration": 2.819
+  },
+  {
+    "text": "Okay, now let's talk about Underpromotion\nas a tactic.",
+    "start": 656.199,
+    "duration": 4.88
+  },
+  {
+    "text": "Underpromotion means promoting a pawn to a\npiece less than a Queen, which means promoting",
+    "start": 661.079,
+    "duration": 4.641
+  },
+  {
+    "text": "a pawn to a Knight, Rook or Bishop.",
+    "start": 665.72,
+    "duration": 2.44
+  },
+  {
+    "text": "There could be many reasons for underpromoting.",
+    "start": 668.16,
+    "duration": 3.1
+  },
+  {
+    "text": "It could be to stop an opponent's threat,\nto deliver a deadly checkmate, to prevent",
+    "start": 671.26,
+    "duration": 5.22
+  },
+  {
+    "text": "a stalemate or to achieve something even better\nthan what a Queen could offer.",
+    "start": 676.48,
+    "duration": 5.01
+  },
+  {
+    "text": "In this game, for example, white played this\nbrilliant move combination and after underpromoting",
+    "start": 681.49,
+    "duration": 4.789
+  },
+  {
+    "text": "to a knight, he managed to come out on top.",
+    "start": 686.279,
+    "duration": 3.521
+  },
+  {
+    "text": "So whenever one of your pawns is approaching\npromotion, just think if there is any way",
+    "start": 689.8,
+    "duration": 4.16
+  },
+  {
+    "text": "to underpromote & gain an advantage.",
+    "start": 693.96,
+    "duration": 3.03
+  },
+  {
+    "text": "Okay, now let's look at some tactical sacrifices.",
+    "start": 696.99,
+    "duration": 3.25
+  },
+  {
+    "text": "The most common sacrifice is a Queen Sacrifice.",
+    "start": 700.24,
+    "duration": 3.599
+  },
+  {
+    "text": "In this game, white's queen is being attacked.",
+    "start": 703.839,
+    "duration": 2.451
+  },
+  {
+    "text": "However, he ignores it to achieve something\nbigger.",
+    "start": 706.29,
+    "duration": 3.03
+  },
+  {
+    "text": "First, he plays knight e8 exposing this bishop\n& at the same time, giving a discovered check.",
+    "start": 709.32,
+    "duration": 5.699
+  },
+  {
+    "text": "Now when black takes this queen, then Rook\nto f8 is a beautiful checkmate.",
+    "start": 715.019,
+    "duration": 5.411
+  },
+  {
+    "text": "There isn't a better feeling than winning\na game like this.",
+    "start": 720.43,
+    "duration": 3.98
+  },
+  {
+    "text": "Anyways, another form of a sacrifice is an\nexchange sacrifice which generally refers",
+    "start": 724.41,
+    "duration": 4.34
+  },
+  {
+    "text": "to the sacrifice of a Rook for a minor piece\nlike a Knight or a Bishop.",
+    "start": 728.75,
+    "duration": 4.3
+  },
+  {
+    "text": "In this game, white takes the knight & sacrifices\nhis rook.",
+    "start": 733.05,
+    "duration": 3.979
+  },
+  {
+    "text": "He goes down on exchange.",
+    "start": 737.029,
+    "duration": 1.221
+  },
+  {
+    "text": "However, just a move later, he can apply the\ntactic of a fork to capture the rook & ultimately",
+    "start": 738.25,
+    "duration": 6.26
+  },
+  {
+    "text": "win the game.",
+    "start": 744.51,
+    "duration": 2.46
+  },
+  {
+    "text": "Another type of sacrifice is the clearance\nsacrifice.",
+    "start": 746.97,
+    "duration": 3.26
+  },
+  {
+    "text": "As the name suggests, it is a sacrifice which\nclears space.",
+    "start": 750.23,
+    "duration": 3.16
+  },
+  {
+    "text": "Imagine that you’re in the middle of a tough\nchess match.",
+    "start": 753.39,
+    "duration": 3.33
+  },
+  {
+    "text": "You notice that you can make a strong capture\nor check, but unfortunately, one of your own",
+    "start": 756.72,
+    "duration": 4.359
+  },
+  {
+    "text": "pieces is in the way.",
+    "start": 761.079,
+    "duration": 1.95
+  },
+  {
+    "text": "That’s where a clearance sacrifice comes\ninto play.",
+    "start": 763.029,
+    "duration": 2.341
+  },
+  {
+    "text": "We sacrifice one of our own pieces to clear\na square, rank, or diagonal.",
+    "start": 765.37,
+    "duration": 4.329
+  },
+  {
+    "text": "Here's an example.",
+    "start": 769.699,
+    "duration": 2.051
+  },
+  {
+    "text": "In this game, white plays Rook to f8.",
+    "start": 771.75,
+    "duration": 2.86
+  },
+  {
+    "text": "The important idea behind this move is to\nclear this long diagonal by sacrificing the",
+    "start": 774.61,
+    "duration": 3.979
+  },
+  {
+    "text": "rook.",
+    "start": 778.589,
+    "duration": 1.0
+  },
+  {
+    "text": "After black captures, white can make use of\nthis diagonal to attack & finish off this",
+    "start": 779.589,
+    "duration": 3.921
+  },
+  {
+    "text": "game with this forced sequence of moves.",
+    "start": 783.51,
+    "duration": 2.99
+  },
+  {
+    "text": "Okay, now the next tactic I'll show you is\nthat of exposing hanging pieces.",
+    "start": 786.5,
+    "duration": 5.93
+  },
+  {
+    "text": "Hanging pieces are undefended pieces.",
+    "start": 792.43,
+    "duration": 2.5
+  },
+  {
+    "text": "In this game, both knights are hanging.",
+    "start": 794.93,
+    "duration": 2.599
+  },
+  {
+    "text": "However, white plays a brilliant two move\ncombination.",
+    "start": 797.529,
+    "duration": 2.711
+  },
+  {
+    "text": "First, he forces black's bishop to an unprotected\nsquare and finally after knight c2, both these",
+    "start": 800.24,
+    "duration": 6.349
+  },
+  {
+    "text": "black pieces are left hanging.",
+    "start": 806.589,
+    "duration": 2.521
+  },
+  {
+    "text": "Black is unable to defend both in one move\n& eventually, he will lose material.",
+    "start": 809.11,
+    "duration": 5.33
+  },
+  {
+    "text": "The next tactic is something you might be\nknowing, but don't necessarily look for.",
+    "start": 814.44,
+    "duration": 4.55
+  },
+  {
+    "text": "It's trapping a piece.",
+    "start": 818.99,
+    "duration": 1.289
+  },
+  {
+    "text": "A trapped piece is one that finds itself with\neither no moves at all, or has no safe squares",
+    "start": 820.279,
+    "duration": 5.271
+  },
+  {
+    "text": "to go.",
+    "start": 825.55,
+    "duration": 1.089
+  },
+  {
+    "text": "In this game, white realises that the knight\non e5 is potentially trapped if the b6 knight",
+    "start": 826.639,
+    "duration": 5.092
+  },
+  {
+    "text": "can be eliminated from protecting the c4 square.",
+    "start": 831.731,
+    "duration": 3.608
+  },
+  {
+    "text": "So first, he takes this knight with his bishop.",
+    "start": 835.339,
+    "duration": 3.19
+  },
+  {
+    "text": "And after black recaptures, he attacks the\ne5 knight with f4 & this knight is gone because",
+    "start": 838.529,
+    "duration": 5.281
+  },
+  {
+    "text": "it has no safe squares to go.",
+    "start": 843.81,
+    "duration": 2.56
+  },
+  {
+    "text": "Now lets look at some essential Checkmate\npatterns & tactics.",
+    "start": 846.37,
+    "duration": 3.25
+  },
+  {
+    "text": "Lets start with the support mate.",
+    "start": 849.62,
+    "duration": 2.469
+  },
+  {
+    "text": "A support mate is a basic checkmate that occurs\nsimply when a Queen directly delivers checkmate",
+    "start": 852.089,
+    "duration": 5.19
+  },
+  {
+    "text": "receiving support from one other piece.",
+    "start": 857.279,
+    "duration": 2.441
+  },
+  {
+    "text": "In this game, the white queen checkmates the\nblack king with the support of this knight.",
+    "start": 859.72,
+    "duration": 5.19
+  },
+  {
+    "text": "Another popular mating pattern is the smothered\nmate.",
+    "start": 864.91,
+    "duration": 2.479
+  },
+  {
+    "text": "It is a checkmate by a Knight against an enemy\nKing which has no way out because all of its",
+    "start": 867.389,
+    "duration": 5.171
+  },
+  {
+    "text": "escape squares are blocked by its own pieces.",
+    "start": 872.56,
+    "duration": 3.16
+  },
+  {
+    "text": "Here's a classical example.",
+    "start": 875.72,
+    "duration": 1.95
+  },
+  {
+    "text": "White gives a check, king moves, now its a\ndouble check.",
+    "start": 877.67,
+    "duration": 4.43
+  },
+  {
+    "text": "If king moves here, then queen f7 is a mate.",
+    "start": 882.1,
+    "duration": 3.21
+  },
+  {
+    "text": "But if king moves back to the corner, then\nwe have this smothered mate tactic.",
+    "start": 885.31,
+    "duration": 4.88
+  },
+  {
+    "text": "First queen g8 check, then rook takes on g8\nis the only legal move and finally, knight",
+    "start": 890.19,
+    "duration": 6.5
+  },
+  {
+    "text": "to f7 is a smothered checkmate as the black\nking cannot go anywhere since he is trapped",
+    "start": 896.69,
+    "duration": 4.29
+  },
+  {
+    "text": "by his own pieces.",
+    "start": 900.98,
+    "duration": 1.9
+  },
+  {
+    "text": "Okay, now another popular mating pattern is\nthe backrank mate.",
+    "start": 902.88,
+    "duration": 4.879
+  },
+  {
+    "text": "Such a mate happens when either the Rook or\nQueen is attacking the enemy King, and the",
+    "start": 907.759,
+    "duration": 4.26
+  },
+  {
+    "text": "enemy King is trapped on the back rank by\nhis own army.",
+    "start": 912.019,
+    "duration": 2.861
+  },
+  {
+    "text": "Here's an example.",
+    "start": 914.88,
+    "duration": 1.449
+  },
+  {
+    "text": "First, white takes the bishop with his queen,\nthen black recaptures & finally, rook d8 is",
+    "start": 916.329,
+    "duration": 6.091
+  },
+  {
+    "text": "a checkmate on the back rank since these pawns\nblock him from escaping.",
+    "start": 922.42,
+    "duration": 3.75
+  },
+  {
+    "text": "Okay, so here's an interesting puzzle for\nyou all.",
+    "start": 926.17,
+    "duration": 3.57
+  },
+  {
+    "text": "In this position, you need to find the best\nmove continuation for white.",
+    "start": 929.74,
+    "duration": 3.279
+  },
+  {
+    "text": "Share your answers in the comments and also\nmention the tactics that can be used.",
+    "start": 933.019,
+    "duration": 4.431
+  },
+  {
+    "text": "All the Best guys.",
+    "start": 937.45,
+    "duration": 1.0
+  },
+  {
+    "text": "Lets see how many of you can solve this!",
+    "start": 938.45,
+    "duration": 1.61
+  },
+  {
+    "text": "Well, don't forget to Like this video & if\nyou haven't yet Subscribed, then Subscribe",
+    "start": 940.06,
+    "duration": 4.05
+  },
+  {
+    "text": "now.",
+    "start": 944.11,
+    "duration": 1.0
+  },
+  {
+    "text": "Thanks for watching & I shall see you in my\nnext video.",
+    "start": 945.11,
+    "duration": 1.119
+  }
+]

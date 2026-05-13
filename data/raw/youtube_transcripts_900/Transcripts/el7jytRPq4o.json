@@ -1,0 +1,512 @@
+[
+  {
+    "text": "octopus",
+    "start": 0.56,
+    "duration": 2.72
+  },
+  {
+    "text": "cat",
+    "start": 6.48,
+    "duration": 2.319
+  },
+  {
+    "text": "[Music]",
+    "start": 9.55,
+    "duration": 5.82
+  },
+  {
+    "text": "stegosaurus",
+    "start": 12.799,
+    "duration": 4.56
+  },
+  {
+    "text": "[Music]",
+    "start": 15.37,
+    "duration": 2.94
+  },
+  {
+    "text": "yellow duck",
+    "start": 17.359,
+    "duration": 4.051
+  },
+  {
+    "text": "[Music]",
+    "start": 18.31,
+    "duration": 3.1
+  },
+  {
+    "text": "shark",
+    "start": 22.16,
+    "duration": 5.359
+  },
+  {
+    "text": "[Music]",
+    "start": 23.6,
+    "duration": 6.919
+  },
+  {
+    "text": "spider",
+    "start": 27.519,
+    "duration": 3.0
+  },
+  {
+    "text": "rabbit",
+    "start": 32.719,
+    "duration": 4.821
+  },
+  {
+    "text": "[Music]",
+    "start": 33.54,
+    "duration": 4.0
+  },
+  {
+    "text": "cheetah",
+    "start": 38.879,
+    "duration": 2.481
+  },
+  {
+    "text": "spinosaurus",
+    "start": 43.68,
+    "duration": 2.96
+  },
+  {
+    "text": "elephant",
+    "start": 46.8,
+    "duration": 2.56
+  },
+  {
+    "text": "pink hippopotamus",
+    "start": 52.8,
+    "duration": 3.32
+  },
+  {
+    "text": "otter",
+    "start": 58.8,
+    "duration": 5.84
+  },
+  {
+    "text": "[Music]",
+    "start": 59.58,
+    "duration": 7.859
+  },
+  {
+    "text": "jellyfish",
+    "start": 64.64,
+    "duration": 2.799
+  },
+  {
+    "text": "tiger",
+    "start": 69.04,
+    "duration": 3.0
+  },
+  {
+    "text": "shark",
+    "start": 74.479,
+    "duration": 2.481
+  },
+  {
+    "text": "green crocodile",
+    "start": 79.84,
+    "duration": 4.639
+  },
+  {
+    "text": "[Music]",
+    "start": 82.37,
+    "duration": 3.56
+  },
+  {
+    "text": "polar bear",
+    "start": 84.479,
+    "duration": 6.201
+  },
+  {
+    "text": "[Music]",
+    "start": 85.93,
+    "duration": 4.75
+  },
+  {
+    "text": "pig",
+    "start": 90.72,
+    "duration": 2.32
+  },
+  {
+    "text": "[Music]",
+    "start": 93.36,
+    "duration": 6.52
+  },
+  {
+    "text": "zebra",
+    "start": 96.88,
+    "duration": 3.0
+  },
+  {
+    "text": "octopus",
+    "start": 102.88,
+    "duration": 5.919
+  },
+  {
+    "text": "[Music]",
+    "start": 103.99,
+    "duration": 5.87
+  },
+  {
+    "text": "penguin",
+    "start": 108.799,
+    "duration": 5.6
+  },
+  {
+    "text": "[Music]",
+    "start": 109.86,
+    "duration": 6.46
+  },
+  {
+    "text": "brachiosaurus",
+    "start": 114.399,
+    "duration": 3.281
+  },
+  {
+    "text": "[Music]",
+    "start": 116.32,
+    "duration": 1.8
+  },
+  {
+    "text": "b",
+    "start": 117.68,
+    "duration": 5.719
+  },
+  {
+    "text": "[Music]",
+    "start": 118.12,
+    "duration": 7.3
+  },
+  {
+    "text": "tyrannosaurus rex",
+    "start": 123.399,
+    "duration": 8.041
+  },
+  {
+    "text": "[Music]",
+    "start": 125.42,
+    "duration": 8.819
+  },
+  {
+    "text": "manta ray",
+    "start": 131.44,
+    "duration": 2.799
+  },
+  {
+    "text": "[Music]",
+    "start": 134.42,
+    "duration": 3.02
+  },
+  {
+    "text": "chameleon",
+    "start": 136.319,
+    "duration": 6.721
+  },
+  {
+    "text": "[Music]",
+    "start": 137.44,
+    "duration": 8.0
+  },
+  {
+    "text": "crap",
+    "start": 143.04,
+    "duration": 2.4
+  },
+  {
+    "text": "[Music]",
+    "start": 146.12,
+    "duration": 5.27
+  },
+  {
+    "text": "i'm a head shark",
+    "start": 149.52,
+    "duration": 6.799
+  },
+  {
+    "text": "[Music]",
+    "start": 151.39,
+    "duration": 5.65
+  },
+  {
+    "text": "orca",
+    "start": 156.319,
+    "duration": 5.601
+  },
+  {
+    "text": "[Music]",
+    "start": 157.04,
+    "duration": 7.6
+  },
+  {
+    "text": "octopus",
+    "start": 161.92,
+    "duration": 2.72
+  },
+  {
+    "text": "lion",
+    "start": 168.319,
+    "duration": 6.721
+  },
+  {
+    "text": "[Music]",
+    "start": 170.06,
+    "duration": 6.08
+  },
+  {
+    "text": "baryonyx",
+    "start": 175.04,
+    "duration": 4.0
+  },
+  {
+    "text": "[Music]",
+    "start": 176.14,
+    "duration": 6.459
+  },
+  {
+    "text": "green frog",
+    "start": 179.04,
+    "duration": 3.559
+  },
+  {
+    "text": "chimpanzee",
+    "start": 185.2,
+    "duration": 2.8
+  },
+  {
+    "text": "[Music]",
+    "start": 188.87,
+    "duration": 4.72
+  },
+  {
+    "text": "walrus",
+    "start": 191.04,
+    "duration": 6.24
+  },
+  {
+    "text": "[Music]",
+    "start": 193.59,
+    "duration": 4.63
+  },
+  {
+    "text": "red seal",
+    "start": 197.28,
+    "duration": 6.289
+  },
+  {
+    "text": "[Music]",
+    "start": 198.22,
+    "duration": 5.349
+  },
+  {
+    "text": "starfish",
+    "start": 203.599,
+    "duration": 6.481
+  },
+  {
+    "text": "[Music]",
+    "start": 206.3,
+    "duration": 6.78
+  },
+  {
+    "text": "dory",
+    "start": 210.08,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 213.64,
+    "duration": 3.74
+  },
+  {
+    "text": "goblin shark",
+    "start": 216.239,
+    "duration": 3.041
+  },
+  {
+    "text": "[Music]",
+    "start": 217.38,
+    "duration": 4.9
+  },
+  {
+    "text": "dog",
+    "start": 219.28,
+    "duration": 3.0
+  },
+  {
+    "text": "horse",
+    "start": 226.4,
+    "duration": 3.989
+  },
+  {
+    "text": "[Music]",
+    "start": 227.28,
+    "duration": 3.109
+  },
+  {
+    "text": "rhinoceros",
+    "start": 232.0,
+    "duration": 2.959
+  },
+  {
+    "text": "[Music]",
+    "start": 236.44,
+    "duration": 5.4
+  },
+  {
+    "text": "clown fish",
+    "start": 238.48,
+    "duration": 3.36
+  },
+  {
+    "text": "[Music]",
+    "start": 243.37,
+    "duration": 2.46
+  },
+  {
+    "text": "monkey",
+    "start": 244.959,
+    "duration": 5.121
+  },
+  {
+    "text": "[Music]",
+    "start": 245.83,
+    "duration": 4.25
+  },
+  {
+    "text": "red lobster",
+    "start": 251.36,
+    "duration": 6.24
+  },
+  {
+    "text": "[Music]",
+    "start": 254.49,
+    "duration": 5.429
+  },
+  {
+    "text": "woof",
+    "start": 257.6,
+    "duration": 2.319
+  },
+  {
+    "text": "octopus",
+    "start": 263.6,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 266.93,
+    "duration": 3.81
+  },
+  {
+    "text": "pteranodon",
+    "start": 269.52,
+    "duration": 3.76
+  },
+  {
+    "text": "[Music]",
+    "start": 270.74,
+    "duration": 3.37
+  },
+  {
+    "text": "panda",
+    "start": 273.28,
+    "duration": 4.029
+  },
+  {
+    "text": "[Music]",
+    "start": 274.11,
+    "duration": 3.199
+  },
+  {
+    "text": "shark",
+    "start": 279.36,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 282.61,
+    "duration": 4.44
+  },
+  {
+    "text": "white horse",
+    "start": 286.0,
+    "duration": 4.11
+  },
+  {
+    "text": "[Music]",
+    "start": 287.05,
+    "duration": 3.06
+  },
+  {
+    "text": "baby giraffe",
+    "start": 292.0,
+    "duration": 6.24
+  },
+  {
+    "text": "[Music]",
+    "start": 294.04,
+    "duration": 6.599
+  },
+  {
+    "text": "dog",
+    "start": 298.24,
+    "duration": 2.399
+  },
+  {
+    "text": "red crab",
+    "start": 304.479,
+    "duration": 3.401
+  },
+  {
+    "text": "[Music]",
+    "start": 308.99,
+    "duration": 5.25
+  },
+  {
+    "text": "stingray",
+    "start": 311.52,
+    "duration": 2.72
+  },
+  {
+    "text": "[Music]",
+    "start": 314.66,
+    "duration": 6.14
+  },
+  {
+    "text": "green turtle",
+    "start": 317.84,
+    "duration": 2.96
+  },
+  {
+    "text": "kangaroo",
+    "start": 323.68,
+    "duration": 6.72
+  },
+  {
+    "text": "[Music]",
+    "start": 324.93,
+    "duration": 8.19
+  },
+  {
+    "text": "crocodile",
+    "start": 330.4,
+    "duration": 2.72
+  },
+  {
+    "text": "pink dolphin",
+    "start": 336.479,
+    "duration": 3.361
+  },
+  {
+    "text": "thanks for watching guys don't forget to",
+    "start": 342.16,
+    "duration": 7.64
+  },
+  {
+    "text": "subscribe see you on our next video",
+    "start": 344.639,
+    "duration": 5.161
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "adapter_type": "qlora_lora",
+  "language": "es",
+  "domain": "marketing_youtube_ads_recommendations",
+  "max_steps": 80,
+  "max_length": 1024
+}

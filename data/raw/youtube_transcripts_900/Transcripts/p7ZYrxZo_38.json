@@ -1,0 +1,2027 @@
+[
+  {
+    "text": "hey guys welcome back to another episode",
+    "start": 0.08,
+    "duration": 4.16
+  },
+  {
+    "text": "in this video we will be going through",
+    "start": 2.56,
+    "duration": 4.0
+  },
+  {
+    "text": "our haikanasi trading strategy in depth",
+    "start": 4.24,
+    "duration": 4.319
+  },
+  {
+    "text": "and how we use it in combination with",
+    "start": 6.56,
+    "duration": 3.119
+  },
+  {
+    "text": "price action",
+    "start": 8.559,
+    "duration": 3.2
+  },
+  {
+    "text": "high kanasi candlesticks are great",
+    "start": 9.679,
+    "duration": 4.241
+  },
+  {
+    "text": "because they smooth the price action",
+    "start": 11.759,
+    "duration": 4.241
+  },
+  {
+    "text": "as a result much of the noise shown in",
+    "start": 13.92,
+    "duration": 4.0
+  },
+  {
+    "text": "traditional japanese candlesticks",
+    "start": 16.0,
+    "duration": 4.16
+  },
+  {
+    "text": "is eliminated with high kanasi charting",
+    "start": 17.92,
+    "duration": 4.08
+  },
+  {
+    "text": "and it helps make the trade entry and",
+    "start": 20.16,
+    "duration": 4.0
+  },
+  {
+    "text": "exit decision simpler",
+    "start": 22.0,
+    "duration": 4.0
+  },
+  {
+    "text": "if you want more videos more often",
+    "start": 24.16,
+    "duration": 3.52
+  },
+  {
+    "text": "please smash the like button",
+    "start": 26.0,
+    "duration": 4.0
+  },
+  {
+    "text": "subscribe and turn on the notifications",
+    "start": 27.68,
+    "duration": 4.399
+  },
+  {
+    "text": "bell so that you know exactly when new",
+    "start": 30.0,
+    "duration": 4.079
+  },
+  {
+    "text": "content is released",
+    "start": 32.079,
+    "duration": 4.721
+  },
+  {
+    "text": "the very important point before we start",
+    "start": 34.079,
+    "duration": 4.561
+  },
+  {
+    "text": "everything we discuss in this video can",
+    "start": 36.8,
+    "duration": 3.52
+  },
+  {
+    "text": "be used for currency trading",
+    "start": 38.64,
+    "duration": 4.239
+  },
+  {
+    "text": "stock trading and crypto because price",
+    "start": 40.32,
+    "duration": 4.399
+  },
+  {
+    "text": "action stays relatively consistent",
+    "start": 42.879,
+    "duration": 3.2
+  },
+  {
+    "text": "across different assets",
+    "start": 44.719,
+    "duration": 3.281
+  },
+  {
+    "text": "so we're going to go very in depth in",
+    "start": 46.079,
+    "duration": 4.48
+  },
+  {
+    "text": "this video",
+    "start": 48.0,
+    "duration": 2.559
+  },
+  {
+    "text": "are you confused with not knowing",
+    "start": 55.36,
+    "duration": 3.199
+  },
+  {
+    "text": "exactly how or when",
+    "start": 57.039,
+    "duration": 3.761
+  },
+  {
+    "text": "to enter into a trade with so many",
+    "start": 58.559,
+    "duration": 3.84
+  },
+  {
+    "text": "different candlestick patterns",
+    "start": 60.8,
+    "duration": 3.439
+  },
+  {
+    "text": "traders can get paralyzed by over",
+    "start": 62.399,
+    "duration": 3.441
+  },
+  {
+    "text": "analysis on whether a certain",
+    "start": 64.239,
+    "duration": 3.681
+  },
+  {
+    "text": "candlestick is an entry or not",
+    "start": 65.84,
+    "duration": 4.0
+  },
+  {
+    "text": "and have you gotten into a trade where",
+    "start": 67.92,
+    "duration": 3.199
+  },
+  {
+    "text": "it was going in your favor",
+    "start": 69.84,
+    "duration": 3.2
+  },
+  {
+    "text": "but you got out too early it's",
+    "start": 71.119,
+    "duration": 3.601
+  },
+  {
+    "text": "frustrating to get out of a position",
+    "start": 73.04,
+    "duration": 3.439
+  },
+  {
+    "text": "only to see the trade go further in the",
+    "start": 74.72,
+    "duration": 5.36
+  },
+  {
+    "text": "direction of the trade you exited",
+    "start": 76.479,
+    "duration": 3.601
+  },
+  {
+    "text": "let's face it as a trader we have many",
+    "start": 80.24,
+    "duration": 4.8
+  },
+  {
+    "text": "things",
+    "start": 84.64,
+    "duration": 3.2
+  },
+  {
+    "text": "to analyze at any given time if you take",
+    "start": 85.04,
+    "duration": 4.719
+  },
+  {
+    "text": "too long to decide whether it's time to",
+    "start": 87.84,
+    "duration": 3.52
+  },
+  {
+    "text": "enter into a trade because of your",
+    "start": 89.759,
+    "duration": 3.04
+  },
+  {
+    "text": "complicated entry rules",
+    "start": 91.36,
+    "duration": 3.2
+  },
+  {
+    "text": "it might mean a missed opportunity for",
+    "start": 92.799,
+    "duration": 4.0
+  },
+  {
+    "text": "you and if you exit your position too",
+    "start": 94.56,
+    "duration": 3.599
+  },
+  {
+    "text": "early then it could affect your",
+    "start": 96.799,
+    "duration": 4.161
+  },
+  {
+    "text": "profitability in the long run",
+    "start": 98.159,
+    "duration": 4.401
+  },
+  {
+    "text": "but what if you had a simple way of",
+    "start": 100.96,
+    "duration": 3.439
+  },
+  {
+    "text": "knowing exactly when to get in and out",
+    "start": 102.56,
+    "duration": 3.599
+  },
+  {
+    "text": "of your trade without any complicated",
+    "start": 104.399,
+    "duration": 2.801
+  },
+  {
+    "text": "analysis",
+    "start": 106.159,
+    "duration": 2.721
+  },
+  {
+    "text": "then you want to consider using the high",
+    "start": 107.2,
+    "duration": 3.68
+  },
+  {
+    "text": "kanasi bars to time your entries and",
+    "start": 108.88,
+    "duration": 2.879
+  },
+  {
+    "text": "exits",
+    "start": 110.88,
+    "duration": 2.8
+  },
+  {
+    "text": "in this video i will share with you a",
+    "start": 111.759,
+    "duration": 4.161
+  },
+  {
+    "text": "simple haikanasi strategy to simplify",
+    "start": 113.68,
+    "duration": 4.24
+  },
+  {
+    "text": "your entries and exits so you will know",
+    "start": 115.92,
+    "duration": 4.159
+  },
+  {
+    "text": "exactly when it's time to enter or exit",
+    "start": 117.92,
+    "duration": 4.32
+  },
+  {
+    "text": "a trade",
+    "start": 120.079,
+    "duration": 4.72
+  },
+  {
+    "text": "and now what is the haikanasi technique",
+    "start": 122.24,
+    "duration": 4.8
+  },
+  {
+    "text": "the haikanasi technique is a japanese",
+    "start": 124.799,
+    "duration": 3.201
+  },
+  {
+    "text": "candlestick based",
+    "start": 127.04,
+    "duration": 2.639
+  },
+  {
+    "text": "technical trading tool that uses",
+    "start": 128.0,
+    "duration": 3.52
+  },
+  {
+    "text": "candlestick charts to represent",
+    "start": 129.679,
+    "duration": 4.401
+  },
+  {
+    "text": "and visualize market price data it is",
+    "start": 131.52,
+    "duration": 4.88
+  },
+  {
+    "text": "used to identify market trend signals",
+    "start": 134.08,
+    "duration": 4.48
+  },
+  {
+    "text": "and forecast price movements the",
+    "start": 136.4,
+    "duration": 4.8
+  },
+  {
+    "text": "haikanasi method uses average price data",
+    "start": 138.56,
+    "duration": 5.52
+  },
+  {
+    "text": "that helps to filter out market noise",
+    "start": 141.2,
+    "duration": 5.039
+  },
+  {
+    "text": "the absence of market noise results in a",
+    "start": 144.08,
+    "duration": 4.159
+  },
+  {
+    "text": "clear illustration of market trends",
+    "start": 146.239,
+    "duration": 3.681
+  },
+  {
+    "text": "and direction which helps determine",
+    "start": 148.239,
+    "duration": 3.441
+  },
+  {
+    "text": "potential price movements",
+    "start": 149.92,
+    "duration": 4.0
+  },
+  {
+    "text": "the trading technique assists traders in",
+    "start": 151.68,
+    "duration": 3.919
+  },
+  {
+    "text": "identifying when they should hold on to",
+    "start": 153.92,
+    "duration": 2.399
+  },
+  {
+    "text": "a trade",
+    "start": 155.599,
+    "duration": 3.201
+  },
+  {
+    "text": "pause a trade or identify if a reversal",
+    "start": 156.319,
+    "duration": 3.841
+  },
+  {
+    "text": "is about to occur",
+    "start": 158.8,
+    "duration": 3.28
+  },
+  {
+    "text": "the haikanasi trading technique was",
+    "start": 160.16,
+    "duration": 3.12
+  },
+  {
+    "text": "developed by munich",
+    "start": 162.08,
+    "duration": 4.08
+  },
+  {
+    "text": "hama in the 1700s the technique shares",
+    "start": 163.28,
+    "duration": 4.16
+  },
+  {
+    "text": "some characteristics with the",
+    "start": 166.16,
+    "duration": 3.28
+  },
+  {
+    "text": "traditional candlestick charts used in",
+    "start": 167.44,
+    "duration": 2.56
+  },
+  {
+    "text": "trading",
+    "start": 169.44,
+    "duration": 2.32
+  },
+  {
+    "text": "but differs in how the values for",
+    "start": 170.0,
+    "duration": 3.519
+  },
+  {
+    "text": "candlesticks are computed",
+    "start": 171.76,
+    "duration": 4.16
+  },
+  {
+    "text": "in japan the word heiken means average",
+    "start": 173.519,
+    "duration": 3.281
+  },
+  {
+    "text": "for balance",
+    "start": 175.92,
+    "duration": 3.92
+  },
+  {
+    "text": "and the wordasi means bar per foot hence",
+    "start": 176.8,
+    "duration": 5.28
+  },
+  {
+    "text": "high kanasi means average bar resonating",
+    "start": 179.84,
+    "duration": 3.6
+  },
+  {
+    "text": "with the trading technique",
+    "start": 182.08,
+    "duration": 3.04
+  },
+  {
+    "text": "which uses the average price of the",
+    "start": 183.44,
+    "duration": 3.2
+  },
+  {
+    "text": "security",
+    "start": 185.12,
+    "duration": 3.36
+  },
+  {
+    "text": "the difference between hikanasi and",
+    "start": 186.64,
+    "duration": 3.84
+  },
+  {
+    "text": "traditional candlesticks",
+    "start": 188.48,
+    "duration": 3.28
+  },
+  {
+    "text": "the main difference between the",
+    "start": 190.48,
+    "duration": 3.2
+  },
+  {
+    "text": "traditional candlestick chart and the",
+    "start": 191.76,
+    "duration": 3.68
+  },
+  {
+    "text": "high kanasi chart is that the latter",
+    "start": 193.68,
+    "duration": 4.08
+  },
+  {
+    "text": "uses a modified formula based on two",
+    "start": 195.44,
+    "duration": 4.56
+  },
+  {
+    "text": "period moving averages instead of open",
+    "start": 197.76,
+    "duration": 5.28
+  },
+  {
+    "text": "high low and close prices hence",
+    "start": 200.0,
+    "duration": 5.12
+  },
+  {
+    "text": "the technique generates a smoother chart",
+    "start": 203.04,
+    "duration": 3.839
+  },
+  {
+    "text": "making it easier to spot trends and",
+    "start": 205.12,
+    "duration": 2.8
+  },
+  {
+    "text": "reversals",
+    "start": 206.879,
+    "duration": 3.521
+  },
+  {
+    "text": "the high kanasi charts also obscure gaps",
+    "start": 207.92,
+    "duration": 4.399
+  },
+  {
+    "text": "and some price data",
+    "start": 210.4,
+    "duration": 3.759
+  },
+  {
+    "text": "the left chart is using traditional",
+    "start": 212.319,
+    "duration": 3.84
+  },
+  {
+    "text": "candlestick bars",
+    "start": 214.159,
+    "duration": 3.761
+  },
+  {
+    "text": "and the right chart it's using high",
+    "start": 216.159,
+    "duration": 3.521
+  },
+  {
+    "text": "kanasi bars",
+    "start": 217.92,
+    "duration": 3.599
+  },
+  {
+    "text": "you can see that with the high canassi",
+    "start": 219.68,
+    "duration": 4.559
+  },
+  {
+    "text": "bars it's much more smoother",
+    "start": 221.519,
+    "duration": 4.64
+  },
+  {
+    "text": "this is why some traders prefer to use",
+    "start": 224.239,
+    "duration": 4.08
+  },
+  {
+    "text": "the haikanasi candles since it reduces",
+    "start": 226.159,
+    "duration": 3.36
+  },
+  {
+    "text": "the noise on the chart",
+    "start": 228.319,
+    "duration": 3.2
+  },
+  {
+    "text": "and allows them to analyze trends more",
+    "start": 229.519,
+    "duration": 3.121
+  },
+  {
+    "text": "clearly",
+    "start": 231.519,
+    "duration": 2.961
+  },
+  {
+    "text": "what makes haikanasi different from a",
+    "start": 232.64,
+    "duration": 3.679
+  },
+  {
+    "text": "traditional japanese candlestick",
+    "start": 234.48,
+    "duration": 3.839
+  },
+  {
+    "text": "chart is how the price is displayed in",
+    "start": 236.319,
+    "duration": 4.48
+  },
+  {
+    "text": "terms of the open and the close",
+    "start": 238.319,
+    "duration": 4.321
+  },
+  {
+    "text": "if you look closely at the heiken aussie",
+    "start": 240.799,
+    "duration": 3.44
+  },
+  {
+    "text": "chart you'll notice that each of the",
+    "start": 242.64,
+    "duration": 3.599
+  },
+  {
+    "text": "haikanasi candlesticks start from the",
+    "start": 244.239,
+    "duration": 3.92
+  },
+  {
+    "text": "middle of the candlestick before it and",
+    "start": 246.239,
+    "duration": 2.961
+  },
+  {
+    "text": "not from the level",
+    "start": 248.159,
+    "duration": 2.72
+  },
+  {
+    "text": "where the previous candlestick had",
+    "start": 249.2,
+    "duration": 4.8
+  },
+  {
+    "text": "closed high kanasi candlesticks act this",
+    "start": 250.879,
+    "duration": 6.961
+  },
+  {
+    "text": "way due to the way they are calculated",
+    "start": 254.0,
+    "duration": 3.84
+  },
+  {
+    "text": "if you're interested here's the",
+    "start": 259.28,
+    "duration": 4.24
+  },
+  {
+    "text": "calculation high kanasi close equals",
+    "start": 260.56,
+    "duration": 4.079
+  },
+  {
+    "text": "average of open",
+    "start": 263.52,
+    "duration": 6.239
+  },
+  {
+    "text": "high low and close",
+    "start": 264.639,
+    "duration": 7.28
+  },
+  {
+    "text": "high can i see open equals midpoint of",
+    "start": 269.759,
+    "duration": 5.44
+  },
+  {
+    "text": "previous high kanasi bar",
+    "start": 271.919,
+    "duration": 5.681
+  },
+  {
+    "text": "high kanasi high equals highest of high",
+    "start": 275.199,
+    "duration": 7.841
+  },
+  {
+    "text": "close and open",
+    "start": 277.6,
+    "duration": 7.76
+  },
+  {
+    "text": "high can i see low equals lowest of low",
+    "start": 283.04,
+    "duration": 5.36
+  },
+  {
+    "text": "close and open",
+    "start": 285.36,
+    "duration": 3.04
+  },
+  {
+    "text": "by the way please don't bother to",
+    "start": 291.759,
+    "duration": 3.44
+  },
+  {
+    "text": "memorize this formula",
+    "start": 293.44,
+    "duration": 3.52
+  },
+  {
+    "text": "and don't even think about trying to",
+    "start": 295.199,
+    "duration": 4.481
+  },
+  {
+    "text": "understand why it's calculated this way",
+    "start": 296.96,
+    "duration": 4.88
+  },
+  {
+    "text": "it will not help you be more profitable",
+    "start": 299.68,
+    "duration": 4.56
+  },
+  {
+    "text": "or help you become profitable at all",
+    "start": 301.84,
+    "duration": 4.079
+  },
+  {
+    "text": "just understand that it's meant to help",
+    "start": 304.24,
+    "duration": 4.239
+  },
+  {
+    "text": "you identify trends better in the market",
+    "start": 305.919,
+    "duration": 5.12
+  },
+  {
+    "text": "also don't mistake the haikanasi bars as",
+    "start": 308.479,
+    "duration": 4.801
+  },
+  {
+    "text": "a trading system because it's not",
+    "start": 311.039,
+    "duration": 3.921
+  },
+  {
+    "text": "if you go long whenever you see a",
+    "start": 313.28,
+    "duration": 3.759
+  },
+  {
+    "text": "bullish bar or go short whenever you see",
+    "start": 314.96,
+    "duration": 2.959
+  },
+  {
+    "text": "a bearish bar",
+    "start": 317.039,
+    "duration": 3.041
+  },
+  {
+    "text": "then you will go broke very quickly like",
+    "start": 317.919,
+    "duration": 3.441
+  },
+  {
+    "text": "the candlestick bars",
+    "start": 320.08,
+    "duration": 3.04
+  },
+  {
+    "text": "it's just giving you information on the",
+    "start": 321.36,
+    "duration": 4.48
+  },
+  {
+    "text": "market",
+    "start": 323.12,
+    "duration": 2.72
+  },
+  {
+    "text": "haikanasi price action patterns with",
+    "start": 325.919,
+    "duration": 4.0
+  },
+  {
+    "text": "candlestick bars",
+    "start": 328.8,
+    "duration": 2.959
+  },
+  {
+    "text": "you have many different types of price",
+    "start": 329.919,
+    "duration": 3.28
+  },
+  {
+    "text": "action patterns",
+    "start": 331.759,
+    "duration": 3.761
+  },
+  {
+    "text": "you have the doji gravestone doji and",
+    "start": 333.199,
+    "duration": 4.161
+  },
+  {
+    "text": "the dragonfly doji",
+    "start": 335.52,
+    "duration": 3.92
+  },
+  {
+    "text": "you have the pin bars you have the",
+    "start": 337.36,
+    "duration": 3.839
+  },
+  {
+    "text": "engulfing candlesticks",
+    "start": 339.44,
+    "duration": 4.4
+  },
+  {
+    "text": "and the list goes on and on there are",
+    "start": 341.199,
+    "duration": 4.641
+  },
+  {
+    "text": "literally tons and tons of candlestick",
+    "start": 343.84,
+    "duration": 3.52
+  },
+  {
+    "text": "patterns",
+    "start": 345.84,
+    "duration": 3.44
+  },
+  {
+    "text": "but with the high kanasi bars i've",
+    "start": 347.36,
+    "duration": 3.6
+  },
+  {
+    "text": "categorized them to just three main",
+    "start": 349.28,
+    "duration": 3.919
+  },
+  {
+    "text": "types of price action patterns",
+    "start": 350.96,
+    "duration": 5.6
+  },
+  {
+    "text": "first bullish bars with the bullish high",
+    "start": 353.199,
+    "duration": 4.401
+  },
+  {
+    "text": "kanasi bars",
+    "start": 356.56,
+    "duration": 2.72
+  },
+  {
+    "text": "you will notice that there's only a wick",
+    "start": 357.6,
+    "duration": 3.52
+  },
+  {
+    "text": "at the top of the bar but there's no",
+    "start": 359.28,
+    "duration": 3.6
+  },
+  {
+    "text": "wick at the bottom",
+    "start": 361.12,
+    "duration": 3.76
+  },
+  {
+    "text": "as long as this is an up bar with no",
+    "start": 362.88,
+    "duration": 3.92
+  },
+  {
+    "text": "wick at the bottom we consider this a",
+    "start": 364.88,
+    "duration": 4.64
+  },
+  {
+    "text": "bullish signal",
+    "start": 366.8,
+    "duration": 2.72
+  },
+  {
+    "text": "second bearish heikenosi bars",
+    "start": 373.28,
+    "duration": 6.16
+  },
+  {
+    "text": "the bearish hikanasi bars are simply the",
+    "start": 377.12,
+    "duration": 5.12
+  },
+  {
+    "text": "opposite of bullish high kanasi bars",
+    "start": 379.44,
+    "duration": 4.8
+  },
+  {
+    "text": "they have a wick at the bottom but not",
+    "start": 382.24,
+    "duration": 3.679
+  },
+  {
+    "text": "wick at the top",
+    "start": 384.24,
+    "duration": 3.76
+  },
+  {
+    "text": "as long as this is a down bar with no",
+    "start": 385.919,
+    "duration": 3.041
+  },
+  {
+    "text": "wick at the top",
+    "start": 388.0,
+    "duration": 7.84
+  },
+  {
+    "text": "we will consider this a bearish signal",
+    "start": 388.96,
+    "duration": 6.88
+  },
+  {
+    "text": "third indecision heiko nasi bars to",
+    "start": 396.4,
+    "duration": 5.2
+  },
+  {
+    "text": "simplify the haikanasi bars i've",
+    "start": 399.52,
+    "duration": 3.519
+  },
+  {
+    "text": "categorized all bars",
+    "start": 401.6,
+    "duration": 3.12
+  },
+  {
+    "text": "that have wicks at the top and bottom of",
+    "start": 403.039,
+    "duration": 3.801
+  },
+  {
+    "text": "the bars as an indecision hike in aussie",
+    "start": 404.72,
+    "duration": 3.28
+  },
+  {
+    "text": "bar",
+    "start": 406.84,
+    "duration": 3.16
+  },
+  {
+    "text": "so regardless of whether the bar color",
+    "start": 408.0,
+    "duration": 3.199
+  },
+  {
+    "text": "is bullish or bearish",
+    "start": 410.0,
+    "duration": 3.52
+  },
+  {
+    "text": "as long as there are wicks on both sides",
+    "start": 411.199,
+    "duration": 4.081
+  },
+  {
+    "text": "we will consider this an indecision high",
+    "start": 413.52,
+    "duration": 10.32
+  },
+  {
+    "text": "kanasi bar",
+    "start": 415.28,
+    "duration": 8.56
+  },
+  {
+    "text": "why use high kanasi bars now that you",
+    "start": 424.08,
+    "duration": 4.559
+  },
+  {
+    "text": "know what are high kanasi bars and you",
+    "start": 426.8,
+    "duration": 3.2
+  },
+  {
+    "text": "know the three different types of",
+    "start": 428.639,
+    "duration": 3.28
+  },
+  {
+    "text": "haikanasi price action patterns",
+    "start": 430.0,
+    "duration": 3.68
+  },
+  {
+    "text": "the question you might be asking right",
+    "start": 431.919,
+    "duration": 4.4
+  },
+  {
+    "text": "now is why use the high kanasi bars for",
+    "start": 433.68,
+    "duration": 3.76
+  },
+  {
+    "text": "our trading",
+    "start": 436.319,
+    "duration": 2.961
+  },
+  {
+    "text": "and the answer is because it helps make",
+    "start": 437.44,
+    "duration": 3.599
+  },
+  {
+    "text": "the trade entry and exit decision",
+    "start": 439.28,
+    "duration": 4.08
+  },
+  {
+    "text": "simpler",
+    "start": 441.039,
+    "duration": 4.641
+  },
+  {
+    "text": "and now how to enter into a trade using",
+    "start": 443.36,
+    "duration": 4.88
+  },
+  {
+    "text": "high kanasi bars",
+    "start": 445.68,
+    "duration": 4.48
+  },
+  {
+    "text": "while it might be tempting to go long",
+    "start": 448.24,
+    "duration": 3.519
+  },
+  {
+    "text": "whenever you see a bullish hike in",
+    "start": 450.16,
+    "duration": 2.64
+  },
+  {
+    "text": "aussie bar",
+    "start": 451.759,
+    "duration": 3.28
+  },
+  {
+    "text": "or go short whenever you see a bearish",
+    "start": 452.8,
+    "duration": 3.679
+  },
+  {
+    "text": "high kanasi bar",
+    "start": 455.039,
+    "duration": 4.56
+  },
+  {
+    "text": "please resist your urge to do so",
+    "start": 456.479,
+    "duration": 4.641
+  },
+  {
+    "text": "i know there are people out there",
+    "start": 459.599,
+    "duration": 3.6
+  },
+  {
+    "text": "teaching to do this but i know you're",
+    "start": 461.12,
+    "duration": 3.359
+  },
+  {
+    "text": "smarter than that",
+    "start": 463.199,
+    "duration": 3.44
+  },
+  {
+    "text": "so don't do it to have an edge trading",
+    "start": 464.479,
+    "duration": 3.921
+  },
+  {
+    "text": "the markets you need to have certain",
+    "start": 466.639,
+    "duration": 3.84
+  },
+  {
+    "text": "criteria to be met before entering into",
+    "start": 468.4,
+    "duration": 4.239
+  },
+  {
+    "text": "a trade",
+    "start": 470.479,
+    "duration": 5.12
+  },
+  {
+    "text": "buying rules or long position criteria",
+    "start": 472.639,
+    "duration": 4.161
+  },
+  {
+    "text": "number one",
+    "start": 475.599,
+    "duration": 2.961
+  },
+  {
+    "text": "the higher time frame must be in an",
+    "start": 476.8,
+    "duration": 4.32
+  },
+  {
+    "text": "uptrend what this means is that the high",
+    "start": 478.56,
+    "duration": 4.56
+  },
+  {
+    "text": "time frame has to be making higher highs",
+    "start": 481.12,
+    "duration": 3.68
+  },
+  {
+    "text": "and higher lows",
+    "start": 483.12,
+    "duration": 3.44
+  },
+  {
+    "text": "if you're trading the one hour chart",
+    "start": 484.8,
+    "duration": 3.44
+  },
+  {
+    "text": "then the higher time frame would be the",
+    "start": 486.56,
+    "duration": 3.28
+  },
+  {
+    "text": "four-hour chart",
+    "start": 488.24,
+    "duration": 3.679
+  },
+  {
+    "text": "and if you're trading the hour chart",
+    "start": 489.84,
+    "duration": 3.68
+  },
+  {
+    "text": "then the higher time frame would be the",
+    "start": 491.919,
+    "duration": 3.361
+  },
+  {
+    "text": "daily chart",
+    "start": 493.52,
+    "duration": 3.6
+  },
+  {
+    "text": "i don't like to trade any time frame",
+    "start": 495.28,
+    "duration": 3.68
+  },
+  {
+    "text": "lower than the one hour chart",
+    "start": 497.12,
+    "duration": 4.0
+  },
+  {
+    "text": "because not only is it tiring to watch",
+    "start": 498.96,
+    "duration": 3.84
+  },
+  {
+    "text": "but the commissions and spread will eat",
+    "start": 501.12,
+    "duration": 3.44
+  },
+  {
+    "text": "away a significant amount of your edge",
+    "start": 502.8,
+    "duration": 3.76
+  },
+  {
+    "text": "at lower time frames",
+    "start": 504.56,
+    "duration": 4.079
+  },
+  {
+    "text": "but that is not to say that it's not",
+    "start": 506.56,
+    "duration": 4.4
+  },
+  {
+    "text": "profitable trading lower time frames",
+    "start": 508.639,
+    "duration": 4.241
+  },
+  {
+    "text": "it's just more difficult because your",
+    "start": 510.96,
+    "duration": 3.439
+  },
+  {
+    "text": "spread and commission would be a bigger",
+    "start": 512.88,
+    "duration": 3.519
+  },
+  {
+    "text": "percentage of your trade parameters than",
+    "start": 514.399,
+    "duration": 4.401
+  },
+  {
+    "text": "in the higher time frames",
+    "start": 516.399,
+    "duration": 5.12
+  },
+  {
+    "text": "criteria number two the 10 exponential",
+    "start": 518.8,
+    "duration": 4.32
+  },
+  {
+    "text": "moving average is above the 30",
+    "start": 521.519,
+    "duration": 3.361
+  },
+  {
+    "text": "exponential moving average",
+    "start": 523.12,
+    "duration": 3.92
+  },
+  {
+    "text": "i use the 10 email and 30 ema to",
+    "start": 524.88,
+    "duration": 5.68
+  },
+  {
+    "text": "determine the momentum of the trend",
+    "start": 527.04,
+    "duration": 5.84
+  },
+  {
+    "text": "criteria number three the time frame",
+    "start": 530.56,
+    "duration": 3.76
+  },
+  {
+    "text": "you're trading on must have both",
+    "start": 532.88,
+    "duration": 3.76
+  },
+  {
+    "text": "criteria one and two as well",
+    "start": 534.32,
+    "duration": 4.24
+  },
+  {
+    "text": "once there are these three criteria in",
+    "start": 536.64,
+    "duration": 3.84
+  },
+  {
+    "text": "place i will look to go long",
+    "start": 538.56,
+    "duration": 3.839
+  },
+  {
+    "text": "when the price bounces off either of the",
+    "start": 540.48,
+    "duration": 3.6
+  },
+  {
+    "text": "exponential moving averages",
+    "start": 542.399,
+    "duration": 3.521
+  },
+  {
+    "text": "and the first bullish high kanasi is",
+    "start": 544.08,
+    "duration": 4.319
+  },
+  {
+    "text": "formed at a higher low like this",
+    "start": 545.92,
+    "duration": 4.4
+  },
+  {
+    "text": "then place stop loss below the low of",
+    "start": 548.399,
+    "duration": 4.961
+  },
+  {
+    "text": "the current swing low",
+    "start": 550.32,
+    "duration": 3.04
+  },
+  {
+    "text": "criteria for a short trade now that we",
+    "start": 557.2,
+    "duration": 4.8
+  },
+  {
+    "text": "know the criteria for a long",
+    "start": 560.48,
+    "duration": 3.76
+  },
+  {
+    "text": "trade the criteria to get into a short",
+    "start": 562.0,
+    "duration": 5.92
+  },
+  {
+    "text": "trade is just simply the opposite",
+    "start": 564.24,
+    "duration": 3.68
+  },
+  {
+    "text": "criteria number one the higher time",
+    "start": 568.399,
+    "duration": 4.241
+  },
+  {
+    "text": "frame must be in a downtrend",
+    "start": 570.959,
+    "duration": 3.841
+  },
+  {
+    "text": "this is denoted by price forming lower",
+    "start": 572.64,
+    "duration": 5.199
+  },
+  {
+    "text": "highs and lower lows",
+    "start": 574.8,
+    "duration": 3.039
+  },
+  {
+    "text": "criteria number two the 10 exponential",
+    "start": 578.16,
+    "duration": 4.48
+  },
+  {
+    "text": "moving average is below the 30",
+    "start": 581.04,
+    "duration": 3.52
+  },
+  {
+    "text": "exponential moving average",
+    "start": 582.64,
+    "duration": 3.759
+  },
+  {
+    "text": "this is straightforward and you should",
+    "start": 584.56,
+    "duration": 3.92
+  },
+  {
+    "text": "have no difficulties identifying this on",
+    "start": 586.399,
+    "duration": 4.161
+  },
+  {
+    "text": "your chart by now",
+    "start": 588.48,
+    "duration": 4.96
+  },
+  {
+    "text": "criteria number three the time frame",
+    "start": 590.56,
+    "duration": 4.24
+  },
+  {
+    "text": "you're trading on must have both",
+    "start": 593.44,
+    "duration": 3.36
+  },
+  {
+    "text": "criteria one and two as well",
+    "start": 594.8,
+    "duration": 4.159
+  },
+  {
+    "text": "once you have all three criteria i will",
+    "start": 596.8,
+    "duration": 3.2
+  },
+  {
+    "text": "look to go short",
+    "start": 598.959,
+    "duration": 2.88
+  },
+  {
+    "text": "when price bounces off either of the",
+    "start": 600.0,
+    "duration": 3.519
+  },
+  {
+    "text": "exponential moving averages",
+    "start": 601.839,
+    "duration": 3.521
+  },
+  {
+    "text": "and the first bearish high kanasi is",
+    "start": 603.519,
+    "duration": 5.041
+  },
+  {
+    "text": "formed at a lower high",
+    "start": 605.36,
+    "duration": 3.2
+  },
+  {
+    "text": "how to exit a trade using high kanasi",
+    "start": 614.24,
+    "duration": 3.36
+  },
+  {
+    "text": "bars",
+    "start": 616.399,
+    "duration": 3.281
+  },
+  {
+    "text": "as for exit because this is a trend",
+    "start": 617.6,
+    "duration": 4.4
+  },
+  {
+    "text": "trading play we want to exit only once",
+    "start": 619.68,
+    "duration": 4.24
+  },
+  {
+    "text": "the price has formed an opposite hike in",
+    "start": 622.0,
+    "duration": 3.04
+  },
+  {
+    "text": "aussie bar",
+    "start": 623.92,
+    "duration": 3.359
+  },
+  {
+    "text": "so for long trades we only want to exit",
+    "start": 625.04,
+    "duration": 4.799
+  },
+  {
+    "text": "when a bearish high kanasi bar is formed",
+    "start": 627.279,
+    "duration": 4.56
+  },
+  {
+    "text": "and for short trades we only want to",
+    "start": 629.839,
+    "duration": 4.081
+  },
+  {
+    "text": "exit when a bullish high kanasi bar is",
+    "start": 631.839,
+    "duration": 2.961
+  },
+  {
+    "text": "formed",
+    "start": 633.92,
+    "duration": 2.88
+  },
+  {
+    "text": "as you can tell it becomes so much",
+    "start": 634.8,
+    "duration": 4.159
+  },
+  {
+    "text": "simpler to determine when to exit",
+    "start": 636.8,
+    "duration": 4.64
+  },
+  {
+    "text": "now sometimes if you are in a long trade",
+    "start": 638.959,
+    "duration": 4.481
+  },
+  {
+    "text": "you will get faked out of your position",
+    "start": 641.44,
+    "duration": 4.56
+  },
+  {
+    "text": "because a bearish high kanasi bar only",
+    "start": 643.44,
+    "duration": 4.32
+  },
+  {
+    "text": "to see the next bar become a bullish",
+    "start": 646.0,
+    "duration": 3.2
+  },
+  {
+    "text": "hike in aussie bar",
+    "start": 647.76,
+    "duration": 4.16
+  },
+  {
+    "text": "or vice versa if you're in a short trade",
+    "start": 649.2,
+    "duration": 4.24
+  },
+  {
+    "text": "but that's fine",
+    "start": 651.92,
+    "duration": 3.12
+  },
+  {
+    "text": "there's no way you're going to catch",
+    "start": 653.44,
+    "duration": 4.0
+  },
+  {
+    "text": "every single bit of every trend there is",
+    "start": 655.04,
+    "duration": 4.32
+  },
+  {
+    "text": "ultimately if you are profitable from",
+    "start": 657.44,
+    "duration": 3.839
+  },
+  {
+    "text": "your trades as a whole over a series of",
+    "start": 659.36,
+    "duration": 2.479
+  },
+  {
+    "text": "trades",
+    "start": 661.279,
+    "duration": 3.761
+  },
+  {
+    "text": "then that's all that matters",
+    "start": 661.839,
+    "duration": 3.201
+  },
+  {
+    "text": "trading examples all right",
+    "start": 665.839,
+    "duration": 5.68
+  },
+  {
+    "text": "enough theory here's a trade example to",
+    "start": 669.04,
+    "duration": 4.479
+  },
+  {
+    "text": "show you exactly how to enter an exit",
+    "start": 671.519,
+    "duration": 4.161
+  },
+  {
+    "text": "into a short trade",
+    "start": 673.519,
+    "duration": 4.241
+  },
+  {
+    "text": "in this chart you can see that the",
+    "start": 675.68,
+    "duration": 3.68
+  },
+  {
+    "text": "market formed a lower high",
+    "start": 677.76,
+    "duration": 3.519
+  },
+  {
+    "text": "and bounced off the 30 exponential",
+    "start": 679.36,
+    "duration": 3.2
+  },
+  {
+    "text": "moving average",
+    "start": 681.279,
+    "duration": 3.521
+  },
+  {
+    "text": "once you see that happen the next step",
+    "start": 682.56,
+    "duration": 4.24
+  },
+  {
+    "text": "is to wait for a bearish high kanasi bar",
+    "start": 684.8,
+    "duration": 2.88
+  },
+  {
+    "text": "to form",
+    "start": 686.8,
+    "duration": 3.039
+  },
+  {
+    "text": "when it's formed go short at the close",
+    "start": 687.68,
+    "duration": 3.279
+  },
+  {
+    "text": "of the bar",
+    "start": 689.839,
+    "duration": 3.041
+  },
+  {
+    "text": "from there the market dropped pretty",
+    "start": 690.959,
+    "duration": 4.241
+  },
+  {
+    "text": "quickly and indecision heiken asi bars",
+    "start": 692.88,
+    "duration": 3.68
+  },
+  {
+    "text": "started to form",
+    "start": 695.2,
+    "duration": 3.28
+  },
+  {
+    "text": "this is not a good reason to get out",
+    "start": 696.56,
+    "duration": 3.76
+  },
+  {
+    "text": "because it could just be consolidating",
+    "start": 698.48,
+    "duration": 4.0
+  },
+  {
+    "text": "before the price goes down again",
+    "start": 700.32,
+    "duration": 4.56
+  },
+  {
+    "text": "however in this case the price did not",
+    "start": 702.48,
+    "duration": 3.84
+  },
+  {
+    "text": "go down further",
+    "start": 704.88,
+    "duration": 3.76
+  },
+  {
+    "text": "instead a bullish hikanasi bar was",
+    "start": 706.32,
+    "duration": 4.079
+  },
+  {
+    "text": "formed and that means to get out of the",
+    "start": 708.64,
+    "duration": 5.12
+  },
+  {
+    "text": "trade at the close of the bar",
+    "start": 710.399,
+    "duration": 5.12
+  },
+  {
+    "text": "here's a trade example of how to get",
+    "start": 713.76,
+    "duration": 4.72
+  },
+  {
+    "text": "into a long trade",
+    "start": 715.519,
+    "duration": 4.88
+  },
+  {
+    "text": "in this chart you can see on the left",
+    "start": 718.48,
+    "duration": 3.919
+  },
+  {
+    "text": "hand side that the price has spiked up",
+    "start": 720.399,
+    "duration": 2.88
+  },
+  {
+    "text": "pretty quickly",
+    "start": 722.399,
+    "duration": 2.88
+  },
+  {
+    "text": "and then started consolidating",
+    "start": 723.279,
+    "duration": 4.0
+  },
+  {
+    "text": "consolidation in an uptrend is a good",
+    "start": 725.279,
+    "duration": 3.761
+  },
+  {
+    "text": "sign because this could mean that price",
+    "start": 727.279,
+    "duration": 3.201
+  },
+  {
+    "text": "can go up further",
+    "start": 729.04,
+    "duration": 3.359
+  },
+  {
+    "text": "and the market did bounce off the 10",
+    "start": 730.48,
+    "duration": 3.44
+  },
+  {
+    "text": "exponential moving average",
+    "start": 732.399,
+    "duration": 3.601
+  },
+  {
+    "text": "and formed the first bullish hykenasi",
+    "start": 733.92,
+    "duration": 4.64
+  },
+  {
+    "text": "bar go long at the close of the bar",
+    "start": 736.0,
+    "duration": 4.32
+  },
+  {
+    "text": "price did go up further before an",
+    "start": 738.56,
+    "duration": 4.24
+  },
+  {
+    "text": "indecision high kanasi bar is formed",
+    "start": 740.32,
+    "duration": 4.319
+  },
+  {
+    "text": "immediately after the first indecision",
+    "start": 742.8,
+    "duration": 3.52
+  },
+  {
+    "text": "high canassi bar is formed",
+    "start": 744.639,
+    "duration": 3.521
+  },
+  {
+    "text": "the next bar after that is a bearish",
+    "start": 746.32,
+    "duration": 3.28
+  },
+  {
+    "text": "haikanasi bar",
+    "start": 748.16,
+    "duration": 3.04
+  },
+  {
+    "text": "that's the signal to exit out of the",
+    "start": 749.6,
+    "duration": 4.0
+  },
+  {
+    "text": "trade and fortunately for us",
+    "start": 751.2,
+    "duration": 4.639
+  },
+  {
+    "text": "price did eventually go much lower after",
+    "start": 753.6,
+    "duration": 3.679
+  },
+  {
+    "text": "we exited the trade",
+    "start": 755.839,
+    "duration": 3.601
+  },
+  {
+    "text": "however not all trades are going to be",
+    "start": 757.279,
+    "duration": 3.36
+  },
+  {
+    "text": "like this",
+    "start": 759.44,
+    "duration": 2.959
+  },
+  {
+    "text": "as i've said this a number of times",
+    "start": 760.639,
+    "duration": 3.361
+  },
+  {
+    "text": "already it doesn't matter",
+    "start": 762.399,
+    "duration": 3.361
+  },
+  {
+    "text": "if you do not catch the whole movement",
+    "start": 764.0,
+    "duration": 4.72
+  },
+  {
+    "text": "of the trend it's impossible to do so",
+    "start": 765.76,
+    "duration": 4.96
+  },
+  {
+    "text": "what you can only do is take whatever",
+    "start": 768.72,
+    "duration": 3.359
+  },
+  {
+    "text": "you can based on your trading",
+    "start": 770.72,
+    "duration": 3.2
+  },
+  {
+    "text": "system and in the long run that will",
+    "start": 772.079,
+    "duration": 4.081
+  },
+  {
+    "text": "lead you to profitability",
+    "start": 773.92,
+    "duration": 4.24
+  },
+  {
+    "text": "here are other examples of haikanasi",
+    "start": 776.16,
+    "duration": 10.1
+  },
+  {
+    "text": "trading strategy",
+    "start": 778.16,
+    "duration": 12.229
+  },
+  {
+    "text": "[Music]",
+    "start": 786.26,
+    "duration": 4.129
+  },
+  {
+    "text": "[Music]",
+    "start": 794.91,
+    "duration": 5.12
+  },
+  {
+    "text": "so",
+    "start": 798.839,
+    "duration": 7.711
+  },
+  {
+    "text": "[Music]",
+    "start": 800.03,
+    "duration": 6.52
+  },
+  {
+    "text": "[Music]",
+    "start": 810.2,
+    "duration": 3.9
+  },
+  {
+    "text": "do",
+    "start": 812.839,
+    "duration": 14.0
+  },
+  {
+    "text": "[Music]",
+    "start": 814.1,
+    "duration": 15.739
+  },
+  {
+    "text": "do",
+    "start": 826.839,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 835.06,
+    "duration": 5.57
+  },
+  {
+    "text": "so",
+    "start": 840.839,
+    "duration": 13.03
+  },
+  {
+    "text": "[Music]",
+    "start": 843.17,
+    "duration": 10.699
+  },
+  {
+    "text": "so",
+    "start": 854.839,
+    "duration": 17.241
+  },
+  {
+    "text": "[Music]",
+    "start": 857.3,
+    "duration": 14.89
+  },
+  {
+    "text": "[Applause]",
+    "start": 872.08,
+    "duration": 24.759
+  },
+  {
+    "text": "[Music]",
+    "start": 872.19,
+    "duration": 26.77
+  },
+  {
+    "text": "so",
+    "start": 896.839,
+    "duration": 17.351
+  },
+  {
+    "text": "[Music]",
+    "start": 898.96,
+    "duration": 15.23
+  },
+  {
+    "text": "[Music]",
+    "start": 916.69,
+    "duration": 20.51
+  },
+  {
+    "text": "high kanasi bars are great because they",
+    "start": 937.839,
+    "duration": 3.92
+  },
+  {
+    "text": "smooth the price action",
+    "start": 940.16,
+    "duration": 3.76
+  },
+  {
+    "text": "as a result much of the noise shown in",
+    "start": 941.759,
+    "duration": 4.161
+  },
+  {
+    "text": "traditional japanese candlesticks",
+    "start": 943.92,
+    "duration": 4.159
+  },
+  {
+    "text": "is eliminated with high kanasi charting",
+    "start": 945.92,
+    "duration": 3.919
+  },
+  {
+    "text": "and it helps make the trade entry and",
+    "start": 948.079,
+    "duration": 3.521
+  },
+  {
+    "text": "exit decision simpler",
+    "start": 949.839,
+    "duration": 4.721
+  },
+  {
+    "text": "as always if you learn something new or",
+    "start": 951.6,
+    "duration": 5.039
+  },
+  {
+    "text": "if you want more videos more often",
+    "start": 954.56,
+    "duration": 3.839
+  },
+  {
+    "text": "make sure you subscribe click the",
+    "start": 956.639,
+    "duration": 3.921
+  },
+  {
+    "text": "notification bell and leave us a like to",
+    "start": 958.399,
+    "duration": 3.44
+  },
+  {
+    "text": "show your support",
+    "start": 960.56,
+    "duration": 7.5
+  },
+  {
+    "text": "see you next time",
+    "start": 961.839,
+    "duration": 14.101
+  },
+  {
+    "text": "[Music]",
+    "start": 968.06,
+    "duration": 7.88
+  },
+  {
+    "text": "do",
+    "start": 980.839,
+    "duration": 4.201
+  },
+  {
+    "text": "you",
+    "start": 982.959,
+    "duration": 2.081
+  }
+]

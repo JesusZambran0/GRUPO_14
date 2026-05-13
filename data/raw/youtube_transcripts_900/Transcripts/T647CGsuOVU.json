@@ -1,0 +1,507 @@
+[
+  {
+    "text": "Imaginary Numbers Are Real [Part 1: Introduction]",
+    "start": 0.0,
+    "duration": 0.5
+  },
+  {
+    "text": "Let's say we're given the function f(x) = x^2 + 1.",
+    "start": 0.5,
+    "duration": 3.5
+  },
+  {
+    "text": "We can graph our function and get a nice parabola.",
+    "start": 4.0,
+    "duration": 3.5
+  },
+  {
+    "text": "Now let's say we want to figure out where the equation equals zero",
+    "start": 7.5,
+    "duration": 3.5
+  },
+  {
+    "text": "we want to find the roots.",
+    "start": 11.0,
+    "duration": 2.0
+  },
+  {
+    "text": "On our plot this should be where the function crosses the x-axis.",
+    "start": 13.0,
+    "duration": 4.0
+  },
+  {
+    "text": "As we can see, our parabola actually never crosses the x-axis,",
+    "start": 17.0,
+    "duration": 3.5
+  },
+  {
+    "text": "so according to our plot, there are no solutions to the equation x^2+1=0.",
+    "start": 20.5,
+    "duration": 6.0
+  },
+  {
+    "text": "But there's a small problem.",
+    "start": 26.5,
+    "duration": 2.0
+  },
+  {
+    "text": "A little over 200 years ago a smart guy named Gauss",
+    "start": 28.5,
+    "duration": 3.0
+  },
+  {
+    "text": "proved  that every polynomial equation of degree n",
+    "start": 31.5,
+    "duration": 4.0
+  },
+  {
+    "text": "has exactly n roots.",
+    "start": 35.5,
+    "duration": 1.4
+  },
+  {
+    "text": "Our polynomial has a highest power, or degree, of two,",
+    "start": 36.9,
+    "duration": 4.1
+  },
+  {
+    "text": "so we should have two roots.",
+    "start": 41.0,
+    "duration": 2.0
+  },
+  {
+    "text": "And Gauss' discovery is not just some random rule,",
+    "start": 43.0,
+    "duration": 3.0
+  },
+  {
+    "text": "today we call it the FUNDAMENTAL THEOREM OF ALGEBRA.",
+    "start": 46.0,
+    "duration": 3.22
+  },
+  {
+    "text": "So our plot seems to disagree with something so important it's called the FUNDAMENTAL THEOREM OF ALGEBRA,",
+    "start": 49.22,
+    "duration": 5.78
+  },
+  {
+    "text": "which might be a problem.",
+    "start": 55.0,
+    "duration": 2.44
+  },
+  {
+    "text": "What Guass is telling us here, is that there are two perfectly good values of x",
+    "start": 57.44,
+    "duration": 5.4
+  },
+  {
+    "text": "that we could plug into our function, and get zero out.",
+    "start": 62.84,
+    "duration": 2.0
+  },
+  {
+    "text": "Where could these 2 missing roots be?",
+    "start": 64.84,
+    "duration": 2.0
+  },
+  {
+    "text": "The short answer here is that we don't have enough numbers.",
+    "start": 66.84,
+    "duration": 3.56
+  },
+  {
+    "text": "We typically think of numbers existing on a 1 dimensional continuum - the number line.",
+    "start": 70.4,
+    "duration": 4.66
+  },
+  {
+    "text": "All our friends are here: 0, 1,",
+    "start": 75.06,
+    "duration": 2.0
+  },
+  {
+    "text": "negative numbers, fractions, even irrational numbers like root 2 show up.",
+    "start": 77.06,
+    "duration": 5.14
+  },
+  {
+    "text": "But this system is incomplete.",
+    "start": 82.2,
+    "duration": 2.0
+  },
+  {
+    "text": "And our missing numbers are not just further left or right,",
+    "start": 84.2,
+    "duration": 4.0
+  },
+  {
+    "text": "they live in a whole new dimension.",
+    "start": 88.2,
+    "duration": 2.0
+  },
+  {
+    "text": "Algebraically, this new dimension",
+    "start": 90.2,
+    "duration": 2.34
+  },
+  {
+    "text": "has everything to do with a problem that was mathematically considered impossible for over two thousand years:",
+    "start": 92.54,
+    "duration": 5.06
+  },
+  {
+    "text": "the square root of negative one.",
+    "start": 97.6,
+    "duration": 2.0
+  },
+  {
+    "text": "When we include this missing dimension in our analysis,",
+    "start": 99.6,
+    "duration": 3.0
+  },
+  {
+    "text": "our parabola gets way more interesting.",
+    "start": 102.6,
+    "duration": 3.0
+  },
+  {
+    "text": "Now that our input numbers are in their full two dimensional form,",
+    "start": 105.6,
+    "duration": 3.24
+  },
+  {
+    "text": "we see how our function x^2+1 really behaves.",
+    "start": 108.84,
+    "duration": 3.74
+  },
+  {
+    "text": "And we can now see that our function does have exactly two roots!",
+    "start": 112.58,
+    "duration": 3.1
+  },
+  {
+    "text": "We were just looking in the wrong dimension.",
+    "start": 115.68,
+    "duration": 2.66
+  },
+  {
+    "text": "So, why is this extra dimension that numbers possess not common knowledge?",
+    "start": 118.34,
+    "duration": 4.5
+  },
+  {
+    "text": "Part of this reason is that it has been given a terrible, terrible name.",
+    "start": 122.84,
+    "duration": 3.36
+  },
+  {
+    "text": "A name that suggest that these numbers aren't ever real!",
+    "start": 126.2,
+    "duration": 3.18
+  },
+  {
+    "text": "In fact, Gauss himself had something to say about this naming convention.",
+    "start": 129.38,
+    "duration": 4.28
+  },
+  {
+    "text": " ",
+    "start": 133.66,
+    "duration": 4.28
+  },
+  {
+    "text": " ",
+    "start": 137.94,
+    "duration": 4.52
+  },
+  {
+    "text": " ",
+    "start": 142.46,
+    "duration": 4.04
+  },
+  {
+    "text": " ",
+    "start": 146.5,
+    "duration": 4.94
+  },
+  {
+    "text": "So yes, this missing dimension is comprised of numbers that have been given ridiculous name imaginary.",
+    "start": 151.44,
+    "duration": 6.16
+  },
+  {
+    "text": "Gauss proposed these numbers should instead be given the name lateral",
+    "start": 157.6,
+    "duration": 3.96
+  },
+  {
+    "text": "so from here on, let's let lateral mean imaginary.",
+    "start": 161.56,
+    "duration": 2.56
+  },
+  {
+    "text": "To get a better handle on imaginary,",
+    "start": 164.12,
+    "duration": 2.1
+  },
+  {
+    "text": "I mean, lateral numbers,",
+    "start": 166.22,
+    "duration": 2.44
+  },
+  {
+    "text": "and really understand what's going on here,",
+    "start": 168.66,
+    "duration": 2.94
+  },
+  {
+    "text": "let's spend a little time thinking about numbers.",
+    "start": 171.6,
+    "duration": 2.74
+  },
+  {
+    "text": "Early humans really only had use for the natural numbers, that is 1, 2, 3, and so on.",
+    "start": 174.34,
+    "duration": 5.56
+  },
+  {
+    "text": "This makes sense because of how numbers were used.",
+    "start": 179.9,
+    "duration": 3.02
+  },
+  {
+    "text": "So to early humans, the number line would have just been a series of dots.",
+    "start": 182.92,
+    "duration": 3.8
+  },
+  {
+    "text": "As civilizations advanced,",
+    "start": 186.72,
+    "duration": 2.0
+  },
+  {
+    "text": "people needed answers to more sophisticated math questions –",
+    "start": 188.72,
+    "duration": 3.26
+  },
+  {
+    "text": "like when to plant seeds,",
+    "start": 191.98,
+    "duration": 1.92
+  },
+  {
+    "text": "how to divide land, and how to keep track of financial transactions.",
+    "start": 193.9,
+    "duration": 3.5
+  },
+  {
+    "text": "The natural numbers just weren’t cutting it anymore,",
+    "start": 197.4,
+    "duration": 2.52
+  },
+  {
+    "text": "so the Egyptians innovated",
+    "start": 199.92,
+    "duration": 1.4
+  },
+  {
+    "text": "and developed a new, high tech solution: fractions.",
+    "start": 201.32,
+    "duration": 3.32
+  },
+  {
+    "text": "Fractions filled in the gaps in our number line,",
+    "start": 204.64,
+    "duration": 2.46
+  },
+  {
+    "text": "and were basically cutting edge technology for a couple thousand years.",
+    "start": 207.1,
+    "duration": 3.56
+  },
+  {
+    "text": "The next big innovations to hit the number line were the number zero and negative numbers,",
+    "start": 210.66,
+    "duration": 4.6
+  },
+  {
+    "text": "but it took some time to get everyone on board.",
+    "start": 215.26,
+    "duration": 2.84
+  },
+  {
+    "text": "Since it’s not obvious what these numbers mean",
+    "start": 218.1,
+    "duration": 2.82
+  },
+  {
+    "text": "or how they fit into the real world,",
+    "start": 220.92,
+    "duration": 1.86
+  },
+  {
+    "text": "zero and negative numbers were met with skepticism,",
+    "start": 222.78,
+    "duration": 2.18
+  },
+  {
+    "text": "and largely avoided or ignored.",
+    "start": 224.96,
+    "duration": 2.18
+  },
+  {
+    "text": "Some cultures were more suspicious than others,",
+    "start": 227.14,
+    "duration": 2.44
+  },
+  {
+    "text": "depending largely on how people viewed the connection between mathematics and reality.",
+    "start": 229.58,
+    "duration": 4.2
+  },
+  {
+    "text": "And this is not all ancient history -",
+    "start": 233.78,
+    "duration": 2.36
+  },
+  {
+    "text": "just a few centuries ago,",
+    "start": 236.14,
+    "duration": 1.38
+  },
+  {
+    "text": "mathematicians would intentionally move terms around to avoid having negatives show up in equations.",
+    "start": 237.62,
+    "duration": 4.98
+  },
+  {
+    "text": "Suspicion of zero and negative numbers did eventually fade -",
+    "start": 242.6,
+    "duration": 3.86
+  },
+  {
+    "text": "partially because negatives are useful for expressing concepts like debt,",
+    "start": 246.46,
+    "duration": 3.84
+  },
+  {
+    "text": "but mostly because negatives just kept sneaking into mathematics.",
+    "start": 250.3,
+    "duration": 3.74
+  },
+  {
+    "text": "It turns out there’s just a whole lot of math you just can’t do",
+    "start": 254.04,
+    "duration": 3.3
+  },
+  {
+    "text": "if you don’t allow negative numbers to play.",
+    "start": 257.42,
+    "duration": 2.5
+  },
+  {
+    "text": "Without negatives, simple algebra problems like x + 3 = 2 have no answer.",
+    "start": 259.92,
+    "duration": 4.94
+  },
+  {
+    "text": "Before negatives were accepted,",
+    "start": 264.86,
+    "duration": 2.0
+  },
+  {
+    "text": "this problem would have no solution,",
+    "start": 266.86,
+    "duration": 2.26
+  },
+  {
+    "text": "just like we thought our original problem had no solution.",
+    "start": 269.12,
+    "duration": 2.78
+  },
+  {
+    "text": "The thing is, it’s not crazy or weird to think problems like this have no solutions –",
+    "start": 271.9,
+    "duration": 3.98
+  },
+  {
+    "text": "in words, this algebra problem basically says:",
+    "start": 275.88,
+    "duration": 2.86
+  },
+  {
+    "text": "“if I have 2 things and I take away 3, how many things do I have left?”",
+    "start": 278.74,
+    "duration": 4.48
+  },
+  {
+    "text": "It’s not surprising that most of the people who have lived on our planet would be suspicious of questions like this.",
+    "start": 283.22,
+    "duration": 5.64
+  },
+  {
+    "text": "These problems don’t make much sense.",
+    "start": 288.86,
+    "duration": 2.44
+  },
+  {
+    "text": "Even brilliant mathematicians of the 18th century, such as Leonard Euler,",
+    "start": 291.3,
+    "duration": 4.16
+  },
+  {
+    "text": "didn’t really know what to do with negatives",
+    "start": 295.46,
+    "duration": 2.04
+  },
+  {
+    "text": "he at one point wrote that negatives were greater than infinity.",
+    "start": 297.5,
+    "duration": 3.46
+  },
+  {
+    "text": "So it’s fair to say that",
+    "start": 300.96,
+    "duration": 1.4
+  },
+  {
+    "text": "negative and imaginary numbers raise a lot of very good, very valid questions.",
+    "start": 302.36,
+    "duration": 4.6
+  },
+  {
+    "text": "Like why do we require students to understand and work with numbers",
+    "start": 306.96,
+    "duration": 3.5
+  },
+  {
+    "text": "that eluded the greatest mathmatical minds for thousands of years?",
+    "start": 310.46,
+    "duration": 3.42
+  },
+  {
+    "text": "Why did we even come accept negative and imaginary numbers in the first place,",
+    "start": 314.56,
+    "duration": 3.48
+  },
+  {
+    "text": "when they don’t really seem connected to anything in the real world?",
+    "start": 318.04,
+    "duration": 3.52
+  },
+  {
+    "text": "And how do these extra numbers help explain the missing solutions to our problem?",
+    "start": 321.56,
+    "duration": 4.16
+  },
+  {
+    "text": "Next time, we’ll begin to address these questions",
+    "start": 325.72,
+    "duration": 2.3
+  },
+  {
+    "text": "by going way back to the discovery of imaginary numbers.",
+    "start": 328.02,
+    "duration": 3.02
+  }
+]

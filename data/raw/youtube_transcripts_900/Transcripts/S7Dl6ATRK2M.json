@@ -1,0 +1,807 @@
+[
+  {
+    "text": "it's time for game job",
+    "start": 1.36,
+    "duration": 4.0
+  },
+  {
+    "text": "what's uh what's a game jam i don't\nthink i'm hi",
+    "start": 7.759,
+    "duration": 3.361
+  },
+  {
+    "text": "over here\na game jam is where you compete against",
+    "start": 11.12,
+    "duration": 7.76
+  },
+  {
+    "text": "others to create a game as fast as you\ncan within a given time limit",
+    "start": 18.88,
+    "duration": 4.08
+  },
+  {
+    "text": "i've made like 100 videos on different\ngame jams already but i can still milk",
+    "start": 22.96,
+    "duration": 4.079
+  },
+  {
+    "text": "this cow a little more and\ni just so happen to like milk so i can't",
+    "start": 27.039,
+    "duration": 4.4
+  },
+  {
+    "text": "stop it anytime soon\ntoday is bracky's game jam with about 9",
+    "start": 31.439,
+    "duration": 4.401
+  },
+  {
+    "text": "000\nother participants making it the second",
+    "start": 35.84,
+    "duration": 2.64
+  },
+  {
+    "text": "largest jam in the entire\nworld right next to my grandma's jam",
+    "start": 38.48,
+    "duration": 4.32
+  },
+  {
+    "text": "because my god\nthat's one hell of a jab anyway let's",
+    "start": 42.8,
+    "duration": 3.68
+  },
+  {
+    "text": "get started on our game this is going to\nbe fun",
+    "start": 46.48,
+    "duration": 2.239
+  },
+  {
+    "text": "so before we get to it i'm just going to\ngo ahead and move across the entire",
+    "start": 48.719,
+    "duration": 4.0
+  },
+  {
+    "text": "goddamn\nonto nintendo drive see you later nerds",
+    "start": 52.719,
+    "duration": 4.801
+  },
+  {
+    "text": "what's up boys why is there so many\nboxes everywhere i'll just go to ikea",
+    "start": 57.52,
+    "duration": 4.32
+  },
+  {
+    "text": "buy some furniture\nno god there's more boxes now",
+    "start": 61.84,
+    "duration": 4.4
+  },
+  {
+    "text": "i'm i'm gonna go sleep so i woke up four\ndays later and uh",
+    "start": 66.24,
+    "duration": 3.919
+  },
+  {
+    "text": "it seems we only have three days left to\nfinish a seven day game",
+    "start": 70.159,
+    "duration": 4.32
+  },
+  {
+    "text": "but that's no problem if i just don't\nsleep so i busted out the vitamin bears",
+    "start": 74.479,
+    "duration": 4.881
+  },
+  {
+    "text": "and\nand milk a lot of milk and with milk and",
+    "start": 79.36,
+    "duration": 3.6
+  },
+  {
+    "text": "vitamin bears flowing through my veins\nit's time to get to",
+    "start": 82.96,
+    "duration": 3.12
+  },
+  {
+    "text": "work the theme for the game jam is\nrewind yeah",
+    "start": 86.08,
+    "duration": 3.84
+  },
+  {
+    "text": "it's rewind time",
+    "start": 89.92,
+    "duration": 3.12
+  },
+  {
+    "text": "so i wrote down some ideas and thoughts\nwhich is probably the most thinking i've",
+    "start": 94.159,
+    "duration": 3.681
+  },
+  {
+    "text": "done this whole year\ni settled on making a game where you",
+    "start": 97.84,
+    "duration": 4.16
+  },
+  {
+    "text": "replay the same level several times but\nevery time you do there's a change in",
+    "start": 102.0,
+    "duration": 4.079
+  },
+  {
+    "text": "the map\nor your abilities so i set up a list",
+    "start": 106.079,
+    "duration": 2.801
+  },
+  {
+    "text": "with everything to do\non trello.com and i swear to god stop",
+    "start": 108.88,
+    "duration": 3.84
+  },
+  {
+    "text": "asking me what this website\nstop i said stop shoot so i started a",
+    "start": 112.72,
+    "duration": 5.52
+  },
+  {
+    "text": "new unity project\nopen it up and added bean the bean",
+    "start": 118.24,
+    "duration": 3.519
+  },
+  {
+    "text": "represents the player and since we don't\nreally have a whole lot of time i'm just",
+    "start": 121.759,
+    "duration": 3.68
+  },
+  {
+    "text": "gonna go ahead and\njoin the movement from my game carlson",
+    "start": 125.439,
+    "duration": 3.761
+  },
+  {
+    "text": "into this game\ncarlson's the game i'm working on by the",
+    "start": 129.2,
+    "duration": 2.399
+  },
+  {
+    "text": "way which you can wish this on steam i'm\njust saying we're currently the 28th",
+    "start": 131.599,
+    "duration": 2.72
+  },
+  {
+    "text": "most wishlisted game in the world so let's\nget to number one baby",
+    "start": 134.319,
+    "duration": 2.64
+  },
+  {
+    "text": "anyway we now have basic movement and\nyou can pick up abilities like double",
+    "start": 136.959,
+    "duration": 3.92
+  },
+  {
+    "text": "jump which allows you to complete the\nlevel",
+    "start": 140.879,
+    "duration": 2.161
+  },
+  {
+    "text": "but it looks kind of bad so i'm just\ngonna go ahead and do some more",
+    "start": 143.04,
+    "duration": 3.839
+  },
+  {
+    "text": "programming icon in photoshop particles\nusing unit is particle system",
+    "start": 146.879,
+    "duration": 4.161
+  },
+  {
+    "text": "more code post processing and boom just\nlike that it kind of looks good my guy",
+    "start": 151.04,
+    "duration": 5.199
+  },
+  {
+    "text": "oh no look at this big old gap there's\nno way i can jump that oof oh wait",
+    "start": 156.239,
+    "duration": 6.401
+  },
+  {
+    "text": "what's this\na mother freaking double jump wow that's",
+    "start": 162.64,
+    "duration": 3.52
+  },
+  {
+    "text": "so convenient now i can clear the jump\neasy my god so yeah that's uh that's",
+    "start": 166.16,
+    "duration": 4.799
+  },
+  {
+    "text": "like the general idea of the game but as\nyou can probably tell the game is",
+    "start": 170.959,
+    "duration": 3.441
+  },
+  {
+    "text": "looking kind of terrible right now so uh\nwe need some textures",
+    "start": 174.4,
+    "duration": 5.28
+  },
+  {
+    "text": "so i found cc0 textures.com with a lot\nof cool textures and",
+    "start": 180.56,
+    "duration": 4.0
+  },
+  {
+    "text": "uh would you look at that this one is\nperfect",
+    "start": 184.56,
+    "duration": 3.12
+  },
+  {
+    "text": "alrighty don't mind me imma just go\nahead and",
+    "start": 187.68,
+    "duration": 3.44
+  },
+  {
+    "text": "roses are red violets are blue yo\nthat uh i didn't rhyme anyway make sure",
+    "start": 191.12,
+    "duration": 6.32
+  },
+  {
+    "text": "to check out cc0 textures.com\nreally cool textures and it's completely",
+    "start": 197.44,
+    "duration": 3.92
+  },
+  {
+    "text": "free so yeah here's what the new\ngraphics look like i'm going for a super",
+    "start": 201.36,
+    "duration": 3.599
+  },
+  {
+    "text": "simple\nkind of dreamy style something like most",
+    "start": 204.959,
+    "duration": 3.601
+  },
+  {
+    "text": "of the time\ni have no idea what i'm actually doing",
+    "start": 208.56,
+    "duration": 2.88
+  },
+  {
+    "text": "but uh it's like 2 a.m right now\ni'm dying inside so i'm gonna go hit the",
+    "start": 211.44,
+    "duration": 4.56
+  },
+  {
+    "text": "sack",
+    "start": 216.0,
+    "duration": 2.4
+  },
+  {
+    "text": "so i woke up the second day and my brain\nwas like hey let's add some swords to",
+    "start": 219.28,
+    "duration": 3.92
+  },
+  {
+    "text": "the game\nso uh now we're gonna be adding sword",
+    "start": 223.2,
+    "duration": 2.64
+  },
+  {
+    "text": "combat to the game apparently\nnever done that before but uh hey you",
+    "start": 225.84,
+    "duration": 4.24
+  },
+  {
+    "text": "know what they say\nswords are cool so first i modeled a",
+    "start": 230.08,
+    "duration": 4.879
+  },
+  {
+    "text": "sword in blender and then i modeled an\narm because uh holding a sword without",
+    "start": 234.959,
+    "duration": 4.161
+  },
+  {
+    "text": "an arm is\nusually kind of hard and there it is",
+    "start": 239.12,
+    "duration": 2.88
+  },
+  {
+    "text": "boys a sword\nand a hand now we just gotta find a way",
+    "start": 242.0,
+    "duration": 4.08
+  },
+  {
+    "text": "to uh\nconnect them you feel me so uh we're",
+    "start": 246.08,
+    "duration": 3.04
+  },
+  {
+    "text": "we're just gonna go ahead and uh\nyeah wrap those fingers around and also",
+    "start": 249.12,
+    "duration": 4.319
+  },
+  {
+    "text": "what the fuck\nis going on with that pinky finger is it",
+    "start": 253.439,
+    "duration": 2.881
+  },
+  {
+    "text": "just me or is it looking kind of\nthin anyway eventually i wrapped all of",
+    "start": 256.32,
+    "duration": 4.639
+  },
+  {
+    "text": "his fingers around\nhowever the thumb ended up being kind of",
+    "start": 260.959,
+    "duration": 3.441
+  },
+  {
+    "text": "broken\nyeah then i made a few animations some",
+    "start": 264.4,
+    "duration": 3.68
+  },
+  {
+    "text": "particles using unity's particle system\nand here we have the basic sword",
+    "start": 268.08,
+    "duration": 3.839
+  },
+  {
+    "text": "mechanics\nyou can block by holding right click and",
+    "start": 271.919,
+    "duration": 2.72
+  },
+  {
+    "text": "you can even throw the sword which\napparently doesn't work at all okay the",
+    "start": 274.639,
+    "duration": 5.201
+  },
+  {
+    "text": "sword fighting is heavily inspired by a\ngame i",
+    "start": 279.84,
+    "duration": 2.16
+  },
+  {
+    "text": "saw called shady knight and it's got\nsome really cool mechanics",
+    "start": 282.0,
+    "duration": 4.16
+  },
+  {
+    "text": "anyway we have now created the most\nterrifying being this world has",
+    "start": 286.16,
+    "duration": 3.92
+  },
+  {
+    "text": "ever seen but what's the point of a\nkiller being if",
+    "start": 290.08,
+    "duration": 3.44
+  },
+  {
+    "text": "there's no one to kill that kind of just\nmakes him a bean",
+    "start": 293.52,
+    "duration": 3.28
+  },
+  {
+    "text": "and that kind of sucks so i made an\nenemy model and when i say made",
+    "start": 296.8,
+    "duration": 4.08
+  },
+  {
+    "text": "i mean just reuse the model from like\nhalf a year ago",
+    "start": 300.88,
+    "duration": 3.2
+  },
+  {
+    "text": "because i can so anyway i added him into\nthe game and he's pretty fun to play",
+    "start": 304.08,
+    "duration": 3.839
+  },
+  {
+    "text": "around with\nsince he's completely physics based and",
+    "start": 307.919,
+    "duration": 2.801
+  },
+  {
+    "text": "also really dumb\nwhich kind of reminds me of someone else",
+    "start": 310.72,
+    "duration": 3.199
+  },
+  {
+    "text": "i know actually but i\ncan't quite place my finger on who it is",
+    "start": 313.919,
+    "duration": 4.481
+  },
+  {
+    "text": "okay guys\nthis is literally me when drinking all",
+    "start": 318.4,
+    "duration": 3.28
+  },
+  {
+    "text": "of the secret milk under the sink guys\nsmash like if this is relatable guys and",
+    "start": 321.68,
+    "duration": 4.959
+  },
+  {
+    "text": "also if this is totally you guys when\nyou drink the milk and you are smashed",
+    "start": 326.639,
+    "duration": 3.361
+  },
+  {
+    "text": "then we just do a bit of this\nand we now have some sword combat stuff",
+    "start": 330.0,
+    "duration": 4.08
+  },
+  {
+    "text": "slicing red boys is pretty fun because\nof",
+    "start": 334.08,
+    "duration": 2.64
+  },
+  {
+    "text": "red boys now swords are pretty cool and\nall but",
+    "start": 336.72,
+    "duration": 3.039
+  },
+  {
+    "text": "have you ever tried bow but here's the\nproblem shooting arrows require",
+    "start": 339.759,
+    "duration": 4.321
+  },
+  {
+    "text": "trajectory prediction and\ni can't remember anything from physics",
+    "start": 344.08,
+    "duration": 3.76
+  },
+  {
+    "text": "classes in high school\nso",
+    "start": 347.84,
+    "duration": 4.48
+  },
+  {
+    "text": "and by giving this formula to the enemy\nhe can now calculate the angle and speed",
+    "start": 352.32,
+    "duration": 4.159
+  },
+  {
+    "text": "he needs to shoot to hit the player\nthen we just make a bow model in blender",
+    "start": 356.479,
+    "duration": 5.041
+  },
+  {
+    "text": "and uh hold up\nis it just me or is it looking kind of",
+    "start": 361.52,
+    "duration": 3.28
+  },
+  {
+    "text": "thick and just like that we have an\narcher enemy who is",
+    "start": 364.8,
+    "duration": 3.519
+  },
+  {
+    "text": "really annoying by the way because i\nthink i made him a bit too accurate",
+    "start": 368.319,
+    "duration": 3.841
+  },
+  {
+    "text": "oh boy what a lovely d what's that sound\nanyway that's the end of day two i'm",
+    "start": 372.16,
+    "duration": 6.159
+  },
+  {
+    "text": "slowly losing my sanity so\ni'm gonna go hit the sack now",
+    "start": 378.319,
+    "duration": 5.761
+  },
+  {
+    "text": "it's the final day and uh we have a lot\nof things to do",
+    "start": 385.12,
+    "duration": 3.199
+  },
+  {
+    "text": "so first off i started making maps\nbecause there are no maps in the game",
+    "start": 388.319,
+    "duration": 3.521
+  },
+  {
+    "text": "and\nit's you know just kind of important",
+    "start": 391.84,
+    "duration": 2.799
+  },
+  {
+    "text": "otherwise we don't have a fucking game\nso anyway i made a mini boss as well who",
+    "start": 394.639,
+    "duration": 4.241
+  },
+  {
+    "text": "is really big and fat\nso i think i'm gonna call him your mom",
+    "start": 398.88,
+    "duration": 4.72
+  },
+  {
+    "text": "then i made a spike trap which was a bad\nidea because i've walked into it like",
+    "start": 403.6,
+    "duration": 4.64
+  },
+  {
+    "text": "500 times already so\nyeah me am i right also made some areas",
+    "start": 408.24,
+    "duration": 4.64
+  },
+  {
+    "text": "where you have to defeat all of the\nenemies to proceed",
+    "start": 412.88,
+    "duration": 2.56
+  },
+  {
+    "text": "and then put together a main menu so you\ncan actually play the game because you",
+    "start": 415.44,
+    "duration": 3.44
+  },
+  {
+    "text": "know that's kind of cool\nand of course a tutorial level for all",
+    "start": 418.88,
+    "duration": 2.8
+  },
+  {
+    "text": "of you who aren't epic gamers like me\ni mean personally i've never needed a",
+    "start": 421.68,
+    "duration": 4.56
+  },
+  {
+    "text": "tutorial in my entire life\noh level one easy i'm a pro gamer so",
+    "start": 426.24,
+    "duration": 5.44
+  },
+  {
+    "text": "this will be no\ntutorials are for noobs fair enough i'm",
+    "start": 431.68,
+    "duration": 3.519
+  },
+  {
+    "text": "dead i should have read a tutorial\nokay we need to go back anyway we need",
+    "start": 435.199,
+    "duration": 4.081
+  },
+  {
+    "text": "some music so i hit up my friend\ni need some music",
+    "start": 439.28,
+    "duration": 4.88
+  },
+  {
+    "text": "my friend is the guy who's making music\nfor my game carlson and",
+    "start": 445.36,
+    "duration": 3.04
+  },
+  {
+    "text": "if you don't know what carlson is it's\nactually a game i'm working on which you",
+    "start": 448.4,
+    "duration": 2.88
+  },
+  {
+    "text": "can wish this right now\nwe're trying to get to the number one",
+    "start": 451.28,
+    "duration": 2.16
+  },
+  {
+    "text": "spot so make sure you hit wishes right\nnow anyway he whipped out a sick ass",
+    "start": 453.44,
+    "duration": 3.52
+  },
+  {
+    "text": "track in like two days kind of gives me\nsome donkey kong vibes",
+    "start": 456.96,
+    "duration": 8.88
+  },
+  {
+    "text": "absolute banger so go check it out on\nhis channel with some exclusive artwork",
+    "start": 466.56,
+    "duration": 3.919
+  },
+  {
+    "text": "for the game\nlink down below very cool the only thing",
+    "start": 470.479,
+    "duration": 3.44
+  },
+  {
+    "text": "missing now is a little bit more juice\ni really enjoy sound design and it will",
+    "start": 473.919,
+    "duration": 4.241
+  },
+  {
+    "text": "definitely make anything stand out way\nmore",
+    "start": 478.16,
+    "duration": 2.319
+  },
+  {
+    "text": "so yeah sound cool i also gave it some\njuice in the form of oomph by",
+    "start": 480.479,
+    "duration": 4.961
+  },
+  {
+    "text": "adding some hit markers screen shake and\na little text pop-up whenever you kill",
+    "start": 485.44,
+    "duration": 5.4
+  },
+  {
+    "text": "enemies get over here",
+    "start": 490.84,
+    "duration": 3.799
+  },
+  {
+    "text": "say hello to my little friend slam dunk\nbaby yeah then i decided for some reason",
+    "start": 497.84,
+    "duration": 6.4
+  },
+  {
+    "text": "to hide milk on every single level\nit's it's 7 a.m right now i'm so tired",
+    "start": 504.24,
+    "duration": 5.44
+  },
+  {
+    "text": "somebody\nsaid hell please this is not a joke i",
+    "start": 509.68,
+    "duration": 2.88
+  },
+  {
+    "text": "actually need to help somebody send help\ni also did some final play testing to",
+    "start": 512.56,
+    "duration": 3.359
+  },
+  {
+    "text": "make sure everything works fine which\nuh it absolutely did not it's it's a",
+    "start": 515.919,
+    "duration": 4.401
+  },
+  {
+    "text": "goddamn mess out here and uh we only\nhave like three hours to fix it so uh",
+    "start": 520.32,
+    "duration": 4.72
+  },
+  {
+    "text": "uh oh and finally i made some art icons\nscreenshots and everything else needed",
+    "start": 525.04,
+    "duration": 5.2
+  },
+  {
+    "text": "for the game page\nthen uploaded everything to each and",
+    "start": 530.24,
+    "duration": 3.2
+  },
+  {
+    "text": "submit it with like 40 minutes remaining\nand",
+    "start": 533.44,
+    "duration": 2.16
+  },
+  {
+    "text": "it feels kind of bad to waste 40 minutes\nbut i've also been awake for like 27",
+    "start": 535.6,
+    "duration": 4.08
+  },
+  {
+    "text": "hours straight programming and\ni'm dead inside so it's finally time to",
+    "start": 539.68,
+    "duration": 4.96
+  },
+  {
+    "text": "hit the sack",
+    "start": 544.64,
+    "duration": 5.199
+  },
+  {
+    "text": "i got up the next day after sleeping for\na whooping two hours",
+    "start": 551.279,
+    "duration": 3.281
+  },
+  {
+    "text": "and apparently the game is already on\nspeedrun.com and",
+    "start": 554.56,
+    "duration": 3.12
+  },
+  {
+    "text": "there's a speedrunning discord and some\npretty insane runs of the game already",
+    "start": 557.68,
+    "duration": 4.64
+  },
+  {
+    "text": "you guys uh you guys are weird",
+    "start": 562.32,
+    "duration": 4.079
+  },
+  {
+    "text": "anyway the game is absolutely free to\ndownload there's a link in the",
+    "start": 566.56,
+    "duration": 2.719
+  },
+  {
+    "text": "description down below if you want to\ncheck it out for yourself",
+    "start": 569.279,
+    "duration": 2.721
+  },
+  {
+    "text": "also just to clarify this i'm\nwithdrawing from the competition",
+    "start": 572.0,
+    "duration": 3.2
+  },
+  {
+    "text": "i'm no longer competing because my game\nis getting a lot of ratings",
+    "start": 575.2,
+    "duration": 3.6
+  },
+  {
+    "text": "simply because they know who i am which\nfeels unfair to everyone else who joined",
+    "start": 578.8,
+    "duration": 3.92
+  },
+  {
+    "text": "the game jam\nand uh yeah it's just weird but it's not",
+    "start": 582.72,
+    "duration": 3.04
+  },
+  {
+    "text": "a big deal at all because game jams are\nall about having fun",
+    "start": 585.76,
+    "duration": 2.8
+  },
+  {
+    "text": "learning new skills not sleeping at all\nand dying inside",
+    "start": 588.56,
+    "duration": 3.2
+  },
+  {
+    "text": "all of which i did so yeah i'm satisfied\nanyway check out the game if you're",
+    "start": 591.76,
+    "duration": 4.32
+  },
+  {
+    "text": "interested also check out the music my\nfriend provided make sure you watch this",
+    "start": 596.08,
+    "duration": 3.28
+  },
+  {
+    "text": "video\nand follow me on all of my other social",
+    "start": 599.36,
+    "duration": 2.4
+  },
+  {
+    "text": "media or get smacked\nlinks down below also have you heard",
+    "start": 601.76,
+    "duration": 3.04
+  },
+  {
+    "text": "about this game called carlson you can\nwish to sit on steam right now we're",
+    "start": 604.8,
+    "duration": 2.88
+  },
+  {
+    "text": "trying to get to the number one wishes\nspots make sure you wish this carlson's",
+    "start": 607.68,
+    "duration": 2.719
+  },
+  {
+    "text": "tape right now thanks a lot for watching\nyou guys are all epic gamers smash",
+    "start": 610.399,
+    "duration": 3.281
+  },
+  {
+    "text": "like if you like smash dislike if you\ndon't also isn't that subscribe button",
+    "start": 613.68,
+    "duration": 4.08
+  },
+  {
+    "text": "looking kind of thick\ni'm just saying you know just just",
+    "start": 617.76,
+    "duration": 3.28
+  },
+  {
+    "text": "putting it out there you should probably\npress it only 36",
+    "start": 621.04,
+    "duration": 2.88
+  },
+  {
+    "text": "of you guys are subbed what the fuck\nanyway i drink your milk hit billy and",
+    "start": 623.92,
+    "duration": 3.919
+  },
+  {
+    "text": "beat your goddamn whip",
+    "start": 627.839,
+    "duration": 8.55
+  },
+  {
+    "text": "whoops this is supposed to be a bow yeah\ni didn't think this through",
+    "start": 638.959,
+    "duration": 10.641
+  }
+]

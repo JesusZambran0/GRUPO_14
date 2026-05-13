@@ -1,0 +1,972 @@
+[
+  {
+    "text": "hello world in programming",
+    "start": 0.799,
+    "duration": 4.801
+  },
+  {
+    "text": "programmers use programming languages to",
+    "start": 3.28,
+    "duration": 3.68
+  },
+  {
+    "text": "write programs",
+    "start": 5.6,
+    "duration": 3.52
+  },
+  {
+    "text": "for example we can write a program that",
+    "start": 6.96,
+    "duration": 4.32
+  },
+  {
+    "text": "writes programs to program other",
+    "start": 9.12,
+    "duration": 3.36
+  },
+  {
+    "text": "programs",
+    "start": 11.28,
+    "duration": 3.519
+  },
+  {
+    "text": "if you think about it logically they're",
+    "start": 12.48,
+    "duration": 4.32
+  },
+  {
+    "text": "pretty much the same but syntactically",
+    "start": 14.799,
+    "duration": 2.961
+  },
+  {
+    "text": "different",
+    "start": 16.8,
+    "duration": 2.16
+  },
+  {
+    "text": "in other words they're written",
+    "start": 17.76,
+    "duration": 4.0
+  },
+  {
+    "text": "differently just like in human languages",
+    "start": 18.96,
+    "duration": 5.12
+  },
+  {
+    "text": "all these mean hello they just look",
+    "start": 21.76,
+    "duration": 3.679
+  },
+  {
+    "text": "different because they're in different",
+    "start": 24.08,
+    "duration": 2.48
+  },
+  {
+    "text": "languages",
+    "start": 25.439,
+    "duration": 2.801
+  },
+  {
+    "text": "so in this video we're going to run",
+    "start": 26.56,
+    "duration": 3.68
+  },
+  {
+    "text": "hello world from scratch",
+    "start": 28.24,
+    "duration": 4.08
+  },
+  {
+    "text": "to whatever the [ __ ] that is and see how",
+    "start": 30.24,
+    "duration": 3.04
+  },
+  {
+    "text": "they vary",
+    "start": 32.32,
+    "duration": 3.759
+  },
+  {
+    "text": "let's get started at number one we have",
+    "start": 33.28,
+    "duration": 3.84
+  },
+  {
+    "text": "scratch",
+    "start": 36.079,
+    "duration": 2.8
+  },
+  {
+    "text": "scratch has a very friendly user",
+    "start": 37.12,
+    "duration": 3.599
+  },
+  {
+    "text": "interface where you can drag and drop",
+    "start": 38.879,
+    "duration": 4.161
+  },
+  {
+    "text": "code blocks to create your own projects",
+    "start": 40.719,
+    "duration": 4.16
+  },
+  {
+    "text": "it is perfect for little kids who just",
+    "start": 43.04,
+    "duration": 3.92
+  },
+  {
+    "text": "started learning how to code",
+    "start": 44.879,
+    "duration": 5.121
+  },
+  {
+    "text": "mom look wow looks like we got a little",
+    "start": 46.96,
+    "duration": 4.56
+  },
+  {
+    "text": "prodigy in our hands",
+    "start": 50.0,
+    "duration": 4.0
+  },
+  {
+    "text": "did you show dad hey sweetie come look",
+    "start": 51.52,
+    "duration": 4.16
+  },
+  {
+    "text": "[ __ ] nerd why don't you play with",
+    "start": 54.0,
+    "duration": 3.84
+  },
+  {
+    "text": "lego blocks instead all we need to do to",
+    "start": 55.68,
+    "duration": 4.399
+  },
+  {
+    "text": "print hello world is to drag a save",
+    "start": 57.84,
+    "duration": 4.239
+  },
+  {
+    "text": "block and then type in hello world",
+    "start": 60.079,
+    "duration": 4.48
+  },
+  {
+    "text": "and evidently we should get hello world",
+    "start": 62.079,
+    "duration": 4.321
+  },
+  {
+    "text": "next up we have python",
+    "start": 64.559,
+    "duration": 3.761
+  },
+  {
+    "text": "this programming language is text based",
+    "start": 66.4,
+    "duration": 4.0
+  },
+  {
+    "text": "and so will be all the other ones",
+    "start": 68.32,
+    "duration": 4.88
+  },
+  {
+    "text": "python has an almost english-like syntax",
+    "start": 70.4,
+    "duration": 4.96
+  },
+  {
+    "text": "so it's easy to understand and it's also",
+    "start": 73.2,
+    "duration": 3.84
+  },
+  {
+    "text": "perfect for beginners",
+    "start": 75.36,
+    "duration": 3.28
+  },
+  {
+    "text": "it's really versatile you could do",
+    "start": 77.04,
+    "duration": 3.119
+  },
+  {
+    "text": "things like data science",
+    "start": 78.64,
+    "duration": 4.0
+  },
+  {
+    "text": "cryptology machine learning and computer",
+    "start": 80.159,
+    "duration": 3.441
+  },
+  {
+    "text": "vision",
+    "start": 82.64,
+    "duration": 3.28
+  },
+  {
+    "text": "none of which i understand but i know",
+    "start": 83.6,
+    "duration": 3.68
+  },
+  {
+    "text": "you could do them",
+    "start": 85.92,
+    "duration": 3.28
+  },
+  {
+    "text": "printing hello world is pretty simple",
+    "start": 87.28,
+    "duration": 3.36
+  },
+  {
+    "text": "you just type print",
+    "start": 89.2,
+    "duration": 4.959
+  },
+  {
+    "text": "hello world and boom easy number three",
+    "start": 90.64,
+    "duration": 6.72
+  },
+  {
+    "text": "lua lua is also a very easy language to",
+    "start": 94.159,
+    "duration": 3.92
+  },
+  {
+    "text": "learn",
+    "start": 97.36,
+    "duration": 2.88
+  },
+  {
+    "text": "i personally use it for creating games",
+    "start": 98.079,
+    "duration": 4.561
+  },
+  {
+    "text": "with the help of a framework called love",
+    "start": 100.24,
+    "duration": 3.76
+  },
+  {
+    "text": "i honestly think they could have come up",
+    "start": 102.64,
+    "duration": 3.36
+  },
+  {
+    "text": "with a better name for that but anyway",
+    "start": 104.0,
+    "duration": 3.92
+  },
+  {
+    "text": "just like python we can use a print",
+    "start": 106.0,
+    "duration": 4.079
+  },
+  {
+    "text": "function to print hello world",
+    "start": 107.92,
+    "duration": 4.92
+  },
+  {
+    "text": "but there's another way and that is with",
+    "start": 110.079,
+    "duration": 5.441
+  },
+  {
+    "text": "io.write works just the same but it does",
+    "start": 112.84,
+    "duration": 4.52
+  },
+  {
+    "text": "not bring you to a new line",
+    "start": 115.52,
+    "duration": 3.599
+  },
+  {
+    "text": "if you want a new line you'd have to put",
+    "start": 117.36,
+    "duration": 3.119
+  },
+  {
+    "text": "an escape character",
+    "start": 119.119,
+    "duration": 4.241
+  },
+  {
+    "text": "which is just a backslash n but this",
+    "start": 120.479,
+    "duration": 4.481
+  },
+  {
+    "text": "isn't a tutorial video so learn it on",
+    "start": 123.36,
+    "duration": 2.0
+  },
+  {
+    "text": "your own",
+    "start": 124.96,
+    "duration": 3.519
+  },
+  {
+    "text": "at number 4 we have ruby to be honest",
+    "start": 125.36,
+    "duration": 4.399
+  },
+  {
+    "text": "i've never really written",
+    "start": 128.479,
+    "duration": 3.201
+  },
+  {
+    "text": "anything in this language before so i",
+    "start": 129.759,
+    "duration": 3.681
+  },
+  {
+    "text": "can't tell you much about it",
+    "start": 131.68,
+    "duration": 3.919
+  },
+  {
+    "text": "i could have done some research but i",
+    "start": 133.44,
+    "duration": 3.519
+  },
+  {
+    "text": "can't be [ __ ] so i'm just going to",
+    "start": 135.599,
+    "duration": 3.28
+  },
+  {
+    "text": "tell you how to run hello world",
+    "start": 136.959,
+    "duration": 3.841
+  },
+  {
+    "text": "and that's with a puts function and then",
+    "start": 138.879,
+    "duration": 4.321
+  },
+  {
+    "text": "you type hello world in parentheses",
+    "start": 140.8,
+    "duration": 5.519
+  },
+  {
+    "text": "and that's it",
+    "start": 143.2,
+    "duration": 3.119
+  },
+  {
+    "text": "okay next at number 5 is javascript",
+    "start": 146.4,
+    "duration": 5.68
+  },
+  {
+    "text": "almost everything you interact with on",
+    "start": 149.84,
+    "duration": 3.84
+  },
+  {
+    "text": "the web is done with it",
+    "start": 152.08,
+    "duration": 3.68
+  },
+  {
+    "text": "without it you just be looking at static",
+    "start": 153.68,
+    "duration": 3.199
+  },
+  {
+    "text": "information",
+    "start": 155.76,
+    "duration": 3.04
+  },
+  {
+    "text": "heck you would not even be able to watch",
+    "start": 156.879,
+    "duration": 4.801
+  },
+  {
+    "text": "this video if it wasn't for javascript",
+    "start": 158.8,
+    "duration": 4.64
+  },
+  {
+    "text": "one cool thing it allows you to do is",
+    "start": 161.68,
+    "duration": 3.44
+  },
+  {
+    "text": "clicking this red button",
+    "start": 163.44,
+    "duration": 5.519
+  },
+  {
+    "text": "so go ahead click it to run hello world",
+    "start": 165.12,
+    "duration": 6.24
+  },
+  {
+    "text": "you just need to type console.log",
+    "start": 168.959,
+    "duration": 4.801
+  },
+  {
+    "text": "and in parentheses you write hello world",
+    "start": 171.36,
+    "duration": 3.68
+  },
+  {
+    "text": "and shockingly",
+    "start": 173.76,
+    "duration": 3.68
+  },
+  {
+    "text": "you will get hello world okay so far",
+    "start": 175.04,
+    "duration": 4.16
+  },
+  {
+    "text": "we've seen this program run with a",
+    "start": 177.44,
+    "duration": 3.12
+  },
+  {
+    "text": "single line of code",
+    "start": 179.2,
+    "duration": 3.52
+  },
+  {
+    "text": "and they were pretty self-explanatory",
+    "start": 180.56,
+    "duration": 4.08
+  },
+  {
+    "text": "but now it is start to get a bit",
+    "start": 182.72,
+    "duration": 2.96
+  },
+  {
+    "text": "complicated",
+    "start": 184.64,
+    "duration": 3.84
+  },
+  {
+    "text": "for example let's look at kotlin kotlin",
+    "start": 185.68,
+    "duration": 4.16
+  },
+  {
+    "text": "is a general purpose",
+    "start": 188.48,
+    "duration": 3.36
+  },
+  {
+    "text": "programming language meaning it could be",
+    "start": 189.84,
+    "duration": 4.319
+  },
+  {
+    "text": "used for a variety of applications",
+    "start": 191.84,
+    "duration": 4.479
+  },
+  {
+    "text": "but it mostly excels at creating android",
+    "start": 194.159,
+    "duration": 3.121
+  },
+  {
+    "text": "applications",
+    "start": 196.319,
+    "duration": 4.161
+  },
+  {
+    "text": "via android studio for example if you're",
+    "start": 197.28,
+    "duration": 4.959
+  },
+  {
+    "text": "into ios you might use something like",
+    "start": 200.48,
+    "duration": 2.64
+  },
+  {
+    "text": "swift",
+    "start": 202.239,
+    "duration": 3.36
+  },
+  {
+    "text": "so before we run hello world we will",
+    "start": 203.12,
+    "duration": 4.0
+  },
+  {
+    "text": "need a main function",
+    "start": 205.599,
+    "duration": 3.521
+  },
+  {
+    "text": "and that function will act as an entry",
+    "start": 207.12,
+    "duration": 3.36
+  },
+  {
+    "text": "point for your file",
+    "start": 209.12,
+    "duration": 3.839
+  },
+  {
+    "text": "to print hello world we'll use println",
+    "start": 210.48,
+    "duration": 4.0
+  },
+  {
+    "text": "ln standing for line",
+    "start": 212.959,
+    "duration": 3.92
+  },
+  {
+    "text": "and simply type in hello world number",
+    "start": 214.48,
+    "duration": 4.16
+  },
+  {
+    "text": "seven is c",
+    "start": 216.879,
+    "duration": 4.0
+  },
+  {
+    "text": "this language in my opinion is not so",
+    "start": 218.64,
+    "duration": 3.36
+  },
+  {
+    "text": "easy to get down",
+    "start": 220.879,
+    "duration": 2.801
+  },
+  {
+    "text": "oh come on man that language is not that",
+    "start": 222.0,
+    "duration": 5.84
+  },
+  {
+    "text": "hard to understand any simple",
+    "start": 223.68,
+    "duration": 4.16
+  },
+  {
+    "text": "as i was saying c is not as",
+    "start": 233.92,
+    "duration": 3.36
+  },
+  {
+    "text": "straightforward as the other ones we've",
+    "start": 235.519,
+    "duration": 2.8
+  },
+  {
+    "text": "seen so far",
+    "start": 237.28,
+    "duration": 2.879
+  },
+  {
+    "text": "to even print something you'll need to",
+    "start": 238.319,
+    "duration": 3.84
+  },
+  {
+    "text": "import a standard library",
+    "start": 240.159,
+    "duration": 4.321
+  },
+  {
+    "text": "and it also uses a main function it's",
+    "start": 242.159,
+    "duration": 3.841
+  },
+  {
+    "text": "written differently of course",
+    "start": 244.48,
+    "duration": 3.44
+  },
+  {
+    "text": "to start off we need to import a file",
+    "start": 246.0,
+    "duration": 4.08
+  },
+  {
+    "text": "called standardio.h",
+    "start": 247.92,
+    "duration": 4.0
+  },
+  {
+    "text": "with it we can access the printf",
+    "start": 250.08,
+    "duration": 3.76
+  },
+  {
+    "text": "function which we will need to print",
+    "start": 251.92,
+    "duration": 3.12
+  },
+  {
+    "text": "hello world",
+    "start": 253.84,
+    "duration": 3.28
+  },
+  {
+    "text": "after that we'll need our main function",
+    "start": 255.04,
+    "duration": 4.08
+  },
+  {
+    "text": "and inside it we write printf",
+    "start": 257.12,
+    "duration": 4.16
+  },
+  {
+    "text": "f standing for formatted and then hello",
+    "start": 259.12,
+    "duration": 3.68
+  },
+  {
+    "text": "world",
+    "start": 261.28,
+    "duration": 4.24
+  },
+  {
+    "text": "number eight c plus plus some might say",
+    "start": 262.8,
+    "duration": 5.2
+  },
+  {
+    "text": "that this language is a superset of c",
+    "start": 265.52,
+    "duration": 3.84
+  },
+  {
+    "text": "but they're both completely different",
+    "start": 268.0,
+    "duration": 4.24
+  },
+  {
+    "text": "languages c is a procedural programming",
+    "start": 269.36,
+    "duration": 4.72
+  },
+  {
+    "text": "language while c plus plus is",
+    "start": 272.24,
+    "duration": 4.16
+  },
+  {
+    "text": "object oriented meaning it supports",
+    "start": 274.08,
+    "duration": 3.52
+  },
+  {
+    "text": "things like inheritance",
+    "start": 276.4,
+    "duration": 4.0
+  },
+  {
+    "text": "encapsulation polymorphism abstraction",
+    "start": 277.6,
+    "duration": 4.0
+  },
+  {
+    "text": "what are those you may ask",
+    "start": 280.4,
+    "duration": 3.6
+  },
+  {
+    "text": "don't ask me printing hello world is not",
+    "start": 281.6,
+    "duration": 3.84
+  },
+  {
+    "text": "so different from c though",
+    "start": 284.0,
+    "duration": 3.6
+  },
+  {
+    "text": "we'll still need to import a library and",
+    "start": 285.44,
+    "duration": 3.6
+  },
+  {
+    "text": "use a main function",
+    "start": 287.6,
+    "duration": 3.92
+  },
+  {
+    "text": "but instead of standard io.h we'll use",
+    "start": 289.04,
+    "duration": 3.599
+  },
+  {
+    "text": "iostream",
+    "start": 291.52,
+    "duration": 3.6
+  },
+  {
+    "text": "and instead of printf we'll use c out in",
+    "start": 292.639,
+    "duration": 4.161
+  },
+  {
+    "text": "a couple of other functions",
+    "start": 295.12,
+    "duration": 4.56
+  },
+  {
+    "text": "look something like this at number nine",
+    "start": 296.8,
+    "duration": 3.119
+  },
+  {
+    "text": "is",
+    "start": 299.68,
+    "duration": 3.28
+  },
+  {
+    "text": "java not to be confused with javascript",
+    "start": 299.919,
+    "duration": 4.641
+  },
+  {
+    "text": "they are not related",
+    "start": 302.96,
+    "duration": 4.0
+  },
+  {
+    "text": "a number of devices run java and like",
+    "start": 304.56,
+    "duration": 3.12
+  },
+  {
+    "text": "kotlin",
+    "start": 306.96,
+    "duration": 3.28
+  },
+  {
+    "text": "is mainly used on android applications",
+    "start": 307.68,
+    "duration": 4.56
+  },
+  {
+    "text": "at the beginning of every java file",
+    "start": 310.24,
+    "duration": 3.679
+  },
+  {
+    "text": "needs a class definition",
+    "start": 312.24,
+    "duration": 3.12
+  },
+  {
+    "text": "since we're running a hello world",
+    "start": 313.919,
+    "duration": 3.041
+  },
+  {
+    "text": "program we'll call that class hello",
+    "start": 315.36,
+    "duration": 2.48
+  },
+  {
+    "text": "world",
+    "start": 316.96,
+    "duration": 3.04
+  },
+  {
+    "text": "after that is adding the main method",
+    "start": 317.84,
+    "duration": 4.32
+  },
+  {
+    "text": "which is this gibberish right here",
+    "start": 320.0,
+    "duration": 3.68
+  },
+  {
+    "text": "that's where the compiler starts",
+    "start": 322.16,
+    "duration": 4.599
+  },
+  {
+    "text": "executing code and finally we'll use",
+    "start": 323.68,
+    "duration": 5.28
+  },
+  {
+    "text": "system.out.printline to actually run",
+    "start": 326.759,
+    "duration": 4.841
+  },
+  {
+    "text": "hello world and last but not least at",
+    "start": 328.96,
+    "duration": 3.44
+  },
+  {
+    "text": "number 10",
+    "start": 331.6,
+    "duration": 3.52
+  },
+  {
+    "text": "is c sharp c sharp is kind of like c",
+    "start": 332.4,
+    "duration": 3.6
+  },
+  {
+    "text": "plus plus",
+    "start": 335.12,
+    "duration": 2.32
+  },
+  {
+    "text": "they're both high level and",
+    "start": 336.0,
+    "duration": 3.36
+  },
+  {
+    "text": "object-oriented languages",
+    "start": 337.44,
+    "duration": 4.0
+  },
+  {
+    "text": "but c-sharp is much more popular and",
+    "start": 339.36,
+    "duration": 3.6
+  },
+  {
+    "text": "it's also really good for game",
+    "start": 341.44,
+    "duration": 2.64
+  },
+  {
+    "text": "development",
+    "start": 342.96,
+    "duration": 3.36
+  },
+  {
+    "text": "one perfect example is using the unity",
+    "start": 344.08,
+    "duration": 3.679
+  },
+  {
+    "text": "3d game engine",
+    "start": 346.32,
+    "duration": 3.84
+  },
+  {
+    "text": "it utilizes c-sharp scripts to add",
+    "start": 347.759,
+    "duration": 4.481
+  },
+  {
+    "text": "functionality to your projects",
+    "start": 350.16,
+    "duration": 4.0
+  },
+  {
+    "text": "but anyway to run hello world is a",
+    "start": 352.24,
+    "duration": 3.04
+  },
+  {
+    "text": "little arcane",
+    "start": 354.16,
+    "duration": 2.96
+  },
+  {
+    "text": "because now we need to add this thing",
+    "start": 355.28,
+    "duration": 3.199
+  },
+  {
+    "text": "called a namespace",
+    "start": 357.12,
+    "duration": 3.12
+  },
+  {
+    "text": "it's like a holder for your methods and",
+    "start": 358.479,
+    "duration": 3.121
+  },
+  {
+    "text": "classes",
+    "start": 360.24,
+    "duration": 3.04
+  },
+  {
+    "text": "everything that goes inside it will be",
+    "start": 361.6,
+    "duration": 3.36
+  },
+  {
+    "text": "similar to c plus",
+    "start": 363.28,
+    "duration": 4.68
+  },
+  {
+    "text": "the function we'll use for printing is",
+    "start": 364.96,
+    "duration": 6.0
+  },
+  {
+    "text": "system.console.writeline",
+    "start": 367.96,
+    "duration": 3.0
+  },
+  {
+    "text": "and with that is the end of the video it",
+    "start": 371.039,
+    "duration": 4.0
+  },
+  {
+    "text": "took a while to make",
+    "start": 373.919,
+    "duration": 3.12
+  },
+  {
+    "text": "but you don't care about that if you",
+    "start": 375.039,
+    "duration": 3.921
+  },
+  {
+    "text": "liked it please give it a thumbs up",
+    "start": 377.039,
+    "duration": 4.801
+  },
+  {
+    "text": "if you didn't then [ __ ] off and yeah",
+    "start": 378.96,
+    "duration": 16.88
+  },
+  {
+    "text": "i'll see you in the next video",
+    "start": 381.84,
+    "duration": 14.0
+  },
+  {
+    "text": "you",
+    "start": 397.84,
+    "duration": 2.079
+  }
+]

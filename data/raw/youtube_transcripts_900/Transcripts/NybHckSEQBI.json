@@ -1,0 +1,1032 @@
+[
+  {
+    "text": "Hi! This is Rob. Welcome to Math Antics.",
+    "start": 6.74,
+    "duration": 2.66
+  },
+  {
+    "text": "In this lesson, we're going to learn some really important things",
+    "start": 9.409,
+    "duration": 2.901
+  },
+  {
+    "text": "about a whole branch of math called Algebra.",
+    "start": 12.31,
+    "duration": 3.418
+  },
+  {
+    "text": "The first thing you need to know is that Algebra is a lot like arithmetic.",
+    "start": 15.728,
+    "duration": 4.08
+  },
+  {
+    "text": "It follows all the rules of arithmetic",
+    "start": 19.808,
+    "duration": 2.2
+  },
+  {
+    "text": "and it uses the same four main operations that arithmetic is built on:",
+    "start": 22.008,
+    "duration": 4.552
+  },
+  {
+    "text": "addition, subtraction, multiplication and division.",
+    "start": 26.565,
+    "duration": 4.017
+  },
+  {
+    "text": "But Algebra introduces a new element...",
+    "start": 30.582,
+    "duration": 2.553
+  },
+  {
+    "text": "the element of the unknown.",
+    "start": 33.135,
+    "duration": 2.62
+  },
+  {
+    "text": "When you were learning arithmetic,",
+    "start": 35.76,
+    "duration": 1.792
+  },
+  {
+    "text": "the only thing that was ever unknown was the answer to the problem.",
+    "start": 37.552,
+    "duration": 3.985
+  },
+  {
+    "text": "For example, you might have the problem 1 + 2 = what?",
+    "start": 41.537,
+    "duration": 4.668
+  },
+  {
+    "text": "The answer isn't known until you go ahead and do the arithmetic.",
+    "start": 46.205,
+    "duration": 3.901
+  },
+  {
+    "text": "Now the important thing about Algebra is that when we don't know what a number is yet,",
+    "start": 50.106,
+    "duration": 4.535
+  },
+  {
+    "text": "we use a symbol in its place.",
+    "start": 54.641,
+    "duration": 2.151
+  },
+  {
+    "text": "that symbol is usually just any letter of the alphabet.",
+    "start": 56.792,
+    "duration": 3.118
+  },
+  {
+    "text": "A really popular letter to choose is the letter 'x'.",
+    "start": 59.91,
+    "duration": 3.56
+  },
+  {
+    "text": "So in arithmetic, we would just leave the problem like this: 1 + 2 = \"blank\"",
+    "start": 63.47,
+    "duration": 5.826
+  },
+  {
+    "text": "and we'd write in the answer when we did the addition.",
+    "start": 69.296,
+    "duration": 3.035
+  },
+  {
+    "text": "But in Algebra, we'd write it like this:  1 + 2 = x",
+    "start": 72.331,
+    "duration": 5.319
+  },
+  {
+    "text": "The 'x' is a place holder that stands for the number that we don't know yet.",
+    "start": 77.65,
+    "duration": 4.301
+  },
+  {
+    "text": "What we have here is a very basic algebraic equation.",
+    "start": 81.951,
+    "duration": 4.368
+  },
+  {
+    "text": "An equation is just a mathematical statement that two things are equal.",
+    "start": 86.319,
+    "duration": 4.701
+  },
+  {
+    "text": "An equation says, \"the things on this side of the equal sign",
+    "start": 91.02,
+    "duration": 3.12
+  },
+  {
+    "text": "have the same value as the things on the other side of the equal sign.\"",
+    "start": 94.14,
+    "duration": 3.8
+  },
+  {
+    "text": "In this case, our equation is telling us that the known values on this side (1+2)",
+    "start": 97.94,
+    "duration": 5.502
+  },
+  {
+    "text": "are equal to what's on the other side,",
+    "start": 103.442,
+    "duration": 1.919
+  },
+  {
+    "text": "which happens to be the unknown value that we are calling 'x'.",
+    "start": 105.361,
+    "duration": 3.82
+  },
+  {
+    "text": "One of the main goals in Algebra",
+    "start": 109.181,
+    "duration": 1.76
+  },
+  {
+    "text": "is to figure out what the unknown values in equations are.",
+    "start": 110.941,
+    "duration": 3.0
+  },
+  {
+    "text": "And when you do that, it's called \"solving the equations\".",
+    "start": 113.941,
+    "duration": 3.856
+  },
+  {
+    "text": "In this equation, it's pretty easy to see that the unknown value is just 3.",
+    "start": 117.797,
+    "duration": 4.784
+  },
+  {
+    "text": "All you have to do is actually add the 1 and 2 together on this side of the equation",
+    "start": 122.581,
+    "duration": 4.236
+  },
+  {
+    "text": "and it turns into 3 = x, which is the same as x = 3.",
+    "start": 126.817,
+    "duration": 4.668
+  },
+  {
+    "text": "So now we know what 'x' is!  It's just 3.",
+    "start": 131.485,
+    "duration": 3.385
+  },
+  {
+    "text": "That almost seems too easy, doesn’t it?",
+    "start": 134.87,
+    "duration": 2.25
+  },
+  {
+    "text": "And that's why in Algebra, you are usually given an equation in a more complicated form",
+    "start": 137.12,
+    "duration": 4.2
+  },
+  {
+    "text": "like this: x - 2 = 1.",
+    "start": 141.32,
+    "duration": 3.38
+  },
+  {
+    "text": "This is exactly the same equation as 1 + 2 = x,",
+    "start": 144.7,
+    "duration": 4.04
+  },
+  {
+    "text": "but it has been rearranged so that it's not quite as easy to tell what 'x' is.",
+    "start": 148.742,
+    "duration": 4.54
+  },
+  {
+    "text": "So in Algebra, solving equations is a lot like a game",
+    "start": 153.282,
+    "duration": 3.56
+  },
+  {
+    "text": "where you are given mixed-up, complicated equations,",
+    "start": 156.842,
+    "duration": 2.578
+  },
+  {
+    "text": "and it's your job to simplify them and rearrange them",
+    "start": 159.429,
+    "duration": 2.78
+  },
+  {
+    "text": "until it is a nice simple equation (like x = 3)",
+    "start": 162.209,
+    "duration": 3.271
+  },
+  {
+    "text": "where it's easy to tell what the unknown values are.",
+    "start": 165.48,
+    "duration": 3.16
+  },
+  {
+    "text": "We're going to learn a lot more about",
+    "start": 168.648,
+    "duration": 1.684
+  },
+  {
+    "text": "how you actually do that (how you solve equations)",
+    "start": 170.332,
+    "duration": 2.184
+  },
+  {
+    "text": "in the next several videos,",
+    "start": 172.516,
+    "duration": 1.618
+  },
+  {
+    "text": "but for now, let's learn some important rules about",
+    "start": 174.134,
+    "duration": 2.55
+  },
+  {
+    "text": "how symbols can and can't be used in algebraic equations.",
+    "start": 176.684,
+    "duration": 4.169
+  },
+  {
+    "text": "The first rule you need to know is that the same symbol (or letter)",
+    "start": 180.853,
+    "duration": 3.418
+  },
+  {
+    "text": "can be used in different algebra problems to stand for different unknown values.",
+    "start": 184.271,
+    "duration": 4.852
+  },
+  {
+    "text": "For example, in the problem we just solved,",
+    "start": 189.123,
+    "duration": 2.55
+  },
+  {
+    "text": "the letter 'x' was used to stand for the number 3, right?",
+    "start": 191.673,
+    "duration": 3.168
+  },
+  {
+    "text": "But 'x' could stand for a different number in a different problem.",
+    "start": 194.841,
+    "duration": 3.201
+  },
+  {
+    "text": "Like, if someone asks us to solve the equation, 5 + x = 10.",
+    "start": 198.042,
+    "duration": 4.568
+  },
+  {
+    "text": "In order for the two sides of this equation to be equal,",
+    "start": 202.61,
+    "duration": 2.86
+  },
+  {
+    "text": "'x' must have the value '5' in this problem, because 5 + 5 = 10.",
+    "start": 205.47,
+    "duration": 5.81
+  },
+  {
+    "text": "So 'x' (or any other symbol) can stand for different values in different problems.",
+    "start": 211.28,
+    "duration": 4.818
+  },
+  {
+    "text": "That's okay,",
+    "start": 216.098,
+    "duration": 1.201
+  },
+  {
+    "text": "but what's NOT okay is for a symbol",
+    "start": 217.299,
+    "duration": 2.068
+  },
+  {
+    "text": "to stand for different values in the same problem at the same time!",
+    "start": 219.367,
+    "duration": 4.18
+  },
+  {
+    "text": "For example, what if you had the equation: x + x = 10?",
+    "start": 223.547,
+    "duration": 4.953
+  },
+  {
+    "text": "This equation says that if we add 'x' to 'x' we will get 10.",
+    "start": 228.503,
+    "duration": 3.917
+  },
+  {
+    "text": "And there are a lot of different numbers we could add together to get 10, like 6 and 4.",
+    "start": 232.42,
+    "duration": 5.386
+  },
+  {
+    "text": "But, if we had the first 'x' stand for 6 and the second 'x' stand for 4,",
+    "start": 237.806,
+    "duration": 4.718
+  },
+  {
+    "text": "then 'x' would stand for two different value at the same time",
+    "start": 242.524,
+    "duration": 3.4
+  },
+  {
+    "text": "and things could get really confusing!",
+    "start": 245.924,
+    "duration": 2.84
+  },
+  {
+    "text": "If you wanted symbols to stand for two different numbers at the same time,",
+    "start": 248.764,
+    "duration": 3.48
+  },
+  {
+    "text": "you would need to use two different symbols, like 'x' and 'y'.",
+    "start": 252.244,
+    "duration": 4.176
+  },
+  {
+    "text": "So in Algebra, whenever you see the same symbol repeated more than once in an equation,",
+    "start": 256.429,
+    "duration": 4.802
+  },
+  {
+    "text": "it's representing the same unknown value.",
+    "start": 261.231,
+    "duration": 3.184
+  },
+  {
+    "text": "Like if you see a really complicated Algebraic equation (like this),",
+    "start": 264.415,
+    "duration": 4.085
+  },
+  {
+    "text": "where 'x' is repeated a lot of different times,",
+    "start": 268.5,
+    "duration": 3.252
+  },
+  {
+    "text": "all of those 'x's stand for the same value,",
+    "start": 271.752,
+    "duration": 3.217
+  },
+  {
+    "text": "and it will be your job to figure out what that value is.",
+    "start": 274.969,
+    "duration": 3.28
+  },
+  {
+    "text": "Okay, so for any particular equation,",
+    "start": 278.249,
+    "duration": 2.989
+  },
+  {
+    "text": "we can't use the same letter to represent two different numbers at the same time,",
+    "start": 281.238,
+    "duration": 4.785
+  },
+  {
+    "text": "but what about the other way around?",
+    "start": 286.023,
+    "duration": 1.666
+  },
+  {
+    "text": "Could we use two different letters to represent the same number?",
+    "start": 287.689,
+    "duration": 3.536
+  },
+  {
+    "text": "Yes! - Here's an example of that.",
+    "start": 291.225,
+    "duration": 2.951
+  },
+  {
+    "text": "Let's say you have the equation: a + b = 2",
+    "start": 294.176,
+    "duration": 3.86
+  },
+  {
+    "text": "What could 'a' and 'b' stand for so that the equation is true?",
+    "start": 298.04,
+    "duration": 4.0
+  },
+  {
+    "text": "Well, If 'a' was 0 and 'b' was 2, then the equation would be true.",
+    "start": 302.045,
+    "duration": 5.3
+  },
+  {
+    "text": "Or, we could switch them around.",
+    "start": 307.345,
+    "duration": 1.74
+  },
+  {
+    "text": "If 'a' was 2 and 'b' was 0, the equation would also be true.",
+    "start": 309.085,
+    "duration": 4.34
+  },
+  {
+    "text": "But there's another possibility:",
+    "start": 313.425,
+    "duration": 1.66
+  },
+  {
+    "text": "If 'a' was 1 and 'b' was also 1, that would make the equation true, right?",
+    "start": 315.085,
+    "duration": 5.255
+  },
+  {
+    "text": "So, even though 'a' and 'b' are different symbols,",
+    "start": 320.351,
+    "duration": 3.002
+  },
+  {
+    "text": "and would usually be used to represent different numbers,",
+    "start": 323.353,
+    "duration": 3.051
+  },
+  {
+    "text": "there are times when they might happen to represent the same number.",
+    "start": 326.404,
+    "duration": 3.818
+  },
+  {
+    "text": "Oh, and this problem can help us understand something",
+    "start": 330.222,
+    "duration": 3.051
+  },
+  {
+    "text": "very important about how symbols are used in Algebra.",
+    "start": 333.273,
+    "duration": 3.451
+  },
+  {
+    "text": "Did you notice that there were different possible solution for this equation?",
+    "start": 336.724,
+    "duration": 4.052
+  },
+  {
+    "text": "In other words, 'b' could have the value 0, 1, or 2 depending on what the value of 'a' was.",
+    "start": 340.776,
+    "duration": 6.551
+  },
+  {
+    "text": "If 'a' is 0 then 'b' must be 2",
+    "start": 347.327,
+    "duration": 3.086
+  },
+  {
+    "text": "If 'a' is 1 then 'b' must be 1",
+    "start": 350.413,
+    "duration": 2.884
+  },
+  {
+    "text": "If 'a' is 2 then 'b' must be 0",
+    "start": 353.297,
+    "duration": 3.218
+  },
+  {
+    "text": "'b' can't have two different values at the same time,",
+    "start": 356.515,
+    "duration": 2.834
+  },
+  {
+    "text": "but it's value can change over time if the value of 'a' changes.",
+    "start": 359.349,
+    "duration": 3.919
+  },
+  {
+    "text": "In Algebra, 'b' is what's called a \"variable\" because it's value can 'vary' or change.",
+    "start": 363.268,
+    "duration": 5.434
+  },
+  {
+    "text": "In fact, in this equation, both 'a' and 'b' are variables",
+    "start": 368.702,
+    "duration": 3.28
+  },
+  {
+    "text": "because their values will change depending on the value of each other.",
+    "start": 371.982,
+    "duration": 4.074
+  },
+  {
+    "text": "Actually, it's really common in Algebra to refer to any letter as a variable,",
+    "start": 376.056,
+    "duration": 4.667
+  },
+  {
+    "text": "since letters can stand for different values in different problems.",
+    "start": 380.723,
+    "duration": 3.585
+  },
+  {
+    "text": "But at Math Antics, we'll usually just use the word \"variable\"",
+    "start": 384.308,
+    "duration": 3.2
+  },
+  {
+    "text": "when we're talking about values that can change or vary in the same problem.",
+    "start": 387.508,
+    "duration": 4.72
+  },
+  {
+    "text": "Alright, so far we've learned that Algebra is a lot like arithmetic,",
+    "start": 392.228,
+    "duration": 4.164
+  },
+  {
+    "text": "but that in includes unknown values and variables that we can solve for in equations.",
+    "start": 396.392,
+    "duration": 5.5
+  },
+  {
+    "text": "There's one other really important thing that I want to teach you",
+    "start": 401.892,
+    "duration": 3.368
+  },
+  {
+    "text": "that will help you understand what's going on in a lot of Algebra problems,",
+    "start": 405.26,
+    "duration": 4.153
+  },
+  {
+    "text": "and it has to do with multiplication.",
+    "start": 409.413,
+    "duration": 2.9
+  },
+  {
+    "text": "Here are the four basic arithmetic operations:",
+    "start": 412.32,
+    "duration": 2.86
+  },
+  {
+    "text": "addition, subtraction, multiplication and division.",
+    "start": 415.181,
+    "duration": 3.584
+  },
+  {
+    "text": "Although in Algebra, you'll usually see division written in fraction form, like this.",
+    "start": 418.765,
+    "duration": 4.968
+  },
+  {
+    "text": "In Arithmetic, all four operations have the same status,",
+    "start": 423.733,
+    "duration": 3.484
+  },
+  {
+    "text": "but in Algebra, multiplication get's some special treatment.",
+    "start": 427.217,
+    "duration": 4.519
+  },
+  {
+    "text": "In Algebra, multiplication is the 'default' operation.",
+    "start": 431.736,
+    "duration": 3.985
+  },
+  {
+    "text": "That means, if no other arithmetic operation is shown between two symbols,",
+    "start": 435.721,
+    "duration": 4.701
+  },
+  {
+    "text": "then you can just assume they're being multiplied. The multiplication is 'implied'.",
+    "start": 440.422,
+    "duration": 5.586
+  },
+  {
+    "text": "For example, instead of writing 'a' times 'b',",
+    "start": 446.008,
+    "duration": 3.202
+  },
+  {
+    "text": "you can leave out the times symbol and just write 'ab'.",
+    "start": 449.21,
+    "duration": 3.333
+  },
+  {
+    "text": "Since no operation is shown between these two symbols,",
+    "start": 452.543,
+    "duration": 3.101
+  },
+  {
+    "text": "you know that you're supposed to multiply 'a' and 'b'.",
+    "start": 455.644,
+    "duration": 3.252
+  },
+  {
+    "text": "Of course, you can't actually multiply 'a' and 'b'",
+    "start": 458.896,
+    "duration": 2.435
+  },
+  {
+    "text": "until you figure out what numbers they stand for.",
+    "start": 461.331,
+    "duration": 2.699
+  },
+  {
+    "text": "The advantage of this rule about multiplication is that",
+    "start": 464.03,
+    "duration": 3.035
+  },
+  {
+    "text": "it makes many algebraic equations less cluttered and easier to write down.",
+    "start": 467.065,
+    "duration": 4.819
+  },
+  {
+    "text": "For example, instead of this: a * b + c * d = 10",
+    "start": 471.884,
+    "duration": 5.868
+  },
+  {
+    "text": "You could just write: ab + cd = 10.",
+    "start": 477.76,
+    "duration": 4.4
+  },
+  {
+    "text": "You can also use this shorthand when you are multiplying",
+    "start": 482.16,
+    "duration": 2.38
+  },
+  {
+    "text": "a variable and a known number... like 2x, which means the same thing as 2 times 'x'",
+    "start": 484.54,
+    "duration": 5.94
+  },
+  {
+    "text": "or 3y which means the same thing as 3 times 'y'",
+    "start": 490.491,
+    "duration": 4.401
+  },
+  {
+    "text": "Since the symbol and the number are right next to each other,",
+    "start": 494.892,
+    "duration": 2.917
+  },
+  {
+    "text": "the multiplication is implied.",
+    "start": 497.809,
+    "duration": 1.951
+  },
+  {
+    "text": "You don't have to write it down.",
+    "start": 499.76,
+    "duration": 1.818
+  },
+  {
+    "text": "Finally some good news!",
+    "start": 501.578,
+    "duration": 1.8
+  },
+  {
+    "text": "Now I never have to write down that pesky multiplication symbol again!",
+    "start": 503.38,
+    "duration": 3.64
+  },
+  {
+    "text": "Oh yeah!!",
+    "start": 507.02,
+    "duration": 1.3
+  },
+  {
+    "text": "Ah, not so fast...",
+    "start": 508.33,
+    "duration": 2.118
+  },
+  {
+    "text": "there are some cases in Algebra where still need to use a multiplication symbol.",
+    "start": 510.448,
+    "duration": 4.635
+  },
+  {
+    "text": "For example, what if you want to show 2 x 5?",
+    "start": 515.083,
+    "duration": 3.617
+  },
+  {
+    "text": "If you just get rid of the times symbol and put the '2' right next to the '5',",
+    "start": 518.7,
+    "duration": 4.169
+  },
+  {
+    "text": "it's going to look like the two-digit number twenty-five,",
+    "start": 522.869,
+    "duration": 2.55
+  },
+  {
+    "text": "which is NOT the same as 2 x 5.",
+    "start": 525.419,
+    "duration": 2.917
+  },
+  {
+    "text": "So, whenever you need to show multiplication between two known numbers,",
+    "start": 528.336,
+    "duration": 4.286
+  },
+  {
+    "text": "you still have to use the times symbol, unless...",
+    "start": 532.622,
+    "duration": 2.64
+  },
+  {
+    "text": "you use parentheses instead.",
+    "start": 535.262,
+    "duration": 1.74
+  },
+  {
+    "text": "But aren't parentheses used to show grouping in math?",
+    "start": 537.8,
+    "duration": 3.08
+  },
+  {
+    "text": "How can you use that to show multiplication?",
+    "start": 540.88,
+    "duration": 2.66
+  },
+  {
+    "text": "Ah, that's a good question.",
+    "start": 543.543,
+    "duration": 2.25
+  },
+  {
+    "text": "Parentheses are used to group things,",
+    "start": 545.793,
+    "duration": 2.2
+  },
+  {
+    "text": "but whenever you put two groups right next to each other,",
+    "start": 548.0,
+    "duration": 2.82
+  },
+  {
+    "text": "with no operation between them,",
+    "start": 550.828,
+    "duration": 1.85
+  },
+  {
+    "text": "guess what operation is implied.",
+    "start": 552.678,
+    "duration": 1.86
+  },
+  {
+    "text": "Yep!  Multiplication!",
+    "start": 554.54,
+    "duration": 2.68
+  },
+  {
+    "text": "For example, if you see the this,",
+    "start": 557.22,
+    "duration": 2.06
+  },
+  {
+    "text": "it means that the group (a+b) is being multiplied by the group (x+y).",
+    "start": 559.282,
+    "duration": 4.951
+  },
+  {
+    "text": "We could put a times symbol between the groups, but we don't have to",
+    "start": 564.233,
+    "duration": 3.501
+  },
+  {
+    "text": "because it's the default operation in Algebra.",
+    "start": 567.734,
+    "duration": 2.602
+  },
+  {
+    "text": "The multiplication is just implied.",
+    "start": 570.336,
+    "duration": 2.65
+  },
+  {
+    "text": "So, going back to our problem: 2 x 5",
+    "start": 572.986,
+    "duration": 3.451
+  },
+  {
+    "text": "If you wanted to, you could put each of the numbers inside parentheses like this,",
+    "start": 576.437,
+    "duration": 4.436
+  },
+  {
+    "text": "and then you could get rid of the multiplication sign.",
+    "start": 580.873,
+    "duration": 2.917
+  },
+  {
+    "text": "Now this can't be confused with the number twenty-five,",
+    "start": 583.79,
+    "duration": 2.901
+  },
+  {
+    "text": "and since the groups are right next to each other,",
+    "start": 586.691,
+    "duration": 2.217
+  },
+  {
+    "text": "you know that you need to multiply them.",
+    "start": 588.908,
+    "duration": 2.552
+  },
+  {
+    "text": "Of course, it might seem strange to have just one thing inside 'group' symbols like this,",
+    "start": 591.46,
+    "duration": 4.784
+  },
+  {
+    "text": "but it's okay to do that in math.",
+    "start": 596.244,
+    "duration": 2.218
+  },
+  {
+    "text": "An alternate way that you could do the same thing would be",
+    "start": 598.462,
+    "duration": 2.417
+  },
+  {
+    "text": "to put just one of the numbers in parentheses, like this.",
+    "start": 600.879,
+    "duration": 3.369
+  },
+  {
+    "text": "Again, you won't confuse this with a two-digit number",
+    "start": 604.248,
+    "duration": 2.783
+  },
+  {
+    "text": "and you know that multiplication is implied.",
+    "start": 607.031,
+    "duration": 3.086
+  },
+  {
+    "text": "Okay, so we've learned that Algebra is a lot like arithmetic,",
+    "start": 610.117,
+    "duration": 3.85
+  },
+  {
+    "text": "but it involves unknown values or variables that we need to solve for.",
+    "start": 613.967,
+    "duration": 4.202
+  },
+  {
+    "text": "And we learned that in Algebra, the multiplication sign is usually not shown,",
+    "start": 618.169,
+    "duration": 4.218
+  },
+  {
+    "text": "because it's the default operation.",
+    "start": 622.387,
+    "duration": 2.235
+  },
+  {
+    "text": "You can just assume that two things right next to each other are being multiplied.",
+    "start": 624.622,
+    "duration": 4.658
+  },
+  {
+    "text": "But why do we even care about Algebra?",
+    "start": 629.28,
+    "duration": 2.379
+  },
+  {
+    "text": "Is it good for anything in the 'real world'?",
+    "start": 631.659,
+    "duration": 2.049
+  },
+  {
+    "text": "or is it just a bunch of tricky problems that keep students busy in school?",
+    "start": 633.708,
+    "duration": 4.52
+  },
+  {
+    "text": "Actually, Algebra is very useful for describing or \"modeling\"  things in the real world.",
+    "start": 638.228,
+    "duration": 5.583
+  },
+  {
+    "text": "It's a little hard to see that when you are just looking",
+    "start": 643.811,
+    "duration": 2.001
+  },
+  {
+    "text": "at all these numbers and symbols on the page of a math book.",
+    "start": 645.812,
+    "duration": 3.568
+  },
+  {
+    "text": "But, it's a lot easier to see",
+    "start": 649.38,
+    "duration": 1.734
+  },
+  {
+    "text": "when you start taking algebraic equations and graphing their solutions.",
+    "start": 651.114,
+    "duration": 4.84
+  },
+  {
+    "text": "Graphing an equation is like using its different solutions",
+    "start": 655.96,
+    "duration": 3.24
+  },
+  {
+    "text": "to draw simple lines and curves that can be used to describe and predict things in real life.",
+    "start": 659.201,
+    "duration": 5.918
+  },
+  {
+    "text": "For example, there's a whole class of equations in Algebra",
+    "start": 665.119,
+    "duration": 3.351
+  },
+  {
+    "text": "called \"linear\" equations because they form straight lines when you graph them.",
+    "start": 668.47,
+    "duration": 4.368
+  },
+  {
+    "text": "Those sorts of equations could help you describe the slope of a roof",
+    "start": 672.838,
+    "duration": 3.86
+  },
+  {
+    "text": "or tell you how long it will take to get somewhere.",
+    "start": 676.7,
+    "duration": 3.26
+  },
+  {
+    "text": "Another class of algebraic equations, called \"quadratic\" equations",
+    "start": 679.96,
+    "duration": 4.06
+  },
+  {
+    "text": "can be used to design telescope lenses,",
+    "start": 684.025,
+    "duration": 2.301
+  },
+  {
+    "text": "or describe how a ball flies through the air,",
+    "start": 686.326,
+    "duration": 3.102
+  },
+  {
+    "text": "or predict the growth of a population.",
+    "start": 689.428,
+    "duration": 2.95
+  },
+  {
+    "text": "So Algebra is used all the time in fields like",
+    "start": 692.378,
+    "duration": 2.62
+  },
+  {
+    "text": "science, engineering, economics and computer programming.",
+    "start": 695.0,
+    "duration": 4.16
+  },
+  {
+    "text": "And even though you might not need Algebra to get by in your day to day life,...",
+    "start": 699.164,
+    "duration": 4.419
+  },
+  {
+    "text": "...so divide both sides by 3. That means x = 42.",
+    "start": 703.583,
+    "duration": 4.72
+  },
+  {
+    "text": "So... in three... two... one...",
+    "start": 708.303,
+    "duration": 3.94
+  },
+  {
+    "text": "YES!!",
+    "start": 712.243,
+    "duration": 1.037
+  },
+  {
+    "text": "Alright... now to see how much butter I need.",
+    "start": 713.28,
+    "duration": 2.18
+  },
+  {
+    "text": "It's still a very useful part of math.",
+    "start": 716.12,
+    "duration": 2.56
+  },
+  {
+    "text": "Thanks for watching Math Antics, \nand I'll see ya next time!",
+    "start": 718.68,
+    "duration": 3.14
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 722.62,
+    "duration": 3.0
+  }
+]

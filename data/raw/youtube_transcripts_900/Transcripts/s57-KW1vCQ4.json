@@ -1,0 +1,1907 @@
+[
+  {
+    "text": "in this video i'm going to show you how",
+    "start": 0.32,
+    "duration": 2.8
+  },
+  {
+    "text": "to program and run through all the",
+    "start": 1.52,
+    "duration": 4.319
+  },
+  {
+    "text": "features of the kwikset powerbolt 2",
+    "start": 3.12,
+    "duration": 3.84
+  },
+  {
+    "text": "deadbolt",
+    "start": 5.839,
+    "duration": 2.961
+  },
+  {
+    "text": "and we're going to do it",
+    "start": 6.96,
+    "duration": 4.1
+  },
+  {
+    "text": "right now",
+    "start": 8.8,
+    "duration": 5.449
+  },
+  {
+    "text": "[Music]",
+    "start": 11.06,
+    "duration": 3.189
+  },
+  {
+    "text": "so here is the powerbolt deadbolt",
+    "start": 14.32,
+    "duration": 7.68
+  },
+  {
+    "text": "pretty cool design",
+    "start": 19.279,
+    "duration": 5.601
+  },
+  {
+    "text": "what's nice about it is you still have a",
+    "start": 22.0,
+    "duration": 3.76
+  },
+  {
+    "text": "key",
+    "start": 24.88,
+    "duration": 4.319
+  },
+  {
+    "text": "just in case something goes wrong",
+    "start": 25.76,
+    "duration": 4.88
+  },
+  {
+    "text": "and the first thing you want to do is",
+    "start": 29.199,
+    "duration": 4.001
+  },
+  {
+    "text": "just put the key in make sure it turns",
+    "start": 30.64,
+    "duration": 4.24
+  },
+  {
+    "text": "make sure you're good there",
+    "start": 33.2,
+    "duration": 4.08
+  },
+  {
+    "text": "and on the back side here",
+    "start": 34.88,
+    "duration": 4.96
+  },
+  {
+    "text": "to access where the batteries go you",
+    "start": 37.28,
+    "duration": 6.08
+  },
+  {
+    "text": "just grab this cover and pull up",
+    "start": 39.84,
+    "duration": 5.76
+  },
+  {
+    "text": "takes four double a batteries",
+    "start": 43.36,
+    "duration": 4.16
+  },
+  {
+    "text": "and maybe the most important thing to",
+    "start": 45.6,
+    "duration": 5.439
+  },
+  {
+    "text": "remember is if you mess anything up",
+    "start": 47.52,
+    "duration": 4.8
+  },
+  {
+    "text": "there's this little",
+    "start": 51.039,
+    "duration": 3.52
+  },
+  {
+    "text": "reset button right here",
+    "start": 52.32,
+    "duration": 4.079
+  },
+  {
+    "text": "and if you ever want to return this to",
+    "start": 54.559,
+    "duration": 5.041
+  },
+  {
+    "text": "factory settings you put this",
+    "start": 56.399,
+    "duration": 4.561
+  },
+  {
+    "text": "in here",
+    "start": 59.6,
+    "duration": 4.0
+  },
+  {
+    "text": "and hold it down for five seconds",
+    "start": 60.96,
+    "duration": 5.519
+  },
+  {
+    "text": "you're gonna hear beep",
+    "start": 63.6,
+    "duration": 2.879
+  },
+  {
+    "text": "beeps three times",
+    "start": 67.439,
+    "duration": 4.241
+  },
+  {
+    "text": "and this all the programming that's been",
+    "start": 69.04,
+    "duration": 5.36
+  },
+  {
+    "text": "done to it has been reset",
+    "start": 71.68,
+    "duration": 4.64
+  },
+  {
+    "text": "so let's start from scratch",
+    "start": 74.4,
+    "duration": 4.16
+  },
+  {
+    "text": "so a couple things to note on the back",
+    "start": 76.32,
+    "duration": 4.96
+  },
+  {
+    "text": "side of the battery cover you do have",
+    "start": 78.56,
+    "duration": 5.44
+  },
+  {
+    "text": "kind of a cheat sheet on how to program",
+    "start": 81.28,
+    "duration": 3.519
+  },
+  {
+    "text": "this",
+    "start": 84.0,
+    "duration": 3.759
+  },
+  {
+    "text": "and the instructions are very detailed",
+    "start": 84.799,
+    "duration": 4.721
+  },
+  {
+    "text": "but there's something about being able",
+    "start": 87.759,
+    "duration": 4.161
+  },
+  {
+    "text": "to see this in action see somebody",
+    "start": 89.52,
+    "duration": 3.68
+  },
+  {
+    "text": "actually doing it and that's why i'm",
+    "start": 91.92,
+    "duration": 2.879
+  },
+  {
+    "text": "making this video just so",
+    "start": 93.2,
+    "duration": 3.36
+  },
+  {
+    "text": "it's a little more clear so i'm going to",
+    "start": 94.799,
+    "duration": 4.32
+  },
+  {
+    "text": "run through all the features of it and",
+    "start": 96.56,
+    "duration": 4.559
+  },
+  {
+    "text": "show you how it works before we get into",
+    "start": 99.119,
+    "duration": 4.0
+  },
+  {
+    "text": "programming this thing if you found this",
+    "start": 101.119,
+    "duration": 3.841
+  },
+  {
+    "text": "video and we're hoping to see how this",
+    "start": 103.119,
+    "duration": 3.04
+  },
+  {
+    "text": "is installed",
+    "start": 104.96,
+    "duration": 4.72
+  },
+  {
+    "text": "it's pretty basic the bolt goes in first",
+    "start": 106.159,
+    "duration": 4.481
+  },
+  {
+    "text": "you put",
+    "start": 109.68,
+    "duration": 3.6
+  },
+  {
+    "text": "this piece through the actual",
+    "start": 110.64,
+    "duration": 3.759
+  },
+  {
+    "text": "lock piece",
+    "start": 113.28,
+    "duration": 3.119
+  },
+  {
+    "text": "make sure it's in the unlocked position",
+    "start": 114.399,
+    "duration": 4.0
+  },
+  {
+    "text": "make sure the piece that's going through",
+    "start": 116.399,
+    "duration": 3.601
+  },
+  {
+    "text": "here is flat",
+    "start": 118.399,
+    "duration": 3.76
+  },
+  {
+    "text": "then there's a bracket that goes on the",
+    "start": 120.0,
+    "duration": 5.84
+  },
+  {
+    "text": "back side that attaches to that piece",
+    "start": 122.159,
+    "duration": 5.921
+  },
+  {
+    "text": "the wire runs through you connect it to",
+    "start": 125.84,
+    "duration": 3.919
+  },
+  {
+    "text": "the wire on this piece",
+    "start": 128.08,
+    "duration": 3.68
+  },
+  {
+    "text": "and then there's three bolts that hold",
+    "start": 129.759,
+    "duration": 3.441
+  },
+  {
+    "text": "this piece on",
+    "start": 131.76,
+    "duration": 3.199
+  },
+  {
+    "text": "really simple hopefully that explanation",
+    "start": 133.2,
+    "duration": 4.24
+  },
+  {
+    "text": "is enough really this video is just",
+    "start": 134.959,
+    "duration": 4.081
+  },
+  {
+    "text": "basically to show you all of the",
+    "start": 137.44,
+    "duration": 4.24
+  },
+  {
+    "text": "features and how to program this",
+    "start": 139.04,
+    "duration": 5.6
+  },
+  {
+    "text": "so this comes pre-programmed with a",
+    "start": 141.68,
+    "duration": 4.48
+  },
+  {
+    "text": "master code",
+    "start": 144.64,
+    "duration": 3.52
+  },
+  {
+    "text": "and what the master code is is it's not",
+    "start": 146.16,
+    "duration": 4.4
+  },
+  {
+    "text": "going to unlock the door but it is",
+    "start": 148.16,
+    "duration": 4.719
+  },
+  {
+    "text": "basically like the password to be able",
+    "start": 150.56,
+    "duration": 4.88
+  },
+  {
+    "text": "to program this so if you think about",
+    "start": 152.879,
+    "duration": 4.561
+  },
+  {
+    "text": "going on youtube you enter your password",
+    "start": 155.44,
+    "duration": 4.32
+  },
+  {
+    "text": "and it unlocks youtube but in order to",
+    "start": 157.44,
+    "duration": 4.079
+  },
+  {
+    "text": "get to your computer first that's the",
+    "start": 159.76,
+    "duration": 3.68
+  },
+  {
+    "text": "master code you put in your password",
+    "start": 161.519,
+    "duration": 3.201
+  },
+  {
+    "text": "into the computer",
+    "start": 163.44,
+    "duration": 2.96
+  },
+  {
+    "text": "and then you do the password to get onto",
+    "start": 164.72,
+    "duration": 4.239
+  },
+  {
+    "text": "youtube so the master code that is",
+    "start": 166.4,
+    "duration": 5.6
+  },
+  {
+    "text": "factory set for this is zero",
+    "start": 168.959,
+    "duration": 6.321
+  },
+  {
+    "text": "zero zero zero so anytime you're going",
+    "start": 172.0,
+    "duration": 5.04
+  },
+  {
+    "text": "to do some programming you need to enter",
+    "start": 175.28,
+    "duration": 3.52
+  },
+  {
+    "text": "that code and you can change that code",
+    "start": 177.04,
+    "duration": 3.199
+  },
+  {
+    "text": "which i'll show you a little later in",
+    "start": 178.8,
+    "duration": 2.64
+  },
+  {
+    "text": "the video",
+    "start": 180.239,
+    "duration": 2.481
+  },
+  {
+    "text": "first thing you want to do after",
+    "start": 181.44,
+    "duration": 4.4
+  },
+  {
+    "text": "installing this is you want to set",
+    "start": 182.72,
+    "duration": 3.92
+  },
+  {
+    "text": "the",
+    "start": 185.84,
+    "duration": 3.6
+  },
+  {
+    "text": "lock direction so you want",
+    "start": 186.64,
+    "duration": 3.679
+  },
+  {
+    "text": "this",
+    "start": 189.44,
+    "duration": 3.439
+  },
+  {
+    "text": "in the unlocked position",
+    "start": 190.319,
+    "duration": 5.041
+  },
+  {
+    "text": "and you're going to enter a code to tell",
+    "start": 192.879,
+    "duration": 4.801
+  },
+  {
+    "text": "this to figure out which way is locked",
+    "start": 195.36,
+    "duration": 4.08
+  },
+  {
+    "text": "and which way is unlocked",
+    "start": 197.68,
+    "duration": 3.52
+  },
+  {
+    "text": "and you do that by entering your master",
+    "start": 199.44,
+    "duration": 4.079
+  },
+  {
+    "text": "code zero zero",
+    "start": 201.2,
+    "duration": 4.08
+  },
+  {
+    "text": "zero zero",
+    "start": 203.519,
+    "duration": 3.601
+  },
+  {
+    "text": "press the lock button",
+    "start": 205.28,
+    "duration": 3.2
+  },
+  {
+    "text": "press zero",
+    "start": 207.12,
+    "duration": 3.6
+  },
+  {
+    "text": "and then the lock button",
+    "start": 208.48,
+    "duration": 4.0
+  },
+  {
+    "text": "and the deadbolt's going to come out",
+    "start": 210.72,
+    "duration": 3.68
+  },
+  {
+    "text": "and go back in",
+    "start": 212.48,
+    "duration": 3.28
+  },
+  {
+    "text": "and beep twice",
+    "start": 214.4,
+    "duration": 3.36
+  },
+  {
+    "text": "if it beeps three times",
+    "start": 215.76,
+    "duration": 3.759
+  },
+  {
+    "text": "and this doesn't move you did something",
+    "start": 217.76,
+    "duration": 2.88
+  },
+  {
+    "text": "wrong",
+    "start": 219.519,
+    "duration": 3.36
+  },
+  {
+    "text": "so when i first did this i noticed that",
+    "start": 220.64,
+    "duration": 5.92
+  },
+  {
+    "text": "when i opened this up there was a little",
+    "start": 222.879,
+    "duration": 5.681
+  },
+  {
+    "text": "it like caught a little bit somewhere",
+    "start": 226.56,
+    "duration": 4.8
+  },
+  {
+    "text": "here so i tried entering that code a",
+    "start": 228.56,
+    "duration": 4.72
+  },
+  {
+    "text": "bunch of times and it didn't work so",
+    "start": 231.36,
+    "duration": 4.32
+  },
+  {
+    "text": "what i ended up doing",
+    "start": 233.28,
+    "duration": 5.84
+  },
+  {
+    "text": "was i put it in the lock position i did",
+    "start": 235.68,
+    "duration": 4.96
+  },
+  {
+    "text": "that same code",
+    "start": 239.12,
+    "duration": 5.6
+  },
+  {
+    "text": "zero zero zero zero lock zero lock",
+    "start": 240.64,
+    "duration": 6.56
+  },
+  {
+    "text": "and it went back in and then i did that",
+    "start": 244.72,
+    "duration": 4.159
+  },
+  {
+    "text": "factory reset",
+    "start": 247.2,
+    "duration": 3.599
+  },
+  {
+    "text": "did it again and it",
+    "start": 248.879,
+    "duration": 4.401
+  },
+  {
+    "text": "reset something in here so if that's",
+    "start": 250.799,
+    "duration": 3.681
+  },
+  {
+    "text": "something that you're having trouble",
+    "start": 253.28,
+    "duration": 2.0
+  },
+  {
+    "text": "with",
+    "start": 254.48,
+    "duration": 3.279
+  },
+  {
+    "text": "try that and that should work",
+    "start": 255.28,
+    "duration": 3.919
+  },
+  {
+    "text": "so now that",
+    "start": 257.759,
+    "duration": 3.521
+  },
+  {
+    "text": "that is set up it knows which way is",
+    "start": 259.199,
+    "duration": 4.641
+  },
+  {
+    "text": "locked and which way is unlocked we can",
+    "start": 261.28,
+    "duration": 3.76
+  },
+  {
+    "text": "keep going",
+    "start": 263.84,
+    "duration": 4.4
+  },
+  {
+    "text": "to lock this thing you don't need a code",
+    "start": 265.04,
+    "duration": 5.52
+  },
+  {
+    "text": "all you have to do is press",
+    "start": 268.24,
+    "duration": 3.44
+  },
+  {
+    "text": "lock",
+    "start": 270.56,
+    "duration": 3.28
+  },
+  {
+    "text": "but make sure that you're not outside",
+    "start": 271.68,
+    "duration": 4.239
+  },
+  {
+    "text": "without having set the code first",
+    "start": 273.84,
+    "duration": 3.52
+  },
+  {
+    "text": "because",
+    "start": 275.919,
+    "duration": 3.121
+  },
+  {
+    "text": "i mean or without having a key because",
+    "start": 277.36,
+    "duration": 2.88
+  },
+  {
+    "text": "you're not going to be able to get back",
+    "start": 279.04,
+    "duration": 3.599
+  },
+  {
+    "text": "in unless you have the key so in order",
+    "start": 280.24,
+    "duration": 5.84
+  },
+  {
+    "text": "to lock this that's it real simple",
+    "start": 282.639,
+    "duration": 5.761
+  },
+  {
+    "text": "just push the lock button this deadbolt",
+    "start": 286.08,
+    "duration": 4.399
+  },
+  {
+    "text": "actually comes pre-programmed with the",
+    "start": 288.4,
+    "duration": 5.519
+  },
+  {
+    "text": "user code and that is",
+    "start": 290.479,
+    "duration": 7.361
+  },
+  {
+    "text": "one two three four",
+    "start": 293.919,
+    "duration": 3.921
+  },
+  {
+    "text": "and it's recommended that you obviously",
+    "start": 298.08,
+    "duration": 4.399
+  },
+  {
+    "text": "delete that because people have the",
+    "start": 300.479,
+    "duration": 4.881
+  },
+  {
+    "text": "internet and they can see this video",
+    "start": 302.479,
+    "duration": 6.321
+  },
+  {
+    "text": "so to add a code that will unlock",
+    "start": 305.36,
+    "duration": 6.559
+  },
+  {
+    "text": "the door it's called a user code",
+    "start": 308.8,
+    "duration": 5.2
+  },
+  {
+    "text": "what you want to do is enter your master",
+    "start": 311.919,
+    "duration": 3.12
+  },
+  {
+    "text": "code",
+    "start": 314.0,
+    "duration": 4.08
+  },
+  {
+    "text": "zero zero zero zero",
+    "start": 315.039,
+    "duration": 6.481
+  },
+  {
+    "text": "press unlock it'll beep once then you",
+    "start": 318.08,
+    "duration": 5.28
+  },
+  {
+    "text": "press one",
+    "start": 321.52,
+    "duration": 4.32
+  },
+  {
+    "text": "then you press lock again enter your",
+    "start": 323.36,
+    "duration": 4.64
+  },
+  {
+    "text": "code between four and ten digits i'm",
+    "start": 325.84,
+    "duration": 5.919
+  },
+  {
+    "text": "gonna do one one one one and then the",
+    "start": 328.0,
+    "duration": 5.6
+  },
+  {
+    "text": "lock button",
+    "start": 331.759,
+    "duration": 4.321
+  },
+  {
+    "text": "that'll beep twice if it beeps three",
+    "start": 333.6,
+    "duration": 5.2
+  },
+  {
+    "text": "times again you did something wrong",
+    "start": 336.08,
+    "duration": 4.64
+  },
+  {
+    "text": "so now",
+    "start": 338.8,
+    "duration": 3.679
+  },
+  {
+    "text": "you lock this say you're outside of the",
+    "start": 340.72,
+    "duration": 3.44
+  },
+  {
+    "text": "house",
+    "start": 342.479,
+    "duration": 4.401
+  },
+  {
+    "text": "and to unlock you enter your user code",
+    "start": 344.16,
+    "duration": 6.0
+  },
+  {
+    "text": "one one one one",
+    "start": 346.88,
+    "duration": 5.68
+  },
+  {
+    "text": "unlock",
+    "start": 350.16,
+    "duration": 4.56
+  },
+  {
+    "text": "user code is set again",
+    "start": 352.56,
+    "duration": 3.919
+  },
+  {
+    "text": "if this was locked and you try using the",
+    "start": 354.72,
+    "duration": 7.12
+  },
+  {
+    "text": "master code zero zero zero zero",
+    "start": 356.479,
+    "duration": 7.921
+  },
+  {
+    "text": "beeps three times nothing's gonna happen",
+    "start": 361.84,
+    "duration": 4.88
+  },
+  {
+    "text": "so let's say you want a code",
+    "start": 364.4,
+    "duration": 3.84
+  },
+  {
+    "text": "specifically",
+    "start": 366.72,
+    "duration": 4.16
+  },
+  {
+    "text": "for the kids or someone else",
+    "start": 368.24,
+    "duration": 5.04
+  },
+  {
+    "text": "you do that same thing enter your master",
+    "start": 370.88,
+    "duration": 6.0
+  },
+  {
+    "text": "code zero zero zero zero",
+    "start": 373.28,
+    "duration": 5.28
+  },
+  {
+    "text": "lock",
+    "start": 376.88,
+    "duration": 4.08
+  },
+  {
+    "text": "one lock",
+    "start": 378.56,
+    "duration": 5.52
+  },
+  {
+    "text": "enter your new code three three three",
+    "start": 380.96,
+    "duration": 5.76
+  },
+  {
+    "text": "three again it can be four to ten digits",
+    "start": 384.08,
+    "duration": 3.92
+  },
+  {
+    "text": "lock",
+    "start": 386.72,
+    "duration": 3.52
+  },
+  {
+    "text": "beeps twice now you have two user codes",
+    "start": 388.0,
+    "duration": 3.68
+  },
+  {
+    "text": "programmed in here",
+    "start": 390.24,
+    "duration": 2.6
+  },
+  {
+    "text": "we'll lock",
+    "start": 391.68,
+    "duration": 4.48
+  },
+  {
+    "text": "this one",
+    "start": 392.84,
+    "duration": 3.32
+  },
+  {
+    "text": "lock",
+    "start": 396.479,
+    "duration": 3.201
+  },
+  {
+    "text": "that unlocks",
+    "start": 397.52,
+    "duration": 4.48
+  },
+  {
+    "text": "and then we'll try the kids code",
+    "start": 399.68,
+    "duration": 4.959
+  },
+  {
+    "text": "three three three three",
+    "start": 402.0,
+    "duration": 4.24
+  },
+  {
+    "text": "block",
+    "start": 404.639,
+    "duration": 2.721
+  },
+  {
+    "text": "unlocked",
+    "start": 406.24,
+    "duration": 4.959
+  },
+  {
+    "text": "you can have up to six user codes in one",
+    "start": 407.36,
+    "duration": 6.48
+  },
+  {
+    "text": "one time user code which is really cool",
+    "start": 411.199,
+    "duration": 4.72
+  },
+  {
+    "text": "it'll only work one time",
+    "start": 413.84,
+    "duration": 4.4
+  },
+  {
+    "text": "as a note don't make any of your user",
+    "start": 415.919,
+    "duration": 5.12
+  },
+  {
+    "text": "codes the same as your master code",
+    "start": 418.24,
+    "duration": 5.359
+  },
+  {
+    "text": "to set a one-time user code let's say",
+    "start": 421.039,
+    "duration": 4.401
+  },
+  {
+    "text": "somebody's dropping something off or",
+    "start": 423.599,
+    "duration": 3.281
+  },
+  {
+    "text": "somebody's coming to work on your house",
+    "start": 425.44,
+    "duration": 4.159
+  },
+  {
+    "text": "what you want to do is enter your master",
+    "start": 426.88,
+    "duration": 5.039
+  },
+  {
+    "text": "code",
+    "start": 429.599,
+    "duration": 3.6
+  },
+  {
+    "text": "four zeros",
+    "start": 431.919,
+    "duration": 2.801
+  },
+  {
+    "text": "lock",
+    "start": 433.199,
+    "duration": 2.641
+  },
+  {
+    "text": "one",
+    "start": 434.72,
+    "duration": 2.0
+  },
+  {
+    "text": "nine",
+    "start": 435.84,
+    "duration": 1.919
+  },
+  {
+    "text": "lock",
+    "start": 436.72,
+    "duration": 4.8
+  },
+  {
+    "text": "and then we'll do five five five five",
+    "start": 437.759,
+    "duration": 5.28
+  },
+  {
+    "text": "lock",
+    "start": 441.52,
+    "duration": 2.88
+  },
+  {
+    "text": "beeps twice",
+    "start": 443.039,
+    "duration": 3.521
+  },
+  {
+    "text": "and now that's set now watch this this",
+    "start": 444.4,
+    "duration": 3.519
+  },
+  {
+    "text": "is really cool",
+    "start": 446.56,
+    "duration": 2.8
+  },
+  {
+    "text": "locked",
+    "start": 447.919,
+    "duration": 3.601
+  },
+  {
+    "text": "we enter the one-time passcode",
+    "start": 449.36,
+    "duration": 3.679
+  },
+  {
+    "text": "one two",
+    "start": 451.52,
+    "duration": 3.119
+  },
+  {
+    "text": "three four",
+    "start": 453.039,
+    "duration": 2.88
+  },
+  {
+    "text": "block",
+    "start": 454.639,
+    "duration": 2.721
+  },
+  {
+    "text": "it unlocks",
+    "start": 455.919,
+    "duration": 4.0
+  },
+  {
+    "text": "now let's try it again",
+    "start": 457.36,
+    "duration": 5.48
+  },
+  {
+    "text": "one two three four",
+    "start": 459.919,
+    "duration": 5.201
+  },
+  {
+    "text": "block doesn't work",
+    "start": 462.84,
+    "duration": 4.6
+  },
+  {
+    "text": "because that deletes immediately",
+    "start": 465.12,
+    "duration": 6.32
+  },
+  {
+    "text": "after use which is really cool",
+    "start": 467.44,
+    "duration": 4.0
+  },
+  {
+    "text": "now to delete individual codes you press",
+    "start": 471.599,
+    "duration": 7.201
+  },
+  {
+    "text": "zero zero zero 0",
+    "start": 475.12,
+    "duration": 4.799
+  },
+  {
+    "text": "lock",
+    "start": 478.8,
+    "duration": 3.2
+  },
+  {
+    "text": "3",
+    "start": 479.919,
+    "duration": 3.041
+  },
+  {
+    "text": "lock",
+    "start": 482.0,
+    "duration": 2.639
+  },
+  {
+    "text": "and then enter the code",
+    "start": 482.96,
+    "duration": 3.04
+  },
+  {
+    "text": "1 2",
+    "start": 484.639,
+    "duration": 3.28
+  },
+  {
+    "text": "3 4",
+    "start": 486.0,
+    "duration": 3.68
+  },
+  {
+    "text": "lock",
+    "start": 487.919,
+    "duration": 4.56
+  },
+  {
+    "text": "beeps twice now that user code is",
+    "start": 489.68,
+    "duration": 3.919
+  },
+  {
+    "text": "deleted",
+    "start": 492.479,
+    "duration": 3.921
+  },
+  {
+    "text": "we'll test it out",
+    "start": 493.599,
+    "duration": 2.801
+  },
+  {
+    "text": "deleted",
+    "start": 498.72,
+    "duration": 2.479
+  },
+  {
+    "text": "so let's say you want to delete all of",
+    "start": 501.84,
+    "duration": 6.32
+  },
+  {
+    "text": "the user codes and start over",
+    "start": 504.16,
+    "duration": 6.64
+  },
+  {
+    "text": "same thing enter your master code zero",
+    "start": 508.16,
+    "duration": 5.359
+  },
+  {
+    "text": "zero zero zero",
+    "start": 510.8,
+    "duration": 4.479
+  },
+  {
+    "text": "lock",
+    "start": 513.519,
+    "duration": 2.801
+  },
+  {
+    "text": "five",
+    "start": 515.279,
+    "duration": 2.56
+  },
+  {
+    "text": "and lock",
+    "start": 516.32,
+    "duration": 5.04
+  },
+  {
+    "text": "beeps twice now all of your user codes",
+    "start": 517.839,
+    "duration": 7.76
+  },
+  {
+    "text": "are deleted we'll try the first one",
+    "start": 521.36,
+    "duration": 4.239
+  },
+  {
+    "text": "beep three times",
+    "start": 525.92,
+    "duration": 3.599
+  },
+  {
+    "text": "they're all reset",
+    "start": 527.76,
+    "duration": 4.4
+  },
+  {
+    "text": "now keep in mind once you delete all the",
+    "start": 529.519,
+    "duration": 4.561
+  },
+  {
+    "text": "user codes",
+    "start": 532.16,
+    "duration": 4.239
+  },
+  {
+    "text": "this will not lock with",
+    "start": 534.08,
+    "duration": 3.84
+  },
+  {
+    "text": "the lock button",
+    "start": 536.399,
+    "duration": 3.841
+  },
+  {
+    "text": "so you have to use the key until you set",
+    "start": 537.92,
+    "duration": 4.08
+  },
+  {
+    "text": "a user code",
+    "start": 540.24,
+    "duration": 3.599
+  },
+  {
+    "text": "now let's say",
+    "start": 542.0,
+    "duration": 3.92
+  },
+  {
+    "text": "you don't like the beeping noise of any",
+    "start": 543.839,
+    "duration": 3.0
+  },
+  {
+    "text": "of these",
+    "start": 545.92,
+    "duration": 2.479
+  },
+  {
+    "text": "buttons",
+    "start": 546.839,
+    "duration": 3.801
+  },
+  {
+    "text": "well you can turn that off you can mute",
+    "start": 548.399,
+    "duration": 5.201
+  },
+  {
+    "text": "the deadbolt and the way to do that is",
+    "start": 550.64,
+    "duration": 6.0
+  },
+  {
+    "text": "enter your master code",
+    "start": 553.6,
+    "duration": 3.04
+  },
+  {
+    "text": "lock",
+    "start": 557.2,
+    "duration": 2.88
+  },
+  {
+    "text": "one",
+    "start": 558.16,
+    "duration": 3.04
+  },
+  {
+    "text": "five",
+    "start": 560.08,
+    "duration": 2.879
+  },
+  {
+    "text": "lock",
+    "start": 561.2,
+    "duration": 4.079
+  },
+  {
+    "text": "beeps twice",
+    "start": 562.959,
+    "duration": 5.201
+  },
+  {
+    "text": "and it will not beep again",
+    "start": 565.279,
+    "duration": 5.521
+  },
+  {
+    "text": "as you can see",
+    "start": 568.16,
+    "duration": 2.64
+  },
+  {
+    "text": "and to turn that back on you do the same",
+    "start": 571.279,
+    "duration": 4.401
+  },
+  {
+    "text": "thing",
+    "start": 573.519,
+    "duration": 4.801
+  },
+  {
+    "text": "master code",
+    "start": 575.68,
+    "duration": 2.64
+  },
+  {
+    "text": "lock",
+    "start": 579.279,
+    "duration": 2.24
+  },
+  {
+    "text": "one",
+    "start": 580.72,
+    "duration": 2.88
+  },
+  {
+    "text": "five lock",
+    "start": 581.519,
+    "duration": 3.431
+  },
+  {
+    "text": "beeps twice",
+    "start": 583.6,
+    "duration": 2.88
+  },
+  {
+    "text": "[Applause]",
+    "start": 584.95,
+    "duration": 3.37
+  },
+  {
+    "text": "and it's unmuted",
+    "start": 586.48,
+    "duration": 4.88
+  },
+  {
+    "text": "this deadbolt also has an auto lock",
+    "start": 588.32,
+    "duration": 4.24
+  },
+  {
+    "text": "feature so",
+    "start": 591.36,
+    "duration": 3.039
+  },
+  {
+    "text": "once you unlock it",
+    "start": 592.56,
+    "duration": 4.88
+  },
+  {
+    "text": "it will automatically re-lock within 30",
+    "start": 594.399,
+    "duration": 4.0
+  },
+  {
+    "text": "seconds",
+    "start": 597.44,
+    "duration": 5.36
+  },
+  {
+    "text": "and by default it does not have it on so",
+    "start": 598.399,
+    "duration": 7.281
+  },
+  {
+    "text": "you need to program that in order to",
+    "start": 602.8,
+    "duration": 5.12
+  },
+  {
+    "text": "have the feature work so in order to",
+    "start": 605.68,
+    "duration": 6.719
+  },
+  {
+    "text": "turn that on you do zero zero zero zero",
+    "start": 607.92,
+    "duration": 6.08
+  },
+  {
+    "text": "lock",
+    "start": 612.399,
+    "duration": 4.641
+  },
+  {
+    "text": "one one lock",
+    "start": 614.0,
+    "duration": 4.56
+  },
+  {
+    "text": "beeps twice",
+    "start": 617.04,
+    "duration": 4.0
+  },
+  {
+    "text": "and now when i unlock it",
+    "start": 618.56,
+    "duration": 4.8
+  },
+  {
+    "text": "so let's lock it and when i unlock it",
+    "start": 621.04,
+    "duration": 4.96
+  },
+  {
+    "text": "with my code",
+    "start": 623.36,
+    "duration": 2.64
+  },
+  {
+    "text": "we're going to wait 30 seconds",
+    "start": 628.72,
+    "duration": 2.799
+  },
+  {
+    "text": "and",
+    "start": 630.8,
+    "duration": 1.599
+  },
+  {
+    "text": "it should",
+    "start": 631.519,
+    "duration": 2.56
+  },
+  {
+    "text": "lock back up",
+    "start": 632.399,
+    "duration": 4.0
+  },
+  {
+    "text": "now you can like i said this is going to",
+    "start": 634.079,
+    "duration": 4.32
+  },
+  {
+    "text": "be 30 seconds",
+    "start": 636.399,
+    "duration": 3.761
+  },
+  {
+    "text": "you can change it",
+    "start": 638.399,
+    "duration": 5.201
+  },
+  {
+    "text": "so that it goes anywhere from 10 seconds",
+    "start": 640.16,
+    "duration": 5.359
+  },
+  {
+    "text": "to 50 seconds",
+    "start": 643.6,
+    "duration": 4.08
+  },
+  {
+    "text": "and i'll show you how to do that next",
+    "start": 645.519,
+    "duration": 3.681
+  },
+  {
+    "text": "we're just gonna wait for that to pop",
+    "start": 647.68,
+    "duration": 3.12
+  },
+  {
+    "text": "out",
+    "start": 649.2,
+    "duration": 4.079
+  },
+  {
+    "text": "give it some time this might be a good",
+    "start": 650.8,
+    "duration": 4.08
+  },
+  {
+    "text": "thing if",
+    "start": 653.279,
+    "duration": 4.881
+  },
+  {
+    "text": "you are forgetful like myself you run",
+    "start": 654.88,
+    "duration": 5.199
+  },
+  {
+    "text": "out of the house",
+    "start": 658.16,
+    "duration": 5.119
+  },
+  {
+    "text": "you get down the street and worry about",
+    "start": 660.079,
+    "duration": 5.361
+  },
+  {
+    "text": "this thing locking well it doesn't",
+    "start": 663.279,
+    "duration": 3.921
+  },
+  {
+    "text": "matter because you have the auto lock",
+    "start": 665.44,
+    "duration": 3.2
+  },
+  {
+    "text": "feature on",
+    "start": 667.2,
+    "duration": 2.96
+  },
+  {
+    "text": "but i could also see how that could be",
+    "start": 668.64,
+    "duration": 3.84
+  },
+  {
+    "text": "annoying so to disable it",
+    "start": 670.16,
+    "duration": 6.56
+  },
+  {
+    "text": "you just do the same thing master code",
+    "start": 672.48,
+    "duration": 4.24
+  },
+  {
+    "text": "lock",
+    "start": 676.8,
+    "duration": 4.159
+  },
+  {
+    "text": "one one lock",
+    "start": 678.16,
+    "duration": 5.2
+  },
+  {
+    "text": "and that is disabled",
+    "start": 680.959,
+    "duration": 5.12
+  },
+  {
+    "text": "now let's say you want this to lock",
+    "start": 683.36,
+    "duration": 5.36
+  },
+  {
+    "text": "quicker or slower with the auto lock",
+    "start": 686.079,
+    "duration": 3.601
+  },
+  {
+    "text": "feature",
+    "start": 688.72,
+    "duration": 2.48
+  },
+  {
+    "text": "first you need to turn the auto lock",
+    "start": 689.68,
+    "duration": 2.8
+  },
+  {
+    "text": "feature on",
+    "start": 691.2,
+    "duration": 4.0
+  },
+  {
+    "text": "and then enter the code and you can do",
+    "start": 692.48,
+    "duration": 6.32
+  },
+  {
+    "text": "10 seconds 20 30 40 or 50 seconds",
+    "start": 695.2,
+    "duration": 4.93
+  },
+  {
+    "text": "and",
+    "start": 698.8,
+    "duration": 2.8
+  },
+  {
+    "text": "[Applause]",
+    "start": 700.13,
+    "duration": 3.949
+  },
+  {
+    "text": "that was 30 seconds",
+    "start": 701.6,
+    "duration": 5.2
+  },
+  {
+    "text": "to change that what you're gonna do",
+    "start": 704.079,
+    "duration": 6.161
+  },
+  {
+    "text": "is again enter your master code",
+    "start": 706.8,
+    "duration": 5.039
+  },
+  {
+    "text": "press lock",
+    "start": 710.24,
+    "duration": 2.56
+  },
+  {
+    "text": "then do",
+    "start": 711.839,
+    "duration": 1.841
+  },
+  {
+    "text": "one",
+    "start": 712.8,
+    "duration": 2.4
+  },
+  {
+    "text": "three",
+    "start": 713.68,
+    "duration": 4.959
+  },
+  {
+    "text": "lock and then i'm gonna do one that's",
+    "start": 715.2,
+    "duration": 5.12
+  },
+  {
+    "text": "for ten seconds",
+    "start": 718.639,
+    "duration": 3.041
+  },
+  {
+    "text": "lock",
+    "start": 720.32,
+    "duration": 3.519
+  },
+  {
+    "text": "beeps twice let's unlock it with our",
+    "start": 721.68,
+    "duration": 3.12
+  },
+  {
+    "text": "code",
+    "start": 723.839,
+    "duration": 3.361
+  },
+  {
+    "text": "one one one one",
+    "start": 724.8,
+    "duration": 4.24
+  },
+  {
+    "text": "unlock",
+    "start": 727.2,
+    "duration": 4.079
+  },
+  {
+    "text": "now this is going to lock back up in 10",
+    "start": 729.04,
+    "duration": 3.84
+  },
+  {
+    "text": "seconds and",
+    "start": 731.279,
+    "duration": 3.281
+  },
+  {
+    "text": "if you wanted to change that",
+    "start": 732.88,
+    "duration": 4.56
+  },
+  {
+    "text": "replace the one for 10 seconds",
+    "start": 734.56,
+    "duration": 4.88
+  },
+  {
+    "text": "2 is for 20 seconds",
+    "start": 737.44,
+    "duration": 5.92
+  },
+  {
+    "text": "5 is actually for 30. 7 is for 40 and 9",
+    "start": 739.44,
+    "duration": 6.24
+  },
+  {
+    "text": "is for 50 seconds",
+    "start": 743.36,
+    "duration": 4.96
+  },
+  {
+    "text": "now finally to change the master code",
+    "start": 745.68,
+    "duration": 4.719
+  },
+  {
+    "text": "the zero zero zero zero that we've been",
+    "start": 748.32,
+    "duration": 3.199
+  },
+  {
+    "text": "using",
+    "start": 750.399,
+    "duration": 3.601
+  },
+  {
+    "text": "what you do is you enter that code",
+    "start": 751.519,
+    "duration": 4.32
+  },
+  {
+    "text": "one two three",
+    "start": 754.0,
+    "duration": 3.6
+  },
+  {
+    "text": "four lock",
+    "start": 755.839,
+    "duration": 2.641
+  },
+  {
+    "text": "press",
+    "start": 757.6,
+    "duration": 2.32
+  },
+  {
+    "text": "7",
+    "start": 758.48,
+    "duration": 2.24
+  },
+  {
+    "text": "lock",
+    "start": 759.92,
+    "duration": 3.44
+  },
+  {
+    "text": "enter your new master code up to 10",
+    "start": 760.72,
+    "duration": 10.119
+  },
+  {
+    "text": "digits 1 3 5 7 9 2 4 6 8 0",
+    "start": 763.36,
+    "duration": 10.08
+  },
+  {
+    "text": "lock if you want to be real secure you",
+    "start": 770.839,
+    "duration": 4.361
+  },
+  {
+    "text": "can go up to 10 digits",
+    "start": 773.44,
+    "duration": 3.839
+  },
+  {
+    "text": "so now anytime you want to program this",
+    "start": 775.2,
+    "duration": 4.0
+  },
+  {
+    "text": "you need to enter that",
+    "start": 777.279,
+    "duration": 5.8
+  },
+  {
+    "text": "insanely long code",
+    "start": 779.2,
+    "duration": 3.879
+  },
+  {
+    "text": "and now you have a new",
+    "start": 788.24,
+    "duration": 4.159
+  },
+  {
+    "text": "user code",
+    "start": 789.76,
+    "duration": 2.639
+  },
+  {
+    "text": "and if you just did a whole bunch of",
+    "start": 794.88,
+    "duration": 3.12
+  },
+  {
+    "text": "stuff to this like i just did and",
+    "start": 796.079,
+    "duration": 3.44
+  },
+  {
+    "text": "especially if this isn't even your own",
+    "start": 798.0,
+    "duration": 2.72
+  },
+  {
+    "text": "house",
+    "start": 799.519,
+    "duration": 3.76
+  },
+  {
+    "text": "remember that reset button right here",
+    "start": 800.72,
+    "duration": 5.679
+  },
+  {
+    "text": "use a nail or i'm using an allen wrench",
+    "start": 803.279,
+    "duration": 5.68
+  },
+  {
+    "text": "reset it",
+    "start": 806.399,
+    "duration": 2.56
+  },
+  {
+    "text": "it beeps",
+    "start": 809.839,
+    "duration": 4.401
+  },
+  {
+    "text": "and you're back to square one",
+    "start": 811.36,
+    "duration": 4.64
+  },
+  {
+    "text": "so if you have this deadbolt i hope this",
+    "start": 814.24,
+    "duration": 3.36
+  },
+  {
+    "text": "video helped you figure out how to",
+    "start": 816.0,
+    "duration": 4.639
+  },
+  {
+    "text": "program it a lot of times seeing is",
+    "start": 817.6,
+    "duration": 5.84
+  },
+  {
+    "text": "easier than reading the directions and",
+    "start": 820.639,
+    "duration": 5.361
+  },
+  {
+    "text": "trying to figure it out so if you did or",
+    "start": 823.44,
+    "duration": 4.8
+  },
+  {
+    "text": "if you were looking to buy a deadbolt",
+    "start": 826.0,
+    "duration": 3.76
+  },
+  {
+    "text": "this one's pretty cool",
+    "start": 828.24,
+    "duration": 3.039
+  },
+  {
+    "text": "it's up to you i'll leave a link in the",
+    "start": 829.76,
+    "duration": 4.0
+  },
+  {
+    "text": "description over to that if you want to",
+    "start": 831.279,
+    "duration": 4.401
+  },
+  {
+    "text": "buy one and if you want to see more",
+    "start": 833.76,
+    "duration": 4.24
+  },
+  {
+    "text": "videos like this you can click hereish",
+    "start": 835.68,
+    "duration": 3.599
+  },
+  {
+    "text": "and heresh",
+    "start": 838.0,
+    "duration": 3.04
+  },
+  {
+    "text": "check those out and if you haven't",
+    "start": 839.279,
+    "duration": 4.081
+  },
+  {
+    "text": "subscribed yet definitely consider it",
+    "start": 841.04,
+    "duration": 7.08
+  },
+  {
+    "text": "thanks for watching see on the next one",
+    "start": 843.36,
+    "duration": 4.76
+  }
+]

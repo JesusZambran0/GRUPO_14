@@ -1,0 +1,1012 @@
+[
+  {
+    "text": "The four fundamental concepts of",
+    "start": 5.2,
+    "duration": 5.92
+  },
+  {
+    "text": "object-oriented programming are",
+    "start": 8.0,
+    "duration": 6.0
+  },
+  {
+    "text": "abstraction, encapsulation,",
+    "start": 11.12,
+    "duration": 6.32
+  },
+  {
+    "text": "inheritance, and polymorphism.",
+    "start": 14.0,
+    "duration": 6.16
+  },
+  {
+    "text": "Before considering what they mean, first",
+    "start": 17.44,
+    "duration": 6.48
+  },
+  {
+    "text": "consider what is an object.",
+    "start": 20.16,
+    "duration": 6.24
+  },
+  {
+    "text": "An object is a thing from the real",
+    "start": 23.92,
+    "duration": 6.8
+  },
+  {
+    "text": "world. It could be a car, a boat, or a",
+    "start": 26.4,
+    "duration": 6.8
+  },
+  {
+    "text": "book. But it might not be something",
+    "start": 30.72,
+    "duration": 5.44
+  },
+  {
+    "text": "physical that you can touch. It could be",
+    "start": 33.2,
+    "duration": 5.679
+  },
+  {
+    "text": "a dental appointment, a seat reservation",
+    "start": 36.16,
+    "duration": 6.32
+  },
+  {
+    "text": "for the cinema, or a bank account. In",
+    "start": 38.879,
+    "duration": 5.2
+  },
+  {
+    "text": "the realm of object-oriented",
+    "start": 42.48,
+    "duration": 4.72
+  },
+  {
+    "text": "programming, an object is anything of",
+    "start": 44.079,
+    "duration": 5.121
+  },
+  {
+    "text": "interest to the software application",
+    "start": 47.2,
+    "duration": 4.8
+  },
+  {
+    "text": "that you're building. It's anything that",
+    "start": 49.2,
+    "duration": 5.199
+  },
+  {
+    "text": "you want to store and process data",
+    "start": 52.0,
+    "duration": 4.0
+  },
+  {
+    "text": "about.",
+    "start": 54.399,
+    "duration": 7.32
+  },
+  {
+    "text": "Another name for an object is an entity.",
+    "start": 56.0,
+    "duration": 5.719
+  },
+  {
+    "text": "This leads us to the first fundamental",
+    "start": 63.6,
+    "duration": 5.199
+  },
+  {
+    "text": "concept of object-oriented programming,",
+    "start": 65.84,
+    "duration": 6.0
+  },
+  {
+    "text": "namely abstraction.",
+    "start": 68.799,
+    "duration": 7.441
+  },
+  {
+    "text": "Abstraction means to simplify reality.",
+    "start": 71.84,
+    "duration": 7.76
+  },
+  {
+    "text": "For example, a person is an object. But",
+    "start": 76.24,
+    "duration": 5.12
+  },
+  {
+    "text": "if you were designing a new application",
+    "start": 79.6,
+    "duration": 4.72
+  },
+  {
+    "text": "to process data about a person, it's",
+    "start": 81.36,
+    "duration": 5.04
+  },
+  {
+    "text": "unlikely that you'd be interested in",
+    "start": 84.32,
+    "duration": 3.92
+  },
+  {
+    "text": "everything there is to know about a",
+    "start": 86.4,
+    "duration": 4.719
+  },
+  {
+    "text": "person. Rather, you would only concern",
+    "start": 88.24,
+    "duration": 5.36
+  },
+  {
+    "text": "yourself with the data that are relevant",
+    "start": 91.119,
+    "duration": 4.401
+  },
+  {
+    "text": "and the tasks that you want to perform",
+    "start": 93.6,
+    "duration": 5.04
+  },
+  {
+    "text": "with those data.",
+    "start": 95.52,
+    "duration": 6.08
+  },
+  {
+    "text": "To create objects programmatically, you",
+    "start": 98.64,
+    "duration": 6.479
+  },
+  {
+    "text": "need a class. A class is a template for",
+    "start": 101.6,
+    "duration": 6.32
+  },
+  {
+    "text": "creating objects. A class is code",
+    "start": 105.119,
+    "duration": 5.121
+  },
+  {
+    "text": "written by a programmer to define the",
+    "start": 107.92,
+    "duration": 4.239
+  },
+  {
+    "text": "attributes and the operations of an",
+    "start": 110.24,
+    "duration": 5.36
+  },
+  {
+    "text": "object. Attributes describe the object.",
+    "start": 112.159,
+    "duration": 5.521
+  },
+  {
+    "text": "They're sometimes referred to as fields",
+    "start": 115.6,
+    "duration": 4.24
+  },
+  {
+    "text": "because they contain data. Most",
+    "start": 117.68,
+    "duration": 4.56
+  },
+  {
+    "text": "programmers know them as properties.",
+    "start": 119.84,
+    "duration": 4.639
+  },
+  {
+    "text": "Properties are coded within the class",
+    "start": 122.24,
+    "duration": 4.559
+  },
+  {
+    "text": "either as public variables or as",
+    "start": 124.479,
+    "duration": 4.64
+  },
+  {
+    "text": "property procedures.",
+    "start": 126.799,
+    "duration": 4.8
+  },
+  {
+    "text": "Operations are actions that can be done",
+    "start": 129.119,
+    "duration": 5.681
+  },
+  {
+    "text": "to or performed by the object. They're",
+    "start": 131.599,
+    "duration": 5.521
+  },
+  {
+    "text": "sometimes referred to as behaviors, but",
+    "start": 134.8,
+    "duration": 5.6
+  },
+  {
+    "text": "more commonly they're known as methods.",
+    "start": 137.12,
+    "duration": 5.6
+  },
+  {
+    "text": "Methods are programs within the class",
+    "start": 140.4,
+    "duration": 4.8
+  },
+  {
+    "text": "that are coded either as procedures or",
+    "start": 142.72,
+    "duration": 4.879
+  },
+  {
+    "text": "functions.",
+    "start": 145.2,
+    "duration": 4.8
+  },
+  {
+    "text": "A class is a template for creating",
+    "start": 147.599,
+    "duration": 4.881
+  },
+  {
+    "text": "objects and it's often compared with a",
+    "start": 150.0,
+    "duration": 4.879
+  },
+  {
+    "text": "pastry cutter because once it's been",
+    "start": 152.48,
+    "duration": 5.28
+  },
+  {
+    "text": "written, it can be used to create many",
+    "start": 154.879,
+    "duration": 6.64
+  },
+  {
+    "text": "objects of the same type. In fact, a",
+    "start": 157.76,
+    "duration": 6.08
+  },
+  {
+    "text": "class is sometimes referred to as a",
+    "start": 161.519,
+    "duration": 4.0
+  },
+  {
+    "text": "type.",
+    "start": 163.84,
+    "duration": 5.2
+  },
+  {
+    "text": "Each object is an instance of a class in",
+    "start": 165.519,
+    "duration": 6.0
+  },
+  {
+    "text": "the computer's memory. Creating an",
+    "start": 169.04,
+    "duration": 4.88
+  },
+  {
+    "text": "object from a class is therefore known",
+    "start": 171.519,
+    "duration": 5.36
+  },
+  {
+    "text": "as instantiation.",
+    "start": 173.92,
+    "duration": 5.039
+  },
+  {
+    "text": "Once these objects have been created,",
+    "start": 176.879,
+    "duration": 4.881
+  },
+  {
+    "text": "their properties can be assigned values,",
+    "start": 178.959,
+    "duration": 5.601
+  },
+  {
+    "text": "making each object of the same type a",
+    "start": 181.76,
+    "duration": 4.96
+  },
+  {
+    "text": "unique entity.",
+    "start": 184.56,
+    "duration": 4.48
+  },
+  {
+    "text": "Each property is defined in the class by",
+    "start": 186.72,
+    "duration": 4.64
+  },
+  {
+    "text": "a property procedure which may include",
+    "start": 189.04,
+    "duration": 4.88
+  },
+  {
+    "text": "code to validate a property value while",
+    "start": 191.36,
+    "duration": 4.72
+  },
+  {
+    "text": "it's being assigned.",
+    "start": 193.92,
+    "duration": 3.84
+  },
+  {
+    "text": "This helps to ensure the integrity of",
+    "start": 196.08,
+    "duration": 4.72
+  },
+  {
+    "text": "the data contained within the object.",
+    "start": 197.76,
+    "duration": 4.559
+  },
+  {
+    "text": "The property values that have been",
+    "start": 200.8,
+    "duration": 3.68
+  },
+  {
+    "text": "assigned to an object are collectively",
+    "start": 202.319,
+    "duration": 6.321
+  },
+  {
+    "text": "known as the state of the object.",
+    "start": 204.48,
+    "duration": 6.399
+  },
+  {
+    "text": "It's also possible to assign values to",
+    "start": 208.64,
+    "duration": 4.56
+  },
+  {
+    "text": "properties while an object is being",
+    "start": 210.879,
+    "duration": 4.801
+  },
+  {
+    "text": "instantiated by means of a special",
+    "start": 213.2,
+    "duration": 5.759
+  },
+  {
+    "text": "method called new. This method is known",
+    "start": 215.68,
+    "duration": 6.839
+  },
+  {
+    "text": "as the constructor.",
+    "start": 218.959,
+    "duration": 3.56
+  },
+  {
+    "text": "The second fundamental concept of",
+    "start": 225.28,
+    "duration": 4.56
+  },
+  {
+    "text": "object-oriented programming is",
+    "start": 227.36,
+    "duration": 4.4
+  },
+  {
+    "text": "encapsulation.",
+    "start": 229.84,
+    "duration": 4.399
+  },
+  {
+    "text": "This means to hide the complexity of the",
+    "start": 231.76,
+    "duration": 4.96
+  },
+  {
+    "text": "inner workings of an object from the",
+    "start": 234.239,
+    "duration": 4.401
+  },
+  {
+    "text": "programs and the programmers that make",
+    "start": 236.72,
+    "duration": 4.799
+  },
+  {
+    "text": "use of it. It's often referred to as",
+    "start": 238.64,
+    "duration": 5.2
+  },
+  {
+    "text": "information hiding because the data",
+    "start": 241.519,
+    "duration": 4.241
+  },
+  {
+    "text": "contained within an object and the",
+    "start": 243.84,
+    "duration": 4.16
+  },
+  {
+    "text": "functions that manipulate the data are",
+    "start": 245.76,
+    "duration": 5.28
+  },
+  {
+    "text": "bound together and therefore safe from",
+    "start": 248.0,
+    "duration": 6.519
+  },
+  {
+    "text": "outside interference.",
+    "start": 251.04,
+    "duration": 3.479
+  },
+  {
+    "text": "In some big software development",
+    "start": 254.72,
+    "duration": 4.72
+  },
+  {
+    "text": "projects, it's common for more",
+    "start": 257.28,
+    "duration": 4.639
+  },
+  {
+    "text": "experienced programmers to write the",
+    "start": 259.44,
+    "duration": 4.96
+  },
+  {
+    "text": "classes that will be used by the junior",
+    "start": 261.919,
+    "duration": 4.081
+  },
+  {
+    "text": "programmers.",
+    "start": 264.4,
+    "duration": 3.76
+  },
+  {
+    "text": "A class might be made available in the",
+    "start": 266.0,
+    "duration": 5.199
+  },
+  {
+    "text": "form of a class library.",
+    "start": 268.16,
+    "duration": 5.2
+  },
+  {
+    "text": "Indeed, some software development",
+    "start": 271.199,
+    "duration": 4.641
+  },
+  {
+    "text": "companies specialize in developing new",
+    "start": 273.36,
+    "duration": 5.119
+  },
+  {
+    "text": "classes to be used by other software",
+    "start": 275.84,
+    "duration": 4.32
+  },
+  {
+    "text": "developers.",
+    "start": 278.479,
+    "duration": 3.921
+  },
+  {
+    "text": "Compiled class libraries protect their",
+    "start": 280.16,
+    "duration": 5.52
+  },
+  {
+    "text": "intellectual property.",
+    "start": 282.4,
+    "duration": 6.0
+  },
+  {
+    "text": "To write code that will create an object",
+    "start": 285.68,
+    "duration": 5.2
+  },
+  {
+    "text": "from a class, then set its properties",
+    "start": 288.4,
+    "duration": 5.92
+  },
+  {
+    "text": "and call its methods. It's not necessary",
+    "start": 290.88,
+    "duration": 5.36
+  },
+  {
+    "text": "to understand the inner workings of the",
+    "start": 294.32,
+    "duration": 5.2
+  },
+  {
+    "text": "class. All a programmer needs to know is",
+    "start": 296.24,
+    "duration": 5.36
+  },
+  {
+    "text": "the name of the class, the properties",
+    "start": 299.52,
+    "duration": 4.48
+  },
+  {
+    "text": "and methods available, and any data that",
+    "start": 301.6,
+    "duration": 4.879
+  },
+  {
+    "text": "need to be supplied when they're called.",
+    "start": 304.0,
+    "duration": 4.479
+  },
+  {
+    "text": "In other words, all our programmer",
+    "start": 306.479,
+    "duration": 4.401
+  },
+  {
+    "text": "really needs to know about is the",
+    "start": 308.479,
+    "duration": 4.801
+  },
+  {
+    "text": "interface of the class.",
+    "start": 310.88,
+    "duration": 4.159
+  },
+  {
+    "text": "The implementation code of those",
+    "start": 313.28,
+    "duration": 3.759
+  },
+  {
+    "text": "properties and methods can remain a",
+    "start": 315.039,
+    "duration": 5.121
+  },
+  {
+    "text": "mystery. This greatly simplifies the use",
+    "start": 317.039,
+    "duration": 5.361
+  },
+  {
+    "text": "of objects and helps to ensure that the",
+    "start": 320.16,
+    "duration": 5.039
+  },
+  {
+    "text": "data and operations encapsulated within",
+    "start": 322.4,
+    "duration": 6.12
+  },
+  {
+    "text": "are safe.",
+    "start": 325.199,
+    "duration": 3.321
+  },
+  {
+    "text": "The third fundamental concept of",
+    "start": 329.44,
+    "duration": 4.4
+  },
+  {
+    "text": "object-oriented programming is",
+    "start": 331.52,
+    "duration": 4.08
+  },
+  {
+    "text": "inheritance.",
+    "start": 333.84,
+    "duration": 3.76
+  },
+  {
+    "text": "This means that a class can derive its",
+    "start": 335.6,
+    "duration": 4.0
+  },
+  {
+    "text": "methods and properties from another",
+    "start": 337.6,
+    "duration": 4.0
+  },
+  {
+    "text": "class.",
+    "start": 339.6,
+    "duration": 4.4
+  },
+  {
+    "text": "Inheritance can result in a hierarchy of",
+    "start": 341.6,
+    "duration": 5.439
+  },
+  {
+    "text": "classes. For example, this person class",
+    "start": 344.0,
+    "duration": 5.28
+  },
+  {
+    "text": "defines the methods and properties of a",
+    "start": 347.039,
+    "duration": 4.88
+  },
+  {
+    "text": "person object.",
+    "start": 349.28,
+    "duration": 5.84
+  },
+  {
+    "text": "An employee in a business is also a",
+    "start": 351.919,
+    "duration": 6.0
+  },
+  {
+    "text": "person. So through inheritance, an",
+    "start": 355.12,
+    "duration": 5.44
+  },
+  {
+    "text": "employee class deres the methods and",
+    "start": 357.919,
+    "duration": 5.601
+  },
+  {
+    "text": "properties of the person class. An",
+    "start": 360.56,
+    "duration": 7.04
+  },
+  {
+    "text": "employee is a type of person. A customer",
+    "start": 363.52,
+    "duration": 7.36
+  },
+  {
+    "text": "of the business is also a person. So",
+    "start": 367.6,
+    "duration": 5.84
+  },
+  {
+    "text": "through inheritance, a customer class",
+    "start": 370.88,
+    "duration": 5.439
+  },
+  {
+    "text": "also deres the methods and properties of",
+    "start": 373.44,
+    "duration": 6.4
+  },
+  {
+    "text": "the person class. A customer is a type",
+    "start": 376.319,
+    "duration": 6.241
+  },
+  {
+    "text": "of person.",
+    "start": 379.84,
+    "duration": 5.12
+  },
+  {
+    "text": "An employee class can have some extra",
+    "start": 382.56,
+    "duration": 5.28
+  },
+  {
+    "text": "properties and methods of its own. It",
+    "start": 384.96,
+    "duration": 7.2
+  },
+  {
+    "text": "can extend the person class",
+    "start": 387.84,
+    "duration": 8.6
+  },
+  {
+    "text": "and so can a customer.",
+    "start": 392.16,
+    "duration": 4.28
+  },
+  {
+    "text": "But it need not stop there. A programmer",
+    "start": 397.28,
+    "duration": 7.039
+  },
+  {
+    "text": "is a type of employee and so is a",
+    "start": 400.88,
+    "duration": 6.08
+  },
+  {
+    "text": "manager and a cleaner.",
+    "start": 404.319,
+    "duration": 5.521
+  },
+  {
+    "text": "Inheritance defines type of",
+    "start": 406.96,
+    "duration": 5.519
+  },
+  {
+    "text": "relationships.",
+    "start": 409.84,
+    "duration": 4.0
+  },
+  {
+    "text": "The class at the start of the",
+    "start": 412.479,
+    "duration": 4.16
+  },
+  {
+    "text": "inheritance hierarchy is called the base",
+    "start": 413.84,
+    "duration": 4.32
+  },
+  {
+    "text": "class.",
+    "start": 416.639,
+    "duration": 4.4
+  },
+  {
+    "text": "Any class that deres from another class",
+    "start": 418.16,
+    "duration": 5.52
+  },
+  {
+    "text": "is called a subclass.",
+    "start": 421.039,
+    "duration": 5.761
+  },
+  {
+    "text": "Any class that is derived from is called",
+    "start": 423.68,
+    "duration": 6.44
+  },
+  {
+    "text": "a superass.",
+    "start": 426.8,
+    "duration": 3.32
+  },
+  {
+    "text": "The final fundamental concept of",
+    "start": 432.88,
+    "duration": 4.48
+  },
+  {
+    "text": "object-oriented programming is",
+    "start": 434.88,
+    "duration": 4.48
+  },
+  {
+    "text": "polymorphism.",
+    "start": 437.36,
+    "duration": 4.64
+  },
+  {
+    "text": "Polymorphism means that a class can",
+    "start": 439.36,
+    "duration": 5.679
+  },
+  {
+    "text": "implement an inherited method in its own",
+    "start": 442.0,
+    "duration": 4.88
+  },
+  {
+    "text": "way.",
+    "start": 445.039,
+    "duration": 3.6
+  },
+  {
+    "text": "The person class at the base of this",
+    "start": 446.88,
+    "duration": 4.4
+  },
+  {
+    "text": "hierarchy has a method which will save",
+    "start": 448.639,
+    "duration": 4.801
+  },
+  {
+    "text": "details of any object created from the",
+    "start": 451.28,
+    "duration": 6.0
+  },
+  {
+    "text": "person class, perhaps to a database.",
+    "start": 453.44,
+    "duration": 5.68
+  },
+  {
+    "text": "Thanks to inheritance, all of the",
+    "start": 457.28,
+    "duration": 4.56
+  },
+  {
+    "text": "classes in this hierarchy do exactly the",
+    "start": 459.12,
+    "duration": 4.96
+  },
+  {
+    "text": "same thing.",
+    "start": 461.84,
+    "duration": 5.359
+  },
+  {
+    "text": "But it may be necessary for a customer's",
+    "start": 464.08,
+    "duration": 6.72
+  },
+  {
+    "text": "details to be saved differently, perhaps",
+    "start": 467.199,
+    "duration": 6.081
+  },
+  {
+    "text": "to a different database.",
+    "start": 470.8,
+    "duration": 5.519
+  },
+  {
+    "text": "Polymorphism allows for this. The",
+    "start": 473.28,
+    "duration": 5.68
+  },
+  {
+    "text": "customer class can override the workings",
+    "start": 476.319,
+    "duration": 4.961
+  },
+  {
+    "text": "of any method or property that it",
+    "start": 478.96,
+    "duration": 6.0
+  },
+  {
+    "text": "inherits with a new version of its own.",
+    "start": 481.28,
+    "duration": 6.0
+  },
+  {
+    "text": "Different forms of the same type of",
+    "start": 484.96,
+    "duration": 5.44
+  },
+  {
+    "text": "object with the same interface can",
+    "start": 487.28,
+    "duration": 6.56
+  },
+  {
+    "text": "behave in different ways. Polymorphism",
+    "start": 490.4,
+    "duration": 8.04
+  },
+  {
+    "text": "literally means many forms.",
+    "start": 493.84,
+    "duration": 4.6
+  },
+  {
+    "text": "To recap the fundamental concepts of",
+    "start": 498.72,
+    "duration": 5.759
+  },
+  {
+    "text": "object-oriented programming, abstraction",
+    "start": 501.28,
+    "duration": 6.4
+  },
+  {
+    "text": "means to simplify reality and focus only",
+    "start": 504.479,
+    "duration": 5.761
+  },
+  {
+    "text": "on the data and processes that are",
+    "start": 507.68,
+    "duration": 6.159
+  },
+  {
+    "text": "relevant to the application being built.",
+    "start": 510.24,
+    "duration": 6.799
+  },
+  {
+    "text": "Encapsulation means that data and the",
+    "start": 513.839,
+    "duration": 5.76
+  },
+  {
+    "text": "programs that manipulate those data are",
+    "start": 517.039,
+    "duration": 5.281
+  },
+  {
+    "text": "bound together and their complexity is",
+    "start": 519.599,
+    "duration": 4.881
+  },
+  {
+    "text": "hidden.",
+    "start": 522.32,
+    "duration": 4.88
+  },
+  {
+    "text": "Inheritance means that a class can",
+    "start": 524.48,
+    "duration": 5.12
+  },
+  {
+    "text": "derive its methods and properties from",
+    "start": 527.2,
+    "duration": 5.6
+  },
+  {
+    "text": "another class. This might result in an",
+    "start": 529.6,
+    "duration": 6.08
+  },
+  {
+    "text": "extensive hierarchy of superasses and",
+    "start": 532.8,
+    "duration": 5.039
+  },
+  {
+    "text": "subclasses.",
+    "start": 535.68,
+    "duration": 4.48
+  },
+  {
+    "text": "Polymorphism means that different",
+    "start": 537.839,
+    "duration": 5.201
+  },
+  {
+    "text": "subclasses of the same superass which",
+    "start": 540.16,
+    "duration": 5.6
+  },
+  {
+    "text": "therefore share the same interface can",
+    "start": 543.04,
+    "duration": 5.04
+  },
+  {
+    "text": "implement those interfaces in their own",
+    "start": 545.76,
+    "duration": 5.36
+  },
+  {
+    "text": "ways by overriding the code of the",
+    "start": 548.08,
+    "duration": 6.6
+  },
+  {
+    "text": "methods they inherit.",
+    "start": 551.12,
+    "duration": 3.56
+  }
+]

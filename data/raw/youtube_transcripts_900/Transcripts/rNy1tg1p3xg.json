@@ -1,0 +1,1237 @@
+[
+  {
+    "text": "yo guys so I just got a new laptop but",
+    "start": 0.0,
+    "duration": 10.38
+  },
+  {
+    "text": "is having a powerful new MacBook Pro",
+    "start": 6.99,
+    "duration": 7.29
+  },
+  {
+    "text": "necessary for programmers while the",
+    "start": 10.38,
+    "duration": 7.62
+  },
+  {
+    "text": "answer is no but there are a few",
+    "start": 14.28,
+    "duration": 5.28
+  },
+  {
+    "text": "important things you need to consider",
+    "start": 18.0,
+    "duration": 4.41
+  },
+  {
+    "text": "when buying a laptop as a programmer and",
+    "start": 19.56,
+    "duration": 4.469
+  },
+  {
+    "text": "that's what we'll talk about in this",
+    "start": 22.41,
+    "duration": 3.2
+  },
+  {
+    "text": "video",
+    "start": 24.029,
+    "duration": 4.851
+  },
+  {
+    "text": "[Music]",
+    "start": 25.61,
+    "duration": 4.65
+  },
+  {
+    "text": "the first thing about programming",
+    "start": 28.88,
+    "duration": 3.51
+  },
+  {
+    "text": "laptops that might surprise you is",
+    "start": 30.26,
+    "duration": 5.45
+  },
+  {
+    "text": "hardware is actually not that important",
+    "start": 32.39,
+    "duration": 6.45
+  },
+  {
+    "text": "the reason I got my laptop is for video",
+    "start": 35.71,
+    "duration": 5.62
+  },
+  {
+    "text": "editing which means a graphics card a",
+    "start": 38.84,
+    "duration": 4.98
+  },
+  {
+    "text": "lot of RAM and ideally an iodine",
+    "start": 41.33,
+    "duration": 5.19
+  },
+  {
+    "text": "processor too but the truth is most",
+    "start": 43.82,
+    "duration": 4.83
+  },
+  {
+    "text": "programming tasks with a few notable",
+    "start": 46.52,
+    "duration": 5.07
+  },
+  {
+    "text": "exceptions do not require that much",
+    "start": 48.65,
+    "duration": 5.37
+  },
+  {
+    "text": "computing power stepping through these",
+    "start": 51.59,
+    "duration": 4.5
+  },
+  {
+    "text": "four dimensions of hardware let's talk",
+    "start": 54.02,
+    "duration": 3.17
+  },
+  {
+    "text": "about why none of these are actually",
+    "start": 56.09,
+    "duration": 4.17
+  },
+  {
+    "text": "important for programming when you hear",
+    "start": 57.19,
+    "duration": 5.11
+  },
+  {
+    "text": "graphics card you might think of video",
+    "start": 60.26,
+    "duration": 4.59
+  },
+  {
+    "text": "editing or games but it might surprise",
+    "start": 62.3,
+    "duration": 4.59
+  },
+  {
+    "text": "you to hear that graphics cards are",
+    "start": 64.85,
+    "duration": 4.559
+  },
+  {
+    "text": "actually very useful for deep learning",
+    "start": 66.89,
+    "duration": 4.68
+  },
+  {
+    "text": "that being said unless you're focused on",
+    "start": 69.409,
+    "duration": 4.231
+  },
+  {
+    "text": "this very specific area of programming",
+    "start": 71.57,
+    "duration": 4.86
+  },
+  {
+    "text": "you won't find much use for them from",
+    "start": 73.64,
+    "duration": 4.29
+  },
+  {
+    "text": "now on I'm just gonna rule out machine",
+    "start": 76.43,
+    "duration": 2.85
+  },
+  {
+    "text": "learning from our hardware",
+    "start": 77.93,
+    "duration": 4.29
+  },
+  {
+    "text": "considerations let's talk next about RAM",
+    "start": 79.28,
+    "duration": 5.129
+  },
+  {
+    "text": "the more RAM you have the more programs",
+    "start": 82.22,
+    "duration": 4.02
+  },
+  {
+    "text": "you can run at the same time without",
+    "start": 84.409,
+    "duration": 4.951
+  },
+  {
+    "text": "experiencing slowdown now most code",
+    "start": 86.24,
+    "duration": 4.919
+  },
+  {
+    "text": "editors do not require that much RAM",
+    "start": 89.36,
+    "duration": 5.429
+  },
+  {
+    "text": "with a few notable exceptions if you're",
+    "start": 91.159,
+    "duration": 5.191
+  },
+  {
+    "text": "running a lightweight editor and willing",
+    "start": 94.789,
+    "duration": 3.061
+  },
+  {
+    "text": "to close programs running in the",
+    "start": 96.35,
+    "duration": 3.39
+  },
+  {
+    "text": "background then you would be fine with",
+    "start": 97.85,
+    "duration": 3.99
+  },
+  {
+    "text": "eight gigabytes of RAM which by today's",
+    "start": 99.74,
+    "duration": 3.87
+  },
+  {
+    "text": "standards is not that much",
+    "start": 101.84,
+    "duration": 4.319
+  },
+  {
+    "text": "moving on to processors running servers",
+    "start": 103.61,
+    "duration": 4.499
+  },
+  {
+    "text": "and programs is not very processor",
+    "start": 106.159,
+    "duration": 5.551
+  },
+  {
+    "text": "intensive at all in fact most services",
+    "start": 108.109,
+    "duration": 6.12
+  },
+  {
+    "text": "run on incredibly weak small processors",
+    "start": 111.71,
+    "duration": 5.31
+  },
+  {
+    "text": "but they may be scaled up if there is a",
+    "start": 114.229,
+    "duration": 6.541
+  },
+  {
+    "text": "high demand or load on the server as far",
+    "start": 117.02,
+    "duration": 5.01
+  },
+  {
+    "text": "as running things locally though you",
+    "start": 120.77,
+    "duration": 3.57
+  },
+  {
+    "text": "should never experience any problems as",
+    "start": 122.03,
+    "duration": 4.17
+  },
+  {
+    "text": "long as you have a machine newer than",
+    "start": 124.34,
+    "duration": 4.38
+  },
+  {
+    "text": "five years old now let's talk about",
+    "start": 126.2,
+    "duration": 4.77
+  },
+  {
+    "text": "storage in terms of code itself this",
+    "start": 128.72,
+    "duration": 4.14
+  },
+  {
+    "text": "takes up almost no space at all since it",
+    "start": 130.97,
+    "duration": 5.79
+  },
+  {
+    "text": "is literally just text on top of that",
+    "start": 132.86,
+    "duration": 6.06
+  },
+  {
+    "text": "every programmer Under the Sun stores",
+    "start": 136.76,
+    "duration": 4.56
+  },
+  {
+    "text": "their code in a version control system",
+    "start": 138.92,
+    "duration": 5.64
+  },
+  {
+    "text": "like github since github has free",
+    "start": 141.32,
+    "duration": 4.89
+  },
+  {
+    "text": "private repositories now there's no",
+    "start": 144.56,
+    "duration": 4.1
+  },
+  {
+    "text": "reason not to upload everything there",
+    "start": 146.21,
+    "duration": 4.83
+  },
+  {
+    "text": "what if you have a huge database though",
+    "start": 148.66,
+    "duration": 4.45
+  },
+  {
+    "text": "well it's pretty much the same unless",
+    "start": 151.04,
+    "duration": 4.32
+  },
+  {
+    "text": "you're storing images databases do not",
+    "start": 153.11,
+    "duration": 4.59
+  },
+  {
+    "text": "take up that much space even if you do",
+    "start": 155.36,
+    "duration": 4.2
+  },
+  {
+    "text": "have that many records chances are it",
+    "start": 157.7,
+    "duration": 3.42
+  },
+  {
+    "text": "will not be on your local machine but",
+    "start": 159.56,
+    "duration": 4.069
+  },
+  {
+    "text": "rather on a server somewhere",
+    "start": 161.12,
+    "duration": 4.77
+  },
+  {
+    "text": "now that we've established size doesn't",
+    "start": 163.629,
+    "duration": 3.911
+  },
+  {
+    "text": "matter there's one last thing I'll",
+    "start": 165.89,
+    "duration": 3.75
+  },
+  {
+    "text": "mention there are two types of hard",
+    "start": 167.54,
+    "duration": 7.05
+  },
+  {
+    "text": "drive SSD and HDD without getting too",
+    "start": 169.64,
+    "duration": 7.64
+  },
+  {
+    "text": "deep into it the SSD is what you want",
+    "start": 174.59,
+    "duration": 5.729
+  },
+  {
+    "text": "it's flash memory which offers read and",
+    "start": 177.28,
+    "duration": 4.629
+  },
+  {
+    "text": "write speed up to three to four times",
+    "start": 180.319,
+    "duration": 4.771
+  },
+  {
+    "text": "faster than HDD for the most part SSD",
+    "start": 181.909,
+    "duration": 5.311
+  },
+  {
+    "text": "comes standard in new laptops but if",
+    "start": 185.09,
+    "duration": 3.479
+  },
+  {
+    "text": "you're buying used keep an eye out for",
+    "start": 187.22,
+    "duration": 4.139
+  },
+  {
+    "text": "this HDD is much cheaper but you're",
+    "start": 188.569,
+    "duration": 5.28
+  },
+  {
+    "text": "gonna be giving up a lot of speed so",
+    "start": 191.359,
+    "duration": 4.111
+  },
+  {
+    "text": "with these things in mind storage should",
+    "start": 193.849,
+    "duration": 3.45
+  },
+  {
+    "text": "not be a real bottleneck for you either",
+    "start": 195.47,
+    "duration": 3.78
+  },
+  {
+    "text": "in general as long as your machine is",
+    "start": 197.299,
+    "duration": 3.511
+  },
+  {
+    "text": "not more than five years old",
+    "start": 199.25,
+    "duration": 3.72
+  },
+  {
+    "text": "you're gonna be okay doing most",
+    "start": 200.81,
+    "duration": 4.859
+  },
+  {
+    "text": "development work moving on from hardware",
+    "start": 202.97,
+    "duration": 4.829
+  },
+  {
+    "text": "a consideration that is important is",
+    "start": 205.669,
+    "duration": 5.25
+  },
+  {
+    "text": "what operating system you use so the",
+    "start": 207.799,
+    "duration": 6.12
+  },
+  {
+    "text": "primary three are Mac OS Windows and",
+    "start": 210.919,
+    "duration": 6.6
+  },
+  {
+    "text": "Linux Mac OS and Linux are part of the",
+    "start": 213.919,
+    "duration": 6.72
+  },
+  {
+    "text": "UNIX family of operating systems meaning",
+    "start": 217.519,
+    "duration": 6.42
+  },
+  {
+    "text": "they share a shell and are very portable",
+    "start": 220.639,
+    "duration": 5.581
+  },
+  {
+    "text": "between one another portable meaning you",
+    "start": 223.939,
+    "duration": 3.991
+  },
+  {
+    "text": "can just move programs you develop in",
+    "start": 226.22,
+    "duration": 4.59
+  },
+  {
+    "text": "Mac over to linux very easily Mac OS is",
+    "start": 227.93,
+    "duration": 5.13
+  },
+  {
+    "text": "of course also known for having a great",
+    "start": 230.81,
+    "duration": 4.769
+  },
+  {
+    "text": "interface and user experience and just",
+    "start": 233.06,
+    "duration": 4.73
+  },
+  {
+    "text": "being generally all-around pretty strong",
+    "start": 235.579,
+    "duration": 5.19
+  },
+  {
+    "text": "the main drawback however is the cost we",
+    "start": 237.79,
+    "duration": 5.169
+  },
+  {
+    "text": "all know how expensive Macs are and",
+    "start": 240.769,
+    "duration": 4.53
+  },
+  {
+    "text": "you're gonna need Mac hardware to run",
+    "start": 242.959,
+    "duration": 5.43
+  },
+  {
+    "text": "Mac software Linux if you don't know",
+    "start": 245.299,
+    "duration": 5.19
+  },
+  {
+    "text": "about it as we just mentioned is also a",
+    "start": 248.389,
+    "duration": 4.35
+  },
+  {
+    "text": "UNIX operating system now before I start",
+    "start": 250.489,
+    "duration": 4.321
+  },
+  {
+    "text": "getting flamed by the Linux fanboys",
+    "start": 252.739,
+    "duration": 4.381
+  },
+  {
+    "text": "Linux is not actually an operating",
+    "start": 254.81,
+    "duration": 4.47
+  },
+  {
+    "text": "system it's what's known as a kernel",
+    "start": 257.12,
+    "duration": 4.859
+  },
+  {
+    "text": "which is the core of the operating",
+    "start": 259.28,
+    "duration": 4.77
+  },
+  {
+    "text": "system that you can build the rest of",
+    "start": 261.979,
+    "duration": 4.861
+  },
+  {
+    "text": "the system on top of when you combine a",
+    "start": 264.05,
+    "duration": 5.609
+  },
+  {
+    "text": "kernel with a distribution which is the",
+    "start": 266.84,
+    "duration": 4.74
+  },
+  {
+    "text": "other half so to speak of the operating",
+    "start": 269.659,
+    "duration": 4.051
+  },
+  {
+    "text": "system then you have a full operating",
+    "start": 271.58,
+    "duration": 3.49
+  },
+  {
+    "text": "system",
+    "start": 273.71,
+    "duration": 4.01
+  },
+  {
+    "text": "this is why Linux is appealing to so",
+    "start": 275.07,
+    "duration": 4.87
+  },
+  {
+    "text": "many people within these distributions",
+    "start": 277.72,
+    "duration": 3.5
+  },
+  {
+    "text": "you can have varying levels of",
+    "start": 279.94,
+    "duration": 3.75
+  },
+  {
+    "text": "customization so you can have a very",
+    "start": 281.22,
+    "duration": 4.48
+  },
+  {
+    "text": "bare-bones thing with hardly any",
+    "start": 283.69,
+    "duration": 5.04
+  },
+  {
+    "text": "programs installed and customize it from",
+    "start": 285.7,
+    "duration": 4.77
+  },
+  {
+    "text": "the ground up or you can have something",
+    "start": 288.73,
+    "duration": 4.26
+  },
+  {
+    "text": "that's pretty close to a Mac OS or the",
+    "start": 290.47,
+    "duration": 4.95
+  },
+  {
+    "text": "windows out-of-the-box I will warn you",
+    "start": 292.99,
+    "duration": 3.84
+  },
+  {
+    "text": "about Linux if you're starting out as a",
+    "start": 295.42,
+    "duration": 3.54
+  },
+  {
+    "text": "programmer getting your distribution set",
+    "start": 296.83,
+    "duration": 4.08
+  },
+  {
+    "text": "up it's a lot of overhead another",
+    "start": 298.96,
+    "duration": 4.26
+  },
+  {
+    "text": "important fact about Linux most servers",
+    "start": 300.91,
+    "duration": 6.51
+  },
+  {
+    "text": "in services like AWS azor Google cloud",
+    "start": 303.22,
+    "duration": 6.87
+  },
+  {
+    "text": "and similar that are running huge",
+    "start": 307.42,
+    "duration": 5.69
+  },
+  {
+    "text": "companies like lifts whole ecosystem and",
+    "start": 310.09,
+    "duration": 5.91
+  },
+  {
+    "text": "many many others those servers are",
+    "start": 313.11,
+    "duration": 6.07
+  },
+  {
+    "text": "mostly running Linux so a very common",
+    "start": 316.0,
+    "duration": 5.13
+  },
+  {
+    "text": "use case is to write your code in the",
+    "start": 319.18,
+    "duration": 4.53
+  },
+  {
+    "text": "Mac OS environment and then deploy it",
+    "start": 321.13,
+    "duration": 5.78
+  },
+  {
+    "text": "onto a Linux virtual cloud server",
+    "start": 323.71,
+    "duration": 6.18
+  },
+  {
+    "text": "windows on the other hand is not Unix so",
+    "start": 326.91,
+    "duration": 3.85
+  },
+  {
+    "text": "it has an entirely different",
+    "start": 329.89,
+    "duration": 3.72
+  },
+  {
+    "text": "command-line interface but in general",
+    "start": 330.76,
+    "duration": 4.38
+  },
+  {
+    "text": "Windows does have good support for",
+    "start": 333.61,
+    "duration": 3.57
+  },
+  {
+    "text": "certain programming ecosystems which",
+    "start": 335.14,
+    "duration": 4.5
+  },
+  {
+    "text": "we're gonna get into next now moving on",
+    "start": 337.18,
+    "duration": 3.9
+  },
+  {
+    "text": "from operating system let's talk about",
+    "start": 339.64,
+    "duration": 4.47
+  },
+  {
+    "text": "platform tools or which operating system",
+    "start": 341.08,
+    "duration": 4.77
+  },
+  {
+    "text": "is best for the tools you need to use",
+    "start": 344.11,
+    "duration": 3.81
+  },
+  {
+    "text": "for your job now maybe it's obvious or",
+    "start": 345.85,
+    "duration": 3.78
+  },
+  {
+    "text": "maybe not but Mac essentially has a",
+    "start": 347.92,
+    "duration": 4.38
+  },
+  {
+    "text": "monopoly on swift or iOS development",
+    "start": 349.63,
+    "duration": 4.17
+  },
+  {
+    "text": "you're gonna have to do this in a",
+    "start": 352.3,
+    "duration": 3.9
+  },
+  {
+    "text": "program called Xcode which you can only",
+    "start": 353.8,
+    "duration": 5.52
+  },
+  {
+    "text": "install on Mac Mac OS is also the go-to",
+    "start": 356.2,
+    "duration": 5.81
+  },
+  {
+    "text": "platform for design software and",
+    "start": 359.32,
+    "duration": 5.16
+  },
+  {
+    "text": "designers so if you're a front-end",
+    "start": 362.01,
+    "duration": 4.03
+  },
+  {
+    "text": "developer who's going to dabble in",
+    "start": 364.48,
+    "duration": 3.66
+  },
+  {
+    "text": "design well you're only gonna have",
+    "start": 366.04,
+    "duration": 4.92
+  },
+  {
+    "text": "access to programs like sketch which was",
+    "start": 368.14,
+    "duration": 4.47
+  },
+  {
+    "text": "the industry standard for a very long",
+    "start": 370.96,
+    "duration": 4.35
+  },
+  {
+    "text": "time still very popular within the Mac",
+    "start": 372.61,
+    "duration": 5.64
+  },
+  {
+    "text": "ecosystem only as mentioned early if you",
+    "start": 375.31,
+    "duration": 4.71
+  },
+  {
+    "text": "want to be a true system administrator",
+    "start": 378.25,
+    "duration": 3.57
+  },
+  {
+    "text": "Linux might be the best bet for you",
+    "start": 380.02,
+    "duration": 3.99
+  },
+  {
+    "text": "there is the kali linux for penetration",
+    "start": 381.82,
+    "duration": 4.68
+  },
+  {
+    "text": "testing security and doing things like",
+    "start": 384.01,
+    "duration": 4.68
+  },
+  {
+    "text": "bug bounties which basically you find",
+    "start": 386.5,
+    "duration": 3.99
+  },
+  {
+    "text": "vulnerabilities and a company's systems",
+    "start": 388.69,
+    "duration": 3.96
+  },
+  {
+    "text": "and they pay you for finding them so",
+    "start": 390.49,
+    "duration": 3.75
+  },
+  {
+    "text": "this is all great information but what",
+    "start": 392.65,
+    "duration": 4.47
+  },
+  {
+    "text": "do most developers use well I would say",
+    "start": 394.24,
+    "duration": 5.4
+  },
+  {
+    "text": "slightly anecdotally I worked at a tech",
+    "start": 397.12,
+    "duration": 5.1
+  },
+  {
+    "text": "company in San Francisco walking around",
+    "start": 399.64,
+    "duration": 4.02
+  },
+  {
+    "text": "I would see people you know in the",
+    "start": 402.22,
+    "duration": 4.23
+  },
+  {
+    "text": "cafeteria on every floor and close to",
+    "start": 403.66,
+    "duration": 4.869
+  },
+  {
+    "text": "ninety five percent or more",
+    "start": 406.45,
+    "duration": 5.559
+  },
+  {
+    "text": "people at my company had max having a",
+    "start": 408.529,
+    "duration": 5.13
+  },
+  {
+    "text": "bag when everyone else has one at your",
+    "start": 412.009,
+    "duration": 4.53
+  },
+  {
+    "text": "company is pretty much a necessity due",
+    "start": 413.659,
+    "duration": 5.13
+  },
+  {
+    "text": "to those portability compatibility",
+    "start": 416.539,
+    "duration": 5.67
+  },
+  {
+    "text": "issues we talked about earlier but if we",
+    "start": 418.789,
+    "duration": 4.77
+  },
+  {
+    "text": "look at the data it tells a different",
+    "start": 422.209,
+    "duration": 2.13
+  },
+  {
+    "text": "story",
+    "start": 423.559,
+    "duration": 2.67
+  },
+  {
+    "text": "Stack Overflow which puts out a",
+    "start": 424.339,
+    "duration": 4.77
+  },
+  {
+    "text": "developer survey every year pulled a",
+    "start": 426.229,
+    "duration": 5.73
+  },
+  {
+    "text": "very large sample of developers the",
+    "start": 429.109,
+    "duration": 4.59
+  },
+  {
+    "text": "result of the survey was half of",
+    "start": 431.959,
+    "duration": 3.6
+  },
+  {
+    "text": "developers used Windows professionally",
+    "start": 433.699,
+    "duration": 4.02
+  },
+  {
+    "text": "while the other half were split between",
+    "start": 435.559,
+    "duration": 5.87
+  },
+  {
+    "text": "UNIX operating systems Linux and Mac OS",
+    "start": 437.719,
+    "duration": 6.3
+  },
+  {
+    "text": "the main reason I can deduce is that",
+    "start": 441.429,
+    "duration": 4.99
+  },
+  {
+    "text": "software companies outside of the SF",
+    "start": 444.019,
+    "duration": 5.22
+  },
+  {
+    "text": "bubble large enterprise companies like",
+    "start": 446.419,
+    "duration": 4.38
+  },
+  {
+    "text": "you know things you would think of as",
+    "start": 449.239,
+    "duration": 3.93
+  },
+  {
+    "text": "more traditional corporations they are",
+    "start": 450.799,
+    "duration": 4.65
+  },
+  {
+    "text": "likely using Windows and it is pretty",
+    "start": 453.169,
+    "duration": 4.02
+  },
+  {
+    "text": "much the corporate world standard to be",
+    "start": 455.449,
+    "duration": 4.77
+  },
+  {
+    "text": "using Windows for business software so",
+    "start": 457.189,
+    "duration": 4.59
+  },
+  {
+    "text": "most developers that these big companies",
+    "start": 460.219,
+    "duration": 3.69
+  },
+  {
+    "text": "are working on internal tools for that",
+    "start": 461.779,
+    "duration": 5.37
+  },
+  {
+    "text": "Windows ecosystem one thing that we",
+    "start": 463.909,
+    "duration": 5.01
+  },
+  {
+    "text": "haven't really lingered on so far but",
+    "start": 467.149,
+    "duration": 4.52
+  },
+  {
+    "text": "it's very important it's caught for a",
+    "start": 468.919,
+    "duration": 5.31
+  },
+  {
+    "text": "significantly lower cost you can get a",
+    "start": 471.669,
+    "duration": 5.5
+  },
+  {
+    "text": "better value machine on Windows and to",
+    "start": 474.229,
+    "duration": 4.59
+  },
+  {
+    "text": "give just a bit more credit to Windows",
+    "start": 477.169,
+    "duration": 4.02
+  },
+  {
+    "text": "Windows laptops are gonna be able to run",
+    "start": 478.819,
+    "duration": 5.25
+  },
+  {
+    "text": "games where max can't really do that",
+    "start": 481.189,
+    "duration": 5.31
+  },
+  {
+    "text": "my recommendation though if you're a",
+    "start": 484.069,
+    "duration": 4.32
+  },
+  {
+    "text": "beginner which you likely are if you're",
+    "start": 486.499,
+    "duration": 4.26
+  },
+  {
+    "text": "watching this video is still Mac if you",
+    "start": 488.389,
+    "duration": 4.11
+  },
+  {
+    "text": "have less overhead than Linux which I",
+    "start": 490.759,
+    "duration": 3.39
+  },
+  {
+    "text": "promise you you don't want to be dealing",
+    "start": 492.499,
+    "duration": 3.54
+  },
+  {
+    "text": "with when you're a beginner but you",
+    "start": 494.149,
+    "duration": 4.56
+  },
+  {
+    "text": "still get the UNIX portability yes Mac's",
+    "start": 496.039,
+    "duration": 5.28
+  },
+  {
+    "text": "are very expensive but you can buy a",
+    "start": 498.709,
+    "duration": 5.49
+  },
+  {
+    "text": "used bag for a very reasonable price now",
+    "start": 501.319,
+    "duration": 4.65
+  },
+  {
+    "text": "that the new one has just come out",
+    "start": 504.199,
+    "duration": 3.9
+  },
+  {
+    "text": "that being said max in recent years",
+    "start": 505.969,
+    "duration": 4.89
+  },
+  {
+    "text": "until this most recent one have had some",
+    "start": 508.099,
+    "duration": 4.5
+  },
+  {
+    "text": "keyboard issues so that's the only thing",
+    "start": 510.859,
+    "duration": 4.41
+  },
+  {
+    "text": "I would be a little bit wary of so",
+    "start": 512.599,
+    "duration": 4.86
+  },
+  {
+    "text": "bottom line is this option number one is",
+    "start": 515.269,
+    "duration": 5.16
+  },
+  {
+    "text": "a used Mac they hold up very well over",
+    "start": 517.459,
+    "duration": 5.07
+  },
+  {
+    "text": "time so buying a used one you can get",
+    "start": 520.429,
+    "duration": 4.14
+  },
+  {
+    "text": "80% of the performance for a small",
+    "start": 522.529,
+    "duration": 4.04
+  },
+  {
+    "text": "fraction of the price of a new one",
+    "start": 524.569,
+    "duration": 4.411
+  },
+  {
+    "text": "option two I would say is the new Mac if",
+    "start": 526.569,
+    "duration": 5.351
+  },
+  {
+    "text": "you have the disposable income or you",
+    "start": 528.98,
+    "duration": 4.76
+  },
+  {
+    "text": "can deduct your computer against some",
+    "start": 531.92,
+    "duration": 4.979
+  },
+  {
+    "text": "side income or personal employment",
+    "start": 533.74,
+    "duration": 6.039
+  },
+  {
+    "text": "income then the new keyboard is amazing",
+    "start": 536.899,
+    "duration": 4.911
+  },
+  {
+    "text": "you can't go wrong this is gonna hold",
+    "start": 539.779,
+    "duration": 4.611
+  },
+  {
+    "text": "value for many years to come and if",
+    "start": 541.81,
+    "duration": 4.17
+  },
+  {
+    "text": "you've checked out the reviews you know",
+    "start": 544.39,
+    "duration": 4.29
+  },
+  {
+    "text": "the new MacBook Pro is great and then",
+    "start": 545.98,
+    "duration": 3.87
+  },
+  {
+    "text": "finally I would say if you're getting",
+    "start": 548.68,
+    "duration": 2.4
+  },
+  {
+    "text": "into some more niche areas of",
+    "start": 549.85,
+    "duration": 3.78
+  },
+  {
+    "text": "programming bug bounties ethical hacking",
+    "start": 551.08,
+    "duration": 5.19
+  },
+  {
+    "text": "or you know you want to work on c-sharp",
+    "start": 553.63,
+    "duration": 4.95
+  },
+  {
+    "text": "and get into enterprise well then I",
+    "start": 556.27,
+    "duration": 5.61
+  },
+  {
+    "text": "would say a Windows laptop with maybe",
+    "start": 558.58,
+    "duration": 6.09
+  },
+  {
+    "text": "both Windows and Linux installed might",
+    "start": 561.88,
+    "duration": 4.83
+  },
+  {
+    "text": "be the best option for you anyway guys I",
+    "start": 564.67,
+    "duration": 3.93
+  },
+  {
+    "text": "know this was more of a generic advice",
+    "start": 566.71,
+    "duration": 4.77
+  },
+  {
+    "text": "video but I really wanted to do",
+    "start": 568.6,
+    "duration": 4.41
+  },
+  {
+    "text": "something about laptops because people",
+    "start": 571.48,
+    "duration": 2.88
+  },
+  {
+    "text": "do ask me all the time",
+    "start": 573.01,
+    "duration": 4.47
+  },
+  {
+    "text": "what I recommend so there you go so this",
+    "start": 574.36,
+    "duration": 4.53
+  },
+  {
+    "text": "is code rip and I will catch you guys",
+    "start": 577.48,
+    "duration": 2.25
+  },
+  {
+    "text": "soon",
+    "start": 578.89,
+    "duration": 23.539
+  },
+  {
+    "text": "[Music]",
+    "start": 579.73,
+    "duration": 22.699
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "text": "thank you for choosing the Jeannie",
+    "start": 3.55,
+    "duration": 4.27
+  },
+  {
+    "text": "wireless keypad",
+    "start": 5.47,
+    "duration": 4.299
+  },
+  {
+    "text": "the following will walk you through the",
+    "start": 7.82,
+    "duration": 4.62
+  },
+  {
+    "text": "programming and mounting process see the",
+    "start": 9.769,
+    "duration": 4.86
+  },
+  {
+    "text": "description four times if you need to",
+    "start": 12.44,
+    "duration": 5.06
+  },
+  {
+    "text": "review a specific step in the process it",
+    "start": 14.629,
+    "duration": 5.191
+  },
+  {
+    "text": "is recommended to complete the",
+    "start": 17.5,
+    "duration": 4.33
+  },
+  {
+    "text": "programming of the keypad before",
+    "start": 19.82,
+    "duration": 5.009
+  },
+  {
+    "text": "mounting activate the keypad by opening",
+    "start": 21.83,
+    "duration": 5.1
+  },
+  {
+    "text": "the battery compartment pulling the",
+    "start": 24.829,
+    "duration": 4.651
+  },
+  {
+    "text": "protective tab and then reinstalling the",
+    "start": 26.93,
+    "duration": 5.419
+  },
+  {
+    "text": "compartment door",
+    "start": 29.48,
+    "duration": 2.869
+  },
+  {
+    "text": "programming will not be lost when",
+    "start": 34.43,
+    "duration": 4.78
+  },
+  {
+    "text": "replacing batteries after programming is",
+    "start": 36.75,
+    "duration": 4.3
+  },
+  {
+    "text": "complete",
+    "start": 39.21,
+    "duration": 4.6
+  },
+  {
+    "text": "before we begin programming the keypad",
+    "start": 41.05,
+    "duration": 4.56
+  },
+  {
+    "text": "we will review the buttons and",
+    "start": 43.81,
+    "duration": 5.06
+  },
+  {
+    "text": "indicators at the top is the program key",
+    "start": 45.61,
+    "duration": 6.5
+  },
+  {
+    "text": "below that is an LED indicator and",
+    "start": 48.87,
+    "duration": 5.8
+  },
+  {
+    "text": "finally the numbered keypad with the",
+    "start": 52.11,
+    "duration": 6.97
+  },
+  {
+    "text": "up/down key the LED will flash each time",
+    "start": 54.67,
+    "duration": 6.93
+  },
+  {
+    "text": "a key is pressed and entry is accepted",
+    "start": 59.08,
+    "duration": 5.79
+  },
+  {
+    "text": "the LED and programmed key will flash",
+    "start": 61.6,
+    "duration": 5.55
+  },
+  {
+    "text": "slowly while the number pad backlight",
+    "start": 64.87,
+    "duration": 5.43
+  },
+  {
+    "text": "remains on for 15 seconds indicating a",
+    "start": 67.15,
+    "duration": 5.85
+  },
+  {
+    "text": "successful program or a valid pin has",
+    "start": 70.3,
+    "duration": 5.88
+  },
+  {
+    "text": "been entered the LED programme key and",
+    "start": 73.0,
+    "duration": 6.259
+  },
+  {
+    "text": "number pad backlight will flash rapidly",
+    "start": 76.18,
+    "duration": 5.73
+  },
+  {
+    "text": "indicating a problem with programming or",
+    "start": 79.259,
+    "duration": 5.261
+  },
+  {
+    "text": "if an invalid pin is entered you will",
+    "start": 81.91,
+    "duration": 4.92
+  },
+  {
+    "text": "need to wait 15 seconds until the",
+    "start": 84.52,
+    "duration": 4.709
+  },
+  {
+    "text": "backlight shuts off to reenter a valid",
+    "start": 86.83,
+    "duration": 5.399
+  },
+  {
+    "text": "PIN or reset the keypad programming if",
+    "start": 89.229,
+    "duration": 4.801
+  },
+  {
+    "text": "the keypad has already been programmed",
+    "start": 92.229,
+    "duration": 4.231
+  },
+  {
+    "text": "or at any time the programming should be",
+    "start": 94.03,
+    "duration": 4.89
+  },
+  {
+    "text": "erased and started over from the factory",
+    "start": 96.46,
+    "duration": 5.46
+  },
+  {
+    "text": "default follow these steps press and",
+    "start": 98.92,
+    "duration": 5.52
+  },
+  {
+    "text": "hold the program and up/down keys",
+    "start": 101.92,
+    "duration": 6.03
+  },
+  {
+    "text": "together for approximately 5 seconds the",
+    "start": 104.44,
+    "duration": 6.09
+  },
+  {
+    "text": "LED will flash twice and all lights will",
+    "start": 107.95,
+    "duration": 5.25
+  },
+  {
+    "text": "go out indicating the keypad has been",
+    "start": 110.53,
+    "duration": 6.21
+  },
+  {
+    "text": "reset step 1 programming the new keypad",
+    "start": 113.2,
+    "duration": 6.089
+  },
+  {
+    "text": "to the opener first locate the",
+    "start": 116.74,
+    "duration": 5.219
+  },
+  {
+    "text": "programming or learn code button on your",
+    "start": 119.289,
+    "duration": 5.131
+  },
+  {
+    "text": "garage door opener these buttons are",
+    "start": 121.959,
+    "duration": 4.47
+  },
+  {
+    "text": "typically on the bottom of the openers",
+    "start": 124.42,
+    "duration": 4.53
+  },
+  {
+    "text": "facing the floor under the light bulb",
+    "start": 126.429,
+    "duration": 5.28
+  },
+  {
+    "text": "cover or on the rear of the unit facing",
+    "start": 128.95,
+    "duration": 5.22
+  },
+  {
+    "text": "away from the garage door once your",
+    "start": 131.709,
+    "duration": 4.86
+  },
+  {
+    "text": "opener enters programming or learn code",
+    "start": 134.17,
+    "duration": 4.8
+  },
+  {
+    "text": "mode you will have 30 seconds to",
+    "start": 136.569,
+    "duration": 5.041
+  },
+  {
+    "text": "complete the next step if your opener",
+    "start": 138.97,
+    "duration": 5.19
+  },
+  {
+    "text": "has a square programming button press",
+    "start": 141.61,
+    "duration": 5.25
+  },
+  {
+    "text": "and hold it until the round LED turns",
+    "start": 144.16,
+    "duration": 5.85
+  },
+  {
+    "text": "blue the round LED will go out and a",
+    "start": 146.86,
+    "duration": 5.79
+  },
+  {
+    "text": "logue LED will begin to flash purple if",
+    "start": 150.01,
+    "duration": 5.19
+  },
+  {
+    "text": "your opener has a learned code button",
+    "start": 152.65,
+    "duration": 4.77
+  },
+  {
+    "text": "press and release the button once and",
+    "start": 155.2,
+    "duration": 5.28
+  },
+  {
+    "text": "the red LED will begin to flash the",
+    "start": 157.42,
+    "duration": 5.52
+  },
+  {
+    "text": "existing factory default pin for this",
+    "start": 160.48,
+    "duration": 7.68
+  },
+  {
+    "text": "keypad is 3 5 7 press 3 5 7 on the",
+    "start": 162.94,
+    "duration": 8.28
+  },
+  {
+    "text": "keypad and then the up/down key 3 to 4",
+    "start": 168.16,
+    "duration": 5.34
+  },
+  {
+    "text": "times slowly until the garage door",
+    "start": 171.22,
+    "duration": 3.629
+  },
+  {
+    "text": "begins to move",
+    "start": 173.5,
+    "duration": 3.45
+  },
+  {
+    "text": "the keypad is now programmed to operate",
+    "start": 174.849,
+    "duration": 7.641
+  },
+  {
+    "text": "this opener step to changing the pin",
+    "start": 176.95,
+    "duration": 8.12
+  },
+  {
+    "text": "enter the current pen press the program",
+    "start": 182.49,
+    "duration": 4.98
+  },
+  {
+    "text": "key enter a new pen of your choice",
+    "start": 185.07,
+    "duration": 5.16
+  },
+  {
+    "text": "between three and eight digits long",
+    "start": 187.47,
+    "duration": 5.43
+  },
+  {
+    "text": "push the program key your PIN has now",
+    "start": 190.23,
+    "duration": 5.01
+  },
+  {
+    "text": "been changed and the previous pin will",
+    "start": 192.9,
+    "duration": 5.19
+  },
+  {
+    "text": "no longer work step 3",
+    "start": 195.24,
+    "duration": 5.07
+  },
+  {
+    "text": "programming the keypad for multiple",
+    "start": 198.09,
+    "duration": 4.68
+  },
+  {
+    "text": "openers if you have more than one garage",
+    "start": 200.31,
+    "duration": 4.62
+  },
+  {
+    "text": "door opener the following steps will",
+    "start": 202.77,
+    "duration": 4.41
+  },
+  {
+    "text": "walk you through the process of adding",
+    "start": 204.93,
+    "duration": 4.52
+  },
+  {
+    "text": "up to two more openers to the keypad",
+    "start": 207.18,
+    "duration": 4.89
+  },
+  {
+    "text": "repeat these steps for each additional",
+    "start": 209.45,
+    "duration": 6.94
+  },
+  {
+    "text": "door enter your current PIN",
+    "start": 212.07,
+    "duration": 8.13
+  },
+  {
+    "text": "press the program key twice the LED will",
+    "start": 216.39,
+    "duration": 6.87
+  },
+  {
+    "text": "start blinking once per second enter the",
+    "start": 220.2,
+    "duration": 5.25
+  },
+  {
+    "text": "total number of openers that the keypad",
+    "start": 223.26,
+    "duration": 6.06
+  },
+  {
+    "text": "will be operating either 2 or 3 push the",
+    "start": 225.45,
+    "duration": 6.81
+  },
+  {
+    "text": "program key the LED will blink twice and",
+    "start": 229.32,
+    "duration": 5.18
+  },
+  {
+    "text": "shut off",
+    "start": 232.26,
+    "duration": 4.46
+  },
+  {
+    "text": "press and hold a programming button or",
+    "start": 234.5,
+    "duration": 4.44
+  },
+  {
+    "text": "press and release the learn code button",
+    "start": 236.72,
+    "duration": 4.92
+  },
+  {
+    "text": "on your garage door opener any LED will",
+    "start": 238.94,
+    "duration": 6.15
+  },
+  {
+    "text": "begin to blink enter your PIN on the",
+    "start": 241.64,
+    "duration": 6.99
+  },
+  {
+    "text": "keypad press the up/down key push the",
+    "start": 245.09,
+    "duration": 6.57
+  },
+  {
+    "text": "number of the desired door either 2 or 3",
+    "start": 248.63,
+    "duration": 5.7
+  },
+  {
+    "text": "press the up/down button three or four",
+    "start": 251.66,
+    "duration": 5.04
+  },
+  {
+    "text": "times slowly until the garage door",
+    "start": 254.33,
+    "duration": 4.92
+  },
+  {
+    "text": "operates repeat this step for each",
+    "start": 256.7,
+    "duration": 6.54
+  },
+  {
+    "text": "additional door step for operating the",
+    "start": 259.25,
+    "duration": 7.17
+  },
+  {
+    "text": "openers with the keypad for single door",
+    "start": 263.24,
+    "duration": 6.03
+  },
+  {
+    "text": "operation enter your PIN press the",
+    "start": 266.42,
+    "duration": 7.46
+  },
+  {
+    "text": "up/down key and the opener will operate",
+    "start": 269.27,
+    "duration": 4.61
+  },
+  {
+    "text": "for multiple door operations enter your",
+    "start": 274.85,
+    "duration": 6.45
+  },
+  {
+    "text": "PIN push the up/down key press the",
+    "start": 278.24,
+    "duration": 4.95
+  },
+  {
+    "text": "number key that corresponds with the",
+    "start": 281.3,
+    "duration": 5.85
+  },
+  {
+    "text": "desired door either 2 or 3 the opener",
+    "start": 283.19,
+    "duration": 8.1
+  },
+  {
+    "text": "will operate step 5 mounting the keypad",
+    "start": 287.15,
+    "duration": 6.75
+  },
+  {
+    "text": "the keypad must be mounted within sight",
+    "start": 291.29,
+    "duration": 5.52
+  },
+  {
+    "text": "of the garage door or doors at least 5",
+    "start": 293.9,
+    "duration": 5.25
+  },
+  {
+    "text": "feet above the floor and clear of any",
+    "start": 296.81,
+    "duration": 5.28
+  },
+  {
+    "text": "moving door parts first remove the",
+    "start": 299.15,
+    "duration": 6.14
+  },
+  {
+    "text": "battery cover and batteries next drill a",
+    "start": 302.09,
+    "duration": 5.73
+  },
+  {
+    "text": "3/32 inch pilot hole for the top",
+    "start": 305.29,
+    "duration": 4.78
+  },
+  {
+    "text": "mounting screw install the included",
+    "start": 307.82,
+    "duration": 5.07
+  },
+  {
+    "text": "screw into the pilot hole make sure you",
+    "start": 310.07,
+    "duration": 5.22
+  },
+  {
+    "text": "leave a 1/8 inch gap between a screw",
+    "start": 312.89,
+    "duration": 5.31
+  },
+  {
+    "text": "head and the wall hook the slotted mount",
+    "start": 315.29,
+    "duration": 5.16
+  },
+  {
+    "text": "on the back of the keypad over the screw",
+    "start": 318.2,
+    "duration": 5.61
+  },
+  {
+    "text": "mark and drill another 3/32 inch pilot",
+    "start": 320.45,
+    "duration": 5.3
+  },
+  {
+    "text": "hole for the bottom mounting screw",
+    "start": 323.81,
+    "duration": 4.86
+  },
+  {
+    "text": "secure the keypad to the wall do not",
+    "start": 325.75,
+    "duration": 4.53
+  },
+  {
+    "text": "over tighten the screws",
+    "start": 328.67,
+    "duration": 6.23
+  },
+  {
+    "text": "reinsert the batteries and battery cover",
+    "start": 330.28,
+    "duration": 4.62
+  },
+  {
+    "text": "optional programming setting a temporary",
+    "start": 336.669,
+    "duration": 5.711
+  },
+  {
+    "text": "pin the temporary pin will operate the",
+    "start": 339.44,
+    "duration": 5.52
+  },
+  {
+    "text": "garage door opener or openers until the",
+    "start": 342.38,
+    "duration": 5.52
+  },
+  {
+    "text": "original pin is used use of the original",
+    "start": 344.96,
+    "duration": 6.03
+  },
+  {
+    "text": "pin will delete the temporary pin enter",
+    "start": 347.9,
+    "duration": 5.64
+  },
+  {
+    "text": "the current pin press the program key",
+    "start": 350.99,
+    "duration": 5.27
+  },
+  {
+    "text": "three times",
+    "start": 353.54,
+    "duration": 2.72
+  },
+  {
+    "text": "and they're a temporary pin between",
+    "start": 358.6,
+    "duration": 4.14
+  },
+  {
+    "text": "three and eight digits long",
+    "start": 360.94,
+    "duration": 4.56
+  },
+  {
+    "text": "push the program key the temporary pin",
+    "start": 362.74,
+    "duration": 5.34
+  },
+  {
+    "text": "is now active should you have any",
+    "start": 365.5,
+    "duration": 4.44
+  },
+  {
+    "text": "questions during the setup process",
+    "start": 368.08,
+    "duration": 4.89
+  },
+  {
+    "text": "please visit Jeannie company comm and",
+    "start": 369.94,
+    "duration": 5.76
+  },
+  {
+    "text": "select a live chat or call one eight",
+    "start": 372.97,
+    "duration": 5.67
+  },
+  {
+    "text": "hundred three five four three six four",
+    "start": 375.7,
+    "duration": 5.37
+  },
+  {
+    "text": "three and we will be happy to assist you",
+    "start": 378.64,
+    "duration": 4.62
+  },
+  {
+    "text": "thank you for choosing Jeannie",
+    "start": 381.07,
+    "duration": 4.05
+  },
+  {
+    "text": "we hope you'll like and share this video",
+    "start": 383.26,
+    "duration": 4.14
+  },
+  {
+    "text": "and subscribe to the channel to see",
+    "start": 385.12,
+    "duration": 4.47
+  },
+  {
+    "text": "future videos on new products from",
+    "start": 387.4,
+    "duration": 4.49
+  },
+  {
+    "text": "Jeannie",
+    "start": 389.59,
+    "duration": 2.3
+  }
+]

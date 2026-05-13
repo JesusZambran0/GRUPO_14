@@ -1,0 +1,272 @@
+[
+  {
+    "text": "hello everyone i will come here to my \nchannel first of all a very happy new year  ",
+    "start": 0.4,
+    "duration": 4.48
+  },
+  {
+    "text": "today i'll be showing you how to install turbo \nc plus plus on your windows operating system and  ",
+    "start": 4.88,
+    "duration": 5.76
+  },
+  {
+    "text": "then i will also show you how to run a simple \nhello world program in turbo c plus plus so  ",
+    "start": 10.64,
+    "duration": 5.68
+  },
+  {
+    "text": "let's begin now to install turbo c plus plus you \nneed to first simply go to your favorite browser  ",
+    "start": 16.96,
+    "duration": 6.08
+  },
+  {
+    "text": "and in the add disk bar you just simply type turbo \nc plus plus download then enter and then you'll be  ",
+    "start": 23.04,
+    "duration": 9.92
+  },
+  {
+    "text": "seeing this first search result is from developer \ninsider dot co so just in a sim click on this  ",
+    "start": 32.96,
+    "duration": 5.68
+  },
+  {
+    "text": "download turbo c plus plus for windows and it will \ngoing to redirect you to this developer insider  ",
+    "start": 38.64,
+    "duration": 8.16
+  },
+  {
+    "text": "site and here you can see that we have this \ndownload turbo c plus plus for windows 7 8 and 10.  ",
+    "start": 46.8,
+    "duration": 6.16
+  },
+  {
+    "text": "also it is you can install in windows 11 so you \ncan install it basically in any windows version  ",
+    "start": 52.96,
+    "duration": 6.16
+  },
+  {
+    "text": "so just you know simply uh scroll down a bit and \nyou can see that we have this download button for  ",
+    "start": 59.92,
+    "duration": 5.28
+  },
+  {
+    "text": "turbo c plus plus so just going to simply click on \nthis download turbo c plus plus and it will going  ",
+    "start": 65.76,
+    "duration": 5.84
+  },
+  {
+    "text": "to redirect you to do to the next tab and it will \ngoing to start downloading our turbo c plus plus  ",
+    "start": 71.6,
+    "duration": 5.84
+  },
+  {
+    "text": "see it has you know rightly started downloading \nso just you know simply click on the show all  ",
+    "start": 77.44,
+    "duration": 4.64
+  },
+  {
+    "text": "and you'll be seeing that our turbo c plus \nplus has been rightly downloaded over here  ",
+    "start": 82.08,
+    "duration": 4.16
+  },
+  {
+    "text": "so let us first minimize it and if i just simply \ngo to my download directory you'll be seeing that  ",
+    "start": 86.24,
+    "duration": 5.36
+  },
+  {
+    "text": "our turbo c plus plus has been rightly downloaded \nover here and this is a zip file so first what you  ",
+    "start": 91.6,
+    "duration": 6.08
+  },
+  {
+    "text": "need to do is you need to extract it so for that \njust you know simply right click on it and then  ",
+    "start": 97.68,
+    "duration": 5.52
+  },
+  {
+    "text": "just you know simply click on extract all and it \nwill going to open this window so this is going to  ",
+    "start": 103.2,
+    "duration": 5.52
+  },
+  {
+    "text": "be our extracted destination so keep this default \nthen just simply click on extract and what it will  ",
+    "start": 108.72,
+    "duration": 7.04
+  },
+  {
+    "text": "do is it will going to start extracting you can \nsee our extract our extraction has rightly began  ",
+    "start": 115.76,
+    "duration": 5.44
+  },
+  {
+    "text": "and it has rightly completed and \nit has you know rightly opened this  ",
+    "start": 122.48,
+    "duration": 3.84
+  },
+  {
+    "text": "turbo c turbo c 3.2 right so it has rightly \nextracted over here so you know just simply  ",
+    "start": 126.32,
+    "duration": 6.16
+  },
+  {
+    "text": "go inside that folder and here you'll \nbe seeing that you have these files  ",
+    "start": 132.48,
+    "duration": 4.24
+  },
+  {
+    "text": "right so from here you need to just \nyou know simply click on this setup",
+    "start": 137.28,
+    "duration": 4.56
+  },
+  {
+    "text": "and you can see that it is \ncurrently preparing to install",
+    "start": 143.52,
+    "duration": 3.04
+  },
+  {
+    "text": "and our windows installer for turbo c plus plus \nthis installation wizard has been lightly opened  ",
+    "start": 149.68,
+    "duration": 6.32
+  },
+  {
+    "text": "over here so just first minimize it these \ntwo folders so that we can have a better  ",
+    "start": 156.0,
+    "duration": 5.92
+  },
+  {
+    "text": "visibility and here just you know simply \nclick on next this is the license agreement  ",
+    "start": 161.92,
+    "duration": 6.08
+  },
+  {
+    "text": "to accept this license agreement and then just \nsimply click on next and then it is asking to  ",
+    "start": 168.72,
+    "duration": 5.36
+  },
+  {
+    "text": "install suggestions and click on this install \nbutton and it will start installing our turbo  ",
+    "start": 174.08,
+    "duration": 5.36
+  },
+  {
+    "text": "class plus 3.2 so this will going to ask you for \nadministrative privileges so for the jason click  ",
+    "start": 179.44,
+    "duration": 6.24
+  },
+  {
+    "text": "on yes and you will be seeing our installation has \nrightly began and it has rightly installed so just  ",
+    "start": 185.68,
+    "duration": 7.68
+  },
+  {
+    "text": "you know this launch the program is already \nchecked so just you know same click on finish  ",
+    "start": 193.36,
+    "duration": 4.72
+  },
+  {
+    "text": "and it will going to launch our turbo c plus plus \nand it has rightly launched see our roc plus plus  ",
+    "start": 199.68,
+    "duration": 7.12
+  },
+  {
+    "text": "has been rightly launched over here and now it \nhas you know given you two check boxes so this  ",
+    "start": 206.8,
+    "duration": 5.92
+  },
+  {
+    "text": "full screen mode if you want to wish to use our \nturbo c in a full screen mode then you need to  ",
+    "start": 212.72,
+    "duration": 5.84
+  },
+  {
+    "text": "check this and also if you want to you know open \nany live example page on startup then you can also  ",
+    "start": 218.56,
+    "duration": 7.36
+  },
+  {
+    "text": "check that but i'll be you know not going to check \nbecause it's not necessary i would say but full  ",
+    "start": 225.92,
+    "duration": 5.68
+  },
+  {
+    "text": "screen i want and then just you know simply click \non start turbo c plus plus and it will going to  ",
+    "start": 231.6,
+    "duration": 6.88
+  },
+  {
+    "text": "launch our turbo c plus plus in a full screen mode \nsee it has rightly opened in a full screen mode  ",
+    "start": 238.48,
+    "duration": 4.96
+  },
+  {
+    "text": "so just you know simply uh click on the latest \nproject double click and it will go into you  ",
+    "start": 243.44,
+    "duration": 4.72
+  },
+  {
+    "text": "know set this hello dot c as our latest project \nso i'm going to you know write a simple hello  ",
+    "start": 248.16,
+    "duration": 7.04
+  },
+  {
+    "text": "world program so hash include htdio.h and then \ni'm going to create our main method so in domain  ",
+    "start": 255.2,
+    "duration": 8.72
+  },
+  {
+    "text": "so just you know simply double brace and then \nyou need to clear your screen so clr is cr",
+    "start": 265.6,
+    "duration": 7.36
+  },
+  {
+    "text": "then i'm going to print hello \nworld so hello world right  ",
+    "start": 275.2,
+    "duration": 10.96
+  },
+  {
+    "text": "and then i'm going to you know hold our screen so \nget ch and then i'm going to finally return zero  ",
+    "start": 286.8,
+    "duration": 10.08
+  },
+  {
+    "text": "why return zero because i have created a intimate \nmethod not void main right so i need to return  ",
+    "start": 298.0,
+    "duration": 5.68
+  },
+  {
+    "text": "return something so you know write this much and \nthen just you know simply click on this ctrl f9",
+    "start": 303.68,
+    "duration": 6.16
+  },
+  {
+    "text": "and you can see our hello world has \nbeen rightly shown in our console  ",
+    "start": 314.4,
+    "duration": 3.28
+  },
+  {
+    "text": "so in this way i can easily install the latest \nversion of turbo c plus plus on your windows  ",
+    "start": 318.56,
+    "duration": 4.88
+  },
+  {
+    "text": "operating system and then i have also shown \nyou how to write a simple hellworld program  ",
+    "start": 323.44,
+    "duration": 4.8
+  },
+  {
+    "text": "on turbo c plus flows and how to run them so \nthat's basically all about this video friends  ",
+    "start": 328.24,
+    "duration": 4.96
+  },
+  {
+    "text": "thank you very much for watching this video if you \nlike this video then please give it a like and so  ",
+    "start": 333.2,
+    "duration": 3.76
+  },
+  {
+    "text": "please do share with your friends thank you very \nmuch for watching this video and god bless you all",
+    "start": 336.96,
+    "duration": 4.48
+  }
+]

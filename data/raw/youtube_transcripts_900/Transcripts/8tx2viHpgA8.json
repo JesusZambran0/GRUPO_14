@@ -1,0 +1,667 @@
+[
+  {
+    "text": "Yesterday was the last day of the rest",
+    "start": 0.16,
+    "duration": 4.0
+  },
+  {
+    "text": "of our lives. Yesterday was the day Sam",
+    "start": 2.0,
+    "duration": 4.16
+  },
+  {
+    "text": "Olman asked his ego this three-word",
+    "start": 4.16,
+    "duration": 3.84
+  },
+  {
+    "text": "question. What have we done? Because",
+    "start": 6.16,
+    "duration": 3.359
+  },
+  {
+    "text": "yesterday was the day the human",
+    "start": 8.0,
+    "duration": 3.519
+  },
+  {
+    "text": "intelligence monopoly officially ended",
+    "start": 9.519,
+    "duration": 3.601
+  },
+  {
+    "text": "with the long-awaited release of",
+    "start": 11.519,
+    "duration": 4.881
+  },
+  {
+    "text": "OpenAI's GPT5, the first AI model to",
+    "start": 13.12,
+    "duration": 5.36
+  },
+  {
+    "text": "outperform biological humans on the",
+    "start": 16.4,
+    "duration": 4.24
+  },
+  {
+    "text": "Simple Bench benchmark. Meanwhile, it's",
+    "start": 18.48,
+    "duration": 3.76
+  },
+  {
+    "text": "quickly overtaking virtually every",
+    "start": 20.64,
+    "duration": 3.6
+  },
+  {
+    "text": "leaderboard on LM Marina, which means",
+    "start": 22.24,
+    "duration": 3.52
+  },
+  {
+    "text": "every programmer that still has a job",
+    "start": 24.24,
+    "duration": 3.44
+  },
+  {
+    "text": "will be getting a layoff notice shortly.",
+    "start": 25.76,
+    "duration": 3.12
+  },
+  {
+    "text": "Or at least that's what the hype",
+    "start": 27.68,
+    "duration": 3.28
+  },
+  {
+    "text": "engineers at OpenAI want you to think.",
+    "start": 28.88,
+    "duration": 3.76
+  },
+  {
+    "text": "Not everybody is falling for it, though.",
+    "start": 30.96,
+    "duration": 3.119
+  },
+  {
+    "text": "That simple bench score was just a",
+    "start": 32.64,
+    "duration": 3.919
+  },
+  {
+    "text": "rumor. And in fact, GPT5 is actually in",
+    "start": 34.079,
+    "duration": 5.121
+  },
+  {
+    "text": "fifth place. GPT5 failed to beat Grock",
+    "start": 36.559,
+    "duration": 5.041
+  },
+  {
+    "text": "on the ARC AGI benchmark, an important",
+    "start": 39.2,
+    "duration": 4.16
+  },
+  {
+    "text": "benchmark that was conveniently left out",
+    "start": 41.6,
+    "duration": 3.6
+  },
+  {
+    "text": "of yesterday's announcement. It also",
+    "start": 43.36,
+    "duration": 3.359
+  },
+  {
+    "text": "underwhelmed the betting markets, and",
+    "start": 45.2,
+    "duration": 3.519
+  },
+  {
+    "text": "OpenAI is no longer the favorite to have",
+    "start": 46.719,
+    "duration": 4.481
+  },
+  {
+    "text": "the best model of 2025. Worst of all",
+    "start": 48.719,
+    "duration": 4.081
+  },
+  {
+    "text": "though, people found numerous problems",
+    "start": 51.2,
+    "duration": 3.76
+  },
+  {
+    "text": "with OpenAI's own charts, which really",
+    "start": 52.8,
+    "duration": 4.32
+  },
+  {
+    "text": "shouldn't happen when you have PhD level",
+    "start": 54.96,
+    "duration": 3.84
+  },
+  {
+    "text": "intelligence in your pocket. In today's",
+    "start": 57.12,
+    "duration": 4.0
+  },
+  {
+    "text": "video, we'll find out if GPT5 is just",
+    "start": 58.8,
+    "duration": 4.559
+  },
+  {
+    "text": "another overhyped incremental upgrade or",
+    "start": 61.12,
+    "duration": 4.399
+  },
+  {
+    "text": "a true game changer, edging us closer to",
+    "start": 63.359,
+    "duration": 4.161
+  },
+  {
+    "text": "artificial super intelligence. It is",
+    "start": 65.519,
+    "duration": 4.321
+  },
+  {
+    "text": "August 8th, 2025, and you're watching",
+    "start": 67.52,
+    "duration": 4.56
+  },
+  {
+    "text": "the code report. In the past, GPT got",
+    "start": 69.84,
+    "duration": 4.16
+  },
+  {
+    "text": "better as it got bigger. It was trained",
+    "start": 72.08,
+    "duration": 3.52
+  },
+  {
+    "text": "on more data that would activate more",
+    "start": 74.0,
+    "duration": 3.68
+  },
+  {
+    "text": "parameters when generating text. But",
+    "start": 75.6,
+    "duration": 3.68
+  },
+  {
+    "text": "those days are essentially over. The",
+    "start": 77.68,
+    "duration": 3.68
+  },
+  {
+    "text": "thing that makes GPT5 special is not",
+    "start": 79.28,
+    "duration": 3.839
+  },
+  {
+    "text": "that it's a bigger, smarter model, but",
+    "start": 81.36,
+    "duration": 4.079
+  },
+  {
+    "text": "rather it unifies multiple models like",
+    "start": 83.119,
+    "duration": 4.961
+  },
+  {
+    "text": "fast reasoning, routing, etc. to pick",
+    "start": 85.439,
+    "duration": 4.641
+  },
+  {
+    "text": "the right tool per task without the end",
+    "start": 88.08,
+    "duration": 3.76
+  },
+  {
+    "text": "user needing to think about it. In many",
+    "start": 90.08,
+    "duration": 3.999
+  },
+  {
+    "text": "ways, GPT5 feels more like a",
+    "start": 91.84,
+    "duration": 4.319
+  },
+  {
+    "text": "consolidation and cost reduction effort",
+    "start": 94.079,
+    "duration": 3.761
+  },
+  {
+    "text": "after they spent the last year panic",
+    "start": 96.159,
+    "duration": 3.28
+  },
+  {
+    "text": "shipping a bunch of stupidly named",
+    "start": 97.84,
+    "duration": 4.4
+  },
+  {
+    "text": "models to justify the $200 pro plan.",
+    "start": 99.439,
+    "duration": 5.04
+  },
+  {
+    "text": "Speaking of cost though, GPT5 is priced",
+    "start": 102.24,
+    "duration": 5.199
+  },
+  {
+    "text": "at only $10 per million output tokens.",
+    "start": 104.479,
+    "duration": 4.401
+  },
+  {
+    "text": "And that's a great deal compared to",
+    "start": 107.439,
+    "duration": 3.841
+  },
+  {
+    "text": "Claude Opus 4.1, which will burn a hole",
+    "start": 108.88,
+    "duration": 5.04
+  },
+  {
+    "text": "in your wallet at $75 per million output",
+    "start": 111.28,
+    "duration": 5.36
+  },
+  {
+    "text": "tokens. Sam Alman says GBT5 is like",
+    "start": 113.92,
+    "duration": 4.96
+  },
+  {
+    "text": "having multiple PhD level experts in",
+    "start": 116.64,
+    "duration": 3.68
+  },
+  {
+    "text": "your pocket. But one of the funniest",
+    "start": 118.88,
+    "duration": 2.879
+  },
+  {
+    "text": "parts of their announcement is that",
+    "start": 120.32,
+    "duration": 3.439
+  },
+  {
+    "text": "their benchmark graphics were presented",
+    "start": 121.759,
+    "duration": 4.0
+  },
+  {
+    "text": "with a y-axis that doesn't make any",
+    "start": 123.759,
+    "duration": 3.521
+  },
+  {
+    "text": "sense. And there can only be two",
+    "start": 125.759,
+    "duration": 3.36
+  },
+  {
+    "text": "possible explanations for this error.",
+    "start": 127.28,
+    "duration": 4.4
+  },
+  {
+    "text": "One, they vibe charted with GPT5 and it",
+    "start": 129.119,
+    "duration": 4.161
+  },
+  {
+    "text": "doesn't actually have PhD level",
+    "start": 131.68,
+    "duration": 3.36
+  },
+  {
+    "text": "intelligence. Or two, they were trying",
+    "start": 133.28,
+    "duration": 3.599
+  },
+  {
+    "text": "to be intentionally misleading. What's",
+    "start": 135.04,
+    "duration": 4.08
+  },
+  {
+    "text": "even better is that GPT5 is supposed to",
+    "start": 136.879,
+    "duration": 4.161
+  },
+  {
+    "text": "have lower deception rates, but then",
+    "start": 139.12,
+    "duration": 4.08
+  },
+  {
+    "text": "someone or something tried to deceive us",
+    "start": 141.04,
+    "duration": 3.839
+  },
+  {
+    "text": "with the Y-axis on the deception",
+    "start": 143.2,
+    "duration": 2.96
+  },
+  {
+    "text": "benchmark. And that's kind of",
+    "start": 144.879,
+    "duration": 3.201
+  },
+  {
+    "text": "embarrassing for a $500 billion",
+    "start": 146.16,
+    "duration": 3.439
+  },
+  {
+    "text": "intelligence company. But if you're a",
+    "start": 148.08,
+    "duration": 3.2
+  },
+  {
+    "text": "programmer, the biggest question is",
+    "start": 149.599,
+    "duration": 4.321
+  },
+  {
+    "text": "whether or not GPT5 can code a spelt 5",
+    "start": 151.28,
+    "duration": 4.8
+  },
+  {
+    "text": "to app with runes. Many models have come",
+    "start": 153.92,
+    "duration": 4.08
+  },
+  {
+    "text": "close, but none have succeeded. I put",
+    "start": 156.08,
+    "duration": 4.08
+  },
+  {
+    "text": "GPT5 to the test and was stunned to see",
+    "start": 158.0,
+    "duration": 3.68
+  },
+  {
+    "text": "that it generated beautiful looking",
+    "start": 160.16,
+    "duration": 3.92
+  },
+  {
+    "text": "spill code and did so very quickly, far",
+    "start": 161.68,
+    "duration": 4.24
+  },
+  {
+    "text": "faster than any other reasoning model.",
+    "start": 164.08,
+    "duration": 3.439
+  },
+  {
+    "text": "At first, I thought I was working with a",
+    "start": 165.92,
+    "duration": 3.76
+  },
+  {
+    "text": "PhD level spelt developer, but I would",
+    "start": 167.519,
+    "duration": 3.921
+  },
+  {
+    "text": "soon be disappointed after running the",
+    "start": 169.68,
+    "duration": 4.4
+  },
+  {
+    "text": "code and getting a 500 error as the UI.",
+    "start": 171.44,
+    "duration": 4.879
+  },
+  {
+    "text": "What's troubling is that GPT5 used the",
+    "start": 174.08,
+    "duration": 4.239
+  },
+  {
+    "text": "right syntax, but tried to use a rune in",
+    "start": 176.319,
+    "duration": 4.481
+  },
+  {
+    "text": "the template, which is not allowed. GPT5",
+    "start": 178.319,
+    "duration": 3.441
+  },
+  {
+    "text": "is supposed to have fewer",
+    "start": 180.8,
+    "duration": 2.96
+  },
+  {
+    "text": "hallucinations, but it hallucinated its",
+    "start": 181.76,
+    "duration": 4.24
+  },
+  {
+    "text": "own rules for using runes. However, it",
+    "start": 183.76,
+    "duration": 3.92
+  },
+  {
+    "text": "did redeem itself when I asked if it",
+    "start": 186.0,
+    "duration": 3.04
+  },
+  {
+    "text": "knew what was wrong with its code, at",
+    "start": 187.68,
+    "duration": 2.8
+  },
+  {
+    "text": "which point it figured it out and fixed",
+    "start": 189.04,
+    "duration": 3.199
+  },
+  {
+    "text": "it. And the end result is a functional",
+    "start": 190.48,
+    "duration": 4.08
+  },
+  {
+    "text": "app that has a very nicel looking UI. I",
+    "start": 192.239,
+    "duration": 3.841
+  },
+  {
+    "text": "also had it build a flight simulator",
+    "start": 194.56,
+    "duration": 3.28
+  },
+  {
+    "text": "game with 3JS, which turned out pretty",
+    "start": 196.08,
+    "duration": 3.519
+  },
+  {
+    "text": "bad. But the tall guy from Cursor said",
+    "start": 197.84,
+    "duration": 3.119
+  },
+  {
+    "text": "it's the smartest model they've ever",
+    "start": 199.599,
+    "duration": 2.961
+  },
+  {
+    "text": "used. Unfortunately though, I don't",
+    "start": 200.959,
+    "duration": 3.681
+  },
+  {
+    "text": "think GPT5 is going to take my job or",
+    "start": 202.56,
+    "duration": 4.08
+  },
+  {
+    "text": "euthanize me anytime soon. Because it's",
+    "start": 204.64,
+    "duration": 3.599
+  },
+  {
+    "text": "clear at this point that the real power",
+    "start": 206.64,
+    "duration": 3.36
+  },
+  {
+    "text": "comes when you combine these new AI",
+    "start": 208.239,
+    "duration": 3.601
+  },
+  {
+    "text": "tools with existing technologies that",
+    "start": 210.0,
+    "duration": 3.519
+  },
+  {
+    "text": "you already know and love. Which is why",
+    "start": 211.84,
+    "duration": 3.2
+  },
+  {
+    "text": "you need to check out DreamFlow. with",
+    "start": 213.519,
+    "duration": 3.36
+  },
+  {
+    "text": "the sponsor of today's video. It's a",
+    "start": 215.04,
+    "duration": 3.68
+  },
+  {
+    "text": "full stack AI development environment",
+    "start": 216.879,
+    "duration": 3.761
+  },
+  {
+    "text": "created by the team at Flutterflow that",
+    "start": 218.72,
+    "duration": 3.76
+  },
+  {
+    "text": "lets you build, run, and deploy",
+    "start": 220.64,
+    "duration": 3.679
+  },
+  {
+    "text": "cross-platform apps all from your",
+    "start": 222.48,
+    "duration": 3.759
+  },
+  {
+    "text": "browser. You can spin up a new project",
+    "start": 224.319,
+    "duration": 3.84
+  },
+  {
+    "text": "with a prompt and it'll run directly in",
+    "start": 226.239,
+    "duration": 3.761
+  },
+  {
+    "text": "DreamFlow where you'll get full file",
+    "start": 228.159,
+    "duration": 3.841
+  },
+  {
+    "text": "system access along with the ability to",
+    "start": 230.0,
+    "duration": 3.76
+  },
+  {
+    "text": "preview and edit all of your pages and",
+    "start": 232.0,
+    "duration": 3.599
+  },
+  {
+    "text": "components either by using their visual",
+    "start": 233.76,
+    "duration": 3.759
+  },
+  {
+    "text": "editor or manually changing the code",
+    "start": 235.599,
+    "duration": 4.0
+  },
+  {
+    "text": "yourself. It integrates seamlessly with",
+    "start": 237.519,
+    "duration": 4.321
+  },
+  {
+    "text": "Firebase and Superbase and also lets you",
+    "start": 239.599,
+    "duration": 4.401
+  },
+  {
+    "text": "deploy to the web or the app stores with",
+    "start": 241.84,
+    "duration": 3.679
+  },
+  {
+    "text": "a single click. If someone would have",
+    "start": 244.0,
+    "duration": 2.72
+  },
+  {
+    "text": "shown me this when I was first getting",
+    "start": 245.519,
+    "duration": 3.44
+  },
+  {
+    "text": "into Flutter back in 2018, my brain",
+    "start": 246.72,
+    "duration": 3.92
+  },
+  {
+    "text": "would have exploded. But you can try out",
+    "start": 248.959,
+    "duration": 3.601
+  },
+  {
+    "text": "Dreamflow for free with the link below.",
+    "start": 250.64,
+    "duration": 3.44
+  },
+  {
+    "text": "This has been the Code Report. Thanks",
+    "start": 252.56,
+    "duration": 3.2
+  },
+  {
+    "text": "for watching and I will see you in the",
+    "start": 254.08,
+    "duration": 4.84
+  },
+  {
+    "text": "next one.",
+    "start": 255.76,
+    "duration": 3.16
+  }
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "text": "Okay in this video what I want to do is just show you how we write a very simple program",
+    "start": 0.0,
+    "duration": 3.959
+  },
+  {
+    "text": "And program this computer and then run that program and so before we do that",
+    "start": 4.48,
+    "duration": 3.949
+  },
+  {
+    "text": "I want to start by looking at the architecture of the [computer] in a little bit more detail",
+    "start": 8.429,
+    "duration": 3.69
+  },
+  {
+    "text": "So [I] pull this over here and zoom in a bit",
+    "start": 12.12,
+    "duration": 2.79
+  },
+  {
+    "text": "So [you] can see what we've got and this is kind of the the architecture of the [computer]",
+    "start": 14.91,
+    "duration": 5.699
+  },
+  {
+    "text": "And it's kind of broken into two sections",
+    "start": 20.609,
+    "duration": 2.37
+  },
+  {
+    "text": "So this top section [here] is organized around this central",
+    "start": 22.98,
+    "duration": 3.75
+  },
+  {
+    "text": "8-bit bus and then the bottom section down here is kind of the control logic",
+    "start": 27.22,
+    "duration": 4.549
+  },
+  {
+    "text": "So we'll start with the top section",
+    "start": 31.869,
+    "duration": 2.0
+  },
+  {
+    "text": "so this is",
+    "start": 34.03,
+    "duration": 1.08
+  },
+  {
+    "text": "Central kind of 8-bit bus that all of these different",
+    "start": 35.11,
+    "duration": 3.109
+  },
+  {
+    "text": "Components are connected to and what this does is that it lets us kind of move information from any",
+    "start": 38.35,
+    "duration": 5.51
+  },
+  {
+    "text": "Component to any other component through this through this bus and so for example if you want to take data",
+    "start": 44.289,
+    "duration": 4.49
+  },
+  {
+    "text": "From from ram from Memory and put it into the a register you can do that through this bus and so what you would do",
+    "start": 49.03,
+    "duration": 5.689
+  },
+  {
+    "text": "Is you would just say?",
+    "start": 54.719,
+    "duration": 1.721
+  },
+  {
+    "text": "You know take that that information?",
+    "start": 56.44,
+    "duration": 1.95
+  },
+  {
+    "text": "Ram is going to put that information on the bus and then the a register is going to read that information from the bus",
+    "start": 58.39,
+    "duration": 4.639
+  },
+  {
+    "text": "Likewise if you want to take information from ram and put it into the b [register], you could do that",
+    "start": 63.939,
+    "duration": 4.31
+  },
+  {
+    "text": "You can say at some point in time [that] information is going from Ram",
+    "start": 68.25,
+    "duration": 3.36
+  },
+  {
+    "text": "Onto the bus and then the b register is reading whatever is on the bus and putting it into into the b register",
+    "start": 71.74,
+    "duration": 5.059
+  },
+  {
+    "text": "So at any [point] in time",
+    "start": 77.38,
+    "duration": 1.739
+  },
+  {
+    "text": "You can have basically one thing putting information on the bus and then one or more things reading information from the bus",
+    "start": 79.119,
+    "duration": 6.59
+  },
+  {
+    "text": "and that's how you move information from",
+    "start": 85.71,
+    "duration": 1.87
+  },
+  {
+    "text": "One part of the computer to the other and so I won't go through all of these components right now",
+    "start": 87.58,
+    "duration": 5.209
+  },
+  {
+    "text": "Maybe in future videos if you guys are interested I can I can make some future videos going into a lot more detail here",
+    "start": 92.79,
+    "duration": 4.979
+  },
+  {
+    "text": "[but] basically the way that this is controlled is",
+    "start": 98.439,
+    "duration": 2.21
+  },
+  {
+    "text": "Saying like if we want to for example Load a byte of data from Ram into the a register",
+    "start": 100.96,
+    "duration": 5.33
+  },
+  {
+    "text": "[there's] this control logic that is decoding the program that is that we've written that at different points in time",
+    "start": 107.47,
+    "duration": 6.769
+  },
+  {
+    "text": "Outputs these these control bits and so for example it might at particular point in time output the the ram out",
+    "start": 115.18,
+    "duration": 7.189
+  },
+  {
+    "text": "bit here and the a in and",
+    "start": 123.43,
+    "duration": 2.209
+  },
+  {
+    "text": "Then these correspond here to the ram out and the a in here and that tells the ram to put that information out and for",
+    "start": 125.77,
+    "duration": 6.89
+  },
+  {
+    "text": "The a register to read that from in and so we could for example. We could take information from R",
+    "start": 132.66,
+    "duration": 5.369
+  },
+  {
+    "text": "And we [could] put it in a register, we could take",
+    "start": 138.03,
+    "duration": 2.0
+  },
+  {
+    "text": "another bite from R and put it in the B register",
+    "start": 140.2,
+    "duration": 2.0
+  },
+  {
+    "text": "This [Al] use the arithmetic and logic unit this is the part of the computer that does various math operations, so for example",
+    "start": 142.78,
+    "duration": 7.4
+  },
+  {
+    "text": "We might have this add the values of a and b",
+    "start": 150.18,
+    "duration": 3.209
+  },
+  {
+    "text": "And so then we can tell the alu to put its output on the bus",
+    "start": 153.39,
+    "duration": 3.57
+  },
+  {
+    "text": "And then we might be able to read that back into the a register",
+    "start": 156.96,
+    "duration": 3.029
+  },
+  {
+    "text": "So [we] could you know for example put you know one value into a another value into B",
+    "start": 159.99,
+    "duration": 4.5
+  },
+  {
+    "text": "then we could take the sum of those values and then put that back into a",
+    "start": 164.62,
+    "duration": 4.49
+  },
+  {
+    "text": "And then we could you know maybe add another value to B. And we can keep adding numbers, and so that's how we might",
+    "start": 169.75,
+    "duration": 4.58
+  },
+  {
+    "text": "You know add numbers, and then if we get a result that we want we could",
+    "start": 174.94,
+    "duration": 3.83
+  },
+  {
+    "text": "Then tell the a register to put its information on the bus",
+    "start": 179.32,
+    "duration": 2.809
+  },
+  {
+    "text": "Until the output register to read information from the bus and then that will display the the result of that computation",
+    "start": 182.35,
+    "duration": 5.899
+  },
+  {
+    "text": "So the instructions that the computer understands are are down here",
+    "start": 189.97,
+    "duration": 3.679
+  },
+  {
+    "text": "this is a this is actually a list of all the instructions [that] the [computer] understands and each instruction has a",
+    "start": 193.9,
+    "duration": 4.67
+  },
+  {
+    "text": "Sort of a binary value here",
+    "start": 198.88,
+    "duration": 1.609
+  },
+  {
+    "text": "Which is which is the actual you know what we program in the computer if we want to use that instruction",
+    "start": 200.489,
+    "duration": 4.95
+  },
+  {
+    "text": "And then there's sort of a monadic here this little three-letter identifier",
+    "start": 205.75,
+    "duration": 3.29
+  },
+  {
+    "text": "Or two letter that we use when we're writing the program and then here I've kind of called out what each of these things are",
+    "start": 209.17,
+    "duration": 5.389
+  },
+  {
+    "text": "So the first instruction is is a no operation which basically does nothing and as that's just more so for testing or something like that",
+    "start": 215.02,
+    "duration": 7.55
+  },
+  {
+    "text": "The next instruction is load a which loads a value from memory so some somewhere in memory",
+    "start": 223.0,
+    "duration": 7.279
+  },
+  {
+    "text": "into the a register",
+    "start": 230.68,
+    "duration": 1.68
+  },
+  {
+    "text": "[and] then the next instruction [is] ad which will add two numbers",
+    "start": 232.36,
+    "duration": 4.16
+  },
+  {
+    "text": "So it'll take a number from memory [and] add it to whatever's in the a register and then put the result in the a register",
+    "start": 236.52,
+    "duration": 5.279
+  },
+  {
+    "text": "[is] actually what this what this ad does?",
+    "start": 241.8,
+    "duration": 2.0
+  },
+  {
+    "text": "Subtract is the same thing except it subtracts",
+    "start": 244.209,
+    "duration": 2.0
+  },
+  {
+    "text": "Whatever is in in memory from Whatever's in the a register [and] then puts that result back in the a register",
+    "start": 246.22,
+    "duration": 5.51
+  },
+  {
+    "text": "Store a is for then",
+    "start": 252.76,
+    "duration": 2.329
+  },
+  {
+    "text": "Taking data from the a register and putting it back in memory so we load a and store a kind of [compliments] [of] each other",
+    "start": 255.7,
+    "duration": 5.839
+  },
+  {
+    "text": "And then the output command takes whatever is in the a register and puts it out on the display",
+    "start": 262.21,
+    "duration": 4.309
+  },
+  {
+    "text": "So this is how we get out but from the computer",
+    "start": 266.52,
+    "duration": 2.0
+  },
+  {
+    "text": "And then there's also a jump instruction and a jump carry instruction, so the jump instruction allows us to loop",
+    "start": 269.23,
+    "duration": 5.989
+  },
+  {
+    "text": "Yeah",
+    "start": 275.32,
+    "duration": 0.5
+  },
+  {
+    "text": "You know create loops in our program the jump carry allows us to create a loop",
+    "start": 275.82,
+    "duration": 3.839
+  },
+  {
+    "text": "if the carry flag is set, so if the result of the last addition was",
+    "start": 280.09,
+    "duration": 4.399
+  },
+  {
+    "text": "Was an overflow then it'll jump otherwise it won't so we can create some conditional logic in our programs",
+    "start": 285.13,
+    "duration": 5.63
+  },
+  {
+    "text": "and then the halt instruction",
+    "start": 291.55,
+    "duration": 1.89
+  },
+  {
+    "text": "Halts execution so we do that at the end of the program so just an example of a program",
+    "start": 293.44,
+    "duration": 4.549
+  },
+  {
+    "text": "This is kind of this very very simple program that we can that we can do in the computer this program basically",
+    "start": 297.99,
+    "duration": 6.12
+  },
+  {
+    "text": "Just adds two numbers together and then outputs the result so what we're doing is we're saying we want to load",
+    "start": 304.42,
+    "duration": 5.119
+  },
+  {
+    "text": "into into the a register so load a 4 and this 4",
+    "start": 309.97,
+    "duration": 3.589
+  },
+  {
+    "text": "parameter",
+    "start": 314.11,
+    "duration": 1.02
+  },
+  {
+    "text": "Isn't the number 4 so we're not putting the number 4 into the a register?",
+    "start": 315.13,
+    "duration": 2.989
+  },
+  {
+    "text": "What we're doing is we're putting the contents of Memory location 4 into the a register",
+    "start": 318.12,
+    "duration": 4.619
+  },
+  {
+    "text": "That's how the load a command works, and so here you can see these are [this] these are the addresses",
+    "start": 323.47,
+    "duration": 6.23
+  },
+  {
+    "text": "so the program sits in address is 0 1 2 & 3 so the program itself is 4 bytes long and",
+    "start": 329.7,
+    "duration": 5.519
+  },
+  {
+    "text": "Then the Data is 2 bytes long and the data are the two numbers that we that we want to add together?",
+    "start": 335.5,
+    "duration": 4.64
+  },
+  {
+    "text": "So we're loading into the a register the contents of Memory location 4 which is the number 14",
+    "start": 340.54,
+    "duration": 5.119
+  },
+  {
+    "text": "And that's just one of the two numbers that we're going to add this program is going to add numbers 14 and 28",
+    "start": 345.66,
+    "duration": 3.899
+  },
+  {
+    "text": "the next instruction says add",
+    "start": 350.32,
+    "duration": 2.0
+  },
+  {
+    "text": "The contents of Memory Location 5 and so what that's going to do is it's going to go and take",
+    "start": 352.45,
+    "duration": 4.699
+  },
+  {
+    "text": "This value 28 which is what's in Memory location 5 and add it to the a register, so the a register",
+    "start": 357.22,
+    "duration": 6.709
+  },
+  {
+    "text": "We loaded 14 into it now we're going to add 28",
+    "start": 364.09,
+    "duration": 2.959
+  },
+  {
+    "text": "So we're going to have a total of the sum of these two things which is 42 in the a register",
+    "start": 367.05,
+    "duration": 4.95
+  },
+  {
+    "text": "So once we've done [that] the next [instruction] is the out",
+    "start": 372.61,
+    "duration": 3.38
+  },
+  {
+    "text": "Instruction and this outputs the contents of the a register to the display and so once we've added the two numbers",
+    "start": 376.18,
+    "duration": 6.679
+  },
+  {
+    "text": "We want to we want to put that put that out put on the display [so] that we can",
+    "start": 382.86,
+    "duration": 3.24
+  },
+  {
+    "text": "we can see the result and then the last instruction halts the computer and so that just stops execution",
+    "start": 386.41,
+    "duration": 4.489
+  },
+  {
+    "text": "So how do we program this into the computer so the computer?",
+    "start": 391.54,
+    "duration": 3.079
+  },
+  {
+    "text": "Memory here we can program it in using these dip switches, but how do we convert [this-this-this]?",
+    "start": 395.53,
+    "duration": 6.04
+  },
+  {
+    "text": "Set of instructions into something that we can we can use our dip switches",
+    "start": 402.27,
+    "duration": 3.38
+  },
+  {
+    "text": "And so that's that's a sort of a step here that we need to do which is converting each of these",
+    "start": 405.65,
+    "duration": 5.16
+  },
+  {
+    "text": "Each of these commands or each of these what they're called Op codes",
+    "start": 411.3,
+    "duration": 3.77
+  },
+  {
+    "text": "into",
+    "start": 415.62,
+    "duration": 1.23
+  },
+  {
+    "text": "Into binary that we can that we can input into the computer using the dip switches",
+    "start": 416.85,
+    "duration": 4.489
+  },
+  {
+    "text": "And so if you remember each of these Op codes has a has a binary thing associated with it",
+    "start": 422.1,
+    "duration": 4.699
+  },
+  {
+    "text": "So what we what? We do is this this program here is",
+    "start": 426.8,
+    "duration": 3.3
+  },
+  {
+    "text": "kind of in a format that we call assembly language and so the sort of next step here is [to] do a",
+    "start": 430.68,
+    "duration": 5.57
+  },
+  {
+    "text": "Process which is called assembling it",
+    "start": 436.5,
+    "duration": 2.0
+  },
+  {
+    "text": "[which] is where we convert the program from Assembly language to",
+    "start": 438.75,
+    "duration": 4.399
+  },
+  {
+    "text": "this binary",
+    "start": 443.79,
+    "duration": 0.77
+  },
+  {
+    "text": "Which is the machine language?",
+    "start": 444.56,
+    "duration": 1.66
+  },
+  {
+    "text": "And so the machine language is actually what we can input into the computer and what the computer is going to run because the computer",
+    "start": 446.22,
+    "duration": 4.76
+  },
+  {
+    "text": "Just understands these ones and zeros",
+    "start": 450.98,
+    "duration": 2.0
+  },
+  {
+    "text": "[and]",
+    "start": 453.39,
+    "duration": 1.26
+  },
+  {
+    "text": "so the address portion of our program",
+    "start": 454.65,
+    "duration": 2.66
+  },
+  {
+    "text": "this is just what address we're putting each of these commands into",
+    "start": 457.31,
+    "duration": 3.27
+  },
+  {
+    "text": "so the addresses are 0 1 2 3 4 & 5 so there's a total of 6 bytes of memory that we're using for the",
+    "start": 460.74,
+    "duration": 5.96
+  },
+  {
+    "text": "program and the Data and so if we just convert those to binary this is 0 1",
+    "start": 466.7,
+    "duration": 4.019
+  },
+  {
+    "text": "This is 2 in Binary 3 4 and this is 5 in binary, so we just convert those addresses",
+    "start": 471.06,
+    "duration": 5.51
+  },
+  {
+    "text": "the instructions",
+    "start": 477.24,
+    "duration": 1.56
+  },
+  {
+    "text": "We we go ahead and look over here at what the what the actual binary equivalent of each of these",
+    "start": 478.8,
+    "duration": 5.57
+  },
+  {
+    "text": "Instruction Op codes is so the load a for example if we look over here. It's 0 0 0 1 and, so",
+    "start": 484.74,
+    "duration": 5.809
+  },
+  {
+    "text": "we've",
+    "start": 491.16,
+    "duration": 1.02
+  },
+  {
+    "text": "converted that here as 0 0 0 1 the add opcode 0 0 1 0 we've converted that 0 0 1 0",
+    "start": 492.18,
+    "duration": 7.369
+  },
+  {
+    "text": "output is 0 1 0 1 so you see that there and then halt is 1 1 1 1",
+    "start": 499.83,
+    "duration": 5.719
+  },
+  {
+    "text": "So you can see [we've] just converted these these",
+    "start": 506.04,
+    "duration": 3.319
+  },
+  {
+    "text": "Sort of more intuitive",
+    "start": 509.88,
+    "duration": 2.0
+  },
+  {
+    "text": "use that word loosely these sort of intuitive opcodes into the binary and",
+    "start": 512.7,
+    "duration": 5.179
+  },
+  {
+    "text": "Then some of these Op codes have a parameter associated with it",
+    "start": 518.969,
+    "duration": 3.41
+  },
+  {
+    "text": "So the the load a and the add both have a memory address that goes with that",
+    "start": 522.38,
+    "duration": 4.109
+  },
+  {
+    "text": "so we're going to loading a with the contents of memory address for",
+    "start": 526.49,
+    "duration": 4.049
+  },
+  {
+    "text": "When we're adding the contents of memory address file five",
+    "start": 530.94,
+    "duration": 2.52
+  },
+  {
+    "text": "and so that just gets converted over here so zero one zero zero is just four in binary and",
+    "start": 533.68,
+    "duration": 4.489
+  },
+  {
+    "text": "Zero one zero one is just five in binary. So that's just converted over the output and the halt",
+    "start": 538.48,
+    "duration": 5.33
+  },
+  {
+    "text": "There's no parameter that goes with that so we can just put all zeros there and then finally for the data",
+    "start": 543.81,
+    "duration": 4.289
+  },
+  {
+    "text": "We've got the 14 and the 28 those just get converted to binary, so this is just the binary equivalent of 14",
+    "start": 548.11,
+    "duration": 5.72
+  },
+  {
+    "text": "This is just the binary equivalent of 28",
+    "start": 553.83,
+    "duration": 2.0
+  },
+  {
+    "text": "And so once we've converted all this to binary. We can go ahead and enter it into the computer using these switches",
+    "start": 556.69,
+    "duration": 6.44
+  },
+  {
+    "text": "Get this out of the way",
+    "start": 564.1,
+    "duration": 2.0
+  },
+  {
+    "text": "And the way this works is right now the computer is in run mode",
+    "start": 567.16,
+    "duration": 4.52
+  },
+  {
+    "text": "[so] we want to but the clock is stops that's fine. So we want to convert we want to switch this over to program mode",
+    "start": 572.71,
+    "duration": 5.899
+  },
+  {
+    "text": "That's just [the] switch here",
+    "start": 579.19,
+    "duration": 1.339
+  },
+  {
+    "text": "And when we're in program mode we can set the memory address that we want to program here",
+    "start": 580.529,
+    "duration": 4.8
+  },
+  {
+    "text": "And then we can set the data that we want [to] put [in] [to] that memory location here",
+    "start": 585.33,
+    "duration": 4.259
+  },
+  {
+    "text": "And then we just push this button over here to to actually program it",
+    "start": 589.589,
+    "duration": 3.78
+  },
+  {
+    "text": "So we'll just start where we've already got zero zero zero zero set as the address so the instruction is [zero] [zero] [zero] [one]",
+    "start": 593.65,
+    "duration": 6.529
+  },
+  {
+    "text": "So we'll set that one here 0 1",
+    "start": 600.279,
+    "duration": 2.75
+  },
+  {
+    "text": "0 0 and so",
+    "start": 604.54,
+    "duration": 1.83
+  },
+  {
+    "text": "[I] just set those dip switches. So zeroes are down ones are up and then I just push this button here and",
+    "start": 606.37,
+    "duration": 5.929
+  },
+  {
+    "text": "It programs it in and so now we can see that the memory contents are 0 0 0 1 0 1 0 0",
+    "start": 614.02,
+    "duration": 6.589
+  },
+  {
+    "text": "Then we can move on to the next so 0 0 0 1 is the address this next address",
+    "start": 622.029,
+    "duration": 4.97
+  },
+  {
+    "text": "As soon as I change this address you see the memory contents now are all 0",
+    "start": 627.49,
+    "duration": 3.919
+  },
+  {
+    "text": "But I can set them so this memory. I'm just going to set all these switches to zeros",
+    "start": 632.32,
+    "duration": 4.789
+  },
+  {
+    "text": "0 0 1 0",
+    "start": 638.56,
+    "duration": 2.0
+  },
+  {
+    "text": "0 0 1 0 0 1 0 1 set those switches",
+    "start": 640.99,
+    "duration": 6.02
+  },
+  {
+    "text": "push that button and now",
+    "start": 648.31,
+    "duration": 2.0
+  },
+  {
+    "text": "Location memory location 1 is now programmed with with this value",
+    "start": 651.55,
+    "duration": 4.4
+  },
+  {
+    "text": "and so I'm just going [to] move along and the next address is 0 0 1 0",
+    "start": 656.56,
+    "duration": 4.609
+  },
+  {
+    "text": "And the contents of [that] are going to be",
+    "start": 663.64,
+    "duration": 3.509
+  },
+  {
+    "text": "zero one zero one",
+    "start": 670.19,
+    "duration": 2.0
+  },
+  {
+    "text": "whole zeroes that's our output command, and then the next address is",
+    "start": 672.2,
+    "duration": 5.239
+  },
+  {
+    "text": "[zero] [Zero] 1 1 and this is going to be a halt. Which is just one one one one",
+    "start": 678.29,
+    "duration": 5.119
+  },
+  {
+    "text": "program [that] so we've got 1 1 1 1",
+    "start": 684.529,
+    "duration": 2.0
+  },
+  {
+    "text": "[ok], so that's the program and now we just need to put the data and this is just going to be the two numbers that",
+    "start": 687.019,
+    "duration": 4.88
+  },
+  {
+    "text": "We're adding together. So you remember",
+    "start": 691.899,
+    "duration": 2.0
+  },
+  {
+    "text": "we're adding 14 and 28 so in address locations 4 & 5 I'm going to put 14 and 28 in binary So [4]",
+    "start": 694.97,
+    "duration": 7.549
+  },
+  {
+    "text": "0 0",
+    "start": 703.22,
+    "duration": 1.559
+  },
+  {
+    "text": "0 1 0 0 is 4 you can see that there and",
+    "start": 704.779,
+    "duration": 2.9
+  },
+  {
+    "text": "the",
+    "start": 708.529,
+    "duration": 1.141
+  },
+  {
+    "text": "14",
+    "start": 709.67,
+    "duration": 1.349
+  },
+  {
+    "text": "I'm going to put here",
+    "start": 711.019,
+    "duration": 2.0
+  },
+  {
+    "text": "it's going to be 0 0 0",
+    "start": 713.899,
+    "duration": 2.0
+  },
+  {
+    "text": "1 1 1 0",
+    "start": 716.48,
+    "duration": 2.0
+  },
+  {
+    "text": "0 that's 14 we program that and then finally the second operand",
+    "start": 719.39,
+    "duration": 5.029
+  },
+  {
+    "text": "0 1 0 1 is the address and the second operand is going to be 28 which is 0 0 0 [oh]?",
+    "start": 726.62,
+    "duration": 6.049
+  },
+  {
+    "text": "I think I actually program 28 into address for so let me program 28 here [into] address [five] and",
+    "start": 734.779,
+    "duration": 6.559
+  },
+  {
+    "text": "Then go back to address 4 and yeah, you can see 28 is in there. So really what I want to do",
+    "start": 741.649,
+    "duration": 4.85
+  },
+  {
+    "text": "Is change these switches?",
+    "start": 747.019,
+    "duration": 2.54
+  },
+  {
+    "text": "and",
+    "start": 750.079,
+    "duration": 2.0
+  },
+  {
+    "text": "Program that again and here. We have it's four zeros [3] ones and then a 0 that's the 14 so now that's programmed into",
+    "start": 752.209,
+    "duration": 7.91
+  },
+  {
+    "text": "address Location [4]",
+    "start": 760.64,
+    "duration": 1.8
+  },
+  {
+    "text": "[ok] so I think everything is programmed now if I want to I can [go] back and check by setting these addresses",
+    "start": 762.44,
+    "duration": 5.389
+  },
+  {
+    "text": "So if I go to address 0 I should see the 0 0 1 0 [1] 0 0 I can",
+    "start": 767.829,
+    "duration": 6.03
+  },
+  {
+    "text": "and I can just kind of flip through each of these addresses and see what's in memory and",
+    "start": 773.86,
+    "duration": 3.39
+  },
+  {
+    "text": "That looks right?",
+    "start": 778.01,
+    "duration": 2.0
+  },
+  {
+    "text": "Go to the next address",
+    "start": 780.709,
+    "duration": 1.74
+  },
+  {
+    "text": "This looks right?",
+    "start": 782.449,
+    "duration": 1.861
+  },
+  {
+    "text": "if I go to the next address",
+    "start": 784.31,
+    "duration": 2.0
+  },
+  {
+    "text": "this looks right and then let me just double check the data because I think I",
+    "start": 786.68,
+    "duration": 3.739
+  },
+  {
+    "text": "Almost made a mistake there",
+    "start": 791.12,
+    "duration": 2.0
+  },
+  {
+    "text": "So this is the first piece of data",
+    "start": 793.279,
+    "duration": 2.0
+  },
+  {
+    "text": "and this looks like 14, and then the next final piece of data here this",
+    "start": 795.8,
+    "duration": 6.149
+  },
+  {
+    "text": "[does] look like 28 okay? So I think the computer is programmed correctly so at this point. We can switch it back to",
+    "start": 802.739,
+    "duration": 5.6
+  },
+  {
+    "text": "The run mode and you see now the the memories address",
+    "start": 809.249,
+    "duration": 3.77
+  },
+  {
+    "text": "Which is here no longer affect what memory we're looking at because the rest of the computer is controlling that",
+    "start": 813.019,
+    "duration": 3.63
+  },
+  {
+    "text": "So I can zoom out here [and] let's actually just try to",
+    "start": 817.41,
+    "duration": 3.409
+  },
+  {
+    "text": "Run this program and see if it works and [so] the way we run it is these switches here reset",
+    "start": 821.309,
+    "duration": 5.119
+  },
+  {
+    "text": "There's like three [different] kind of reset switches that reset different parts of the computer",
+    "start": 826.429,
+    "duration": 3.57
+  },
+  {
+    "text": "So we reset all of that and right now the clock is stopped",
+    "start": 830.189,
+    "duration": 3.38
+  },
+  {
+    "text": "but if I start the clock it should go through and execute that program and",
+    "start": 834.629,
+    "duration": 5.09
+  },
+  {
+    "text": "It looks like it did and the answer is 42",
+    "start": 841.019,
+    "duration": 2.33
+  },
+  {
+    "text": "[I'm] going to",
+    "start": 844.829,
+    "duration": 2.0
+  },
+  {
+    "text": "Reset this again, and I'm actually surprised",
+    "start": 847.439,
+    "duration": 2.359
+  },
+  {
+    "text": "Did run a little bit slower here? We go. I think this capacitor",
+    "start": 850.739,
+    "duration": 4.46
+  },
+  {
+    "text": "wasn't set in there correctly so now it's running a little bit slower and",
+    "start": 855.199,
+    "duration": 3.57
+  },
+  {
+    "text": "I'm not sure why came up with 28",
+    "start": 860.79,
+    "duration": 2.0
+  },
+  {
+    "text": "Let me reset it again",
+    "start": 863.939,
+    "duration": 2.51
+  },
+  {
+    "text": "Run it [again]",
+    "start": 868.439,
+    "duration": 2.0
+  },
+  {
+    "text": "And it looks like it got to 42 and it halted yeah, so I think",
+    "start": 875.67,
+    "duration": 3.509
+  },
+  {
+    "text": "When I first ran it it ran very fast, and I think that's because this capacitor which is",
+    "start": 879.82,
+    "duration": 3.859
+  },
+  {
+    "text": "Affecting the clock speed was not set in there properly",
+    "start": 884.74,
+    "duration": 3.08
+  },
+  {
+    "text": "So it the clock ran super fast and just like immediately came up with a computation and then the second time I ran it",
+    "start": 887.82,
+    "duration": 6.479
+  },
+  {
+    "text": "I'm not sure why I got that 28",
+    "start": 894.3,
+    "duration": 1.41
+  },
+  {
+    "text": "maybe I hadn't reset it properly after I had fiddled with this capacitor, but it looks like now if I",
+    "start": 895.71,
+    "duration": 5.279
+  },
+  {
+    "text": "stop the clock reset everything and then start it you can see it stepping through and",
+    "start": 901.54,
+    "duration": 5.209
+  },
+  {
+    "text": "Hopefully it will come up with the same answer again",
+    "start": 907.36,
+    "duration": 2.0
+  },
+  {
+    "text": "it looks like it did and then it's going to go and do the halt and",
+    "start": 911.32,
+    "duration": 3.08
+  },
+  {
+    "text": "That's it, and so maybe in the next video. I'll walk [through] step by step and see exactly how the execution works",
+    "start": 915.37,
+    "duration": 6.29
+  }
+]

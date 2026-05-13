@@ -1,0 +1,657 @@
+[
+  {
+    "text": "Yesterday at OpenAI dev day, Sam Waltman",
+    "start": 0.16,
+    "duration": 4.639
+  },
+  {
+    "text": "walked on the stage in San Francisco and",
+    "start": 2.8,
+    "duration": 3.76
+  },
+  {
+    "text": "said, \"Your entire tech stack is",
+    "start": 4.799,
+    "duration": 3.681
+  },
+  {
+    "text": "deprecated.\" That's not a direct quote.",
+    "start": 6.56,
+    "duration": 3.76
+  },
+  {
+    "text": "I'm just paraphrasing. But we have about",
+    "start": 8.48,
+    "duration": 3.76
+  },
+  {
+    "text": "a half dozen newly released features",
+    "start": 10.32,
+    "duration": 3.359
+  },
+  {
+    "text": "that will change the way developers",
+    "start": 12.24,
+    "duration": 3.76
+  },
+  {
+    "text": "build AI powered apps in the future. The",
+    "start": 13.679,
+    "duration": 4.561
+  },
+  {
+    "text": "biggest bet OpenAI is making is turning",
+    "start": 16.0,
+    "duration": 4.8
+  },
+  {
+    "text": "Chat GPT into an app platform, which",
+    "start": 18.24,
+    "duration": 3.84
+  },
+  {
+    "text": "means you no longer have to use",
+    "start": 20.8,
+    "duration": 3.12
+  },
+  {
+    "text": "old-fashioned websites or mobile apps",
+    "start": 22.08,
+    "duration": 3.76
+  },
+  {
+    "text": "like a boomer. The goal is to make chat",
+    "start": 23.92,
+    "duration": 4.16
+  },
+  {
+    "text": "GPT like an operating system that you're",
+    "start": 25.84,
+    "duration": 4.32
+  },
+  {
+    "text": "completely locked into. Imagine this.",
+    "start": 28.08,
+    "duration": 3.68
+  },
+  {
+    "text": "You want to play your favorite song on",
+    "start": 30.16,
+    "duration": 3.76
+  },
+  {
+    "text": "Spotify, like I'm quitting Prozac to",
+    "start": 31.76,
+    "duration": 4.08
+  },
+  {
+    "text": "continue drinking by 19-year-old pop",
+    "start": 33.92,
+    "duration": 4.08
+  },
+  {
+    "text": "sensation Jimmy Brown. In the future,",
+    "start": 35.84,
+    "duration": 4.0
+  },
+  {
+    "text": "you no longer need to open the Spotify",
+    "start": 38.0,
+    "duration": 3.68
+  },
+  {
+    "text": "app and hit the play button. Instead,",
+    "start": 39.84,
+    "duration": 4.08
+  },
+  {
+    "text": "you can simply open the Chat GPT app and",
+    "start": 41.68,
+    "duration": 4.24
+  },
+  {
+    "text": "type out an awkward prompt to tell Chat",
+    "start": 43.92,
+    "duration": 4.0
+  },
+  {
+    "text": "GPT to push the button for you. Looks",
+    "start": 45.92,
+    "duration": 3.6
+  },
+  {
+    "text": "like the future of AI is going to skip",
+    "start": 47.92,
+    "duration": 4.08
+  },
+  {
+    "text": "the Great Robot War of 2029 prophesized",
+    "start": 49.52,
+    "duration": 4.16
+  },
+  {
+    "text": "in Terminator and go straight to the",
+    "start": 52.0,
+    "duration": 4.64
+  },
+  {
+    "text": "year of 255 prophesized in Idiocracy.",
+    "start": 53.68,
+    "duration": 4.48
+  },
+  {
+    "text": "Well, there plenty of tards out there",
+    "start": 56.64,
+    "duration": 3.439
+  },
+  {
+    "text": "living really kick-ass lives.",
+    "start": 58.16,
+    "duration": 3.84
+  },
+  {
+    "text": ">> But developers who ride the chat GPT",
+    "start": 60.079,
+    "duration": 3.681
+  },
+  {
+    "text": "apps wave early stand to make tons of",
+    "start": 62.0,
+    "duration": 3.36
+  },
+  {
+    "text": "money from the massive distribution",
+    "start": 63.76,
+    "duration": 4.0
+  },
+  {
+    "text": "opportunity of their 800 million weekly",
+    "start": 65.36,
+    "duration": 4.799
+  },
+  {
+    "text": "active users. But apps and chat GPT",
+    "start": 67.76,
+    "duration": 4.16
+  },
+  {
+    "text": "isn't the most interesting announcement.",
+    "start": 70.159,
+    "duration": 3.601
+  },
+  {
+    "text": "You also need to know about agent kit",
+    "start": 71.92,
+    "duration": 4.08
+  },
+  {
+    "text": "codecs with GitHub actions, new models",
+    "start": 73.76,
+    "duration": 4.32
+  },
+  {
+    "text": "for poor people, and some big updates to",
+    "start": 76.0,
+    "duration": 5.2
+  },
+  {
+    "text": "the API. It is October 7th, 2025, and",
+    "start": 78.08,
+    "duration": 4.96
+  },
+  {
+    "text": "you're watching the code report. First,",
+    "start": 81.2,
+    "duration": 4.239
+  },
+  {
+    "text": "let's talk more about apps and chat GPT.",
+    "start": 83.04,
+    "duration": 4.24
+  },
+  {
+    "text": "remember GPT plugins from a couple years",
+    "start": 85.439,
+    "duration": 4.241
+  },
+  {
+    "text": "ago? They died. Then they tried a slight",
+    "start": 87.28,
+    "duration": 4.96
+  },
+  {
+    "text": "variation GPTs, but they're also pretty",
+    "start": 89.68,
+    "duration": 4.16
+  },
+  {
+    "text": "much dead. And now they're trying apps",
+    "start": 92.24,
+    "duration": 3.68
+  },
+  {
+    "text": "and chat GPT because the third time's a",
+    "start": 93.84,
+    "duration": 3.76
+  },
+  {
+    "text": "charm. Right. Right now it's only being",
+    "start": 95.92,
+    "duration": 3.36
+  },
+  {
+    "text": "triled by big apps you probably",
+    "start": 97.6,
+    "duration": 3.36
+  },
+  {
+    "text": "recognize. And I think it could work",
+    "start": 99.28,
+    "duration": 3.44
+  },
+  {
+    "text": "really well for things like Zillow. Like",
+    "start": 100.96,
+    "duration": 4.0
+  },
+  {
+    "text": "this guy paid his realtor $50,000 for",
+    "start": 102.72,
+    "duration": 4.079
+  },
+  {
+    "text": "this million-doll home in San Francisco.",
+    "start": 104.96,
+    "duration": 3.6
+  },
+  {
+    "text": "When in reality, Chat GPT could have",
+    "start": 106.799,
+    "duration": 4.0
+  },
+  {
+    "text": "done a better job faster. However, I'm",
+    "start": 108.56,
+    "duration": 4.4
+  },
+  {
+    "text": "also pretty bearish on apps and chat GPT",
+    "start": 110.799,
+    "duration": 4.0
+  },
+  {
+    "text": "because in most cases, I'd rather just",
+    "start": 112.96,
+    "duration": 4.08
+  },
+  {
+    "text": "use an app's UI than rope in a chatbot",
+    "start": 114.799,
+    "duration": 3.92
+  },
+  {
+    "text": "to over complicate things. The next",
+    "start": 117.04,
+    "duration": 3.119
+  },
+  {
+    "text": "thing you should know about are updates",
+    "start": 118.719,
+    "duration": 5.201
+  },
+  {
+    "text": "to the OpenAI API. Both Sora 2 and GPT5",
+    "start": 120.159,
+    "duration": 6.081
+  },
+  {
+    "text": "Pro are now available in the API, which",
+    "start": 123.92,
+    "duration": 3.68
+  },
+  {
+    "text": "means you can start lighting money on",
+    "start": 126.24,
+    "duration": 3.439
+  },
+  {
+    "text": "fire trying to build your own AI powered",
+    "start": 127.6,
+    "duration": 4.08
+  },
+  {
+    "text": "and shitification accelerator. The Sora",
+    "start": 129.679,
+    "duration": 4.241
+  },
+  {
+    "text": "2 costs 50 cents per 1 second of",
+    "start": 131.68,
+    "duration": 4.96
+  },
+  {
+    "text": "highquality video or about $1,800 to",
+    "start": 133.92,
+    "duration": 4.64
+  },
+  {
+    "text": "slop out a 1-hour movie that nobody's",
+    "start": 136.64,
+    "duration": 3.599
+  },
+  {
+    "text": "going to watch. In addition, if you're",
+    "start": 138.56,
+    "duration": 3.759
+  },
+  {
+    "text": "implementing voice or image generation",
+    "start": 140.239,
+    "duration": 4.241
+  },
+  {
+    "text": "features, there's now two smaller models",
+    "start": 142.319,
+    "duration": 3.681
+  },
+  {
+    "text": "that are far less expensive than the",
+    "start": 144.48,
+    "duration": 3.28
+  },
+  {
+    "text": "alternatives, but pretty cool. But one",
+    "start": 146.0,
+    "duration": 2.959
+  },
+  {
+    "text": "of the greatest life hacks for",
+    "start": 147.76,
+    "duration": 3.199
+  },
+  {
+    "text": "developers is to stop wasting time on",
+    "start": 148.959,
+    "duration": 4.161
+  },
+  {
+    "text": "code reviews. OpenAI just released a",
+    "start": 150.959,
+    "duration": 4.081
+  },
+  {
+    "text": "GitHub action for codecs that will",
+    "start": 153.12,
+    "duration": 3.68
+  },
+  {
+    "text": "automatically review code quality every",
+    "start": 155.04,
+    "duration": 3.839
+  },
+  {
+    "text": "time you make a new PR on GitHub. And",
+    "start": 156.8,
+    "duration": 3.84
+  },
+  {
+    "text": "not just that, but you could also use it",
+    "start": 158.879,
+    "duration": 3.681
+  },
+  {
+    "text": "to scan for security flaws, write",
+    "start": 160.64,
+    "duration": 3.76
+  },
+  {
+    "text": "documentation, and a bunch of other",
+    "start": 162.56,
+    "duration": 3.28
+  },
+  {
+    "text": "stuff. The coolest thing announced",
+    "start": 164.4,
+    "duration": 3.919
+  },
+  {
+    "text": "yesterday though is agent kit, a unified",
+    "start": 165.84,
+    "duration": 4.64
+  },
+  {
+    "text": "set of tools where developers can build,",
+    "start": 168.319,
+    "duration": 4.721
+  },
+  {
+    "text": "deploy, and optimize agents. Just a few",
+    "start": 170.48,
+    "duration": 4.08
+  },
+  {
+    "text": "days ago, I was talking about how",
+    "start": 173.04,
+    "duration": 4.16
+  },
+  {
+    "text": "awesome N8N was as a Zapier alternative,",
+    "start": 174.56,
+    "duration": 4.959
+  },
+  {
+    "text": "while now Agent Kit drops as the NAN",
+    "start": 177.2,
+    "duration": 4.56
+  },
+  {
+    "text": "alternative for building AI apps. It",
+    "start": 179.519,
+    "duration": 4.161
+  },
+  {
+    "text": "gives you a flowchart style canvas where",
+    "start": 181.76,
+    "duration": 3.759
+  },
+  {
+    "text": "you can implement the logic for your app",
+    "start": 183.68,
+    "duration": 3.36
+  },
+  {
+    "text": "without stitching together a bunch of",
+    "start": 185.519,
+    "duration": 3.44
+  },
+  {
+    "text": "code manually. On one hand, this tool",
+    "start": 187.04,
+    "duration": 3.6
+  },
+  {
+    "text": "has a lot of potential because it gives",
+    "start": 188.959,
+    "duration": 3.601
+  },
+  {
+    "text": "non-engineers the ability to build",
+    "start": 190.64,
+    "duration": 4.239
+  },
+  {
+    "text": "non-trivial apps. But on the other hand,",
+    "start": 192.56,
+    "duration": 4.319
+  },
+  {
+    "text": "no code tools like this always have a",
+    "start": 194.879,
+    "duration": 3.681
+  },
+  {
+    "text": "complexity ceiling that eventually",
+    "start": 196.879,
+    "duration": 3.601
+  },
+  {
+    "text": "requires a real human programmer to come",
+    "start": 198.56,
+    "duration": 3.679
+  },
+  {
+    "text": "in and tear the entire thing down and",
+    "start": 200.48,
+    "duration": 3.759
+  },
+  {
+    "text": "build it properly with actual code. In",
+    "start": 202.239,
+    "duration": 3.761
+  },
+  {
+    "text": "any case, it's a legit new tool that you",
+    "start": 204.239,
+    "duration": 3.441
+  },
+  {
+    "text": "should have on your radar. Speaking of",
+    "start": 206.0,
+    "duration": 3.2
+  },
+  {
+    "text": "which, you also need to know what Jet",
+    "start": 207.68,
+    "duration": 3.44
+  },
+  {
+    "text": "Brains is up to, the sponsor of today's",
+    "start": 209.2,
+    "duration": 3.759
+  },
+  {
+    "text": "video. They just launched a new AI",
+    "start": 211.12,
+    "duration": 4.0
+  },
+  {
+    "text": "coding agent called Juny that's tightly",
+    "start": 212.959,
+    "duration": 4.481
+  },
+  {
+    "text": "integrated with the Jet Brains IDE and",
+    "start": 215.12,
+    "duration": 3.839
+  },
+  {
+    "text": "can understand the context of your",
+    "start": 217.44,
+    "duration": 3.68
+  },
+  {
+    "text": "entire codebase. This allows it to fit",
+    "start": 218.959,
+    "duration": 4.0
+  },
+  {
+    "text": "seamlessly into your workflow is so you",
+    "start": 221.12,
+    "duration": 3.92
+  },
+  {
+    "text": "can have it complete realworld jobs at",
+    "start": 222.959,
+    "duration": 4.161
+  },
+  {
+    "text": "your job without the need to context",
+    "start": 225.04,
+    "duration": 3.839
+  },
+  {
+    "text": "switch between multiple tools. I've been",
+    "start": 227.12,
+    "duration": 3.839
+  },
+  {
+    "text": "using Juni on my own side project that",
+    "start": 228.879,
+    "duration": 4.481
+  },
+  {
+    "text": "has a bunch of complex geospatial data.",
+    "start": 230.959,
+    "duration": 4.161
+  },
+  {
+    "text": "And my honest opinion is that it's a",
+    "start": 233.36,
+    "duration": 3.2
+  },
+  {
+    "text": "little bit slower than other codegen",
+    "start": 235.12,
+    "duration": 3.52
+  },
+  {
+    "text": "tools I've tried, but it handles context",
+    "start": 236.56,
+    "duration": 4.16
+  },
+  {
+    "text": "and accuracy extremely well on a big",
+    "start": 238.64,
+    "duration": 3.76
+  },
+  {
+    "text": "project. That's huge if you're on a big",
+    "start": 240.72,
+    "duration": 3.28
+  },
+  {
+    "text": "team and it integrates well with",
+    "start": 242.4,
+    "duration": 3.6
+  },
+  {
+    "text": "external platforms like GitHub where you",
+    "start": 244.0,
+    "duration": 3.92
+  },
+  {
+    "text": "can assign multiple jobs to Juny at the",
+    "start": 246.0,
+    "duration": 3.519
+  },
+  {
+    "text": "same time and have it complete all of",
+    "start": 247.92,
+    "duration": 3.76
+  },
+  {
+    "text": "them asynchronously. Use the link below",
+    "start": 249.519,
+    "duration": 4.321
+  },
+  {
+    "text": "to try out Juny for yourself today. This",
+    "start": 251.68,
+    "duration": 3.68
+  },
+  {
+    "text": "has been the code report. Thanks for",
+    "start": 253.84,
+    "duration": 3.2
+  },
+  {
+    "text": "watching and I will see you in the next",
+    "start": 255.36,
+    "duration": 4.08
+  },
+  {
+    "text": "one.",
+    "start": 257.04,
+    "duration": 2.4
+  }
+]

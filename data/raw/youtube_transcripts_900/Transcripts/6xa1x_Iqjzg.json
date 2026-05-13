@@ -1,0 +1,1932 @@
+[
+  {
+    "text": "okay I'm going to go through a",
+    "start": 0.359,
+    "duration": 3.32
+  },
+  {
+    "text": "spreadsheet example of a linear",
+    "start": 1.48,
+    "duration": 4.52
+  },
+  {
+    "text": "programming optimization problem where",
+    "start": 3.679,
+    "duration": 5.88
+  },
+  {
+    "text": "we choose the optimal product mix for a",
+    "start": 6.0,
+    "duration": 7.32
+  },
+  {
+    "text": "relatively simple two product uh",
+    "start": 9.559,
+    "duration": 6.441
+  },
+  {
+    "text": "mix and uh I'm going to be using Excel",
+    "start": 13.32,
+    "duration": 4.719
+  },
+  {
+    "text": "solver to do",
+    "start": 16.0,
+    "duration": 5.24
+  },
+  {
+    "text": "this okay so optimization is a pretty",
+    "start": 18.039,
+    "duration": 6.48
+  },
+  {
+    "text": "powerful tool it can be used in in many",
+    "start": 21.24,
+    "duration": 5.84
+  },
+  {
+    "text": "situations where you're trying to uh",
+    "start": 24.519,
+    "duration": 6.041
+  },
+  {
+    "text": "find a scheduling solution uh ask",
+    "start": 27.08,
+    "duration": 6.76
+  },
+  {
+    "text": "allocation um inventory control and uh",
+    "start": 30.56,
+    "duration": 5.08
+  },
+  {
+    "text": "you know in our in our situation we're",
+    "start": 33.84,
+    "duration": 4.559
+  },
+  {
+    "text": "using it to find uh a product mix but it",
+    "start": 35.64,
+    "duration": 4.28
+  },
+  {
+    "text": "can be used in lots of different",
+    "start": 38.399,
+    "duration": 4.601
+  },
+  {
+    "text": "settings all right and this is a linear",
+    "start": 39.92,
+    "duration": 6.08
+  },
+  {
+    "text": "problem but you can be uh you can be",
+    "start": 43.0,
+    "duration": 5.879
+  },
+  {
+    "text": "shown uh nonlinear problems and and",
+    "start": 46.0,
+    "duration": 4.76
+  },
+  {
+    "text": "solver can be used to solve those as",
+    "start": 48.879,
+    "duration": 4.281
+  },
+  {
+    "text": "well all right whether you're using a",
+    "start": 50.76,
+    "duration": 5.4
+  },
+  {
+    "text": "simple uh example like I am or a more",
+    "start": 53.16,
+    "duration": 6.879
+  },
+  {
+    "text": "complex example um these models tend to",
+    "start": 56.16,
+    "duration": 6.76
+  },
+  {
+    "text": "share uh many things in",
+    "start": 60.039,
+    "duration": 5.241
+  },
+  {
+    "text": "common all right so when you're working",
+    "start": 62.92,
+    "duration": 4.839
+  },
+  {
+    "text": "with optimization problems you have",
+    "start": 65.28,
+    "duration": 6.08
+  },
+  {
+    "text": "basically three steps uh the first step",
+    "start": 67.759,
+    "duration": 6.68
+  },
+  {
+    "text": "is the actual model development all",
+    "start": 71.36,
+    "duration": 5.72
+  },
+  {
+    "text": "right solver is is a really uh",
+    "start": 74.439,
+    "duration": 4.641
+  },
+  {
+    "text": "sophisticated tool but it needs quite a",
+    "start": 77.08,
+    "duration": 5.64
+  },
+  {
+    "text": "bit of help uh to do its thing and so uh",
+    "start": 79.08,
+    "duration": 6.359
+  },
+  {
+    "text": "we spend some time building the model",
+    "start": 82.72,
+    "duration": 4.28
+  },
+  {
+    "text": "all right the second step is actually",
+    "start": 85.439,
+    "duration": 3.961
+  },
+  {
+    "text": "using solver or something like it to",
+    "start": 87.0,
+    "duration": 5.28
+  },
+  {
+    "text": "find an an optimal solution all right",
+    "start": 89.4,
+    "duration": 5.16
+  },
+  {
+    "text": "and then finally uh you're going to",
+    "start": 92.28,
+    "duration": 4.879
+  },
+  {
+    "text": "evaluate the solution because recognize",
+    "start": 94.56,
+    "duration": 5.919
+  },
+  {
+    "text": "that um things in the real world may not",
+    "start": 97.159,
+    "duration": 5.96
+  },
+  {
+    "text": "work out the way they do uh in in a",
+    "start": 100.479,
+    "duration": 4.92
+  },
+  {
+    "text": "model all right so I've summarized the",
+    "start": 103.119,
+    "duration": 4.081
+  },
+  {
+    "text": "problem that we're going to be uh we're",
+    "start": 105.399,
+    "duration": 2.961
+  },
+  {
+    "text": "going to be working on we're going to be",
+    "start": 107.2,
+    "duration": 4.599
+  },
+  {
+    "text": "finding a profit mix that maximizes our",
+    "start": 108.36,
+    "duration": 6.759
+  },
+  {
+    "text": "profit and uh in this production run uh",
+    "start": 111.799,
+    "duration": 7.041
+  },
+  {
+    "text": "we're limited to uh certain resources",
+    "start": 115.119,
+    "duration": 5.841
+  },
+  {
+    "text": "all right and then uh yeah we we're",
+    "start": 118.84,
+    "duration": 5.72
+  },
+  {
+    "text": "going to uh also uh tell solver not to",
+    "start": 120.96,
+    "duration": 6.0
+  },
+  {
+    "text": "make any uh negative products all right",
+    "start": 124.56,
+    "duration": 4.679
+  },
+  {
+    "text": "so uh we're going to put in these uh",
+    "start": 126.96,
+    "duration": 4.8
+  },
+  {
+    "text": "non- negativity",
+    "start": 129.239,
+    "duration": 4.401
+  },
+  {
+    "text": "constraints",
+    "start": 131.76,
+    "duration": 4.92
+  },
+  {
+    "text": "okay and when you work with a",
+    "start": 133.64,
+    "duration": 5.599
+  },
+  {
+    "text": "spreadsheet model uh you're going to",
+    "start": 136.68,
+    "duration": 6.72
+  },
+  {
+    "text": "need uh basically four things uh to in",
+    "start": 139.239,
+    "duration": 6.921
+  },
+  {
+    "text": "order to formulate something that solver",
+    "start": 143.4,
+    "duration": 5.08
+  },
+  {
+    "text": "can actually solve all right so we're",
+    "start": 146.16,
+    "duration": 6.0
+  },
+  {
+    "text": "going to need an objective function and",
+    "start": 148.48,
+    "duration": 6.0
+  },
+  {
+    "text": "uh the objective function is uh the",
+    "start": 152.16,
+    "duration": 4.32
+  },
+  {
+    "text": "thing that we're trying to maximize or",
+    "start": 154.48,
+    "duration": 4.0
+  },
+  {
+    "text": "in some cases minimize all right so in",
+    "start": 156.48,
+    "duration": 3.72
+  },
+  {
+    "text": "our case we're going to try to maximize",
+    "start": 158.48,
+    "duration": 3.56
+  },
+  {
+    "text": "profit all right but you might be trying",
+    "start": 160.2,
+    "duration": 4.959
+  },
+  {
+    "text": "to minimize something like uh cost or",
+    "start": 162.04,
+    "duration": 5.68
+  },
+  {
+    "text": "even risk if you're talking about asset",
+    "start": 165.159,
+    "duration": 5.041
+  },
+  {
+    "text": "allocation okay uh the second thing that",
+    "start": 167.72,
+    "duration": 4.519
+  },
+  {
+    "text": "these models are all going to need is",
+    "start": 170.2,
+    "duration": 5.319
+  },
+  {
+    "text": "input variables so some kind of uh",
+    "start": 172.239,
+    "duration": 5.561
+  },
+  {
+    "text": "resources uh that that are going to be",
+    "start": 175.519,
+    "duration": 5.841
+  },
+  {
+    "text": "used every time you make something or uh",
+    "start": 177.8,
+    "duration": 5.359
+  },
+  {
+    "text": "it could be the resources dollars that",
+    "start": 181.36,
+    "duration": 4.959
+  },
+  {
+    "text": "you're trying to allocate to some uh to",
+    "start": 183.159,
+    "duration": 4.921
+  },
+  {
+    "text": "to some objective that you're trying to",
+    "start": 186.319,
+    "duration": 5.441
+  },
+  {
+    "text": "reach okay um they all have decision",
+    "start": 188.08,
+    "duration": 6.2
+  },
+  {
+    "text": "variables all right and that is how many",
+    "start": 191.76,
+    "duration": 4.32
+  },
+  {
+    "text": "to make in our case that's what we're",
+    "start": 194.28,
+    "duration": 3.44
+  },
+  {
+    "text": "going to be uh working with how many to",
+    "start": 196.08,
+    "duration": 3.879
+  },
+  {
+    "text": "make but again if you're talking about",
+    "start": 197.72,
+    "duration": 4.4
+  },
+  {
+    "text": "assets or something else uh it may be",
+    "start": 199.959,
+    "duration": 4.681
+  },
+  {
+    "text": "allocating uh dollars all right and then",
+    "start": 202.12,
+    "duration": 4.679
+  },
+  {
+    "text": "they all have constraints if you're",
+    "start": 204.64,
+    "duration": 4.4
+  },
+  {
+    "text": "missing one of these things uh you won't",
+    "start": 206.799,
+    "duration": 3.64
+  },
+  {
+    "text": "be able to",
+    "start": 209.04,
+    "duration": 3.32
+  },
+  {
+    "text": "uh you won't be able to implement a",
+    "start": 210.439,
+    "duration": 5.08
+  },
+  {
+    "text": "model that solver can solve okay so I'm",
+    "start": 212.36,
+    "duration": 5.72
+  },
+  {
+    "text": "going to jump right into the model and",
+    "start": 215.519,
+    "duration": 4.561
+  },
+  {
+    "text": "uh I'll move this out of the way I've",
+    "start": 218.08,
+    "duration": 6.68
+  },
+  {
+    "text": "actually whoops gone a little too far",
+    "start": 220.08,
+    "duration": 4.68
+  },
+  {
+    "text": "there I've actually done a fair amount",
+    "start": 224.799,
+    "duration": 4.401
+  },
+  {
+    "text": "of the work to kind of facilitate this",
+    "start": 226.879,
+    "duration": 4.56
+  },
+  {
+    "text": "all right so I've sort of set up uh you",
+    "start": 229.2,
+    "duration": 4.64
+  },
+  {
+    "text": "know based on the inputs that we have uh",
+    "start": 231.439,
+    "duration": 3.561
+  },
+  {
+    "text": "these are going to be our decision",
+    "start": 233.84,
+    "duration": 3.319
+  },
+  {
+    "text": "variables I'll go ahead and put in some",
+    "start": 235.0,
+    "duration": 5.319
+  },
+  {
+    "text": "seed values there all right so uh",
+    "start": 237.159,
+    "duration": 4.72
+  },
+  {
+    "text": "basically I'm saying okay make one of",
+    "start": 240.319,
+    "duration": 4.441
+  },
+  {
+    "text": "each and then uh below I'm showing that",
+    "start": 241.879,
+    "duration": 6.601
+  },
+  {
+    "text": "for each unit we make how many of each",
+    "start": 244.76,
+    "duration": 7.039
+  },
+  {
+    "text": "resource we use and then how much profit",
+    "start": 248.48,
+    "duration": 6.44
+  },
+  {
+    "text": "we make finally okay now I just need",
+    "start": 251.799,
+    "duration": 4.081
+  },
+  {
+    "text": "some",
+    "start": 254.92,
+    "duration": 5.159
+  },
+  {
+    "text": "formulas uh that sort of uh tally up uh",
+    "start": 255.88,
+    "duration": 7.96
+  },
+  {
+    "text": "when when those uh those input uh those",
+    "start": 260.079,
+    "duration": 6.361
+  },
+  {
+    "text": "decision variables uh change it sort of",
+    "start": 263.84,
+    "duration": 4.88
+  },
+  {
+    "text": "tallies up how much I've used so I have",
+    "start": 266.44,
+    "duration": 3.88
+  },
+  {
+    "text": "something on the left hand side of my",
+    "start": 268.72,
+    "duration": 4.96
+  },
+  {
+    "text": "constraint to compare to the right hand",
+    "start": 270.32,
+    "duration": 6.08
+  },
+  {
+    "text": "side okay so the formula that I'm going",
+    "start": 273.68,
+    "duration": 5.88
+  },
+  {
+    "text": "to use here uh I'm basically going to",
+    "start": 276.4,
+    "duration": 5.88
+  },
+  {
+    "text": "take whatever is in B4 multiply it by",
+    "start": 279.56,
+    "duration": 5.88
+  },
+  {
+    "text": "what's in B7 and I'm going to add to",
+    "start": 282.28,
+    "duration": 7.199
+  },
+  {
+    "text": "that whatever is in C4 uh times",
+    "start": 285.44,
+    "duration": 6.319
+  },
+  {
+    "text": "C7 all right so if we take a look at",
+    "start": 289.479,
+    "duration": 3.681
+  },
+  {
+    "text": "that we can see that okay if you make",
+    "start": 291.759,
+    "duration": 4.841
+  },
+  {
+    "text": "one of each uh you've used 15 uh labor",
+    "start": 293.16,
+    "duration": 6.879
+  },
+  {
+    "text": "hours in doing that okay um there is a",
+    "start": 296.6,
+    "duration": 5.8
+  },
+  {
+    "text": "shorthand formula for doing this and it",
+    "start": 300.039,
+    "duration": 4.88
+  },
+  {
+    "text": "is the Workhorse of these optimization",
+    "start": 302.4,
+    "duration": 6.92
+  },
+  {
+    "text": "models it's the sum product",
+    "start": 304.919,
+    "duration": 4.401
+  },
+  {
+    "text": "function okay so the sum product",
+    "start": 310.28,
+    "duration": 5.28
+  },
+  {
+    "text": "function does exactly what uh I just did",
+    "start": 312.52,
+    "duration": 4.88
+  },
+  {
+    "text": "uh but it does it a little more",
+    "start": 315.56,
+    "duration": 4.079
+  },
+  {
+    "text": "compactly all right and uh I'm using",
+    "start": 317.4,
+    "duration": 3.96
+  },
+  {
+    "text": "absolute reference here so I can just",
+    "start": 319.639,
+    "duration": 4.761
+  },
+  {
+    "text": "copy the function",
+    "start": 321.36,
+    "duration": 3.04
+  },
+  {
+    "text": "down okay leave that one relative and",
+    "start": 326.96,
+    "duration": 5.359
+  },
+  {
+    "text": "then I can just",
+    "start": 330.16,
+    "duration": 4.72
+  },
+  {
+    "text": "copy and",
+    "start": 332.319,
+    "duration": 7.0
+  },
+  {
+    "text": "paste all right and same formula down",
+    "start": 334.88,
+    "duration": 7.439
+  },
+  {
+    "text": "here",
+    "start": 339.319,
+    "duration": 3.0
+  },
+  {
+    "text": "okay all right so looking at our model",
+    "start": 345.199,
+    "duration": 5.361
+  },
+  {
+    "text": "all right if I just sort of go into this",
+    "start": 348.08,
+    "duration": 5.399
+  },
+  {
+    "text": "uh from a simplistic view I might say",
+    "start": 350.56,
+    "duration": 5.84
+  },
+  {
+    "text": "well I make more if I make the proos so",
+    "start": 353.479,
+    "duration": 4.801
+  },
+  {
+    "text": "why wouldn't I just sort of look at",
+    "start": 356.4,
+    "duration": 4.239
+  },
+  {
+    "text": "something simple like the amount of",
+    "start": 358.28,
+    "duration": 6.16
+  },
+  {
+    "text": "chips and uh use them all up and make",
+    "start": 360.639,
+    "duration": 5.241
+  },
+  {
+    "text": "and make",
+    "start": 364.44,
+    "duration": 4.759
+  },
+  {
+    "text": "Pros okay and so when I do that uh",
+    "start": 365.88,
+    "duration": 5.84
+  },
+  {
+    "text": "sometimes that will work out okay uh but",
+    "start": 369.199,
+    "duration": 5.28
+  },
+  {
+    "text": "when I do it in this in this situation",
+    "start": 371.72,
+    "duration": 4.759
+  },
+  {
+    "text": "all right uh yeah I get I get a big",
+    "start": 374.479,
+    "duration": 5.12
+  },
+  {
+    "text": "profit here but I've also used more uh",
+    "start": 376.479,
+    "duration": 5.28
+  },
+  {
+    "text": "components than are available so this is",
+    "start": 379.599,
+    "duration": 4.72
+  },
+  {
+    "text": "not a feasible solution all right and",
+    "start": 381.759,
+    "duration": 4.801
+  },
+  {
+    "text": "with a simple problem like this right I",
+    "start": 384.319,
+    "duration": 5.6
+  },
+  {
+    "text": "can just start sort of by hand uh back",
+    "start": 386.56,
+    "duration": 6.359
+  },
+  {
+    "text": "things out uh until I find a solution",
+    "start": 389.919,
+    "duration": 6.641
+  },
+  {
+    "text": "that works all right and uh just finding",
+    "start": 392.919,
+    "duration": 5.441
+  },
+  {
+    "text": "a solution that works doesn't sort of",
+    "start": 396.56,
+    "duration": 3.919
+  },
+  {
+    "text": "guarantee me that it's the optimal",
+    "start": 398.36,
+    "duration": 5.399
+  },
+  {
+    "text": "solution okay so um in order to find",
+    "start": 400.479,
+    "duration": 5.361
+  },
+  {
+    "text": "that we're going to use",
+    "start": 403.759,
+    "duration": 5.401
+  },
+  {
+    "text": "solver okay so I'm going to reset these",
+    "start": 405.84,
+    "duration": 7.04
+  },
+  {
+    "text": "to zero I'm going to go to the data Tab",
+    "start": 409.16,
+    "duration": 6.759
+  },
+  {
+    "text": "and I'm going to launch",
+    "start": 412.88,
+    "duration": 3.039
+  },
+  {
+    "text": "solver okay so solver kind of",
+    "start": 416.08,
+    "duration": 4.76
+  },
+  {
+    "text": "corresponds to uh what I was saying",
+    "start": 418.52,
+    "duration": 5.88
+  },
+  {
+    "text": "earlier that you need uh an objective uh",
+    "start": 420.84,
+    "duration": 5.88
+  },
+  {
+    "text": "you need decision variables and you need",
+    "start": 424.4,
+    "duration": 5.6
+  },
+  {
+    "text": "the the constraints all right so uh the",
+    "start": 426.72,
+    "duration": 6.8
+  },
+  {
+    "text": "objective here is our total profit okay",
+    "start": 430.0,
+    "duration": 5.72
+  },
+  {
+    "text": "so I'll just point and click at that and",
+    "start": 433.52,
+    "duration": 4.0
+  },
+  {
+    "text": "uh you can see that you know by default",
+    "start": 435.72,
+    "duration": 4.64
+  },
+  {
+    "text": "it's maximizing that but uh you also",
+    "start": 437.52,
+    "duration": 4.88
+  },
+  {
+    "text": "have the option to minimize or set it at",
+    "start": 440.36,
+    "duration": 5.8
+  },
+  {
+    "text": "a specific value okay uh the next box is",
+    "start": 442.4,
+    "duration": 6.04
+  },
+  {
+    "text": "by changing variable cells that's where",
+    "start": 446.16,
+    "duration": 4.84
+  },
+  {
+    "text": "the decision variable go all right so",
+    "start": 448.44,
+    "duration": 5.68
+  },
+  {
+    "text": "I'll Point click and drag on",
+    "start": 451.0,
+    "duration": 5.039
+  },
+  {
+    "text": "those all right and then it's going to",
+    "start": 454.12,
+    "duration": 6.28
+  },
+  {
+    "text": "be subject to uh to some constraints all",
+    "start": 456.039,
+    "duration": 6.6
+  },
+  {
+    "text": "right there aren't any now but basically",
+    "start": 460.4,
+    "duration": 4.799
+  },
+  {
+    "text": "we're going to say it's subject to uh",
+    "start": 462.639,
+    "duration": 5.52
+  },
+  {
+    "text": "all these values being uh less than or",
+    "start": 465.199,
+    "duration": 5.801
+  },
+  {
+    "text": "equal to uh these values all right so",
+    "start": 468.159,
+    "duration": 5.641
+  },
+  {
+    "text": "I'm going to click add all right and",
+    "start": 471.0,
+    "duration": 6.84
+  },
+  {
+    "text": "again I'm going to point click and",
+    "start": 473.8,
+    "duration": 4.04
+  },
+  {
+    "text": "drag and then point click and",
+    "start": 478.44,
+    "duration": 4.319
+  },
+  {
+    "text": "drag and click",
+    "start": 484.039,
+    "duration": 4.681
+  },
+  {
+    "text": "okay all right so the other constraint",
+    "start": 486.599,
+    "duration": 4.72
+  },
+  {
+    "text": "that I mentioned solver actually knows",
+    "start": 488.72,
+    "duration": 5.039
+  },
+  {
+    "text": "that this is a pretty common one all",
+    "start": 491.319,
+    "duration": 4.681
+  },
+  {
+    "text": "right so it has a box down here that we",
+    "start": 493.759,
+    "duration": 4.72
+  },
+  {
+    "text": "can check all right to make the",
+    "start": 496.0,
+    "duration": 4.56
+  },
+  {
+    "text": "unconstrained variables non- negative",
+    "start": 498.479,
+    "duration": 5.56
+  },
+  {
+    "text": "that's that's equivalent to saying um uh",
+    "start": 500.56,
+    "duration": 5.44
+  },
+  {
+    "text": "you know these changing cells should not",
+    "start": 504.039,
+    "duration": 3.6
+  },
+  {
+    "text": "be",
+    "start": 506.0,
+    "duration": 4.52
+  },
+  {
+    "text": "negative okay uh once that's done we can",
+    "start": 507.639,
+    "duration": 4.4
+  },
+  {
+    "text": "just click",
+    "start": 510.52,
+    "duration": 5.519
+  },
+  {
+    "text": "solve and uh if I've set up the model",
+    "start": 512.039,
+    "duration": 6.761
+  },
+  {
+    "text": "correctly in a few seconds it will give",
+    "start": 516.039,
+    "duration": 4.68
+  },
+  {
+    "text": "us a solution and this is the message",
+    "start": 518.8,
+    "duration": 3.96
+  },
+  {
+    "text": "we're looking for solver has found a",
+    "start": 520.719,
+    "duration": 5.56
+  },
+  {
+    "text": "solution all right um any other message",
+    "start": 522.76,
+    "duration": 5.32
+  },
+  {
+    "text": "uh that you see it probably means you",
+    "start": 526.279,
+    "duration": 4.721
+  },
+  {
+    "text": "have to go back to the modeling step and",
+    "start": 528.08,
+    "duration": 4.72
+  },
+  {
+    "text": "uh and and try to fix something all",
+    "start": 531.0,
+    "duration": 3.36
+  },
+  {
+    "text": "right A lot of times what you'll see",
+    "start": 532.8,
+    "duration": 4.599
+  },
+  {
+    "text": "here is uh solver couldn't find a",
+    "start": 534.36,
+    "duration": 5.84
+  },
+  {
+    "text": "solution uh the problem is UN bounded",
+    "start": 537.399,
+    "duration": 5.361
+  },
+  {
+    "text": "all right which probably means that you",
+    "start": 540.2,
+    "duration": 6.72
+  },
+  {
+    "text": "have uh made uh one of your uh your",
+    "start": 542.76,
+    "duration": 6.44
+  },
+  {
+    "text": "constraints uh the inequality sort of",
+    "start": 546.92,
+    "duration": 4.88
+  },
+  {
+    "text": "point in the wrong direction okay so it",
+    "start": 549.2,
+    "duration": 5.0
+  },
+  {
+    "text": "does have a solution all right over here",
+    "start": 551.8,
+    "duration": 6.039
+  },
+  {
+    "text": "on the on the uh the right of the Box uh",
+    "start": 554.2,
+    "duration": 5.96
+  },
+  {
+    "text": "you'll see it has some reports that are",
+    "start": 557.839,
+    "duration": 3.881
+  },
+  {
+    "text": "available you actually have to click on",
+    "start": 560.16,
+    "duration": 4.44
+  },
+  {
+    "text": "each one of those to make them uh show",
+    "start": 561.72,
+    "duration": 6.16
+  },
+  {
+    "text": "up and so you can evaluate the uh the",
+    "start": 564.6,
+    "duration": 6.64
+  },
+  {
+    "text": "solution I'll click okay and uh we can",
+    "start": 567.88,
+    "duration": 5.8
+  },
+  {
+    "text": "get a quick look at um at what it came",
+    "start": 571.24,
+    "duration": 5.0
+  },
+  {
+    "text": "up with for a solution and so we can see",
+    "start": 573.68,
+    "duration": 5.92
+  },
+  {
+    "text": "that uh yeah it it doesn't tell us to",
+    "start": 576.24,
+    "duration": 6.599
+  },
+  {
+    "text": "make a th000 pro all right and and we",
+    "start": 579.6,
+    "duration": 4.96
+  },
+  {
+    "text": "know it wouldn't have told us that",
+    "start": 582.839,
+    "duration": 3.761
+  },
+  {
+    "text": "anyway based on the constraint it",
+    "start": 584.56,
+    "duration": 4.24
+  },
+  {
+    "text": "couldn't go past 14,000 all right but",
+    "start": 586.6,
+    "duration": 5.84
+  },
+  {
+    "text": "it's told us to make 800 uh and 200 of",
+    "start": 588.8,
+    "duration": 5.56
+  },
+  {
+    "text": "of the mini all right and then we get a",
+    "start": 592.44,
+    "duration": 6.6
+  },
+  {
+    "text": "profit of 70 uh 173 400 all right so now",
+    "start": 594.36,
+    "duration": 6.88
+  },
+  {
+    "text": "we're going to take a look at how",
+    "start": 599.04,
+    "duration": 6.039
+  },
+  {
+    "text": "sensitive that solution is to changes in",
+    "start": 601.24,
+    "duration": 6.48
+  },
+  {
+    "text": "any of the in any of the uh in any of",
+    "start": 605.079,
+    "duration": 3.401
+  },
+  {
+    "text": "the",
+    "start": 607.72,
+    "duration": 3.48
+  },
+  {
+    "text": "inputs okay so I'm going to start on the",
+    "start": 608.48,
+    "duration": 5.08
+  },
+  {
+    "text": "uh the first report the answer report",
+    "start": 611.2,
+    "duration": 5.96
+  },
+  {
+    "text": "and uh it tells you some nice things uh",
+    "start": 613.56,
+    "duration": 6.64
+  },
+  {
+    "text": "like uh when you made the model and and",
+    "start": 617.16,
+    "duration": 5.6
+  },
+  {
+    "text": "how many iterations it had to go through",
+    "start": 620.2,
+    "duration": 5.16
+  },
+  {
+    "text": "uh before it found a solution and then",
+    "start": 622.76,
+    "duration": 4.12
+  },
+  {
+    "text": "uh how long it took it to find that",
+    "start": 625.36,
+    "duration": 4.159
+  },
+  {
+    "text": "solution all right down below it just",
+    "start": 626.88,
+    "duration": 4.92
+  },
+  {
+    "text": "tells you uh you know a lot of times",
+    "start": 629.519,
+    "duration": 3.721
+  },
+  {
+    "text": "you'll set up these models and you'll",
+    "start": 631.8,
+    "duration": 3.24
+  },
+  {
+    "text": "try to solve them by hand a little bit",
+    "start": 633.24,
+    "duration": 4.48
+  },
+  {
+    "text": "before you before you run solver to uh",
+    "start": 635.04,
+    "duration": 4.96
+  },
+  {
+    "text": "for for many reasons but uh you know we",
+    "start": 637.72,
+    "duration": 5.0
+  },
+  {
+    "text": "started at zero so uh there's not a lot",
+    "start": 640.0,
+    "duration": 5.0
+  },
+  {
+    "text": "of information here all right we start",
+    "start": 642.72,
+    "duration": 6.16
+  },
+  {
+    "text": "at zero we ended at 173 400 okay it also",
+    "start": 645.0,
+    "duration": 6.76
+  },
+  {
+    "text": "says where the uh you know the the",
+    "start": 648.88,
+    "duration": 4.68
+  },
+  {
+    "text": "decision variable started and where they",
+    "start": 651.76,
+    "duration": 3.84
+  },
+  {
+    "text": "ended all right one thing to note here",
+    "start": 653.56,
+    "duration": 4.959
+  },
+  {
+    "text": "is that uh this problem is being solved",
+    "start": 655.6,
+    "duration": 5.479
+  },
+  {
+    "text": "uh as if the everything in there is",
+    "start": 658.519,
+    "duration": 4.841
+  },
+  {
+    "text": "continuous all right um obviously we're",
+    "start": 661.079,
+    "duration": 5.121
+  },
+  {
+    "text": "not going to make partial uh partial",
+    "start": 663.36,
+    "duration": 4.84
+  },
+  {
+    "text": "tablets uh we're not going to use",
+    "start": 666.2,
+    "duration": 6.0
+  },
+  {
+    "text": "partial resources all right um but uh",
+    "start": 668.2,
+    "duration": 7.24
+  },
+  {
+    "text": "it's often easier to solve these as",
+    "start": 672.2,
+    "duration": 6.439
+  },
+  {
+    "text": "continuous variables uh but then uh go",
+    "start": 675.44,
+    "duration": 4.68
+  },
+  {
+    "text": "ahead and interpret some of these",
+    "start": 678.639,
+    "duration": 3.521
+  },
+  {
+    "text": "reports uh as",
+    "start": 680.12,
+    "duration": 4.64
+  },
+  {
+    "text": "needed okay uh the only other thing it",
+    "start": 682.16,
+    "duration": 4.359
+  },
+  {
+    "text": "really tells you down here is which",
+    "start": 684.76,
+    "duration": 5.759
+  },
+  {
+    "text": "variables you used uh all all of all",
+    "start": 686.519,
+    "duration": 6.201
+  },
+  {
+    "text": "right and which uh you did not all right",
+    "start": 690.519,
+    "duration": 3.921
+  },
+  {
+    "text": "so the ones you used all of they are",
+    "start": 692.72,
+    "duration": 4.0
+  },
+  {
+    "text": "called binding all right so there was no",
+    "start": 694.44,
+    "duration": 4.68
+  },
+  {
+    "text": "more left all right there was labor",
+    "start": 696.72,
+    "duration": 4.96
+  },
+  {
+    "text": "hours left all right and uh basically",
+    "start": 699.12,
+    "duration": 4.56
+  },
+  {
+    "text": "it's saying that even if you hadn't put",
+    "start": 701.68,
+    "duration": 5.08
+  },
+  {
+    "text": "in the non- negativity constraint uh",
+    "start": 703.68,
+    "duration": 6.0
+  },
+  {
+    "text": "that it would not have made negative uh",
+    "start": 706.76,
+    "duration": 5.079
+  },
+  {
+    "text": "or tried to solve this with negative",
+    "start": 709.68,
+    "duration": 3.92
+  },
+  {
+    "text": "values in either one of those",
+    "start": 711.839,
+    "duration": 4.281
+  },
+  {
+    "text": "cells okay we're going to move on to the",
+    "start": 713.6,
+    "duration": 5.88
+  },
+  {
+    "text": "sensitivity report and uh I'll zoom in a",
+    "start": 716.12,
+    "duration": 4.68
+  },
+  {
+    "text": "little bit so you can see it better",
+    "start": 719.48,
+    "duration": 2.88
+  },
+  {
+    "text": "because this is the one that we probably",
+    "start": 720.8,
+    "duration": 3.8
+  },
+  {
+    "text": "spend the most time with all right it",
+    "start": 722.36,
+    "duration": 6.4
+  },
+  {
+    "text": "has two sections uh it deals with uh the",
+    "start": 724.6,
+    "duration": 7.239
+  },
+  {
+    "text": "uh the inputs all right the decision",
+    "start": 728.76,
+    "duration": 6.12
+  },
+  {
+    "text": "variables and it deals then with the the",
+    "start": 731.839,
+    "duration": 4.921
+  },
+  {
+    "text": "constraints all right so if we just look",
+    "start": 734.88,
+    "duration": 5.399
+  },
+  {
+    "text": "at the input variables uh we can we can",
+    "start": 736.76,
+    "duration": 5.6
+  },
+  {
+    "text": "sort of see what the optimal solution is",
+    "start": 740.279,
+    "duration": 4.961
+  },
+  {
+    "text": "no big mystery there it has this one",
+    "start": 742.36,
+    "duration": 6.32
+  },
+  {
+    "text": "column here reduced cost it it shows uh",
+    "start": 745.24,
+    "duration": 6.12
+  },
+  {
+    "text": "that there is zero reduced cost uh in a",
+    "start": 748.68,
+    "duration": 5.88
+  },
+  {
+    "text": "true two product mix uh yeah you usually",
+    "start": 751.36,
+    "duration": 5.8
+  },
+  {
+    "text": "don't see a reduced cost all right but",
+    "start": 754.56,
+    "duration": 5.079
+  },
+  {
+    "text": "if I added one product to this if I had",
+    "start": 757.16,
+    "duration": 4.6
+  },
+  {
+    "text": "another model of tablet to make and",
+    "start": 759.639,
+    "duration": 4.681
+  },
+  {
+    "text": "allocate resources to I might see a",
+    "start": 761.76,
+    "duration": 5.48
+  },
+  {
+    "text": "reduced cost and uh probably it would be",
+    "start": 764.32,
+    "duration": 5.56
+  },
+  {
+    "text": "negative which would indicate that it",
+    "start": 767.24,
+    "duration": 5.399
+  },
+  {
+    "text": "would have a negative impact on the",
+    "start": 769.88,
+    "duration": 5.72
+  },
+  {
+    "text": "objective uh output on the objective",
+    "start": 772.639,
+    "duration": 5.801
+  },
+  {
+    "text": "function okay it shows you how much",
+    "start": 775.6,
+    "duration": 4.96
+  },
+  {
+    "text": "money you make make all right or how",
+    "start": 778.44,
+    "duration": 4.8
+  },
+  {
+    "text": "much benefit you get from uh each unit",
+    "start": 780.56,
+    "duration": 5.48
+  },
+  {
+    "text": "you make all right and then it shows you",
+    "start": 783.24,
+    "duration": 4.92
+  },
+  {
+    "text": "here this is the this is the sensitivity",
+    "start": 786.04,
+    "duration": 5.44
+  },
+  {
+    "text": "part of it it shows you how much more uh",
+    "start": 788.16,
+    "duration": 5.6
+  },
+  {
+    "text": "you could uh how much more The Profit",
+    "start": 791.48,
+    "duration": 5.159
+  },
+  {
+    "text": "could be on the pro all right and how",
+    "start": 793.76,
+    "duration": 4.8
+  },
+  {
+    "text": "much less the profit would be on could",
+    "start": 796.639,
+    "duration": 5.56
+  },
+  {
+    "text": "be on the pro uh until you would get a",
+    "start": 798.56,
+    "duration": 5.36
+  },
+  {
+    "text": "different optimal solution so in other",
+    "start": 802.199,
+    "duration": 4.601
+  },
+  {
+    "text": "words I could increase uh I could",
+    "start": 803.92,
+    "duration": 4.68
+  },
+  {
+    "text": "increase the amount of profit by up to",
+    "start": 806.8,
+    "duration": 6.36
+  },
+  {
+    "text": "26 650 or decrease it by uh up to",
+    "start": 808.6,
+    "duration": 7.4
+  },
+  {
+    "text": "$43 uh and I would still see this same",
+    "start": 813.16,
+    "duration": 5.239
+  },
+  {
+    "text": "product mix 8200 all right if I go",
+    "start": 816.0,
+    "duration": 3.88
+  },
+  {
+    "text": "outside those limits then I'm going to",
+    "start": 818.399,
+    "duration": 4.161
+  },
+  {
+    "text": "start seeing a different product mix all",
+    "start": 819.88,
+    "duration": 5.399
+  },
+  {
+    "text": "right and we get similar numbers uh for",
+    "start": 822.56,
+    "duration": 6.2
+  },
+  {
+    "text": "the uh for the mini okay if I look at",
+    "start": 825.279,
+    "duration": 7.521
+  },
+  {
+    "text": "the constraint section all right uh it",
+    "start": 828.76,
+    "duration": 6.6
+  },
+  {
+    "text": "shows you again how much you used all",
+    "start": 832.8,
+    "duration": 5.12
+  },
+  {
+    "text": "right how much the optimal solution used",
+    "start": 835.36,
+    "duration": 4.919
+  },
+  {
+    "text": "it has this other column called a shadow",
+    "start": 837.92,
+    "duration": 5.44
+  },
+  {
+    "text": "price uh there isn't one for labor hours",
+    "start": 840.279,
+    "duration": 5.401
+  },
+  {
+    "text": "used and uh that would be true of any",
+    "start": 843.36,
+    "duration": 4.12
+  },
+  {
+    "text": "constraint that was not binding all",
+    "start": 845.68,
+    "duration": 6.12
+  },
+  {
+    "text": "right so uh we we have some left over um",
+    "start": 847.48,
+    "duration": 6.08
+  },
+  {
+    "text": "and so there is no Shadow price all",
+    "start": 851.8,
+    "duration": 3.88
+  },
+  {
+    "text": "right for the ones that we bumped up",
+    "start": 853.56,
+    "duration": 4.44
+  },
+  {
+    "text": "against those constraints uh there's a",
+    "start": 855.68,
+    "duration": 5.279
+  },
+  {
+    "text": "shadow price in for chips it's 53 and",
+    "start": 858.0,
+    "duration": 5.24
+  },
+  {
+    "text": "what this is saying is if I had another",
+    "start": 860.959,
+    "duration": 4.921
+  },
+  {
+    "text": "chip and and if I had another chip I'd",
+    "start": 863.24,
+    "duration": 4.399
+  },
+  {
+    "text": "also have to have more electronic",
+    "start": 865.88,
+    "duration": 3.72
+  },
+  {
+    "text": "components but if I just had another",
+    "start": 867.639,
+    "duration": 6.601
+  },
+  {
+    "text": "chip uh I it would add $53 to that total",
+    "start": 869.6,
+    "duration": 7.56
+  },
+  {
+    "text": "profit all right and if I had another",
+    "start": 874.24,
+    "duration": 6.399
+  },
+  {
+    "text": "Electronic Component it would add",
+    "start": 877.16,
+    "duration": 8.359
+  },
+  {
+    "text": "$8.60 to that uh to that um to that",
+    "start": 880.639,
+    "duration": 6.56
+  },
+  {
+    "text": "objective function all right so it",
+    "start": 885.519,
+    "duration": 4.641
+  },
+  {
+    "text": "basically shows you what a incremental",
+    "start": 887.199,
+    "duration": 6.281
+  },
+  {
+    "text": "increase in any of these resources what",
+    "start": 890.16,
+    "duration": 5.32
+  },
+  {
+    "text": "that would do to the objective function",
+    "start": 893.48,
+    "duration": 3.919
+  },
+  {
+    "text": "and it does that while holding",
+    "start": 895.48,
+    "duration": 4.64
+  },
+  {
+    "text": "everything else constant",
+    "start": 897.399,
+    "duration": 5.401
+  },
+  {
+    "text": "okay all right so no big mystery here",
+    "start": 900.12,
+    "duration": 4.159
+  },
+  {
+    "text": "this that's what the right hand side of",
+    "start": 902.8,
+    "duration": 4.32
+  },
+  {
+    "text": "the constraint looks like all right and",
+    "start": 904.279,
+    "duration": 6.521
+  },
+  {
+    "text": "then uh in this allowable increase uh",
+    "start": 907.12,
+    "duration": 6.0
+  },
+  {
+    "text": "you know since uh no matter how much",
+    "start": 910.8,
+    "duration": 4.959
+  },
+  {
+    "text": "labor I added it wouldn't change the",
+    "start": 913.12,
+    "duration": 4.68
+  },
+  {
+    "text": "objective function it's basically",
+    "start": 915.759,
+    "duration": 4.601
+  },
+  {
+    "text": "telling me I can increase that a lot",
+    "start": 917.8,
+    "duration": 4.52
+  },
+  {
+    "text": "right that's sort of solver's answer for",
+    "start": 920.36,
+    "duration": 6.0
+  },
+  {
+    "text": "Infinity uh they're uh 1 time 10 the",
+    "start": 922.32,
+    "duration": 8.079
+  },
+  {
+    "text": "30th okay uh it does show that if I if I",
+    "start": 926.36,
+    "duration": 9.039
+  },
+  {
+    "text": "have fewer uh uh if I have 400 less uh",
+    "start": 930.399,
+    "duration": 9.0
+  },
+  {
+    "text": "hours more than 400 Less hours uh then",
+    "start": 935.399,
+    "duration": 6.0
+  },
+  {
+    "text": "uh then I'd start seeing a shadow price",
+    "start": 939.399,
+    "duration": 2.92
+  },
+  {
+    "text": "over",
+    "start": 941.399,
+    "duration": 6.321
+  },
+  {
+    "text": "here okay uh down here in the allowable",
+    "start": 942.319,
+    "duration": 8.64
+  },
+  {
+    "text": "increase for chip sets uh it shows you",
+    "start": 947.72,
+    "duration": 6.2
+  },
+  {
+    "text": "that while you could add uh up to 26",
+    "start": 950.959,
+    "duration": 4.56
+  },
+  {
+    "text": "more chips all right so this is where",
+    "start": 953.92,
+    "duration": 3.719
+  },
+  {
+    "text": "we're looking at that continuous uh",
+    "start": 955.519,
+    "duration": 4.921
+  },
+  {
+    "text": "solution again and sort of you have to",
+    "start": 957.639,
+    "duration": 4.921
+  },
+  {
+    "text": "recognize that well I wouldn't use a",
+    "start": 960.44,
+    "duration": 5.44
+  },
+  {
+    "text": "partial chip all right so if I add up to",
+    "start": 962.56,
+    "duration": 7.32
+  },
+  {
+    "text": "26 chips uh I would I would still see",
+    "start": 965.88,
+    "duration": 6.639
+  },
+  {
+    "text": "for every chip I added I'd get",
+    "start": 969.88,
+    "duration": 5.68
+  },
+  {
+    "text": "$53 all right and if I decreased it by",
+    "start": 972.519,
+    "duration": 6.481
+  },
+  {
+    "text": "up to 66 chips well every unit increase",
+    "start": 975.56,
+    "duration": 5.759
+  },
+  {
+    "text": "would uh every unit decrease would",
+    "start": 979.0,
+    "duration": 5.639
+  },
+  {
+    "text": "decrease the uh objective uh the total",
+    "start": 981.319,
+    "duration": 6.601
+  },
+  {
+    "text": "profit uh by 66 uh sorry by",
+    "start": 984.639,
+    "duration": 6.56
+  },
+  {
+    "text": "$53 okay and we get similar numbers uh",
+    "start": 987.92,
+    "duration": 6.0
+  },
+  {
+    "text": "for the electronic components all",
+    "start": 991.199,
+    "duration": 5.32
+  },
+  {
+    "text": "right all right and the last report is",
+    "start": 993.92,
+    "duration": 7.0
+  },
+  {
+    "text": "the uh the limits report and um this",
+    "start": 996.519,
+    "duration": 7.081
+  },
+  {
+    "text": "one's pretty straightforward too like",
+    "start": 1000.92,
+    "duration": 5.52
+  },
+  {
+    "text": "the answer report uh it shows you what",
+    "start": 1003.6,
+    "duration": 6.64
+  },
+  {
+    "text": "the final value was all right in in the",
+    "start": 1006.44,
+    "duration": 5.6
+  },
+  {
+    "text": "decision variables and in the objective",
+    "start": 1010.24,
+    "duration": 4.56
+  },
+  {
+    "text": "function and then it shows you uh well",
+    "start": 1012.04,
+    "duration": 5.84
+  },
+  {
+    "text": "what would happen to the uh to the",
+    "start": 1014.8,
+    "duration": 5.039
+  },
+  {
+    "text": "objective function if if I didn't make",
+    "start": 1017.88,
+    "duration": 4.56
+  },
+  {
+    "text": "any of the pros all right so if I",
+    "start": 1019.839,
+    "duration": 6.561
+  },
+  {
+    "text": "instead of making 800 I I made none then",
+    "start": 1022.44,
+    "duration": 7.599
+  },
+  {
+    "text": "the uh the the value there would be",
+    "start": 1026.4,
+    "duration": 6.84
+  },
+  {
+    "text": "27,800 all right and uh you know we get",
+    "start": 1030.039,
+    "duration": 5.201
+  },
+  {
+    "text": "a similar number for the The Minis if I",
+    "start": 1033.24,
+    "duration": 6.28
+  },
+  {
+    "text": "don't make any of those I still get",
+    "start": 1035.24,
+    "duration": 4.28
+  },
+  {
+    "text": "145,00 okay so that's a quick overview",
+    "start": 1040.799,
+    "duration": 8.76
+  },
+  {
+    "text": "of using solver uh with a fairly simple",
+    "start": 1044.48,
+    "duration": 8.92
+  },
+  {
+    "text": "uh linear programming problem",
+    "start": 1049.559,
+    "duration": 3.841
+  }
+]

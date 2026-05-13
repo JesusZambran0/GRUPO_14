@@ -1,0 +1,512 @@
+[
+  {
+    "text": ">> Hi there. This is Intro to Python\nDevelopment. I'm Christopher.",
+    "start": 2.93,
+    "duration": 3.85
+  },
+  {
+    "text": ">> I'm Susan.",
+    "start": 6.78,
+    "duration": 1.17
+  },
+  {
+    "text": ">> What we're going to do is take\na look at some introductions,",
+    "start": 7.95,
+    "duration": 3.21
+  },
+  {
+    "text": "and talk about you,",
+    "start": 11.16,
+    "duration": 1.14
+  },
+  {
+    "text": "and talk about the course itself.",
+    "start": 12.3,
+    "duration": 1.425
+  },
+  {
+    "text": "So who are you again?",
+    "start": 13.725,
+    "duration": 1.5
+  },
+  {
+    "text": ">> My name is Susan Ibach,",
+    "start": 15.225,
+    "duration": 1.305
+  },
+  {
+    "text": "and I do business\ndevelopment for AI gaming.",
+    "start": 16.53,
+    "duration": 2.535
+  },
+  {
+    "text": "We help companies, help\nother people discover",
+    "start": 19.065,
+    "duration": 3.435
+  },
+  {
+    "text": "their code by designing things",
+    "start": 22.5,
+    "duration": 1.53
+  },
+  {
+    "text": "into really cool games as\na fun way of learning.",
+    "start": 24.03,
+    "duration": 2.055
+  },
+  {
+    "text": "I also like to geek\nout on data encoding,",
+    "start": 26.085,
+    "duration": 2.46
+  },
+  {
+    "text": "and I also train for marathons,",
+    "start": 28.545,
+    "duration": 1.755
+  },
+  {
+    "text": "listen to a lot of metal music",
+    "start": 30.3,
+    "duration": 1.17
+  },
+  {
+    "text": "lately for some reason\nof metal training.",
+    "start": 31.47,
+    "duration": 1.625
+  },
+  {
+    "text": "Maybe that's because I'm\na spouse and mother of two,",
+    "start": 33.095,
+    "duration": 2.11
+  },
+  {
+    "text": "and all my boys in the family do\ngeek out on the metal with me,",
+    "start": 35.205,
+    "duration": 3.845
+  },
+  {
+    "text": "but not so much on the running.",
+    "start": 39.05,
+    "duration": 1.845
+  },
+  {
+    "text": ">> I'm Christopher Harrison,",
+    "start": 40.895,
+    "duration": 2.18
+  },
+  {
+    "text": "I'm a Product Manager\nand side of Cloud NIH,",
+    "start": 43.075,
+    "duration": 4.585
+  },
+  {
+    "text": "Academic Ecosystems\nhere at Microsoft.",
+    "start": 47.66,
+    "duration": 3.675
+  },
+  {
+    "text": "I'm a web developer at heart,",
+    "start": 51.335,
+    "duration": 2.055
+  },
+  {
+    "text": "it's how I came up.",
+    "start": 53.39,
+    "duration": 1.775
+  },
+  {
+    "text": "I'm a marathoner, a\nYogi, I'm a husband,",
+    "start": 55.165,
+    "duration": 2.795
+  },
+  {
+    "text": "father of one four-legged child,",
+    "start": 57.96,
+    "duration": 2.805
+  },
+  {
+    "text": "and then you'll also\nnotice and you saw",
+    "start": 60.765,
+    "duration": 1.505
+  },
+  {
+    "text": "this on Susan's slide as well.",
+    "start": 62.27,
+    "duration": 1.96
+  },
+  {
+    "text": "Down at the very bottom, are\nrespective social media,",
+    "start": 64.23,
+    "duration": 2.525
+  },
+  {
+    "text": "so if you want to get\nin touch with us,",
+    "start": 66.755,
+    "duration": 1.86
+  },
+  {
+    "text": "that's how you can find us.",
+    "start": 68.615,
+    "duration": 2.955
+  },
+  {
+    "text": "So let's talk a little bit\nabout you to start to",
+    "start": 71.57,
+    "duration": 3.81
+  },
+  {
+    "text": "set expectations for\nthe course itself.",
+    "start": 75.38,
+    "duration": 3.585
+  },
+  {
+    "text": "So the expectation that\nwe have for you as",
+    "start": 78.965,
+    "duration": 3.075
+  },
+  {
+    "text": "the viewer is that you have a little\nbit of programming knowledge.",
+    "start": 82.04,
+    "duration": 3.82
+  },
+  {
+    "text": "That maybe you've played\naround with MakeCode,",
+    "start": 85.86,
+    "duration": 2.45
+  },
+  {
+    "text": "maybe you've taken\na basic JavaScript course,",
+    "start": 88.31,
+    "duration": 2.34
+  },
+  {
+    "text": "and now you're just trying\nto see what Python is all",
+    "start": 90.65,
+    "duration": 3.81
+  },
+  {
+    "text": "about and how you can start\ndoing development in Python.",
+    "start": 94.46,
+    "duration": 4.055
+  },
+  {
+    "text": ">> Yeah. You can take\nthat Python scale,",
+    "start": 98.515,
+    "duration": 2.255
+  },
+  {
+    "text": "this foundation you'll get here,",
+    "start": 100.77,
+    "duration": 1.495
+  },
+  {
+    "text": "and take that into the world of\nthings like machine learning,",
+    "start": 102.265,
+    "duration": 2.755
+  },
+  {
+    "text": "web development or\nautomation and scripting,",
+    "start": 105.02,
+    "duration": 2.16
+  },
+  {
+    "text": "those are all the pipes\nof paths you can",
+    "start": 107.18,
+    "duration": 1.59
+  },
+  {
+    "text": "follow once you've got\nthat basic foundation of Python.",
+    "start": 108.77,
+    "duration": 2.91
+  },
+  {
+    "text": "So we're going to try\nand give you a bit of",
+    "start": 111.68,
+    "duration": 1.05
+  },
+  {
+    "text": "a foundation to help\nyou go down that path.",
+    "start": 112.73,
+    "duration": 1.865
+  },
+  {
+    "text": ">> Exactly. That works perfectly\ninto what we are going to",
+    "start": 114.595,
+    "duration": 2.845
+  },
+  {
+    "text": "talk about is\nthe Python's constructs.",
+    "start": 117.44,
+    "duration": 3.39
+  },
+  {
+    "text": "So we're not necessarily\ngoing to get a lot",
+    "start": 120.83,
+    "duration": 2.295
+  },
+  {
+    "text": "into the basic concepts\nof programming itself,",
+    "start": 123.125,
+    "duration": 4.905
+  },
+  {
+    "text": "but how to do a lot of\nthat inside of Python.",
+    "start": 128.03,
+    "duration": 3.765
+  },
+  {
+    "text": "It's worth mentioning real\nquick that we are going to",
+    "start": 131.795,
+    "duration": 2.265
+  },
+  {
+    "text": "be doing Python version 3.x,",
+    "start": 134.06,
+    "duration": 2.23
+  },
+  {
+    "text": "more on versions later,",
+    "start": 136.29,
+    "duration": 1.51
+  },
+  {
+    "text": "but everything that\nwe will be doing with",
+    "start": 137.8,
+    "duration": 2.11
+  },
+  {
+    "text": "really one or two exceptions\nwould actually work",
+    "start": 139.91,
+    "duration": 2.46
+  },
+  {
+    "text": "with Python 2.x as well.",
+    "start": 142.37,
+    "duration": 2.625
+  },
+  {
+    "text": ">> Yeah. Our real goal\nhere when we put",
+    "start": 144.995,
+    "duration": 1.755
+  },
+  {
+    "text": "together this course\nwas to be able to,",
+    "start": 146.75,
+    "duration": 2.04
+  },
+  {
+    "text": "a lot of times when you're\ntrying to learn something,",
+    "start": 148.79,
+    "duration": 1.62
+  },
+  {
+    "text": "you go find an online tutorial,",
+    "start": 150.41,
+    "duration": 1.65
+  },
+  {
+    "text": "and you think you understand\nsomething and then",
+    "start": 152.06,
+    "duration": 1.59
+  },
+  {
+    "text": "you get halfway through\ntutorial and go,",
+    "start": 153.65,
+    "duration": 1.62
+  },
+  {
+    "text": "I have no idea what\nthis code is doing.",
+    "start": 155.27,
+    "duration": 1.605
+  },
+  {
+    "text": "So as a goal here,",
+    "start": 156.875,
+    "duration": 1.545
+  },
+  {
+    "text": "we're hoping that when\nyou've finished this course,",
+    "start": 158.42,
+    "duration": 1.71
+  },
+  {
+    "text": "you can go to an online tutorial\nand be able to follow it.",
+    "start": 160.13,
+    "duration": 2.49
+  },
+  {
+    "text": "Yeah. There might be some new things\nto learn in that tutorial,",
+    "start": 162.62,
+    "duration": 2.37
+  },
+  {
+    "text": "that's why you're doing it tutorial.",
+    "start": 164.99,
+    "duration": 1.305
+  },
+  {
+    "text": "But hopefully, we'll give you\nenough knowledge to be able",
+    "start": 166.295,
+    "duration": 2.475
+  },
+  {
+    "text": "to work your way through tutorials\nto do more self-paced learning.",
+    "start": 168.77,
+    "duration": 2.51
+  },
+  {
+    "text": ">> Exactly. Speaking of\nself-paced learning,",
+    "start": 171.28,
+    "duration": 2.49
+  },
+  {
+    "text": "you've given perfect segue\nhere, I appreciate that.",
+    "start": 173.77,
+    "duration": 2.935
+  },
+  {
+    "text": "Too real quick resources\nthat are worth calling out.",
+    "start": 176.705,
+    "duration": 3.735
+  },
+  {
+    "text": "The first is the aka.ms link\nto the GitHub repository.",
+    "start": 180.44,
+    "duration": 4.89
+  },
+  {
+    "text": "On there, you're going to find\na whole set of resources,",
+    "start": 185.33,
+    "duration": 5.46
+  },
+  {
+    "text": "the slides, the code samples, etc.",
+    "start": 190.79,
+    "duration": 2.925
+  },
+  {
+    "text": "That you can use to continue to\ngrow your skills inside of Python.",
+    "start": 193.715,
+    "duration": 5.815
+  },
+  {
+    "text": "It's also worth\nhighlighting the intro to",
+    "start": 199.53,
+    "duration": 2.61
+  },
+  {
+    "text": "Python course that's on\nMicrosoft learn as well.",
+    "start": 202.14,
+    "duration": 2.905
+  },
+  {
+    "text": "So that way if maybe you don't\nfeel like listening to us talk,",
+    "start": 205.045,
+    "duration": 3.445
+  },
+  {
+    "text": "but instead prefer to go\nthrough a text-based modules,",
+    "start": 208.49,
+    "duration": 4.14
+  },
+  {
+    "text": "you can do that as well,",
+    "start": 212.63,
+    "duration": 1.32
+  },
+  {
+    "text": "neither one of us will be offended.",
+    "start": 213.95,
+    "duration": 1.86
+  },
+  {
+    "text": ">> Not at all. Though\nwe have done our",
+    "start": 215.81,
+    "duration": 1.38
+  },
+  {
+    "text": "best in this particular series to",
+    "start": 217.19,
+    "duration": 1.8
+  },
+  {
+    "text": "try and make each module very\nstand-alone, very simple.",
+    "start": 218.99,
+    "duration": 3.63
+  },
+  {
+    "text": "So if there is a few things\nyou already know,",
+    "start": 222.62,
+    "duration": 1.98
+  },
+  {
+    "text": "you can go ahead and skip\nahead to the next module.",
+    "start": 224.6,
+    "duration": 2.58
+  },
+  {
+    "text": "So if it designed to be such that",
+    "start": 227.18,
+    "duration": 1.8
+  },
+  {
+    "text": "you can watch just the\ncode demo for one,",
+    "start": 228.98,
+    "duration": 2.01
+  },
+  {
+    "text": "watch with theory on another,",
+    "start": 230.99,
+    "duration": 1.305
+  },
+  {
+    "text": "so we tried to break it up into\nlittle bite-sized chunks for you.",
+    "start": 232.295,
+    "duration": 2.805
+  },
+  {
+    "text": ">> Exactly. So if you get\nsick and tired of our jokes,",
+    "start": 235.1,
+    "duration": 2.17
+  },
+  {
+    "text": "you're not obligated to\nwatch from start to finish,",
+    "start": 237.27,
+    "duration": 2.38
+  },
+  {
+    "text": "you can dive right to\nthe spots that you want.",
+    "start": 239.65,
+    "duration": 2.845
+  },
+  {
+    "text": "Speaking of diving right\ninto the spots that we want,",
+    "start": 242.495,
+    "duration": 2.55
+  },
+  {
+    "text": "what do we go ahead, wrap\nthis little video up,",
+    "start": 245.045,
+    "duration": 2.55
+  },
+  {
+    "text": "and then get into getting started,",
+    "start": 247.595,
+    "duration": 2.1
+  },
+  {
+    "text": "where we'll take a look at\ndoing the installation,",
+    "start": 249.695,
+    "duration": 3.27
+  },
+  {
+    "text": "and what you're going to need to\nstart writing some Python code?",
+    "start": 252.965,
+    "duration": 2.705
+  },
+  {
+    "text": ">> See you soon.",
+    "start": 255.67,
+    "duration": 1.74
+  }
+]

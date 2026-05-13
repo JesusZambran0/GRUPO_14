@@ -1,0 +1,1552 @@
+[
+  {
+    "text": "Hey everyone, welcome back. And today,",
+    "start": 0.08,
+    "duration": 3.599
+  },
+  {
+    "text": "let's do something a little bit",
+    "start": 2.24,
+    "duration": 3.599
+  },
+  {
+    "text": "different. Let's talk about the top six",
+    "start": 3.679,
+    "duration": 4.641
+  },
+  {
+    "text": "coding interview concepts that you need",
+    "start": 5.839,
+    "duration": 5.041
+  },
+  {
+    "text": "for interviews. And by top six, I mean",
+    "start": 8.32,
+    "duration": 5.279
+  },
+  {
+    "text": "the top six most common, at least in my",
+    "start": 10.88,
+    "duration": 4.48
+  },
+  {
+    "text": "experience. I think some people might",
+    "start": 13.599,
+    "duration": 3.6
+  },
+  {
+    "text": "disagree with a couple of these, but",
+    "start": 15.36,
+    "duration": 3.6
+  },
+  {
+    "text": "overall, these are definitely not",
+    "start": 17.199,
+    "duration": 3.521
+  },
+  {
+    "text": "controversial. I think generally",
+    "start": 18.96,
+    "duration": 3.44
+  },
+  {
+    "text": "speaking, these are six of the most",
+    "start": 20.72,
+    "duration": 3.84
+  },
+  {
+    "text": "common, you know, things that come up in",
+    "start": 22.4,
+    "duration": 4.719
+  },
+  {
+    "text": "interviews. And spoiler alert, dynamic",
+    "start": 24.56,
+    "duration": 4.479
+  },
+  {
+    "text": "programming is not going to show up on",
+    "start": 27.119,
+    "duration": 4.24
+  },
+  {
+    "text": "my list. For how difficult dynamic",
+    "start": 29.039,
+    "duration": 4.001
+  },
+  {
+    "text": "programming is and how much it's talked",
+    "start": 31.359,
+    "duration": 4.481
+  },
+  {
+    "text": "about, it actually doesn't show up that",
+    "start": 33.04,
+    "duration": 4.48
+  },
+  {
+    "text": "much in interviews. I think it's kind of",
+    "start": 35.84,
+    "duration": 3.68
+  },
+  {
+    "text": "funny. People spend so much time",
+    "start": 37.52,
+    "duration": 3.6
+  },
+  {
+    "text": "studying that because they think it's",
+    "start": 39.52,
+    "duration": 3.44
+  },
+  {
+    "text": "really difficult and they feel like it's",
+    "start": 41.12,
+    "duration": 3.119
+  },
+  {
+    "text": "definitely going to show up in their",
+    "start": 42.96,
+    "duration": 3.119
+  },
+  {
+    "text": "interview. Well, chances are it's",
+    "start": 44.239,
+    "duration": 3.361
+  },
+  {
+    "text": "actually not going to show up in your",
+    "start": 46.079,
+    "duration": 2.96
+  },
+  {
+    "text": "interview. There's a lot of companies",
+    "start": 47.6,
+    "duration": 3.439
+  },
+  {
+    "text": "that have actually banned asking dynamic",
+    "start": 49.039,
+    "duration": 3.761
+  },
+  {
+    "text": "programming questions. And even the ones",
+    "start": 51.039,
+    "duration": 4.16
+  },
+  {
+    "text": "that do ask it, don't ask it super",
+    "start": 52.8,
+    "duration": 4.0
+  },
+  {
+    "text": "frequently. So, I think your time would",
+    "start": 55.199,
+    "duration": 3.601
+  },
+  {
+    "text": "be better invested studying some of",
+    "start": 56.8,
+    "duration": 4.8
+  },
+  {
+    "text": "these other more common uh patterns and",
+    "start": 58.8,
+    "duration": 4.8
+  },
+  {
+    "text": "concepts. And definitely feel free to",
+    "start": 61.6,
+    "duration": 3.44
+  },
+  {
+    "text": "let me know if you'd like to see more",
+    "start": 63.6,
+    "duration": 3.36
+  },
+  {
+    "text": "videos like this or maybe other videos.",
+    "start": 65.04,
+    "duration": 3.439
+  },
+  {
+    "text": "I've seen a lot of suggestions for",
+    "start": 66.96,
+    "duration": 3.68
+  },
+  {
+    "text": "people asking about my Google interview",
+    "start": 68.479,
+    "duration": 4.161
+  },
+  {
+    "text": "experience and other videos like that.",
+    "start": 70.64,
+    "duration": 3.68
+  },
+  {
+    "text": "So, feel free to suggest it. But, okay,",
+    "start": 72.64,
+    "duration": 3.76
+  },
+  {
+    "text": "now let's get into the top six list.",
+    "start": 74.32,
+    "duration": 4.799
+  },
+  {
+    "text": "Let's start with number six and that is",
+    "start": 76.4,
+    "duration": 4.64
+  },
+  {
+    "text": "going to be a data structure called a",
+    "start": 79.119,
+    "duration": 3.841
+  },
+  {
+    "text": "heap. You may or may not be familiar",
+    "start": 81.04,
+    "duration": 4.8
+  },
+  {
+    "text": "with heaps but they are a very common",
+    "start": 82.96,
+    "duration": 4.64
+  },
+  {
+    "text": "data structure that comes up. There's",
+    "start": 85.84,
+    "duration": 3.44
+  },
+  {
+    "text": "some problems where actually the entire",
+    "start": 87.6,
+    "duration": 4.24
+  },
+  {
+    "text": "problem itself is just using a heap like",
+    "start": 89.28,
+    "duration": 4.08
+  },
+  {
+    "text": "okay you know there's some operation",
+    "start": 91.84,
+    "duration": 2.8
+  },
+  {
+    "text": "you're trying to do maybe you're trying",
+    "start": 93.36,
+    "duration": 3.6
+  },
+  {
+    "text": "to get the minimum value or the maximum",
+    "start": 94.64,
+    "duration": 4.64
+  },
+  {
+    "text": "value or one problem that comes up very",
+    "start": 96.96,
+    "duration": 4.88
+  },
+  {
+    "text": "frequently is the top k values or",
+    "start": 99.28,
+    "duration": 4.08
+  },
+  {
+    "text": "something like that. And that's really",
+    "start": 101.84,
+    "duration": 3.919
+  },
+  {
+    "text": "what a heap is designed to do. Because",
+    "start": 103.36,
+    "duration": 4.96
+  },
+  {
+    "text": "with a heap, there's two variations, a",
+    "start": 105.759,
+    "duration": 4.561
+  },
+  {
+    "text": "minimum heap and a maximum heap. If you",
+    "start": 108.32,
+    "duration": 3.6
+  },
+  {
+    "text": "were doing a minimum heap, for example,",
+    "start": 110.32,
+    "duration": 4.079
+  },
+  {
+    "text": "you could get the minimum value from the",
+    "start": 111.92,
+    "duration": 5.6
+  },
+  {
+    "text": "heap in bigo of one time, which is very",
+    "start": 114.399,
+    "duration": 4.801
+  },
+  {
+    "text": "efficient. But when it comes to actually",
+    "start": 117.52,
+    "duration": 4.959
+  },
+  {
+    "text": "popping that minimum value or adding a a",
+    "start": 119.2,
+    "duration": 6.559
+  },
+  {
+    "text": "value to a heap, that is done in log",
+    "start": 122.479,
+    "duration": 5.92
+  },
+  {
+    "text": "time, which is also very efficient. One",
+    "start": 125.759,
+    "duration": 4.72
+  },
+  {
+    "text": "thing about the heap that I see a lot of",
+    "start": 128.399,
+    "duration": 3.681
+  },
+  {
+    "text": "people get wrong and even I've had",
+    "start": 130.479,
+    "duration": 3.521
+  },
+  {
+    "text": "interviews where the interviewer didn't",
+    "start": 132.08,
+    "duration": 3.519
+  },
+  {
+    "text": "know this and it was kind of an awkward",
+    "start": 134.0,
+    "duration": 3.2
+  },
+  {
+    "text": "situation because I was trying to",
+    "start": 135.599,
+    "duration": 4.081
+  },
+  {
+    "text": "explain my solution, but it's that if",
+    "start": 137.2,
+    "duration": 4.48
+  },
+  {
+    "text": "you're building a heap, you have 10",
+    "start": 139.68,
+    "duration": 4.32
+  },
+  {
+    "text": "values or n values, let's say, and",
+    "start": 141.68,
+    "duration": 4.559
+  },
+  {
+    "text": "you're building a heap, you can build",
+    "start": 144.0,
+    "duration": 5.28
+  },
+  {
+    "text": "that heap in big O of N time. As long as",
+    "start": 146.239,
+    "duration": 5.121
+  },
+  {
+    "text": "you have all the values available from",
+    "start": 149.28,
+    "duration": 4.0
+  },
+  {
+    "text": "the start, you can build the heap in big",
+    "start": 151.36,
+    "duration": 4.4
+  },
+  {
+    "text": "O of N time. But if you're actually uh",
+    "start": 153.28,
+    "duration": 4.72
+  },
+  {
+    "text": "manually adding each value to the heap,",
+    "start": 155.76,
+    "duration": 3.68
+  },
+  {
+    "text": "you don't have them available all at",
+    "start": 158.0,
+    "duration": 2.72
+  },
+  {
+    "text": "once, but you have to like, you know, go",
+    "start": 159.44,
+    "duration": 3.439
+  },
+  {
+    "text": "through some kind of data stream to add",
+    "start": 160.72,
+    "duration": 4.239
+  },
+  {
+    "text": "each value to the heap, then that will",
+    "start": 162.879,
+    "duration": 5.36
+  },
+  {
+    "text": "take n login time because adding a value",
+    "start": 164.959,
+    "duration": 5.36
+  },
+  {
+    "text": "to a heap is login. If you have to do",
+    "start": 168.239,
+    "duration": 3.841
+  },
+  {
+    "text": "that n times, that's how you're going to",
+    "start": 170.319,
+    "duration": 3.681
+  },
+  {
+    "text": "get that time complexity. But heaps",
+    "start": 172.08,
+    "duration": 3.76
+  },
+  {
+    "text": "actually also show up in a lot of",
+    "start": 174.0,
+    "duration": 3.36
+  },
+  {
+    "text": "standard algorithms like graph",
+    "start": 175.84,
+    "duration": 3.44
+  },
+  {
+    "text": "algorithms, shortest path algorithms,",
+    "start": 177.36,
+    "duration": 3.44
+  },
+  {
+    "text": "and things like that. So I think it's a",
+    "start": 179.28,
+    "duration": 3.679
+  },
+  {
+    "text": "very very good data structure to",
+    "start": 180.8,
+    "duration": 4.079
+  },
+  {
+    "text": "definitely understand because the",
+    "start": 182.959,
+    "duration": 3.92
+  },
+  {
+    "text": "implementation is a little bit complex",
+    "start": 184.879,
+    "duration": 3.681
+  },
+  {
+    "text": "but usually you don't have to implement",
+    "start": 186.879,
+    "duration": 3.36
+  },
+  {
+    "text": "a heap. You can just use it and it's",
+    "start": 188.56,
+    "duration": 4.08
+  },
+  {
+    "text": "very easy to use this data structure.",
+    "start": 190.239,
+    "duration": 5.441
+  },
+  {
+    "text": "Okay, next up is sliding window. When I",
+    "start": 192.64,
+    "duration": 4.879
+  },
+  {
+    "text": "actually first learned this algorithm, I",
+    "start": 195.68,
+    "duration": 3.36
+  },
+  {
+    "text": "didn't even know it was a standard",
+    "start": 197.519,
+    "duration": 3.041
+  },
+  {
+    "text": "algorithm. I was just doing some leak",
+    "start": 199.04,
+    "duration": 3.119
+  },
+  {
+    "text": "code problems. I couldn't figure out the",
+    "start": 200.56,
+    "duration": 3.28
+  },
+  {
+    "text": "problem. So I looked at the solution and",
+    "start": 202.159,
+    "duration": 3.841
+  },
+  {
+    "text": "saw okay there's this uh algorithm where",
+    "start": 203.84,
+    "duration": 4.399
+  },
+  {
+    "text": "you use two pointers to iterate through",
+    "start": 206.0,
+    "duration": 4.48
+  },
+  {
+    "text": "a array and I remember thinking wow this",
+    "start": 208.239,
+    "duration": 4.401
+  },
+  {
+    "text": "is a really clever technique if only I",
+    "start": 210.48,
+    "duration": 3.6
+  },
+  {
+    "text": "had known that it's actually a very",
+    "start": 212.64,
+    "duration": 3.36
+  },
+  {
+    "text": "standard algorithm it would actually",
+    "start": 214.08,
+    "duration": 4.0
+  },
+  {
+    "text": "have been easier to understand because",
+    "start": 216.0,
+    "duration": 3.76
+  },
+  {
+    "text": "this is the type of algorithm you can",
+    "start": 218.08,
+    "duration": 4.879
+  },
+  {
+    "text": "memorize and then apply it in many many",
+    "start": 219.76,
+    "duration": 5.44
+  },
+  {
+    "text": "different places. The idea is usually",
+    "start": 222.959,
+    "duration": 4.481
+  },
+  {
+    "text": "that you know to solve some problem you",
+    "start": 225.2,
+    "duration": 5.28
+  },
+  {
+    "text": "have to iterate through a array n times.",
+    "start": 227.44,
+    "duration": 4.719
+  },
+  {
+    "text": "So if you have to do that n times the",
+    "start": 230.48,
+    "duration": 3.52
+  },
+  {
+    "text": "overall time complexity becomes n",
+    "start": 232.159,
+    "duration": 3.841
+  },
+  {
+    "text": "squared. But there's a lot of problems",
+    "start": 234.0,
+    "duration": 4.48
+  },
+  {
+    "text": "where you can have two pointers and then",
+    "start": 236.0,
+    "duration": 5.12
+  },
+  {
+    "text": "use them kind of intelligently and in",
+    "start": 238.48,
+    "duration": 4.479
+  },
+  {
+    "text": "that way you only end up iterating",
+    "start": 241.12,
+    "duration": 4.08
+  },
+  {
+    "text": "through the entire array once. Well",
+    "start": 242.959,
+    "duration": 4.48
+  },
+  {
+    "text": "twice if you count the two pointers but",
+    "start": 245.2,
+    "duration": 4.399
+  },
+  {
+    "text": "that's still big O of n time. You don't",
+    "start": 247.439,
+    "duration": 4.321
+  },
+  {
+    "text": "have to do nested for loops. With a",
+    "start": 249.599,
+    "duration": 3.601
+  },
+  {
+    "text": "sliding window you just keep track of",
+    "start": 251.76,
+    "duration": 3.759
+  },
+  {
+    "text": "two pointers. You uh increment them in",
+    "start": 253.2,
+    "duration": 4.559
+  },
+  {
+    "text": "an intelligent way and then you get a",
+    "start": 255.519,
+    "duration": 4.24
+  },
+  {
+    "text": "very efficient algorithm. We've done a",
+    "start": 257.759,
+    "duration": 3.681
+  },
+  {
+    "text": "ton of sliding window problems on this",
+    "start": 259.759,
+    "duration": 3.201
+  },
+  {
+    "text": "channel, so definitely take a look at",
+    "start": 261.44,
+    "duration": 3.52
+  },
+  {
+    "text": "the sliding window playlist if you'd",
+    "start": 262.96,
+    "duration": 3.92
+  },
+  {
+    "text": "want to see some examples. The next",
+    "start": 264.96,
+    "duration": 4.56
+  },
+  {
+    "text": "algorithm is going to be binary search.",
+    "start": 266.88,
+    "duration": 5.039
+  },
+  {
+    "text": "I think every CS major will learn this",
+    "start": 269.52,
+    "duration": 4.72
+  },
+  {
+    "text": "algorithm and usually think it's pretty",
+    "start": 271.919,
+    "duration": 4.321
+  },
+  {
+    "text": "simple, at least conceptually, right?",
+    "start": 274.24,
+    "duration": 3.6
+  },
+  {
+    "text": "The whole idea comes from, you know, if",
+    "start": 276.24,
+    "duration": 3.44
+  },
+  {
+    "text": "you were guessing a number between 1 and",
+    "start": 277.84,
+    "duration": 4.16
+  },
+  {
+    "text": "100 and you got some kind of feedback,",
+    "start": 279.68,
+    "duration": 4.079
+  },
+  {
+    "text": "right? Like if you got the wrong answer,",
+    "start": 282.0,
+    "duration": 4.16
+  },
+  {
+    "text": "you knew if it was too high or too low.",
+    "start": 283.759,
+    "duration": 3.841
+  },
+  {
+    "text": "Of course, if you were guessing between",
+    "start": 286.16,
+    "duration": 3.599
+  },
+  {
+    "text": "1 and 100, you would guess 50. Because",
+    "start": 287.6,
+    "duration": 4.159
+  },
+  {
+    "text": "if it was too big, then you would",
+    "start": 289.759,
+    "duration": 4.0
+  },
+  {
+    "text": "eliminate all the numbers that are",
+    "start": 291.759,
+    "duration": 4.16
+  },
+  {
+    "text": "smaller than 50. If it's too small, then",
+    "start": 293.759,
+    "duration": 3.921
+  },
+  {
+    "text": "you'd eliminate all the values larger",
+    "start": 295.919,
+    "duration": 3.201
+  },
+  {
+    "text": "than 50. And then just continue to do",
+    "start": 297.68,
+    "duration": 3.28
+  },
+  {
+    "text": "that. Just take the halfway point",
+    "start": 299.12,
+    "duration": 3.6
+  },
+  {
+    "text": "between whatever you're trying to",
+    "start": 300.96,
+    "duration": 3.44
+  },
+  {
+    "text": "determine. So, in that sense, it's a",
+    "start": 302.72,
+    "duration": 3.84
+  },
+  {
+    "text": "very simple algorithm. Usually, binary",
+    "start": 304.4,
+    "duration": 4.16
+  },
+  {
+    "text": "search problems are really obvious that",
+    "start": 306.56,
+    "duration": 3.84
+  },
+  {
+    "text": "you're supposed to use binary search.",
+    "start": 308.56,
+    "duration": 3.6
+  },
+  {
+    "text": "You're given some kind of array and you",
+    "start": 310.4,
+    "duration": 3.84
+  },
+  {
+    "text": "have to search for a value. Usually you",
+    "start": 312.16,
+    "duration": 4.16
+  },
+  {
+    "text": "can search for that value in big O of N",
+    "start": 314.24,
+    "duration": 4.08
+  },
+  {
+    "text": "time which you might think is efficient",
+    "start": 316.32,
+    "duration": 3.439
+  },
+  {
+    "text": "but if there's a more efficient",
+    "start": 318.32,
+    "duration": 4.719
+  },
+  {
+    "text": "algorithm using binary search login is",
+    "start": 319.759,
+    "duration": 5.841
+  },
+  {
+    "text": "actually a lot more efficient than big O",
+    "start": 323.039,
+    "duration": 5.281
+  },
+  {
+    "text": "of N which is why binary search is you",
+    "start": 325.6,
+    "duration": 4.56
+  },
+  {
+    "text": "know an important algorithm but there's",
+    "start": 328.32,
+    "duration": 4.64
+  },
+  {
+    "text": "also a lot of problems that are easy",
+    "start": 330.16,
+    "duration": 4.72
+  },
+  {
+    "text": "once you know that you're supposed to",
+    "start": 332.96,
+    "duration": 4.56
+  },
+  {
+    "text": "use binary search but it's not obvious",
+    "start": 334.88,
+    "duration": 4.319
+  },
+  {
+    "text": "that you are supposed to use binary",
+    "start": 337.52,
+    "duration": 3.36
+  },
+  {
+    "text": "search sometimes there's a lot of data",
+    "start": 339.199,
+    "duration": 3.28
+  },
+  {
+    "text": "structures involved there's a lot of",
+    "start": 340.88,
+    "duration": 3.759
+  },
+  {
+    "text": "things going on. You might think it's a",
+    "start": 342.479,
+    "duration": 3.921
+  },
+  {
+    "text": "sliding window problem, but in",
+    "start": 344.639,
+    "duration": 3.921
+  },
+  {
+    "text": "actuality, it's a binary search problem.",
+    "start": 346.4,
+    "duration": 3.76
+  },
+  {
+    "text": "So, I think that's kind of the hard part",
+    "start": 348.56,
+    "duration": 3.6
+  },
+  {
+    "text": "about binary search. Sometimes even",
+    "start": 350.16,
+    "duration": 4.4
+  },
+  {
+    "text": "identifying the problem needs binary",
+    "start": 352.16,
+    "duration": 4.08
+  },
+  {
+    "text": "search. We've also solved a lot of",
+    "start": 354.56,
+    "duration": 3.359
+  },
+  {
+    "text": "binary search problems on this channel.",
+    "start": 356.24,
+    "duration": 2.799
+  },
+  {
+    "text": "If you want to take a look at the",
+    "start": 357.919,
+    "duration": 3.12
+  },
+  {
+    "text": "playlist for that, okay, next up is",
+    "start": 359.039,
+    "duration": 4.081
+  },
+  {
+    "text": "going to be actually two algorithms that",
+    "start": 361.039,
+    "duration": 4.561
+  },
+  {
+    "text": "are very uh similar. Depth for search",
+    "start": 363.12,
+    "duration": 5.519
+  },
+  {
+    "text": "and breath first search. These are two",
+    "start": 365.6,
+    "duration": 5.2
+  },
+  {
+    "text": "incredibly common algorithms. Probably",
+    "start": 368.639,
+    "duration": 4.641
+  },
+  {
+    "text": "the most common algorithms you'll use in",
+    "start": 370.8,
+    "duration": 4.239
+  },
+  {
+    "text": "coding interviews because they can be",
+    "start": 373.28,
+    "duration": 3.44
+  },
+  {
+    "text": "applied in so many different places.",
+    "start": 375.039,
+    "duration": 4.0
+  },
+  {
+    "text": "They can be applied to trees, but they",
+    "start": 376.72,
+    "duration": 4.88
+  },
+  {
+    "text": "can also be applied to general graphs,",
+    "start": 379.039,
+    "duration": 6.0
+  },
+  {
+    "text": "whether it's a 2D matrix type graph or a",
+    "start": 381.6,
+    "duration": 6.56
+  },
+  {
+    "text": "graph of nodes and edges. And DFS and",
+    "start": 385.039,
+    "duration": 6.16
+  },
+  {
+    "text": "BFS are actually the building blocks for",
+    "start": 388.16,
+    "duration": 5.68
+  },
+  {
+    "text": "more complex algorithms. things like uh",
+    "start": 391.199,
+    "duration": 5.041
+  },
+  {
+    "text": "Jixstra's algorithm, the shortest path,",
+    "start": 393.84,
+    "duration": 5.44
+  },
+  {
+    "text": "Cruscll's prim's algorithm, Bellman",
+    "start": 396.24,
+    "duration": 6.399
+  },
+  {
+    "text": "Ford, right? Most graph algorithms build",
+    "start": 399.28,
+    "duration": 6.96
+  },
+  {
+    "text": "on top of DFS and BFS. So if you have a",
+    "start": 402.639,
+    "duration": 6.481
+  },
+  {
+    "text": "very good understanding of DFS and BFS,",
+    "start": 406.24,
+    "duration": 5.36
+  },
+  {
+    "text": "you can actually solve a very large",
+    "start": 409.12,
+    "duration": 5.04
+  },
+  {
+    "text": "number of problems, not just graphs, but",
+    "start": 411.6,
+    "duration": 4.96
+  },
+  {
+    "text": "also trees and even more. And I would",
+    "start": 414.16,
+    "duration": 3.92
+  },
+  {
+    "text": "say if you can get to the point where",
+    "start": 416.56,
+    "duration": 4.479
+  },
+  {
+    "text": "you can write a DFS algorithm or BFS in",
+    "start": 418.08,
+    "duration": 5.04
+  },
+  {
+    "text": "your sleep, you're going to be in very",
+    "start": 421.039,
+    "duration": 3.761
+  },
+  {
+    "text": "good shape for coding interviews because",
+    "start": 423.12,
+    "duration": 3.919
+  },
+  {
+    "text": "these are very standard algorithms. Once",
+    "start": 424.8,
+    "duration": 4.0
+  },
+  {
+    "text": "you've written them so many times, it",
+    "start": 427.039,
+    "duration": 3.681
+  },
+  {
+    "text": "becomes like second nature. But when",
+    "start": 428.8,
+    "duration": 3.839
+  },
+  {
+    "text": "you're a beginner, these algorithms can",
+    "start": 430.72,
+    "duration": 4.16
+  },
+  {
+    "text": "be pretty daunting to learn. We do have",
+    "start": 432.639,
+    "duration": 4.56
+  },
+  {
+    "text": "a trees playlist and a graph playlist on",
+    "start": 434.88,
+    "duration": 3.439
+  },
+  {
+    "text": "this channel if you want to practice",
+    "start": 437.199,
+    "duration": 4.481
+  },
+  {
+    "text": "some DFS or BFS. Okay, next up is",
+    "start": 438.319,
+    "duration": 5.761
+  },
+  {
+    "text": "recursion. Recursion was super difficult",
+    "start": 441.68,
+    "duration": 4.079
+  },
+  {
+    "text": "for me when I learned it back in",
+    "start": 444.08,
+    "duration": 4.48
+  },
+  {
+    "text": "college, but now it's actually very",
+    "start": 445.759,
+    "duration": 5.681
+  },
+  {
+    "text": "intuitive. Just like DFS and BFS,",
+    "start": 448.56,
+    "duration": 5.52
+  },
+  {
+    "text": "recursion is applied in so many places.",
+    "start": 451.44,
+    "duration": 4.96
+  },
+  {
+    "text": "And it's also used in graphs as well as",
+    "start": 454.08,
+    "duration": 4.72
+  },
+  {
+    "text": "many other categories like backtracking,",
+    "start": 456.4,
+    "duration": 4.88
+  },
+  {
+    "text": "sometimes with dynamic programming, if",
+    "start": 458.8,
+    "duration": 3.92
+  },
+  {
+    "text": "you're talking about the memoization",
+    "start": 461.28,
+    "duration": 3.44
+  },
+  {
+    "text": "solution, and in so many other ways.",
+    "start": 462.72,
+    "duration": 4.879
+  },
+  {
+    "text": "Recursion is just a huge category. I",
+    "start": 464.72,
+    "duration": 4.24
+  },
+  {
+    "text": "don't know how you would even prepare",
+    "start": 467.599,
+    "duration": 3.44
+  },
+  {
+    "text": "for coding interviews if you didn't know",
+    "start": 468.96,
+    "duration": 4.72
+  },
+  {
+    "text": "recursion. And I definitely recommend",
+    "start": 471.039,
+    "duration": 4.961
+  },
+  {
+    "text": "getting pretty proficient with",
+    "start": 473.68,
+    "duration": 4.4
+  },
+  {
+    "text": "recursion. You definitely want to have a",
+    "start": 476.0,
+    "duration": 4.479
+  },
+  {
+    "text": "good understanding of the base case, the",
+    "start": 478.08,
+    "duration": 5.04
+  },
+  {
+    "text": "recursive step, and just the general",
+    "start": 480.479,
+    "duration": 4.72
+  },
+  {
+    "text": "idea of what's going on with recursion.",
+    "start": 483.12,
+    "duration": 3.68
+  },
+  {
+    "text": "You should understand that recursion",
+    "start": 485.199,
+    "duration": 4.481
+  },
+  {
+    "text": "does take extra memory to do. It's not",
+    "start": 486.8,
+    "duration": 4.799
+  },
+  {
+    "text": "free. You should understand how what's",
+    "start": 489.68,
+    "duration": 4.16
+  },
+  {
+    "text": "going on with the call stack as you do",
+    "start": 491.599,
+    "duration": 4.481
+  },
+  {
+    "text": "recursive algorithms. And I think this",
+    "start": 493.84,
+    "duration": 3.68
+  },
+  {
+    "text": "category is probably one of the most",
+    "start": 496.08,
+    "duration": 3.04
+  },
+  {
+    "text": "difficult for people to learn. I think",
+    "start": 497.52,
+    "duration": 3.679
+  },
+  {
+    "text": "recursion is the reason why people think",
+    "start": 499.12,
+    "duration": 4.56
+  },
+  {
+    "text": "graphs are hard, trees are hard,",
+    "start": 501.199,
+    "duration": 4.481
+  },
+  {
+    "text": "backtracking is hard. It's usually",
+    "start": 503.68,
+    "duration": 3.6
+  },
+  {
+    "text": "because they don't have a very good",
+    "start": 505.68,
+    "duration": 4.16
+  },
+  {
+    "text": "understanding of recursion. Okay, last",
+    "start": 507.28,
+    "duration": 5.28
+  },
+  {
+    "text": "up, the number one pattern I think you",
+    "start": 509.84,
+    "duration": 4.24
+  },
+  {
+    "text": "should understand for coding interviews",
+    "start": 512.56,
+    "duration": 3.839
+  },
+  {
+    "text": "is definitely hashmaps. It's the most",
+    "start": 514.08,
+    "duration": 4.639
+  },
+  {
+    "text": "simple thing on this list probably, but",
+    "start": 516.399,
+    "duration": 5.12
+  },
+  {
+    "text": "it's also the most common. There are so",
+    "start": 518.719,
+    "duration": 4.8
+  },
+  {
+    "text": "many problems that can literally just be",
+    "start": 521.519,
+    "duration": 4.401
+  },
+  {
+    "text": "solved by using a hashmap. The famous",
+    "start": 523.519,
+    "duration": 4.561
+  },
+  {
+    "text": "problem is probably twosome because",
+    "start": 525.92,
+    "duration": 4.16
+  },
+  {
+    "text": "instead of iterating through the entire",
+    "start": 528.08,
+    "duration": 4.96
+  },
+  {
+    "text": "array to search for a matching value",
+    "start": 530.08,
+    "duration": 5.04
+  },
+  {
+    "text": "with twosome you can just literally use",
+    "start": 533.04,
+    "duration": 4.08
+  },
+  {
+    "text": "a hashmap. That's the entire problem. If",
+    "start": 535.12,
+    "duration": 3.68
+  },
+  {
+    "text": "you use a hashmap then you solve it",
+    "start": 537.12,
+    "duration": 3.36
+  },
+  {
+    "text": "efficiently. And the important thing to",
+    "start": 538.8,
+    "duration": 3.76
+  },
+  {
+    "text": "know about a hashmap is basically that",
+    "start": 540.48,
+    "duration": 3.84
+  },
+  {
+    "text": "every operation that you do on it pretty",
+    "start": 542.56,
+    "duration": 3.6
+  },
+  {
+    "text": "much any operation at least can be done",
+    "start": 544.32,
+    "duration": 5.28
+  },
+  {
+    "text": "in big O of one time in constant time.",
+    "start": 546.16,
+    "duration": 6.72
+  },
+  {
+    "text": "Now technically that's not true in that",
+    "start": 549.6,
+    "duration": 5.76
+  },
+  {
+    "text": "technically it's amiratized because",
+    "start": 552.88,
+    "duration": 3.76
+  },
+  {
+    "text": "there's a lot of different ways to",
+    "start": 555.36,
+    "duration": 3.44
+  },
+  {
+    "text": "implement a hashmap under the hood but",
+    "start": 556.64,
+    "duration": 4.48
+  },
+  {
+    "text": "basically on average it'll take big O of",
+    "start": 558.8,
+    "duration": 4.719
+  },
+  {
+    "text": "one time and usually 99% of the time in",
+    "start": 561.12,
+    "duration": 4.08
+  },
+  {
+    "text": "real interviews people will just say",
+    "start": 563.519,
+    "duration": 3.44
+  },
+  {
+    "text": "okay yeah it takes big O of one time to",
+    "start": 565.2,
+    "duration": 3.36
+  },
+  {
+    "text": "do that in a hashmap you don't really",
+    "start": 566.959,
+    "duration": 4.081
+  },
+  {
+    "text": "need to get too technical with it adding",
+    "start": 568.56,
+    "duration": 4.32
+  },
+  {
+    "text": "removing and searching for values in a",
+    "start": 571.04,
+    "duration": 4.88
+  },
+  {
+    "text": "hashmap is very efficient and even in a",
+    "start": 572.88,
+    "duration": 4.48
+  },
+  {
+    "text": "lot of the other categories I was",
+    "start": 575.92,
+    "duration": 4.16
+  },
+  {
+    "text": "talking about DFS recursion and sliding",
+    "start": 577.36,
+    "duration": 5.12
+  },
+  {
+    "text": "window hashmaps actually come in handy",
+    "start": 580.08,
+    "duration": 4.319
+  },
+  {
+    "text": "for those as well. So even if the",
+    "start": 582.48,
+    "duration": 4.0
+  },
+  {
+    "text": "hashmap itself won't solve the entire",
+    "start": 584.399,
+    "duration": 5.201
+  },
+  {
+    "text": "problem, hashmaps are always used as",
+    "start": 586.48,
+    "duration": 5.68
+  },
+  {
+    "text": "utility data structures to do things",
+    "start": 589.6,
+    "duration": 4.4
+  },
+  {
+    "text": "efficiently. If you don't have a good",
+    "start": 592.16,
+    "duration": 3.6
+  },
+  {
+    "text": "understanding of hashmaps or know how",
+    "start": 594.0,
+    "duration": 3.68
+  },
+  {
+    "text": "efficient they are, then pretty much any",
+    "start": 595.76,
+    "duration": 3.519
+  },
+  {
+    "text": "coding interview problem is going to be",
+    "start": 597.68,
+    "duration": 3.76
+  },
+  {
+    "text": "challenging for you. So those are the",
+    "start": 599.279,
+    "duration": 4.481
+  },
+  {
+    "text": "top six coding interview concepts I",
+    "start": 601.44,
+    "duration": 4.32
+  },
+  {
+    "text": "think you should be preparing for. Let",
+    "start": 603.76,
+    "duration": 2.96
+  },
+  {
+    "text": "me know if you think there's anything",
+    "start": 605.76,
+    "duration": 2.48
+  },
+  {
+    "text": "that I missed or there's anything that",
+    "start": 606.72,
+    "duration": 3.28
+  },
+  {
+    "text": "you disagree with. Of course, I could",
+    "start": 608.24,
+    "duration": 3.599
+  },
+  {
+    "text": "have made this list a lot longer, but I",
+    "start": 610.0,
+    "duration": 3.839
+  },
+  {
+    "text": "like to be concise. And I think if you",
+    "start": 611.839,
+    "duration": 3.44
+  },
+  {
+    "text": "are preparing for your coding interviews",
+    "start": 613.839,
+    "duration": 2.881
+  },
+  {
+    "text": "and you don't feel like you have a",
+    "start": 615.279,
+    "duration": 2.881
+  },
+  {
+    "text": "really good understanding of the six",
+    "start": 616.72,
+    "duration": 2.88
+  },
+  {
+    "text": "things that I talked about here,",
+    "start": 618.16,
+    "duration": 3.359
+  },
+  {
+    "text": "definitely recommend studying that",
+    "start": 619.6,
+    "duration": 3.84
+  },
+  {
+    "text": "before you get into more complex things",
+    "start": 621.519,
+    "duration": 4.0
+  },
+  {
+    "text": "like dynamic programming or getting into",
+    "start": 623.44,
+    "duration": 4.24
+  },
+  {
+    "text": "those really advanced and obscure",
+    "start": 625.519,
+    "duration": 4.88
+  },
+  {
+    "text": "algorithms like KMP pattern matching or",
+    "start": 627.68,
+    "duration": 5.36
+  },
+  {
+    "text": "maybe crus algorithm which most likely",
+    "start": 630.399,
+    "duration": 4.161
+  },
+  {
+    "text": "you're probably not going to see in a",
+    "start": 633.04,
+    "duration": 3.28
+  },
+  {
+    "text": "real coding interview. You're more",
+    "start": 634.56,
+    "duration": 3.44
+  },
+  {
+    "text": "likely to see the things that I talked",
+    "start": 636.32,
+    "duration": 3.759
+  },
+  {
+    "text": "about here. As always, thank you so much",
+    "start": 638.0,
+    "duration": 3.76
+  },
+  {
+    "text": "for watching. Don't forget to like and",
+    "start": 640.079,
+    "duration": 3.2
+  },
+  {
+    "text": "subscribe if you found this helpful. It",
+    "start": 641.76,
+    "duration": 3.199
+  },
+  {
+    "text": "really helps the channel a lot. Consider",
+    "start": 643.279,
+    "duration": 3.201
+  },
+  {
+    "text": "checking out my Patreon if you'd like to",
+    "start": 644.959,
+    "duration": 2.801
+  },
+  {
+    "text": "further support the channel. And",
+    "start": 646.48,
+    "duration": 4.72
+  },
+  {
+    "text": "hopefully I'll see you pretty soon.",
+    "start": 647.76,
+    "duration": 3.44
+  }
+]

@@ -1,0 +1,226 @@
+{
+  "name": "video con narrador",
+  "transcript_text": "En este video aprenderás tres cambios concretos para mejorar tu productividad: ordenar tus tareas, reducir distracciones y medir avances. Guarda este contenido y prueba los pasos hoy.",
+  "ocr_text": "APRENDE FACIL CONFIGURA WIFI",
+  "result_json": {
+    "prediccion_rendimiento": "muy_alto",
+    "probabilidad_rendimiento": 0.9528,
+    "recomendacion_impulso": "ajustar antes de impulsar",
+    "requiere_ajustes": true,
+    "nivel_prioridad": "alta",
+    "alcance_estimado_por_dolar": 320.0,
+    "alcance_estimado_total": 6400.0,
+    "metricas": {
+      "views": 120000,
+      "likes": 8400,
+      "comments": 520,
+      "engagement_rate": 0.074333,
+      "like_rate": 0.07,
+      "comment_rate": 0.004333,
+      "views_per_day": 120000.0,
+      "duration_seconds": 180.0,
+      "duration_fit_score": 0.55,
+      "text_power_score": 0.7,
+      "title_word_count": 7,
+      "description_word_count": 14,
+      "transcript_word_count": 27,
+      "ocr_word_count": 4,
+      "ocr_frame_coverage": 0.6429,
+      "visual_text_density": "media",
+      "video_type": "con narrador",
+      "operational": {
+        "shares": 350,
+        "share_rate": 0.002917,
+        "retention_rate": 0.62,
+        "hours_since_publication": 24.0,
+        "views_per_hour": 5000.0,
+        "average_watch_time": 0.0,
+        "followers_count": 0,
+        "avg_channel_reach": 0
+      }
+    },
+    "analisis_transcripcion": {
+      "disponible": true,
+      "fuente": "demo_precalculado",
+      "advertencia": "",
+      "longitud_caracteres": 183,
+      "cantidad_palabras": 27,
+      "tiene_cta": true,
+      "tiene_beneficio": true,
+      "tiene_urgencia": true,
+      "tiene_confianza": false,
+      "preview": "En este video aprenderás tres cambios concretos para mejorar tu productividad: ordenar tus tareas, reducir distracciones y medir avances. Guarda este contenido y prueba los pasos hoy."
+    },
+    "analisis_ocr": {
+      "disponible": true,
+      "motor": "demo_precalculado",
+      "advertencia": "",
+      "frames_con_texto": 9,
+      "frames_totales": 14,
+      "cobertura": 0.6429,
+      "cantidad_palabras": 4,
+      "densidad": "media",
+      "tiene_cta": true,
+      "tiene_promocion": false,
+      "tiene_urgencia": false,
+      "tiene_confianza": false,
+      "tiene_exceso_texto": false,
+      "preview": "APRENDE FACIL CONFIGURA WIFI"
+    },
+    "analisis_llm": {
+      "llm_available": false,
+      "llm_engine": "rules",
+      "claridad_mensaje": 85,
+      "fuerza_cta": 90,
+      "coherencia_semantica": 75,
+      "complejidad_sintactica": "media",
+      "tipo_contenido": "informativo/promocional",
+      "riesgo_comunicacional": "medio",
+      "fortalezas": [
+        "Presenta una propuesta de valor reconocible.",
+        "Incluye un llamado a la acción detectable por reglas."
+      ],
+      "debilidades": [
+        "La duración extensa puede penalizar la retención en formatos pagos."
+      ],
+      "ajustes_sugeridos": [
+        "Evaluar una versión más corta para pauta, priorizando el gancho inicial."
+      ],
+      "recomendacion_llm": "ajustar antes de impulsar",
+      "justificacion": "Redacción generada por el motor de reglas locales (sin LLM). Las puntuaciones provienen de heurísticas léxicas y métricas derivadas; no reemplazan al modelo predictivo."
+    },
+    "analisis_politicas": {
+      "policy_risk_level": "bajo",
+      "policy_risk_categories": [],
+      "policy_explanation": "El screening no detectó términos en las 12 categorías sensibles. Si hay transcripción, la cobertura es buena; si no, considera complementar con texto del video.",
+      "youtube_ad_status_estimate": "apto",
+      "hits": {},
+      "partial_evaluation": false,
+      "evaluation_coverage": "completa"
+    },
+    "ajustes_sugeridos": [
+      "Evaluar una versión más corta para pauta, priorizando el gancho inicial."
+    ],
+    "justificacion": "Modelo predictivo: nivel `muy_alto` con probabilidad estimada 95.28%. Se aprovechó la transcripción del audio para reforzar el análisis textual. Se incorporó el texto visible detectado por OCR. Se detectaron ajustes recomendados antes de pautar. Riesgo publicitario estimado: bajo (estado YouTube Ads: apto). Score híbrido de decisión: 0.75 (penalización por políticas: ×1.0). El alcance por dólar se estima con CPM parametrizado y multiplicador de potencial; no representa ROI causal real.",
+    "accion_final": "AJUSTAR ANTES DE IMPULSAR",
+    "score_hibrido": 0.7519,
+    "score_hibrido_detalle": {
+      "score_base": 0.7519,
+      "policy_penalty": 1.0,
+      "hybrid_score": 0.7519,
+      "components": {
+        "model_probability": 0.9528,
+        "engagement_rate_norm": 0.4956,
+        "share_rate_norm": 0.0583,
+        "retention_rate_norm": 0.62,
+        "views_per_hour_norm": 1.0
+      }
+    },
+    "policy_risk_level": "bajo",
+    "youtube_ad_status_estimate": "apto",
+    "cpm_estimado": 5.0,
+    "multiplicador_potencial": 1.6,
+    "alcance_base_por_dolar": 200.0,
+    "nota_metodologica": "El modelo fue entrenado con videos públicos de YouTube en trending (Kaggle), lo que introduce sesgo de selección hacia contenido exitoso. Las probabilidades tienden a ser altas; las reglas de ajuste y el score híbrido compensan ese sesgo. La estimación de alcance por dólar usa CPM parametrizado y potencial predicho; no representa ROI causal real.",
+    "warnings": [
+      "Resultado precalculado en modo demo seguro."
+    ]
+  },
+  "metricas": {
+    "views": 120000,
+    "likes": 8400,
+    "comments": 520,
+    "engagement_rate": 0.074333,
+    "like_rate": 0.07,
+    "comment_rate": 0.004333,
+    "views_per_day": 120000.0,
+    "duration_seconds": 180.0,
+    "duration_fit_score": 0.55,
+    "text_power_score": 0.7,
+    "title_word_count": 7,
+    "description_word_count": 14,
+    "transcript_word_count": 27,
+    "ocr_word_count": 4,
+    "ocr_frame_coverage": 0.6429,
+    "visual_text_density": "media",
+    "video_type": "con narrador",
+    "operational": {
+      "shares": 350,
+      "share_rate": 0.002917,
+      "retention_rate": 0.62,
+      "hours_since_publication": 24.0,
+      "views_per_hour": 5000.0,
+      "average_watch_time": 0.0,
+      "followers_count": 0,
+      "avg_channel_reach": 0
+    }
+  },
+  "analisis_transcripcion": {
+    "disponible": true,
+    "fuente": "demo_precalculado",
+    "advertencia": "",
+    "longitud_caracteres": 183,
+    "cantidad_palabras": 27,
+    "tiene_cta": true,
+    "tiene_beneficio": true,
+    "tiene_urgencia": true,
+    "tiene_confianza": false,
+    "preview": "En este video aprenderás tres cambios concretos para mejorar tu productividad: ordenar tus tareas, reducir distracciones y medir avances. Guarda este contenido y prueba los pasos hoy."
+  },
+  "analisis_ocr": {
+    "disponible": true,
+    "motor": "demo_precalculado",
+    "advertencia": "",
+    "frames_con_texto": 9,
+    "frames_totales": 14,
+    "cobertura": 0.6429,
+    "cantidad_palabras": 4,
+    "densidad": "media",
+    "tiene_cta": true,
+    "tiene_promocion": false,
+    "tiene_urgencia": false,
+    "tiene_confianza": false,
+    "tiene_exceso_texto": false,
+    "preview": "APRENDE FACIL CONFIGURA WIFI"
+  },
+  "analisis_llm": {
+    "llm_available": false,
+    "llm_engine": "rules",
+    "claridad_mensaje": 85,
+    "fuerza_cta": 90,
+    "coherencia_semantica": 75,
+    "complejidad_sintactica": "media",
+    "tipo_contenido": "informativo/promocional",
+    "riesgo_comunicacional": "medio",
+    "fortalezas": [
+      "Presenta una propuesta de valor reconocible.",
+      "Incluye un llamado a la acción detectable por reglas."
+    ],
+    "debilidades": [
+      "La duración extensa puede penalizar la retención en formatos pagos."
+    ],
+    "ajustes_sugeridos": [
+      "Evaluar una versión más corta para pauta, priorizando el gancho inicial."
+    ],
+    "recomendacion_llm": "ajustar antes de impulsar",
+    "justificacion": "Redacción generada por el motor de reglas locales (sin LLM). Las puntuaciones provienen de heurísticas léxicas y métricas derivadas; no reemplazan al modelo predictivo."
+  },
+  "analisis_politicas": {
+    "policy_risk_level": "bajo",
+    "policy_risk_categories": [],
+    "policy_explanation": "El screening no detectó términos en las 12 categorías sensibles. Si hay transcripción, la cobertura es buena; si no, considera complementar con texto del video.",
+    "youtube_ad_status_estimate": "apto",
+    "hits": {},
+    "partial_evaluation": false,
+    "evaluation_coverage": "completa"
+  },
+  "ajustes_sugeridos": [
+    "Evaluar una versión más corta para pauta, priorizando el gancho inicial."
+  ],
+  "justificacion": "Modelo predictivo: nivel `muy_alto` con probabilidad estimada 95.28%. Se aprovechó la transcripción del audio para reforzar el análisis textual. Se incorporó el texto visible detectado por OCR. Se detectaron ajustes recomendados antes de pautar. Riesgo publicitario estimado: bajo (estado YouTube Ads: apto). Score híbrido de decisión: 0.75 (penalización por políticas: ×1.0). El alcance por dólar se estima con CPM parametrizado y multiplicador de potencial; no representa ROI causal real.",
+  "accion_final": "AJUSTAR ANTES DE IMPULSAR",
+  "score_hibrido": 0.7519,
+  "warnings": [
+    "Resultado precalculado en modo demo seguro."
+  ]
+}

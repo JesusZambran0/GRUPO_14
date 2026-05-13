@@ -1,0 +1,1827 @@
+[
+  {
+    "text": "why you don't try and make a multiplayer",
+    "start": 0.08,
+    "duration": 3.2
+  },
+  {
+    "text": "survival game",
+    "start": 2.08,
+    "duration": 3.12
+  },
+  {
+    "text": "i'm not going to spend months working on",
+    "start": 3.28,
+    "duration": 3.599
+  },
+  {
+    "text": "and releasing a game on steam just",
+    "start": 5.2,
+    "duration": 3.76
+  },
+  {
+    "text": "because of a youtube comment or",
+    "start": 6.879,
+    "duration": 5.281
+  },
+  {
+    "text": "you can't do that",
+    "start": 8.96,
+    "duration": 3.2
+  },
+  {
+    "text": "so i might have ended up releasing a",
+    "start": 12.4,
+    "duration": 4.4
+  },
+  {
+    "text": "game on steam because",
+    "start": 13.84,
+    "duration": 5.199
+  },
+  {
+    "text": "first off we make a new project in unity",
+    "start": 16.8,
+    "duration": 4.88
+  },
+  {
+    "text": "and as always let's start off by adding",
+    "start": 19.039,
+    "duration": 4.721
+  },
+  {
+    "text": "which will be our player now one of the",
+    "start": 21.68,
+    "duration": 3.679
+  },
+  {
+    "text": "things that makes survival games very",
+    "start": 23.76,
+    "duration": 2.0
+  },
+  {
+    "text": "fun",
+    "start": 25.359,
+    "duration": 3.201
+  },
+  {
+    "text": "is procedural world generation this",
+    "start": 25.76,
+    "duration": 4.16
+  },
+  {
+    "text": "means the world will be randomly",
+    "start": 28.56,
+    "duration": 2.639
+  },
+  {
+    "text": "generated and different",
+    "start": 29.92,
+    "duration": 2.96
+  },
+  {
+    "text": "every time you play the game so let's",
+    "start": 31.199,
+    "duration": 4.561
+  },
+  {
+    "text": "quickly make some procedural generation",
+    "start": 32.88,
+    "duration": 4.8
+  },
+  {
+    "text": "and that's when dany realized he's a",
+    "start": 35.76,
+    "duration": 3.119
+  },
+  {
+    "text": "dumb piece",
+    "start": 37.68,
+    "duration": 3.12
+  },
+  {
+    "text": "and has no idea how to program",
+    "start": 38.879,
+    "duration": 3.36
+  },
+  {
+    "text": "procedural generation",
+    "start": 40.8,
+    "duration": 3.439
+  },
+  {
+    "text": "but fortunately we have actual smart",
+    "start": 42.239,
+    "duration": 4.081
+  },
+  {
+    "text": "people like sebastian league who has a",
+    "start": 44.239,
+    "duration": 4.081
+  },
+  {
+    "text": "great tutorial series on how to set up",
+    "start": 46.32,
+    "duration": 3.36
+  },
+  {
+    "text": "procedural generation",
+    "start": 48.32,
+    "duration": 3.12
+  },
+  {
+    "text": "so we're gonna follow his tutorial",
+    "start": 49.68,
+    "duration": 3.44
+  },
+  {
+    "text": "series and when i say",
+    "start": 51.44,
+    "duration": 4.959
+  },
+  {
+    "text": "follow i mean roses are red violets are",
+    "start": 53.12,
+    "duration": 4.56
+  },
+  {
+    "text": "blue",
+    "start": 56.399,
+    "duration": 4.561
+  },
+  {
+    "text": "ctrl c ctrl v i took your code make sure",
+    "start": 57.68,
+    "duration": 4.8
+  },
+  {
+    "text": "to check out sebastian's channel he has",
+    "start": 60.96,
+    "duration": 3.199
+  },
+  {
+    "text": "some incredible videos that my tiny",
+    "start": 62.48,
+    "duration": 3.84
+  },
+  {
+    "text": "brain can't even begin to comprehend so",
+    "start": 64.159,
+    "duration": 3.601
+  },
+  {
+    "text": "the first thing we do is use purlin",
+    "start": 66.32,
+    "duration": 3.44
+  },
+  {
+    "text": "noise to make a noise map the purlin",
+    "start": 67.76,
+    "duration": 4.16
+  },
+  {
+    "text": "noise gives us values between 0 and 1",
+    "start": 69.76,
+    "duration": 3.84
+  },
+  {
+    "text": "where 0 is completely white",
+    "start": 71.92,
+    "duration": 3.839
+  },
+  {
+    "text": "and 1 is completely black but instead of",
+    "start": 73.6,
+    "duration": 3.36
+  },
+  {
+    "text": "using black and white",
+    "start": 75.759,
+    "duration": 3.441
+  },
+  {
+    "text": "we can assign colors based on the random",
+    "start": 76.96,
+    "duration": 4.08
+  },
+  {
+    "text": "values which will give us a really cool",
+    "start": 79.2,
+    "duration": 3.76
+  },
+  {
+    "text": "result",
+    "start": 81.04,
+    "duration": 6.079
+  },
+  {
+    "text": "and just like that we're done or not",
+    "start": 82.96,
+    "duration": 6.64
+  },
+  {
+    "text": "so the final step is to turn this 2d",
+    "start": 87.119,
+    "duration": 4.481
+  },
+  {
+    "text": "plane into a 3d mesh",
+    "start": 89.6,
+    "duration": 3.839
+  },
+  {
+    "text": "and we can now generate random worlds",
+    "start": 91.6,
+    "duration": 3.12
+  },
+  {
+    "text": "with different seeds",
+    "start": 93.439,
+    "duration": 2.881
+  },
+  {
+    "text": "and by overlaying the noise with an",
+    "start": 94.72,
+    "duration": 7.12
+  },
+  {
+    "text": "offset map we can turn it into islands",
+    "start": 96.32,
+    "duration": 5.52
+  },
+  {
+    "text": "i set up a day and night cycle added",
+    "start": 102.0,
+    "duration": 4.479
+  },
+  {
+    "text": "player movement which i just copied from",
+    "start": 104.159,
+    "duration": 4.401
+  },
+  {
+    "text": "my game carlson oh carlson this is just",
+    "start": 106.479,
+    "duration": 3.68
+  },
+  {
+    "text": "a little game i'm working on currently",
+    "start": 108.56,
+    "duration": 3.839
+  },
+  {
+    "text": "the 17th most wishlisted game on steam",
+    "start": 110.159,
+    "duration": 2.801
+  },
+  {
+    "text": "so",
+    "start": 112.399,
+    "duration": 2.481
+  },
+  {
+    "text": "smash whistle is now gamer now the",
+    "start": 112.96,
+    "duration": 3.92
+  },
+  {
+    "text": "island is currently looking pretty empty",
+    "start": 114.88,
+    "duration": 2.879
+  },
+  {
+    "text": "because",
+    "start": 116.88,
+    "duration": 3.68
+  },
+  {
+    "text": "it is completely empty so i modeled a",
+    "start": 117.759,
+    "duration": 4.881
+  },
+  {
+    "text": "tree and by using the same pearly noise",
+    "start": 120.56,
+    "duration": 4.48
+  },
+  {
+    "text": "as the island but with a different seed",
+    "start": 122.64,
+    "duration": 4.479
+  },
+  {
+    "text": "we can now generate forests around the",
+    "start": 125.04,
+    "duration": 4.32
+  },
+  {
+    "text": "island but this forest is looking kind",
+    "start": 127.119,
+    "duration": 4.161
+  },
+  {
+    "text": "of stiff so let's add some wind",
+    "start": 129.36,
+    "duration": 4.56
+  },
+  {
+    "text": "to the trees",
+    "start": 131.28,
+    "duration": 2.64
+  },
+  {
+    "text": "so some of the values were wrong but",
+    "start": 135.84,
+    "duration": 3.92
+  },
+  {
+    "text": "i've fixed it now and it's working much",
+    "start": 137.84,
+    "duration": 2.8
+  },
+  {
+    "text": "but",
+    "start": 139.76,
+    "duration": 2.8
+  },
+  {
+    "text": "but currently the player model is just a",
+    "start": 140.64,
+    "duration": 4.48
+  },
+  {
+    "text": "b so i made a new player model in",
+    "start": 142.56,
+    "duration": 3.36
+  },
+  {
+    "text": "blender",
+    "start": 145.12,
+    "duration": 3.199
+  },
+  {
+    "text": "but i didn't actually make a new player",
+    "start": 145.92,
+    "duration": 4.24
+  },
+  {
+    "text": "model i just kind of used the one from",
+    "start": 148.319,
+    "duration": 3.041
+  },
+  {
+    "text": "my game carlson",
+    "start": 150.16,
+    "duration": 3.439
+  },
+  {
+    "text": "oh oh carlson it's just a little game of",
+    "start": 151.36,
+    "duration": 3.12
+  },
+  {
+    "text": "workiness",
+    "start": 153.599,
+    "duration": 2.881
+  },
+  {
+    "text": "so anyway i got him into the game and",
+    "start": 154.48,
+    "duration": 3.039
+  },
+  {
+    "text": "god damn",
+    "start": 156.48,
+    "duration": 3.839
+  },
+  {
+    "text": "k is i called he wants his forehead back",
+    "start": 157.519,
+    "duration": 5.281
+  },
+  {
+    "text": "i also gave him some ice and good old b",
+    "start": 160.319,
+    "duration": 4.761
+  },
+  {
+    "text": "has now been replaced by caveman",
+    "start": 162.8,
+    "duration": 4.0
+  },
+  {
+    "text": "perfection",
+    "start": 165.08,
+    "duration": 5.239
+  },
+  {
+    "text": "oh sh now most survival games have an",
+    "start": 166.8,
+    "duration": 5.28
+  },
+  {
+    "text": "inventory where you can store items",
+    "start": 170.319,
+    "duration": 4.481
+  },
+  {
+    "text": "which doesn't really make sense like",
+    "start": 172.08,
+    "duration": 4.96
+  },
+  {
+    "text": "wherever the items being stored you know",
+    "start": 174.8,
+    "duration": 3.28
+  },
+  {
+    "text": "what i'm saying",
+    "start": 177.04,
+    "duration": 3.04
+  },
+  {
+    "text": "is that a gun in your pocket or are you",
+    "start": 178.08,
+    "duration": 4.0
+  },
+  {
+    "text": "just happy to see me oh this not no",
+    "start": 180.08,
+    "duration": 5.04
+  },
+  {
+    "text": "it's just a workbench",
+    "start": 182.08,
+    "duration": 3.04
+  },
+  {
+    "text": "so programming an inventory isn't too",
+    "start": 185.76,
+    "duration": 3.6
+  },
+  {
+    "text": "bad and using the eye pointer interfaces",
+    "start": 187.44,
+    "duration": 3.84
+  },
+  {
+    "text": "we can easily add our event data to find",
+    "start": 189.36,
+    "duration": 3.04
+  },
+  {
+    "text": "mouse clickers",
+    "start": 191.28,
+    "duration": 2.72
+  },
+  {
+    "text": "in reference to descriptive information",
+    "start": 192.4,
+    "duration": 3.119
+  },
+  {
+    "text": "about an item allowing us to easily pass",
+    "start": 194.0,
+    "duration": 5.84
+  },
+  {
+    "text": "it around throughout their",
+    "start": 195.519,
+    "duration": 4.321
+  },
+  {
+    "text": "and just like that we have a working",
+    "start": 201.12,
+    "duration": 3.039
+  },
+  {
+    "text": "inventory which i",
+    "start": 202.879,
+    "duration": 4.0
+  },
+  {
+    "text": "definitely did not join from block game",
+    "start": 204.159,
+    "duration": 3.121
+  },
+  {
+    "text": "i",
+    "start": 206.879,
+    "duration": 2.64
+  },
+  {
+    "text": "i'm an honorable man i would never i",
+    "start": 207.28,
+    "duration": 4.0
+  },
+  {
+    "text": "also made an axe model and made it so",
+    "start": 209.519,
+    "duration": 2.881
+  },
+  {
+    "text": "you can equip and use",
+    "start": 211.28,
+    "duration": 4.879
+  },
+  {
+    "text": "items which works perfectly",
+    "start": 212.4,
+    "duration": 3.759
+  },
+  {
+    "text": "which now works perfectly the next",
+    "start": 216.48,
+    "duration": 3.52
+  },
+  {
+    "text": "important step",
+    "start": 219.2,
+    "duration": 2.8
+  },
+  {
+    "text": "is adding multiplayer now adding",
+    "start": 220.0,
+    "duration": 3.92
+  },
+  {
+    "text": "multiplayer to a game is kind of like",
+    "start": 222.0,
+    "duration": 3.68
+  },
+  {
+    "text": "looking myself in the mirror",
+    "start": 223.92,
+    "duration": 4.239
+  },
+  {
+    "text": "it's pretty painful but i've made a few",
+    "start": 225.68,
+    "duration": 4.4
+  },
+  {
+    "text": "multiplayer games in the past so",
+    "start": 228.159,
+    "duration": 3.921
+  },
+  {
+    "text": "i'm a bit of an expert what could",
+    "start": 230.08,
+    "duration": 3.12
+  },
+  {
+    "text": "possibly go",
+    "start": 232.08,
+    "duration": 2.33
+  },
+  {
+    "text": "wrong",
+    "start": 233.2,
+    "duration": 4.439
+  },
+  {
+    "text": "[Music]",
+    "start": 234.41,
+    "duration": 3.229
+  },
+  {
+    "text": "haha it's me danny i want to die but i",
+    "start": 238.159,
+    "duration": 5.201
+  },
+  {
+    "text": "finally got the multiplayer up and going",
+    "start": 241.439,
+    "duration": 3.121
+  },
+  {
+    "text": "so there's that",
+    "start": 243.36,
+    "duration": 3.519
+  },
+  {
+    "text": "and i've also added some particles using",
+    "start": 244.56,
+    "duration": 4.319
+  },
+  {
+    "text": "unity's particle system a great system",
+    "start": 246.879,
+    "duration": 4.321
+  },
+  {
+    "text": "for making particles and also made some",
+    "start": 248.879,
+    "duration": 7.36
+  },
+  {
+    "text": "highly highly advanced player animations",
+    "start": 251.2,
+    "duration": 5.039
+  },
+  {
+    "text": "the game looks really wacky and bland",
+    "start": 258.479,
+    "duration": 3.121
+  },
+  {
+    "text": "right now though so",
+    "start": 260.479,
+    "duration": 2.72
+  },
+  {
+    "text": "i found this awesome grass shader",
+    "start": 261.6,
+    "duration": 3.76
+  },
+  {
+    "text": "tutorial by minions art so",
+    "start": 263.199,
+    "duration": 4.321
+  },
+  {
+    "text": "we're just gonna go ahead and follow",
+    "start": 265.36,
+    "duration": 5.119
+  },
+  {
+    "text": "along with the tutorial",
+    "start": 267.52,
+    "duration": 4.8
+  },
+  {
+    "text": "and the game now looks so much better",
+    "start": 270.479,
+    "duration": 3.681
+  },
+  {
+    "text": "and more alive so thanks for the grass",
+    "start": 272.32,
+    "duration": 3.28
+  },
+  {
+    "text": "shader minions art",
+    "start": 274.16,
+    "duration": 4.08
+  },
+  {
+    "text": "very cool i also modeled a rock and we",
+    "start": 275.6,
+    "duration": 4.879
+  },
+  {
+    "text": "can now slap tree and smack rock to",
+    "start": 278.24,
+    "duration": 4.16
+  },
+  {
+    "text": "gather resources which can be used for",
+    "start": 280.479,
+    "duration": 3.28
+  },
+  {
+    "text": "building different things like a",
+    "start": 282.4,
+    "duration": 3.68
+  },
+  {
+    "text": "workbench or a chest or buildings",
+    "start": 283.759,
+    "duration": 3.921
+  },
+  {
+    "text": "then i made it so you can see where all",
+    "start": 286.08,
+    "duration": 3.28
+  },
+  {
+    "text": "of the other players are facing and it",
+    "start": 287.68,
+    "duration": 4.16
+  },
+  {
+    "text": "now works like a charm",
+    "start": 289.36,
+    "duration": 4.96
+  },
+  {
+    "text": "yeah no yeah no let's try that again and",
+    "start": 291.84,
+    "duration": 3.44
+  },
+  {
+    "text": "uh that's",
+    "start": 294.32,
+    "duration": 3.84
+  },
+  {
+    "text": "no nope what the [ __ ] so we can finally",
+    "start": 295.28,
+    "duration": 3.68
+  },
+  {
+    "text": "start adding",
+    "start": 298.16,
+    "duration": 2.8
+  },
+  {
+    "text": "enemies which uh it should be pretty",
+    "start": 298.96,
+    "duration": 4.16
+  },
+  {
+    "text": "easy to do",
+    "start": 300.96,
+    "duration": 4.4
+  },
+  {
+    "text": "so i made an enemy which is just a cube",
+    "start": 303.12,
+    "duration": 3.6
+  },
+  {
+    "text": "not just any cube though",
+    "start": 305.36,
+    "duration": 3.679
+  },
+  {
+    "text": "he's a cool cube i modeled a proper",
+    "start": 306.72,
+    "duration": 4.24
+  },
+  {
+    "text": "enemy made some particles using unity's",
+    "start": 309.039,
+    "duration": 3.521
+  },
+  {
+    "text": "particle system and here is what it",
+    "start": 310.96,
+    "duration": 2.959
+  },
+  {
+    "text": "looks like in game",
+    "start": 312.56,
+    "duration": 3.359
+  },
+  {
+    "text": "now before adding more enemies i also",
+    "start": 313.919,
+    "duration": 3.761
+  },
+  {
+    "text": "added a bunch of different ores that you",
+    "start": 315.919,
+    "duration": 3.441
+  },
+  {
+    "text": "can mine and by putting the oars into",
+    "start": 317.68,
+    "duration": 3.359
+  },
+  {
+    "text": "the furnace you can turn them into metal",
+    "start": 319.36,
+    "duration": 3.279
+  },
+  {
+    "text": "and use that to make better tools",
+    "start": 321.039,
+    "duration": 2.961
+  },
+  {
+    "text": "which can be used to get better",
+    "start": 322.639,
+    "duration": 3.12
+  },
+  {
+    "text": "resources and there's also a bunch of",
+    "start": 324.0,
+    "duration": 2.56
+  },
+  {
+    "text": "new trees",
+    "start": 325.759,
+    "duration": 2.72
+  },
+  {
+    "text": "so we finally have most of the core",
+    "start": 326.56,
+    "duration": 3.04
+  },
+  {
+    "text": "mechanics but",
+    "start": 328.479,
+    "duration": 3.28
+  },
+  {
+    "text": "what's the actual gameplay going to be",
+    "start": 329.6,
+    "duration": 4.64
+  },
+  {
+    "text": "like i really enjoy survival games like",
+    "start": 331.759,
+    "duration": 4.961
+  },
+  {
+    "text": "valheim minecraft and so on but",
+    "start": 334.24,
+    "duration": 5.04
+  },
+  {
+    "text": "i also really like roguelike games like",
+    "start": 336.72,
+    "duration": 5.28
+  },
+  {
+    "text": "risk of rain and risk of rain because",
+    "start": 339.28,
+    "duration": 5.04
+  },
+  {
+    "text": "it's a great game so what if we combine",
+    "start": 342.0,
+    "duration": 3.28
+  },
+  {
+    "text": "survival",
+    "start": 344.32,
+    "duration": 3.52
+  },
+  {
+    "text": "with roguelike now if you don't know a",
+    "start": 345.28,
+    "duration": 4.32
+  },
+  {
+    "text": "roguelike is pretty much where every",
+    "start": 347.84,
+    "duration": 3.199
+  },
+  {
+    "text": "time you play you start from the",
+    "start": 349.6,
+    "duration": 2.8
+  },
+  {
+    "text": "beginning with nothing",
+    "start": 351.039,
+    "duration": 2.88
+  },
+  {
+    "text": "usually fighting through waves of",
+    "start": 352.4,
+    "duration": 3.44
+  },
+  {
+    "text": "enemies and unlocking items and power",
+    "start": 353.919,
+    "duration": 2.801
+  },
+  {
+    "text": "ups on the way",
+    "start": 355.84,
+    "duration": 3.28
+  },
+  {
+    "text": "and inevitably dying or winning at the",
+    "start": 356.72,
+    "duration": 3.52
+  },
+  {
+    "text": "end of your session",
+    "start": 359.12,
+    "duration": 3.28
+  },
+  {
+    "text": "so let's work on a roguelike aspect of",
+    "start": 360.24,
+    "duration": 3.84
+  },
+  {
+    "text": "the game and we're going to start off by",
+    "start": 362.4,
+    "duration": 3.76
+  },
+  {
+    "text": "adding loot chests with power ups to",
+    "start": 364.08,
+    "duration": 3.839
+  },
+  {
+    "text": "give all the players a crippling",
+    "start": 366.16,
+    "duration": 4.0
+  },
+  {
+    "text": "gambling addiction so i made four tiers",
+    "start": 367.919,
+    "duration": 4.161
+  },
+  {
+    "text": "of chests and a bunch of different power",
+    "start": 370.16,
+    "duration": 3.36
+  },
+  {
+    "text": "ups with different effects",
+    "start": 372.08,
+    "duration": 3.6
+  },
+  {
+    "text": "so shoes give you movement speed peanut",
+    "start": 373.52,
+    "duration": 3.6
+  },
+  {
+    "text": "butter is uh",
+    "start": 375.68,
+    "duration": 4.72
+  },
+  {
+    "text": "kinda sus milk makes your bones thick",
+    "start": 377.12,
+    "duration": 5.68
+  },
+  {
+    "text": "which uh increases your defense of",
+    "start": 380.4,
+    "duration": 4.79
+  },
+  {
+    "text": "course drink your milk kids",
+    "start": 382.8,
+    "duration": 5.56
+  },
+  {
+    "text": "[Music]",
+    "start": 385.19,
+    "duration": 3.17
+  },
+  {
+    "text": "adrenaline which falling below 30 hp to",
+    "start": 389.759,
+    "duration": 6.321
+  },
+  {
+    "text": "wait a second wha what's that enhance oh",
+    "start": 392.96,
+    "duration": 5.28
+  },
+  {
+    "text": "you don't know what caused it",
+    "start": 396.08,
+    "duration": 4.239
+  },
+  {
+    "text": "so uh currently to play multiplayer you",
+    "start": 398.24,
+    "duration": 4.0
+  },
+  {
+    "text": "need to do port forwarding and",
+    "start": 400.319,
+    "duration": 4.081
+  },
+  {
+    "text": "let's be real here my average viewer is",
+    "start": 402.24,
+    "duration": 4.88
+  },
+  {
+    "text": "like seven years old and has no idea how",
+    "start": 404.4,
+    "duration": 3.68
+  },
+  {
+    "text": "to do that",
+    "start": 407.12,
+    "duration": 3.199
+  },
+  {
+    "text": "but luckily we can avoid this by just",
+    "start": 408.08,
+    "duration": 4.16
+  },
+  {
+    "text": "releasing the game on steam so first",
+    "start": 410.319,
+    "duration": 4.641
+  },
+  {
+    "text": "there's a small fee of",
+    "start": 412.24,
+    "duration": 4.959
+  },
+  {
+    "text": "a hundred dollars so my left kidney has",
+    "start": 414.96,
+    "duration": 3.12
+  },
+  {
+    "text": "been sold but",
+    "start": 417.199,
+    "duration": 3.28
+  },
+  {
+    "text": "i don't have a name for the game yet so",
+    "start": 418.08,
+    "duration": 3.44
+  },
+  {
+    "text": "let's just call it",
+    "start": 420.479,
+    "duration": 3.12
+  },
+  {
+    "text": "island then we set up a store page with",
+    "start": 421.52,
+    "duration": 3.76
+  },
+  {
+    "text": "all of the necessary information and",
+    "start": 423.599,
+    "duration": 3.521
+  },
+  {
+    "text": "submit it for review which they should",
+    "start": 425.28,
+    "duration": 3.359
+  },
+  {
+    "text": "accept instantly",
+    "start": 427.12,
+    "duration": 5.6
+  },
+  {
+    "text": "failure what the [ __ ] jeremy",
+    "start": 428.639,
+    "duration": 5.921
+  },
+  {
+    "text": "and after calmly resolving the issue",
+    "start": 432.72,
+    "duration": 3.36
+  },
+  {
+    "text": "with germany we now have a",
+    "start": 434.56,
+    "duration": 3.84
+  },
+  {
+    "text": "steam page for the game wishes on steam",
+    "start": 436.08,
+    "duration": 3.119
+  },
+  {
+    "text": "now",
+    "start": 438.4,
+    "duration": 3.199
+  },
+  {
+    "text": "gamers anyway we need some food to eat",
+    "start": 439.199,
+    "duration": 4.4
+  },
+  {
+    "text": "in the game so i modeled a cow",
+    "start": 441.599,
+    "duration": 3.761
+  },
+  {
+    "text": "made some animations and they should now",
+    "start": 443.599,
+    "duration": 6.561
+  },
+  {
+    "text": "be walking around normally they're",
+    "start": 445.36,
+    "duration": 5.44
+  },
+  {
+    "text": "acting so",
+    "start": 450.16,
+    "duration": 2.319
+  },
+  {
+    "text": "sassy like you walk up to them and",
+    "start": 450.8,
+    "duration": 3.679
+  },
+  {
+    "text": "they're like nah now here comes the",
+    "start": 452.479,
+    "duration": 3.201
+  },
+  {
+    "text": "first big issue i",
+    "start": 454.479,
+    "duration": 3.44
+  },
+  {
+    "text": "encountered i'm using steam to avoid",
+    "start": 455.68,
+    "duration": 3.44
+  },
+  {
+    "text": "opening ports but",
+    "start": 457.919,
+    "duration": 3.361
+  },
+  {
+    "text": "for this to work you need to use steam",
+    "start": 459.12,
+    "duration": 3.6
+  },
+  {
+    "text": "networking which means",
+    "start": 461.28,
+    "duration": 3.759
+  },
+  {
+    "text": "i have to rewrite my entire networking",
+    "start": 462.72,
+    "duration": 3.919
+  },
+  {
+    "text": "code to work with steam",
+    "start": 465.039,
+    "duration": 3.041
+  },
+  {
+    "text": "but don't worry i'm sure the steam",
+    "start": 466.639,
+    "duration": 4.0
+  },
+  {
+    "text": "documentation is",
+    "start": 468.08,
+    "duration": 4.959
+  },
+  {
+    "text": "luckily for us though gary newman behind",
+    "start": 470.639,
+    "duration": 4.481
+  },
+  {
+    "text": "gmod has made another",
+    "start": 473.039,
+    "duration": 5.121
+  },
+  {
+    "text": "c-sharp steamworks implementation",
+    "start": 475.12,
+    "duration": 6.24
+  },
+  {
+    "text": "our c-sharp steamworks implementation",
+    "start": 478.16,
+    "duration": 5.28
+  },
+  {
+    "text": "and after doing some terrible code",
+    "start": 481.36,
+    "duration": 4.16
+  },
+  {
+    "text": "surgery the game now finally works",
+    "start": 483.44,
+    "duration": 2.8
+  },
+  {
+    "text": "through steam",
+    "start": 485.52,
+    "duration": 2.64
+  },
+  {
+    "text": "might not be working well but but it's",
+    "start": 486.24,
+    "duration": 3.92
+  },
+  {
+    "text": "working and you don't even have to open",
+    "start": 488.16,
+    "duration": 4.879
+  },
+  {
+    "text": "any ports but i still don't have a name",
+    "start": 490.16,
+    "duration": 4.96
+  },
+  {
+    "text": "for the game yet so i need to find",
+    "start": 493.039,
+    "duration": 2.88
+  },
+  {
+    "text": "something that",
+    "start": 495.12,
+    "duration": 4.079
+  },
+  {
+    "text": "sounds good muk muk what's what's mock",
+    "start": 495.919,
+    "duration": 5.361
+  },
+  {
+    "text": "mock i mean i'm releasing the game on",
+    "start": 499.199,
+    "duration": 3.84
+  },
+  {
+    "text": "steam i can't just call it muck i need",
+    "start": 501.28,
+    "duration": 3.56
+  },
+  {
+    "text": "to keep it professional",
+    "start": 503.039,
+    "duration": 4.801
+  },
+  {
+    "text": "like",
+    "start": 504.84,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 511.0,
+    "duration": 6.76
+  },
+  {
+    "text": "so i message steam hi i'd like to change",
+    "start": 514.959,
+    "duration": 4.0
+  },
+  {
+    "text": "the application name to",
+    "start": 517.76,
+    "duration": 4.0
+  },
+  {
+    "text": "i mean muck they replied with hi thanks",
+    "start": 518.959,
+    "duration": 3.921
+  },
+  {
+    "text": "for reaching out",
+    "start": 521.76,
+    "duration": 4.32
+  },
+  {
+    "text": "why though do you want to name it muck",
+    "start": 522.88,
+    "duration": 6.24
+  },
+  {
+    "text": "jeremy to which i responded hi jeremy",
+    "start": 526.08,
+    "duration": 6.96
+  },
+  {
+    "text": "muk muk and so i got all the formalities",
+    "start": 529.12,
+    "duration": 4.24
+  },
+  {
+    "text": "done",
+    "start": 533.04,
+    "duration": 4.56
+  },
+  {
+    "text": "and muck is now available on steam",
+    "start": 533.36,
+    "duration": 6.0
+  },
+  {
+    "text": "on another note i finally got the",
+    "start": 537.6,
+    "duration": 3.359
+  },
+  {
+    "text": "building system to work much better",
+    "start": 539.36,
+    "duration": 3.68
+  },
+  {
+    "text": "which was done using snapping positions",
+    "start": 540.959,
+    "duration": 3.361
+  },
+  {
+    "text": "on the different pieces",
+    "start": 543.04,
+    "duration": 3.84
+  },
+  {
+    "text": "old code go bye bye the animations have",
+    "start": 544.32,
+    "duration": 3.76
+  },
+  {
+    "text": "also been improved and",
+    "start": 546.88,
+    "duration": 4.56
+  },
+  {
+    "text": "are now working great",
+    "start": 548.08,
+    "duration": 3.36
+  },
+  {
+    "text": "[Laughter]",
+    "start": 552.28,
+    "duration": 4.04
+  },
+  {
+    "text": "i also set up a main menu with me and",
+    "start": 554.08,
+    "duration": 3.439
+  },
+  {
+    "text": "the boys t-posing",
+    "start": 556.32,
+    "duration": 2.959
+  },
+  {
+    "text": "and the menu is fully functional with",
+    "start": 557.519,
+    "duration": 4.0
+  },
+  {
+    "text": "settings that actually work and a lobby",
+    "start": 559.279,
+    "duration": 4.081
+  },
+  {
+    "text": "system integrated with steam you can",
+    "start": 561.519,
+    "duration": 3.201
+  },
+  {
+    "text": "change the settings and you can do",
+    "start": 563.36,
+    "duration": 3.2
+  },
+  {
+    "text": "whatever we can start the game which",
+    "start": 564.72,
+    "duration": 3.52
+  },
+  {
+    "text": "will randomly generate the world and",
+    "start": 566.56,
+    "duration": 3.76
+  },
+  {
+    "text": "send you and the boys into the game",
+    "start": 568.24,
+    "duration": 3.68
+  },
+  {
+    "text": "to set up the actual back end of the",
+    "start": 570.32,
+    "duration": 3.84
+  },
+  {
+    "text": "lobby itself i found a great tutorial by",
+    "start": 571.92,
+    "duration": 2.479
+  },
+  {
+    "text": "b",
+    "start": 574.16,
+    "duration": 2.16
+  },
+  {
+    "text": "thomas on how to set it up with the face",
+    "start": 574.399,
+    "duration": 4.161
+  },
+  {
+    "text": "punch c sharp steamworks implementation",
+    "start": 576.32,
+    "duration": 4.56
+  },
+  {
+    "text": "now we've got a bit of a problem i kind",
+    "start": 578.56,
+    "duration": 3.77
+  },
+  {
+    "text": "of broke my evan king",
+    "start": 580.88,
+    "duration": 4.539
+  },
+  {
+    "text": "[Music]",
+    "start": 582.33,
+    "duration": 3.089
+  },
+  {
+    "text": "wait",
+    "start": 588.839,
+    "duration": 3.0
+  },
+  {
+    "text": "so i had to make some quick music myself",
+    "start": 592.56,
+    "duration": 4.48
+  },
+  {
+    "text": "and boy what a peaceful main menu we",
+    "start": 594.72,
+    "duration": 3.679
+  },
+  {
+    "text": "have created",
+    "start": 597.04,
+    "duration": 3.2
+  },
+  {
+    "text": "we also need some sound effects so let's",
+    "start": 598.399,
+    "duration": 3.44
+  },
+  {
+    "text": "find some first off i'd like a sound",
+    "start": 600.24,
+    "duration": 3.2
+  },
+  {
+    "text": "effect for eating foods so",
+    "start": 601.839,
+    "duration": 4.961
+  },
+  {
+    "text": "let's see what we got here chip grab and",
+    "start": 603.44,
+    "duration": 6.639
+  },
+  {
+    "text": "eat child",
+    "start": 606.8,
+    "duration": 3.279
+  },
+  {
+    "text": "i added some mushroom that you can pick",
+    "start": 611.44,
+    "duration": 3.839
+  },
+  {
+    "text": "up sugar mushroom",
+    "start": 613.04,
+    "duration": 5.76
+  },
+  {
+    "text": "sugar these nuts boy so i also added a",
+    "start": 615.279,
+    "duration": 5.601
+  },
+  {
+    "text": "new enemy he's called dave",
+    "start": 618.8,
+    "duration": 3.84
+  },
+  {
+    "text": "don't ask why we don't we don't speak",
+    "start": 620.88,
+    "duration": 3.519
+  },
+  {
+    "text": "about dave around these parts",
+    "start": 622.64,
+    "duration": 3.6
+  },
+  {
+    "text": "i also added a bunch more enemies to",
+    "start": 624.399,
+    "duration": 3.601
+  },
+  {
+    "text": "make the gameplay more interesting",
+    "start": 626.24,
+    "duration": 5.12
+  },
+  {
+    "text": "but something's missing boss fights so i",
+    "start": 628.0,
+    "duration": 4.24
+  },
+  {
+    "text": "made a big",
+    "start": 631.36,
+    "duration": 3.84
+  },
+  {
+    "text": "chunky boy he's really big in fat so i",
+    "start": 632.24,
+    "duration": 5.68
+  },
+  {
+    "text": "think i'm gonna call him your mom",
+    "start": 635.2,
+    "duration": 4.56
+  },
+  {
+    "text": "anyway i gave him some animations made",
+    "start": 637.92,
+    "duration": 3.599
+  },
+  {
+    "text": "some particles using unity's particle",
+    "start": 639.76,
+    "duration": 3.199
+  },
+  {
+    "text": "system and big chunk",
+    "start": 641.519,
+    "duration": 4.241
+  },
+  {
+    "text": "is now finished and is it just me or is",
+    "start": 642.959,
+    "duration": 3.201
+  },
+  {
+    "text": "big",
+    "start": 645.76,
+    "duration": 4.56
+  },
+  {
+    "text": "chunk looking kind of fit",
+    "start": 646.16,
+    "duration": 4.16
+  },
+  {
+    "text": "i might have made him a bit too strong",
+    "start": 653.76,
+    "duration": 3.6
+  },
+  {
+    "text": "and hard to fight but don't worry he'll",
+    "start": 655.279,
+    "duration": 3.521
+  },
+  {
+    "text": "he'll die eventually",
+    "start": 657.36,
+    "duration": 4.88
+  },
+  {
+    "text": "oh okay see you later i guess",
+    "start": 658.8,
+    "duration": 5.52
+  },
+  {
+    "text": "bye bye and finally i just added a bunch",
+    "start": 662.24,
+    "duration": 3.52
+  },
+  {
+    "text": "of new weapons power-ups",
+    "start": 664.32,
+    "duration": 3.44
+  },
+  {
+    "text": "items enemies and more i'd love to do",
+    "start": 665.76,
+    "duration": 3.92
+  },
+  {
+    "text": "more but making a game like this is",
+    "start": 667.76,
+    "duration": 3.36
+  },
+  {
+    "text": "pretty damn hard and slow",
+    "start": 669.68,
+    "duration": 3.68
+  },
+  {
+    "text": "and i have to finish this video so i",
+    "start": 671.12,
+    "duration": 3.76
+  },
+  {
+    "text": "don't really have time for much more i",
+    "start": 673.36,
+    "duration": 3.039
+  },
+  {
+    "text": "might do some updates though but if you",
+    "start": 674.88,
+    "duration": 3.04
+  },
+  {
+    "text": "want to download and play muk with the",
+    "start": 676.399,
+    "duration": 3.281
+  },
+  {
+    "text": "boys it's completely free and released",
+    "start": 677.92,
+    "duration": 3.359
+  },
+  {
+    "text": "today so there's a download link in the",
+    "start": 679.68,
+    "duration": 2.96
+  },
+  {
+    "text": "description down below if you want to go",
+    "start": 681.279,
+    "duration": 1.921
+  },
+  {
+    "text": "download",
+    "start": 682.64,
+    "duration": 2.72
+  },
+  {
+    "text": "or you can just search for muk on steam",
+    "start": 683.2,
+    "duration": 3.92
+  },
+  {
+    "text": "be warned though it's not really that",
+    "start": 685.36,
+    "duration": 2.96
+  },
+  {
+    "text": "good of a game but",
+    "start": 687.12,
+    "duration": 3.839
+  },
+  {
+    "text": "i i it's kind of fun maybe a little bit",
+    "start": 688.32,
+    "duration": 3.04
+  },
+  {
+    "text": "also",
+    "start": 690.959,
+    "duration": 2.0
+  },
+  {
+    "text": "massive shout out to everyone who helped",
+    "start": 691.36,
+    "duration": 3.599
+  },
+  {
+    "text": "me test the game there's a lot of you so",
+    "start": 692.959,
+    "duration": 3.761
+  },
+  {
+    "text": "uh yeah you know who you are you can",
+    "start": 694.959,
+    "duration": 3.041
+  },
+  {
+    "text": "probably find your name in the credits",
+    "start": 696.72,
+    "duration": 3.119
+  },
+  {
+    "text": "of the game but i'm gonna leave you with",
+    "start": 698.0,
+    "duration": 2.839
+  },
+  {
+    "text": "some gameplay",
+    "start": 699.839,
+    "duration": 4.481
+  },
+  {
+    "text": "enjoy you huh i'm jumping in bro i'm",
+    "start": 700.839,
+    "duration": 5.721
+  },
+  {
+    "text": "jumping",
+    "start": 704.32,
+    "duration": 2.24
+  },
+  {
+    "text": "come on i fight for my death that's true",
+    "start": 707.04,
+    "duration": 6.16
+  },
+  {
+    "text": "i'm going in",
+    "start": 710.48,
+    "duration": 2.72
+  },
+  {
+    "text": "oh downtown god what are you worried",
+    "start": 715.279,
+    "duration": 4.0
+  },
+  {
+    "text": "about go ahead i have",
+    "start": 717.279,
+    "duration": 4.721
+  },
+  {
+    "text": "210 hp all right actually you might",
+    "start": 719.279,
+    "duration": 4.0
+  },
+  {
+    "text": "survive with the armor",
+    "start": 722.0,
+    "duration": 3.6
+  },
+  {
+    "text": "maybe",
+    "start": 723.279,
+    "duration": 2.321
+  },
+  {
+    "text": "danny hell oh i got you bro let's go",
+    "start": 727.839,
+    "duration": 4.641
+  },
+  {
+    "text": "uh jack we got a situation",
+    "start": 732.959,
+    "duration": 8.241
+  },
+  {
+    "text": "what's up no yes so um",
+    "start": 737.68,
+    "duration": 5.36
+  },
+  {
+    "text": "it's been a bit of a hostile takeover of",
+    "start": 741.2,
+    "duration": 5.6
+  },
+  {
+    "text": "the hut hustle takeoff",
+    "start": 743.04,
+    "duration": 3.76
+  },
+  {
+    "text": "right they're destroying everything no",
+    "start": 747.279,
+    "duration": 3.441
+  },
+  {
+    "text": "oh no",
+    "start": 749.519,
+    "duration": 4.241
+  },
+  {
+    "text": "i'm grabbing all my stuff i'm moving out",
+    "start": 750.72,
+    "duration": 9.119
+  },
+  {
+    "text": "are you just leaving me behind yeah",
+    "start": 753.76,
+    "duration": 6.079
+  },
+  {
+    "text": "boys this one",
+    "start": 770.839,
+    "duration": 2.521
+  },
+  {
+    "text": "anyway that's gonna be it for me i hope",
+    "start": 777.279,
+    "duration": 2.961
+  },
+  {
+    "text": "you enjoyed this video thanks a lot for",
+    "start": 778.72,
+    "duration": 3.359
+  },
+  {
+    "text": "watching smash like if you like smash",
+    "start": 780.24,
+    "duration": 3.44
+  },
+  {
+    "text": "dislike if you don't and as always",
+    "start": 782.079,
+    "duration": 4.551
+  },
+  {
+    "text": "drink milk hit billy and beat your",
+    "start": 783.68,
+    "duration": 11.32
+  },
+  {
+    "text": "[Music]",
+    "start": 786.63,
+    "duration": 8.37
+  },
+  {
+    "text": "goddamn",
+    "start": 795.24,
+    "duration": 3.0
+  }
+]

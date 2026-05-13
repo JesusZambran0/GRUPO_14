@@ -1,0 +1,1312 @@
+[
+  {
+    "text": "Another day, another startup. Recently,",
+    "start": 0.0,
+    "duration": 5.04
+  },
+  {
+    "text": "I moved to Malaysia and from there, I've",
+    "start": 2.879,
+    "duration": 3.761
+  },
+  {
+    "text": "pretty much been spending most of my",
+    "start": 5.04,
+    "duration": 3.92
+  },
+  {
+    "text": "time coding my latest project. And it's",
+    "start": 6.64,
+    "duration": 4.16
+  },
+  {
+    "text": "been super fun hacking away at something",
+    "start": 8.96,
+    "duration": 3.36
+  },
+  {
+    "text": "new again. And luckily, I've been",
+    "start": 10.8,
+    "duration": 3.28
+  },
+  {
+    "text": "documenting the whole journey from",
+    "start": 12.32,
+    "duration": 3.6
+  },
+  {
+    "text": "coming up with the app idea to building",
+    "start": 14.08,
+    "duration": 3.6
+  },
+  {
+    "text": "the app to getting that first paying",
+    "start": 15.92,
+    "duration": 3.519
+  },
+  {
+    "text": "customer. In this video, I'll show you",
+    "start": 17.68,
+    "duration": 3.759
+  },
+  {
+    "text": "every step of the process so you get an",
+    "start": 19.439,
+    "duration": 4.08
+  },
+  {
+    "text": "idea of what it takes to build and ship",
+    "start": 21.439,
+    "duration": 4.721
+  },
+  {
+    "text": "a profitable app from scratch completely",
+    "start": 23.519,
+    "duration": 4.401
+  },
+  {
+    "text": "solo. And feel free to stick around",
+    "start": 26.16,
+    "duration": 3.68
+  },
+  {
+    "text": "until the end to see how much money my",
+    "start": 27.92,
+    "duration": 4.24
+  },
+  {
+    "text": "app actually made. My app idea is just a",
+    "start": 29.84,
+    "duration": 4.16
+  },
+  {
+    "text": "simple tool that allows me to download",
+    "start": 32.16,
+    "duration": 4.0
+  },
+  {
+    "text": "video transcripts in bulk from YouTube",
+    "start": 34.0,
+    "duration": 3.92
+  },
+  {
+    "text": "channels or playlists. And you're",
+    "start": 36.16,
+    "duration": 3.44
+  },
+  {
+    "text": "probably asking, why do I want a tool",
+    "start": 37.92,
+    "duration": 3.92
+  },
+  {
+    "text": "like this? Well, it's no secret that",
+    "start": 39.6,
+    "duration": 4.32
+  },
+  {
+    "text": "YouTube is a gold mine of knowledge and",
+    "start": 41.84,
+    "duration": 3.84
+  },
+  {
+    "text": "information, but it's all trapped in",
+    "start": 43.92,
+    "duration": 4.08
+  },
+  {
+    "text": "video format. So, I'm building this tool",
+    "start": 45.68,
+    "duration": 4.48
+  },
+  {
+    "text": "for one main reason. I want a quick and",
+    "start": 48.0,
+    "duration": 4.559
+  },
+  {
+    "text": "easy way to extract all this gold from",
+    "start": 50.16,
+    "duration": 5.28
+  },
+  {
+    "text": "YouTube videos in text format so that I",
+    "start": 52.559,
+    "duration": 5.041
+  },
+  {
+    "text": "can feed this data directly into my own",
+    "start": 55.44,
+    "duration": 4.16
+  },
+  {
+    "text": "custom AI models to help me with",
+    "start": 57.6,
+    "duration": 3.84
+  },
+  {
+    "text": "everyday tasks like writing better",
+    "start": 59.6,
+    "duration": 4.48
+  },
+  {
+    "text": "YouTube scripts or creating custom AI",
+    "start": 61.44,
+    "duration": 4.96
+  },
+  {
+    "text": "agents to help me with my startups. Then",
+    "start": 64.08,
+    "duration": 3.92
+  },
+  {
+    "text": "after giving it some more thought, I",
+    "start": 66.4,
+    "duration": 3.36
+  },
+  {
+    "text": "know I'm not the only one who needs this",
+    "start": 68.0,
+    "duration": 3.6
+  },
+  {
+    "text": "tool. Pretty much anyone wanting to",
+    "start": 69.76,
+    "duration": 3.76
+  },
+  {
+    "text": "train their own custom AI models with",
+    "start": 71.6,
+    "duration": 3.68
+  },
+  {
+    "text": "YouTube content is facing the same",
+    "start": 73.52,
+    "duration": 3.76
+  },
+  {
+    "text": "problem. Manual transcript extraction",
+    "start": 75.28,
+    "duration": 4.0
+  },
+  {
+    "text": "from YouTube is painfully slow and",
+    "start": 77.28,
+    "duration": 4.08
+  },
+  {
+    "text": "tedious and currently there aren't many",
+    "start": 79.28,
+    "duration": 3.68
+  },
+  {
+    "text": "good solutions out there. So then I",
+    "start": 81.36,
+    "duration": 3.119
+  },
+  {
+    "text": "thought why not try building this tool",
+    "start": 82.96,
+    "duration": 3.6
+  },
+  {
+    "text": "myself. It solves a real problem I am",
+    "start": 84.479,
+    "duration": 3.601
+  },
+  {
+    "text": "facing and it could potentially be",
+    "start": 86.56,
+    "duration": 3.28
+  },
+  {
+    "text": "another stream of income if I execute",
+    "start": 88.08,
+    "duration": 3.679
+  },
+  {
+    "text": "and market it well to the other users",
+    "start": 89.84,
+    "duration": 3.76
+  },
+  {
+    "text": "who are facing the same problem. But",
+    "start": 91.759,
+    "duration": 3.441
+  },
+  {
+    "text": "before I start building, I need to do",
+    "start": 93.6,
+    "duration": 3.36
+  },
+  {
+    "text": "some quick market research to see what",
+    "start": 95.2,
+    "duration": 3.84
+  },
+  {
+    "text": "my competitors are offering. First,",
+    "start": 96.96,
+    "duration": 4.4
+  },
+  {
+    "text": "there's YouTube transcript.io IO, which",
+    "start": 99.04,
+    "duration": 4.399
+  },
+  {
+    "text": "offers bulk downloading but requires a",
+    "start": 101.36,
+    "duration": 4.079
+  },
+  {
+    "text": "subscription with a credit system. So, I",
+    "start": 103.439,
+    "duration": 3.68
+  },
+  {
+    "text": "can definitely see an opportunity for my",
+    "start": 105.439,
+    "duration": 3.68
+  },
+  {
+    "text": "app to compete by offering a simpler",
+    "start": 107.119,
+    "duration": 3.601
+  },
+  {
+    "text": "pricing model. And from looking at their",
+    "start": 109.119,
+    "duration": 3.801
+  },
+  {
+    "text": "landing page, they report having over",
+    "start": 110.72,
+    "duration": 4.8
+  },
+  {
+    "text": "350,000 users worldwide, which is a",
+    "start": 112.92,
+    "duration": 4.44
+  },
+  {
+    "text": "clear sign there's already real demand",
+    "start": 115.52,
+    "duration": 4.0
+  },
+  {
+    "text": "for this type of product. This gives me",
+    "start": 117.36,
+    "duration": 4.0
+  },
+  {
+    "text": "even more confidence in my idea and",
+    "start": 119.52,
+    "duration": 4.0
+  },
+  {
+    "text": "extra motivation to compete with them to",
+    "start": 121.36,
+    "duration": 3.92
+  },
+  {
+    "text": "take a slice of the market. There are",
+    "start": 123.52,
+    "duration": 3.84
+  },
+  {
+    "text": "also other sites like Note GBT and",
+    "start": 125.28,
+    "duration": 4.0
+  },
+  {
+    "text": "Tactic, but those sites only let you",
+    "start": 127.36,
+    "duration": 3.84
+  },
+  {
+    "text": "download transcripts. one video at a",
+    "start": 129.28,
+    "duration": 3.76
+  },
+  {
+    "text": "time. So, my approach will be simple.",
+    "start": 131.2,
+    "duration": 3.52
+  },
+  {
+    "text": "Create a tool with a simpler pricing",
+    "start": 133.04,
+    "duration": 3.839
+  },
+  {
+    "text": "model and a super clean interface that",
+    "start": 134.72,
+    "duration": 4.08
+  },
+  {
+    "text": "makes downloading YouTube transcripts in",
+    "start": 136.879,
+    "duration": 4.641
+  },
+  {
+    "text": "bulk cheap, quick, and painless. After",
+    "start": 138.8,
+    "duration": 4.88
+  },
+  {
+    "text": "scouting out my competitors, I was ready",
+    "start": 141.52,
+    "duration": 4.079
+  },
+  {
+    "text": "to jump into my code editor and start",
+    "start": 143.68,
+    "duration": 3.76
+  },
+  {
+    "text": "building. But before I could write a",
+    "start": 145.599,
+    "duration": 3.601
+  },
+  {
+    "text": "single line of code, I had to plan out",
+    "start": 147.44,
+    "duration": 3.439
+  },
+  {
+    "text": "what the first version of my app would",
+    "start": 149.2,
+    "duration": 3.84
+  },
+  {
+    "text": "be like. Otherwise, I'll either end up",
+    "start": 150.879,
+    "duration": 3.921
+  },
+  {
+    "text": "building something that's not useful, or",
+    "start": 153.04,
+    "duration": 3.6
+  },
+  {
+    "text": "I'll constantly get distracted adding",
+    "start": 154.8,
+    "duration": 3.76
+  },
+  {
+    "text": "shiny new features that don't actually",
+    "start": 156.64,
+    "duration": 3.84
+  },
+  {
+    "text": "solve the root problem. I prefer using",
+    "start": 158.56,
+    "duration": 4.24
+  },
+  {
+    "text": "the SLC framework to plan the early",
+    "start": 160.48,
+    "duration": 4.24
+  },
+  {
+    "text": "versions of my app. I'm not a fan of",
+    "start": 162.8,
+    "duration": 4.159
+  },
+  {
+    "text": "shipping MVPs that are buggy at launch",
+    "start": 164.72,
+    "duration": 4.32
+  },
+  {
+    "text": "and don't do the key one to two features",
+    "start": 166.959,
+    "duration": 4.161
+  },
+  {
+    "text": "they promise just for the sake of speed",
+    "start": 169.04,
+    "duration": 4.4
+  },
+  {
+    "text": "or shipping fast. The SLC framework",
+    "start": 171.12,
+    "duration": 4.08
+  },
+  {
+    "text": "stands for simple, lovable, and",
+    "start": 173.44,
+    "duration": 3.519
+  },
+  {
+    "text": "complete. And I think it's a much better",
+    "start": 175.2,
+    "duration": 3.28
+  },
+  {
+    "text": "approach than just building something",
+    "start": 176.959,
+    "duration": 3.841
+  },
+  {
+    "text": "that's minimum and viable. For my app to",
+    "start": 178.48,
+    "duration": 3.92
+  },
+  {
+    "text": "be simple, it needs to have one",
+    "start": 180.8,
+    "duration": 3.6
+  },
+  {
+    "text": "straightforward path to solving the root",
+    "start": 182.4,
+    "duration": 4.0
+  },
+  {
+    "text": "problem, and that's extracting YouTube",
+    "start": 184.4,
+    "duration": 4.72
+  },
+  {
+    "text": "transcripts in bulk. This means users",
+    "start": 186.4,
+    "duration": 4.479
+  },
+  {
+    "text": "should be able to complete the task in",
+    "start": 189.12,
+    "duration": 4.0
+  },
+  {
+    "text": "as few steps or clicks as possible.",
+    "start": 190.879,
+    "duration": 4.64
+  },
+  {
+    "text": "Nobody likes using a halfbaked product",
+    "start": 193.12,
+    "duration": 4.56
+  },
+  {
+    "text": "for version one. This means users should",
+    "start": 195.519,
+    "duration": 3.521
+  },
+  {
+    "text": "be able to download thousands of",
+    "start": 197.68,
+    "duration": 3.6
+  },
+  {
+    "text": "transcripts quickly. My app won't be",
+    "start": 199.04,
+    "duration": 4.32
+  },
+  {
+    "text": "feature- packed at launch, but it will",
+    "start": 201.28,
+    "duration": 4.4
+  },
+  {
+    "text": "be complete. This means users should be",
+    "start": 203.36,
+    "duration": 4.239
+  },
+  {
+    "text": "able to sign up, make a purchase, and",
+    "start": 205.68,
+    "duration": 3.919
+  },
+  {
+    "text": "immediately download transcripts. This",
+    "start": 207.599,
+    "duration": 3.761
+  },
+  {
+    "text": "is the leanest possible version of my",
+    "start": 209.599,
+    "duration": 3.681
+  },
+  {
+    "text": "app and the goal is to provide value",
+    "start": 211.36,
+    "duration": 4.0
+  },
+  {
+    "text": "from day one and then iterate the",
+    "start": 213.28,
+    "duration": 3.84
+  },
+  {
+    "text": "product based on real feedback from",
+    "start": 215.36,
+    "duration": 4.0
+  },
+  {
+    "text": "users. Like I've said before, I'm aiming",
+    "start": 217.12,
+    "duration": 4.0
+  },
+  {
+    "text": "to ship a version one of something",
+    "start": 219.36,
+    "duration": 4.159
+  },
+  {
+    "text": "simple instead of a version 0.1 of",
+    "start": 221.12,
+    "duration": 4.16
+  },
+  {
+    "text": "something complex. Now that I have a",
+    "start": 223.519,
+    "duration": 3.841
+  },
+  {
+    "text": "basic plan in place, it's time to commit",
+    "start": 225.28,
+    "duration": 4.0
+  },
+  {
+    "text": "and secure a domain for the app. I",
+    "start": 227.36,
+    "duration": 3.48
+  },
+  {
+    "text": "decided to go with YouTube",
+    "start": 229.28,
+    "duration": 3.599
+  },
+  {
+    "text": "transcripts.io as it's short,",
+    "start": 230.84,
+    "duration": 4.44
+  },
+  {
+    "text": "descriptive, SEOfriendly, and doesn't",
+    "start": 232.879,
+    "duration": 4.321
+  },
+  {
+    "text": "break the bank. Now that the domain was",
+    "start": 235.28,
+    "duration": 3.36
+  },
+  {
+    "text": "purchased, it was time to start",
+    "start": 237.2,
+    "duration": 3.52
+  },
+  {
+    "text": "building. For this project, I'm using",
+    "start": 238.64,
+    "duration": 4.48
+  },
+  {
+    "text": "the standard web text stack, React and",
+    "start": 240.72,
+    "duration": 4.64
+  },
+  {
+    "text": "Next.js for my front end and API,",
+    "start": 243.12,
+    "duration": 3.88
+  },
+  {
+    "text": "Superbase for my database and",
+    "start": 245.36,
+    "duration": 3.84
+  },
+  {
+    "text": "authentication, and Stripe to handle",
+    "start": 247.0,
+    "duration": 4.28
+  },
+  {
+    "text": "payments. Normally, setting up my",
+    "start": 249.2,
+    "duration": 4.08
+  },
+  {
+    "text": "projects would take me a few hours to",
+    "start": 251.28,
+    "duration": 3.84
+  },
+  {
+    "text": "get everything connected and working.",
+    "start": 253.28,
+    "duration": 3.919
+  },
+  {
+    "text": "But this time, I am using Tempo to help",
+    "start": 255.12,
+    "duration": 3.92
+  },
+  {
+    "text": "me with the setup process, and I was",
+    "start": 257.199,
+    "duration": 3.841
+  },
+  {
+    "text": "able to get my OR, database, and",
+    "start": 259.04,
+    "duration": 4.08
+  },
+  {
+    "text": "payments all working in under 10",
+    "start": 261.04,
+    "duration": 3.84
+  },
+  {
+    "text": "minutes. All I had to do was click",
+    "start": 263.12,
+    "duration": 3.68
+  },
+  {
+    "text": "through their guided setup, paste in a",
+    "start": 264.88,
+    "duration": 4.4
+  },
+  {
+    "text": "few API keys and within minutes I had a",
+    "start": 266.8,
+    "duration": 4.24
+  },
+  {
+    "text": "fully functioning project with all the",
+    "start": 269.28,
+    "duration": 3.84
+  },
+  {
+    "text": "annoying stuff correctly configured.",
+    "start": 271.04,
+    "duration": 4.64
+  },
+  {
+    "text": "Then I gave a simple prompt to Tempo",
+    "start": 273.12,
+    "duration": 4.88
+  },
+  {
+    "text": "describing what my app does. And then it",
+    "start": 275.68,
+    "duration": 3.92
+  },
+  {
+    "text": "just starts generating the project",
+    "start": 278.0,
+    "duration": 3.919
+  },
+  {
+    "text": "files, documenting project requirements,",
+    "start": 279.6,
+    "duration": 4.72
+  },
+  {
+    "text": "and building out the UI. And honestly,",
+    "start": 281.919,
+    "duration": 4.081
+  },
+  {
+    "text": "the first version of the landing page",
+    "start": 284.32,
+    "duration": 3.92
+  },
+  {
+    "text": "tempo generated was pretty impressive.",
+    "start": 286.0,
+    "duration": 4.16
+  },
+  {
+    "text": "It wasn't perfect, but it was a solid",
+    "start": 288.24,
+    "duration": 3.679
+  },
+  {
+    "text": "starting point with a clean layout and",
+    "start": 290.16,
+    "duration": 3.92
+  },
+  {
+    "text": "some decent copy. From there, I gave the",
+    "start": 291.919,
+    "duration": 4.321
+  },
+  {
+    "text": "AI a few more prompts to refine some",
+    "start": 294.08,
+    "duration": 4.32
+  },
+  {
+    "text": "sections, like updating the feature",
+    "start": 296.24,
+    "duration": 4.08
+  },
+  {
+    "text": "section to better highlight what the app",
+    "start": 298.4,
+    "duration": 3.84
+  },
+  {
+    "text": "actually does, adding a use cases",
+    "start": 300.32,
+    "duration": 4.24
+  },
+  {
+    "text": "section and an FAQ section to answer",
+    "start": 302.24,
+    "duration": 4.64
+  },
+  {
+    "text": "common questions or objections up front.",
+    "start": 304.56,
+    "duration": 4.0
+  },
+  {
+    "text": "Before we move on, let me give you a",
+    "start": 306.88,
+    "duration": 3.599
+  },
+  {
+    "text": "quick tour of the Tempo UI. The",
+    "start": 308.56,
+    "duration": 4.0
+  },
+  {
+    "text": "interface is split into three tabs:",
+    "start": 310.479,
+    "duration": 4.16
+  },
+  {
+    "text": "product, design, and code. In the",
+    "start": 312.56,
+    "duration": 3.68
+  },
+  {
+    "text": "product tab, you can write out your",
+    "start": 314.639,
+    "duration": 3.84
+  },
+  {
+    "text": "product requirements, features, and even",
+    "start": 316.24,
+    "duration": 4.48
+  },
+  {
+    "text": "create full user flow diagrams of your",
+    "start": 318.479,
+    "duration": 4.16
+  },
+  {
+    "text": "app. The most useful thing about this is",
+    "start": 320.72,
+    "duration": 3.84
+  },
+  {
+    "text": "that all this information gets fed",
+    "start": 322.639,
+    "duration": 4.4
+  },
+  {
+    "text": "directly to the AI as context, which",
+    "start": 324.56,
+    "duration": 4.88
+  },
+  {
+    "text": "reduces hallucinations massively. In the",
+    "start": 327.039,
+    "duration": 4.321
+  },
+  {
+    "text": "design tab, you can build out your UI",
+    "start": 329.44,
+    "duration": 3.92
+  },
+  {
+    "text": "just by clicking and dragging elements",
+    "start": 331.36,
+    "duration": 3.76
+  },
+  {
+    "text": "pretty much just like any other design",
+    "start": 333.36,
+    "duration": 3.76
+  },
+  {
+    "text": "tool like Figma or Web Flow, but it",
+    "start": 335.12,
+    "duration": 4.0
+  },
+  {
+    "text": "generates actual React code behind the",
+    "start": 337.12,
+    "duration": 4.16
+  },
+  {
+    "text": "scenes. They also support importing your",
+    "start": 339.12,
+    "duration": 4.16
+  },
+  {
+    "text": "custom Figma designs, so you can use",
+    "start": 341.28,
+    "duration": 4.24
+  },
+  {
+    "text": "them as a starting point and ask the AI",
+    "start": 343.28,
+    "duration": 4.32
+  },
+  {
+    "text": "to generate React code for you based on",
+    "start": 345.52,
+    "duration": 4.399
+  },
+  {
+    "text": "the designs. Finally, the code tab is",
+    "start": 347.6,
+    "duration": 4.319
+  },
+  {
+    "text": "where you can open and edit any file in",
+    "start": 349.919,
+    "duration": 4.0
+  },
+  {
+    "text": "your project just like you would in VS",
+    "start": 351.919,
+    "duration": 4.0
+  },
+  {
+    "text": "Code or cursor. It also integrates",
+    "start": 353.919,
+    "duration": 3.84
+  },
+  {
+    "text": "nicely with GitHub, so you can push your",
+    "start": 355.919,
+    "duration": 3.761
+  },
+  {
+    "text": "code directly to a repo and keep",
+    "start": 357.759,
+    "duration": 3.601
+  },
+  {
+    "text": "everything version controlled. With the",
+    "start": 359.68,
+    "duration": 3.92
+  },
+  {
+    "text": "initial setup all done, I push the code",
+    "start": 361.36,
+    "duration": 4.48
+  },
+  {
+    "text": "to GitHub and fired up Cursor so that I",
+    "start": 363.6,
+    "duration": 3.76
+  },
+  {
+    "text": "can start building out the core features",
+    "start": 365.84,
+    "duration": 3.76
+  },
+  {
+    "text": "of my app. So, enjoy this time-lapse of",
+    "start": 367.36,
+    "duration": 3.92
+  },
+  {
+    "text": "me hacking away over the next couple",
+    "start": 369.6,
+    "duration": 3.599
+  },
+  {
+    "text": "days whilst I get this app ready for",
+    "start": 371.28,
+    "duration": 4.919
+  },
+  {
+    "text": "launch.",
+    "start": 373.199,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 378.11,
+    "duration": 7.639
+  },
+  {
+    "text": "[Music]",
+    "start": 389.83,
+    "duration": 9.17
+  },
+  {
+    "text": "Oh, hey.",
+    "start": 395.84,
+    "duration": 3.16
+  },
+  {
+    "text": "[Music]",
+    "start": 401.86,
+    "duration": 31.14
+  },
+  {
+    "text": "Heat. Heat.",
+    "start": 430.0,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 434.28,
+    "duration": 6.82
+  },
+  {
+    "text": "[Music]",
+    "start": 446.32,
+    "duration": 14.829
+  },
+  {
+    "text": "After days of non-stop coding and",
+    "start": 462.56,
+    "duration": 3.919
+  },
+  {
+    "text": "testing, I think the app is finally",
+    "start": 464.639,
+    "duration": 4.081
+  },
+  {
+    "text": "ready. It's time to launch and get some",
+    "start": 466.479,
+    "duration": 4.481
+  },
+  {
+    "text": "users. My plan for the initial launch is",
+    "start": 468.72,
+    "duration": 4.08
+  },
+  {
+    "text": "pretty basic. I'll post on all of the",
+    "start": 470.96,
+    "duration": 3.6
+  },
+  {
+    "text": "typical launch platforms like Product",
+    "start": 472.8,
+    "duration": 4.079
+  },
+  {
+    "text": "Hunt, Hacker News, and Twitter to try my",
+    "start": 474.56,
+    "duration": 4.639
+  },
+  {
+    "text": "luck going viral, but I'm not banking on",
+    "start": 476.879,
+    "duration": 4.401
+  },
+  {
+    "text": "this too much. My tool is quite niche",
+    "start": 479.199,
+    "duration": 4.321
+  },
+  {
+    "text": "and solves a very specific problem. So",
+    "start": 481.28,
+    "duration": 3.84
+  },
+  {
+    "text": "there's really no point trying to appeal",
+    "start": 483.52,
+    "duration": 3.679
+  },
+  {
+    "text": "to a wider audience at this stage. And",
+    "start": 485.12,
+    "duration": 4.0
+  },
+  {
+    "text": "hot take, I don't think Product Hunt is",
+    "start": 487.199,
+    "duration": 3.361
+  },
+  {
+    "text": "actually a good platform to launch for",
+    "start": 489.12,
+    "duration": 3.199
+  },
+  {
+    "text": "most indie hackers. Unless you're making",
+    "start": 490.56,
+    "duration": 3.759
+  },
+  {
+    "text": "a product specifically targeted to other",
+    "start": 492.319,
+    "duration": 4.241
+  },
+  {
+    "text": "founders because the truth is regular",
+    "start": 494.319,
+    "duration": 4.0
+  },
+  {
+    "text": "customers aren't going to Product Hunt",
+    "start": 496.56,
+    "duration": 3.919
+  },
+  {
+    "text": "to find tools to solve their problems.",
+    "start": 498.319,
+    "duration": 3.681
+  },
+  {
+    "text": "It's usually just a bunch of other",
+    "start": 500.479,
+    "duration": 3.201
+  },
+  {
+    "text": "founders looking for a place to share",
+    "start": 502.0,
+    "duration": 3.68
+  },
+  {
+    "text": "their products. But you do get a nice",
+    "start": 503.68,
+    "duration": 4.239
+  },
+  {
+    "text": "backlink for SEO and a bump in traffic",
+    "start": 505.68,
+    "duration": 3.84
+  },
+  {
+    "text": "if you can rank highly. So, it's at",
+    "start": 507.919,
+    "duration": 3.521
+  },
+  {
+    "text": "least worth trying. That's why I'll be",
+    "start": 509.52,
+    "duration": 3.759
+  },
+  {
+    "text": "spending most of my time going directly",
+    "start": 511.44,
+    "duration": 3.68
+  },
+  {
+    "text": "to my ideal customers and building",
+    "start": 513.279,
+    "duration": 3.521
+  },
+  {
+    "text": "relationships with them first. This",
+    "start": 515.12,
+    "duration": 3.68
+  },
+  {
+    "text": "means finding niche subreddits and",
+    "start": 516.8,
+    "duration": 3.679
+  },
+  {
+    "text": "forums and sharing my launch there",
+    "start": 518.8,
+    "duration": 4.08
+  },
+  {
+    "text": "instead. So, how did the launch go and",
+    "start": 520.479,
+    "duration": 4.721
+  },
+  {
+    "text": "how much money has my app actually made?",
+    "start": 522.88,
+    "duration": 4.24
+  },
+  {
+    "text": "Well, I can tell you my app didn't blow",
+    "start": 525.2,
+    "duration": 3.68
+  },
+  {
+    "text": "up overnight. And I'm not going to lie,",
+    "start": 527.12,
+    "duration": 3.52
+  },
+  {
+    "text": "it was discouraging at first seeing my",
+    "start": 528.88,
+    "duration": 3.76
+  },
+  {
+    "text": "launch get less traction than I hoped.",
+    "start": 530.64,
+    "duration": 3.759
+  },
+  {
+    "text": "It's disappointing, but this won't be",
+    "start": 532.64,
+    "duration": 3.28
+  },
+  {
+    "text": "one of those videos where I launch my",
+    "start": 534.399,
+    "duration": 3.521
+  },
+  {
+    "text": "product and it magically goes viral. And",
+    "start": 535.92,
+    "duration": 3.76
+  },
+  {
+    "text": "honestly, I think sharing realistic",
+    "start": 537.92,
+    "duration": 3.919
+  },
+  {
+    "text": "launches like these can be more valuable",
+    "start": 539.68,
+    "duration": 4.0
+  },
+  {
+    "text": "than the overnight success stories",
+    "start": 541.839,
+    "duration": 3.601
+  },
+  {
+    "text": "because whilst they can be inspiring,",
+    "start": 543.68,
+    "duration": 3.52
+  },
+  {
+    "text": "they can also create unrealistic",
+    "start": 545.44,
+    "duration": 4.079
+  },
+  {
+    "text": "expectations and discourage you to keep",
+    "start": 547.2,
+    "duration": 4.0
+  },
+  {
+    "text": "going if you don't see immediate",
+    "start": 549.519,
+    "duration": 3.601
+  },
+  {
+    "text": "results. So, even though the launch",
+    "start": 551.2,
+    "duration": 3.44
+  },
+  {
+    "text": "wasn't what I hoped for, I'm not going",
+    "start": 553.12,
+    "duration": 3.36
+  },
+  {
+    "text": "to let it distract me from improving and",
+    "start": 554.64,
+    "duration": 3.84
+  },
+  {
+    "text": "growing my product until I can get it to",
+    "start": 556.48,
+    "duration": 3.6
+  },
+  {
+    "text": "a point where I'm satisfied and feel",
+    "start": 558.48,
+    "duration": 3.12
+  },
+  {
+    "text": "like there's nothing more I can do.",
+    "start": 560.08,
+    "duration": 3.6
+  },
+  {
+    "text": "Since the launch, I've managed to get 13",
+    "start": 561.6,
+    "duration": 4.4
+  },
+  {
+    "text": "user signups with six of them converting",
+    "start": 563.68,
+    "duration": 4.64
+  },
+  {
+    "text": "to actual paying customers. And so far,",
+    "start": 566.0,
+    "duration": 4.88
+  },
+  {
+    "text": "my app has earned over £200 since the",
+    "start": 568.32,
+    "duration": 4.16
+  },
+  {
+    "text": "launch. It's not some life-changing",
+    "start": 570.88,
+    "duration": 3.519
+  },
+  {
+    "text": "money, but at least it's proof that",
+    "start": 572.48,
+    "duration": 3.12
+  },
+  {
+    "text": "people are willing to pay for my",
+    "start": 574.399,
+    "duration": 3.521
+  },
+  {
+    "text": "product, even at its earliest stage. So,",
+    "start": 575.6,
+    "duration": 4.4
+  },
+  {
+    "text": "what's next? I have a bunch of ideas and",
+    "start": 577.92,
+    "duration": 3.76
+  },
+  {
+    "text": "improvements I want to make to this app",
+    "start": 580.0,
+    "duration": 2.959
+  },
+  {
+    "text": "already. And of course, I'll be",
+    "start": 581.68,
+    "duration": 2.96
+  },
+  {
+    "text": "documenting everything on this channel.",
+    "start": 582.959,
+    "duration": 3.361
+  },
+  {
+    "text": "So, if you want to see how I grow this",
+    "start": 584.64,
+    "duration": 3.52
+  },
+  {
+    "text": "app from these humble beginnings into",
+    "start": 586.32,
+    "duration": 3.76
+  },
+  {
+    "text": "something bigger, feel free to subscribe",
+    "start": 588.16,
+    "duration": 4.88
+  },
+  {
+    "text": "and I'll see you in the next",
+    "start": 590.08,
+    "duration": 2.96
+  }
+]

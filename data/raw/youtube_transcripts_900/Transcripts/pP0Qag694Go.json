@@ -1,0 +1,342 @@
+[
+  {
+    "text": "Welcome!",
+    "start": 0.22,
+    "duration": 1.24
+  },
+  {
+    "text": "In this tutorial, we will graphically solve\nthis minimization problem using the Objective",
+    "start": 1.46,
+    "duration": 5.41
+  },
+  {
+    "text": "Function Line Approach.",
+    "start": 6.87,
+    "duration": 2.19
+  },
+  {
+    "text": "Note that the use of the graphical approach\nis limited to 2 decision variables.",
+    "start": 9.06,
+    "duration": 5.35
+  },
+  {
+    "text": "We start by finding points for the constraint\nlines.",
+    "start": 14.41,
+    "duration": 3.089
+  },
+  {
+    "text": "Let’s label them C1 to C3 for reference\npurposes.",
+    "start": 17.499,
+    "duration": 4.051
+  },
+  {
+    "text": "For Constraint 1) when X = 0, Y = 2\nAnd when Y = 0, X = 6.",
+    "start": 21.55,
+    "duration": 8.16
+  },
+  {
+    "text": "For Constraint 2) when X = 0, Y = 5.",
+    "start": 29.71,
+    "duration": 4.12
+  },
+  {
+    "text": "And when Y = 0, X = 2.",
+    "start": 33.83,
+    "duration": 2.92
+  },
+  {
+    "text": "For Constraint 3) Y is just always less than\nor equal to 4 irrespective of the value of",
+    "start": 36.75,
+    "duration": 5.58
+  },
+  {
+    "text": "X.",
+    "start": 42.33,
+    "duration": 1.26
+  },
+  {
+    "text": "In drawing the graph, note here that the highest\nvalue of X is 6 and the highest value of Y",
+    "start": 43.59,
+    "duration": 6.35
+  },
+  {
+    "text": "is 5.",
+    "start": 49.94,
+    "duration": 1.3
+  },
+  {
+    "text": "And that is what tells us how far we need\nto go on the X and Y axes.",
+    "start": 51.24,
+    "duration": 4.2
+  },
+  {
+    "text": "You can see that I went a little bit higher\nthan 6 on the X axis, and a little more than",
+    "start": 55.44,
+    "duration": 5.14
+  },
+  {
+    "text": "5 in the Y axis because I have the space.",
+    "start": 60.58,
+    "duration": 3.03
+  },
+  {
+    "text": "So drawing the line for the first constraint,\nwe have the points (0, 2) and (6, 0)",
+    "start": 63.61,
+    "duration": 5.68
+  },
+  {
+    "text": "which we join to form the constraint line.",
+    "start": 69.29,
+    "duration": 3.06
+  },
+  {
+    "text": "For the second constraint, we have (0, 5)\nand (2, 0)",
+    "start": 72.35,
+    "duration": 3.84
+  },
+  {
+    "text": "which we also join to form the constraint\nline.",
+    "start": 76.19,
+    "duration": 3.32
+  },
+  {
+    "text": "For Y ≤ 4, the line is simply at Y = 4.",
+    "start": 79.51,
+    "duration": 5.09
+  },
+  {
+    "text": "Now since the first 2 constraints are “greater\nthan” constraints,",
+    "start": 84.6,
+    "duration": 3.229
+  },
+  {
+    "text": "they will be satisfied in the region above\nthe lines away from the origin.",
+    "start": 87.829,
+    "duration": 4.771
+  },
+  {
+    "text": "And Y ≤ 4 is simply satisfied below the\nline.",
+    "start": 92.6,
+    "duration": 4.4
+  },
+  {
+    "text": "The directions of the arrows show that the\nregion satisfying all the constraints at the",
+    "start": 97.0,
+    "duration": 4.53
+  },
+  {
+    "text": "same time (called the feasible region) is\nthis area shaded in blue.",
+    "start": 101.53,
+    "duration": 5.4
+  },
+  {
+    "text": "Now the optimal solution to this problem will\noccur at an extreme or corner point of this",
+    "start": 106.93,
+    "duration": 5.4
+  },
+  {
+    "text": "feasible region.",
+    "start": 112.33,
+    "duration": 1.0
+  },
+  {
+    "text": "Let’s label them A, B, and C for reference\npurposes.",
+    "start": 113.33,
+    "duration": 4.19
+  },
+  {
+    "text": "Now recall that the objective function is\nto Minimize 5X + 7Y.",
+    "start": 117.52,
+    "duration": 3.76
+  },
+  {
+    "text": "So the corner point that gives us the minimum\nvalue of the objective function is the optimal",
+    "start": 121.28,
+    "duration": 6.13
+  },
+  {
+    "text": "point.",
+    "start": 127.41,
+    "duration": 1.0
+  },
+  {
+    "text": "Instead of testing every single point, we\nwill use the objective function line approach.",
+    "start": 128.41,
+    "duration": 5.6
+  },
+  {
+    "text": "We begin by setting the objective function\nto any number of our choice.",
+    "start": 134.01,
+    "duration": 4.49
+  },
+  {
+    "text": "To make the process easy, we can simply multiply\nthe coefficients of X and Y.",
+    "start": 138.5,
+    "duration": 4.64
+  },
+  {
+    "text": "In this example we have 5 times 7 which equals\n35.",
+    "start": 143.14,
+    "duration": 4.64
+  },
+  {
+    "text": "35 seems to be appropriate for this problem.",
+    "start": 147.78,
+    "duration": 3.11
+  },
+  {
+    "text": "Note that if this number is too small or too\nlarge, you can always multiply or divide it",
+    "start": 150.89,
+    "duration": 5.89
+  },
+  {
+    "text": "by an appropriate value.",
+    "start": 156.78,
+    "duration": 2.31
+  },
+  {
+    "text": "Next we find points to draw the objective\nfunction line.",
+    "start": 159.09,
+    "duration": 3.38
+  },
+  {
+    "text": "When X = 0, Y = 5\nAnd when Y = 0, X = 7.",
+    "start": 162.47,
+    "duration": 6.69
+  },
+  {
+    "text": "So the objective function line is this blue\ndotted line here.",
+    "start": 169.16,
+    "duration": 4.58
+  },
+  {
+    "text": "Recall that is this a minimization problem.",
+    "start": 173.74,
+    "duration": 2.73
+  },
+  {
+    "text": "So to use this line to determine the best\nextreme point, we slowly move it down towards",
+    "start": 176.47,
+    "duration": 5.26
+  },
+  {
+    "text": "the origin parallel to itself.",
+    "start": 181.73,
+    "duration": 2.54
+  },
+  {
+    "text": "If this were a maximization problem, we would\nmove the line upwards away from the origin.",
+    "start": 184.27,
+    "duration": 5.66
+  },
+  {
+    "text": "The last extreme point the line touches before\nleaving the feasible region is the optimal",
+    "start": 189.93,
+    "duration": 4.85
+  },
+  {
+    "text": "solution point.",
+    "start": 194.78,
+    "duration": 1.53
+  },
+  {
+    "text": "So let’s slowly move the objective function\nline parallel to itself.",
+    "start": 196.31,
+    "duration": 6.14
+  },
+  {
+    "text": "You can see here that it passes points A and\nC, so it is obvious that Point B is the optimal",
+    "start": 202.45,
+    "duration": 6.2
+  },
+  {
+    "text": "solution point.",
+    "start": 208.65,
+    "duration": 1.65
+  },
+  {
+    "text": "We now need to solve the two lines that intersect\nat point B simultaneously to determine the",
+    "start": 210.3,
+    "duration": 5.39
+  },
+  {
+    "text": "coordinates at that point.",
+    "start": 215.69,
+    "duration": 2.04
+  },
+  {
+    "text": "Here are the equations.",
+    "start": 217.73,
+    "duration": 1.97
+  },
+  {
+    "text": "Let’s use the substitution method.",
+    "start": 219.7,
+    "duration": 2.48
+  },
+  {
+    "text": "From C1 we can write X in terms of Y to give\nX = 6 – 3Y.",
+    "start": 222.18,
+    "duration": 6.29
+  },
+  {
+    "text": "We can then substitute that expression into\nC2.",
+    "start": 228.47,
+    "duration": 4.75
+  },
+  {
+    "text": "And that simplifies to 30 - 15Y + 2Y = 10,\nwhich gives -13Y = -20",
+    "start": 233.22,
+    "duration": 9.65
+  },
+  {
+    "text": "And that gives Y = 1.54.",
+    "start": 242.87,
+    "duration": 3.85
+  },
+  {
+    "text": "Substituting that Y value in the X equation\nwe have X = 6 - 3(1.54).",
+    "start": 246.72,
+    "duration": 7.77
+  },
+  {
+    "text": "That is, X = 1.38.",
+    "start": 254.49,
+    "duration": 3.779
+  },
+  {
+    "text": "So the coordinates at point B are X = 1.38\nand Y = 1.54.",
+    "start": 258.269,
+    "duration": 5.861
+  },
+  {
+    "text": "Let’s now plug the point into the objective\nfunction.",
+    "start": 264.13,
+    "duration": 4.24
+  },
+  {
+    "text": "We have\n5(1.38) + 7(1.54) which gives 17.7.",
+    "start": 268.37,
+    "duration": 7.57
+  },
+  {
+    "text": "So the optimal solution occurs at point B\nand the corresponding minimum value of the",
+    "start": 275.94,
+    "duration": 4.96
+  },
+  {
+    "text": "objective function is 17.7.",
+    "start": 280.9,
+    "duration": 3.34
+  },
+  {
+    "text": "See you in the next video.",
+    "start": 284.24,
+    "duration": 1.97
+  },
+  {
+    "text": "And thanks for watching.",
+    "start": 286.21,
+    "duration": 0.66
+  }
+]

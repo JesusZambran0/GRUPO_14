@@ -1,0 +1,722 @@
+[
+  {
+    "text": "Hi! Welcome to Math Antics.  In this lesson, we are gonna learn about long division.",
+    "start": 6.58,
+    "duration": 4.86
+  },
+  {
+    "text": "If you haven’t already watched our video about basic division, then be sure to go back and watch that first.",
+    "start": 11.444,
+    "duration": 4.85
+  },
+  {
+    "text": "It will make learning long division a lot easier.",
+    "start": 16.294,
+    "duration": 3.485
+  },
+  {
+    "text": "Long division is just a way of breaking up a bigger division problem into a series of short division steps",
+    "start": 19.779,
+    "duration": 5.819
+  },
+  {
+    "text": "like the ones that we did in the basic division video.",
+    "start": 25.598,
+    "duration": 3.16
+  },
+  {
+    "text": "The nice thing about long division is that once you know the procedure,",
+    "start": 28.76,
+    "duration": 3.36
+  },
+  {
+    "text": "you can divide up all kinds of numbers, even if they are REALLY big.",
+    "start": 32.12,
+    "duration": 4.46
+  },
+  {
+    "text": "The key to long division is to think about our division problem digit-by-digit.",
+    "start": 36.585,
+    "duration": 4.7
+  },
+  {
+    "text": "If our dividend (the number we’re dividing up) has a lot of digits,",
+    "start": 41.285,
+    "duration": 3.786
+  },
+  {
+    "text": "then that means that there will be a lot of division steps to do.",
+    "start": 45.071,
+    "duration": 3.72
+  },
+  {
+    "text": "When we learned basic one-step division, all of the dividends were small enough",
+    "start": 48.8,
+    "duration": 3.98
+  },
+  {
+    "text": "that we could just use the multiplication table to help us find the answer.",
+    "start": 52.78,
+    "duration": 3.42
+  },
+  {
+    "text": "But what if we have a division problem like this?  936 divided by 4",
+    "start": 56.208,
+    "duration": 4.84
+  },
+  {
+    "text": "936 is definitely NOT on our multiplication table!",
+    "start": 61.048,
+    "duration": 3.64
+  },
+  {
+    "text": "In fact, there’s not anything even close to 936, so what do we do?",
+    "start": 64.688,
+    "duration": 5.552
+  },
+  {
+    "text": "Well, instead of trying to divide the entire 936 by 4 all at once,",
+    "start": 70.24,
+    "duration": 5.22
+  },
+  {
+    "text": "let’s break this problem up into smaller steps by just trying to divide each digit by 4,",
+    "start": 75.46,
+    "duration": 5.18
+  },
+  {
+    "text": "one digit at a time …digit-by-digit.",
+    "start": 80.64,
+    "duration": 3.396
+  },
+  {
+    "text": "Do you remember how with multi-digit multiplication and addition,",
+    "start": 84.036,
+    "duration": 3.066
+  },
+  {
+    "text": "we always start with the smallest digit (the ones place digit) and we work from right to left?",
+    "start": 87.102,
+    "duration": 5.219
+  },
+  {
+    "text": "Well division is backwards!  We still go digit by digit, but the other way.",
+    "start": 92.321,
+    "duration": 4.835
+  },
+  {
+    "text": "We start by trying to divide up the digit in the biggest number place first and we work our way from left to right.",
+    "start": 97.156,
+    "duration": 6.7
+  },
+  {
+    "text": "So the first step in this problem is to divide the FIRST digit of our dividend by 4.",
+    "start": 103.86,
+    "duration": 4.64
+  },
+  {
+    "text": "We’ll just ignore the other digits for now, and that makes it look like we have the division problem 9 divided by 4.",
+    "start": 108.5,
+    "duration": 6.34
+  },
+  {
+    "text": "Great!  That’s easy!  It’s just a basic division problem like in the last video.",
+    "start": 114.84,
+    "duration": 5.04
+  },
+  {
+    "text": "So we ask, “How many ‘4’s will it take to make 9 or almost 9?”",
+    "start": 119.881,
+    "duration": 4.52
+  },
+  {
+    "text": "Well, two ‘4’s would be 8, and that’s almost 9.",
+    "start": 124.401,
+    "duration": 3.939
+  },
+  {
+    "text": "So just like before, we put the 2 in our answer spot on top of the line.",
+    "start": 128.34,
+    "duration": 4.32
+  },
+  {
+    "text": "But wait a minute… there’s a lot of room up there. Where exactly do we put it?",
+    "start": 132.67,
+    "duration": 4.51
+  },
+  {
+    "text": "Well, the answer digit should always go directly above the digit we’re dividing.",
+    "start": 137.18,
+    "duration": 4.4
+  },
+  {
+    "text": "Since we’re dividing the digit 9, our 2 should go right above the 9.",
+    "start": 141.588,
+    "duration": 4.536
+  },
+  {
+    "text": "Okay, now we multiply… 2 times 4 is 8, and the 8 goes below the 9 so that we can subtract to get our remainder.",
+    "start": 146.124,
+    "duration": 7.686
+  },
+  {
+    "text": "9 minus 8 is 1, so our remainder is 1.",
+    "start": 153.81,
+    "duration": 3.585
+  },
+  {
+    "text": "Now at this point in our basic one-step division problems, we would re-write our remainder up in our answer with a little ‘r’ next to it.",
+    "start": 157.395,
+    "duration": 7.336
+  },
+  {
+    "text": "But we aren’t going to do that yet because this is long division and we still have more digits to divide (the ones we’ve been ignoring).",
+    "start": 164.731,
+    "duration": 6.852
+  },
+  {
+    "text": "Since we’re going digit-by-digit, let’s stop ignoring the next digit in our dividend (the 3).",
+    "start": 171.583,
+    "duration": 5.877
+  },
+  {
+    "text": "Now you might think that our next division step is to divide that 3 by the 4.  But it’s not quite that simple.",
+    "start": 177.46,
+    "duration": 6.04
+  },
+  {
+    "text": "We had a remainder from our last division step, and we can’t just forget about that.",
+    "start": 183.505,
+    "duration": 4.434
+  },
+  {
+    "text": "We need to combine that remainder with our next digit and divide them both together.",
+    "start": 187.939,
+    "duration": 5.2
+  },
+  {
+    "text": "We do that by bringing down a COPY of the next digit (the 3) and put it right beside the remainder (which is 1).",
+    "start": 193.14,
+    "duration": 7.26
+  },
+  {
+    "text": "When we do that, it looks like our remainder is 13.  It’s kind of like our remainder is teaming up with the next digit over.",
+    "start": 200.41,
+    "duration": 7.39
+  },
+  {
+    "text": "And if you think about it, that makes sense because",
+    "start": 207.8,
+    "duration": 2.42
+  },
+  {
+    "text": "the digits that we were ignoring during our first division step really are part of the remainder, because we still need to divide them.",
+    "start": 210.22,
+    "duration": 7.06
+  },
+  {
+    "text": "Okay, so bringing down that next digit makes our remainder bigger.",
+    "start": 217.282,
+    "duration": 4.118
+  },
+  {
+    "text": "And that’s good because before, the remainder was so small that 4 couldn’t divide into it.",
+    "start": 221.4,
+    "duration": 4.769
+  },
+  {
+    "text": "But now it’s 13, and 4 will divide into 13.",
+    "start": 226.169,
+    "duration": 3.935
+  },
+  {
+    "text": "So we ask, “How many ‘4’s will it take to make 13?”",
+    "start": 230.104,
+    "duration": 3.685
+  },
+  {
+    "text": "Well, three ‘4’s would be 12, and that’s really close without being too big.  So let’s put 3 in our answer line.",
+    "start": 233.789,
+    "duration": 6.818
+  },
+  {
+    "text": "Yep - it goes right over the 3 because that is the next digit we were dividing in this digit-by-digit process.",
+    "start": 240.607,
+    "duration": 6.285
+  },
+  {
+    "text": "And then 3 times 4 is 12 which we put right below the 13 so that we can subtract to get the next remainder which will also be 1.",
+    "start": 246.892,
+    "duration": 7.62
+  },
+  {
+    "text": "See how we’re just repeating the basic division procedure?  But we’re going further down the screen as we do.",
+    "start": 254.52,
+    "duration": 5.678
+  },
+  {
+    "text": "Alright, now that we have a new remainder, it’s time for our next division step.",
+    "start": 260.198,
+    "duration": 4.068
+  },
+  {
+    "text": "Let’s stop ignoring the last digit in the dividend (the 6) and bring down a copy of it to team up with our new remainder.",
+    "start": 264.266,
+    "duration": 6.486
+  },
+  {
+    "text": "Together, they form a remainder of 16.",
+    "start": 270.752,
+    "duration": 2.96
+  },
+  {
+    "text": "Ah ha!  That’s good because it’s gonna be easy to divide 4 into 16 because 16 is a multiple of 4.",
+    "start": 273.72,
+    "duration": 6.44
+  },
+  {
+    "text": "It takes exactly fours ‘4’s to make 16.  So we put a 4 in the last place of our answer line,",
+    "start": 280.16,
+    "duration": 5.88
+  },
+  {
+    "text": "and then we write the 16 below our new remainder.",
+    "start": 286.04,
+    "duration": 3.46
+  },
+  {
+    "text": "Now if we subtract 16 from 16, we see that our last remainder will be zero, which means there’s no remainder left.",
+    "start": 289.5,
+    "duration": 6.98
+  },
+  {
+    "text": "That’s great!  We solved the whole division problem digit-by-digit by breaking it up into three basic division steps.",
+    "start": 296.48,
+    "duration": 7.26
+  },
+  {
+    "text": "And now we know that 936 divided by 4 equals 234.",
+    "start": 303.74,
+    "duration": 5.54
+  },
+  {
+    "text": "And we also know why they call it long division!!",
+    "start": 309.282,
+    "duration": 2.734
+  },
+  {
+    "text": "In fact, that was so long, I think I need a coffee break…",
+    "start": 312.016,
+    "duration": 3.62
+  },
+  {
+    "text": "Oh man…",
+    "start": 317.28,
+    "duration": 1.78
+  },
+  {
+    "text": "that was some looooooooooooong division!",
+    "start": 319.06,
+    "duration": 4.74
+  },
+  {
+    "text": "Wheew… let’s see…",
+    "start": 323.8,
+    "duration": 1.58
+  },
+  {
+    "text": "Okay, so that problem had a three-digit dividend and it also had three division steps.",
+    "start": 333.574,
+    "duration": 4.602
+  },
+  {
+    "text": "But the number of steps isn’t always the same as the number of digits we have.",
+    "start": 338.176,
+    "duration": 3.852
+  },
+  {
+    "text": "And that’s because the number of steps also depends on how big our divisor is.",
+    "start": 342.028,
+    "duration": 5.072
+  },
+  {
+    "text": "To see what I mean, let’s work two division problems side by side.",
+    "start": 347.1,
+    "duration": 3.613
+  },
+  {
+    "text": "These both look like the basic one-step division problems that you did in the last video, don’t they?",
+    "start": 350.713,
+    "duration": 4.82
+  },
+  {
+    "text": "But as you‘ll see, one of them is actually a two-step problem.",
+    "start": 355.54,
+    "duration": 3.6
+  },
+  {
+    "text": "Let’s start with the first problem: 72 divided by 8.",
+    "start": 359.15,
+    "duration": 3.284
+  },
+  {
+    "text": "We just ask, “How many ‘8’s does it take to make 72 (or almost 72)?”",
+    "start": 362.434,
+    "duration": 4.251
+  },
+  {
+    "text": "Well that’s easy!  On our multiplication table you can see that 72 is a multiple of 8.",
+    "start": 366.685,
+    "duration": 4.752
+  },
+  {
+    "text": "8 × 9 = 72  So we put 9 in our answer line, and we write 72 below, and we see that we have no remainder.",
+    "start": 371.437,
+    "duration": 8.26
+  },
+  {
+    "text": "Now let’s try the next problem: 72 divided by 3.",
+    "start": 379.7,
+    "duration": 3.24
+  },
+  {
+    "text": "If we ask, “How many ‘3’s will it take to make 72 (or almost 72)?”, we can see that the answer is not on our multiplication chart.",
+    "start": 382.942,
+    "duration": 7.201
+  },
+  {
+    "text": "The biggest multiple of three listed there is 30 which isn’t even close.",
+    "start": 390.143,
+    "duration": 4.577
+  },
+  {
+    "text": "The reason is that this should really be a two-step problem.",
+    "start": 394.72,
+    "duration": 3.411
+  },
+  {
+    "text": "Let’s try using the new digit-by-digit method we just learned.",
+    "start": 398.131,
+    "duration": 3.333
+  },
+  {
+    "text": "Instead of asking, “How many ‘3’s make 72?”, let’s just focus on the first digit and ask,",
+    "start": 401.464,
+    "duration": 4.86
+  },
+  {
+    "text": "“How many ‘3’s does it take to make 7?”",
+    "start": 406.324,
+    "duration": 2.676
+  },
+  {
+    "text": "Ah - that’s easy.  Two ‘3’s would give us 6, which is very close.",
+    "start": 409.001,
+    "duration": 4.251
+  },
+  {
+    "text": "So let’s put a 2 in the answer line right above the 7.",
+    "start": 413.252,
+    "duration": 3.384
+  },
+  {
+    "text": "Then we multiply 2 times 3, and that makes 6.",
+    "start": 416.636,
+    "duration": 2.969
+  },
+  {
+    "text": "And we subtract 6 from 7 to get a remainder of 1.",
+    "start": 419.605,
+    "duration": 3.636
+  },
+  {
+    "text": "Now for the second step…",
+    "start": 423.241,
+    "duration": 1.633
+  },
+  {
+    "text": "We bring down a copy of the next digit (the 2) and we combine it with the 1 to get a new remainder of 12.",
+    "start": 424.874,
+    "duration": 6.26
+  },
+  {
+    "text": "Then we ask, “How many ‘3’s does it take to make 12?”",
+    "start": 431.14,
+    "duration": 3.32
+  },
+  {
+    "text": "and the answer to that is exactly 4.",
+    "start": 434.46,
+    "duration": 3.5
+  },
+  {
+    "text": "So we write a 4 in the answer line, and 3 × 4 = 12.",
+    "start": 437.96,
+    "duration": 4.12
+  },
+  {
+    "text": "12 − 12 = 0  So we have no remainder!",
+    "start": 442.08,
+    "duration": 3.2
+  },
+  {
+    "text": "We’re done!  72 divided by 3 is 24.",
+    "start": 445.28,
+    "duration": 4.7
+  },
+  {
+    "text": "Now here’s the interesting thing about these examples.",
+    "start": 449.98,
+    "duration": 2.38
+  },
+  {
+    "text": "The first problem could have been a two-step problem also.",
+    "start": 452.367,
+    "duration": 2.95
+  },
+  {
+    "text": "If we had taken it digit-by-digit, we would have first asked, “How many ‘8’s does it take to make 7 (or almost 7)?”",
+    "start": 455.317,
+    "duration": 7.086
+  },
+  {
+    "text": "But the answer would have been zero since 8 is too big to divide into 7.",
+    "start": 462.403,
+    "duration": 4.417
+  },
+  {
+    "text": "We would have put zero in our answer line and the remainder would have just been 7.",
+    "start": 466.82,
+    "duration": 4.86
+  },
+  {
+    "text": "So basically, we just skipped that step.  And that’ll happen with digit-by-digit division sometimes.",
+    "start": 471.689,
+    "duration": 5.531
+  },
+  {
+    "text": "If the number is too small to divide into, you just put a zero in the answer line and you move on to the next digit.",
+    "start": 477.22,
+    "duration": 6.54
+  },
+  {
+    "text": "Okay, now that you know the procedure for long division, are you ready to see a really long problem?",
+    "start": 483.76,
+    "duration": 5.18
+  },
+  {
+    "text": "Good - I thought so!",
+    "start": 488.94,
+    "duration": 2.24
+  },
+  {
+    "text": "Let’s divide 315,270 by 5.",
+    "start": 491.18,
+    "duration": 4.9
+  },
+  {
+    "text": "Now don’t worry… it’s really not that hard if you just go digit-by-digit.",
+    "start": 496.082,
+    "duration": 4.518
+  },
+  {
+    "text": "I’m gonna work the problem pretty fast, so don’t worry if you don’t follow all the math.",
+    "start": 500.6,
+    "duration": 4.36
+  },
+  {
+    "text": "Just focus on the repeating division process as we go along.  Are you ready?",
+    "start": 504.968,
+    "duration": 5.135
+  },
+  {
+    "text": "The first digit is 3.  How many times will 5 divide into 3?  Zero.",
+    "start": 510.103,
+    "duration": 4.38
+  },
+  {
+    "text": "5 is too big. So let’s just skip that step and combine our first digit with our next digit.",
+    "start": 514.483,
+    "duration": 5.897
+  },
+  {
+    "text": "So how many times does 5 divide into 31?  Six.",
+    "start": 520.38,
+    "duration": 3.84
+  },
+  {
+    "text": "6 times 5 is 30.  And 31 minus 30 gives us a remainder of 1.",
+    "start": 524.225,
+    "duration": 5.215
+  },
+  {
+    "text": "Now on to the third digit…  We bring a copy of it down to join with the remainder.",
+    "start": 529.44,
+    "duration": 4.68
+  },
+  {
+    "text": "And we ask how many times will 5 divide into 15?  Three.",
+    "start": 534.12,
+    "duration": 4.02
+  },
+  {
+    "text": "3 times 5 is 15. And 15 minus 15 is zero.",
+    "start": 538.14,
+    "duration": 4.88
+  },
+  {
+    "text": "On to the next digit…",
+    "start": 543.02,
+    "duration": 1.58
+  },
+  {
+    "text": "Now even though our previous remainder was zero, we still bring down a copy of the next digit.",
+    "start": 544.6,
+    "duration": 5.4
+  },
+  {
+    "text": "Now we ask how many times will 5 divide into 2?  Zero.",
+    "start": 550.0,
+    "duration": 4.219
+  },
+  {
+    "text": "5 is too big, so we need to move on to the next digit and bring a copy of it down also.",
+    "start": 554.219,
+    "duration": 5.252
+  },
+  {
+    "text": "There, that’s better.",
+    "start": 559.471,
+    "duration": 1.75
+  },
+  {
+    "text": "Now we ask, how many times will 5 divide into 27?  Five.",
+    "start": 561.221,
+    "duration": 4.919
+  },
+  {
+    "text": "5 times 5 is 25.  And 27 minus 25 gives a remainder of 2.",
+    "start": 566.14,
+    "duration": 5.518
+  },
+  {
+    "text": "…now for that last digit, which is a zero.",
+    "start": 571.658,
+    "duration": 2.685
+  },
+  {
+    "text": "And you might wonder, “Why do we even have to bring a copy of a zero down?  Isn’t that nothing?”",
+    "start": 574.343,
+    "duration": 5.497
+  },
+  {
+    "text": "But the zero is an important place holder… and when we bring a copy of it down,",
+    "start": 579.84,
+    "duration": 4.24
+  },
+  {
+    "text": "it changes our remainder of 2 into a remainder of 20.  Now that’s a big difference!",
+    "start": 584.08,
+    "duration": 5.72
+  },
+  {
+    "text": "Now we ask, how many times will 5 divide into 20?  Four.",
+    "start": 589.8,
+    "duration": 4.46
+  },
+  {
+    "text": "4 times 5 is 20. And 20 minus 20 is zero.",
+    "start": 594.267,
+    "duration": 3.9
+  },
+  {
+    "text": "Yes!  We’re done!  There’s no more digits to divide.",
+    "start": 598.167,
+    "duration": 3.385
+  },
+  {
+    "text": "And you can see that our final answer is:  63,054.",
+    "start": 601.552,
+    "duration": 4.869
+  },
+  {
+    "text": "Alright… that’s the procedure for long division.",
+    "start": 606.421,
+    "duration": 2.802
+  },
+  {
+    "text": "As you can see, it’s kinda complicated, so don’t get discouraged if you’re confused at first.",
+    "start": 609.223,
+    "duration": 5.151
+  },
+  {
+    "text": "Like almost everything, it just takes practice.",
+    "start": 614.374,
+    "duration": 3.06
+  },
+  {
+    "text": "So, as you get ready to practice some long division problems on your own, here’s a few tips that will help you out.",
+    "start": 617.44,
+    "duration": 6.137
+  },
+  {
+    "text": "First: If you haven’t already done it, memorizing your multiplication table will really help with division.",
+    "start": 623.577,
+    "duration": 6.086
+  },
+  {
+    "text": "Second: When you’re working problems, it’s really important to write neatly and stay organized.",
+    "start": 629.663,
+    "duration": 4.868
+  },
+  {
+    "text": "If your writing is messy, it might be hard to keep your columns lined up and that could lead to mistakes.",
+    "start": 634.531,
+    "duration": 5.035
+  },
+  {
+    "text": "And if that’s the case, try using graph paper to help keep things lined up.",
+    "start": 639.566,
+    "duration": 4.935
+  },
+  {
+    "text": "Third: Start with some smaller two or three-digit dividends so you only have a few division steps to do.",
+    "start": 644.501,
+    "duration": 6.036
+  },
+  {
+    "text": "Then work up to the longer problems.",
+    "start": 650.537,
+    "duration": 2.668
+  },
+  {
+    "text": "And last of all: After each practice problem you do, check your answer with a calculator.",
+    "start": 653.205,
+    "duration": 4.751
+  },
+  {
+    "text": "That will let you know right away if you’ve made any mistakes so you can correct them, and most importantly, learn from them.",
+    "start": 657.956,
+    "duration": 6.203
+  },
+  {
+    "text": "And it will give you practice with a calculator, which is also important.",
+    "start": 664.159,
+    "duration": 4.085
+  },
+  {
+    "text": "Alright, that’s all for this lesson.",
+    "start": 668.244,
+    "duration": 2.35
+  },
+  {
+    "text": "Thanks for watching Math Antics, and I’ll see ya next time.",
+    "start": 670.594,
+    "duration": 3.28
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 674.462,
+    "duration": 2.28
+  }
+]

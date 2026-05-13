@@ -1,0 +1,532 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.55,
+    "duration": 11.23
+  },
+  {
+    "text": "okay",
+    "start": 14.92,
+    "duration": 31.68
+  },
+  {
+    "text": "[Music]",
+    "start": 17.15,
+    "duration": 29.45
+  },
+  {
+    "text": "jesus nope not jesus it's just me",
+    "start": 51.68,
+    "duration": 8.16
+  },
+  {
+    "text": "what the hell is going on oh yeah um",
+    "start": 56.399,
+    "duration": 5.601
+  },
+  {
+    "text": "yeah i was working on this program and",
+    "start": 59.84,
+    "duration": 3.039
+  },
+  {
+    "text": "um yeah",
+    "start": 62.0,
+    "duration": 2.799
+  },
+  {
+    "text": "i i think i figured it out i think i got",
+    "start": 62.879,
+    "duration": 3.681
+  },
+  {
+    "text": "the formula so basically if",
+    "start": 64.799,
+    "duration": 4.241
+  },
+  {
+    "text": "you merge the projection equation wait",
+    "start": 66.56,
+    "duration": 4.08
+  },
+  {
+    "text": "wait wait",
+    "start": 69.04,
+    "duration": 4.88
+  },
+  {
+    "text": "what are you doing oh right",
+    "start": 70.64,
+    "duration": 6.64
+  },
+  {
+    "text": "um okay let let me just show you",
+    "start": 73.92,
+    "duration": 13.07
+  },
+  {
+    "text": "let me just finish up real quick",
+    "start": 77.28,
+    "duration": 18.429
+  },
+  {
+    "text": "[Music]",
+    "start": 86.99,
+    "duration": 8.719
+  },
+  {
+    "text": "ready",
+    "start": 98.84,
+    "duration": 8.119
+  },
+  {
+    "text": "[Music]",
+    "start": 100.37,
+    "duration": 6.589
+  },
+  {
+    "text": "wait i i i don't follow this is that",
+    "start": 107.28,
+    "duration": 4.32
+  },
+  {
+    "text": "it's a donut",
+    "start": 110.159,
+    "duration": 4.64
+  },
+  {
+    "text": "it's incredible isn't it",
+    "start": 111.6,
+    "duration": 6.559
+  },
+  {
+    "text": "so so all this just",
+    "start": 114.799,
+    "duration": 8.161
+  },
+  {
+    "text": "to render a donut on your terminal",
+    "start": 118.159,
+    "duration": 4.801
+  },
+  {
+    "text": "what the [ __ ] thanks for watching",
+    "start": 124.0,
+    "duration": 6.319
+  },
+  {
+    "text": "the idea and code were originally from",
+    "start": 127.68,
+    "duration": 4.8
+  },
+  {
+    "text": "the amazing andy sloan",
+    "start": 130.319,
+    "duration": 4.321
+  },
+  {
+    "text": "where he was able to code this whole",
+    "start": 132.48,
+    "duration": 3.92
+  },
+  {
+    "text": "program and see",
+    "start": 134.64,
+    "duration": 4.64
+  },
+  {
+    "text": "and made the code itself look like a",
+    "start": 136.4,
+    "duration": 4.0
+  },
+  {
+    "text": "donut",
+    "start": 139.28,
+    "duration": 2.88
+  },
+  {
+    "text": "he has an article explaining how the",
+    "start": 140.4,
+    "duration": 3.44
+  },
+  {
+    "text": "code works which i'll link",
+    "start": 142.16,
+    "duration": 4.799
+  },
+  {
+    "text": "in the description so why is math",
+    "start": 143.84,
+    "duration": 4.64
+  },
+  {
+    "text": "important for programming",
+    "start": 146.959,
+    "duration": 4.961
+  },
+  {
+    "text": "well it's because even if 99",
+    "start": 148.48,
+    "duration": 5.68
+  },
+  {
+    "text": "of the time you won't need it there's a",
+    "start": 151.92,
+    "duration": 4.399
+  },
+  {
+    "text": "one percent chance that you might",
+    "start": 154.16,
+    "duration": 4.48
+  },
+  {
+    "text": "and it's in those moments that separate",
+    "start": 156.319,
+    "duration": 4.0
+  },
+  {
+    "text": "out a great programmer",
+    "start": 158.64,
+    "duration": 4.08
+  },
+  {
+    "text": "from average ones and if you do know",
+    "start": 160.319,
+    "duration": 3.2
+  },
+  {
+    "text": "your math",
+    "start": 162.72,
+    "duration": 3.12
+  },
+  {
+    "text": "you'll know how to modify this donut to",
+    "start": 163.519,
+    "duration": 3.681
+  },
+  {
+    "text": "increase the size",
+    "start": 165.84,
+    "duration": 4.16
+  },
+  {
+    "text": "change the rotation or even make a cube",
+    "start": 167.2,
+    "duration": 4.8
+  },
+  {
+    "text": "instead",
+    "start": 170.0,
+    "duration": 4.48
+  },
+  {
+    "text": "also if you want to do computer graphics",
+    "start": 172.0,
+    "duration": 4.8
+  },
+  {
+    "text": "machine learning or cryptography",
+    "start": 174.48,
+    "duration": 4.88
+  },
+  {
+    "text": "you're gonna need math so might as well",
+    "start": 176.8,
+    "duration": 3.519
+  },
+  {
+    "text": "get good at it",
+    "start": 179.36,
+    "duration": 4.159
+  },
+  {
+    "text": "as you did for programming anyway back",
+    "start": 180.319,
+    "duration": 4.321
+  },
+  {
+    "text": "to the donut",
+    "start": 183.519,
+    "duration": 4.401
+  },
+  {
+    "text": "how do we write this program well first",
+    "start": 184.64,
+    "duration": 4.319
+  },
+  {
+    "text": "you have to create",
+    "start": 187.92,
+    "duration": 3.679
+  },
+  {
+    "text": "a donut which is essentially a solid of",
+    "start": 188.959,
+    "duration": 3.601
+  },
+  {
+    "text": "revolution",
+    "start": 191.599,
+    "duration": 3.28
+  },
+  {
+    "text": "where we have a circle that rotates",
+    "start": 192.56,
+    "duration": 3.84
+  },
+  {
+    "text": "around the y-axis",
+    "start": 194.879,
+    "duration": 5.521
+  },
+  {
+    "text": "which will make a donut aka a tourist",
+    "start": 196.4,
+    "duration": 6.479
+  },
+  {
+    "text": "this is the formula to create the circle",
+    "start": 200.4,
+    "duration": 4.24
+  },
+  {
+    "text": "centered at r2",
+    "start": 202.879,
+    "duration": 4.801
+  },
+  {
+    "text": "with radius r1 and this",
+    "start": 204.64,
+    "duration": 5.679
+  },
+  {
+    "text": "is the rotation matrix to rotate this",
+    "start": 207.68,
+    "duration": 3.199
+  },
+  {
+    "text": "circle",
+    "start": 210.319,
+    "duration": 3.28
+  },
+  {
+    "text": "around the y axis so when we combine",
+    "start": 210.879,
+    "duration": 3.201
+  },
+  {
+    "text": "them",
+    "start": 213.599,
+    "duration": 2.881
+  },
+  {
+    "text": "we get the coordinates of every point on",
+    "start": 214.08,
+    "duration": 4.0
+  },
+  {
+    "text": "your donut",
+    "start": 216.48,
+    "duration": 4.479
+  },
+  {
+    "text": "now that we have a donut shut up i know",
+    "start": 218.08,
+    "duration": 4.239
+  },
+  {
+    "text": "this is a bagel",
+    "start": 220.959,
+    "duration": 3.601
+  },
+  {
+    "text": "now that we have a donut we want to",
+    "start": 222.319,
+    "duration": 4.081
+  },
+  {
+    "text": "rotate it around the x",
+    "start": 224.56,
+    "duration": 5.12
+  },
+  {
+    "text": "and z axis so it looks cool all flying",
+    "start": 226.4,
+    "duration": 4.559
+  },
+  {
+    "text": "and stuff",
+    "start": 229.68,
+    "duration": 3.6
+  },
+  {
+    "text": "we can do that by multiplying our donut",
+    "start": 230.959,
+    "duration": 3.36
+  },
+  {
+    "text": "coordinates with",
+    "start": 233.28,
+    "duration": 4.08
+  },
+  {
+    "text": "these two rotation matrices",
+    "start": 234.319,
+    "duration": 6.401
+  },
+  {
+    "text": "now we have to map this 3d flying donut",
+    "start": 237.36,
+    "duration": 6.48
+  },
+  {
+    "text": "onto a 2d screen which will become our",
+    "start": 240.72,
+    "duration": 4.0
+  },
+  {
+    "text": "terminal",
+    "start": 243.84,
+    "duration": 3.52
+  },
+  {
+    "text": "so each character on the terminal will",
+    "start": 244.72,
+    "duration": 3.599
+  },
+  {
+    "text": "be a pixel",
+    "start": 247.36,
+    "duration": 4.159
+  },
+  {
+    "text": "on the screen to figure out how to shade",
+    "start": 248.319,
+    "duration": 4.081
+  },
+  {
+    "text": "our donut",
+    "start": 251.519,
+    "duration": 3.041
+  },
+  {
+    "text": "we calculate the dot product of the",
+    "start": 252.4,
+    "duration": 3.44
+  },
+  {
+    "text": "surface normal",
+    "start": 254.56,
+    "duration": 3.76
+  },
+  {
+    "text": "and the direction of the light so as you",
+    "start": 255.84,
+    "duration": 3.44
+  },
+  {
+    "text": "can see",
+    "start": 258.32,
+    "duration": 3.68
+  },
+  {
+    "text": "when the normal points this way it's way",
+    "start": 259.28,
+    "duration": 3.52
+  },
+  {
+    "text": "brighter",
+    "start": 262.0,
+    "duration": 2.88
+  },
+  {
+    "text": "and when it points that way it's way",
+    "start": 262.8,
+    "duration": 3.04
+  },
+  {
+    "text": "darker",
+    "start": 264.88,
+    "duration": 2.8
+  },
+  {
+    "text": "so the dot product will tell us how",
+    "start": 265.84,
+    "duration": 3.84
+  },
+  {
+    "text": "light or dark it is",
+    "start": 267.68,
+    "duration": 4.64
+  },
+  {
+    "text": "we take the result of the dot product",
+    "start": 269.68,
+    "duration": 3.44
+  },
+  {
+    "text": "and map it",
+    "start": 272.32,
+    "duration": 3.68
+  },
+  {
+    "text": "into these characters from darkest to",
+    "start": 273.12,
+    "duration": 4.0
+  },
+  {
+    "text": "brightest",
+    "start": 276.0,
+    "duration": 3.6
+  },
+  {
+    "text": "and lastly we draw that on our terminal",
+    "start": 277.12,
+    "duration": 4.24
+  },
+  {
+    "text": "and voila",
+    "start": 279.6,
+    "duration": 4.08
+  },
+  {
+    "text": "if you like the way i teach you can",
+    "start": 281.36,
+    "duration": 4.16
+  },
+  {
+    "text": "check out my new course on data",
+    "start": 283.68,
+    "duration": 3.519
+  },
+  {
+    "text": "structures and algorithms",
+    "start": 285.52,
+    "duration": 3.6
+  },
+  {
+    "text": "where i use easy to understand",
+    "start": 287.199,
+    "duration": 5.361
+  },
+  {
+    "text": "animations to explain these concepts",
+    "start": 289.12,
+    "duration": 5.6
+  },
+  {
+    "text": "the first 100 people to sign up for joma",
+    "start": 292.56,
+    "duration": 3.12
+  },
+  {
+    "text": "class will get",
+    "start": 294.72,
+    "duration": 9.44
+  },
+  {
+    "text": "15 percent off joma class",
+    "start": 295.68,
+    "duration": 8.48
+  }
+]

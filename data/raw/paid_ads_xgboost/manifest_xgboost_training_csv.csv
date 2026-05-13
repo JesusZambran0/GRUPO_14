@@ -1,0 +1,7 @@
+file,rows,description,source_url
+facebook_kag_conversion.csv,1143,"Fuente raw Facebook/KAG con impressions, clicks, spent y conversions",https://raw.githubusercontent.com/mGalarnyk/Python_Tutorials/master/Kaggle/Facebook/KAG_conversion_data.csv
+onyx_marketing_campaign.csv,9900,"Fuente raw Onyx con campaign, channel, device, impressions, CTR, clicks, CPC, spend y conversions",https://raw.githubusercontent.com/Github-sanket07sett/Market-Campaign-Analysis/refs/heads/main/onyx%20data.csv
+paid_ads_xgboost_training_processed.csv,10763,"Dataset procesado con features, targets y métricas auxiliares para auditoría",Derivado de los dos CSV raw anteriores
+paid_ads_xgboost_training_ready_no_leakage.csv,10763,Dataset listo para entrenamiento XGBoost sin columnas de fuga; targets: paid_performance_score y cpm,Derivado de paid_ads_xgboost_training_processed.csv
+paid_ads_xgboost_train_ready_no_leakage.csv,8610,Partición train 80% sin columnas de fuga,Derivado de paid_ads_xgboost_training_ready_no_leakage.csv
+paid_ads_xgboost_test_ready_no_leakage.csv,2153,Partición test 20% sin columnas de fuga,Derivado de paid_ads_xgboost_training_ready_no_leakage.csv

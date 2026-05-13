@@ -1,0 +1,1682 @@
+[
+  {
+    "text": "in the series of learning programming in",
+    "start": 0.32,
+    "duration": 3.28
+  },
+  {
+    "text": "c we have discussed all the loops four",
+    "start": 1.76,
+    "duration": 3.76
+  },
+  {
+    "text": "while dual as well as we have discussed",
+    "start": 3.6,
+    "duration": 4.159
+  },
+  {
+    "text": "nested loops nested four nested while",
+    "start": 5.52,
+    "duration": 3.92
+  },
+  {
+    "text": "listed do i do right",
+    "start": 7.759,
+    "duration": 3.441
+  },
+  {
+    "text": "so now from this video i'm going to",
+    "start": 9.44,
+    "duration": 4.159
+  },
+  {
+    "text": "start discussing some programs",
+    "start": 11.2,
+    "duration": 4.8
+  },
+  {
+    "text": "printing pattern programs 5410 printing",
+    "start": 13.599,
+    "duration": 4.081
+  },
+  {
+    "text": "pattern programs we are going to discuss",
+    "start": 16.0,
+    "duration": 3.359
+  },
+  {
+    "text": "right but first in this video we will",
+    "start": 17.68,
+    "duration": 3.84
+  },
+  {
+    "text": "discuss how to print this pattern",
+    "start": 19.359,
+    "duration": 4.881
+  },
+  {
+    "text": "right but first please check out that",
+    "start": 21.52,
+    "duration": 3.44
+  },
+  {
+    "text": "video where",
+    "start": 24.24,
+    "duration": 3.52
+  },
+  {
+    "text": "i have discussed what is need of nested",
+    "start": 24.96,
+    "duration": 3.84
+  },
+  {
+    "text": "loops",
+    "start": 27.76,
+    "duration": 3.679
+  },
+  {
+    "text": "right in that video i have discussed how",
+    "start": 28.8,
+    "duration": 3.439
+  },
+  {
+    "text": "to print",
+    "start": 31.439,
+    "duration": 4.96
+  },
+  {
+    "text": "a pattern like like this this pattern",
+    "start": 32.239,
+    "duration": 4.16
+  },
+  {
+    "text": "this kind of pattern i have discussed in",
+    "start": 36.719,
+    "duration": 3.36
+  },
+  {
+    "text": "that video right",
+    "start": 38.239,
+    "duration": 4.081
+  },
+  {
+    "text": "this video would be very basic and this",
+    "start": 40.079,
+    "duration": 4.0
+  },
+  {
+    "text": "video will be really very",
+    "start": 42.32,
+    "duration": 4.719
+  },
+  {
+    "text": "helpful to get all the programs that are",
+    "start": 44.079,
+    "duration": 4.0
+  },
+  {
+    "text": "we are going to discuss",
+    "start": 47.039,
+    "duration": 2.881
+  },
+  {
+    "text": "all the printing pattern programs here",
+    "start": 48.079,
+    "duration": 3.601
+  },
+  {
+    "text": "this is the basic video so please i",
+    "start": 49.92,
+    "duration": 3.76
+  },
+  {
+    "text": "recommend you to check this video first",
+    "start": 51.68,
+    "duration": 3.359
+  },
+  {
+    "text": "i'll put the link of that video in this",
+    "start": 53.68,
+    "duration": 2.24
+  },
+  {
+    "text": "i button",
+    "start": 55.039,
+    "duration": 3.2
+  },
+  {
+    "text": "you can check out in this video you will",
+    "start": 55.92,
+    "duration": 4.72
+  },
+  {
+    "text": "get the idea why we are using two for",
+    "start": 58.239,
+    "duration": 3.12
+  },
+  {
+    "text": "loops",
+    "start": 60.64,
+    "duration": 2.399
+  },
+  {
+    "text": "every single line the meaning of every",
+    "start": 61.359,
+    "duration": 3.601
+  },
+  {
+    "text": "single line i have discussed with proper",
+    "start": 63.039,
+    "duration": 3.041
+  },
+  {
+    "text": "example so that would",
+    "start": 64.96,
+    "duration": 2.72
+  },
+  {
+    "text": "really this video would be really",
+    "start": 66.08,
+    "duration": 3.44
+  },
+  {
+    "text": "helpful for you please check out that",
+    "start": 67.68,
+    "duration": 3.439
+  },
+  {
+    "text": "video first and then come to this video",
+    "start": 69.52,
+    "duration": 4.08
+  },
+  {
+    "text": "then you will get this video very easily",
+    "start": 71.119,
+    "duration": 5.68
+  },
+  {
+    "text": "right so now see here",
+    "start": 73.6,
+    "duration": 5.68
+  },
+  {
+    "text": "i am printing five lines and in each",
+    "start": 76.799,
+    "duration": 3.601
+  },
+  {
+    "text": "line i am printing",
+    "start": 79.28,
+    "duration": 4.56
+  },
+  {
+    "text": "five stars but the pattern is this one",
+    "start": 80.4,
+    "duration": 6.88
+  },
+  {
+    "text": "lines i am printing five but in first",
+    "start": 83.84,
+    "duration": 5.04
+  },
+  {
+    "text": "line i am printing one star",
+    "start": 87.28,
+    "duration": 3.519
+  },
+  {
+    "text": "then two star and three then four then",
+    "start": 88.88,
+    "duration": 4.16
+  },
+  {
+    "text": "five and this could be like this you can",
+    "start": 90.799,
+    "duration": 2.721
+  },
+  {
+    "text": "print",
+    "start": 93.04,
+    "duration": 3.84
+  },
+  {
+    "text": "ten lines right and in this line",
+    "start": 93.52,
+    "duration": 6.16
+  },
+  {
+    "text": "six star then seven start eight 9 and 10",
+    "start": 96.88,
+    "duration": 4.879
+  },
+  {
+    "text": "these kind of",
+    "start": 99.68,
+    "duration": 3.92
+  },
+  {
+    "text": "no pattern you can print it this is what",
+    "start": 101.759,
+    "duration": 3.521
+  },
+  {
+    "text": "a triangle see",
+    "start": 103.6,
+    "duration": 4.559
+  },
+  {
+    "text": "now i'm going to discuss this one only",
+    "start": 105.28,
+    "duration": 3.6
+  },
+  {
+    "text": "the logic",
+    "start": 108.159,
+    "duration": 3.041
+  },
+  {
+    "text": "on this board will drive in that program",
+    "start": 108.88,
+    "duration": 3.199
+  },
+  {
+    "text": "after",
+    "start": 111.2,
+    "duration": 2.48
+  },
+  {
+    "text": "i am not writing the complete program",
+    "start": 112.079,
+    "duration": 3.521
+  },
+  {
+    "text": "here but after that after discussing the",
+    "start": 113.68,
+    "duration": 2.64
+  },
+  {
+    "text": "logic",
+    "start": 115.6,
+    "duration": 3.76
+  },
+  {
+    "text": "i'll show you the output on that vs code",
+    "start": 116.32,
+    "duration": 6.479
+  },
+  {
+    "text": "on that that ide right on my laptop",
+    "start": 119.36,
+    "duration": 5.759
+  },
+  {
+    "text": "so please i have in the previous video i",
+    "start": 122.799,
+    "duration": 4.161
+  },
+  {
+    "text": "have already told you please install vs",
+    "start": 125.119,
+    "duration": 2.881
+  },
+  {
+    "text": "code as well as that",
+    "start": 126.96,
+    "duration": 3.999
+  },
+  {
+    "text": "compiler mingw and extension like code",
+    "start": 128.0,
+    "duration": 3.84
+  },
+  {
+    "text": "runner for",
+    "start": 130.959,
+    "duration": 3.201
+  },
+  {
+    "text": "your compiling the program and running",
+    "start": 131.84,
+    "duration": 3.36
+  },
+  {
+    "text": "the program right",
+    "start": 134.16,
+    "duration": 3.12
+  },
+  {
+    "text": "so i hope you are done with it if you",
+    "start": 135.2,
+    "duration": 3.039
+  },
+  {
+    "text": "are not",
+    "start": 137.28,
+    "duration": 2.64
+  },
+  {
+    "text": "done and if you are facing any problem",
+    "start": 138.239,
+    "duration": 3.201
+  },
+  {
+    "text": "you can tell me i'll",
+    "start": 139.92,
+    "duration": 3.44
+  },
+  {
+    "text": "make a video i'll upload a video on that",
+    "start": 141.44,
+    "duration": 3.92
+  },
+  {
+    "text": "thing also like how to install vs code",
+    "start": 143.36,
+    "duration": 2.48
+  },
+  {
+    "text": "or",
+    "start": 145.36,
+    "duration": 3.2
+  },
+  {
+    "text": "compiler and everything right so now get",
+    "start": 145.84,
+    "duration": 3.52
+  },
+  {
+    "text": "your laptop",
+    "start": 148.56,
+    "duration": 3.679
+  },
+  {
+    "text": "ready now see i'm just going to discuss",
+    "start": 149.36,
+    "duration": 3.92
+  },
+  {
+    "text": "the logic here",
+    "start": 152.239,
+    "duration": 4.0
+  },
+  {
+    "text": "so now here two for loop you need nested",
+    "start": 153.28,
+    "duration": 4.64
+  },
+  {
+    "text": "for loop why",
+    "start": 156.239,
+    "duration": 3.201
+  },
+  {
+    "text": "why the reason you will get when you",
+    "start": 157.92,
+    "duration": 3.84
+  },
+  {
+    "text": "watch this video one for loop is to",
+    "start": 159.44,
+    "duration": 3.439
+  },
+  {
+    "text": "print these lines",
+    "start": 161.76,
+    "duration": 4.64
+  },
+  {
+    "text": "how many lines five lines right so outer",
+    "start": 162.879,
+    "duration": 4.801
+  },
+  {
+    "text": "for loop would be you will take a",
+    "start": 166.4,
+    "duration": 2.96
+  },
+  {
+    "text": "variable i or j you can take any",
+    "start": 167.68,
+    "duration": 2.88
+  },
+  {
+    "text": "variable right",
+    "start": 169.36,
+    "duration": 3.76
+  },
+  {
+    "text": "and in a for loop you are actually",
+    "start": 170.56,
+    "duration": 3.44
+  },
+  {
+    "text": "printing",
+    "start": 173.12,
+    "duration": 3.36
+  },
+  {
+    "text": "so in first line i am printing 1 star in",
+    "start": 174.0,
+    "duration": 3.36
+  },
+  {
+    "text": "second line",
+    "start": 176.48,
+    "duration": 5.28
+  },
+  {
+    "text": "2 star right so when i is equal to 1",
+    "start": 177.36,
+    "duration": 7.84
+  },
+  {
+    "text": "means this line i is equal to 2 means",
+    "start": 181.76,
+    "duration": 4.72
+  },
+  {
+    "text": "you are printing this line",
+    "start": 185.2,
+    "duration": 4.16
+  },
+  {
+    "text": "i is equal to 3 this i is equal to 4 and",
+    "start": 186.48,
+    "duration": 4.32
+  },
+  {
+    "text": "i is equal to",
+    "start": 189.36,
+    "duration": 4.799
+  },
+  {
+    "text": "5 but if i is equal to 1 then",
+    "start": 190.8,
+    "duration": 6.56
+  },
+  {
+    "text": "the inner loop would be j",
+    "start": 194.159,
+    "duration": 6.16
+  },
+  {
+    "text": "right here i am printing j should run",
+    "start": 197.36,
+    "duration": 4.239
+  },
+  {
+    "text": "how many times",
+    "start": 200.319,
+    "duration": 4.0
+  },
+  {
+    "text": "only single time because only one time i",
+    "start": 201.599,
+    "duration": 3.601
+  },
+  {
+    "text": "am printing",
+    "start": 204.319,
+    "duration": 4.321
+  },
+  {
+    "text": "star here when i is equal to 1 then j",
+    "start": 205.2,
+    "duration": 4.319
+  },
+  {
+    "text": "was",
+    "start": 208.64,
+    "duration": 3.84
+  },
+  {
+    "text": "running how many times 5 times when i is",
+    "start": 209.519,
+    "duration": 3.841
+  },
+  {
+    "text": "equal to two",
+    "start": 212.48,
+    "duration": 4.319
+  },
+  {
+    "text": "at that time also j was running",
+    "start": 213.36,
+    "duration": 5.84
+  },
+  {
+    "text": "five times right please check out this",
+    "start": 216.799,
+    "duration": 4.0
+  },
+  {
+    "text": "video first after that come to this",
+    "start": 219.2,
+    "duration": 2.319
+  },
+  {
+    "text": "video",
+    "start": 220.799,
+    "duration": 2.961
+  },
+  {
+    "text": "now when i is equal to two then j is",
+    "start": 221.519,
+    "duration": 3.681
+  },
+  {
+    "text": "running how many times",
+    "start": 223.76,
+    "duration": 4.24
+  },
+  {
+    "text": "two times one and two two times i am",
+    "start": 225.2,
+    "duration": 3.92
+  },
+  {
+    "text": "printing",
+    "start": 228.0,
+    "duration": 4.319
+  },
+  {
+    "text": "right so how to print actually",
+    "start": 229.12,
+    "duration": 5.44
+  },
+  {
+    "text": "just write down a for loop j is equal to",
+    "start": 232.319,
+    "duration": 3.12
+  },
+  {
+    "text": "one",
+    "start": 234.56,
+    "duration": 4.16
+  },
+  {
+    "text": "right and j less than equal to now",
+    "start": 235.439,
+    "duration": 6.401
+  },
+  {
+    "text": "here j is not x here j was fixed",
+    "start": 238.72,
+    "duration": 5.36
+  },
+  {
+    "text": "5 so i have written j less than equal to",
+    "start": 241.84,
+    "duration": 3.28
+  },
+  {
+    "text": "5",
+    "start": 244.08,
+    "duration": 3.84
+  },
+  {
+    "text": "because every line i am printing star 5",
+    "start": 245.12,
+    "duration": 4.08
+  },
+  {
+    "text": "times but here",
+    "start": 247.92,
+    "duration": 4.72
+  },
+  {
+    "text": "j is what changing first 1 time then 2",
+    "start": 249.2,
+    "duration": 5.2
+  },
+  {
+    "text": "then 3 stars and four stars and five",
+    "start": 252.64,
+    "duration": 2.72
+  },
+  {
+    "text": "star",
+    "start": 254.4,
+    "duration": 4.64
+  },
+  {
+    "text": "so now what you can write here see",
+    "start": 255.36,
+    "duration": 7.04
+  },
+  {
+    "text": "i one j is running one time",
+    "start": 259.04,
+    "duration": 5.84
+  },
+  {
+    "text": "i is equal to two in second line j is",
+    "start": 262.4,
+    "duration": 3.76
+  },
+  {
+    "text": "running two times",
+    "start": 264.88,
+    "duration": 4.319
+  },
+  {
+    "text": "when i is three j is running 3 times 1 2",
+    "start": 266.16,
+    "duration": 6.24
+  },
+  {
+    "text": "3 here 4 times here 5 times",
+    "start": 269.199,
+    "duration": 5.201
+  },
+  {
+    "text": "so i hope you are getting my point j",
+    "start": 272.4,
+    "duration": 3.3
+  },
+  {
+    "text": "should be less than equal to",
+    "start": 274.4,
+    "duration": 2.88
+  },
+  {
+    "text": "[Music]",
+    "start": 275.7,
+    "duration": 5.26
+  },
+  {
+    "text": "i type and j plus plus",
+    "start": 277.28,
+    "duration": 8.72
+  },
+  {
+    "text": "and within this you are just printing",
+    "start": 280.96,
+    "duration": 5.04
+  },
+  {
+    "text": "star this is inner loop right",
+    "start": 286.639,
+    "duration": 5.28
+  },
+  {
+    "text": "and we are repeating this again and",
+    "start": 289.919,
+    "duration": 4.241
+  },
+  {
+    "text": "again so we will put these statements in",
+    "start": 291.919,
+    "duration": 6.481
+  },
+  {
+    "text": "outer loop that is 4 i is equal to 1",
+    "start": 294.16,
+    "duration": 7.2
+  },
+  {
+    "text": "and i less than equal to now i is what",
+    "start": 298.4,
+    "duration": 3.519
+  },
+  {
+    "text": "number of",
+    "start": 301.36,
+    "duration": 3.36
+  },
+  {
+    "text": "lines outer for loop is what to print",
+    "start": 301.919,
+    "duration": 3.921
+  },
+  {
+    "text": "number of",
+    "start": 304.72,
+    "duration": 4.479
+  },
+  {
+    "text": "lines how many lines 5 lines so i less",
+    "start": 305.84,
+    "duration": 4.96
+  },
+  {
+    "text": "than equal to",
+    "start": 309.199,
+    "duration": 6.481
+  },
+  {
+    "text": "5 right and i plus plus",
+    "start": 310.8,
+    "duration": 4.88
+  },
+  {
+    "text": "and as well as in the",
+    "start": 316.4,
+    "duration": 5.04
+  },
+  {
+    "text": "after this inner loop in the outer loop",
+    "start": 319.52,
+    "duration": 3.28
+  },
+  {
+    "text": "what you have to print because",
+    "start": 321.44,
+    "duration": 3.84
+  },
+  {
+    "text": "after printing one star next two stars",
+    "start": 322.8,
+    "duration": 3.6
+  },
+  {
+    "text": "should be printed in",
+    "start": 325.28,
+    "duration": 3.6
+  },
+  {
+    "text": "next line next three star should be",
+    "start": 326.4,
+    "duration": 3.84
+  },
+  {
+    "text": "printed in",
+    "start": 328.88,
+    "duration": 4.64
+  },
+  {
+    "text": "next line right so after the inner loop",
+    "start": 330.24,
+    "duration": 4.32
+  },
+  {
+    "text": "completion",
+    "start": 333.52,
+    "duration": 3.519
+  },
+  {
+    "text": "after running the inner loop two times",
+    "start": 334.56,
+    "duration": 3.76
+  },
+  {
+    "text": "then",
+    "start": 337.039,
+    "duration": 3.761
+  },
+  {
+    "text": "new line then again new line after each",
+    "start": 338.32,
+    "duration": 3.2
+  },
+  {
+    "text": "line",
+    "start": 340.8,
+    "duration": 3.6
+  },
+  {
+    "text": "a new line so new line how many times",
+    "start": 341.52,
+    "duration": 5.04
+  },
+  {
+    "text": "you need new line operator",
+    "start": 344.4,
+    "duration": 5.2
+  },
+  {
+    "text": "one two three four and five",
+    "start": 346.56,
+    "duration": 6.4
+  },
+  {
+    "text": "or obviously you can say four right",
+    "start": 349.6,
+    "duration": 7.12
+  },
+  {
+    "text": "so now 5 5 times so now new line",
+    "start": 352.96,
+    "duration": 4.959
+  },
+  {
+    "text": "operator we will print",
+    "start": 356.72,
+    "duration": 4.479
+  },
+  {
+    "text": "we will write down in outer loop",
+    "start": 357.919,
+    "duration": 6.961
+  },
+  {
+    "text": "not an inner loop right so now",
+    "start": 361.199,
+    "duration": 8.481
+  },
+  {
+    "text": "that's it this is the logic you can see",
+    "start": 364.88,
+    "duration": 8.0
+  },
+  {
+    "text": "when we dry run this program i i is",
+    "start": 369.68,
+    "duration": 3.92
+  },
+  {
+    "text": "equal to",
+    "start": 372.88,
+    "duration": 3.12
+  },
+  {
+    "text": "1 i less than equal to 5 yes condition",
+    "start": 373.6,
+    "duration": 3.12
+  },
+  {
+    "text": "is true",
+    "start": 376.0,
+    "duration": 2.639
+  },
+  {
+    "text": "so now control will enter here now j is",
+    "start": 376.72,
+    "duration": 4.08
+  },
+  {
+    "text": "equal to one so now j is also",
+    "start": 378.639,
+    "duration": 4.961
+  },
+  {
+    "text": "one at first j less than equal to i i",
+    "start": 380.8,
+    "duration": 4.32
+  },
+  {
+    "text": "value is one",
+    "start": 383.6,
+    "duration": 3.439
+  },
+  {
+    "text": "j one j is also one one less than equal",
+    "start": 385.12,
+    "duration": 3.84
+  },
+  {
+    "text": "to one yes condition true so control",
+    "start": 387.039,
+    "duration": 2.88
+  },
+  {
+    "text": "will enter here",
+    "start": 388.96,
+    "duration": 3.6
+  },
+  {
+    "text": "so now we are just printing what star",
+    "start": 389.919,
+    "duration": 3.521
+  },
+  {
+    "text": "first",
+    "start": 392.56,
+    "duration": 4.16
+  },
+  {
+    "text": "right now j plus plus j becomes 2 2 less",
+    "start": 393.44,
+    "duration": 4.0
+  },
+  {
+    "text": "than equal to i",
+    "start": 396.72,
+    "duration": 3.039
+  },
+  {
+    "text": "i is 1 is condition true no so control",
+    "start": 397.44,
+    "duration": 3.36
+  },
+  {
+    "text": "will go",
+    "start": 399.759,
+    "duration": 3.201
+  },
+  {
+    "text": "out of the loop immediately what",
+    "start": 400.8,
+    "duration": 3.36
+  },
+  {
+    "text": "statement we have written after",
+    "start": 402.96,
+    "duration": 3.84
+  },
+  {
+    "text": "after this loop printf slash n so now",
+    "start": 404.16,
+    "duration": 4.0
+  },
+  {
+    "text": "cursor would move to",
+    "start": 406.8,
+    "duration": 5.2
+  },
+  {
+    "text": "next line right now",
+    "start": 408.16,
+    "duration": 6.24
+  },
+  {
+    "text": "i plus plus because now we are in outer",
+    "start": 412.0,
+    "duration": 4.319
+  },
+  {
+    "text": "loop i plus plus now i becomes 2",
+    "start": 414.4,
+    "duration": 3.44
+  },
+  {
+    "text": "2 less than equal to 5 yes condition",
+    "start": 416.319,
+    "duration": 3.841
+  },
+  {
+    "text": "true again enter into this loop",
+    "start": 417.84,
+    "duration": 4.96
+  },
+  {
+    "text": "now what again j is equal to 1 so j",
+    "start": 420.16,
+    "duration": 4.479
+  },
+  {
+    "text": "would be initialized again to",
+    "start": 422.8,
+    "duration": 4.88
+  },
+  {
+    "text": "1 now 1 less than equal to",
+    "start": 424.639,
+    "duration": 5.761
+  },
+  {
+    "text": "i is 2 yes condition is true control",
+    "start": 427.68,
+    "duration": 4.239
+  },
+  {
+    "text": "will enter here again we are going to",
+    "start": 430.4,
+    "duration": 2.4
+  },
+  {
+    "text": "print here",
+    "start": 431.919,
+    "duration": 4.081
+  },
+  {
+    "text": "star j plus plus now j becomes 2 2 less",
+    "start": 432.8,
+    "duration": 5.04
+  },
+  {
+    "text": "than equal to 2 because i is",
+    "start": 436.0,
+    "duration": 4.4
+  },
+  {
+    "text": "2 here yes condition is true again we",
+    "start": 437.84,
+    "duration": 4.32
+  },
+  {
+    "text": "are going to print 1 star",
+    "start": 440.4,
+    "duration": 4.4
+  },
+  {
+    "text": "now j plus plus j becomes 3 is 3 less",
+    "start": 442.16,
+    "duration": 3.759
+  },
+  {
+    "text": "than equal to 2",
+    "start": 444.8,
+    "duration": 3.519
+  },
+  {
+    "text": "no now control will go out of the loop",
+    "start": 445.919,
+    "duration": 4.4
+  },
+  {
+    "text": "and slash and slashing means now cursor",
+    "start": 448.319,
+    "duration": 2.961
+  },
+  {
+    "text": "would be",
+    "start": 450.319,
+    "duration": 4.16
+  },
+  {
+    "text": "next fly now i plus plus now i becomes 3",
+    "start": 451.28,
+    "duration": 4.8
+  },
+  {
+    "text": "3 less than equal to 5 yes condition",
+    "start": 454.479,
+    "duration": 3.28
+  },
+  {
+    "text": "true again enter here",
+    "start": 456.08,
+    "duration": 4.48
+  },
+  {
+    "text": "right again j would be initialized with",
+    "start": 457.759,
+    "duration": 3.601
+  },
+  {
+    "text": "1",
+    "start": 460.56,
+    "duration": 2.4
+  },
+  {
+    "text": "so now again check the condition and",
+    "start": 461.36,
+    "duration": 3.92
+  },
+  {
+    "text": "this should be repeated",
+    "start": 462.96,
+    "duration": 5.519
+  },
+  {
+    "text": "right now in this line three star will",
+    "start": 465.28,
+    "duration": 4.16
+  },
+  {
+    "text": "be printed next",
+    "start": 468.479,
+    "duration": 3.201
+  },
+  {
+    "text": "next four star will be printed next five",
+    "start": 469.44,
+    "duration": 4.159
+  },
+  {
+    "text": "stars should be",
+    "start": 471.68,
+    "duration": 5.28
+  },
+  {
+    "text": "printed when i becomes five",
+    "start": 473.599,
+    "duration": 5.921
+  },
+  {
+    "text": "finally when i becomes six i plus plus",
+    "start": 476.96,
+    "duration": 4.239
+  },
+  {
+    "text": "means i become six",
+    "start": 479.52,
+    "duration": 3.28
+  },
+  {
+    "text": "now six less than equal to five",
+    "start": 481.199,
+    "duration": 3.041
+  },
+  {
+    "text": "condition is not true",
+    "start": 482.8,
+    "duration": 4.0
+  },
+  {
+    "text": "so now control will go out of this four",
+    "start": 484.24,
+    "duration": 3.6
+  },
+  {
+    "text": "loop",
+    "start": 486.8,
+    "duration": 2.799
+  },
+  {
+    "text": "right and now this pattern should be",
+    "start": 487.84,
+    "duration": 3.12
+  },
+  {
+    "text": "printed",
+    "start": 489.599,
+    "duration": 4.481
+  },
+  {
+    "text": "in the previous program here what we",
+    "start": 490.96,
+    "duration": 4.48
+  },
+  {
+    "text": "were writing here",
+    "start": 494.08,
+    "duration": 5.119
+  },
+  {
+    "text": "rj less than equal to 5 that's it this",
+    "start": 495.44,
+    "duration": 6.24
+  },
+  {
+    "text": "is the only change in this program so if",
+    "start": 499.199,
+    "duration": 4.321
+  },
+  {
+    "text": "you got this program",
+    "start": 501.68,
+    "duration": 3.68
+  },
+  {
+    "text": "right by watching the previous video",
+    "start": 503.52,
+    "duration": 3.92
+  },
+  {
+    "text": "then you can easily modify",
+    "start": 505.36,
+    "duration": 5.6
+  },
+  {
+    "text": "according to the pattern right so now",
+    "start": 507.44,
+    "duration": 5.279
+  },
+  {
+    "text": "let me show you i hope you you got it",
+    "start": 510.96,
+    "duration": 4.24
+  },
+  {
+    "text": "now let me show you this program on that",
+    "start": 512.719,
+    "duration": 5.281
+  },
+  {
+    "text": "terminal see so now let me show you the",
+    "start": 515.2,
+    "duration": 6.24
+  },
+  {
+    "text": "same program on this ide now",
+    "start": 518.0,
+    "duration": 6.48
+  },
+  {
+    "text": "let me create one more file pattern",
+    "start": 521.44,
+    "duration": 5.76
+  },
+  {
+    "text": "2 dot c i have already created pattern 1",
+    "start": 524.48,
+    "duration": 3.28
+  },
+  {
+    "text": "right",
+    "start": 527.2,
+    "duration": 8.639
+  },
+  {
+    "text": "so now see",
+    "start": 527.76,
+    "duration": 8.079
+  },
+  {
+    "text": "i hope you can include the header file",
+    "start": 544.16,
+    "duration": 3.679
+  },
+  {
+    "text": "and you can write down small void mean",
+    "start": 545.839,
+    "duration": 4.081
+  },
+  {
+    "text": "so now we are going to take two variable",
+    "start": 547.839,
+    "duration": 3.361
+  },
+  {
+    "text": "i and",
+    "start": 549.92,
+    "duration": 5.2
+  },
+  {
+    "text": "j right and two for loops outer for loop",
+    "start": 551.2,
+    "duration": 4.96
+  },
+  {
+    "text": "would be to print",
+    "start": 555.12,
+    "duration": 4.719
+  },
+  {
+    "text": "line so i is equal to one semicolon i",
+    "start": 556.16,
+    "duration": 5.28
+  },
+  {
+    "text": "less than equal to how many lines i want",
+    "start": 559.839,
+    "duration": 2.961
+  },
+  {
+    "text": "to print according to the pad",
+    "start": 561.44,
+    "duration": 4.24
+  },
+  {
+    "text": "according to the pattern uh five lines",
+    "start": 562.8,
+    "duration": 3.599
+  },
+  {
+    "text": "right",
+    "start": 565.68,
+    "duration": 2.96
+  },
+  {
+    "text": "and now i plus plus and within this we",
+    "start": 566.399,
+    "duration": 4.081
+  },
+  {
+    "text": "are going to write one another for loop",
+    "start": 568.64,
+    "duration": 3.44
+  },
+  {
+    "text": "that is for j",
+    "start": 570.48,
+    "duration": 4.72
+  },
+  {
+    "text": "so j is also starting from 1 and j less",
+    "start": 572.08,
+    "duration": 4.56
+  },
+  {
+    "text": "than equal to",
+    "start": 575.2,
+    "duration": 5.44
+  },
+  {
+    "text": "i right and j plus plus",
+    "start": 576.64,
+    "duration": 7.12
+  },
+  {
+    "text": "fine and now within this inner for loop",
+    "start": 580.64,
+    "duration": 7.84
+  },
+  {
+    "text": "what you are doing you are printing star",
+    "start": 583.76,
+    "duration": 8.0
+  },
+  {
+    "text": "right and one more thing",
+    "start": 588.48,
+    "duration": 5.52
+  },
+  {
+    "text": "in this inner forum we are printing star",
+    "start": 591.76,
+    "duration": 4.48
+  },
+  {
+    "text": "and in outer for loop you are printing",
+    "start": 594.0,
+    "duration": 3.44
+  },
+  {
+    "text": "what",
+    "start": 596.24,
+    "duration": 4.96
+  },
+  {
+    "text": "new line right why new line we i already",
+    "start": 597.44,
+    "duration": 5.2
+  },
+  {
+    "text": "told you",
+    "start": 601.2,
+    "duration": 4.319
+  },
+  {
+    "text": "so now that's it let me run this and see",
+    "start": 602.64,
+    "duration": 5.52
+  },
+  {
+    "text": "what output you are getting",
+    "start": 605.519,
+    "duration": 5.44
+  },
+  {
+    "text": "see you are getting this this kind of",
+    "start": 608.16,
+    "duration": 3.76
+  },
+  {
+    "text": "output and this",
+    "start": 610.959,
+    "duration": 3.521
+  },
+  {
+    "text": "is what exactly what we want right this",
+    "start": 611.92,
+    "duration": 3.599
+  },
+  {
+    "text": "kind of",
+    "start": 614.48,
+    "duration": 4.08
+  },
+  {
+    "text": "ah pattern now if you want to print what",
+    "start": 615.519,
+    "duration": 5.921
+  },
+  {
+    "text": "10 lines simply you have to write down",
+    "start": 618.56,
+    "duration": 3.44
+  },
+  {
+    "text": "here",
+    "start": 621.44,
+    "duration": 4.0
+  },
+  {
+    "text": "i less than equal to 10",
+    "start": 622.0,
+    "duration": 6.72
+  },
+  {
+    "text": "and that's it right 15 lines you can",
+    "start": 625.44,
+    "duration": 5.92
+  },
+  {
+    "text": "easily write down here 15 right whatever",
+    "start": 628.72,
+    "duration": 3.28
+  },
+  {
+    "text": "you want to print",
+    "start": 631.36,
+    "duration": 2.4
+  },
+  {
+    "text": "or if you are not you do don't want to",
+    "start": 632.0,
+    "duration": 3.36
+  },
+  {
+    "text": "do hard coding then you can just take a",
+    "start": 633.76,
+    "duration": 3.6
+  },
+  {
+    "text": "simple variable like",
+    "start": 635.36,
+    "duration": 5.28
+  },
+  {
+    "text": "n and at the runtime you can ask the",
+    "start": 637.36,
+    "duration": 4.8
+  },
+  {
+    "text": "from the user enter value of",
+    "start": 640.64,
+    "duration": 3.68
+  },
+  {
+    "text": "n and here you can write down i less",
+    "start": 642.16,
+    "duration": 3.84
+  },
+  {
+    "text": "than equal to n",
+    "start": 644.32,
+    "duration": 4.48
+  },
+  {
+    "text": "right so now that is also fine and this",
+    "start": 646.0,
+    "duration": 4.079
+  },
+  {
+    "text": "is what hard coding",
+    "start": 648.8,
+    "duration": 4.24
+  },
+  {
+    "text": "fine so i hope you got it now how to",
+    "start": 650.079,
+    "duration": 3.601
+  },
+  {
+    "text": "print",
+    "start": 653.04,
+    "duration": 3.44
+  },
+  {
+    "text": "these lines see for in the previous",
+    "start": 653.68,
+    "duration": 4.159
+  },
+  {
+    "text": "video i have told you",
+    "start": 656.48,
+    "duration": 3.84
+  },
+  {
+    "text": "what we are printing printing we are",
+    "start": 657.839,
+    "duration": 4.56
+  },
+  {
+    "text": "printing the star in a square pattern",
+    "start": 660.32,
+    "duration": 5.12
+  },
+  {
+    "text": "right like this this is the program this",
+    "start": 662.399,
+    "duration": 4.801
+  },
+  {
+    "text": "is the program pattern one let me run",
+    "start": 665.44,
+    "duration": 2.959
+  },
+  {
+    "text": "this program for you",
+    "start": 667.2,
+    "duration": 2.72
+  },
+  {
+    "text": "and what output you are getting this",
+    "start": 668.399,
+    "duration": 6.0
+  },
+  {
+    "text": "kind of output you are getting right",
+    "start": 669.92,
+    "duration": 7.28
+  },
+  {
+    "text": "in every line i am printing five star",
+    "start": 674.399,
+    "duration": 4.56
+  },
+  {
+    "text": "and i have five lines so that is why",
+    "start": 677.2,
+    "duration": 2.72
+  },
+  {
+    "text": "outer loop is",
+    "start": 678.959,
+    "duration": 2.481
+  },
+  {
+    "text": "less than equal to five and inner loop",
+    "start": 679.92,
+    "duration": 3.599
+  },
+  {
+    "text": "is also less than equal to five",
+    "start": 681.44,
+    "duration": 5.04
+  },
+  {
+    "text": "but in this case in first we are",
+    "start": 683.519,
+    "duration": 5.201
+  },
+  {
+    "text": "printing only one star",
+    "start": 686.48,
+    "duration": 4.56
+  },
+  {
+    "text": "in second line we are printing two star",
+    "start": 688.72,
+    "duration": 3.92
+  },
+  {
+    "text": "then three star then four star that is",
+    "start": 691.04,
+    "duration": 3.2
+  },
+  {
+    "text": "why we are printing here less than equal",
+    "start": 692.64,
+    "duration": 2.24
+  },
+  {
+    "text": "to",
+    "start": 694.24,
+    "duration": 2.64
+  },
+  {
+    "text": "i writing a less than equal to y so i",
+    "start": 694.88,
+    "duration": 3.84
+  },
+  {
+    "text": "hope you are getting my point now so now",
+    "start": 696.88,
+    "duration": 3.199
+  },
+  {
+    "text": "i hope you good how to print this",
+    "start": 698.72,
+    "duration": 2.08
+  },
+  {
+    "text": "pattern",
+    "start": 700.079,
+    "duration": 2.88
+  },
+  {
+    "text": "see please let me know in comment box if",
+    "start": 700.8,
+    "duration": 4.32
+  },
+  {
+    "text": "this processor of explaining",
+    "start": 702.959,
+    "duration": 4.241
+  },
+  {
+    "text": "the program is fine like first of all",
+    "start": 705.12,
+    "duration": 4.0
+  },
+  {
+    "text": "discuss it the logic on the",
+    "start": 707.2,
+    "duration": 4.079
+  },
+  {
+    "text": "whiteboard and then i'll show you the",
+    "start": 709.12,
+    "duration": 3.6
+  },
+  {
+    "text": "output on the",
+    "start": 711.279,
+    "duration": 3.921
+  },
+  {
+    "text": "screen on that laptop right or if you",
+    "start": 712.72,
+    "duration": 3.919
+  },
+  {
+    "text": "want me to change",
+    "start": 715.2,
+    "duration": 3.439
+  },
+  {
+    "text": "something you can suggest me in comment",
+    "start": 716.639,
+    "duration": 3.841
+  },
+  {
+    "text": "box so now i hope",
+    "start": 718.639,
+    "duration": 4.801
+  },
+  {
+    "text": "you you got this program now it's in the",
+    "start": 720.48,
+    "duration": 5.039
+  },
+  {
+    "text": "next video in that video we'll discuss",
+    "start": 723.44,
+    "duration": 4.48
+  },
+  {
+    "text": "some other pattern right so now tell",
+    "start": 725.519,
+    "duration": 6.32
+  },
+  {
+    "text": "them why take it",
+    "start": 727.92,
+    "duration": 3.919
+  }
+]

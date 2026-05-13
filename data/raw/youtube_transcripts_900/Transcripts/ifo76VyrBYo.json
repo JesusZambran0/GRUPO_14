@@ -1,0 +1,937 @@
+[
+  {
+    "text": "Hi this is ﻿Anil from learning lad and in\nthis video we are going to talk about the",
+    "start": 0.199,
+    "duration": 4.81
+  },
+  {
+    "text": "computer, computer programming and the types\nof programming languages.",
+    "start": 5.009,
+    "duration": 4.71
+  },
+  {
+    "text": "A computer is a general purpose machines which\ncan perform many computational task now the",
+    "start": 9.719,
+    "duration": 6.581
+  },
+  {
+    "text": "modern day computers that we have they can\nperform billions or trillions of calculations",
+    "start": 16.3,
+    "duration": 5.99
+  },
+  {
+    "text": "within a fraction of second. now the thing\nthese computer's they can't really do anything",
+    "start": 22.29,
+    "duration": 5.97
+  },
+  {
+    "text": "on their own. so for a computer to do something\none has to give the instructions to it and",
+    "start": 28.26,
+    "duration": 7.68
+  },
+  {
+    "text": "these instructions will contain step by step\ninformation to perform a specific task and",
+    "start": 35.94,
+    "duration": 6.89
+  },
+  {
+    "text": "these instructions are called as program.\nnow the person who is going to write these",
+    "start": 42.83,
+    "duration": 6.27
+  },
+  {
+    "text": "instructions or the program is called as the\nprogrammer and here the programmer will write",
+    "start": 49.1,
+    "duration": 9.29
+  },
+  {
+    "text": "instructions or the program and the computer\nwill execute that or computer will work on",
+    "start": 58.39,
+    "duration": 6.019
+  },
+  {
+    "text": "that instructions",
+    "start": 64.409,
+    "duration": 1.73
+  },
+  {
+    "text": "now the computers that we have they contain\na lot of programs in them. There are some",
+    "start": 66.139,
+    "duration": 6.701
+  },
+  {
+    "text": "programs which will manage the computer hardware\nresources and they are called as the system",
+    "start": 72.84,
+    "duration": 5.19
+  },
+  {
+    "text": "programs and there are some programs which\nwill provide specific functionality to a user",
+    "start": 78.03,
+    "duration": 6.57
+  },
+  {
+    "text": "for example the Notepad web browser music\nplayer video player and all these types of",
+    "start": 84.6,
+    "duration": 6.64
+  },
+  {
+    "text": "programs are called as the application programs.",
+    "start": 91.24,
+    "duration": 2.909
+  },
+  {
+    "text": "now we know that we need to give instructions\nto the computer so that the computer can work",
+    "start": 94.149,
+    "duration": 5.57
+  },
+  {
+    "text": "on it now the thing is how we can give the\ninstruction to the computer or in which language",
+    "start": 99.719,
+    "duration": 6.21
+  },
+  {
+    "text": "we can give the instructions to the computer.\nNow since this computer is a machine how we",
+    "start": 105.929,
+    "duration": 5.87
+  },
+  {
+    "text": "can communicate with this machine.",
+    "start": 111.799,
+    "duration": 2.981
+  },
+  {
+    "text": "now the language in which these instructions\nare written or the language in which this",
+    "start": 114.78,
+    "duration": 6.439
+  },
+  {
+    "text": "program is written is called as the programming\nlanguage. now there are several types of programming",
+    "start": 121.219,
+    "duration": 7.71
+  },
+  {
+    "text": "languages and we are going to see the details\nabout them.",
+    "start": 128.929,
+    "duration": 2.991
+  },
+  {
+    "text": "now you guys may probably heard that the computers\ncan only understand the binary language. Now",
+    "start": 131.92,
+    "duration": 5.591
+  },
+  {
+    "text": "this binary language has only two values.\n0 and 1 so in this binary language whatever",
+    "start": 137.511,
+    "duration": 7.789
+  },
+  {
+    "text": "you want to say has to be in the form of this\n0 and 1. now here these computer's are built",
+    "start": 145.3,
+    "duration": 7.079
+  },
+  {
+    "text": "in such a way that they can understand or\nthey can recognise the pattern of the zeros",
+    "start": 152.379,
+    "duration": 5.94
+  },
+  {
+    "text": "and ones and then they can work on it accordingly.",
+    "start": 158.319,
+    "duration": 4.241
+  },
+  {
+    "text": "Now why we have built the computers to understand\nthis binary language?",
+    "start": 162.56,
+    "duration": 5.52
+  },
+  {
+    "text": "that is because this binary language which\nhas only two values is easy to create in the",
+    "start": 168.08,
+    "duration": 6.109
+  },
+  {
+    "text": "hardware level for example if we have a wire\nand if the current is flowing through this",
+    "start": 174.189,
+    "duration": 5.701
+  },
+  {
+    "text": "wire then we can say it is 1 if the current\nis not flowing then we can say it is zero.",
+    "start": 179.89,
+    "duration": 6.69
+  },
+  {
+    "text": "so in general we can say that one stands for\nsomething which exists and zero stands for",
+    "start": 186.58,
+    "duration": 5.32
+  },
+  {
+    "text": "something which doesn't exist so since this\nbinary language is easy to create in the hardware",
+    "start": 191.9,
+    "duration": 7.1
+  },
+  {
+    "text": "level so the computer is built in the hardware\nlevel to recognise this pattern of 0 and 1",
+    "start": 199.0,
+    "duration": 7.459
+  },
+  {
+    "text": "and while building the computer for a specific\npattern of 0 and 1 a specific setup operations",
+    "start": 206.459,
+    "duration": 7.09
+  },
+  {
+    "text": "are defined.",
+    "start": 213.549,
+    "duration": 1.52
+  },
+  {
+    "text": "so when the computer will see a specific pattern\nof 0 and 1 it knows what it has to do. so",
+    "start": 215.069,
+    "duration": 6.311
+  },
+  {
+    "text": "now the computers can understand this binary\nlanguage and this binary language with the",
+    "start": 221.38,
+    "duration": 5.99
+  },
+  {
+    "text": "computers understand are also called as the\nmachine language.",
+    "start": 227.37,
+    "duration": 5.35
+  },
+  {
+    "text": "now let's see the types of programming languages\navailable. now in this modern day we have",
+    "start": 232.72,
+    "duration": 6.499
+  },
+  {
+    "text": "a lot of programming languages available.\nso let's take a look at the types of programming",
+    "start": 239.219,
+    "duration": 6.11
+  },
+  {
+    "text": "languages.\nso the first type of programming language",
+    "start": 245.329,
+    "duration": 4.121
+  },
+  {
+    "text": "or the language in which we can communicate\nwith the computer is the language which the",
+    "start": 249.45,
+    "duration": 6.23
+  },
+  {
+    "text": "computer understands. now all of you know\nthat this computer's can understand this binary",
+    "start": 255.68,
+    "duration": 4.72
+  },
+  {
+    "text": "language or the machine language which is\nthe combination of zeros and ones.",
+    "start": 260.4,
+    "duration": 4.25
+  },
+  {
+    "text": "so the first type of programming languages\nis the machine level language And in this",
+    "start": 264.65,
+    "duration": 5.44
+  },
+  {
+    "text": "machine level language we have the instructions\nin the form of 0 and 1.",
+    "start": 270.09,
+    "duration": 4.82
+  },
+  {
+    "text": "so whatever you want to say has to be in the\nform of zero and one and since the computers",
+    "start": 274.91,
+    "duration": 6.25
+  },
+  {
+    "text": "are built in such a way that they can recognise\nthis zeros and ones and perform some specific",
+    "start": 281.16,
+    "duration": 5.81
+  },
+  {
+    "text": "operation on that the combination of zeros\nand ones you know we can communicate with",
+    "start": 286.97,
+    "duration": 5.24
+  },
+  {
+    "text": "his computer in this language.",
+    "start": 292.21,
+    "duration": 2.24
+  },
+  {
+    "text": "now the problem with this machine level language\nis in order to program in this machine level",
+    "start": 294.45,
+    "duration": 5.3
+  },
+  {
+    "text": "language one has to know everything about\nthe computer. so here the programmer is directly",
+    "start": 299.75,
+    "duration": 7.24
+  },
+  {
+    "text": "dealing with the hardware level so he is directly\nworking on the memory and the data.",
+    "start": 306.99,
+    "duration": 6.26
+  },
+  {
+    "text": "so the programeer needs to know everything\nabout the computer, computer processor the",
+    "start": 313.25,
+    "duration": 4.42
+  },
+  {
+    "text": "computer architecture everything about that\nhe has to know and that's why this machine",
+    "start": 317.67,
+    "duration": 5.68
+  },
+  {
+    "text": "level language is a bit difficult to learn\nand also think about this let's say you want",
+    "start": 323.35,
+    "duration": 7.01
+  },
+  {
+    "text": "to write a program in the machine level language\nor you want to give instructions to the computer",
+    "start": 330.36,
+    "duration": 5.09
+  },
+  {
+    "text": "in the machine level language and your program\nconsists of thousand lines. all your instruction",
+    "start": 335.45,
+    "duration": 7.51
+  },
+  {
+    "text": "will contain this 0 and 1 and this combination\nof the zeros and ones. first of all it is",
+    "start": 342.96,
+    "duration": 5.6
+  },
+  {
+    "text": "difficult to write the program and also if\nyou make some mistakes in your program then",
+    "start": 348.56,
+    "duration": 5.58
+  },
+  {
+    "text": "it is difficult to spot and because of all\nthese, a normal guy can't really learn the",
+    "start": 354.14,
+    "duration": 5.83
+  },
+  {
+    "text": "programming easily.",
+    "start": 359.97,
+    "duration": 2.39
+  },
+  {
+    "text": "so to solve these kind of problems another\ntype of programming languages were invented",
+    "start": 362.36,
+    "duration": 5.92
+  },
+  {
+    "text": "and they are called as the Assembly level\nlanguage.",
+    "start": 368.28,
+    "duration": 4.88
+  },
+  {
+    "text": "in this assembly level language instead of\nthat zeros and ones combination mnemonic the",
+    "start": 373.16,
+    "duration": 5.78
+  },
+  {
+    "text": "symbolic codes were introduced for example\nif the programmer has to write an instruction",
+    "start": 378.94,
+    "duration": 5.7
+  },
+  {
+    "text": "let's say he wants to add the numbers 5 and\n6.",
+    "start": 384.64,
+    "duration": 4.5
+  },
+  {
+    "text": "then in the machine level language it has\nto be in the form of this zeros and ones.",
+    "start": 389.14,
+    "duration": 5.4
+  },
+  {
+    "text": "so let's say this is gonna be the instruction\nto add the numbers 5 and 6.",
+    "start": 394.54,
+    "duration": 5.7
+  },
+  {
+    "text": "so in the machine level language it will look\nlike this but in the Assembly level language",
+    "start": 400.24,
+    "duration": 3.88
+  },
+  {
+    "text": "mnemonic codes for used and the programmer\ncould write ADD 5 6.",
+    "start": 404.12,
+    "duration": 7.5
+  },
+  {
+    "text": "So a lot of mnemonic or the symbolic codes\nwhere used and the programmer could write",
+    "start": 411.62,
+    "duration": 5.21
+  },
+  {
+    "text": "the program in this way.\nso it was a lot more human readable format",
+    "start": 416.83,
+    "duration": 5.76
+  },
+  {
+    "text": "the programmer can understand the code just\nby looking at it and it was a lot easier to",
+    "start": 422.59,
+    "duration": 6.46
+  },
+  {
+    "text": "code than the machine level language.",
+    "start": 429.05,
+    "duration": 3.1
+  },
+  {
+    "text": "so now the thing is the source code of the\nprogram written in this assembly level language",
+    "start": 432.15,
+    "duration": 6.57
+  },
+  {
+    "text": "by using this mnemonic or the symbol Codes\ncannot be directly executed in this computer",
+    "start": 438.72,
+    "duration": 6.4
+  },
+  {
+    "text": "that is because this computer can only understand\nthe machine language.",
+    "start": 445.12,
+    "duration": 4.78
+  },
+  {
+    "text": "so what we have to do is we have to convert\nthe code which is written in the Assembly",
+    "start": 449.9,
+    "duration": 5.32
+  },
+  {
+    "text": "level language to machine level language so\nthat the computer can understand it and execute",
+    "start": 455.22,
+    "duration": 5.82
+  },
+  {
+    "text": "it.\nso the program written in the Assembly level",
+    "start": 461.04,
+    "duration": 3.05
+  },
+  {
+    "text": "language needs to be converted to the machine\nlevel language and to convert that a program",
+    "start": 464.09,
+    "duration": 6.08
+  },
+  {
+    "text": "was used and that program is called as the\nassembler.",
+    "start": 470.17,
+    "duration": 5.99
+  },
+  {
+    "text": "so this assembler will convert the code written\nin the Assembly level language to machine",
+    "start": 476.16,
+    "duration": 5.05
+  },
+  {
+    "text": "level language.\nnow this assembly level language was lot more",
+    "start": 481.21,
+    "duration": 4.1
+  },
+  {
+    "text": "easy to learn and someone can learn the programming\na lot more easily than the machine level language",
+    "start": 485.31,
+    "duration": 7.03
+  },
+  {
+    "text": "but this assembly level language also had\nthe same difficulties.",
+    "start": 492.34,
+    "duration": 4.14
+  },
+  {
+    "text": "although it was a lot easy to write the programs\nthan the machine level language in assembly",
+    "start": 496.48,
+    "duration": 4.93
+  },
+  {
+    "text": "level language if the program size increases\nthen again it is difficult to spot the errors",
+    "start": 501.41,
+    "duration": 6.51
+  },
+  {
+    "text": "and also the code written in the Assembly\nlevel language was also Computer Architecture",
+    "start": 507.92,
+    "duration": 5.3
+  },
+  {
+    "text": "dependent.",
+    "start": 513.22,
+    "duration": 1.0
+  },
+  {
+    "text": "so the code return for one type of computer\ncannot be executed in another type of computer",
+    "start": 514.22,
+    "duration": 6.15
+  },
+  {
+    "text": "which has different architecture so again\nto solve these kind of problems a new types",
+    "start": 520.37,
+    "duration": 6.04
+  },
+  {
+    "text": "of languages by invented so that a lot more\npeople can come and write the programs and",
+    "start": 526.41,
+    "duration": 7.08
+  },
+  {
+    "text": "that type of programming languages are called\nas the Higher level languages.",
+    "start": 533.49,
+    "duration": 6.13
+  },
+  {
+    "text": "the high level languages are designed in such\na way that they are very easy for a beginner",
+    "start": 539.62,
+    "duration": 6.1
+  },
+  {
+    "text": "to learn and they were very close to the human\nreadable language for example in this higher",
+    "start": 545.72,
+    "duration": 6.41
+  },
+  {
+    "text": "level language one could write the instruction\nto add 5 and 6 like this.",
+    "start": 552.13,
+    "duration": 8.27
+  },
+  {
+    "text": "so this 5 + 6 is a lot more similar to the\nhuman language so just by looking at the code",
+    "start": 560.4,
+    "duration": 7.24
+  },
+  {
+    "text": "one can understand what we're trying to do\nand since this higher level languages where",
+    "start": 567.64,
+    "duration": 5.23
+  },
+  {
+    "text": "a lot more easy to learn many people started\nlearning computer programming and started",
+    "start": 572.87,
+    "duration": 5.84
+  },
+  {
+    "text": "creating lot more programs.",
+    "start": 578.71,
+    "duration": 2.72
+  },
+  {
+    "text": "now again the thing is the program written\nin the higher level language cannot be directly",
+    "start": 581.43,
+    "duration": 5.3
+  },
+  {
+    "text": "executed in the computer that is because the\ncomputer can only understand the machine language",
+    "start": 586.73,
+    "duration": 6.32
+  },
+  {
+    "text": "which can contain 0 and 1 but the higher level\nlanguage is very close to the human languages.",
+    "start": 593.05,
+    "duration": 6.78
+  },
+  {
+    "text": "so we have to convert the program which is\nwritten in the high level language to machine",
+    "start": 599.83,
+    "duration": 6.37
+  },
+  {
+    "text": "language which the computers can understand\nand execute. so for this high level languages",
+    "start": 606.2,
+    "duration": 6.47
+  },
+  {
+    "text": "there are two ways in which we can convert\nthe source code from high level language to",
+    "start": 612.67,
+    "duration": 5.79
+  },
+  {
+    "text": "machine level language and execute it and\nthe two methods which were used to convert",
+    "start": 618.46,
+    "duration": 6.37
+  },
+  {
+    "text": "the high level language program to machine\nlevel language one was the compilation method",
+    "start": 624.83,
+    "duration": 4.98
+  },
+  {
+    "text": "where a program called compiler was used.",
+    "start": 629.81,
+    "duration": 3.82
+  },
+  {
+    "text": "this is the compilation method another method\nis called as the interpretation and for this",
+    "start": 633.63,
+    "duration": 8.3
+  },
+  {
+    "text": "interpretation method another type of program\ncalled as interpreter was used and we will",
+    "start": 641.93,
+    "duration": 6.01
+  },
+  {
+    "text": "see the details of this compilation and interpretation\nmethod a bit later but here just remember",
+    "start": 647.94,
+    "duration": 5.82
+  },
+  {
+    "text": "that although these are two different methods\nwhat they do is they convert the program which",
+    "start": 653.76,
+    "duration": 5.52
+  },
+  {
+    "text": "is written in the high level language to machine\nlevel language which the computers can understand",
+    "start": 659.28,
+    "duration": 5.86
+  },
+  {
+    "text": "and execute.",
+    "start": 665.14,
+    "duration": 1.51
+  },
+  {
+    "text": "now here this machine level language and the\nAssembly level language they are called as",
+    "start": 666.65,
+    "duration": 4.44
+  },
+  {
+    "text": "the lower level languages.\nbecause while writing the programs in this",
+    "start": 671.09,
+    "duration": 5.06
+  },
+  {
+    "text": "machine and assembly level language the programmers\ncould easily access the computer memory and",
+    "start": 676.15,
+    "duration": 6.34
+  },
+  {
+    "text": "directly work with the data. but with the\nmost of this high level languages the programmers",
+    "start": 682.49,
+    "duration": 5.49
+  },
+  {
+    "text": "can't directly access the memory and the work\nwith data.",
+    "start": 687.98,
+    "duration": 4.68
+  },
+  {
+    "text": "but there are some languages in the high level\nlanguage type which allow the programmer to",
+    "start": 692.66,
+    "duration": 5.93
+  },
+  {
+    "text": "work with the Computer memory and the data\nand they are called as the middle level languages",
+    "start": 698.59,
+    "duration": 10.47
+  },
+  {
+    "text": "and this middle level languages they provide\nall the features of the higher level languages",
+    "start": 709.06,
+    "duration": 5.07
+  },
+  {
+    "text": "and also they allow the programmer to work\nwith the Computer memory and data directly",
+    "start": 714.13,
+    "duration": 5.44
+  },
+  {
+    "text": "and since this languages provide the feature\nof the lower level language and also the high",
+    "start": 719.57,
+    "duration": 4.83
+  },
+  {
+    "text": "level language they are called as the middle\nlevel languages and we have the languages",
+    "start": 724.4,
+    "duration": 4.94
+  },
+  {
+    "text": "like C and C plus plus are these are all the\nmiddle level languages because allow the programmer",
+    "start": 729.34,
+    "duration": 6.41
+  },
+  {
+    "text": "to work with the Computer memory and data\nand also they provide all the features of",
+    "start": 735.75,
+    "duration": 4.06
+  },
+  {
+    "text": "this high level language and in the high level\nlanguages we have Java C Sharp python etc.",
+    "start": 739.81,
+    "duration": 10.04
+  },
+  {
+    "text": "this machine level language which is very\nclose to the machine or you know this language",
+    "start": 749.85,
+    "duration": 5.21
+  },
+  {
+    "text": "the computer directly understands, it executes\nmuch faster than all these languages.",
+    "start": 755.06,
+    "duration": 5.97
+  },
+  {
+    "text": "so the execution speed of this machine language\nis very high and after this machine level",
+    "start": 761.03,
+    "duration": 5.46
+  },
+  {
+    "text": "language we have the Assembly languages and\ntheir execution speed is better than the high",
+    "start": 766.49,
+    "duration": 5.501
+  },
+  {
+    "text": "level languages but a bit slower than the\nmachine level language and then we have the",
+    "start": 771.991,
+    "duration": 6.009
+  },
+  {
+    "text": "high level languages.",
+    "start": 778.0,
+    "duration": 2.18
+  },
+  {
+    "text": "so now as I said before in this high level\nlanguages we can convert the code from higher",
+    "start": 780.18,
+    "duration": 4.921
+  },
+  {
+    "text": "level language to machine code in two different\nways one is the compilation method another",
+    "start": 785.101,
+    "duration": 4.919
+  },
+  {
+    "text": "one is interpretation method.",
+    "start": 790.02,
+    "duration": 2.15
+  },
+  {
+    "text": "let's see this compilation and interpretation\nmethod in detail.",
+    "start": 792.17,
+    "duration": 4.44
+  },
+  {
+    "text": "so first see the compilation.\nso in the compilation method a program called",
+    "start": 796.61,
+    "duration": 5.78
+  },
+  {
+    "text": "compiler is used and this compiler Will take\nthe high level language program and it will",
+    "start": 802.39,
+    "duration": 6.91
+  },
+  {
+    "text": "convert that to the machine language and this\nprocess is called as the compilation method",
+    "start": 809.3,
+    "duration": 8.36
+  },
+  {
+    "text": "and here what happens is this compiler will\nread the high level language program let's",
+    "start": 817.66,
+    "duration": 7.33
+  },
+  {
+    "text": "say this is high level language program it\nwill read this program and it will convert",
+    "start": 824.99,
+    "duration": 5.0
+  },
+  {
+    "text": "that to the machine language. it will convert\nthis entire program into machine language",
+    "start": 829.99,
+    "duration": 6.92
+  },
+  {
+    "text": "and then this machine language code will be\nexecuted.",
+    "start": 836.91,
+    "duration": 4.86
+  },
+  {
+    "text": "so the thing is compiler will convert entire\nprogram which is written in the high level",
+    "start": 841.77,
+    "duration": 6.22
+  },
+  {
+    "text": "language to machine level language and then\nthat machine level language code will be executed.",
+    "start": 847.99,
+    "duration": 7.46
+  },
+  {
+    "text": "now let's take a look at this interpretation\nmethod so here also we will be converting",
+    "start": 855.45,
+    "duration": 5.25
+  },
+  {
+    "text": "the program written in the high level language\nto the machine level language and then executing",
+    "start": 860.7,
+    "duration": 5.71
+  },
+  {
+    "text": "that. and for that purpose we will be using\na program called as the interpreter and this",
+    "start": 866.41,
+    "duration": 6.02
+  },
+  {
+    "text": "process is called as the interpretation.",
+    "start": 872.43,
+    "duration": 3.13
+  },
+  {
+    "text": "so the process of converting the high level\nlanguage program to machine language by using",
+    "start": 875.56,
+    "duration": 5.44
+  },
+  {
+    "text": "the program interpreter is called as the interpretation\nmethod now here what happens is lets say this",
+    "start": 881.0,
+    "duration": 8.36
+  },
+  {
+    "text": "is the source code or the programs written\nin the high level language and this interpreter",
+    "start": 889.36,
+    "duration": 6.87
+  },
+  {
+    "text": "what it does is first it will read the first\nline of this source code or the program which",
+    "start": 896.23,
+    "duration": 7.23
+  },
+  {
+    "text": "is in the high level language and then it\nwill convert that to the machine code and",
+    "start": 903.46,
+    "duration": 6.41
+  },
+  {
+    "text": "then it will execute it immediately and after\nthat it will go to the next line of the high",
+    "start": 909.87,
+    "duration": 6.99
+  },
+  {
+    "text": "level language program it will read that it\nwill convert that code and then it will execute",
+    "start": 916.86,
+    "duration": 6.039
+  },
+  {
+    "text": "it immediately and then it will go to the\nthird line and then again it will convert",
+    "start": 922.899,
+    "duration": 6.531
+  },
+  {
+    "text": "that code and then it will execute it.",
+    "start": 929.43,
+    "duration": 3.13
+  },
+  {
+    "text": "so in the compilation process the entire program\nwhich was written in the high level language",
+    "start": 932.56,
+    "duration": 6.19
+  },
+  {
+    "text": "was read first then it was converted to machine\nlevel language and then that entire program",
+    "start": 938.75,
+    "duration": 5.35
+  },
+  {
+    "text": "was executed at once but with the interpretation\nmethod the interpreter will read the program",
+    "start": 944.1,
+    "duration": 8.42
+  },
+  {
+    "text": "which is in the high level language line by\nline it and it will convert and execute each",
+    "start": 952.52,
+    "duration": 5.92
+  },
+  {
+    "text": "line immediately at a time. and this is how\nthe compiler and interpreter work.",
+    "start": 958.44,
+    "duration": 7.269
+  },
+  {
+    "text": "now there are many languages in the high level\nlanguage type and in that languages some follow",
+    "start": 965.709,
+    "duration": 6.0
+  },
+  {
+    "text": "the compilation method and some follow the\ninterpretation method.",
+    "start": 971.709,
+    "duration": 4.69
+  },
+  {
+    "text": "the languages which follow the compilation\nmethod are called as the compiled languages",
+    "start": 976.399,
+    "duration": 7.601
+  },
+  {
+    "text": "and for example we have C C + + etc these\nare all the compiled languages where the compilation",
+    "start": 984.0,
+    "duration": 7.89
+  },
+  {
+    "text": "method is used to convert the program iwhich\nis written in these languages to the machine",
+    "start": 991.89,
+    "duration": 6.09
+  },
+  {
+    "text": "language and the higher level languages which\nfollow the interpretation method are called",
+    "start": 997.98,
+    "duration": 5.75
+  },
+  {
+    "text": "as the interpreted languages for example we\nhave Python and this Python is an interpreted",
+    "start": 1003.73,
+    "duration": 8.56
+  },
+  {
+    "text": "language.",
+    "start": 1012.29,
+    "duration": 1.0
+  },
+  {
+    "text": "All right. this is it guys this is about the\ncomputers computer programming types of programming",
+    "start": 1013.29,
+    "duration": 6.16
+  },
+  {
+    "text": "languages compilation and the interpretation\nmethod and I really hope that you have learn",
+    "start": 1019.45,
+    "duration": 5.23
+  },
+  {
+    "text": "something from this video and if you like\nthis video then give a thumbs up and if you",
+    "start": 1024.68,
+    "duration": 5.05
+  },
+  {
+    "text": "don't like it then give a thumbs down and\nalso share your opinion about this video what",
+    "start": 1029.73,
+    "duration": 5.77
+  },
+  {
+    "text": "do you think about it and if you think that\nthis video will help some of your friends",
+    "start": 1035.5,
+    "duration": 5.499
+  },
+  {
+    "text": "then do share this video with them and also\nyou can subscribe to our channel if you want",
+    "start": 1040.999,
+    "duration": 4.94
+  },
+  {
+    "text": "to watch more tutorials like this and if you\nsubscribe to our channel then when I upload",
+    "start": 1045.939,
+    "duration": 5.61
+  },
+  {
+    "text": "a new video you will be get notified immediately.\nso thank you for watching this video and I'll",
+    "start": 1051.549,
+    "duration": 5.681
+  },
+  {
+    "text": "see you in Next tutorial.",
+    "start": 1057.23,
+    "duration": 0.979
+  }
+]

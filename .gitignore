@@ -1,0 +1,35 @@
+# Entorno
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Caché runtime de OCR/transcripción (no commitear)
+.cache/
+
+# Salidas que se regeneran al entrenar
+# (las dejamos versionadas para que la demo no parta de cero;
+#  si prefieres regenerar siempre, descomenta las líneas siguientes)
+# outputs/*.csv
+# outputs/*.json
+# outputs/*.md
+
+# Datasets grandes descargados de Kaggle (NO commitear)
+data/raw/*.zip
+data/raw/*.tar.gz
+
+# Sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,242 @@
+{
+  "name": "video sin narrador (saturado)",
+  "transcript_text": "Oferta exclusiva solo hoy descuento limitado aprovecha resultados garantizados.",
+  "ocr_text": "OFERTA EXCLUSIVA SOLO HOY DESCUENTO LIMITADO APROVECHA RESULTADOS GARANTIZADOS EXPERTOS CERTIFICADOS COMPRA AHORA SUSCRIBETE GRATIS PROMOCION ULTIMOS DIAS BENEFICIO COMPROBADO MEJORA TUS RESULTADOS CALIDAD VERIFICADA APRENDE FACIL DESCUBRE MAS REGISTRATE OFERTA UNICA NO TE LO PIERDAS LLAMA YA VISITA NUESTRO SITIO",
+  "result_json": {
+    "prediccion_rendimiento": "muy_alto",
+    "probabilidad_rendimiento": 0.98,
+    "recomendacion_impulso": "ajustar antes de impulsar",
+    "requiere_ajustes": true,
+    "nivel_prioridad": "alta",
+    "alcance_estimado_por_dolar": 320.0,
+    "alcance_estimado_total": 6400.0,
+    "metricas": {
+      "views": 85000,
+      "likes": 6400,
+      "comments": 520,
+      "engagement_rate": 0.081412,
+      "like_rate": 0.075294,
+      "comment_rate": 0.006118,
+      "views_per_day": 85000.0,
+      "duration_seconds": 7.0,
+      "duration_fit_score": 0.95,
+      "text_power_score": 0.92,
+      "title_word_count": 5,
+      "description_word_count": 11,
+      "transcript_word_count": 9,
+      "ocr_word_count": 41,
+      "ocr_frame_coverage": 0.9,
+      "visual_text_density": "alta",
+      "video_type": "sin narrador",
+      "operational": {
+        "shares": 180,
+        "share_rate": 0.002118,
+        "retention_rate": 0.45,
+        "hours_since_publication": 24.0,
+        "views_per_hour": 3541.6667,
+        "average_watch_time": 0.0,
+        "followers_count": 0,
+        "avg_channel_reach": 0
+      }
+    },
+    "analisis_transcripcion": {
+      "disponible": true,
+      "fuente": "demo_precalculado",
+      "advertencia": "",
+      "longitud_caracteres": 79,
+      "cantidad_palabras": 9,
+      "tiene_cta": true,
+      "tiene_beneficio": true,
+      "tiene_urgencia": true,
+      "tiene_confianza": true,
+      "preview": "Oferta exclusiva solo hoy descuento limitado aprovecha resultados garantizados."
+    },
+    "analisis_ocr": {
+      "disponible": true,
+      "motor": "demo_precalculado",
+      "advertencia": "",
+      "frames_con_texto": 9,
+      "frames_totales": 10,
+      "cobertura": 0.9,
+      "cantidad_palabras": 41,
+      "densidad": "alta",
+      "tiene_cta": true,
+      "tiene_promocion": true,
+      "tiene_urgencia": true,
+      "tiene_confianza": true,
+      "tiene_exceso_texto": true,
+      "preview": "OFERTA EXCLUSIVA SOLO HOY DESCUENTO LIMITADO APROVECHA RESULTADOS GARANTIZADOS EXPERTOS CERTIFICADOS COMPRA AHORA SUSCRIBETE GRATIS PROMOCION ULTIMOS DIAS BENEFICIO COMPROBADO MEJORA TUS RESULTADOS CALIDAD VERIFICADA APRENDE FACIL DESCUBRE MAS REGISTRATE OFERTA UNICA NO TE LO PIE..."
+    },
+    "analisis_llm": {
+      "llm_available": false,
+      "llm_engine": "rules",
+      "claridad_mensaje": 85,
+      "fuerza_cta": 90,
+      "coherencia_semantica": 75,
+      "complejidad_sintactica": "media",
+      "tipo_contenido": "promocional",
+      "riesgo_comunicacional": "medio",
+      "fortalezas": [
+        "Incluye señales de confianza o legitimidad.",
+        "Incluye elementos promocionales útiles para pauta.",
+        "Presenta una propuesta de valor reconocible.",
+        "Incluye un llamado a la acción detectable por reglas."
+      ],
+      "debilidades": [
+        "El texto visual puede generar saturación cognitiva."
+      ],
+      "ajustes_sugeridos": [
+        "Reducir la cantidad de texto visible para evitar saturación en un video corto."
+      ],
+      "recomendacion_llm": "ajustar antes de impulsar",
+      "justificacion": "Redacción generada por el motor de reglas locales (sin LLM). Las puntuaciones provienen de heurísticas léxicas y métricas derivadas; no reemplazan al modelo predictivo."
+    },
+    "analisis_politicas": {
+      "policy_risk_level": "medio",
+      "policy_risk_categories": [
+        "afirmaciones exageradas"
+      ],
+      "policy_explanation": "Se detectaron señales en: afirmaciones exageradas. Riesgo moderado; el inventario publicitario puede ser restringido. Este screening no reemplaza la revisión oficial de YouTube.",
+      "youtube_ad_status_estimate": "apto limitado",
+      "hits": {
+        "afirmaciones exageradas": [
+          "resultados garantizados"
+        ]
+      },
+      "partial_evaluation": false,
+      "evaluation_coverage": "completa"
+    },
+    "ajustes_sugeridos": [
+      "Reducir la cantidad de texto visible para evitar saturación en un video corto."
+    ],
+    "justificacion": "Modelo predictivo: nivel `muy_alto` con probabilidad estimada 98.00%. Se aprovechó la transcripción del audio para reforzar el análisis textual. Se incorporó el texto visible detectado por OCR. Se detectaron ajustes recomendados antes de pautar. Riesgo publicitario estimado: medio (estado YouTube Ads: apto limitado). Score híbrido de decisión: 0.63 (penalización por políticas: ×0.85). El alcance por dólar se estima con CPM parametrizado y multiplicador de potencial; no representa ROI causal real.",
+    "accion_final": "AJUSTAR ANTES DE IMPULSAR",
+    "score_hibrido": 0.6325,
+    "score_hibrido_detalle": {
+      "score_base": 0.7441,
+      "policy_penalty": 0.85,
+      "hybrid_score": 0.6325,
+      "components": {
+        "model_probability": 0.98,
+        "engagement_rate_norm": 0.5427,
+        "share_rate_norm": 0.0424,
+        "retention_rate_norm": 0.45,
+        "views_per_hour_norm": 1.0
+      }
+    },
+    "policy_risk_level": "medio",
+    "youtube_ad_status_estimate": "apto limitado",
+    "cpm_estimado": 5.0,
+    "multiplicador_potencial": 1.6,
+    "alcance_base_por_dolar": 200.0,
+    "nota_metodologica": "El modelo fue entrenado con videos públicos de YouTube en trending (Kaggle), lo que introduce sesgo de selección hacia contenido exitoso. Las probabilidades tienden a ser altas; las reglas de ajuste y el score híbrido compensan ese sesgo. La estimación de alcance por dólar usa CPM parametrizado y potencial predicho; no representa ROI causal real.",
+    "warnings": [
+      "Resultado precalculado en modo demo seguro."
+    ]
+  },
+  "metricas": {
+    "views": 85000,
+    "likes": 6400,
+    "comments": 520,
+    "engagement_rate": 0.081412,
+    "like_rate": 0.075294,
+    "comment_rate": 0.006118,
+    "views_per_day": 85000.0,
+    "duration_seconds": 7.0,
+    "duration_fit_score": 0.95,
+    "text_power_score": 0.92,
+    "title_word_count": 5,
+    "description_word_count": 11,
+    "transcript_word_count": 9,
+    "ocr_word_count": 41,
+    "ocr_frame_coverage": 0.9,
+    "visual_text_density": "alta",
+    "video_type": "sin narrador",
+    "operational": {
+      "shares": 180,
+      "share_rate": 0.002118,
+      "retention_rate": 0.45,
+      "hours_since_publication": 24.0,
+      "views_per_hour": 3541.6667,
+      "average_watch_time": 0.0,
+      "followers_count": 0,
+      "avg_channel_reach": 0
+    }
+  },
+  "analisis_transcripcion": {
+    "disponible": true,
+    "fuente": "demo_precalculado",
+    "advertencia": "",
+    "longitud_caracteres": 79,
+    "cantidad_palabras": 9,
+    "tiene_cta": true,
+    "tiene_beneficio": true,
+    "tiene_urgencia": true,
+    "tiene_confianza": true,
+    "preview": "Oferta exclusiva solo hoy descuento limitado aprovecha resultados garantizados."
+  },
+  "analisis_ocr": {
+    "disponible": true,
+    "motor": "demo_precalculado",
+    "advertencia": "",
+    "frames_con_texto": 9,
+    "frames_totales": 10,
+    "cobertura": 0.9,
+    "cantidad_palabras": 41,
+    "densidad": "alta",
+    "tiene_cta": true,
+    "tiene_promocion": true,
+    "tiene_urgencia": true,
+    "tiene_confianza": true,
+    "tiene_exceso_texto": true,
+    "preview": "OFERTA EXCLUSIVA SOLO HOY DESCUENTO LIMITADO APROVECHA RESULTADOS GARANTIZADOS EXPERTOS CERTIFICADOS COMPRA AHORA SUSCRIBETE GRATIS PROMOCION ULTIMOS DIAS BENEFICIO COMPROBADO MEJORA TUS RESULTADOS CALIDAD VERIFICADA APRENDE FACIL DESCUBRE MAS REGISTRATE OFERTA UNICA NO TE LO PIE..."
+  },
+  "analisis_llm": {
+    "llm_available": false,
+    "llm_engine": "rules",
+    "claridad_mensaje": 85,
+    "fuerza_cta": 90,
+    "coherencia_semantica": 75,
+    "complejidad_sintactica": "media",
+    "tipo_contenido": "promocional",
+    "riesgo_comunicacional": "medio",
+    "fortalezas": [
+      "Incluye señales de confianza o legitimidad.",
+      "Incluye elementos promocionales útiles para pauta.",
+      "Presenta una propuesta de valor reconocible.",
+      "Incluye un llamado a la acción detectable por reglas."
+    ],
+    "debilidades": [
+      "El texto visual puede generar saturación cognitiva."
+    ],
+    "ajustes_sugeridos": [
+      "Reducir la cantidad de texto visible para evitar saturación en un video corto."
+    ],
+    "recomendacion_llm": "ajustar antes de impulsar",
+    "justificacion": "Redacción generada por el motor de reglas locales (sin LLM). Las puntuaciones provienen de heurísticas léxicas y métricas derivadas; no reemplazan al modelo predictivo."
+  },
+  "analisis_politicas": {
+    "policy_risk_level": "medio",
+    "policy_risk_categories": [
+      "afirmaciones exageradas"
+    ],
+    "policy_explanation": "Se detectaron señales en: afirmaciones exageradas. Riesgo moderado; el inventario publicitario puede ser restringido. Este screening no reemplaza la revisión oficial de YouTube.",
+    "youtube_ad_status_estimate": "apto limitado",
+    "hits": {
+      "afirmaciones exageradas": [
+        "resultados garantizados"
+      ]
+    },
+    "partial_evaluation": false,
+    "evaluation_coverage": "completa"
+  },
+  "ajustes_sugeridos": [
+    "Reducir la cantidad de texto visible para evitar saturación en un video corto."
+  ],
+  "justificacion": "Modelo predictivo: nivel `muy_alto` con probabilidad estimada 98.00%. Se aprovechó la transcripción del audio para reforzar el análisis textual. Se incorporó el texto visible detectado por OCR. Se detectaron ajustes recomendados antes de pautar. Riesgo publicitario estimado: medio (estado YouTube Ads: apto limitado). Score híbrido de decisión: 0.63 (penalización por políticas: ×0.85). El alcance por dólar se estima con CPM parametrizado y multiplicador de potencial; no representa ROI causal real.",
+  "accion_final": "AJUSTAR ANTES DE IMPULSAR",
+  "score_hibrido": 0.6325,
+  "warnings": [
+    "Resultado precalculado en modo demo seguro."
+  ]
+}

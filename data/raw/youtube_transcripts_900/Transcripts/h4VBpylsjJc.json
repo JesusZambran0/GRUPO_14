@@ -1,0 +1,1007 @@
+[
+  {
+    "text": "hey guys welcome back to this series on",
+    "start": 0.24,
+    "duration": 4.24
+  },
+  {
+    "text": "C programming in this video we will be",
+    "start": 2.24,
+    "duration": 4.4
+  },
+  {
+    "text": "learning about variables more",
+    "start": 4.48,
+    "duration": 4.039
+  },
+  {
+    "text": "specifically we will learn how to create",
+    "start": 6.64,
+    "duration": 4.24
+  },
+  {
+    "text": "variables and store data in them so that",
+    "start": 8.519,
+    "duration": 4.921
+  },
+  {
+    "text": "we can use them later in our program so",
+    "start": 10.88,
+    "duration": 5.04
+  },
+  {
+    "text": "let's get",
+    "start": 13.44,
+    "duration": 2.48
+  },
+  {
+    "text": "started in computer programming a",
+    "start": 17.8,
+    "duration": 4.44
+  },
+  {
+    "text": "variable is a name given to a memory",
+    "start": 20.32,
+    "duration": 4.119
+  },
+  {
+    "text": "location inside our computer where we",
+    "start": 22.24,
+    "duration": 4.359
+  },
+  {
+    "text": "can store data let me give you an",
+    "start": 24.439,
+    "duration": 4.481
+  },
+  {
+    "text": "example I will go to my compiler here",
+    "start": 26.599,
+    "duration": 5.241
+  },
+  {
+    "text": "you can see int is here the name of the",
+    "start": 28.92,
+    "duration": 5.24
+  },
+  {
+    "text": "variable is is and to create this",
+    "start": 31.84,
+    "duration": 4.96
+  },
+  {
+    "text": "variable we use this keyword int this",
+    "start": 34.16,
+    "duration": 4.76
+  },
+  {
+    "text": "int keyword is a data type which",
+    "start": 36.8,
+    "duration": 4.32
+  },
+  {
+    "text": "indicates that the a variable can only",
+    "start": 38.92,
+    "duration": 5.24
+  },
+  {
+    "text": "store integer values in C programming",
+    "start": 41.12,
+    "duration": 5.04
+  },
+  {
+    "text": "every variable must have a type like",
+    "start": 44.16,
+    "duration": 4.399
+  },
+  {
+    "text": "this int we will learn about these data",
+    "start": 46.16,
+    "duration": 4.719
+  },
+  {
+    "text": "types in detail in next video and in",
+    "start": 48.559,
+    "duration": 4.68
+  },
+  {
+    "text": "this video we will continue using int to",
+    "start": 50.879,
+    "duration": 4.561
+  },
+  {
+    "text": "create our variables once we create a",
+    "start": 53.239,
+    "duration": 5.32
+  },
+  {
+    "text": "variable like this in a we can also",
+    "start": 55.44,
+    "duration": 8.24
+  },
+  {
+    "text": "store data into it like is equals to 25",
+    "start": 58.559,
+    "duration": 7.201
+  },
+  {
+    "text": "here we have first created a variable",
+    "start": 63.68,
+    "duration": 4.28
+  },
+  {
+    "text": "named is and then we have assigned an",
+    "start": 65.76,
+    "duration": 6.16
+  },
+  {
+    "text": "integer value 25 to this a variable by",
+    "start": 67.96,
+    "duration": 6.4
+  },
+  {
+    "text": "the way we have to use this semicolon at",
+    "start": 71.92,
+    "duration": 4.36
+  },
+  {
+    "text": "the end to Mark the end of this",
+    "start": 74.36,
+    "duration": 4.84
+  },
+  {
+    "text": "statement and it is also possible to",
+    "start": 76.28,
+    "duration": 4.96
+  },
+  {
+    "text": "create variable and assign value in a",
+    "start": 79.2,
+    "duration": 4.2
+  },
+  {
+    "text": "single line let me show you how so",
+    "start": 81.24,
+    "duration": 3.919
+  },
+  {
+    "text": "instead of writing these two lines of",
+    "start": 83.4,
+    "duration": 4.64
+  },
+  {
+    "text": "code we can just merge them and write a",
+    "start": 85.159,
+    "duration": 6.041
+  },
+  {
+    "text": "single line of code like this so I'll",
+    "start": 88.04,
+    "duration": 4.68
+  },
+  {
+    "text": "cut this",
+    "start": 91.2,
+    "duration": 4.16
+  },
+  {
+    "text": "out if you have watched the last video",
+    "start": 92.72,
+    "duration": 4.92
+  },
+  {
+    "text": "we have used a structure that every C",
+    "start": 95.36,
+    "duration": 4.56
+  },
+  {
+    "text": "program follows I'll get back to my",
+    "start": 97.64,
+    "duration": 4.64
+  },
+  {
+    "text": "compiler if you remember this is the",
+    "start": 99.92,
+    "duration": 5.44
+  },
+  {
+    "text": "basic structure of C program so now",
+    "start": 102.28,
+    "duration": 6.879
+  },
+  {
+    "text": "let's add a variable inside this main",
+    "start": 105.36,
+    "duration": 8.92
+  },
+  {
+    "text": "function int is equals to",
+    "start": 109.159,
+    "duration": 8.56
+  },
+  {
+    "text": "25 if we run this code a variable is",
+    "start": 114.28,
+    "duration": 6.56
+  },
+  {
+    "text": "created but we'll not see any output and",
+    "start": 117.719,
+    "duration": 5.521
+  },
+  {
+    "text": "to get output in C programming we will",
+    "start": 120.84,
+    "duration": 5.44
+  },
+  {
+    "text": "use printer function before we print",
+    "start": 123.24,
+    "duration": 5.159
+  },
+  {
+    "text": "this variable let's first try to print a",
+    "start": 126.28,
+    "duration": 4.479
+  },
+  {
+    "text": "normal text then in the next step we",
+    "start": 128.399,
+    "duration": 4.84
+  },
+  {
+    "text": "will learn to print variables now to",
+    "start": 130.759,
+    "duration": 5.441
+  },
+  {
+    "text": "print a line of text we use the print",
+    "start": 133.239,
+    "duration": 7.0
+  },
+  {
+    "text": "function print F bracket inside",
+    "start": 136.2,
+    "duration": 7.44
+  },
+  {
+    "text": "quotation C",
+    "start": 140.239,
+    "duration": 3.401
+  },
+  {
+    "text": "programming and we will always end the",
+    "start": 145.68,
+    "duration": 4.919
+  },
+  {
+    "text": "statement with a semicolon",
+    "start": 148.2,
+    "duration": 5.8
+  },
+  {
+    "text": "now let me run this code and we can see",
+    "start": 150.599,
+    "duration": 6.64
+  },
+  {
+    "text": "C programming is printed on the screen",
+    "start": 154.0,
+    "duration": 5.36
+  },
+  {
+    "text": "by the way our variable a is also",
+    "start": 157.239,
+    "duration": 4.321
+  },
+  {
+    "text": "created but we haven't seen it because",
+    "start": 159.36,
+    "duration": 4.599
+  },
+  {
+    "text": "we haven't printed it now let's print",
+    "start": 161.56,
+    "duration": 5.039
+  },
+  {
+    "text": "our variable I just want to print a",
+    "start": 163.959,
+    "duration": 4.92
+  },
+  {
+    "text": "variable so I'll cut this part that",
+    "start": 166.599,
+    "duration": 5.241
+  },
+  {
+    "text": "prints a line of text then I'll write",
+    "start": 168.879,
+    "duration": 5.801
+  },
+  {
+    "text": "print F bracket inside",
+    "start": 171.84,
+    "duration": 6.679
+  },
+  {
+    "text": "quotation percent D comma and the name",
+    "start": 174.68,
+    "duration": 6.0
+  },
+  {
+    "text": "of the variable in this case the name of",
+    "start": 178.519,
+    "duration": 5.241
+  },
+  {
+    "text": "the variable is is to print a variable",
+    "start": 180.68,
+    "duration": 5.88
+  },
+  {
+    "text": "in C programming we use something called",
+    "start": 183.76,
+    "duration": 6.24
+  },
+  {
+    "text": "format specifier here person D is a",
+    "start": 186.56,
+    "duration": 4.399
+  },
+  {
+    "text": "format",
+    "start": 190.0,
+    "duration": 4.08
+  },
+  {
+    "text": "specifier now let's run this",
+    "start": 190.959,
+    "duration": 7.721
+  },
+  {
+    "text": "code as we can see 25 is printed as an",
+    "start": 194.08,
+    "duration": 8.36
+  },
+  {
+    "text": "output so what happens here is that here",
+    "start": 198.68,
+    "duration": 6.16
+  },
+  {
+    "text": "person D is replaced by the value of a",
+    "start": 202.44,
+    "duration": 4.799
+  },
+  {
+    "text": "variable if we have to print other data",
+    "start": 204.84,
+    "duration": 4.959
+  },
+  {
+    "text": "like characters and decimals we use",
+    "start": 207.239,
+    "duration": 4.72
+  },
+  {
+    "text": "different specifier like percent C and",
+    "start": 209.799,
+    "duration": 4.36
+  },
+  {
+    "text": "percent F which we will discuss in the",
+    "start": 211.959,
+    "duration": 5.28
+  },
+  {
+    "text": "next video let me modify this program a",
+    "start": 214.159,
+    "duration": 5.601
+  },
+  {
+    "text": "bit here I'll write",
+    "start": 217.239,
+    "duration": 7.56
+  },
+  {
+    "text": "here is colon now let me run this code",
+    "start": 219.76,
+    "duration": 8.399
+  },
+  {
+    "text": "again now we can see this a column is",
+    "start": 224.799,
+    "duration": 5.961
+  },
+  {
+    "text": "printed as it is and person D is",
+    "start": 228.159,
+    "duration": 6.241
+  },
+  {
+    "text": "replaced with the value of",
+    "start": 230.76,
+    "duration": 3.64
+  },
+  {
+    "text": "a now that we know how to store data in",
+    "start": 235.599,
+    "duration": 4.801
+  },
+  {
+    "text": "variables let's see see how we can",
+    "start": 238.72,
+    "duration": 4.159
+  },
+  {
+    "text": "change their values yes we can change",
+    "start": 240.4,
+    "duration": 4.72
+  },
+  {
+    "text": "the values of variable that's why it is",
+    "start": 242.879,
+    "duration": 4.401
+  },
+  {
+    "text": "called variable let me give you an",
+    "start": 245.12,
+    "duration": 4.08
+  },
+  {
+    "text": "example I'll go back to my previous",
+    "start": 247.28,
+    "duration": 5.159
+  },
+  {
+    "text": "example currently the a variable stores",
+    "start": 249.2,
+    "duration": 6.96
+  },
+  {
+    "text": "25 now I'll assign a new value to this a",
+    "start": 252.439,
+    "duration": 9.561
+  },
+  {
+    "text": "variable a is equal to 31 and I'll print",
+    "start": 256.16,
+    "duration": 5.84
+  },
+  {
+    "text": "this new is",
+    "start": 263.8,
+    "duration": 7.28
+  },
+  {
+    "text": "semicolon percent D and and comma and",
+    "start": 267.32,
+    "duration": 7.159
+  },
+  {
+    "text": "again a and end this with semicolon",
+    "start": 271.08,
+    "duration": 4.679
+  },
+  {
+    "text": "let's run this",
+    "start": 274.479,
+    "duration": 3.841
+  },
+  {
+    "text": "program as you can see initially the",
+    "start": 275.759,
+    "duration": 5.201
+  },
+  {
+    "text": "value of a was 25 then I changed the",
+    "start": 278.32,
+    "duration": 5.48
+  },
+  {
+    "text": "value of a by assigning 31 now let me",
+    "start": 280.96,
+    "duration": 5.44
+  },
+  {
+    "text": "put this second line of code into a new",
+    "start": 283.8,
+    "duration": 6.36
+  },
+  {
+    "text": "line for that I'll use back sln and I'll",
+    "start": 286.4,
+    "duration": 6.519
+  },
+  {
+    "text": "run this again and you can see the",
+    "start": 290.16,
+    "duration": 5.319
+  },
+  {
+    "text": "output it is more readable and more",
+    "start": 292.919,
+    "duration": 5.961
+  },
+  {
+    "text": "clearer so here this back sln is a new",
+    "start": 295.479,
+    "duration": 5.841
+  },
+  {
+    "text": "line character simply speaking it is a",
+    "start": 298.88,
+    "duration": 4.599
+  },
+  {
+    "text": "inter",
+    "start": 301.32,
+    "duration": 5.319
+  },
+  {
+    "text": "key so far we saw that we can assign",
+    "start": 303.479,
+    "duration": 5.761
+  },
+  {
+    "text": "data directly to a variable however we",
+    "start": 306.639,
+    "duration": 4.961
+  },
+  {
+    "text": "can also assign a value of one variable",
+    "start": 309.24,
+    "duration": 5.28
+  },
+  {
+    "text": "to another let me show you an example in",
+    "start": 311.6,
+    "duration": 4.92
+  },
+  {
+    "text": "this example as you can see we have",
+    "start": 314.52,
+    "duration": 4.959
+  },
+  {
+    "text": "assigned value 33 to this first number",
+    "start": 316.52,
+    "duration": 5.28
+  },
+  {
+    "text": "variable and we have then printed this",
+    "start": 319.479,
+    "duration": 5.361
+  },
+  {
+    "text": "first number variable now I'll assign",
+    "start": 321.8,
+    "duration": 7.64
+  },
+  {
+    "text": "another variable second number",
+    "start": 324.84,
+    "duration": 4.6
+  },
+  {
+    "text": "and instead of assigning any data I'll",
+    "start": 330.759,
+    "duration": 6.0
+  },
+  {
+    "text": "assign here first",
+    "start": 333.52,
+    "duration": 3.239
+  },
+  {
+    "text": "number then I'll print",
+    "start": 337.68,
+    "duration": 7.12
+  },
+  {
+    "text": "this back sln so that we can get a",
+    "start": 341.12,
+    "duration": 5.079
+  },
+  {
+    "text": "readable",
+    "start": 344.8,
+    "duration": 3.839
+  },
+  {
+    "text": "output second",
+    "start": 346.199,
+    "duration": 5.481
+  },
+  {
+    "text": "number equals to perc",
+    "start": 348.639,
+    "duration": 5.921
+  },
+  {
+    "text": "D and name of the variable that is",
+    "start": 351.68,
+    "duration": 5.32
+  },
+  {
+    "text": "second",
+    "start": 354.56,
+    "duration": 2.44
+  },
+  {
+    "text": "number now let's see what will happen",
+    "start": 357.36,
+    "duration": 5.08
+  },
+  {
+    "text": "I'll run this",
+    "start": 360.36,
+    "duration": 4.839
+  },
+  {
+    "text": "code and we can see first number and",
+    "start": 362.44,
+    "duration": 5.0
+  },
+  {
+    "text": "second number variable holds the same",
+    "start": 365.199,
+    "duration": 5.321
+  },
+  {
+    "text": "value 33 let's see how this program",
+    "start": 367.44,
+    "duration": 5.52
+  },
+  {
+    "text": "works line by line first we have created",
+    "start": 370.52,
+    "duration": 4.72
+  },
+  {
+    "text": "this variable first number and assigned",
+    "start": 372.96,
+    "duration": 5.799
+  },
+  {
+    "text": "value 33 to it then we have printed this",
+    "start": 375.24,
+    "duration": 6.12
+  },
+  {
+    "text": "variable and then we assigned another",
+    "start": 378.759,
+    "duration": 4.521
+  },
+  {
+    "text": "variable second number and assigned the",
+    "start": 381.36,
+    "duration": 4.16
+  },
+  {
+    "text": "value of the first number to it then we",
+    "start": 383.28,
+    "duration": 6.6
+  },
+  {
+    "text": "have printed the second number",
+    "start": 385.52,
+    "duration": 4.36
+  },
+  {
+    "text": "we can also declare multiple variables",
+    "start": 391.039,
+    "duration": 4.0
+  },
+  {
+    "text": "in a single line let me give you an",
+    "start": 393.199,
+    "duration": 3.961
+  },
+  {
+    "text": "example here I have created two",
+    "start": 395.039,
+    "duration": 5.041
+  },
+  {
+    "text": "variables variable one and variable two",
+    "start": 397.16,
+    "duration": 5.319
+  },
+  {
+    "text": "and I have separated them with the comma",
+    "start": 400.08,
+    "duration": 4.959
+  },
+  {
+    "text": "in a single line let me modify this",
+    "start": 402.479,
+    "duration": 5.641
+  },
+  {
+    "text": "program a bit I'll assign a value 25 to",
+    "start": 405.039,
+    "duration": 5.44
+  },
+  {
+    "text": "this variable too here the same two",
+    "start": 408.12,
+    "duration": 5.12
+  },
+  {
+    "text": "variables are created however the value",
+    "start": 410.479,
+    "duration": 6.56
+  },
+  {
+    "text": "of variable 2 is now 25 by the way in C",
+    "start": 413.24,
+    "duration": 5.84
+  },
+  {
+    "text": "programming if we do not assign a value",
+    "start": 417.039,
+    "duration": 3.961
+  },
+  {
+    "text": "to a variable its value cannot be",
+    "start": 419.08,
+    "duration": 4.2
+  },
+  {
+    "text": "determined in this program variable one",
+    "start": 421.0,
+    "duration": 4.52
+  },
+  {
+    "text": "will have some random unpredictable",
+    "start": 423.28,
+    "duration": 4.919
+  },
+  {
+    "text": "value however some compilers may store",
+    "start": 425.52,
+    "duration": 5.72
+  },
+  {
+    "text": "Jero in them okay guys we need your",
+    "start": 428.199,
+    "duration": 5.44
+  },
+  {
+    "text": "support to keep this type of content",
+    "start": 431.24,
+    "duration": 5.28
+  },
+  {
+    "text": "free for all users YouTube really likes",
+    "start": 433.639,
+    "duration": 5.041
+  },
+  {
+    "text": "engagement on the video so leave a",
+    "start": 436.52,
+    "duration": 4.32
+  },
+  {
+    "text": "comment below press that like button and",
+    "start": 438.68,
+    "duration": 4.239
+  },
+  {
+    "text": "hit subscribe if you haven't already",
+    "start": 440.84,
+    "duration": 4.359
+  },
+  {
+    "text": "let's get the engagement score high up",
+    "start": 442.919,
+    "duration": 4.201
+  },
+  {
+    "text": "so that more people can discover and",
+    "start": 445.199,
+    "duration": 5.601
+  },
+  {
+    "text": "enjoy these courses",
+    "start": 447.12,
+    "duration": 3.68
+  },
+  {
+    "text": "at this point we have covered all the",
+    "start": 451.12,
+    "duration": 4.28
+  },
+  {
+    "text": "basics of variable before ending this",
+    "start": 453.16,
+    "duration": 4.52
+  },
+  {
+    "text": "video let's talk about how to choose a",
+    "start": 455.4,
+    "duration": 4.72
+  },
+  {
+    "text": "good variable name if you have noticed I",
+    "start": 457.68,
+    "duration": 4.56
+  },
+  {
+    "text": "have used descriptive variable names",
+    "start": 460.12,
+    "duration": 4.799
+  },
+  {
+    "text": "like a and first number we could have",
+    "start": 462.24,
+    "duration": 5.0
+  },
+  {
+    "text": "given variable names like a instead of",
+    "start": 464.919,
+    "duration": 5.761
+  },
+  {
+    "text": "A's and FN instead of first number it",
+    "start": 467.24,
+    "duration": 6.399
+  },
+  {
+    "text": "works just fine however it's hard to",
+    "start": 470.68,
+    "duration": 5.12
+  },
+  {
+    "text": "understand what a means just by looking",
+    "start": 473.639,
+    "duration": 4.56
+  },
+  {
+    "text": "at the code so when we use good",
+    "start": 475.8,
+    "duration": 4.6
+  },
+  {
+    "text": "descriptive variable names it becomes",
+    "start": 478.199,
+    "duration": 4.641
+  },
+  {
+    "text": "easier to understand the code and to",
+    "start": 480.4,
+    "duration": 4.639
+  },
+  {
+    "text": "make the variable name descriptive we",
+    "start": 482.84,
+    "duration": 4.639
+  },
+  {
+    "text": "may need to use names having more than",
+    "start": 485.039,
+    "duration": 4.801
+  },
+  {
+    "text": "one word in such cases we follow the",
+    "start": 487.479,
+    "duration": 4.481
+  },
+  {
+    "text": "camel case format while giving the names",
+    "start": 489.84,
+    "duration": 4.6
+  },
+  {
+    "text": "to the variable in camel case the first",
+    "start": 491.96,
+    "duration": 4.44
+  },
+  {
+    "text": "word will be of small letter and the",
+    "start": 494.44,
+    "duration": 3.759
+  },
+  {
+    "text": "first letter of the second word will be",
+    "start": 496.4,
+    "duration": 4.16
+  },
+  {
+    "text": "of capital letter like the example shown",
+    "start": 498.199,
+    "duration": 5.081
+  },
+  {
+    "text": "on the screen by the way there are some",
+    "start": 500.56,
+    "duration": 4.68
+  },
+  {
+    "text": "rules you need to know while creating a",
+    "start": 503.28,
+    "duration": 4.319
+  },
+  {
+    "text": "variable you cannot create variable",
+    "start": 505.24,
+    "duration": 4.84
+  },
+  {
+    "text": "names with space in between you cannot",
+    "start": 507.599,
+    "duration": 5.44
+  },
+  {
+    "text": "start variable names with numbers and",
+    "start": 510.08,
+    "duration": 5.6
+  },
+  {
+    "text": "you cannot use certain words as variable",
+    "start": 513.039,
+    "duration": 5.24
+  },
+  {
+    "text": "names you cannot use if as a variable",
+    "start": 515.68,
+    "duration": 4.799
+  },
+  {
+    "text": "name because if is a keyword these",
+    "start": 518.279,
+    "duration": 4.081
+  },
+  {
+    "text": "keywords are part of C programming",
+    "start": 520.479,
+    "duration": 4.761
+  },
+  {
+    "text": "syntax and have special meaning in C we",
+    "start": 522.36,
+    "duration": 4.96
+  },
+  {
+    "text": "will learn about these keywords as we",
+    "start": 525.24,
+    "duration": 4.68
+  },
+  {
+    "text": "progress through the course and now we",
+    "start": 527.32,
+    "duration": 4.72
+  },
+  {
+    "text": "are at the end of this video it's time",
+    "start": 529.92,
+    "duration": 4.44
+  },
+  {
+    "text": "for programing quiz can you guess the",
+    "start": 532.04,
+    "duration": 5.16
+  },
+  {
+    "text": "output of this program comment your",
+    "start": 534.36,
+    "duration": 4.64
+  },
+  {
+    "text": "answer below and I'll see you in the",
+    "start": 537.2,
+    "duration": 5.96
+  },
+  {
+    "text": "next video video Happy programming",
+    "start": 539.0,
+    "duration": 4.16
+  },
+  {
+    "text": "[Music]",
+    "start": 544.01,
+    "duration": 4.47
+  }
+]

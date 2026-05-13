@@ -1,0 +1,1462 @@
+[
+  {
+    "text": "[playful instrumental synth music fades slowly]\nYou know...",
+    "start": 0.0,
+    "duration": 0.0
+  },
+  {
+    "text": "You know...",
+    "start": 0.0,
+    "duration": 0.96
+  },
+  {
+    "text": "Hexagons are the bestagons.",
+    "start": 0.96,
+    "duration": 2.792
+  },
+  {
+    "text": "Why?",
+    "start": 3.752,
+    "duration": 0.677
+  },
+  {
+    "text": "Because bees.",
+    "start": 4.429,
+    "duration": 1.294
+  },
+  {
+    "text": "Bees are the best",
+    "start": 5.723,
+    "duration": 1.113
+  },
+  {
+    "text": "and build only the bestagon, the hexagon.",
+    "start": 6.836,
+    "duration": 2.465
+  },
+  {
+    "text": "Now, I know what you’re thinking.",
+    "start": 9.301,
+    "duration": 1.237
+  },
+  {
+    "text": "Bees build hexagons because they're hexapods",
+    "start": 10.53,
+    "duration": 2.41
+  },
+  {
+    "text": "with hexagon eyes.",
+    "start": 12.94,
+    "duration": 1.19
+  },
+  {
+    "text": "How could they do otherwise?",
+    "start": 14.13,
+    "duration": 1.63
+  },
+  {
+    "text": "Excellent point.",
+    "start": 15.76,
+    "duration": 0.95
+  },
+  {
+    "text": "But the humble bumble has an engineering problem to solve.",
+    "start": 16.71,
+    "duration": 3.11
+  },
+  {
+    "text": "She makes two things: honey and wax.",
+    "start": 19.82,
+    "duration": 2.34
+  },
+  {
+    "text": "The former to eat,",
+    "start": 22.16,
+    "duration": 1.01
+  },
+  {
+    "text": "and the latter to contain the former.",
+    "start": 23.17,
+    "duration": 1.86
+  },
+  {
+    "text": "To make but a little honey,",
+    "start": 25.03,
+    "duration": 1.43
+  },
+  {
+    "text": "she must visit a lot of flowers.",
+    "start": 26.46,
+    "duration": 2.11
+  },
+  {
+    "text": "And to make one unit of wax,",
+    "start": 28.57,
+    "duration": 1.58
+  },
+  {
+    "text": "she needs eight units of honey.",
+    "start": 30.15,
+    "duration": 1.62
+  },
+  {
+    "text": "Wax is costly for bees in flower terms,",
+    "start": 31.77,
+    "duration": 2.09
+  },
+  {
+    "text": "and honey is drippy in food terms,",
+    "start": 33.86,
+    "duration": 2.0
+  },
+  {
+    "text": "so to make a hive that contains the maximum honey",
+    "start": 35.86,
+    "duration": 2.44
+  },
+  {
+    "text": "while using the minimum wax is royally vital.",
+    "start": 38.3,
+    "duration": 3.02
+  },
+  {
+    "text": "Thus, a honeycomb conjecture.",
+    "start": 41.32,
+    "duration": 1.84
+  },
+  {
+    "text": "Which shape works best?",
+    "start": 43.16,
+    "duration": 1.61
+  },
+  {
+    "text": "To answer, we need to talk tiles.",
+    "start": 44.77,
+    "duration": 1.7
+  },
+  {
+    "text": "Tiling is covering a surface with a pattern of polygons.",
+    "start": 46.47,
+    "duration": 2.97
+  },
+  {
+    "text": "There's lots of options",
+    "start": 49.44,
+    "duration": 1.14
+  },
+  {
+    "text": "because there's lots of polygons.",
+    "start": 50.58,
+    "duration": 1.64
+  },
+  {
+    "text": "Even the regulars go on and on-agon.",
+    "start": 52.22,
+    "duration": 2.3
+  },
+  {
+    "text": "Now for bees picking patterns,",
+    "start": 54.52,
+    "duration": 1.4
+  },
+  {
+    "text": "the more complicated ones",
+    "start": 55.92,
+    "duration": 1.15
+  },
+  {
+    "text": "obviously use more lines than necessary.",
+    "start": 57.07,
+    "duration": 2.44
+  },
+  {
+    "text": "That’s what complicated means.",
+    "start": 59.51,
+    "duration": 1.65
+  },
+  {
+    "text": "And thus a honeycomb of that tile",
+    "start": 61.16,
+    "duration": 1.72
+  },
+  {
+    "text": "would use more wax per honey.",
+    "start": 62.88,
+    "duration": 1.82
+  },
+  {
+    "text": "So sticking to the simple regulars,",
+    "start": 64.7,
+    "duration": 1.46
+  },
+  {
+    "text": "there are just three that tile tightly.",
+    "start": 66.16,
+    "duration": 2.08
+  },
+  {
+    "text": "Triangle, square, and hexagon.",
+    "start": 68.24,
+    "duration": 1.61
+  },
+  {
+    "text": "Pentagons are broken hexagons leaving gaps.",
+    "start": 69.85,
+    "duration": 2.41
+  },
+  {
+    "text": "Same with septagons.",
+    "start": 72.26,
+    "duration": 1.14
+  },
+  {
+    "text": "Octagons are alright,",
+    "start": 73.4,
+    "duration": 1.15
+  },
+  {
+    "text": "but they're no hexagon.",
+    "start": 74.55,
+    "duration": 1.28
+  },
+  {
+    "text": "Which leaves the tiling trio which tile differently.",
+    "start": 75.83,
+    "duration": 2.65
+  },
+  {
+    "text": "A square is a square of squares,",
+    "start": 78.48,
+    "duration": 1.71
+  },
+  {
+    "text": "which is a square of squares, and so on.",
+    "start": 80.19,
+    "duration": 2.0
+  },
+  {
+    "text": "Squares tile tidily by basically cheating.",
+    "start": 82.19,
+    "duration": 2.23
+  },
+  {
+    "text": "Covering an infinite plane with an",
+    "start": 84.42,
+    "duration": 1.61
+  },
+  {
+    "text": "infinite number of parallel lines.",
+    "start": 86.03,
+    "duration": 2.0
+  },
+  {
+    "text": "Like, wow, that's what a plane is.",
+    "start": 88.03,
+    "duration": 2.78
+  },
+  {
+    "text": "Boring!",
+    "start": 90.81,
+    "duration": 0.94
+  },
+  {
+    "text": "Triangles pull the same trick,",
+    "start": 91.75,
+    "duration": 1.43
+  },
+  {
+    "text": "dividing themselves down into infinite nothing.",
+    "start": 93.18,
+    "duration": 2.37
+  },
+  {
+    "text": "But not the hexagon!",
+    "start": 95.55,
+    "duration": 1.45
+  },
+  {
+    "text": "The only regular polygon",
+    "start": 97.0,
+    "duration": 1.53
+  },
+  {
+    "text": "to tile a plane without resorting to debasing self-division,",
+    "start": 98.53,
+    "duration": 3.49
+  },
+  {
+    "text": "unlike some squares I could mention.",
+    "start": 102.02,
+    "duration": 1.77
+  },
+  {
+    "text": "At least triangle is trying to be",
+    "start": 103.79,
+    "duration": 1.42
+  },
+  {
+    "text": "more geometrically interesting than square,",
+    "start": 105.21,
+    "duration": 2.0
+  },
+  {
+    "text": "teaming up a bit to…",
+    "start": 107.21,
+    "duration": 1.13
+  },
+  {
+    "text": "one, two, three, four, five, six.",
+    "start": 108.34,
+    "duration": 1.47
+  },
+  {
+    "text": "Wait, hexagon!",
+    "start": 109.81,
+    "duration": 0.88
+  },
+  {
+    "text": "The other shapes can't help it.",
+    "start": 110.69,
+    "duration": 1.33
+  },
+  {
+    "text": "They just want to be the bestagon.",
+    "start": 112.02,
+    "duration": 2.09
+  },
+  {
+    "text": "Even some of the irregulars,",
+    "start": 114.11,
+    "duration": 1.19
+  },
+  {
+    "text": "like rhombus, tile by hexagoning.",
+    "start": 115.3,
+    "duration": 1.84
+  },
+  {
+    "text": "Same with your triakis tilis,",
+    "start": 117.14,
+    "duration": 1.54
+  },
+  {
+    "text": "[with difficulty]\nand deltoidal trihexagonals,",
+    "start": 118.68,
+    "duration": 2.61
+  },
+  {
+    "text": "[with continued difficulty]\nand your, ah, kisrhombille,",
+    "start": 121.29,
+    "duration": 2.04
+  },
+  {
+    "text": "[with laughter]\nand floret pentagonals.",
+    "start": 123.33,
+    "duration": 3.28
+  },
+  {
+    "text": "Look, they're all just hexagons.",
+    "start": 126.61,
+    "duration": 1.37
+  },
+  {
+    "text": "Even Cairo tiles",
+    "start": 127.98,
+    "duration": 1.18
+  },
+  {
+    "text": "(poor pentagons)",
+    "start": 129.16,
+    "duration": 0.99
+  },
+  {
+    "text": "tile up as best they can to form a lumpy hexagon.",
+    "start": 130.15,
+    "duration": 3.11
+  },
+  {
+    "text": "The rest just can't compete with the best.",
+    "start": 133.26,
+    "duration": 2.77
+  },
+  {
+    "text": "The hexagon,",
+    "start": 136.03,
+    "duration": 0.81
+  },
+  {
+    "text": "nobly indivisible,",
+    "start": 136.84,
+    "duration": 1.57
+  },
+  {
+    "text": "is the bestagon.",
+    "start": 138.41,
+    "duration": 1.38
+  },
+  {
+    "text": "Uhh, where were we?",
+    "start": 139.79,
+    "duration": 1.24
+  },
+  {
+    "text": "Oh right, honeycomb conjecture.",
+    "start": 141.03,
+    "duration": 1.24
+  },
+  {
+    "text": "Max honey.  Min wax.  Three options.",
+    "start": 142.27,
+    "duration": 2.21
+  },
+  {
+    "text": "Okay yes there's the circle.",
+    "start": 144.48,
+    "duration": 2.0
+  },
+  {
+    "text": "A shape defined by the least perimeter for the most area,",
+    "start": 146.48,
+    "duration": 2.81
+  },
+  {
+    "text": "but that only works when you need just one.",
+    "start": 149.29,
+    "duration": 1.91
+  },
+  {
+    "text": "Pack circles and this is the best they can do.",
+    "start": 151.2,
+    "duration": 2.58
+  },
+  {
+    "text": "Look at all that wasted space!",
+    "start": 153.78,
+    "duration": 1.42
+  },
+  {
+    "text": "And even if you pack the gaps,",
+    "start": 155.2,
+    "duration": 1.3
+  },
+  {
+    "text": "you still use more wax.",
+    "start": 156.5,
+    "duration": 1.47
+  },
+  {
+    "text": "And, again, the way these circles,",
+    "start": 157.97,
+    "duration": 1.35
+  },
+  {
+    "text": "arrange themselves …",
+    "start": 159.32,
+    "duration": 0.98
+  },
+  {
+    "text": "it's almost like… ",
+    "start": 160.3,
+    "duration": 0.74
+  },
+  {
+    "text": "onetwothreefourfivesix ",
+    "start": 161.04,
+    "duration": 0.97
+  },
+  {
+    "text": "hidden hexagon!",
+    "start": 162.01,
+    "duration": 0.96
+  },
+  {
+    "text": "Bees use the hexagon",
+    "start": 162.97,
+    "duration": 1.42
+  },
+  {
+    "text": "because no shape is better to create",
+    "start": 164.39,
+    "duration": 1.82
+  },
+  {
+    "text": "the maximum area for the minimum wall.",
+    "start": 166.21,
+    "duration": 2.48
+  },
+  {
+    "text": "And this min-max stat of hexagon",
+    "start": 168.69,
+    "duration": 2.0
+  },
+  {
+    "text": "is one of the many reason they show up everywhere.",
+    "start": 170.69,
+    "duration": 3.0
+  },
+  {
+    "text": "Including in the aforementioned bee's eyes.",
+    "start": 173.69,
+    "duration": 2.64
+  },
+  {
+    "text": "Each hexagon is a long tube that leads",
+    "start": 176.33,
+    "duration": 2.32
+  },
+  {
+    "text": "to the light-catching cells at the bottom.",
+    "start": 178.65,
+    "duration": 1.85
+  },
+  {
+    "text": "More light equals better vision and",
+    "start": 180.5,
+    "duration": 1.62
+  },
+  {
+    "text": "hexagons let the most light in",
+    "start": 182.12,
+    "duration": 2.17
+  },
+  {
+    "text": "using the least amount of wall.",
+    "start": 184.29,
+    "duration": 2.03
+  },
+  {
+    "text": "So why aren't your eyes hexagons?",
+    "start": 186.32,
+    "duration": 2.28
+  },
+  {
+    "text": "Au contraire mon ami,",
+    "start": 188.6,
+    "duration": 1.17
+  },
+  {
+    "text": "they are l'Hexagone.",
+    "start": 189.77,
+    "duration": 1.49
+  },
+  {
+    "text": "[intensely]\nNot on the outside, but on the inside.",
+    "start": 191.26,
+    "duration": 2.83
+  },
+  {
+    "text": "Your light-catching cells are at the back of your eye,",
+    "start": 194.09,
+    "duration": 2.84
+  },
+  {
+    "text": "in a hexagonal grid for the same reason as bees.",
+    "start": 196.93,
+    "duration": 2.98
+  },
+  {
+    "text": "Max light, min wall.",
+    "start": 199.91,
+    "duration": 1.62
+  },
+  {
+    "text": "Your window to the world,",
+    "start": 201.53,
+    "duration": 1.51
+  },
+  {
+    "text": "is but through the hexagon.",
+    "start": 203.04,
+    "duration": 1.68
+  },
+  {
+    "text": "Does that not make it the bestagon?",
+    "start": 204.72,
+    "duration": 2.0
+  },
+  {
+    "text": "Okay, maybe hexagon as min-max-agon",
+    "start": 206.72,
+    "duration": 1.87
+  },
+  {
+    "text": "doesn't catch your fancy.",
+    "start": 208.59,
+    "duration": 1.28
+  },
+  {
+    "text": "Then how about a little mystery, oui?",
+    "start": 209.87,
+    "duration": 1.8
+  },
+  {
+    "text": "Let us travel to Saturn.",
+    "start": 211.67,
+    "duration": 1.84
+  },
+  {
+    "text": "Yes, the rings are attention-grabbing,",
+    "start": 213.51,
+    "duration": 1.95
+  },
+  {
+    "text": "but leave the equator,",
+    "start": 215.46,
+    "duration": 1.28
+  },
+  {
+    "text": "travel north and here lies the unexplained.",
+    "start": 216.74,
+    "duration": 2.79
+  },
+  {
+    "text": "The Great Hexagon of Saturn.",
+    "start": 219.53,
+    "duration": 2.0
+  },
+  {
+    "text": "Need something for scale?",
+    "start": 221.53,
+    "duration": 1.05
+  },
+  {
+    "text": "Well, here's the Earth.",
+    "start": 222.58,
+    "duration": 1.38
+  },
+  {
+    "text": "Oh, here's six the Earths.",
+    "start": 223.96,
+    "duration": 2.23
+  },
+  {
+    "text": "Saturn's hexagon is pretty big.",
+    "start": 226.19,
+    "duration": 2.53
+  },
+  {
+    "text": "What is it?",
+    "start": 228.72,
+    "duration": 0.87
+  },
+  {
+    "text": "Well, you might be thinking it's a geological formation.",
+    "start": 229.59,
+    "duration": 2.66
+  },
+  {
+    "text": "An enormous basalt column",
+    "start": 232.25,
+    "duration": 1.73
+  },
+  {
+    "text": "like the smaller versions you find on Earth.",
+    "start": 233.98,
+    "duration": 2.21
+  },
+  {
+    "text": "But no.",
+    "start": 236.19,
+    "duration": 0.58
+  },
+  {
+    "text": "Saturn is a gas giant.",
+    "start": 236.77,
+    "duration": 1.3
+  },
+  {
+    "text": "There is no surface or geology to speak of.",
+    "start": 238.07,
+    "duration": 2.63
+  },
+  {
+    "text": "So the great hexagon is composed of shapeless clouds",
+    "start": 240.7,
+    "duration": 3.6
+  },
+  {
+    "text": "somehow keeping shape and changing color.",
+    "start": 244.3,
+    "duration": 2.92
+  },
+  {
+    "text": "It's a magnificent solar system mystery.",
+    "start": 247.22,
+    "duration": 2.61
+  },
+  {
+    "text": "And, while I'm no space archeologist,",
+    "start": 249.83,
+    "duration": 2.0
+  },
+  {
+    "text": "if I was looking for an alien-gifted monolith,",
+    "start": 251.83,
+    "duration": 2.98
+  },
+  {
+    "text": "on the most “look at me” planet,",
+    "start": 254.81,
+    "duration": 1.74
+  },
+  {
+    "text": "under a hexagon beacon with earth-sized sides,",
+    "start": 256.55,
+    "duration": 3.22
+  },
+  {
+    "text": "[tongue click]\nthat's where I would start.",
+    "start": 259.77,
+    "duration": 1.48
+  },
+  {
+    "text": "After all, what aliens would want to make",
+    "start": 261.25,
+    "duration": 2.41
+  },
+  {
+    "text": "first contact with the nearby monkeys",
+    "start": 263.66,
+    "duration": 2.25
+  },
+  {
+    "text": "before they became enlightened",
+    "start": 265.91,
+    "duration": 1.82
+  },
+  {
+    "text": "to pursue the universal truth.",
+    "start": 267.73,
+    "duration": 2.0
+  },
+  {
+    "text": "Hexagon is the bestagon.",
+    "start": 269.73,
+    "duration": 2.07
+  },
+  {
+    "text": "From the largest down to the smallest.",
+    "start": 271.8,
+    "duration": 2.73
+  },
+  {
+    "text": "Say, for example, this tiny snowflake I happen to have,",
+    "start": 274.53,
+    "duration": 2.83
+  },
+  {
+    "text": "that has six sides, as all snowflakes do.",
+    "start": 277.36,
+    "duration": 2.84
+  },
+  {
+    "text": "Gee, what could cause that to be?",
+    "start": 280.2,
+    "duration": 1.52
+  },
+  {
+    "text": "Let's zoom down to the atomic realm and see.",
+    "start": 281.72,
+    "duration": 2.49
+  },
+  {
+    "text": "When water molecules join together to make a flake,",
+    "start": 284.21,
+    "duration": 2.48
+  },
+  {
+    "text": "the sturdy shape they prefer is the hexagon.",
+    "start": 286.69,
+    "duration": 2.55
+  },
+  {
+    "text": "As more molecules join,",
+    "start": 289.24,
+    "duration": 1.41
+  },
+  {
+    "text": "they extend the flake fractally up.",
+    "start": 290.65,
+    "duration": 1.77
+  },
+  {
+    "text": "The beauty of the snowflake on the monkey scale,",
+    "start": 292.42,
+    "duration": 2.39
+  },
+  {
+    "text": "is but an extension of  the hexagonal perfection",
+    "start": 294.81,
+    "duration": 2.75
+  },
+  {
+    "text": "on the atomic scale.",
+    "start": 297.56,
+    "duration": 1.26
+  },
+  {
+    "text": "Okay, yes*.*",
+    "start": 298.82,
+    "duration": 0.91
+  },
+  {
+    "text": "You will sometimes find snowflakes with twelve sides,",
+    "start": 299.73,
+    "duration": 2.33
+  },
+  {
+    "text": "but this happens when two growing snowflakes",
+    "start": 302.06,
+    "duration": 1.59
+  },
+  {
+    "text": "get stuck together, so it still counts.",
+    "start": 303.65,
+    "duration": 1.78
+  },
+  {
+    "text": "And the hexagon isn't just for snow,",
+    "start": 305.43,
+    "duration": 2.0
+  },
+  {
+    "text": "but for all ice 1H,",
+    "start": 307.43,
+    "duration": 1.64
+  },
+  {
+    "text": "which means basically all ice on earth.",
+    "start": 309.07,
+    "duration": 2.16
+  },
+  {
+    "text": "Yeah, there's a little ice 1C",
+    "start": 311.23,
+    "duration": 1.47
+  },
+  {
+    "text": "which we don't talk about",
+    "start": 312.7,
+    "duration": 0.9
+  },
+  {
+    "text": "because it's made of cubes,",
+    "start": 313.6,
+    "duration": 1.22
+  },
+  {
+    "text": "and cubes are boring. ",
+    "start": 314.82,
+    "duration": 1.25
+  },
+  {
+    "text": "And there's a bit of ice 9.",
+    "start": 316.07,
+    "duration": 1.36
+  },
+  {
+    "text": "No, don't touch that.",
+    "start": 317.43,
+    "duration": 0.75
+  },
+  {
+    "text": "But if there is ice in your drink,",
+    "start": 318.18,
+    "duration": 1.45
+  },
+  {
+    "text": "give thanks to the hexagon for keeping it cool.",
+    "start": 319.63,
+    "duration": 2.59
+  },
+  {
+    "text": "And it's not just water.",
+    "start": 322.22,
+    "duration": 1.06
+  },
+  {
+    "text": "Lots of atoms use hexagons because…",
+    "start": 323.28,
+    "duration": 2.2
+  },
+  {
+    "text": "(take a note)",
+    "start": 325.48,
+    "duration": 0.88
+  },
+  {
+    "text": "hexagons are the bestagons.",
+    "start": 326.36,
+    "duration": 2.0
+  },
+  {
+    "text": "Oh, using a pencil?",
+    "start": 328.36,
+    "duration": 1.3
+  },
+  {
+    "text": "Get ready to have your mind blown",
+    "start": 329.66,
+    "duration": 2.0
+  },
+  {
+    "text": "about the hexagon here too.",
+    "start": 331.66,
+    "duration": 1.78
+  },
+  {
+    "text": "The lead.",
+    "start": 333.44,
+    "duration": 0.9
+  },
+  {
+    "text": "Well, it isn't lead lead, it's carbon.",
+    "start": 334.34,
+    "duration": 2.0
+  },
+  {
+    "text": "And you know what carbon atoms think is the bestagon?",
+    "start": 336.34,
+    "duration": 2.46
+  },
+  {
+    "text": "[snap]\nThe hexagon.",
+    "start": 338.8,
+    "duration": 1.51
+  },
+  {
+    "text": "Pencil graphite is a whole bunch of hexagonal carbons,",
+    "start": 340.31,
+    "duration": 2.85
+  },
+  {
+    "text": "and when they happen to be in a straight sheet,",
+    "start": 343.16,
+    "duration": 2.0
+  },
+  {
+    "text": "that's graphene,",
+    "start": 345.16,
+    "duration": 1.08
+  },
+  {
+    "text": "which happens to be the strongest",
+    "start": 346.24,
+    "duration": 2.02
+  },
+  {
+    "text": "atomic material in the universe.",
+    "start": 348.26,
+    "duration": 2.34
+  },
+  {
+    "text": "Some of which is in that pencil.",
+    "start": 350.6,
+    "duration": 1.78
+  },
+  {
+    "text": "To tear a sheet of graphene apart,",
+    "start": 352.38,
+    "duration": 1.56
+  },
+  {
+    "text": "you would need a hundred times more force",
+    "start": 353.94,
+    "duration": 2.25
+  },
+  {
+    "text": "than to do so with steel.",
+    "start": 356.19,
+    "duration": 1.51
+  },
+  {
+    "text": "Hexagon is strong-a-gon.",
+    "start": 357.7,
+    "duration": 1.93
+  },
+  {
+    "text": "This is because when hexagons come together,",
+    "start": 359.63,
+    "duration": 1.95
+  },
+  {
+    "text": "they form three-sided joints 120 degrees apart.",
+    "start": 361.58,
+    "duration": 3.19
+  },
+  {
+    "text": "This, for the least material,",
+    "start": 364.77,
+    "duration": 1.56
+  },
+  {
+    "text": "is the most mechanically stable arrangement.",
+    "start": 366.33,
+    "duration": 2.4
+  },
+  {
+    "text": "Pull on one joint,",
+    "start": 368.73,
+    "duration": 0.93
+  },
+  {
+    "text": "and the other two equally pull back,",
+    "start": 369.66,
+    "duration": 1.84
+  },
+  {
+    "text": "push in, and the other two are the",
+    "start": 371.5,
+    "duration": 1.58
+  },
+  {
+    "text": "most able and stable to resist.",
+    "start": 373.08,
+    "duration": 2.0
+  },
+  {
+    "text": "Now look anew at a tiling of hexagons",
+    "start": 375.08,
+    "duration": 2.0
+  },
+  {
+    "text": "and you see it is composed of nothing",
+    "start": 377.08,
+    "duration": 1.76
+  },
+  {
+    "text": "but these max stable joints,",
+    "start": 378.84,
+    "duration": 1.45
+  },
+  {
+    "text": "each arranged perfectly to help the others",
+    "start": 380.29,
+    "duration": 2.37
+  },
+  {
+    "text": "be stronger and stabler.",
+    "start": 382.66,
+    "duration": 1.46
+  },
+  {
+    "text": "This is another reason hexagons show up everywhere.",
+    "start": 384.12,
+    "duration": 3.3
+  },
+  {
+    "text": "The universe blesses stability in her physics,",
+    "start": 387.42,
+    "duration": 3.19
+  },
+  {
+    "text": "from those basalt columns,",
+    "start": 390.61,
+    "duration": 1.6
+  },
+  {
+    "text": "to bubbles which,",
+    "start": 392.21,
+    "duration": 0.94
+  },
+  {
+    "text": "as soon as they can,",
+    "start": 393.15,
+    "duration": 1.0
+  },
+  {
+    "text": "ditch their spheres to become",
+    "start": 394.15,
+    "duration": 1.93
+  },
+  {
+    "text": "as close to hexagonal perfection as they can.",
+    "start": 396.08,
+    "duration": 2.8
+  },
+  {
+    "text": "That's so cool.",
+    "start": 398.88,
+    "duration": 1.07
+  },
+  {
+    "text": "Oh right, yes.",
+    "start": 399.95,
+    "duration": 0.61
+  },
+  {
+    "text": "So if your pencil lead contains",
+    "start": 400.56,
+    "duration": 1.68
+  },
+  {
+    "text": "some of the strongest material in the universe",
+    "start": 402.24,
+    "duration": 2.4
+  },
+  {
+    "text": "how can you write with it?",
+    "start": 404.64,
+    "duration": 1.06
+  },
+  {
+    "text": "Okay, okay.",
+    "start": 405.7,
+    "duration": 0.73
+  },
+  {
+    "text": "This is going to get even more exciting.",
+    "start": 406.43,
+    "duration": 2.58
+  },
+  {
+    "text": "While hexagons are super strong this way,",
+    "start": 409.01,
+    "duration": 2.28
+  },
+  {
+    "text": "they aren't super strong this way.",
+    "start": 411.29,
+    "duration": 1.9
+  },
+  {
+    "text": "On a small scale,",
+    "start": 413.19,
+    "duration": 0.85
+  },
+  {
+    "text": "that means your pencil can break off",
+    "start": 414.04,
+    "duration": 1.68
+  },
+  {
+    "text": "in layers to leave a mark.",
+    "start": 415.72,
+    "duration": 1.47
+  },
+  {
+    "text": "But on a big scale,",
+    "start": 417.19,
+    "duration": 1.11
+  },
+  {
+    "text": "hexagons can be flexible while keeping their strength,",
+    "start": 418.3,
+    "duration": 3.29
+  },
+  {
+    "text": "letting us construct some totally unreal materials.",
+    "start": 421.59,
+    "duration": 3.09
+  },
+  {
+    "text": "Print out a grid of hexagons in whatever,",
+    "start": 424.68,
+    "duration": 2.11
+  },
+  {
+    "text": "from aluminum to cardboard,",
+    "start": 426.79,
+    "duration": 1.18
+  },
+  {
+    "text": "make a little sandwich,",
+    "start": 427.97,
+    "duration": 1.0
+  },
+  {
+    "text": "and pow!",
+    "start": 428.97,
+    "duration": 0.78
+  },
+  {
+    "text": "You've got honeycomb paneling.",
+    "start": 429.75,
+    "duration": 1.48
+  },
+  {
+    "text": "A ridonkulously tear-resistant material",
+    "start": 431.23,
+    "duration": 2.53
+  },
+  {
+    "text": "that's also super light and flexible.",
+    "start": 433.76,
+    "duration": 2.21
+  },
+  {
+    "text": "It's used everywhere ",
+    "start": 435.97,
+    "duration": 1.45
+  },
+  {
+    "text": "but particularly in aviation.",
+    "start": 437.42,
+    "duration": 1.89
+  },
+  {
+    "text": "Rockets need to be strong yet light.",
+    "start": 439.31,
+    "duration": 2.0
+  },
+  {
+    "text": "Same for aircraft.",
+    "start": 441.31,
+    "duration": 1.17
+  },
+  {
+    "text": "With wings that really can't tear",
+    "start": 442.48,
+    "duration": 2.0
+  },
+  {
+    "text": "but also need to bend.",
+    "start": 444.48,
+    "duration": 1.5
+  },
+  {
+    "text": "And only the magic of the honeycomb panel",
+    "start": 445.98,
+    "duration": 2.13
+  },
+  {
+    "text": "can do both as well.",
+    "start": 448.11,
+    "duration": 1.32
+  },
+  {
+    "text": "Give thanks to the hexagon for blessing our flight.",
+    "start": 449.43,
+    "duration": 2.75
+  },
+  {
+    "text": "And we still haven't yet discussed",
+    "start": 452.18,
+    "duration": 1.87
+  },
+  {
+    "text": "the most important application of the hexagon.",
+    "start": 454.05,
+    "duration": 2.78
+  },
+  {
+    "text": "Games!",
+    "start": 456.83,
+    "duration": 0.71
+  },
+  {
+    "text": "For centuries there has been great debate over boards,",
+    "start": 457.54,
+    "duration": 3.38
+  },
+  {
+    "text": "squares or hexagons?",
+    "start": 460.92,
+    "duration": 1.85
+  },
+  {
+    "text": "Spoiler... hexagons win.",
+    "start": 462.77,
+    "duration": 1.44
+  },
+  {
+    "text": "Square boards are the first thing",
+    "start": 464.21,
+    "duration": 1.4
+  },
+  {
+    "text": "an unenlightened species would think of.",
+    "start": 465.61,
+    "duration": 2.0
+  },
+  {
+    "text": "They look sensible and are easy to implement,",
+    "start": 467.61,
+    "duration": 2.58
+  },
+  {
+    "text": "but they are terrible,",
+    "start": 470.19,
+    "duration": 1.08
+  },
+  {
+    "text": "ineffective boards that cause spatial suffering.",
+    "start": 471.27,
+    "duration": 2.62
+  },
+  {
+    "text": "On a square board move horizontal",
+    "start": 473.89,
+    "duration": 1.72
+  },
+  {
+    "text": "or vertical one space",
+    "start": 475.61,
+    "duration": 1.06
+  },
+  {
+    "text": "and you've moved one space,",
+    "start": 476.67,
+    "duration": 1.75
+  },
+  {
+    "text": "but move diagonal",
+    "start": 478.42,
+    "duration": 1.34
+  },
+  {
+    "text": "and the distance is the square root of two spaces.",
+    "start": 479.76,
+    "duration": 2.56
+  },
+  {
+    "text": "Gross.",
+    "start": 482.32,
+    "duration": 0.82
+  },
+  {
+    "text": "Diagonals warp the distance pieces move.",
+    "start": 483.14,
+    "duration": 2.49
+  },
+  {
+    "text": "Square boards look even and tidy,",
+    "start": 485.63,
+    "duration": 2.07
+  },
+  {
+    "text": "but it's deceit.",
+    "start": 487.7,
+    "duration": 0.83
+  },
+  {
+    "text": "Their diagonals corrupting the meaning of space and time,",
+    "start": 488.53,
+    "duration": 3.52
+  },
+  {
+    "text": "and of course they must,",
+    "start": 492.05,
+    "duration": 1.44
+  },
+  {
+    "text": "because a square only has four true neighbors.",
+    "start": 493.49,
+    "duration": 3.15
+  },
+  {
+    "text": "Hexagons, however, have six",
+    "start": 496.64,
+    "duration": 1.8
+  },
+  {
+    "text": "which is more than four,",
+    "start": 498.44,
+    "duration": 1.18
+  },
+  {
+    "text": "which is better!",
+    "start": 499.62,
+    "duration": 0.66
+  },
+  {
+    "text": "And the distance from one space to the next",
+    "start": 500.28,
+    "duration": 2.2
+  },
+  {
+    "text": "is the same in every direction.",
+    "start": 502.48,
+    "duration": 1.72
+  },
+  {
+    "text": "One space.",
+    "start": 504.2,
+    "duration": 1.05
+  },
+  {
+    "text": "Just as it should be.",
+    "start": 505.25,
+    "duration": 1.32
+  },
+  {
+    "text": "If you're a game based on squares,",
+    "start": 506.57,
+    "duration": 1.46
+  },
+  {
+    "text": "I'm so sorry.",
+    "start": 508.03,
+    "duration": 0.99
+  },
+  {
+    "text": "But there is hope.",
+    "start": 509.02,
+    "duration": 1.34
+  },
+  {
+    "text": "With thought and effort,",
+    "start": 510.36,
+    "duration": 1.18
+  },
+  {
+    "text": "you can hexagon yourself into a better place.",
+    "start": 511.54,
+    "duration": 3.01
+  },
+  {
+    "text": "As we all should aspire to do,",
+    "start": 514.55,
+    "duration": 1.88
+  },
+  {
+    "text": "spreading order and hexagonal enlightenment",
+    "start": 516.43,
+    "duration": 2.64
+  },
+  {
+    "text": "for, hexagons are the bestagons.",
+    "start": 519.07,
+    "duration": 2.66
+  },
+  {
+    "text": "And now that you agree, with your eyes will see",
+    "start": 521.73,
+    "duration": 2.64
+  },
+  {
+    "text": "their six-sided perfection in all things.",
+    "start": 524.37,
+    "duration": 2.58
+  },
+  {
+    "text": "And you will say to yourself,",
+    "start": 526.95,
+    "duration": 1.61
+  },
+  {
+    "text": "as part of the order",
+    "start": 528.56,
+    "duration": 1.28
+  },
+  {
+    "text": "hexagons are the bestagons.",
+    "start": 529.84,
+    "duration": 2.41
+  },
+  {
+    "text": "Uhh, thanks for stopping by for communicator coffee.",
+    "start": 536.4,
+    "duration": 3.75
+  },
+  {
+    "text": "Now, go.  Share the enlightenment of the order with others.",
+    "start": 542.15,
+    "duration": 3.83
+  },
+  {
+    "text": "[click]",
+    "start": 545.98,
+    "duration": 1.49
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "text": "Hi!  Welcome to Math Antics.",
+    "start": 6.974,
+    "duration": 1.851
+  },
+  {
+    "text": "In our last video, we learned about circles and we learned about a special ratio called Pi.",
+    "start": 8.825,
+    "duration": 5.553
+  },
+  {
+    "text": "In this video, we’re going to learn how we can use that ratio to calculate the circumference and the area of any circle.",
+    "start": 14.378,
+    "duration": 7.567
+  },
+  {
+    "text": "The formulas that we use to calculate circumference and area are so important that you should really memorize them.",
+    "start": 21.945,
+    "duration": 6.22
+  },
+  {
+    "text": "To help you do that, we're going to look at them side-by-side.",
+    "start": 28.165,
+    "duration": 3.601
+  },
+  {
+    "text": "That will help you see their similarities and their differences so you don't get them mixed up.",
+    "start": 31.766,
+    "duration": 4.919
+  },
+  {
+    "text": "The formula for finding the circumference is:",
+    "start": 36.685,
+    "duration": 3.051
+  },
+  {
+    "text": "Circumference equals Pi times diameter.",
+    "start": 39.736,
+    "duration": 3.451
+  },
+  {
+    "text": "And just like most formulas, we use abbreviation:",
+    "start": 43.187,
+    "duration": 3.268
+  },
+  {
+    "text": "'C' for circumference and 'd' for diameter.",
+    "start": 46.455,
+    "duration": 3.535
+  },
+  {
+    "text": "That's a pretty simple formula.",
+    "start": 49.99,
+    "duration": 1.984
+  },
+  {
+    "text": "It tells us that if we know the diameter of a circle, \nall we have to do is",
+    "start": 51.974,
+    "duration": 3.752
+  },
+  {
+    "text": "multiply that diameter times the number Pi and we'll get the circumference.",
+    "start": 55.726,
+    "duration": 4.983
+  },
+  {
+    "text": "We'll try that formula out in a few minutes.",
+    "start": 60.709,
+    "duration": 2.419
+  },
+  {
+    "text": "But first, let's see the formula for area.",
+    "start": 63.128,
+    "duration": 3.067
+  },
+  {
+    "text": "The formula for finding the area of a circle is:",
+    "start": 66.195,
+    "duration": 3.719
+  },
+  {
+    "text": "Area equals Pi times radius squared.",
+    "start": 69.914,
+    "duration": 3.66
+  },
+  {
+    "text": "Again, we can use abbreviations to make it shorter:",
+    "start": 73.58,
+    "duration": 3.118
+  },
+  {
+    "text": "'A' for area and 'r' for radius.",
+    "start": 76.698,
+    "duration": 2.92
+  },
+  {
+    "text": "Now this is a pretty simple formula too.",
+    "start": 79.62,
+    "duration": 2.231
+  },
+  {
+    "text": "It tells us that if we know the radius,",
+    "start": 81.851,
+    "duration": 2.534
+  },
+  {
+    "text": "we just have to 'square' it and then multiply that times Pi to get the area.",
+    "start": 84.385,
+    "duration": 5.652
+  },
+  {
+    "text": "Okay, but what does it mean to 'square' the radius?",
+    "start": 90.037,
+    "duration": 3.851
+  },
+  {
+    "text": "Well, squaring a number just means multiplying it by itself.",
+    "start": 93.888,
+    "duration": 4.267
+  },
+  {
+    "text": "For example, 3 squared just means 3 times 3,",
+    "start": 98.155,
+    "duration": 4.919
+  },
+  {
+    "text": "and 5 squared just means 5 times 5",
+    "start": 103.074,
+    "duration": 3.585
+  },
+  {
+    "text": "and r squared just means r times r.",
+    "start": 106.659,
+    "duration": 3.819
+  },
+  {
+    "text": "So our formula is really just:",
+    "start": 110.478,
+    "duration": 2.46
+  },
+  {
+    "text": "Area equals Pi times r times r, but we write it in the\n 'r squared' form because it's more compact.",
+    "start": 112.94,
+    "duration": 8.675
+  },
+  {
+    "text": "Oh, and one really important thing to keep in mind is that",
+    "start": 121.615,
+    "duration": 4.634
+  },
+  {
+    "text": "r squared is NOT the same thing as 2 times r.",
+    "start": 126.249,
+    "duration": 5.02
+  },
+  {
+    "text": "That's a common mistake that students make when first learning how to find the area of a circle.",
+    "start": 131.269,
+    "duration": 5.517
+  },
+  {
+    "text": "And if we look carefully at both of our formulas, you'll see why.",
+    "start": 136.786,
+    "duration": 4.035
+  },
+  {
+    "text": "These two formulas have a lot in common.",
+    "start": 140.821,
+    "duration": 2.651
+  },
+  {
+    "text": "In each of them, you are multiplying Pi by part of a circle to find either the circumference or the area.",
+    "start": 143.472,
+    "duration": 6.571
+  },
+  {
+    "text": "In the case of the circumference, you are multiplying Pi times the diameter,",
+    "start": 150.043,
+    "duration": 4.251
+  },
+  {
+    "text": "and in the case of area, you are multiplying Pi times the radius squared.",
+    "start": 154.294,
+    "duration": 5.417
+  },
+  {
+    "text": "But do you remember the relationship between the radius and the diameter?",
+    "start": 159.711,
+    "duration": 4.12
+  },
+  {
+    "text": "Diameter is just 2 times the radius.",
+    "start": 163.84,
+    "duration": 3.12
+  },
+  {
+    "text": "So we could re-write our formula for circumference like this:",
+    "start": 166.964,
+    "duration": 3.868
+  },
+  {
+    "text": "Circumference = Pi × 2 × r.",
+    "start": 170.832,
+    "duration": 4.68
+  },
+  {
+    "text": "Ha! Now you see why it's so easy to get confused.",
+    "start": 175.52,
+    "duration": 4.015
+  },
+  {
+    "text": "To find the circumference, you take the radius and double it.",
+    "start": 179.54,
+    "duration": 4.02
+  },
+  {
+    "text": "Then you multiply by Pi to get the final answer.",
+    "start": 183.56,
+    "duration": 3.22
+  },
+  {
+    "text": "But for area, you don't double the radius… you square it.",
+    "start": 186.787,
+    "duration": 3.82
+  },
+  {
+    "text": "That's a very important difference.",
+    "start": 190.607,
+    "duration": 2.593
+  },
+  {
+    "text": "To help you see that difference in action,",
+    "start": 193.2,
+    "duration": 2.26
+  },
+  {
+    "text": "let's find both the circumference and the area of this circle using our two formulas.",
+    "start": 195.46,
+    "duration": 5.717
+  },
+  {
+    "text": "The only thing we know about this circle is that the radius is 8 meters.",
+    "start": 201.177,
+    "duration": 4.435
+  },
+  {
+    "text": "Luckily, that's all we need to know.",
+    "start": 205.612,
+    "duration": 2.968
+  },
+  {
+    "text": "First, we use our formula for circumference: C = Pi × d.",
+    "start": 208.58,
+    "duration": 5.935
+  },
+  {
+    "text": "To get the diameter, we take the radius and we double it. …that is, we multiply it by 2.",
+    "start": 214.515,
+    "duration": 5.368
+  },
+  {
+    "text": "2 × 8 = 16, so the diameter is 16 meters.",
+    "start": 219.883,
+    "duration": 5.285
+  },
+  {
+    "text": "Then, we multiply that by Pi to get the circumference.",
+    "start": 225.168,
+    "duration": 3.818
+  },
+  {
+    "text": "Since this is decimal multiplication, \nI'm going to use a calculator.",
+    "start": 228.986,
+    "duration": 3.84
+  },
+  {
+    "text": "16 × 3.14 = 50.24",
+    "start": 232.826,
+    "duration": 5.474
+  },
+  {
+    "text": "So that means that the circumference of this circle is 50.24 meters.",
+    "start": 238.307,
+    "duration": 5.285
+  },
+  {
+    "text": "Alright, now let's find the area using our formula: \nA = Pi times r squared.",
+    "start": 243.592,
+    "duration": 7.069
+  },
+  {
+    "text": "Again, we start with the radius, but instead of doubling it, we 'square' it.",
+    "start": 250.661,
+    "duration": 4.82
+  },
+  {
+    "text": "That means we multiply it by itself.",
+    "start": 255.481,
+    "duration": 2.631
+  },
+  {
+    "text": "8 m × 8 m = 64 meters squared.",
+    "start": 258.112,
+    "duration": 4.835
+  },
+  {
+    "text": "Then we multiply that by Pi.",
+    "start": 262.947,
+    "duration": 3.2
+  },
+  {
+    "text": "64 × 3.14 = 200.96 meters squared.",
+    "start": 266.147,
+    "duration": 6.472
+  },
+  {
+    "text": "That's the area of this circle.",
+    "start": 272.619,
+    "duration": 2.934
+  },
+  {
+    "text": "As you can see, \nthe result we get when we square the radius",
+    "start": 275.553,
+    "duration": 3.703
+  },
+  {
+    "text": "is very different from the result we get when we we double it.",
+    "start": 279.256,
+    "duration": 3.282
+  },
+  {
+    "text": "And one of the most important differences is with the units of our answer.",
+    "start": 282.538,
+    "duration": 4.351
+  },
+  {
+    "text": "Doubling the radius just gives us the diameter, which is a 1-dimensional quantity.",
+    "start": 286.889,
+    "duration": 5.169
+  },
+  {
+    "text": "So, the answer we get from our formula for circumference is also a 1-dimensional quantity.",
+    "start": 292.058,
+    "duration": 5.818
+  },
+  {
+    "text": "But, when we square the radius, that gives us 'square units', which are 2-dimensional.",
+    "start": 297.876,
+    "duration": 5.871
+  },
+  {
+    "text": "That makes sense because \narea is always a 2-dimensional quantity.",
+    "start": 303.747,
+    "duration": 4.201
+  },
+  {
+    "text": "Remembering that will help you avoid getting these two formulas mixed up.",
+    "start": 307.948,
+    "duration": 4.168
+  },
+  {
+    "text": "The one that has the radius squared is always for area.",
+    "start": 312.116,
+    "duration": 4.885
+  },
+  {
+    "text": "Alright, let's try a couple real-world examples to make sure you've got it.",
+    "start": 317.001,
+    "duration": 4.086
+  },
+  {
+    "text": "Here's the real world, which as you probably know is a sphere.",
+    "start": 321.087,
+    "duration": 4.0
+  },
+  {
+    "text": "But, if we take a slice of the world, right at the equator, that slice is a circle.",
+    "start": 325.087,
+    "duration": 4.937
+  },
+  {
+    "text": "Let's find the circumference of that circle.",
+    "start": 330.024,
+    "duration": 2.883
+  },
+  {
+    "text": "To do that, we need to know the diameter of the earth.",
+    "start": 332.907,
+    "duration": 3.0
+  },
+  {
+    "text": "That turns out to be about 12,750 km.",
+    "start": 335.907,
+    "duration": 4.952
+  },
+  {
+    "text": "Great, then to find the circumference we just need to multiply that diameter times Pi.",
+    "start": 340.859,
+    "duration": 5.968
+  },
+  {
+    "text": "Now I'm definitely going to use a calculator for this.",
+    "start": 346.827,
+    "duration": 2.936
+  },
+  {
+    "text": "And, I'm going to use a more accurate version of Pi since this is such a big distance.",
+    "start": 349.763,
+    "duration": 5.602
+  },
+  {
+    "text": "12,750 × 3.14159 = 40,055 km (to the nearest kilometer).",
+    "start": 355.365,
+    "duration": 11.888
+  },
+  {
+    "text": "Wow, that's a pretty big circumference!",
+    "start": 367.253,
+    "duration": 2.933
+  },
+  {
+    "text": "No wonder it takes so long to go all the way around the earth!",
+    "start": 370.186,
+    "duration": 3.68
+  },
+  {
+    "text": "On your mark… Get set… Go!",
+    "start": 373.866,
+    "duration": 3.0
+  },
+  {
+    "text": "Whooo - Yes!  3.14 seconds quicker than last time.  Yes!",
+    "start": 380.6,
+    "duration": 7.593
+  },
+  {
+    "text": "Here's another real-world example with a circle.",
+    "start": 388.193,
+    "duration": 2.668
+  },
+  {
+    "text": "If this pizza has a diameter of 24 inches, what's its total area?",
+    "start": 390.861,
+    "duration": 5.484
+  },
+  {
+    "text": "Well, using our formula, we start by squaring the radius.",
+    "start": 396.345,
+    "duration": 3.669
+  },
+  {
+    "text": "But, the problem didn’t give us the radius…",
+    "start": 400.014,
+    "duration": 2.701
+  },
+  {
+    "text": "it gave us the diameter, so we have to calculate the radius from the diameter.",
+    "start": 402.715,
+    "duration": 4.751
+  },
+  {
+    "text": "Fortunately, that's really easy.",
+    "start": 407.466,
+    "duration": 2.386
+  },
+  {
+    "text": "The radius is just half of the diameter, so we just need to divide the diameter by 2.",
+    "start": 409.852,
+    "duration": 5.251
+  },
+  {
+    "text": "24 inches divided by 2 gives us 12 inches for the radius.",
+    "start": 415.103,
+    "duration": 4.95
+  },
+  {
+    "text": "And now that we know the radius, we need to square it.",
+    "start": 420.053,
+    "duration": 3.08
+  },
+  {
+    "text": "12 in × 12 in = 144 inches squared.",
+    "start": 423.14,
+    "duration": 5.44
+  },
+  {
+    "text": "Next, we just multiply that by Pi.",
+    "start": 428.59,
+    "duration": 2.684
+  },
+  {
+    "text": "144 × 3.14 is 452.16.",
+    "start": 431.274,
+    "duration": 6.637
+  },
+  {
+    "text": "So, the total area of the pizza is 452.16 square inches.",
+    "start": 437.911,
+    "duration": 6.885
+  },
+  {
+    "text": "Alright, so know you know how to find the circumference and the area of any circle.",
+    "start": 444.796,
+    "duration": 5.886
+  },
+  {
+    "text": "All you need to do is remember the formulas:",
+    "start": 450.682,
+    "duration": 2.585
+  },
+  {
+    "text": "Circumference equals Pi times diameter,",
+    "start": 453.267,
+    "duration": 2.716
+  },
+  {
+    "text": "and Area equals Pi times radius squared.",
+    "start": 455.983,
+    "duration": 4.097
+  },
+  {
+    "text": "But, it's really important to practice using these formulas for yourself,",
+    "start": 460.08,
+    "duration": 4.14
+  },
+  {
+    "text": "so be sure to try some of the exercises problems.",
+    "start": 464.22,
+    "duration": 2.784
+  },
+  {
+    "text": "That's the way to really learn math.",
+    "start": 467.004,
+    "duration": 2.16
+  },
+  {
+    "text": "Thanks for watching Math Antics \nand I'll see ya next time.",
+    "start": 469.164,
+    "duration": 3.893
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 473.06,
+    "duration": 2.08
+  }
+]

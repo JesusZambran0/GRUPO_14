@@ -1,0 +1,407 @@
+[
+  {
+    "text": "You’ve probably noticed that we’ve been talking an awful lot about fractions around here lately.",
+    "start": 6.851,
+    "duration": 4.54
+  },
+  {
+    "text": "Well, now I’m going to tell you something you can do with fractions that’s really easy.",
+    "start": 11.4,
+    "duration": 4.737
+  },
+  {
+    "text": "No, no… not juggling fractions.",
+    "start": 16.137,
+    "duration": 3.116
+  },
+  {
+    "text": "[circus music]",
+    "start": 19.253,
+    "duration": 4.24
+  },
+  {
+    "text": "Although that is pretty easy… for me.",
+    "start": 23.955,
+    "duration": 2.619
+  },
+  {
+    "text": "I’m talking about something even easier than that.",
+    "start": 26.574,
+    "duration": 2.367
+  },
+  {
+    "text": "I’m talking about multiplying fractions.",
+    "start": 28.941,
+    "duration": 3.252
+  },
+  {
+    "text": "Multiplying fractions is super easy.  In fact it’s easier than adding fractions,",
+    "start": 32.193,
+    "duration": 4.801
+  },
+  {
+    "text": "and that’s why we’re going to learn it first.",
+    "start": 36.994,
+    "duration": 2.234
+  },
+  {
+    "text": "The reason it’s easier is because fractions are really just division problems.",
+    "start": 39.228,
+    "duration": 4.034
+  },
+  {
+    "text": "And multiplication and division get along much better than addition and division.",
+    "start": 43.262,
+    "duration": 4.886
+  },
+  {
+    "text": "Now since fractions are division, that means if I have the problem one-fourth times two-thirds,",
+    "start": 48.148,
+    "duration": 5.612
+  },
+  {
+    "text": "it’s the same as the problem: 1 divided by 4 times 2 divided by 3.",
+    "start": 53.76,
+    "duration": 4.94
+  },
+  {
+    "text": "That means I’ve got both multiplication and division in the same problem.",
+    "start": 58.7,
+    "duration": 4.419
+  },
+  {
+    "text": "And because they get along so well, that means I can just rearrange our problem to look like this.",
+    "start": 63.119,
+    "duration": 5.97
+  },
+  {
+    "text": "Now it looks like two multiplication problems that are being divided.",
+    "start": 69.089,
+    "duration": 3.85
+  },
+  {
+    "text": "And… it looks just like a fraction.",
+    "start": 72.939,
+    "duration": 2.469
+  },
+  {
+    "text": "In fact, if we go ahead and do the multiplications…",
+    "start": 75.408,
+    "duration": 3.416
+  },
+  {
+    "text": "1 times 2 equals 2",
+    "start": 78.824,
+    "duration": 1.704
+  },
+  {
+    "text": "and 4 times 3 equals 12",
+    "start": 80.528,
+    "duration": 2.065
+  },
+  {
+    "text": "Then we do have a fraction, and it’s the answer to our problem.",
+    "start": 82.593,
+    "duration": 3.7
+  },
+  {
+    "text": "So, what does this all mean?",
+    "start": 86.3,
+    "duration": 1.696
+  },
+  {
+    "text": "Well, it means that to multiply fractions, all you have to do is multiply the top numbers,",
+    "start": 87.996,
+    "duration": 4.868
+  },
+  {
+    "text": "and then multiply the bottom numbers, and Tada!… There’s your answer!",
+    "start": 92.864,
+    "duration": 4.568
+  },
+  {
+    "text": "As always, let’s see an example or two.",
+    "start": 97.432,
+    "duration": 2.768
+  },
+  {
+    "text": "Let’s try this problem:   two-thirds times four-fifths",
+    "start": 100.2,
+    "duration": 4.06
+  },
+  {
+    "text": "Now we could re-write the problem like we just saw,",
+    "start": 104.26,
+    "duration": 2.959
+  },
+  {
+    "text": "but that’s not necessary as long as we remember the procedure.",
+    "start": 107.219,
+    "duration": 3.88
+  },
+  {
+    "text": "First, we know our answer is going to be a fraction,",
+    "start": 111.1,
+    "duration": 2.38
+  },
+  {
+    "text": "so let’s go ahead and write a new fraction line for it.",
+    "start": 113.488,
+    "duration": 2.917
+  },
+  {
+    "text": "Next, we multiply the top numbers: 2 × 4 = 8",
+    "start": 116.405,
+    "duration": 3.803
+  },
+  {
+    "text": "So 8 is the top number of our answer.",
+    "start": 120.208,
+    "duration": 2.749
+  },
+  {
+    "text": "Last, we multiply the bottom numbers: 3 × 5 = 15",
+    "start": 122.957,
+    "duration": 4.436
+  },
+  {
+    "text": "So 15 is the bottom number of our answer.",
+    "start": 127.393,
+    "duration": 2.968
+  },
+  {
+    "text": "There we have it: 2/3 times 4/5 equals 8/15",
+    "start": 130.361,
+    "duration": 5.04
+  },
+  {
+    "text": "See how easy that was? …and FUN too!",
+    "start": 135.401,
+    "duration": 3.359
+  },
+  {
+    "text": "…even funner than video games!!",
+    "start": 138.763,
+    "duration": 2.101
+  },
+  {
+    "text": "[coo-coo clock sound]",
+    "start": 140.864,
+    "duration": 1.26
+  },
+  {
+    "text": "Okay …time for another example.",
+    "start": 142.124,
+    "duration": 2.316
+  },
+  {
+    "text": "Let’s try 6/11 times 7/8",
+    "start": 144.449,
+    "duration": 3.891
+  },
+  {
+    "text": "From our multiplication table, we know that 6 × 7 = 42,",
+    "start": 148.34,
+    "duration": 4.42
+  },
+  {
+    "text": "so 42 is the top number of our answer.",
+    "start": 152.769,
+    "duration": 3.184
+  },
+  {
+    "text": "And on the bottom, we have 11 times 8 which is 88.",
+    "start": 155.953,
+    "duration": 3.284
+  },
+  {
+    "text": "So, 6/11 times 7/8 equals 42/88",
+    "start": 159.237,
+    "duration": 5.686
+  },
+  {
+    "text": "Oh, now some of you might see that this answer could be simplified,",
+    "start": 164.923,
+    "duration": 3.984
+  },
+  {
+    "text": "but we’ll save simplifying fractions for another video.",
+    "start": 168.907,
+    "duration": 3.385
+  },
+  {
+    "text": "Alright, let’s see one last example.  Here it is:",
+    "start": 172.292,
+    "duration": 3.519
+  },
+  {
+    "text": "1/2 times 4/3 times 3/5",
+    "start": 175.811,
+    "duration": 4.117
+  },
+  {
+    "text": "Wait a minute!  This has three fractions multiplied together, and that middle one looks",
+    "start": 179.928,
+    "duration": 4.46
+  },
+  {
+    "text": "like an “improper” fraction cuz its top number is bigger than its bottom number.",
+    "start": 184.388,
+    "duration": 3.952
+  },
+  {
+    "text": "Does our procedure work for this problem too?",
+    "start": 188.348,
+    "duration": 2.952
+  },
+  {
+    "text": "Yep!  All we have to do is multiply all the top numbers together",
+    "start": 191.3,
+    "duration": 3.734
+  },
+  {
+    "text": "and then multiply all the bottom numbers together and we’ll have our answer.",
+    "start": 195.034,
+    "duration": 4.28
+  },
+  {
+    "text": "And this will work no matter how many fractions we have to multiply.",
+    "start": 199.32,
+    "duration": 3.48
+  },
+  {
+    "text": "So, on the top we have: 1 time 4 is 4  …and 4 time 3 is 12.",
+    "start": 202.803,
+    "duration": 5.152
+  },
+  {
+    "text": "And on the bottom: 2 times 3 is 6  …and 6 times 5 is 30.",
+    "start": 207.955,
+    "duration": 5.018
+  },
+  {
+    "text": "That means our answer is 12 over 30",
+    "start": 212.973,
+    "duration": 3.351
+  },
+  {
+    "text": "So, there you have it… Multiplying fractions is easy because fractions are just another way of writing division problems.",
+    "start": 216.324,
+    "duration": 6.57
+  },
+  {
+    "text": "But, remember, there’s another way to think about fractions.",
+    "start": 222.894,
+    "duration": 3.267
+  },
+  {
+    "text": "We can also use fractions to represent parts of things like half of a pizza for instance.",
+    "start": 226.161,
+    "duration": 5.719
+  },
+  {
+    "text": "But does it make sense to multiply half a pizza by another half?  Actually, it does!",
+    "start": 231.88,
+    "duration": 6.66
+  },
+  {
+    "text": "If you are thinking of fractions as ‘parts of something’ them multiplying fractions is really like taking part of another part.",
+    "start": 238.549,
+    "duration": 7.491
+  },
+  {
+    "text": "For example, here’s half of a pizza.",
+    "start": 246.04,
+    "duration": 2.579
+  },
+  {
+    "text": "You can see that if I take one-half of that half, then I get one-fourth of a pizza.",
+    "start": 248.619,
+    "duration": 5.535
+  },
+  {
+    "text": "And if we do the multiplication: 1/2 times 1/2,  you see that we DO get 1/4.",
+    "start": 254.154,
+    "duration": 6.18
+  },
+  {
+    "text": "So that’s why you can think of multiplying fractions as taking part of another part.",
+    "start": 260.34,
+    "duration": 5.64
+  },
+  {
+    "text": "In fact, sometimes, especially in word or story problems,",
+    "start": 265.98,
+    "duration": 3.44
+  },
+  {
+    "text": "you’ll see multiplying fractions written using the word “of” instead of “times”.",
+    "start": 269.421,
+    "duration": 4.619
+  },
+  {
+    "text": "They may ask, “What’s three-fourths OF two-thirds?”",
+    "start": 274.04,
+    "duration": 3.72
+  },
+  {
+    "text": "And now you’ll know they just mean, “What’s three-fourths TIMES two-thirds?”",
+    "start": 277.76,
+    "duration": 4.78
+  },
+  {
+    "text": "So, whether you think of fractions as parts of something or as division problems,",
+    "start": 282.543,
+    "duration": 5.021
+  },
+  {
+    "text": "the procedure for doing the multiplication is exactly the same!",
+    "start": 287.564,
+    "duration": 4.317
+  },
+  {
+    "text": "Let’s do a quick review of what we’ve learned.",
+    "start": 291.881,
+    "duration": 2.566
+  },
+  {
+    "text": "Multiplying fractions is even easier than adding fractions.",
+    "start": 294.447,
+    "duration": 4.573
+  },
+  {
+    "text": "It’s easy because ‘Order of Operations’ says that we can do the multiplication before the division.",
+    "start": 299.02,
+    "duration": 6.34
+  },
+  {
+    "text": "The procedure for multiplying fractions is to multiply the top numbers to get the answer’s top number, and multiply the bottom numbers to get the answer’s bottom number.",
+    "start": 305.368,
+    "duration": 9.454
+  },
+  {
+    "text": "If you think of fractions as parts of something, then multiplying a fraction by another fraction is the same as taking a part of a part.",
+    "start": 314.822,
+    "duration": 8.64
+  },
+  {
+    "text": "And sometimes, especially in word problems, you might see the word “of” instead of the word “times”.",
+    "start": 323.462,
+    "duration": 6.716
+  },
+  {
+    "text": "Even though multiplying fractions is so easy, it’s a good idea to practice.",
+    "start": 330.178,
+    "duration": 4.017
+  },
+  {
+    "text": "So be sure to do the exercises, and I’ll see ya next time.",
+    "start": 334.195,
+    "duration": 3.936
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 338.94,
+    "duration": 1.98
+  }
+]

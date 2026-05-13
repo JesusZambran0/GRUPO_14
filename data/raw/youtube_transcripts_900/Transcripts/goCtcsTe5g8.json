@@ -1,0 +1,2047 @@
+[
+  {
+    "text": "these days the price of computer",
+    "start": 0.32,
+    "duration": 4.479
+  },
+  {
+    "text": "hardware is ridiculously expensive so",
+    "start": 2.159,
+    "duration": 4.72
+  },
+  {
+    "text": "it's worth considering what coders",
+    "start": 4.799,
+    "duration": 4.161
+  },
+  {
+    "text": "actually need to get the job done to",
+    "start": 6.879,
+    "duration": 4.321
+  },
+  {
+    "text": "that end i wanted to find out if coding",
+    "start": 8.96,
+    "duration": 4.48
+  },
+  {
+    "text": "on a chromebook is possible and even if",
+    "start": 11.2,
+    "duration": 5.12
+  },
+  {
+    "text": "it could be my primary coding device so",
+    "start": 13.44,
+    "duration": 5.2
+  },
+  {
+    "text": "i picked up this chromebook to use for a",
+    "start": 16.32,
+    "duration": 4.24
+  },
+  {
+    "text": "period of about a week or two and during",
+    "start": 18.64,
+    "duration": 3.36
+  },
+  {
+    "text": "that time i'm going to answer some",
+    "start": 20.56,
+    "duration": 3.36
+  },
+  {
+    "text": "fundamental questions like can a device",
+    "start": 22.0,
+    "duration": 4.16
+  },
+  {
+    "text": "like this even be used for programming",
+    "start": 23.92,
+    "duration": 4.56
+  },
+  {
+    "text": "if it can what is that experience like",
+    "start": 26.16,
+    "duration": 3.84
+  },
+  {
+    "text": "and would i recommend it to people",
+    "start": 28.48,
+    "duration": 3.52
+  },
+  {
+    "text": "learning to code and even continuing",
+    "start": 30.0,
+    "duration": 4.16
+  },
+  {
+    "text": "their coding journey let's find out the",
+    "start": 32.0,
+    "duration": 3.76
+  },
+  {
+    "text": "first thing i needed to do was get a",
+    "start": 34.16,
+    "duration": 3.28
+  },
+  {
+    "text": "chromebook so i jumped on google and",
+    "start": 35.76,
+    "duration": 3.36
+  },
+  {
+    "text": "went for the cheapest one this was the",
+    "start": 37.44,
+    "duration": 4.0
+  },
+  {
+    "text": "lenovo duet 5 which only comes in at",
+    "start": 39.12,
+    "duration": 4.88
+  },
+  {
+    "text": "around 400 so i ordered it and it",
+    "start": 41.44,
+    "duration": 4.639
+  },
+  {
+    "text": "arrived if you're not aware chromebooks",
+    "start": 44.0,
+    "duration": 3.92
+  },
+  {
+    "text": "are essentially just like laptops but",
+    "start": 46.079,
+    "duration": 3.521
+  },
+  {
+    "text": "instead of using something like windows",
+    "start": 47.92,
+    "duration": 3.6
+  },
+  {
+    "text": "or mac they have a special operating",
+    "start": 49.6,
+    "duration": 4.24
+  },
+  {
+    "text": "system called chrome os and this is also",
+    "start": 51.52,
+    "duration": 4.8
+  },
+  {
+    "text": "based on chromium os which is also based",
+    "start": 53.84,
+    "duration": 4.16
+  },
+  {
+    "text": "on linux but what i'm hoping here is",
+    "start": 56.32,
+    "duration": 3.44
+  },
+  {
+    "text": "that i should be able to run some linux",
+    "start": 58.0,
+    "duration": 3.68
+  },
+  {
+    "text": "applications on this operating system",
+    "start": 59.76,
+    "duration": 3.52
+  },
+  {
+    "text": "for me one of the most important things",
+    "start": 61.68,
+    "duration": 3.439
+  },
+  {
+    "text": "for a device like this is the keyboard",
+    "start": 63.28,
+    "duration": 3.36
+  },
+  {
+    "text": "and i was quite happy with this one i",
+    "start": 65.119,
+    "duration": 3.441
+  },
+  {
+    "text": "plugged it in with a usbc cable and i",
+    "start": 66.64,
+    "duration": 3.76
+  },
+  {
+    "text": "got started creating my account this is",
+    "start": 68.56,
+    "duration": 3.36
+  },
+  {
+    "text": "actually the very first time i've used a",
+    "start": 70.4,
+    "duration": 3.039
+  },
+  {
+    "text": "chromebook so i'm not too sure yet what",
+    "start": 71.92,
+    "duration": 3.519
+  },
+  {
+    "text": "to expect i downloaded some updates and",
+    "start": 73.439,
+    "duration": 3.761
+  },
+  {
+    "text": "then i logged into my account after",
+    "start": 75.439,
+    "duration": 3.761
+  },
+  {
+    "text": "which it did some more updates so i",
+    "start": 77.2,
+    "duration": 3.76
+  },
+  {
+    "text": "decided it was lunch time and i decided",
+    "start": 79.2,
+    "duration": 3.279
+  },
+  {
+    "text": "now that i have a mobile device like",
+    "start": 80.96,
+    "duration": 3.36
+  },
+  {
+    "text": "this i might as well take it with me on",
+    "start": 82.479,
+    "duration": 3.601
+  },
+  {
+    "text": "my way to grab some food you might be",
+    "start": 84.32,
+    "duration": 3.439
+  },
+  {
+    "text": "thinking why did i pick a chromebook",
+    "start": 86.08,
+    "duration": 3.84
+  },
+  {
+    "text": "well the macbooks and windows laptops",
+    "start": 87.759,
+    "duration": 3.761
+  },
+  {
+    "text": "these days are expensive like four",
+    "start": 89.92,
+    "duration": 2.879
+  },
+  {
+    "text": "thousand dollars or more i wanted",
+    "start": 91.52,
+    "duration": 2.8
+  },
+  {
+    "text": "something cheap because when i started",
+    "start": 92.799,
+    "duration": 2.881
+  },
+  {
+    "text": "out in my programming journey i didn't",
+    "start": 94.32,
+    "duration": 2.96
+  },
+  {
+    "text": "have much money and i actually picked up",
+    "start": 95.68,
+    "duration": 3.439
+  },
+  {
+    "text": "a secondhand laptop alright great so",
+    "start": 97.28,
+    "duration": 3.12
+  },
+  {
+    "text": "i've got the setup more or less done",
+    "start": 99.119,
+    "duration": 3.28
+  },
+  {
+    "text": "here but i'm having a bit of a problem",
+    "start": 100.4,
+    "duration": 3.999
+  },
+  {
+    "text": "because right now i can only open up",
+    "start": 102.399,
+    "duration": 4.241
+  },
+  {
+    "text": "google chrome so i did some digging on",
+    "start": 104.399,
+    "duration": 3.68
+  },
+  {
+    "text": "google and found out that you can",
+    "start": 106.64,
+    "duration": 3.519
+  },
+  {
+    "text": "actually enable a developer mode and",
+    "start": 108.079,
+    "duration": 3.521
+  },
+  {
+    "text": "that's the very first thing that i did",
+    "start": 110.159,
+    "duration": 3.681
+  },
+  {
+    "text": "the developer mode disables all security",
+    "start": 111.6,
+    "duration": 3.76
+  },
+  {
+    "text": "for the chromebook but it comes with the",
+    "start": 113.84,
+    "duration": 3.52
+  },
+  {
+    "text": "benefit of letting you access the shell",
+    "start": 115.36,
+    "duration": 4.0
+  },
+  {
+    "text": "so now with this i can start actually",
+    "start": 117.36,
+    "duration": 4.0
+  },
+  {
+    "text": "inputting my own commands like pinging",
+    "start": 119.36,
+    "duration": 3.759
+  },
+  {
+    "text": "or installing applications and really",
+    "start": 121.36,
+    "duration": 3.84
+  },
+  {
+    "text": "customizing my chromebook to work how i",
+    "start": 123.119,
+    "duration": 3.761
+  },
+  {
+    "text": "want okay let's move to the next day",
+    "start": 125.2,
+    "duration": 2.88
+  },
+  {
+    "text": "because i actually want to start",
+    "start": 126.88,
+    "duration": 2.879
+  },
+  {
+    "text": "utilizing this chromebook and seeing",
+    "start": 128.08,
+    "duration": 4.32
+  },
+  {
+    "text": "what it's capable of so today's goal is",
+    "start": 129.759,
+    "duration": 4.721
+  },
+  {
+    "text": "quite simple i just want to get vs code",
+    "start": 132.4,
+    "duration": 4.0
+  },
+  {
+    "text": "running on this chromebook of course",
+    "start": 134.48,
+    "duration": 3.68
+  },
+  {
+    "text": "life is never that simple the very first",
+    "start": 136.4,
+    "duration": 4.0
+  },
+  {
+    "text": "issue i had was no internet connection i",
+    "start": 138.16,
+    "duration": 4.0
+  },
+  {
+    "text": "needed to connect up to my wifi which",
+    "start": 140.4,
+    "duration": 3.44
+  },
+  {
+    "text": "wasn't even working the other thing i",
+    "start": 142.16,
+    "duration": 3.52
+  },
+  {
+    "text": "can do is connect it to my mobile phone",
+    "start": 143.84,
+    "duration": 3.68
+  },
+  {
+    "text": "using bluetooth and tethering which is",
+    "start": 145.68,
+    "duration": 3.6
+  },
+  {
+    "text": "always a good option instead what i",
+    "start": 147.52,
+    "duration": 3.6
+  },
+  {
+    "text": "decided to do is head over to my",
+    "start": 149.28,
+    "duration": 4.08
+  },
+  {
+    "text": "internet router and while i'm no it",
+    "start": 151.12,
+    "duration": 4.24
+  },
+  {
+    "text": "expert what i decided was to keep",
+    "start": 153.36,
+    "duration": 4.0
+  },
+  {
+    "text": "turning it off and on again until it",
+    "start": 155.36,
+    "duration": 4.159
+  },
+  {
+    "text": "came back online now that i'm connected",
+    "start": 157.36,
+    "duration": 3.76
+  },
+  {
+    "text": "let's have a look at some of the code",
+    "start": 159.519,
+    "duration": 3.44
+  },
+  {
+    "text": "editors available for the chromebook",
+    "start": 161.12,
+    "duration": 3.6
+  },
+  {
+    "text": "some of the easiest to get started with",
+    "start": 162.959,
+    "duration": 4.321
+  },
+  {
+    "text": "are web-based editors like code sandbox",
+    "start": 164.72,
+    "duration": 5.04
+  },
+  {
+    "text": "which allows you to have a vs code like",
+    "start": 167.28,
+    "duration": 4.8
+  },
+  {
+    "text": "interface on your browser but this isn't",
+    "start": 169.76,
+    "duration": 4.08
+  },
+  {
+    "text": "really what i'm after what i really want",
+    "start": 172.08,
+    "duration": 3.439
+  },
+  {
+    "text": "to do is open up vs code on the",
+    "start": 173.84,
+    "duration": 3.84
+  },
+  {
+    "text": "chromebook directly and have some files",
+    "start": 175.519,
+    "duration": 4.0
+  },
+  {
+    "text": "and even maybe a hosting server on here",
+    "start": 177.68,
+    "duration": 3.6
+  },
+  {
+    "text": "so let's find out how we can do this as",
+    "start": 179.519,
+    "duration": 3.201
+  },
+  {
+    "text": "a windows user i thought i'd just",
+    "start": 181.28,
+    "duration": 3.52
+  },
+  {
+    "text": "install it and went to vs code.com which",
+    "start": 182.72,
+    "duration": 3.599
+  },
+  {
+    "text": "actually isn't the website so i went on",
+    "start": 184.8,
+    "duration": 3.04
+  },
+  {
+    "text": "google and found out it's actually",
+    "start": 186.319,
+    "duration": 3.521
+  },
+  {
+    "text": "code.visualstudio.com",
+    "start": 187.84,
+    "duration": 3.6
+  },
+  {
+    "text": "now that we're on here i'm going to",
+    "start": 189.84,
+    "duration": 3.92
+  },
+  {
+    "text": "select to download the deb version which",
+    "start": 191.44,
+    "duration": 4.159
+  },
+  {
+    "text": "is the linux version which i assume",
+    "start": 193.76,
+    "duration": 3.839
+  },
+  {
+    "text": "that's what i'm running and hopefully it",
+    "start": 195.599,
+    "duration": 4.881
+  },
+  {
+    "text": "just works and it doesn't just work well",
+    "start": 197.599,
+    "duration": 5.28
+  },
+  {
+    "text": "this is starting to become a nightmare i",
+    "start": 200.48,
+    "duration": 4.479
+  },
+  {
+    "text": "thought originally that all i had to do",
+    "start": 202.879,
+    "duration": 4.401
+  },
+  {
+    "text": "is download it but there is apparently a",
+    "start": 204.959,
+    "duration": 4.961
+  },
+  {
+    "text": "difference between intel processors and",
+    "start": 207.28,
+    "duration": 5.519
+  },
+  {
+    "text": "maybe arm based processors where the arm",
+    "start": 209.92,
+    "duration": 5.12
+  },
+  {
+    "text": "ones just don't have support for vs code",
+    "start": 212.799,
+    "duration": 3.44
+  },
+  {
+    "text": "i'm gonna have to do some more digging",
+    "start": 215.04,
+    "duration": 3.119
+  },
+  {
+    "text": "to find out if it's actually possible to",
+    "start": 216.239,
+    "duration": 4.0
+  },
+  {
+    "text": "run a vs code on here because i don't",
+    "start": 218.159,
+    "duration": 4.16
+  },
+  {
+    "text": "wanna really give up i do want vs code",
+    "start": 220.239,
+    "duration": 3.681
+  },
+  {
+    "text": "running on here and there's gotta be",
+    "start": 222.319,
+    "duration": 4.161
+  },
+  {
+    "text": "some way to do it so i headed over to my",
+    "start": 223.92,
+    "duration": 4.48
+  },
+  {
+    "text": "favorite website youtube and here i'm",
+    "start": 226.48,
+    "duration": 4.24
+  },
+  {
+    "text": "gonna search for hopefully a tutorial on",
+    "start": 228.4,
+    "duration": 4.64
+  },
+  {
+    "text": "how to install vs code on a chromebook",
+    "start": 230.72,
+    "duration": 3.76
+  },
+  {
+    "text": "i'm sure there's someone out there who's",
+    "start": 233.04,
+    "duration": 3.119
+  },
+  {
+    "text": "done it and after some searching i did",
+    "start": 234.48,
+    "duration": 3.52
+  },
+  {
+    "text": "find a few different examples what i",
+    "start": 236.159,
+    "duration": 3.841
+  },
+  {
+    "text": "learned is that chromebooks can run on a",
+    "start": 238.0,
+    "duration": 3.84
+  },
+  {
+    "text": "number of different processors and i'm",
+    "start": 240.0,
+    "duration": 4.48
+  },
+  {
+    "text": "using an rm64 based processor this means",
+    "start": 241.84,
+    "duration": 4.959
+  },
+  {
+    "text": "i need a custom version of vs code and",
+    "start": 244.48,
+    "duration": 4.08
+  },
+  {
+    "text": "on top of that i also need a custom",
+    "start": 246.799,
+    "duration": 3.921
+  },
+  {
+    "text": "version of linux distro running on this",
+    "start": 248.56,
+    "duration": 4.959
+  },
+  {
+    "text": "chromebook luckily this is quite easy to",
+    "start": 250.72,
+    "duration": 5.04
+  },
+  {
+    "text": "set up and all i have to do is head over",
+    "start": 253.519,
+    "duration": 4.161
+  },
+  {
+    "text": "to the chromebook settings and then",
+    "start": 255.76,
+    "duration": 3.84
+  },
+  {
+    "text": "enable a special mode called the linux",
+    "start": 257.68,
+    "duration": 4.0
+  },
+  {
+    "text": "development environment this installs",
+    "start": 259.6,
+    "duration": 3.84
+  },
+  {
+    "text": "all the extra unnecessaries that i need",
+    "start": 261.68,
+    "duration": 3.519
+  },
+  {
+    "text": "to get this up and running and i guess",
+    "start": 263.44,
+    "duration": 3.44
+  },
+  {
+    "text": "this is my first bit of feedback about",
+    "start": 265.199,
+    "duration": 3.921
+  },
+  {
+    "text": "the chromebook while it's a cheap device",
+    "start": 266.88,
+    "duration": 4.16
+  },
+  {
+    "text": "it does mean that you have to spend some",
+    "start": 269.12,
+    "duration": 3.68
+  },
+  {
+    "text": "additional time setting it all up to",
+    "start": 271.04,
+    "duration": 3.28
+  },
+  {
+    "text": "work the way you want for some people",
+    "start": 272.8,
+    "duration": 3.44
+  },
+  {
+    "text": "that might be a relaxing experience",
+    "start": 274.32,
+    "duration": 3.28
+  },
+  {
+    "text": "where you get to know your device a",
+    "start": 276.24,
+    "duration": 2.8
+  },
+  {
+    "text": "little bit better whereas for other",
+    "start": 277.6,
+    "duration": 2.879
+  },
+  {
+    "text": "people that might be a little bit",
+    "start": 279.04,
+    "duration": 3.599
+  },
+  {
+    "text": "frustrating i now have access to the",
+    "start": 280.479,
+    "duration": 3.921
+  },
+  {
+    "text": "shell and i did some more digging on the",
+    "start": 282.639,
+    "duration": 3.441
+  },
+  {
+    "text": "vs code website and found there was an",
+    "start": 284.4,
+    "duration": 3.44
+  },
+  {
+    "text": "actual guide on how to be installed on",
+    "start": 286.08,
+    "duration": 3.119
+  },
+  {
+    "text": "chromebooks which i really should have",
+    "start": 287.84,
+    "duration": 3.12
+  },
+  {
+    "text": "followed but having a look at this guide",
+    "start": 289.199,
+    "duration": 3.681
+  },
+  {
+    "text": "i can see that first i need the linux",
+    "start": 290.96,
+    "duration": 3.679
+  },
+  {
+    "text": "mode enabled which i've already done and",
+    "start": 292.88,
+    "duration": 3.28
+  },
+  {
+    "text": "then i need to execute a couple of",
+    "start": 294.639,
+    "duration": 3.201
+  },
+  {
+    "text": "commands that will allow me to install",
+    "start": 296.16,
+    "duration": 3.759
+  },
+  {
+    "text": "new applications i ran the commands and",
+    "start": 297.84,
+    "duration": 4.0
+  },
+  {
+    "text": "then jumped back on to vs code and",
+    "start": 299.919,
+    "duration": 4.72
+  },
+  {
+    "text": "downloaded the damp version of arm64 and",
+    "start": 301.84,
+    "duration": 4.56
+  },
+  {
+    "text": "now i'm ready to install it and the",
+    "start": 304.639,
+    "duration": 4.161
+  },
+  {
+    "text": "installation is successful",
+    "start": 306.4,
+    "duration": 4.96
+  },
+  {
+    "text": "yes vs code's up and running loading it",
+    "start": 308.8,
+    "duration": 5.04
+  },
+  {
+    "text": "up it looks exactly the same as my",
+    "start": 311.36,
+    "duration": 4.0
+  },
+  {
+    "text": "version on the mac as well as on the",
+    "start": 313.84,
+    "duration": 3.52
+  },
+  {
+    "text": "windows so i guess the very first thing",
+    "start": 315.36,
+    "duration": 3.76
+  },
+  {
+    "text": "is to customize my settings and maybe",
+    "start": 317.36,
+    "duration": 4.399
+  },
+  {
+    "text": "even log into github and it's also time",
+    "start": 319.12,
+    "duration": 4.799
+  },
+  {
+    "text": "for lunch so what i'm gonna do is take",
+    "start": 321.759,
+    "duration": 4.16
+  },
+  {
+    "text": "this chromebook with me on the go and",
+    "start": 323.919,
+    "duration": 4.081
+  },
+  {
+    "text": "we're gonna see how it performs out and",
+    "start": 325.919,
+    "duration": 4.081
+  },
+  {
+    "text": "about in the wild whenever buying a",
+    "start": 328.0,
+    "duration": 3.68
+  },
+  {
+    "text": "device like this you wanna use it to its",
+    "start": 330.0,
+    "duration": 3.6
+  },
+  {
+    "text": "maximum potential and if i was just",
+    "start": 331.68,
+    "duration": 3.44
+  },
+  {
+    "text": "gonna be working at home i might as well",
+    "start": 333.6,
+    "duration": 3.439
+  },
+  {
+    "text": "buy a computer in my case i'm always",
+    "start": 335.12,
+    "duration": 3.68
+  },
+  {
+    "text": "taking my son out to different locations",
+    "start": 337.039,
+    "duration": 3.361
+  },
+  {
+    "text": "and being able to continue to work and",
+    "start": 338.8,
+    "duration": 3.36
+  },
+  {
+    "text": "do some stuff while he's playing always",
+    "start": 340.4,
+    "duration": 3.92
+  },
+  {
+    "text": "makes life a lot easier here i continued",
+    "start": 342.16,
+    "duration": 4.479
+  },
+  {
+    "text": "my sign into github and as soon as it",
+    "start": 344.32,
+    "duration": 4.64
+  },
+  {
+    "text": "authenticated my vs code was ready and",
+    "start": 346.639,
+    "duration": 4.161
+  },
+  {
+    "text": "not only that it actually installed all",
+    "start": 348.96,
+    "duration": 3.76
+  },
+  {
+    "text": "the same extensions that i'm using on my",
+    "start": 350.8,
+    "duration": 4.08
+  },
+  {
+    "text": "other devices which is great today is",
+    "start": 352.72,
+    "duration": 3.68
+  },
+  {
+    "text": "day three and i want to get into some",
+    "start": 354.88,
+    "duration": 3.28
+  },
+  {
+    "text": "real coding today this means i need a",
+    "start": 356.4,
+    "duration": 3.6
+  },
+  {
+    "text": "real shot of coffee and i'm hopefully",
+    "start": 358.16,
+    "duration": 3.599
+  },
+  {
+    "text": "going to get a real server up and",
+    "start": 360.0,
+    "duration": 3.84
+  },
+  {
+    "text": "running that might host a website on a",
+    "start": 361.759,
+    "duration": 3.681
+  },
+  {
+    "text": "development board other things that i",
+    "start": 363.84,
+    "duration": 3.52
+  },
+  {
+    "text": "think are important are just being able",
+    "start": 365.44,
+    "duration": 3.92
+  },
+  {
+    "text": "to download repositories maybe run up",
+    "start": 367.36,
+    "duration": 4.32
+  },
+  {
+    "text": "databases and do some builds to see the",
+    "start": 369.36,
+    "duration": 3.76
+  },
+  {
+    "text": "difference in build time between a",
+    "start": 371.68,
+    "duration": 3.6
+  },
+  {
+    "text": "device like this and a windows device i",
+    "start": 373.12,
+    "duration": 4.72
+  },
+  {
+    "text": "want to install node.js i had a look at",
+    "start": 375.28,
+    "duration": 4.639
+  },
+  {
+    "text": "some articles and it looks a lot easier",
+    "start": 377.84,
+    "duration": 4.16
+  },
+  {
+    "text": "than installing vs code of course i've",
+    "start": 379.919,
+    "duration": 3.84
+  },
+  {
+    "text": "been wrong before so let's do some quick",
+    "start": 382.0,
+    "duration": 3.36
+  },
+  {
+    "text": "digging to see what's involved and how",
+    "start": 383.759,
+    "duration": 3.841
+  },
+  {
+    "text": "we can install it i headed over to the",
+    "start": 385.36,
+    "duration": 4.32
+  },
+  {
+    "text": "node.js website and i got a couple of",
+    "start": 387.6,
+    "duration": 3.84
+  },
+  {
+    "text": "options for downloading it for windows",
+    "start": 389.68,
+    "duration": 3.519
+  },
+  {
+    "text": "but that's not what i'm on so i'm gonna",
+    "start": 391.44,
+    "duration": 3.28
+  },
+  {
+    "text": "select other downloads and have a look",
+    "start": 393.199,
+    "duration": 3.201
+  },
+  {
+    "text": "if there's an arm version there is",
+    "start": 394.72,
+    "duration": 3.36
+  },
+  {
+    "text": "there's an arm version seven and version",
+    "start": 396.4,
+    "duration": 3.28
+  },
+  {
+    "text": "eight so i'm not too sure which one to",
+    "start": 398.08,
+    "duration": 3.119
+  },
+  {
+    "text": "use and i think i need to do a little",
+    "start": 399.68,
+    "duration": 3.12
+  },
+  {
+    "text": "bit more research to find out which",
+    "start": 401.199,
+    "duration": 3.921
+  },
+  {
+    "text": "option to select i googled chromebook",
+    "start": 402.8,
+    "duration": 4.239
+  },
+  {
+    "text": "with nodejs to see what other people",
+    "start": 405.12,
+    "duration": 3.919
+  },
+  {
+    "text": "might have done and from what i can see",
+    "start": 407.039,
+    "duration": 3.361
+  },
+  {
+    "text": "most of them actually installed it",
+    "start": 409.039,
+    "duration": 3.28
+  },
+  {
+    "text": "through the terminal there is an actual",
+    "start": 410.4,
+    "duration": 3.44
+  },
+  {
+    "text": "command that allows you to install",
+    "start": 412.319,
+    "duration": 3.361
+  },
+  {
+    "text": "node.js so i'm going to install node",
+    "start": 413.84,
+    "duration": 3.919
+  },
+  {
+    "text": "version 14. i then copy-pasted this",
+    "start": 415.68,
+    "duration": 3.68
+  },
+  {
+    "text": "command straight into my terminal to",
+    "start": 417.759,
+    "duration": 3.521
+  },
+  {
+    "text": "execute just like any good developer but",
+    "start": 419.36,
+    "duration": 3.6
+  },
+  {
+    "text": "of course i did do double check and from",
+    "start": 421.28,
+    "duration": 3.039
+  },
+  {
+    "text": "what i could see it was downloading",
+    "start": 422.96,
+    "duration": 2.88
+  },
+  {
+    "text": "straight from the node website and",
+    "start": 424.319,
+    "duration": 3.761
+  },
+  {
+    "text": "running a sudo bash to actually execute",
+    "start": 425.84,
+    "duration": 4.079
+  },
+  {
+    "text": "that node installation this might take a",
+    "start": 428.08,
+    "duration": 3.519
+  },
+  {
+    "text": "while but once it's done i should be",
+    "start": 429.919,
+    "duration": 4.0
+  },
+  {
+    "text": "able to simply open up node by typing in",
+    "start": 431.599,
+    "duration": 4.16
+  },
+  {
+    "text": "node and then i should have access to",
+    "start": 433.919,
+    "duration": 3.361
+  },
+  {
+    "text": "the shell so i can write in some",
+    "start": 435.759,
+    "duration": 4.321
+  },
+  {
+    "text": "javascript commands success this worked",
+    "start": 437.28,
+    "duration": 5.039
+  },
+  {
+    "text": "and i've got node up and running so now",
+    "start": 440.08,
+    "duration": 4.559
+  },
+  {
+    "text": "not only can we code using vs code we",
+    "start": 442.319,
+    "duration": 4.32
+  },
+  {
+    "text": "can also run up an application on",
+    "start": 444.639,
+    "duration": 3.68
+  },
+  {
+    "text": "node.js and i'm thinking maybe we'll",
+    "start": 446.639,
+    "duration": 3.921
+  },
+  {
+    "text": "start off with a create react app just",
+    "start": 448.319,
+    "duration": 4.241
+  },
+  {
+    "text": "to get us started since i've got node up",
+    "start": 450.56,
+    "duration": 4.32
+  },
+  {
+    "text": "and running i can run npx command so i",
+    "start": 452.56,
+    "duration": 5.44
+  },
+  {
+    "text": "typed in npx create react app and my app",
+    "start": 454.88,
+    "duration": 4.4
+  },
+  {
+    "text": "here i want to find out if i can",
+    "start": 458.0,
+    "duration": 3.039
+  },
+  {
+    "text": "actually host a web server with create",
+    "start": 459.28,
+    "duration": 4.24
+  },
+  {
+    "text": "react app as well as run it up in vs",
+    "start": 461.039,
+    "duration": 4.321
+  },
+  {
+    "text": "code and start making some changes",
+    "start": 463.52,
+    "duration": 3.92
+  },
+  {
+    "text": "success looks like create react app",
+    "start": 465.36,
+    "duration": 3.76
+  },
+  {
+    "text": "installed along with all its node",
+    "start": 467.44,
+    "duration": 3.599
+  },
+  {
+    "text": "modules this means i can open it up in",
+    "start": 469.12,
+    "duration": 4.16
+  },
+  {
+    "text": "vs code which i've done and it's ready",
+    "start": 471.039,
+    "duration": 4.401
+  },
+  {
+    "text": "for me to start hosting as a web server",
+    "start": 473.28,
+    "duration": 4.0
+  },
+  {
+    "text": "as well so let's give this a shot i'm",
+    "start": 475.44,
+    "duration": 3.28
+  },
+  {
+    "text": "going to close down the terminal and",
+    "start": 477.28,
+    "duration": 3.68
+  },
+  {
+    "text": "expand out my instance of vs code",
+    "start": 478.72,
+    "duration": 3.759
+  },
+  {
+    "text": "because i usually prefer to run with the",
+    "start": 480.96,
+    "duration": 3.6
+  },
+  {
+    "text": "terminal inside vs code then i'll run",
+    "start": 482.479,
+    "duration": 4.0
+  },
+  {
+    "text": "npm start and we'll kick off this",
+    "start": 484.56,
+    "duration": 3.6
+  },
+  {
+    "text": "application one thing i immediately",
+    "start": 486.479,
+    "duration": 3.521
+  },
+  {
+    "text": "notice though is that these terminal",
+    "start": 488.16,
+    "duration": 3.759
+  },
+  {
+    "text": "fonts are terrible i think my coding",
+    "start": 490.0,
+    "duration": 3.199
+  },
+  {
+    "text": "fonts didn't carry across to the",
+    "start": 491.919,
+    "duration": 2.481
+  },
+  {
+    "text": "chromebook and i'll have to do that",
+    "start": 493.199,
+    "duration": 3.041
+  },
+  {
+    "text": "later but the application is up and",
+    "start": 494.4,
+    "duration": 3.919
+  },
+  {
+    "text": "running now so i can officially say that",
+    "start": 496.24,
+    "duration": 3.92
+  },
+  {
+    "text": "you can build react applications using",
+    "start": 498.319,
+    "duration": 3.6
+  },
+  {
+    "text": "the chromebook which i'm quite pleased",
+    "start": 500.16,
+    "duration": 3.84
+  },
+  {
+    "text": "to see it seems to work just like normal",
+    "start": 501.919,
+    "duration": 3.921
+  },
+  {
+    "text": "with the port 3000 being used for the",
+    "start": 504.0,
+    "duration": 3.84
+  },
+  {
+    "text": "web server as well as real time changes",
+    "start": 505.84,
+    "duration": 4.0
+  },
+  {
+    "text": "whenever i make them in vs code i think",
+    "start": 507.84,
+    "duration": 3.759
+  },
+  {
+    "text": "it's time for a real project now i",
+    "start": 509.84,
+    "duration": 4.079
+  },
+  {
+    "text": "previously created an rpg game with",
+    "start": 511.599,
+    "duration": 4.081
+  },
+  {
+    "text": "astradb so i'm going to clone this",
+    "start": 513.919,
+    "duration": 4.24
+  },
+  {
+    "text": "project i jumped into github to copy the",
+    "start": 515.68,
+    "duration": 4.719
+  },
+  {
+    "text": "syntax for its url and went to git clone",
+    "start": 518.159,
+    "duration": 4.0
+  },
+  {
+    "text": "it but i just realized something i don't",
+    "start": 520.399,
+    "duration": 3.52
+  },
+  {
+    "text": "actually have git installed so i better",
+    "start": 522.159,
+    "duration": 3.281
+  },
+  {
+    "text": "install that first since i'm running",
+    "start": 523.919,
+    "duration": 3.521
+  },
+  {
+    "text": "this linux distro any linux command",
+    "start": 525.44,
+    "duration": 4.32
+  },
+  {
+    "text": "should work so i'm gonna run a sudo app",
+    "start": 527.44,
+    "duration": 5.2
+  },
+  {
+    "text": "get space install space kit okay that",
+    "start": 529.76,
+    "duration": 4.56
+  },
+  {
+    "text": "ran successfully and now it's actually",
+    "start": 532.64,
+    "duration": 3.92
+  },
+  {
+    "text": "time to clone our project so i'm gonna",
+    "start": 534.32,
+    "duration": 4.8
+  },
+  {
+    "text": "do a git clone space and i'm gonna paste",
+    "start": 536.56,
+    "duration": 4.88
+  },
+  {
+    "text": "in the url of my project here in github",
+    "start": 539.12,
+    "duration": 4.0
+  },
+  {
+    "text": "but just as i was doing this i realized",
+    "start": 541.44,
+    "duration": 3.44
+  },
+  {
+    "text": "i didn't actually set up a private key",
+    "start": 543.12,
+    "duration": 3.44
+  },
+  {
+    "text": "to actually talk to github on this",
+    "start": 544.88,
+    "duration": 3.04
+  },
+  {
+    "text": "device this will take a little bit of",
+    "start": 546.56,
+    "duration": 2.64
+  },
+  {
+    "text": "work so what i'm thinking is just",
+    "start": 547.92,
+    "duration": 3.039
+  },
+  {
+    "text": "downloading the files manually npm",
+    "start": 549.2,
+    "duration": 3.6
+  },
+  {
+    "text": "installing them and giving them a run to",
+    "start": 550.959,
+    "duration": 3.041
+  },
+  {
+    "text": "see how they go once they were",
+    "start": 552.8,
+    "duration": 2.8
+  },
+  {
+    "text": "downloaded i was happy to see that i",
+    "start": 554.0,
+    "duration": 3.04
+  },
+  {
+    "text": "didn't have to download any unzipping",
+    "start": 555.6,
+    "duration": 3.2
+  },
+  {
+    "text": "software and i could simply drag and",
+    "start": 557.04,
+    "duration": 3.359
+  },
+  {
+    "text": "drop them straight into my computer i",
+    "start": 558.8,
+    "duration": 3.36
+  },
+  {
+    "text": "can open them up now in the terminal and",
+    "start": 560.399,
+    "duration": 3.361
+  },
+  {
+    "text": "browse into them and hopefully npm",
+    "start": 562.16,
+    "duration": 3.04
+  },
+  {
+    "text": "install all the packages i need to get",
+    "start": 563.76,
+    "duration": 2.88
+  },
+  {
+    "text": "them up and running since i want to see",
+    "start": 565.2,
+    "duration": 2.96
+  },
+  {
+    "text": "the performance of this machine i can",
+    "start": 566.64,
+    "duration": 2.8
+  },
+  {
+    "text": "definitely tell you that it takes a",
+    "start": 568.16,
+    "duration": 3.2
+  },
+  {
+    "text": "little bit longer to load up projects on",
+    "start": 569.44,
+    "duration": 3.839
+  },
+  {
+    "text": "this device while the drawback is that",
+    "start": 571.36,
+    "duration": 3.44
+  },
+  {
+    "text": "it's a little bit slower the benefits",
+    "start": 573.279,
+    "duration": 3.12
+  },
+  {
+    "text": "are that if you're someone new to web",
+    "start": 574.8,
+    "duration": 2.64
+  },
+  {
+    "text": "development you're not going to be",
+    "start": 576.399,
+    "duration": 2.801
+  },
+  {
+    "text": "running up large projects and most of",
+    "start": 577.44,
+    "duration": 3.44
+  },
+  {
+    "text": "them should be able to be installed and",
+    "start": 579.2,
+    "duration": 3.52
+  },
+  {
+    "text": "built quite simply well that is unless",
+    "start": 580.88,
+    "duration": 3.76
+  },
+  {
+    "text": "you install the wrong version of node.js",
+    "start": 582.72,
+    "duration": 2.96
+  },
+  {
+    "text": "and your project doesn't build",
+    "start": 584.64,
+    "duration": 2.879
+  },
+  {
+    "text": "successfully in my case i was running a",
+    "start": 585.68,
+    "duration": 3.599
+  },
+  {
+    "text": "very old version of a lot of the files",
+    "start": 587.519,
+    "duration": 3.44
+  },
+  {
+    "text": "which were probably compatible with node",
+    "start": 589.279,
+    "duration": 3.281
+  },
+  {
+    "text": "version 8 and i don't really want to",
+    "start": 590.959,
+    "duration": 2.641
+  },
+  {
+    "text": "update so i'm going to run up a",
+    "start": 592.56,
+    "duration": 2.64
+  },
+  {
+    "text": "different project to test it out and",
+    "start": 593.6,
+    "duration": 3.359
+  },
+  {
+    "text": "what i found was that it actually took",
+    "start": 595.2,
+    "duration": 3.759
+  },
+  {
+    "text": "about the same time on my computer as it",
+    "start": 596.959,
+    "duration": 4.0
+  },
+  {
+    "text": "did on this device be aware i don't have",
+    "start": 598.959,
+    "duration": 4.401
+  },
+  {
+    "text": "as many node modules or plugins as other",
+    "start": 600.959,
+    "duration": 4.161
+  },
+  {
+    "text": "repos might have but at least for a",
+    "start": 603.36,
+    "duration": 3.599
+  },
+  {
+    "text": "beginner project this is quite useful",
+    "start": 605.12,
+    "duration": 3.6
+  },
+  {
+    "text": "then i also tried building the project",
+    "start": 606.959,
+    "duration": 3.361
+  },
+  {
+    "text": "and even though it's a small project it",
+    "start": 608.72,
+    "duration": 3.2
+  },
+  {
+    "text": "still took about the same amount of time",
+    "start": 610.32,
+    "duration": 3.519
+  },
+  {
+    "text": "as my computer so quite impressive to be",
+    "start": 611.92,
+    "duration": 3.52
+  },
+  {
+    "text": "honest i'm pretty impressed so far with",
+    "start": 613.839,
+    "duration": 3.761
+  },
+  {
+    "text": "the chromebook today is the fourth day",
+    "start": 615.44,
+    "duration": 3.92
+  },
+  {
+    "text": "and i want to try to use this device",
+    "start": 617.6,
+    "duration": 3.76
+  },
+  {
+    "text": "outside one of the things i noticed",
+    "start": 619.36,
+    "duration": 3.84
+  },
+  {
+    "text": "though was that the screen isn't that",
+    "start": 621.36,
+    "duration": 3.44
+  },
+  {
+    "text": "great in terms of brightness it's",
+    "start": 623.2,
+    "duration": 3.36
+  },
+  {
+    "text": "actually kind of difficult to see vs",
+    "start": 624.8,
+    "duration": 3.76
+  },
+  {
+    "text": "code on the device and i find that this",
+    "start": 626.56,
+    "duration": 4.0
+  },
+  {
+    "text": "sunlight actually reflects quite a lot",
+    "start": 628.56,
+    "duration": 4.0
+  },
+  {
+    "text": "so i tried to go under a tree to see if",
+    "start": 630.56,
+    "duration": 3.68
+  },
+  {
+    "text": "i can get some shade and hopefully view",
+    "start": 632.56,
+    "duration": 3.12
+  },
+  {
+    "text": "the screen a little bit better the",
+    "start": 634.24,
+    "duration": 3.52
+  },
+  {
+    "text": "battery however has been quite good so",
+    "start": 635.68,
+    "duration": 3.839
+  },
+  {
+    "text": "far i've never had to really worry about",
+    "start": 637.76,
+    "duration": 3.6
+  },
+  {
+    "text": "the battery charge and i've had quite a",
+    "start": 639.519,
+    "duration": 3.76
+  },
+  {
+    "text": "few hours of usage every time i've gone",
+    "start": 641.36,
+    "duration": 3.76
+  },
+  {
+    "text": "out to use it activities i've done so",
+    "start": 643.279,
+    "duration": 3.921
+  },
+  {
+    "text": "far included things like checking emails",
+    "start": 645.12,
+    "duration": 4.48
+  },
+  {
+    "text": "using chrome browsing youtube as well as",
+    "start": 647.2,
+    "duration": 4.24
+  },
+  {
+    "text": "doing some of the scripts for this video",
+    "start": 649.6,
+    "duration": 3.52
+  },
+  {
+    "text": "one problem i did find with the device",
+    "start": 651.44,
+    "duration": 3.2
+  },
+  {
+    "text": "is that it didn't really fit on my lap",
+    "start": 653.12,
+    "duration": 2.959
+  },
+  {
+    "text": "very well sometimes i tried to",
+    "start": 654.64,
+    "duration": 3.36
+  },
+  {
+    "text": "reposition to see if i can fit it better",
+    "start": 656.079,
+    "duration": 4.0
+  },
+  {
+    "text": "but it just didn't work quite well while",
+    "start": 658.0,
+    "duration": 4.0
+  },
+  {
+    "text": "it's a tablet device and i can use my",
+    "start": 660.079,
+    "duration": 3.76
+  },
+  {
+    "text": "fingers for it i think i much prefer",
+    "start": 662.0,
+    "duration": 3.44
+  },
+  {
+    "text": "using this just on a simple desk",
+    "start": 663.839,
+    "duration": 3.281
+  },
+  {
+    "text": "generally speaking i probably wouldn't",
+    "start": 665.44,
+    "duration": 3.6
+  },
+  {
+    "text": "be coding with this device outside but",
+    "start": 667.12,
+    "duration": 3.68
+  },
+  {
+    "text": "if i'm going to be programming inside of",
+    "start": 669.04,
+    "duration": 3.28
+  },
+  {
+    "text": "a car this is something that i can",
+    "start": 670.8,
+    "duration": 3.68
+  },
+  {
+    "text": "probably do but if you need to make some",
+    "start": 672.32,
+    "duration": 3.84
+  },
+  {
+    "text": "last minute changes before you meet a",
+    "start": 674.48,
+    "duration": 3.44
+  },
+  {
+    "text": "client or you've accidentally pushed",
+    "start": 676.16,
+    "duration": 3.6
+  },
+  {
+    "text": "some faulty code to github that's",
+    "start": 677.92,
+    "duration": 3.44
+  },
+  {
+    "text": "crushed the entire system and deleted",
+    "start": 679.76,
+    "duration": 3.04
+  },
+  {
+    "text": "all the backups then this might be a",
+    "start": 681.36,
+    "duration": 3.44
+  },
+  {
+    "text": "useful way to make those changes quickly",
+    "start": 682.8,
+    "duration": 3.92
+  },
+  {
+    "text": "and of course i've never done anything",
+    "start": 684.8,
+    "duration": 3.52
+  },
+  {
+    "text": "like that and i'm gonna say that i'm not",
+    "start": 686.72,
+    "duration": 3.2
+  },
+  {
+    "text": "gonna recommend coding in the car so",
+    "start": 688.32,
+    "duration": 3.44
+  },
+  {
+    "text": "let's move on i've been using this",
+    "start": 689.92,
+    "duration": 3.44
+  },
+  {
+    "text": "chromebook for just about everything",
+    "start": 691.76,
+    "duration": 3.199
+  },
+  {
+    "text": "this includes a lot of meetings",
+    "start": 693.36,
+    "duration": 3.68
+  },
+  {
+    "text": "especially over zoom using the camera",
+    "start": 694.959,
+    "duration": 4.081
+  },
+  {
+    "text": "which unfortunately isn't that great but",
+    "start": 697.04,
+    "duration": 4.16
+  },
+  {
+    "text": "at least it gets the job done i also",
+    "start": 699.04,
+    "duration": 4.239
+  },
+  {
+    "text": "found it quite useful to take with me to",
+    "start": 701.2,
+    "duration": 4.48
+  },
+  {
+    "text": "client sites because showcasing demos of",
+    "start": 703.279,
+    "duration": 4.0
+  },
+  {
+    "text": "projects i'm working on is much more",
+    "start": 705.68,
+    "duration": 3.92
+  },
+  {
+    "text": "effective than trying to explain them",
+    "start": 707.279,
+    "duration": 4.961
+  },
+  {
+    "text": "so this chromebook really impressed me i",
+    "start": 709.6,
+    "duration": 5.039
+  },
+  {
+    "text": "came in with really low expectations but",
+    "start": 712.24,
+    "duration": 4.399
+  },
+  {
+    "text": "everything from the keyboard to the fact",
+    "start": 714.639,
+    "duration": 4.0
+  },
+  {
+    "text": "that i can get vs code up and running on",
+    "start": 716.639,
+    "duration": 4.081
+  },
+  {
+    "text": "here and use it to learn programming",
+    "start": 718.639,
+    "duration": 4.721
+  },
+  {
+    "text": "really was surprising for a device of",
+    "start": 720.72,
+    "duration": 4.48
+  },
+  {
+    "text": "this cost for just about three or four",
+    "start": 723.36,
+    "duration": 3.76
+  },
+  {
+    "text": "hundred dollars i can do everything from",
+    "start": 725.2,
+    "duration": 3.759
+  },
+  {
+    "text": "jump on free code camp and learn how to",
+    "start": 727.12,
+    "duration": 4.399
+  },
+  {
+    "text": "code two even build react applications",
+    "start": 728.959,
+    "duration": 4.56
+  },
+  {
+    "text": "or angular or schveldt and build up a",
+    "start": 731.519,
+    "duration": 4.0
+  },
+  {
+    "text": "web server and have access to all the",
+    "start": 733.519,
+    "duration": 3.521
+  },
+  {
+    "text": "kind of stuff we normally do in a",
+    "start": 735.519,
+    "duration": 3.681
+  },
+  {
+    "text": "liganox terminal i think if this is the",
+    "start": 737.04,
+    "duration": 3.84
+  },
+  {
+    "text": "device you're looking for and this is",
+    "start": 739.2,
+    "duration": 3.759
+  },
+  {
+    "text": "the area you're in it's just enough to",
+    "start": 740.88,
+    "duration": 4.16
+  },
+  {
+    "text": "get up and running but if for example",
+    "start": 742.959,
+    "duration": 3.601
+  },
+  {
+    "text": "you're looking at building mobile",
+    "start": 745.04,
+    "duration": 4.0
+  },
+  {
+    "text": "applications on react native or flutter",
+    "start": 746.56,
+    "duration": 4.64
+  },
+  {
+    "text": "this might not be able to serve those",
+    "start": 749.04,
+    "duration": 3.52
+  },
+  {
+    "text": "needs because it would need a little bit",
+    "start": 751.2,
+    "duration": 2.8
+  },
+  {
+    "text": "more power and that's where you might",
+    "start": 752.56,
+    "duration": 3.2
+  },
+  {
+    "text": "need to jump into windows or mac",
+    "start": 754.0,
+    "duration": 3.839
+  },
+  {
+    "text": "territory but hopefully this gave you a",
+    "start": 755.76,
+    "duration": 3.84
+  },
+  {
+    "text": "really good idea of what i use this",
+    "start": 757.839,
+    "duration": 4.081
+  },
+  {
+    "text": "device for how i used it and what the",
+    "start": 759.6,
+    "duration": 4.239
+  },
+  {
+    "text": "experience is like with it i hope you",
+    "start": 761.92,
+    "duration": 3.52
+  },
+  {
+    "text": "guys enjoyed this video if you have",
+    "start": 763.839,
+    "duration": 3.841
+  },
+  {
+    "text": "feedback and ideas on how i can improve",
+    "start": 765.44,
+    "duration": 4.079
+  },
+  {
+    "text": "the next one like this then let me know",
+    "start": 767.68,
+    "duration": 3.76
+  },
+  {
+    "text": "in the comments below otherwise i hope",
+    "start": 769.519,
+    "duration": 3.841
+  },
+  {
+    "text": "you guys hit like and subscribe and i'll",
+    "start": 771.44,
+    "duration": 6.0
+  },
+  {
+    "text": "see you in the next one thank you",
+    "start": 773.36,
+    "duration": 4.08
+  }
+]

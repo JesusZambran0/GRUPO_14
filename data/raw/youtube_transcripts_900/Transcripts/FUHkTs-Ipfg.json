@@ -1,0 +1,1947 @@
+[
+  {
+    "text": "- In 1982, there was one SAT question",
+    "start": 0.48,
+    "duration": 2.819
+  },
+  {
+    "text": "that every single student got wrong.",
+    "start": 3.299,
+    "duration": 2.494
+  },
+  {
+    "text": "Here it is.",
+    "start": 6.9,
+    "duration": 1.44
+  },
+  {
+    "text": "In the figure above,",
+    "start": 8.34,
+    "duration": 1.02
+  },
+  {
+    "text": "the radius of circle A is\n1/3 the radius of circle B.",
+    "start": 9.36,
+    "duration": 4.53
+  },
+  {
+    "text": "Starting from the position\nshown in the figure,",
+    "start": 13.89,
+    "duration": 2.07
+  },
+  {
+    "text": "circle A rolls around circle B.",
+    "start": 15.96,
+    "duration": 3.27
+  },
+  {
+    "text": "At the end of how many\nrevolutions of circle A",
+    "start": 19.23,
+    "duration": 3.09
+  },
+  {
+    "text": "will the center",
+    "start": 22.32,
+    "duration": 0.87
+  },
+  {
+    "text": "of the circle first\nreach its starting point.",
+    "start": 23.19,
+    "duration": 2.643
+  },
+  {
+    "text": "Is it A, 3/2, B, three, C, six,",
+    "start": 27.09,
+    "duration": 6.21
+  },
+  {
+    "text": "D, 9/2, or E, nine?",
+    "start": 33.3,
+    "duration": 3.993
+  },
+  {
+    "text": "SAT Questions are designed to be quick.",
+    "start": 38.19,
+    "duration": 2.34
+  },
+  {
+    "text": "This exam gave students 30\nminutes to solve 25 problems,",
+    "start": 40.53,
+    "duration": 3.39
+  },
+  {
+    "text": "so about a minute each.",
+    "start": 43.92,
+    "duration": 1.98
+  },
+  {
+    "text": "So feel free to pause the\nvideo here and try to solve it.",
+    "start": 45.9,
+    "duration": 2.943
+  },
+  {
+    "text": "What is your answer?",
+    "start": 50.79,
+    "duration": 1.803
+  },
+  {
+    "text": "I'll tell you right now that option B,",
+    "start": 53.67,
+    "duration": 1.92
+  },
+  {
+    "text": "or three, is not correct.",
+    "start": 55.59,
+    "duration": 2.193
+  },
+  {
+    "text": "When I first saw this problem,\nmy intuitive answer was B,",
+    "start": 58.74,
+    "duration": 3.27
+  },
+  {
+    "text": "because the circumference of\na circle is just two pi r,",
+    "start": 62.01,
+    "duration": 3.81
+  },
+  {
+    "text": "and since the radius of\ncircle B is three times",
+    "start": 65.82,
+    "duration": 4.26
+  },
+  {
+    "text": "the radius of circle A,",
+    "start": 70.08,
+    "duration": 1.47
+  },
+  {
+    "text": "the circumference of circle\nB must also be three times",
+    "start": 71.55,
+    "duration": 3.03
+  },
+  {
+    "text": "the circumference of circle A.",
+    "start": 74.58,
+    "duration": 1.95
+  },
+  {
+    "text": "So logically, it should\ntake three full rotations",
+    "start": 76.53,
+    "duration": 3.45
+  },
+  {
+    "text": "of circle A to roll around circle B.",
+    "start": 79.98,
+    "duration": 2.94
+  },
+  {
+    "text": "So my answer was three.",
+    "start": 82.92,
+    "duration": 1.923
+  },
+  {
+    "text": "This is wrong, but so are\nanswers A, C, D, and E.",
+    "start": 86.07,
+    "duration": 6.853
+  },
+  {
+    "text": "The reason no one got question 17 correct",
+    "start": 94.59,
+    "duration": 2.61
+  },
+  {
+    "text": "is that the test writers\nthemselves got it wrong.",
+    "start": 97.2,
+    "duration": 3.33
+  },
+  {
+    "text": "They also thought the answer was three.",
+    "start": 100.53,
+    "duration": 2.46
+  },
+  {
+    "text": "So the actual correct\nanswer was not listed",
+    "start": 102.99,
+    "duration": 3.42
+  },
+  {
+    "text": "as an option on the test.",
+    "start": 106.41,
+    "duration": 1.803
+  },
+  {
+    "text": "Mistakes like this aren't\nsupposed to happen on the SAT.",
+    "start": 110.43,
+    "duration": 3.06
+  },
+  {
+    "text": "For decades, it was the one\nexam every student had to take",
+    "start": 113.49,
+    "duration": 3.3
+  },
+  {
+    "text": "to go to college in the US.",
+    "start": 116.79,
+    "duration": 1.71
+  },
+  {
+    "text": "It had a reputation",
+    "start": 118.5,
+    "duration": 0.96
+  },
+  {
+    "text": "for determining people's entire futures.",
+    "start": 119.46,
+    "duration": 2.82
+  },
+  {
+    "text": "As a newspaper from the time stated,",
+    "start": 122.28,
+    "duration": 1.897
+  },
+  {
+    "text": "\"If you mess up on your SAT\ntests, you can forget it.",
+    "start": 124.177,
+    "duration": 2.933
+  },
+  {
+    "text": "Your life as a productive citizen is over.",
+    "start": 127.11,
+    "duration": 2.91
+  },
+  {
+    "text": "Hang it up, son.\"",
+    "start": 130.02,
+    "duration": 1.107
+  },
+  {
+    "text": "Of 300,000 test takers,",
+    "start": 133.68,
+    "duration": 2.4
+  },
+  {
+    "text": "just three students wrote about the error",
+    "start": 136.08,
+    "duration": 2.28
+  },
+  {
+    "text": "to the College Board, the\ncompany that administers the SAT,",
+    "start": 138.36,
+    "duration": 3.197
+  },
+  {
+    "text": "Shivan Kartha, Bruce\nTaub, and Doug Jungreis.",
+    "start": 141.557,
+    "duration": 3.916
+  },
+  {
+    "text": "- I did a lot of math\nproblems when I was young",
+    "start": 147.78,
+    "duration": 2.43
+  },
+  {
+    "text": "for the competitions.",
+    "start": 150.21,
+    "duration": 1.23
+  },
+  {
+    "text": "I probably did thousands of\nmath problems and I read it",
+    "start": 151.44,
+    "duration": 3.03
+  },
+  {
+    "text": "and I was amazed how badly it's worded.",
+    "start": 154.47,
+    "duration": 2.52
+  },
+  {
+    "text": "I just put three down. I\nfigured that's what they wanted.",
+    "start": 156.99,
+    "duration": 2.73
+  },
+  {
+    "text": "- The three\nstudents were confident none",
+    "start": 159.72,
+    "duration": 1.83
+  },
+  {
+    "text": "of the listed answers were correct,",
+    "start": 161.55,
+    "duration": 1.65
+  },
+  {
+    "text": "and their letters showed it.",
+    "start": 163.2,
+    "duration": 1.56
+  },
+  {
+    "text": "As a director at the\ntesting service recalled,",
+    "start": 164.76,
+    "duration": 2.4
+  },
+  {
+    "text": "they didn't say they had come up",
+    "start": 167.16,
+    "duration": 1.11
+  },
+  {
+    "text": "with possible alternative answers",
+    "start": 168.27,
+    "duration": 1.77
+  },
+  {
+    "text": "or that maybe we were wrong.",
+    "start": 170.04,
+    "duration": 1.68
+  },
+  {
+    "text": "They said flat out, \"You're\nwrong,\" and they proved it.",
+    "start": 171.72,
+    "duration": 3.033
+  },
+  {
+    "text": "- I discussed it with some\nother people and said,",
+    "start": 175.86,
+    "duration": 3.03
+  },
+  {
+    "text": "I think there was a mistake,\nand they mostly said,",
+    "start": 178.89,
+    "duration": 2.617
+  },
+  {
+    "text": "\"No one cares.\"",
+    "start": 181.507,
+    "duration": 1.113
+  },
+  {
+    "text": "I wrote a letter to the\nEducational Testing Service.",
+    "start": 183.66,
+    "duration": 3.81
+  },
+  {
+    "text": "It was a little while later they called us",
+    "start": 187.47,
+    "duration": 1.89
+  },
+  {
+    "text": "and said I was correct.",
+    "start": 189.36,
+    "duration": 1.923
+  },
+  {
+    "text": "- Here is their argument.",
+    "start": 192.72,
+    "duration": 1.503
+  },
+  {
+    "text": "The simplest version of this problem",
+    "start": 195.6,
+    "duration": 1.98
+  },
+  {
+    "text": "is with two identical coins.",
+    "start": 197.58,
+    "duration": 2.4
+  },
+  {
+    "text": "These have the exact same circumference.",
+    "start": 199.98,
+    "duration": 2.4
+  },
+  {
+    "text": "So by our initial logic,",
+    "start": 202.38,
+    "duration": 1.8
+  },
+  {
+    "text": "this coin should rotate exactly once",
+    "start": 204.18,
+    "duration": 2.25
+  },
+  {
+    "text": "as it rolls around the other.",
+    "start": 206.43,
+    "duration": 1.89
+  },
+  {
+    "text": "So let's try it.",
+    "start": 208.32,
+    "duration": 1.413
+  },
+  {
+    "text": "Okay.",
+    "start": 210.93,
+    "duration": 0.833
+  },
+  {
+    "text": "But wait, we can see it's\nalready right side up",
+    "start": 213.3,
+    "duration": 3.24
+  },
+  {
+    "text": "at the halfway point.",
+    "start": 216.54,
+    "duration": 1.41
+  },
+  {
+    "text": "So if we finish rolling\nit around the other coin,",
+    "start": 217.95,
+    "duration": 3.84
+  },
+  {
+    "text": "it'll have rotated not once, but twice.",
+    "start": 221.79,
+    "duration": 3.48
+  },
+  {
+    "text": "Even though the coins\nare the exact same size",
+    "start": 225.27,
+    "duration": 3.39
+  },
+  {
+    "text": "There are no tricks here,",
+    "start": 228.66,
+    "duration": 1.95
+  },
+  {
+    "text": "you can try it for yourself,",
+    "start": 230.61,
+    "duration": 1.38
+  },
+  {
+    "text": "and I'll do it again slowly.",
+    "start": 231.99,
+    "duration": 1.923
+  },
+  {
+    "text": "That's one,",
+    "start": 236.61,
+    "duration": 1.113
+  },
+  {
+    "text": "two.",
+    "start": 243.27,
+    "duration": 0.833
+  },
+  {
+    "text": "This is known as the\ncoin rotation paradox.",
+    "start": 245.13,
+    "duration": 3.6
+  },
+  {
+    "text": "This paradox also applies to question 17.",
+    "start": 248.73,
+    "duration": 3.63
+  },
+  {
+    "text": "I've made a to scale model of the problem.",
+    "start": 252.36,
+    "duration": 4.02
+  },
+  {
+    "text": "One useful tip for standardized tests,",
+    "start": 256.38,
+    "duration": 2.4
+  },
+  {
+    "text": "even though they say their\nimages are not to scale,",
+    "start": 258.78,
+    "duration": 2.34
+  },
+  {
+    "text": "they almost always are.",
+    "start": 261.12,
+    "duration": 2.043
+  },
+  {
+    "text": "So when we roll circle A around circle B,",
+    "start": 264.42,
+    "duration": 4.17
+  },
+  {
+    "text": "we can see that it rotates once, twice,",
+    "start": 268.59,
+    "duration": 3.587
+  },
+  {
+    "text": "three times, and four times in total.",
+    "start": 277.53,
+    "duration": 6.506
+  },
+  {
+    "text": "So the correct answer to this\nquestion is actually four.",
+    "start": 284.721,
+    "duration": 3.009
+  },
+  {
+    "text": "Once again, the circle\nrotates one more time",
+    "start": 287.73,
+    "duration": 2.58
+  },
+  {
+    "text": "than we expected.",
+    "start": 290.31,
+    "duration": 1.59
+  },
+  {
+    "text": "To understand this,",
+    "start": 291.9,
+    "duration": 1.11
+  },
+  {
+    "text": "let's wrap this larger\ncircle in some ribbon",
+    "start": 293.01,
+    "duration": 3.1
+  },
+  {
+    "text": "And I'll make it the same\nlength as the circumference,",
+    "start": 300.93,
+    "duration": 3.78
+  },
+  {
+    "text": "and then I will stick it down to the table",
+    "start": 304.71,
+    "duration": 2.61
+  },
+  {
+    "text": "as a straight line.",
+    "start": 307.32,
+    "duration": 1.89
+  },
+  {
+    "text": "I'm adding some paper here",
+    "start": 309.21,
+    "duration": 2.05
+  },
+  {
+    "text": "so there's something for this to roll on.",
+    "start": 312.39,
+    "duration": 2.05
+  },
+  {
+    "text": "And now it rolls one, two, three times.",
+    "start": 316.86,
+    "duration": 5.0
+  },
+  {
+    "text": "What's happening when we\nturn this straight path",
+    "start": 323.1,
+    "duration": 2.25
+  },
+  {
+    "text": "into a circular one is that\ncircle A is now rolling",
+    "start": 325.35,
+    "duration": 2.7
+  },
+  {
+    "text": "the length of the circumference",
+    "start": 328.05,
+    "duration": 1.65
+  },
+  {
+    "text": "and it's going around a circle.",
+    "start": 329.7,
+    "duration": 2.94
+  },
+  {
+    "text": "The shape of the circular path itself",
+    "start": 332.64,
+    "duration": 1.92
+  },
+  {
+    "text": "makes circle A do an additional rotation",
+    "start": 334.56,
+    "duration": 2.52
+  },
+  {
+    "text": "to return to its starting point.",
+    "start": 337.08,
+    "duration": 2.1
+  },
+  {
+    "text": "So this is the general\nsolution to the problem.",
+    "start": 339.18,
+    "duration": 2.82
+  },
+  {
+    "text": "Find the ratio between the\ncircumferences of circle B",
+    "start": 342.0,
+    "duration": 3.15
+  },
+  {
+    "text": "and circle A and then add one rotation",
+    "start": 345.15,
+    "duration": 2.64
+  },
+  {
+    "text": "to account for the circular path traveled.",
+    "start": 347.79,
+    "duration": 2.793
+  },
+  {
+    "text": "But there is a way to correctly get three.",
+    "start": 352.17,
+    "duration": 2.97
+  },
+  {
+    "text": "Let's count the rotations of circle A",
+    "start": 355.14,
+    "duration": 1.89
+  },
+  {
+    "text": "from the perspective of\ncircle B looking out at A.",
+    "start": 357.03,
+    "duration": 3.48
+  },
+  {
+    "text": "We can see circle A rotates one, two,",
+    "start": 360.51,
+    "duration": 3.03
+  },
+  {
+    "text": "three times.",
+    "start": 371.31,
+    "duration": 1.473
+  },
+  {
+    "text": "And it doesn't matter which\ncircle you are looking from,",
+    "start": 374.55,
+    "duration": 2.4
+  },
+  {
+    "text": "to circle A, it also rotates three times",
+    "start": 376.95,
+    "duration": 2.7
+  },
+  {
+    "text": "to come back to its starting\nposition around circle B.",
+    "start": 379.65,
+    "duration": 2.7
+  },
+  {
+    "text": "Similarly, from the\nperspective of the coins,",
+    "start": 384.03,
+    "duration": 2.28
+  },
+  {
+    "text": "we can see that the outer\ncoin only rotates once",
+    "start": 386.31,
+    "duration": 2.82
+  },
+  {
+    "text": "as it rolls around the inner coin.",
+    "start": 389.13,
+    "duration": 1.863
+  },
+  {
+    "text": "Using the perspective of a circle",
+    "start": 393.15,
+    "duration": 1.74
+  },
+  {
+    "text": "is just like turning the\ncircle's circumference",
+    "start": 394.89,
+    "duration": 1.95
+  },
+  {
+    "text": "into a straight line.",
+    "start": 396.84,
+    "duration": 1.113
+  },
+  {
+    "text": "It's only as external observers",
+    "start": 399.45,
+    "duration": 2.04
+  },
+  {
+    "text": "that we actually see\nthe outer circle travel",
+    "start": 401.49,
+    "duration": 2.19
+  },
+  {
+    "text": "a circular path back\nto its starting point,",
+    "start": 403.68,
+    "duration": 2.25
+  },
+  {
+    "text": "giving us the one extra rotation.",
+    "start": 405.93,
+    "duration": 2.133
+  },
+  {
+    "text": "But there's even another answer.",
+    "start": 410.28,
+    "duration": 2.253
+  },
+  {
+    "text": "If you look closely at question 17,",
+    "start": 416.46,
+    "duration": 2.28
+  },
+  {
+    "text": "it asks how many\nrevolutions circle A makes",
+    "start": 418.74,
+    "duration": 3.15
+  },
+  {
+    "text": "as it rolls around circle B\nback to its starting point.",
+    "start": 421.89,
+    "duration": 3.12
+  },
+  {
+    "text": "Now, in astronomy,",
+    "start": 425.01,
+    "duration": 1.02
+  },
+  {
+    "text": "the definition of a revolution is precise.",
+    "start": 426.03,
+    "duration": 2.19
+  },
+  {
+    "text": "It's a complete orbit around another body.",
+    "start": 428.22,
+    "duration": 2.673
+  },
+  {
+    "text": "The earth revolves around the sun,",
+    "start": 432.12,
+    "duration": 1.56
+  },
+  {
+    "text": "which is different from it\nrotating about its axis.",
+    "start": 433.68,
+    "duration": 3.03
+  },
+  {
+    "text": "So by the astronomical\ndefinition of a revolution,",
+    "start": 436.71,
+    "duration": 2.67
+  },
+  {
+    "text": "circle A only revolves\naround circle B once.",
+    "start": 439.38,
+    "duration": 3.78
+  },
+  {
+    "text": "It goes around one time.",
+    "start": 443.16,
+    "duration": 1.683
+  },
+  {
+    "text": "Now, other definitions of a\nrevolution do include the motion",
+    "start": 446.76,
+    "duration": 3.0
+  },
+  {
+    "text": "of an object rotating about its own axis.",
+    "start": 449.76,
+    "duration": 1.95
+  },
+  {
+    "text": "So one isn't a definitive answer,",
+    "start": 451.71,
+    "duration": 2.19
+  },
+  {
+    "text": "but the wording of this\nquestion is extremely ambiguous",
+    "start": 453.9,
+    "duration": 3.21
+  },
+  {
+    "text": "if you can justify at least\nthree different solutions.",
+    "start": 457.11,
+    "duration": 3.183
+  },
+  {
+    "text": "After reviewing the\nletters from the students,",
+    "start": 464.43,
+    "duration": 1.89
+  },
+  {
+    "text": "the College Board publicly\nadmitted their mistake",
+    "start": 466.32,
+    "duration": 1.98
+  },
+  {
+    "text": "a few weeks later and\nnullified the question",
+    "start": 468.3,
+    "duration": 2.28
+  },
+  {
+    "text": "for all test takers.",
+    "start": 470.58,
+    "duration": 1.563
+  },
+  {
+    "text": "- They said they were\ndiscounting the problem",
+    "start": 473.13,
+    "duration": 1.77
+  },
+  {
+    "text": "and they were calling us",
+    "start": 474.9,
+    "duration": 1.5
+  },
+  {
+    "text": "because they were gonna tell the news",
+    "start": 476.4,
+    "duration": 2.28
+  },
+  {
+    "text": "and they thought that we should be warned",
+    "start": 478.68,
+    "duration": 2.22
+  },
+  {
+    "text": "that the news might contact us.",
+    "start": 480.9,
+    "duration": 2.19
+  },
+  {
+    "text": "I did a bunch of phone\ninterviews and NBC News,",
+    "start": 483.09,
+    "duration": 3.18
+  },
+  {
+    "text": "they came to my school.",
+    "start": 486.27,
+    "duration": 1.83
+  },
+  {
+    "text": "They said I was right and\nthey were discounting it.",
+    "start": 488.1,
+    "duration": 2.76
+  },
+  {
+    "text": "So that was great.",
+    "start": 490.86,
+    "duration": 0.9
+  },
+  {
+    "text": "- But there's\nmore to the explanation.",
+    "start": 493.5,
+    "duration": 2.13
+  },
+  {
+    "text": "- It's easy to get an intuitive reason,",
+    "start": 495.63,
+    "duration": 3.24
+  },
+  {
+    "text": "but it's really hard to formally prove",
+    "start": 498.87,
+    "duration": 3.06
+  },
+  {
+    "text": "that the answer is four.",
+    "start": 501.93,
+    "duration": 1.56
+  },
+  {
+    "text": "I could give you some proofs if you want.",
+    "start": 503.49,
+    "duration": 2.1
+  },
+  {
+    "text": "- Well, that would be wonderful.",
+    "start": 505.59,
+    "duration": 0.93
+  },
+  {
+    "text": "I think that would be, we'd\nappreciate that for sure.",
+    "start": 506.52,
+    "duration": 3.33
+  },
+  {
+    "text": "- I have a whiteboard\nbecause I'm a mathematician,",
+    "start": 509.85,
+    "duration": 2.13
+  },
+  {
+    "text": "so I just happen to\nhave a whiteboard here.",
+    "start": 511.98,
+    "duration": 2.04
+  },
+  {
+    "text": "Hold on.",
+    "start": 514.02,
+    "duration": 0.833
+  },
+  {
+    "text": "Can you see that?\n- Yep.",
+    "start": 516.66,
+    "duration": 2.37
+  },
+  {
+    "text": "- It turns out that the amount\nthe small circle rotates",
+    "start": 519.03,
+    "duration": 3.42
+  },
+  {
+    "text": "is always the same as the\ndistance the center travels.",
+    "start": 522.45,
+    "duration": 4.08
+  },
+  {
+    "text": "All right, so why is this true?",
+    "start": 526.53,
+    "duration": 1.55
+  },
+  {
+    "text": "Suppose you had a camera",
+    "start": 529.14,
+    "duration": 1.65
+  },
+  {
+    "text": "and the camera was always\npointed at the center.",
+    "start": 530.79,
+    "duration": 2.37
+  },
+  {
+    "text": "So in your movie, it looks\nlike the center doesn't move.",
+    "start": 533.16,
+    "duration": 3.63
+  },
+  {
+    "text": "In the real world,",
+    "start": 536.79,
+    "duration": 0.833
+  },
+  {
+    "text": "the center is going around the circle.",
+    "start": 537.623,
+    "duration": 2.197
+  },
+  {
+    "text": "Let's say it's going at some speed V.",
+    "start": 539.82,
+    "duration": 2.28
+  },
+  {
+    "text": "What's the velocity of this point?",
+    "start": 542.1,
+    "duration": 2.25
+  },
+  {
+    "text": "It's zero, and that's because\nit's rolling without slipping.",
+    "start": 544.35,
+    "duration": 4.56
+  },
+  {
+    "text": "If it had any component in that direction,",
+    "start": 548.91,
+    "duration": 2.82
+  },
+  {
+    "text": "that's what slipping would be.",
+    "start": 551.73,
+    "duration": 1.44
+  },
+  {
+    "text": "I mean, this is something I think they",
+    "start": 553.17,
+    "duration": 1.11
+  },
+  {
+    "text": "should have spelled out in the problem,",
+    "start": 554.28,
+    "duration": 1.44
+  },
+  {
+    "text": "but when you change\nyour frame of reference,",
+    "start": 555.72,
+    "duration": 2.64
+  },
+  {
+    "text": "the relative velocities don't change.",
+    "start": 558.36,
+    "duration": 2.67
+  },
+  {
+    "text": "In the movee, the center\nalways has velocity zero.",
+    "start": 561.03,
+    "duration": 3.36
+  },
+  {
+    "text": "So this point would have to\nhave velocity negative V.",
+    "start": 564.39,
+    "duration": 3.87
+  },
+  {
+    "text": "So that means the speed\nthat this is turning",
+    "start": 568.26,
+    "duration": 3.48
+  },
+  {
+    "text": "is the same as the speed\nthe center is moving.",
+    "start": 571.74,
+    "duration": 2.55
+  },
+  {
+    "text": "So if they always have the same speed,",
+    "start": 574.29,
+    "duration": 1.62
+  },
+  {
+    "text": "they have to go the same total distance.",
+    "start": 575.91,
+    "duration": 2.0
+  },
+  {
+    "text": "The total distance this\nturns has to be the same",
+    "start": 578.82,
+    "duration": 2.55
+  },
+  {
+    "text": "as the total distance the center moves.",
+    "start": 581.37,
+    "duration": 1.953
+  },
+  {
+    "text": "In this problem,",
+    "start": 584.76,
+    "duration": 0.833
+  },
+  {
+    "text": "the center of the small\ncircle goes around a circle",
+    "start": 585.593,
+    "duration": 3.067
+  },
+  {
+    "text": "of radius four.",
+    "start": 588.66,
+    "duration": 1.89
+  },
+  {
+    "text": "So the total distance that\nthe center moves is eight pi.",
+    "start": 590.55,
+    "duration": 3.423
+  },
+  {
+    "text": "What's the total amount that\nthe small circle rotates?",
+    "start": 595.2,
+    "duration": 3.06
+  },
+  {
+    "text": "It rotates four times, and\nits circumference is two pi.",
+    "start": 598.26,
+    "duration": 3.75
+  },
+  {
+    "text": "It's the same number.",
+    "start": 602.01,
+    "duration": 1.17
+  },
+  {
+    "text": "If it rolls without slipping,",
+    "start": 603.18,
+    "duration": 1.68
+  },
+  {
+    "text": "the total distance the\ncenter travels is the same",
+    "start": 604.86,
+    "duration": 3.63
+  },
+  {
+    "text": "as the total amount it turns.",
+    "start": 608.49,
+    "duration": 1.563
+  },
+  {
+    "text": "- And this is always true.",
+    "start": 611.49,
+    "duration": 2.52
+  },
+  {
+    "text": "Take a circle rolling without\nslipping on any surface",
+    "start": 614.01,
+    "duration": 2.82
+  },
+  {
+    "text": "from a polygon to a blob, on\nthe outside or the inside,",
+    "start": 616.83,
+    "duration": 5.0
+  },
+  {
+    "text": "the distance traveled by\nthe center of the circle",
+    "start": 622.26,
+    "duration": 2.1
+  },
+  {
+    "text": "is equal to the amount\nthe circle has rotated.",
+    "start": 624.36,
+    "duration": 2.79
+  },
+  {
+    "text": "So, just find this distance",
+    "start": 627.15,
+    "duration": 1.86
+  },
+  {
+    "text": "and divide it by the circle circumference",
+    "start": 629.01,
+    "duration": 1.62
+  },
+  {
+    "text": "to get how many rotations it's made.",
+    "start": 630.63,
+    "duration": 2.52
+  },
+  {
+    "text": "This is an even more general\nsolution than our answer",
+    "start": 633.15,
+    "duration": 2.55
+  },
+  {
+    "text": "to the coin paradox where we\njust took our expected answer,",
+    "start": 635.7,
+    "duration": 3.21
+  },
+  {
+    "text": "which we'll call N, and added one,",
+    "start": 638.91,
+    "duration": 2.58
+  },
+  {
+    "text": "and it reveals where\nthis shortcut comes from.",
+    "start": 641.49,
+    "duration": 2.373
+  },
+  {
+    "text": "If a circle is rolling\ncontinuously around a shape,",
+    "start": 644.97,
+    "duration": 2.76
+  },
+  {
+    "text": "the circle center goes around the outside,",
+    "start": 647.73,
+    "duration": 2.55
+  },
+  {
+    "text": "increasing its distance traveled",
+    "start": 650.28,
+    "duration": 1.44
+  },
+  {
+    "text": "by exactly one circumference of the circle",
+    "start": 651.72,
+    "duration": 2.85
+  },
+  {
+    "text": "so the distance traveled\nby the circle center",
+    "start": 654.57,
+    "duration": 2.07
+  },
+  {
+    "text": "is just the perimeter of the shape",
+    "start": 656.64,
+    "duration": 1.86
+  },
+  {
+    "text": "plus the circle's circumference.",
+    "start": 658.5,
+    "duration": 2.25
+  },
+  {
+    "text": "When we ultimately divide this\nby the circle circumference",
+    "start": 660.75,
+    "duration": 2.13
+  },
+  {
+    "text": "to get the total number of\nrotations, we get N plus one.",
+    "start": 662.88,
+    "duration": 4.32
+  },
+  {
+    "text": "If a circle is rolling\ncontinuously within a shape,",
+    "start": 667.2,
+    "duration": 2.97
+  },
+  {
+    "text": "the distance travel by the\ncircle center decreases",
+    "start": 670.17,
+    "duration": 2.37
+  },
+  {
+    "text": "by one circumference of the circle,",
+    "start": 672.54,
+    "duration": 1.74
+  },
+  {
+    "text": "making the total number\nof rotations N minus one.",
+    "start": 674.28,
+    "duration": 2.913
+  },
+  {
+    "text": "If the circle is rolling\nalong a flat line,",
+    "start": 678.06,
+    "duration": 2.64
+  },
+  {
+    "text": "the distance travel by the circle center",
+    "start": 680.7,
+    "duration": 1.83
+  },
+  {
+    "text": "is equal to the length of the line which,",
+    "start": 682.53,
+    "duration": 2.46
+  },
+  {
+    "text": "divided by the circle\ncircumference, is just N.",
+    "start": 684.99,
+    "duration": 2.463
+  },
+  {
+    "text": "This general principle extends far beyond",
+    "start": 689.01,
+    "duration": 2.4
+  },
+  {
+    "text": "a mathematical fun fact.",
+    "start": 691.41,
+    "duration": 1.56
+  },
+  {
+    "text": "In fact, it's essential in astronomy",
+    "start": 692.97,
+    "duration": 1.86
+  },
+  {
+    "text": "for accurate timekeeping.",
+    "start": 694.83,
+    "duration": 2.52
+  },
+  {
+    "text": "When we count 365 days going by in a year,",
+    "start": 697.35,
+    "duration": 3.48
+  },
+  {
+    "text": "365.24, to be precise,",
+    "start": 700.83,
+    "duration": 2.82
+  },
+  {
+    "text": "we say we're just counting\nhow many rotations",
+    "start": 703.65,
+    "duration": 2.4
+  },
+  {
+    "text": "the earth makes in one\norbit around the sun.",
+    "start": 706.05,
+    "duration": 2.94
+  },
+  {
+    "text": "But it's not that simple.",
+    "start": 708.99,
+    "duration": 1.8
+  },
+  {
+    "text": "All this counting is\ndone from the perspective",
+    "start": 710.79,
+    "duration": 2.01
+  },
+  {
+    "text": "of you on earth.",
+    "start": 712.8,
+    "duration": 1.44
+  },
+  {
+    "text": "To an external observer,",
+    "start": 714.24,
+    "duration": 1.44
+  },
+  {
+    "text": "they'll see the earth\ndo one extra rotation",
+    "start": 715.68,
+    "duration": 2.76
+  },
+  {
+    "text": "to account for its circular\npath around the sun.",
+    "start": 718.44,
+    "duration": 3.12
+  },
+  {
+    "text": "So while we count 365.24 days in a year,",
+    "start": 721.56,
+    "duration": 4.17
+  },
+  {
+    "text": "they count 366.24 days in a year.",
+    "start": 725.73,
+    "duration": 4.89
+  },
+  {
+    "text": "This is called a Sidereal year,",
+    "start": 730.62,
+    "duration": 2.31
+  },
+  {
+    "text": "Sidereal meaning with respect to the stars",
+    "start": 732.93,
+    "duration": 2.85
+  },
+  {
+    "text": "where an external observer would be.",
+    "start": 735.78,
+    "duration": 2.55
+  },
+  {
+    "text": "But what happens to that one extra day?",
+    "start": 738.33,
+    "duration": 3.033
+  },
+  {
+    "text": "A normal solar day is\nthe time it takes the sun",
+    "start": 742.2,
+    "duration": 2.49
+  },
+  {
+    "text": "to be directly above you again on earth.",
+    "start": 744.69,
+    "duration": 3.03
+  },
+  {
+    "text": "But the earth isn't just rotating,",
+    "start": 747.72,
+    "duration": 1.89
+  },
+  {
+    "text": "it's orbiting the sun at the same time.",
+    "start": 749.61,
+    "duration": 2.19
+  },
+  {
+    "text": "So in a 24-hour solar day,",
+    "start": 751.8,
+    "duration": 2.28
+  },
+  {
+    "text": "earth actually has to\nrotate more than 360 degrees",
+    "start": 754.08,
+    "duration": 3.63
+  },
+  {
+    "text": "in order to bring the sun\ndirectly overhead again.",
+    "start": 757.71,
+    "duration": 2.82
+  },
+  {
+    "text": "But Earth's orbit is\nnegligible to distant stars.",
+    "start": 760.53,
+    "duration": 3.54
+  },
+  {
+    "text": "To see a star directly overhead again,",
+    "start": 764.07,
+    "duration": 2.4
+  },
+  {
+    "text": "Earth just needs to rotate\nexactly 360 degrees.",
+    "start": 766.47,
+    "duration": 3.753
+  },
+  {
+    "text": "So while it takes the sun exactly 24 hours",
+    "start": 773.49,
+    "duration": 2.49
+  },
+  {
+    "text": "to be directly above you again,",
+    "start": 775.98,
+    "duration": 1.983
+  },
+  {
+    "text": "a star at night takes\nonly 23 hours, 56 minutes,",
+    "start": 780.21,
+    "duration": 3.66
+  },
+  {
+    "text": "and four seconds to be above you again.",
+    "start": 783.87,
+    "duration": 2.31
+  },
+  {
+    "text": "That's a Sidereal day.",
+    "start": 786.18,
+    "duration": 1.743
+  },
+  {
+    "text": "This explains where the extra\nday goes in the Sidereal year.",
+    "start": 789.48,
+    "duration": 3.543
+  },
+  {
+    "text": "If we start a solar day",
+    "start": 794.37,
+    "duration": 1.44
+  },
+  {
+    "text": "and a Sidereal day at the same time,",
+    "start": 795.81,
+    "duration": 2.79
+  },
+  {
+    "text": "we'd see them slowly\ndiverge throughout the year.",
+    "start": 798.6,
+    "duration": 2.82
+  },
+  {
+    "text": "After six months,",
+    "start": 801.42,
+    "duration": 1.26
+  },
+  {
+    "text": "the Sidereal day would be 12\nhours ahead of the solar day,",
+    "start": 802.68,
+    "duration": 4.05
+  },
+  {
+    "text": "meaning that noon would be midnight,",
+    "start": 806.73,
+    "duration": 2.46
+  },
+  {
+    "text": "and it would keep moving up",
+    "start": 809.19,
+    "duration": 1.47
+  },
+  {
+    "text": "until it's finally one full\nday ahead of the solar day,",
+    "start": 810.66,
+    "duration": 4.2
+  },
+  {
+    "text": "at which point a new\nyear and orbit begins.",
+    "start": 814.86,
+    "duration": 3.303
+  },
+  {
+    "text": "365.24 days that are each 24 hours long",
+    "start": 819.18,
+    "duration": 4.05
+  },
+  {
+    "text": "are equal to 366.24 days\nthat are each 23 hours,",
+    "start": 823.23,
+    "duration": 5.0
+  },
+  {
+    "text": "56 minutes, and four seconds long.",
+    "start": 828.54,
+    "duration": 2.373
+  },
+  {
+    "text": "So it makes no sense to\nuse Sidereal time on earth,",
+    "start": 834.33,
+    "duration": 3.0
+  },
+  {
+    "text": "because six months down the line,",
+    "start": 837.33,
+    "duration": 1.59
+  },
+  {
+    "text": "day and night would be completely swapped.",
+    "start": 838.92,
+    "duration": 3.06
+  },
+  {
+    "text": "But equally, it's\nuseless to use solar time",
+    "start": 841.98,
+    "duration": 2.7
+  },
+  {
+    "text": "while tracking objects in space,",
+    "start": 844.68,
+    "duration": 1.89
+  },
+  {
+    "text": "because the region you're\nobserving would shift between say,",
+    "start": 846.57,
+    "duration": 3.36
+  },
+  {
+    "text": "10:00 PM one night and\n10:00 PM the next night.",
+    "start": 849.93,
+    "duration": 2.76
+  },
+  {
+    "text": "So instead, astronomers use Sidereal time",
+    "start": 852.69,
+    "duration": 2.52
+  },
+  {
+    "text": "for their telescopes to\nensure that they're looking",
+    "start": 855.21,
+    "duration": 2.31
+  },
+  {
+    "text": "at the same region of space each night.",
+    "start": 857.52,
+    "duration": 2.7
+  },
+  {
+    "text": "And all geostationary satellites,",
+    "start": 860.22,
+    "duration": 1.83
+  },
+  {
+    "text": "like those used for\ncommunication or navigation,",
+    "start": 862.05,
+    "duration": 2.67
+  },
+  {
+    "text": "they use Sidereal time",
+    "start": 864.72,
+    "duration": 1.71
+  },
+  {
+    "text": "to keep their orbits locked\nwith the Earth's rotation.",
+    "start": 866.43,
+    "duration": 3.123
+  },
+  {
+    "text": "So the coin paradox actually\nexplains the difference",
+    "start": 871.08,
+    "duration": 2.82
+  },
+  {
+    "text": "between how we track time on earth",
+    "start": 873.9,
+    "duration": 2.31
+  },
+  {
+    "text": "and how we track time in the universe.",
+    "start": 876.21,
+    "duration": 2.763
+  },
+  {
+    "text": "The rescoring of the 1982\nSAT wasn't all good news.",
+    "start": 883.53,
+    "duration": 4.44
+  },
+  {
+    "text": "With question 17 scrapped,",
+    "start": 887.97,
+    "duration": 1.65
+  },
+  {
+    "text": "students' scores were scaled without it,",
+    "start": 889.62,
+    "duration": 1.92
+  },
+  {
+    "text": "moving their final result up or down",
+    "start": 891.54,
+    "duration": 2.22
+  },
+  {
+    "text": "by 10 points out of 800.",
+    "start": 893.76,
+    "duration": 2.16
+  },
+  {
+    "text": "Now, while that doesn't seem like much,",
+    "start": 895.92,
+    "duration": 1.71
+  },
+  {
+    "text": "some universities and scholarships",
+    "start": 897.63,
+    "duration": 1.44
+  },
+  {
+    "text": "use strict minimum test score cutoffs.",
+    "start": 899.07,
+    "duration": 2.79
+  },
+  {
+    "text": "And as one admissions expert\nput it, \"There are instances,",
+    "start": 901.86,
+    "duration": 3.36
+  },
+  {
+    "text": "even if we do not consider them justified,",
+    "start": 905.22,
+    "duration": 1.83
+  },
+  {
+    "text": "in which 10 points can have an impact",
+    "start": 907.05,
+    "duration": 1.83
+  },
+  {
+    "text": "on a person's educational opportunities.",
+    "start": 908.88,
+    "duration": 2.52
+  },
+  {
+    "text": "It might not keep someone\nout of law school,",
+    "start": 911.4,
+    "duration": 2.28
+  },
+  {
+    "text": "but it might affect which\none he could go to.\"",
+    "start": 913.68,
+    "duration": 2.607
+  },
+  {
+    "text": "This mistake didn't only\ncost points off the exam.",
+    "start": 917.67,
+    "duration": 2.67
+  },
+  {
+    "text": "According to the testing service,",
+    "start": 920.34,
+    "duration": 1.177
+  },
+  {
+    "text": "\"Rescoring would cost them over $100,000,",
+    "start": 921.517,
+    "duration": 3.353
+  },
+  {
+    "text": "money that came outta the\npockets of test takers.",
+    "start": 924.87,
+    "duration": 2.733
+  },
+  {
+    "text": "The question 17 circle problem\nwas far from the last error",
+    "start": 929.16,
+    "duration": 3.42
+  },
+  {
+    "text": "on the SAT.",
+    "start": 932.58,
+    "duration": 0.833
+  },
+  {
+    "text": "But errors are likely",
+    "start": 935.46,
+    "duration": 1.62
+  },
+  {
+    "text": "the least of their concerns these days.",
+    "start": 937.08,
+    "duration": 1.68
+  },
+  {
+    "text": "I mean, the SAT is slowly\nbecoming a thing of the past.",
+    "start": 938.76,
+    "duration": 3.03
+  },
+  {
+    "text": "After COVID-19, nearly 80%\nof undergraduate colleges",
+    "start": 941.79,
+    "duration": 3.27
+  },
+  {
+    "text": "in the US no longer require\nany standardized testing.",
+    "start": 945.06,
+    "duration": 4.14
+  },
+  {
+    "text": "And that 1982 exam, well,",
+    "start": 949.2,
+    "duration": 2.28
+  },
+  {
+    "text": "it didn't turn out too badly for some.",
+    "start": 951.48,
+    "duration": 2.91
+  },
+  {
+    "text": "How did you do on your\nmath SAT, if I can ask?",
+    "start": 954.39,
+    "duration": 3.45
+  },
+  {
+    "text": "- I got an 800.",
+    "start": 957.84,
+    "duration": 1.59
+  },
+  {
+    "text": "Even before that, it was clear\nI was gonna go into math.",
+    "start": 959.43,
+    "duration": 3.72
+  },
+  {
+    "text": "I did math competitions.\nI really liked math.",
+    "start": 963.15,
+    "duration": 3.69
+  },
+  {
+    "text": "- Do you end up writing any\nmath questions these days?",
+    "start": 966.84,
+    "duration": 2.79
+  },
+  {
+    "text": "- A while back I wrote problems\nfor a math competition.",
+    "start": 969.63,
+    "duration": 2.76
+  },
+  {
+    "text": "- And were you careful with how\nyou wrote them, the wording?",
+    "start": 972.39,
+    "duration": 2.61
+  },
+  {
+    "text": "- I hope so. I tried",
+    "start": 975.0,
+    "duration": 3.55
+  },
+  {
+    "text": "- Today's deep dive on\none SAT question proves",
+    "start": 982.92,
+    "duration": 3.03
+  },
+  {
+    "text": "there's no substitute for\nhands-on exploration to understand",
+    "start": 985.95,
+    "duration": 3.15
+  },
+  {
+    "text": "and appreciate the everyday\nphenomena of our world.",
+    "start": 989.1,
+    "duration": 2.88
+  },
+  {
+    "text": "But you don't have to\nobserve earth from space,",
+    "start": 991.98,
+    "duration": 2.67
+  },
+  {
+    "text": "or make cardboard cutouts\nto get hands-on with math,",
+    "start": 994.65,
+    "duration": 2.82
+  },
+  {
+    "text": "science, and cutting edge tech.",
+    "start": 997.47,
+    "duration": 1.5
+  },
+  {
+    "text": "In fact, you can do it\nfrom anywhere right now",
+    "start": 998.97,
+    "duration": 2.43
+  },
+  {
+    "text": "with this video sponsor, Brilliant,",
+    "start": 1001.4,
+    "duration": 1.98
+  },
+  {
+    "text": "and you can get started for free.",
+    "start": 1003.38,
+    "duration": 1.47
+  },
+  {
+    "text": "Just go to brilliant.org/veritasium.",
+    "start": 1004.85,
+    "duration": 2.94
+  },
+  {
+    "text": "Brilliant will make you a better thinker",
+    "start": 1007.79,
+    "duration": 1.8
+  },
+  {
+    "text": "and problem solver in\neverything from science to math,",
+    "start": 1009.59,
+    "duration": 3.09
+  },
+  {
+    "text": "data programming, technology, you name it.",
+    "start": 1012.68,
+    "duration": 2.76
+  },
+  {
+    "text": "Just set your goal and\nBrilliant will design a path",
+    "start": 1015.44,
+    "duration": 2.4
+  },
+  {
+    "text": "to get you there.",
+    "start": 1017.84,
+    "duration": 1.62
+  },
+  {
+    "text": "If you liked today's video,",
+    "start": 1019.46,
+    "duration": 1.38
+  },
+  {
+    "text": "I highly recommend you check\nout one of my favorite courses",
+    "start": 1020.84,
+    "duration": 2.85
+  },
+  {
+    "text": "on Brilliant, which is\nScientific Thinking.",
+    "start": 1023.69,
+    "duration": 3.27
+  },
+  {
+    "text": "Scientific Thinking takes\nyou on an interactive tour",
+    "start": 1026.96,
+    "duration": 2.52
+  },
+  {
+    "text": "of our physical world.",
+    "start": 1029.48,
+    "duration": 1.29
+  },
+  {
+    "text": "You'll engage with key\nscientific principles",
+    "start": 1030.77,
+    "duration": 2.25
+  },
+  {
+    "text": "and theories from simple\nmachines like gears and pulleys",
+    "start": 1033.02,
+    "duration": 2.82
+  },
+  {
+    "text": "to Einstein's special\ntheory of relativity.",
+    "start": 1035.84,
+    "duration": 2.88
+  },
+  {
+    "text": "Whether you're comparing circuits",
+    "start": 1038.72,
+    "duration": 1.38
+  },
+  {
+    "text": "to understand voltage and current,",
+    "start": 1040.1,
+    "duration": 1.95
+  },
+  {
+    "text": "playing snooker to learn\nthe rules of collisions,",
+    "start": 1042.05,
+    "duration": 2.82
+  },
+  {
+    "text": "or even planning your itinerary",
+    "start": 1044.87,
+    "duration": 1.95
+  },
+  {
+    "text": "for an intergalactic music\nfestival on a space time diagram,",
+    "start": 1046.82,
+    "duration": 4.2
+  },
+  {
+    "text": "you will learn by doing",
+    "start": 1051.02,
+    "duration": 1.59
+  },
+  {
+    "text": "and foster a deep understanding\nwithout getting bogged down",
+    "start": 1052.61,
+    "duration": 3.0
+  },
+  {
+    "text": "in heavy mathematical formulas.",
+    "start": 1055.61,
+    "duration": 2.22
+  },
+  {
+    "text": "They even have a version\nof the coin paradox.",
+    "start": 1057.83,
+    "duration": 3.03
+  },
+  {
+    "text": "And by the end,",
+    "start": 1060.86,
+    "duration": 0.96
+  },
+  {
+    "text": "this course will change\nhow you think about",
+    "start": 1061.82,
+    "duration": 2.31
+  },
+  {
+    "text": "the world around you.",
+    "start": 1064.13,
+    "duration": 1.77
+  },
+  {
+    "text": "Beyond science, Brilliant\nhas a massive library",
+    "start": 1065.9,
+    "duration": 2.49
+  },
+  {
+    "text": "of content in math, data science,",
+    "start": 1068.39,
+    "duration": 2.25
+  },
+  {
+    "text": "programming, and technology,",
+    "start": 1070.64,
+    "duration": 1.62
+  },
+  {
+    "text": "all with that same hands-on approach",
+    "start": 1072.26,
+    "duration": 1.77
+  },
+  {
+    "text": "that makes concepts\nincredibly easy to understand.",
+    "start": 1074.03,
+    "duration": 3.42
+  },
+  {
+    "text": "And the best part is you can\nlearn with Brilliant on the go.",
+    "start": 1077.45,
+    "duration": 2.79
+  },
+  {
+    "text": "It's like having interactive\nversions of our videos",
+    "start": 1080.24,
+    "duration": 3.12
+  },
+  {
+    "text": "in your pocket.",
+    "start": 1083.36,
+    "duration": 0.99
+  },
+  {
+    "text": "To try everything Brilliant\nhas to offer for free",
+    "start": 1084.35,
+    "duration": 2.31
+  },
+  {
+    "text": "for 30 days, just visit\nbrilliant.org/veritasium.",
+    "start": 1086.66,
+    "duration": 3.87
+  },
+  {
+    "text": "I will put that link\ndown in the description.",
+    "start": 1090.53,
+    "duration": 2.34
+  },
+  {
+    "text": "And the first 200 of you",
+    "start": 1092.87,
+    "duration": 1.56
+  },
+  {
+    "text": "will get 20% off Brilliant's\nannual premium subscription.",
+    "start": 1094.43,
+    "duration": 3.63
+  },
+  {
+    "text": "So I wanna thank brilliant\nfor sponsoring this video",
+    "start": 1098.06,
+    "duration": 2.7
+  },
+  {
+    "text": "and I want to thank you for watching.",
+    "start": 1100.76,
+    "duration": 1.85
+  }
+]

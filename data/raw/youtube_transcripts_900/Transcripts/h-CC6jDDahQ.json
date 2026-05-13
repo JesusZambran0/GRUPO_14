@@ -1,0 +1,777 @@
+[
+  {
+    "text": "[Music]",
+    "start": 1.47,
+    "duration": 3.539
+  },
+  {
+    "text": "[Applause]",
+    "start": 5.24,
+    "duration": 3.399
+  },
+  {
+    "text": "[Music]",
+    "start": 5.38,
+    "duration": 6.299
+  },
+  {
+    "text": "today let us revise the multiplication",
+    "start": 8.639,
+    "duration": 4.08
+  },
+  {
+    "text": "tables",
+    "start": 11.679,
+    "duration": 5.121
+  },
+  {
+    "text": "1 2 10.",
+    "start": 12.719,
+    "duration": 6.241
+  },
+  {
+    "text": "the table of one",
+    "start": 16.8,
+    "duration": 4.479
+  },
+  {
+    "text": "one one is",
+    "start": 18.96,
+    "duration": 3.84
+  },
+  {
+    "text": "one",
+    "start": 21.279,
+    "duration": 3.441
+  },
+  {
+    "text": "two ones are",
+    "start": 22.8,
+    "duration": 4.239
+  },
+  {
+    "text": "two",
+    "start": 24.72,
+    "duration": 4.319
+  },
+  {
+    "text": "three ones are",
+    "start": 27.039,
+    "duration": 4.0
+  },
+  {
+    "text": "three",
+    "start": 29.039,
+    "duration": 3.921
+  },
+  {
+    "text": "four ones are",
+    "start": 31.039,
+    "duration": 3.52
+  },
+  {
+    "text": "four",
+    "start": 32.96,
+    "duration": 5.36
+  },
+  {
+    "text": "five ones are five",
+    "start": 34.559,
+    "duration": 7.601
+  },
+  {
+    "text": "six ones are six",
+    "start": 38.32,
+    "duration": 7.759
+  },
+  {
+    "text": "seven ones are seven",
+    "start": 42.16,
+    "duration": 7.76
+  },
+  {
+    "text": "eight ones are eight",
+    "start": 46.079,
+    "duration": 6.081
+  },
+  {
+    "text": "nine ones are",
+    "start": 49.92,
+    "duration": 4.159
+  },
+  {
+    "text": "nine",
+    "start": 52.16,
+    "duration": 4.239
+  },
+  {
+    "text": "ten ones are",
+    "start": 54.079,
+    "duration": 4.401
+  },
+  {
+    "text": "ten",
+    "start": 56.399,
+    "duration": 5.921
+  },
+  {
+    "text": "next is the table of two",
+    "start": 58.48,
+    "duration": 6.24
+  },
+  {
+    "text": "one two is",
+    "start": 62.32,
+    "duration": 4.0
+  },
+  {
+    "text": "two",
+    "start": 64.72,
+    "duration": 3.6
+  },
+  {
+    "text": "two twos are",
+    "start": 66.32,
+    "duration": 3.76
+  },
+  {
+    "text": "four",
+    "start": 68.32,
+    "duration": 5.6
+  },
+  {
+    "text": "three twos are six",
+    "start": 70.08,
+    "duration": 6.16
+  },
+  {
+    "text": "four twos are",
+    "start": 73.92,
+    "duration": 4.16
+  },
+  {
+    "text": "eight",
+    "start": 76.24,
+    "duration": 4.16
+  },
+  {
+    "text": "five twos are",
+    "start": 78.08,
+    "duration": 4.0
+  },
+  {
+    "text": "ten",
+    "start": 80.4,
+    "duration": 4.44
+  },
+  {
+    "text": "six twos are",
+    "start": 82.08,
+    "duration": 6.079
+  },
+  {
+    "text": "twelve seven twos are",
+    "start": 84.84,
+    "duration": 5.16
+  },
+  {
+    "text": "fourteen",
+    "start": 88.159,
+    "duration": 5.841
+  },
+  {
+    "text": "eight twos are sixteen",
+    "start": 90.0,
+    "duration": 6.32
+  },
+  {
+    "text": "nine twos are",
+    "start": 94.0,
+    "duration": 4.24
+  },
+  {
+    "text": "eighteen",
+    "start": 96.32,
+    "duration": 4.08
+  },
+  {
+    "text": "ten twos are",
+    "start": 98.24,
+    "duration": 4.4
+  },
+  {
+    "text": "twenty",
+    "start": 100.4,
+    "duration": 5.92
+  },
+  {
+    "text": "now the table of three",
+    "start": 102.64,
+    "duration": 5.759
+  },
+  {
+    "text": "one three is",
+    "start": 106.32,
+    "duration": 3.68
+  },
+  {
+    "text": "three",
+    "start": 108.399,
+    "duration": 5.601
+  },
+  {
+    "text": "two threes are six",
+    "start": 110.0,
+    "duration": 6.0
+  },
+  {
+    "text": "three threes are",
+    "start": 114.0,
+    "duration": 3.84
+  },
+  {
+    "text": "nine",
+    "start": 116.0,
+    "duration": 5.68
+  },
+  {
+    "text": "four threes are twelve",
+    "start": 117.84,
+    "duration": 6.08
+  },
+  {
+    "text": "five threes are",
+    "start": 121.68,
+    "duration": 4.399
+  },
+  {
+    "text": "fifteen",
+    "start": 123.92,
+    "duration": 6.16
+  },
+  {
+    "text": "six threes are eighteen",
+    "start": 126.079,
+    "duration": 8.081
+  },
+  {
+    "text": "seven threes are twenty-one",
+    "start": 130.08,
+    "duration": 8.4
+  },
+  {
+    "text": "eight threes are twenty-four",
+    "start": 134.16,
+    "duration": 8.64
+  },
+  {
+    "text": "nine threes are twenty-seven",
+    "start": 138.48,
+    "duration": 8.96
+  },
+  {
+    "text": "ten threes are thirty",
+    "start": 142.8,
+    "duration": 8.56
+  },
+  {
+    "text": "next is the table of four",
+    "start": 147.44,
+    "duration": 6.079
+  },
+  {
+    "text": "one four is",
+    "start": 151.36,
+    "duration": 3.84
+  },
+  {
+    "text": "four",
+    "start": 153.519,
+    "duration": 3.681
+  },
+  {
+    "text": "two fours are",
+    "start": 155.2,
+    "duration": 4.08
+  },
+  {
+    "text": "eight",
+    "start": 157.2,
+    "duration": 6.08
+  },
+  {
+    "text": "three fours are twelve",
+    "start": 159.28,
+    "duration": 8.4
+  },
+  {
+    "text": "four fours are sixteen",
+    "start": 163.28,
+    "duration": 8.48
+  },
+  {
+    "text": "five fours are twenty",
+    "start": 167.68,
+    "duration": 8.0
+  },
+  {
+    "text": "six fours are twenty four",
+    "start": 171.76,
+    "duration": 8.24
+  },
+  {
+    "text": "seven fours are twenty eight",
+    "start": 175.68,
+    "duration": 8.639
+  },
+  {
+    "text": "eight fours are thirty two",
+    "start": 180.0,
+    "duration": 8.72
+  },
+  {
+    "text": "nine fours are thirty-six",
+    "start": 184.319,
+    "duration": 6.56
+  },
+  {
+    "text": "ten fours are",
+    "start": 188.72,
+    "duration": 4.64
+  },
+  {
+    "text": "forty",
+    "start": 190.879,
+    "duration": 2.481
+  },
+  {
+    "text": "next is the table of five",
+    "start": 193.44,
+    "duration": 4.96
+  },
+  {
+    "text": "one five",
+    "start": 197.2,
+    "duration": 2.16
+  },
+  {
+    "text": "is",
+    "start": 198.4,
+    "duration": 2.479
+  },
+  {
+    "text": "five",
+    "start": 199.36,
+    "duration": 3.68
+  },
+  {
+    "text": "two fives are",
+    "start": 200.879,
+    "duration": 3.601
+  },
+  {
+    "text": "ten",
+    "start": 203.04,
+    "duration": 5.119
+  },
+  {
+    "text": "three fives are fifteen",
+    "start": 204.48,
+    "duration": 5.679
+  },
+  {
+    "text": "four fives are",
+    "start": 208.159,
+    "duration": 3.601
+  },
+  {
+    "text": "twenty",
+    "start": 210.159,
+    "duration": 5.681
+  },
+  {
+    "text": "five fives are twenty-five",
+    "start": 211.76,
+    "duration": 6.0
+  },
+  {
+    "text": "six fives are",
+    "start": 215.84,
+    "duration": 3.6
+  },
+  {
+    "text": "thirty",
+    "start": 217.76,
+    "duration": 5.839
+  },
+  {
+    "text": "seven fives are thirty-five",
+    "start": 219.44,
+    "duration": 8.32
+  },
+  {
+    "text": "eight fives are forty",
+    "start": 223.599,
+    "duration": 8.321
+  },
+  {
+    "text": "nine fives are forty five",
+    "start": 227.76,
+    "duration": 6.32
+  },
+  {
+    "text": "ten fives are",
+    "start": 231.92,
+    "duration": 4.56
+  },
+  {
+    "text": "fifty",
+    "start": 234.08,
+    "duration": 6.48
+  },
+  {
+    "text": "now the table of six",
+    "start": 236.48,
+    "duration": 6.24
+  },
+  {
+    "text": "one six is",
+    "start": 240.56,
+    "duration": 4.08
+  },
+  {
+    "text": "six",
+    "start": 242.72,
+    "duration": 4.32
+  },
+  {
+    "text": "two sixes are",
+    "start": 244.64,
+    "duration": 4.159
+  },
+  {
+    "text": "twelve",
+    "start": 247.04,
+    "duration": 6.0
+  },
+  {
+    "text": "three sixes are eighteen",
+    "start": 248.799,
+    "duration": 8.56
+  },
+  {
+    "text": "four sixes are twenty-four",
+    "start": 253.04,
+    "duration": 8.319
+  },
+  {
+    "text": "five sixes are thirty",
+    "start": 257.359,
+    "duration": 8.081
+  },
+  {
+    "text": "six sixes are thirty-six",
+    "start": 261.359,
+    "duration": 8.321
+  },
+  {
+    "text": "seven sixes are forty-two",
+    "start": 265.44,
+    "duration": 8.479
+  },
+  {
+    "text": "eight sixes are forty-eight",
+    "start": 269.68,
+    "duration": 8.32
+  },
+  {
+    "text": "nine sixes are fifty-four",
+    "start": 273.919,
+    "duration": 8.161
+  },
+  {
+    "text": "ten sixes are sixty",
+    "start": 278.0,
+    "duration": 8.16
+  },
+  {
+    "text": "next is the table of seven",
+    "start": 282.08,
+    "duration": 6.32
+  },
+  {
+    "text": "one seven is",
+    "start": 286.16,
+    "duration": 3.84
+  },
+  {
+    "text": "seven",
+    "start": 288.4,
+    "duration": 5.519
+  },
+  {
+    "text": "two sevens are fourteen",
+    "start": 290.0,
+    "duration": 7.84
+  },
+  {
+    "text": "three sevens are twenty one",
+    "start": 293.919,
+    "duration": 8.0
+  },
+  {
+    "text": "four sevens are twenty eight",
+    "start": 297.84,
+    "duration": 8.24
+  },
+  {
+    "text": "five sevens are thirty five",
+    "start": 301.919,
+    "duration": 7.921
+  },
+  {
+    "text": "six sevens are forty two",
+    "start": 306.08,
+    "duration": 7.679
+  },
+  {
+    "text": "seven sevens are forty-nine",
+    "start": 309.84,
+    "duration": 8.32
+  },
+  {
+    "text": "eight sevens are fifty-six",
+    "start": 313.759,
+    "duration": 8.241
+  },
+  {
+    "text": "nine sevens are sixty-three",
+    "start": 318.16,
+    "duration": 7.599
+  },
+  {
+    "text": "ten sevens are seventy",
+    "start": 322.0,
+    "duration": 8.56
+  },
+  {
+    "text": "now let us revise the table of eight",
+    "start": 325.759,
+    "duration": 6.88
+  },
+  {
+    "text": "one eight is",
+    "start": 330.56,
+    "duration": 3.68
+  },
+  {
+    "text": "eight",
+    "start": 332.639,
+    "duration": 4.201
+  },
+  {
+    "text": "two eights are",
+    "start": 334.24,
+    "duration": 7.84
+  },
+  {
+    "text": "sixteen three eighths are twenty-four",
+    "start": 336.84,
+    "duration": 7.24
+  },
+  {
+    "text": "four eights are",
+    "start": 342.08,
+    "duration": 4.32
+  },
+  {
+    "text": "thirty-two",
+    "start": 344.08,
+    "duration": 4.48
+  },
+  {
+    "text": "five eighths are",
+    "start": 346.4,
+    "duration": 3.92
+  },
+  {
+    "text": "forty",
+    "start": 348.56,
+    "duration": 5.68
+  },
+  {
+    "text": "six eighths are forty eight",
+    "start": 350.32,
+    "duration": 7.92
+  },
+  {
+    "text": "seven eighths are fifty six",
+    "start": 354.24,
+    "duration": 7.92
+  },
+  {
+    "text": "eight eighths are sixty-four",
+    "start": 358.24,
+    "duration": 7.92
+  },
+  {
+    "text": "nine eighths are seventy-two",
+    "start": 362.16,
+    "duration": 8.479
+  },
+  {
+    "text": "ten eights are eighty",
+    "start": 366.16,
+    "duration": 8.159
+  },
+  {
+    "text": "next is the table of nine",
+    "start": 370.639,
+    "duration": 5.761
+  },
+  {
+    "text": "one nine is",
+    "start": 374.319,
+    "duration": 3.6
+  },
+  {
+    "text": "nine",
+    "start": 376.4,
+    "duration": 5.359
+  },
+  {
+    "text": "two nines are eighteen",
+    "start": 377.919,
+    "duration": 7.761
+  },
+  {
+    "text": "three nines are twenty-seven",
+    "start": 381.759,
+    "duration": 8.241
+  },
+  {
+    "text": "four nines are thirty-six",
+    "start": 385.68,
+    "duration": 8.32
+  },
+  {
+    "text": "five nines are forty-five",
+    "start": 390.0,
+    "duration": 7.919
+  },
+  {
+    "text": "six nines are fifty-four",
+    "start": 394.0,
+    "duration": 7.759
+  },
+  {
+    "text": "seven nines are sixty-three",
+    "start": 397.919,
+    "duration": 8.0
+  },
+  {
+    "text": "eight nines are seventy-two",
+    "start": 401.759,
+    "duration": 8.321
+  },
+  {
+    "text": "nine nines are eighty-one",
+    "start": 405.919,
+    "duration": 8.481
+  },
+  {
+    "text": "ten nines are ninety",
+    "start": 410.08,
+    "duration": 7.6
+  },
+  {
+    "text": "lastly the table of ten",
+    "start": 414.4,
+    "duration": 5.359
+  },
+  {
+    "text": "one ten is",
+    "start": 417.68,
+    "duration": 3.6
+  },
+  {
+    "text": "ten",
+    "start": 419.759,
+    "duration": 3.44
+  },
+  {
+    "text": "two tens are",
+    "start": 421.28,
+    "duration": 3.6
+  },
+  {
+    "text": "twenty",
+    "start": 423.199,
+    "duration": 5.601
+  },
+  {
+    "text": "three tens are thirty",
+    "start": 424.88,
+    "duration": 7.92
+  },
+  {
+    "text": "four tens are forty",
+    "start": 428.8,
+    "duration": 8.239
+  },
+  {
+    "text": "five tens are fifty",
+    "start": 432.8,
+    "duration": 7.839
+  },
+  {
+    "text": "six tens are sixty",
+    "start": 437.039,
+    "duration": 7.361
+  },
+  {
+    "text": "seven tens are seventy",
+    "start": 440.639,
+    "duration": 7.68
+  },
+  {
+    "text": "eight tens are eighty",
+    "start": 444.4,
+    "duration": 8.0
+  },
+  {
+    "text": "nine tens are ninety",
+    "start": 448.319,
+    "duration": 8.401
+  },
+  {
+    "text": "ten tens are hundred",
+    "start": 452.4,
+    "duration": 7.12
+  },
+  {
+    "text": "hope you had fun revising the",
+    "start": 456.72,
+    "duration": 8.84
+  },
+  {
+    "text": "multiplication tables from one to ten",
+    "start": 459.52,
+    "duration": 6.04
+  },
+  {
+    "text": "[Music]",
+    "start": 466.04,
+    "duration": 3.529
+  },
+  {
+    "text": "[Applause]",
+    "start": 469.81,
+    "duration": 4.5
+  },
+  {
+    "text": "[Music]",
+    "start": 469.91,
+    "duration": 4.4
+  }
+]

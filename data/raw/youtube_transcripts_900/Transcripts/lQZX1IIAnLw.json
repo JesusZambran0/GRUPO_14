@@ -1,0 +1,317 @@
+[
+  {
+    "text": "(happy chiming music)",
+    "start": 0.636,
+    "duration": 3.167
+  },
+  {
+    "text": "(fun upbeat music)",
+    "start": 4.819,
+    "duration": 2.917
+  },
+  {
+    "text": "♪ This is a happy face ♪",
+    "start": 9.939,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is a happy face ♪",
+    "start": 15.155,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is a happy face ♪",
+    "start": 20.497,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is my happy face ♪",
+    "start": 25.617,
+    "duration": 3.417
+  },
+  {
+    "text": "♪ This is a sleepy face ♪",
+    "start": 36.116,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is a sleepy face ♪",
+    "start": 41.619,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is a sleepy face ♪",
+    "start": 47.277,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is my sleepy face ♪",
+    "start": 52.76,
+    "duration": 3.417
+  },
+  {
+    "text": "♪ This is an angry face ♪",
+    "start": 63.997,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is an angry face ♪",
+    "start": 69.139,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is an angry face ♪",
+    "start": 74.381,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is my angry face ♪",
+    "start": 79.673,
+    "duration": 3.333
+  },
+  {
+    "text": "♪ This is a surprised face ♪",
+    "start": 90.077,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is us surprised face ♪",
+    "start": 95.181,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is a surprised face ♪",
+    "start": 100.52,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is my surprised face ♪",
+    "start": 105.556,
+    "duration": 3.667
+  },
+  {
+    "text": "♪ Happy ♪",
+    "start": 116.155,
+    "duration": 2.594
+  },
+  {
+    "text": "♪ Sleepy ♪",
+    "start": 118.749,
+    "duration": 2.643
+  },
+  {
+    "text": "♪ Angry ♪",
+    "start": 121.392,
+    "duration": 2.458
+  },
+  {
+    "text": "♪ Surprised ♪",
+    "start": 123.85,
+    "duration": 2.524
+  },
+  {
+    "text": "♪ Happy ♪",
+    "start": 126.374,
+    "duration": 2.64
+  },
+  {
+    "text": "♪ Sleepy ♪",
+    "start": 129.014,
+    "duration": 2.736
+  },
+  {
+    "text": "♪ Angry ♪",
+    "start": 131.75,
+    "duration": 2.304
+  },
+  {
+    "text": "♪ Surprised ♪",
+    "start": 134.054,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is an excited face ♪",
+    "start": 139.632,
+    "duration": 4.72
+  },
+  {
+    "text": "♪ This is an excited face ♪",
+    "start": 144.352,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is an excited face ♪",
+    "start": 149.808,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is my excited face ♪",
+    "start": 155.291,
+    "duration": 3.5
+  },
+  {
+    "text": "♪ This is a sad face ♪",
+    "start": 165.734,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is a sad face ♪",
+    "start": 170.97,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is a sad face ♪",
+    "start": 176.272,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is my sad face ♪",
+    "start": 181.494,
+    "duration": 3.167
+  },
+  {
+    "text": "♪ This is a nervous face ♪",
+    "start": 191.771,
+    "duration": 4.98
+  },
+  {
+    "text": "♪ This is a nervous face ♪",
+    "start": 196.751,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is a nervous face ♪",
+    "start": 201.948,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is my nervous face ♪",
+    "start": 207.115,
+    "duration": 3.5
+  },
+  {
+    "text": "♪ This is a silly face. ♪",
+    "start": 217.835,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is a silly face ♪",
+    "start": 223.113,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is a silly face ♪",
+    "start": 228.475,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is my silly face ♪",
+    "start": 233.515,
+    "duration": 3.333
+  },
+  {
+    "text": "♪ Excited ♪",
+    "start": 243.931,
+    "duration": 2.683
+  },
+  {
+    "text": "♪ Sad ♪",
+    "start": 246.614,
+    "duration": 2.455
+  },
+  {
+    "text": "♪ Nervous ♪",
+    "start": 249.069,
+    "duration": 2.766
+  },
+  {
+    "text": "♪ Silly ♪",
+    "start": 251.835,
+    "duration": 2.637
+  },
+  {
+    "text": "♪ Excited ♪",
+    "start": 254.472,
+    "duration": 2.563
+  },
+  {
+    "text": "♪ Sad ♪",
+    "start": 257.035,
+    "duration": 2.539
+  },
+  {
+    "text": "♪ Nervous ♪",
+    "start": 259.574,
+    "duration": 2.636
+  },
+  {
+    "text": "♪ Silly ♪",
+    "start": 262.21,
+    "duration": 2.564
+  },
+  {
+    "text": "♪ Now let me see those faces ♪",
+    "start": 264.774,
+    "duration": 3.035
+  },
+  {
+    "text": "♪ Show me your happy face ♪",
+    "start": 267.809,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ Show me your sleepy face ♪",
+    "start": 273.046,
+    "duration": 4.986
+  },
+  {
+    "text": "♪ Show me your angry face ♪",
+    "start": 278.032,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ Show me your surprised face ♪",
+    "start": 283.094,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ Show me your excited face ♪",
+    "start": 288.192,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ Show me your sad face ♪",
+    "start": 293.814,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ Show me your nervous face ♪",
+    "start": 299.072,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ Show me your silly face ♪",
+    "start": 304.111,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is a happy face ♪",
+    "start": 309.175,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is a happy face ♪",
+    "start": 314.374,
+    "duration": 4.72
+  },
+  {
+    "text": "♪ This is a happy face ♪",
+    "start": 319.094,
+    "duration": 5.0
+  },
+  {
+    "text": "♪ This is my happy face ♪",
+    "start": 324.79,
+    "duration": 3.417
+  }
+]

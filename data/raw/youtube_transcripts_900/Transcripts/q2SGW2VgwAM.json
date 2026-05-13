@@ -1,0 +1,1447 @@
+[
+  {
+    "text": "hey what's going on everybody it's bro",
+    "start": 0.08,
+    "duration": 3.28
+  },
+  {
+    "text": "hope you're doing well",
+    "start": 2.399,
+    "duration": 2.641
+  },
+  {
+    "text": "and in this video i'm going to explain",
+    "start": 3.36,
+    "duration": 4.16
+  },
+  {
+    "text": "object oriented programming in python so",
+    "start": 5.04,
+    "duration": 7.36
+  },
+  {
+    "text": "sit back relax and enjoy the show",
+    "start": 7.52,
+    "duration": 4.88
+  },
+  {
+    "text": "if i could have just a moment of your",
+    "start": 12.639,
+    "duration": 3.761
+  },
+  {
+    "text": "time please like comment",
+    "start": 14.32,
+    "duration": 4.24
+  },
+  {
+    "text": "and subscribe i would greatly appreciate",
+    "start": 16.4,
+    "duration": 4.0
+  },
+  {
+    "text": "it",
+    "start": 18.56,
+    "duration": 4.479
+  },
+  {
+    "text": "welcome to today's topic on python",
+    "start": 20.4,
+    "duration": 4.32
+  },
+  {
+    "text": "object-oriented programming",
+    "start": 23.039,
+    "duration": 4.32
+  },
+  {
+    "text": "also known as p-o-o-p and in today's",
+    "start": 24.72,
+    "duration": 4.559
+  },
+  {
+    "text": "video we're going to be creating objects",
+    "start": 27.359,
+    "duration": 4.641
+  },
+  {
+    "text": "an object is an instance of a class by",
+    "start": 29.279,
+    "duration": 4.561
+  },
+  {
+    "text": "using programming we can create",
+    "start": 32.0,
+    "duration": 4.719
+  },
+  {
+    "text": "representations of real-life objects so",
+    "start": 33.84,
+    "duration": 4.48
+  },
+  {
+    "text": "look around you wherever you're sitting",
+    "start": 36.719,
+    "duration": 3.761
+  },
+  {
+    "text": "or standing right now you are surrounded",
+    "start": 38.32,
+    "duration": 3.12
+  },
+  {
+    "text": "by objects",
+    "start": 40.48,
+    "duration": 3.919
+  },
+  {
+    "text": "next to me i have a phone a television",
+    "start": 41.44,
+    "duration": 4.0
+  },
+  {
+    "text": "some snacks",
+    "start": 44.399,
+    "duration": 2.881
+  },
+  {
+    "text": "and i'm talking into a microphone point",
+    "start": 45.44,
+    "duration": 4.08
+  },
+  {
+    "text": "being we can use programming to mimic",
+    "start": 47.28,
+    "duration": 4.32
+  },
+  {
+    "text": "real world objects by assigning a",
+    "start": 49.52,
+    "duration": 3.199
+  },
+  {
+    "text": "combination of",
+    "start": 51.6,
+    "duration": 4.16
+  },
+  {
+    "text": "attributes what an object is or has",
+    "start": 52.719,
+    "duration": 6.0
+  },
+  {
+    "text": "and methods what an object can do now in",
+    "start": 55.76,
+    "duration": 4.56
+  },
+  {
+    "text": "order to create an object we'll need to",
+    "start": 58.719,
+    "duration": 2.801
+  },
+  {
+    "text": "create a class",
+    "start": 60.32,
+    "duration": 3.039
+  },
+  {
+    "text": "a class can function as a blueprint that",
+    "start": 61.52,
+    "duration": 3.52
+  },
+  {
+    "text": "will describe what attributes and",
+    "start": 63.359,
+    "duration": 2.401
+  },
+  {
+    "text": "methods",
+    "start": 65.04,
+    "duration": 2.72
+  },
+  {
+    "text": "that our distinct type of object will",
+    "start": 65.76,
+    "duration": 3.76
+  },
+  {
+    "text": "have you can either create your class",
+    "start": 67.76,
+    "duration": 3.359
+  },
+  {
+    "text": "within your main module",
+    "start": 69.52,
+    "duration": 3.2
+  },
+  {
+    "text": "or you could create a separate file",
+    "start": 71.119,
+    "duration": 3.68
+  },
+  {
+    "text": "dedicated solely for your class",
+    "start": 72.72,
+    "duration": 4.0
+  },
+  {
+    "text": "now to create a class we would type",
+    "start": 74.799,
+    "duration": 3.841
+  },
+  {
+    "text": "class and then the name of the object",
+    "start": 76.72,
+    "duration": 3.68
+  },
+  {
+    "text": "that we would like to create so today i",
+    "start": 78.64,
+    "duration": 3.36
+  },
+  {
+    "text": "would like to create some car objects",
+    "start": 80.4,
+    "duration": 3.039
+  },
+  {
+    "text": "because i like cars",
+    "start": 82.0,
+    "duration": 4.24
+  },
+  {
+    "text": "so we would type car and a common naming",
+    "start": 83.439,
+    "duration": 3.441
+  },
+  {
+    "text": "convention",
+    "start": 86.24,
+    "duration": 2.559
+  },
+  {
+    "text": "with class names is that they should be",
+    "start": 86.88,
+    "duration": 3.919
+  },
+  {
+    "text": "capital so car is going to have a",
+    "start": 88.799,
+    "duration": 2.96
+  },
+  {
+    "text": "capital c",
+    "start": 90.799,
+    "duration": 2.401
+  },
+  {
+    "text": "and for the time being we need to type",
+    "start": 91.759,
+    "duration": 3.281
+  },
+  {
+    "text": "in something i'll just type in pass as a",
+    "start": 93.2,
+    "duration": 2.959
+  },
+  {
+    "text": "placeholder",
+    "start": 95.04,
+    "duration": 3.28
+  },
+  {
+    "text": "so if you have a small program it may be",
+    "start": 96.159,
+    "duration": 4.0
+  },
+  {
+    "text": "better to write your class within your",
+    "start": 98.32,
+    "duration": 2.24
+  },
+  {
+    "text": "main",
+    "start": 100.159,
+    "duration": 3.441
+  },
+  {
+    "text": "module but if your class is fairly large",
+    "start": 100.56,
+    "duration": 4.879
+  },
+  {
+    "text": "you may want to consider placing your",
+    "start": 103.6,
+    "duration": 4.0
+  },
+  {
+    "text": "class within a separate module",
+    "start": 105.439,
+    "duration": 4.0
+  },
+  {
+    "text": "so if you were to take that route we",
+    "start": 107.6,
+    "duration": 3.36
+  },
+  {
+    "text": "would go to file",
+    "start": 109.439,
+    "duration": 4.081
+  },
+  {
+    "text": "new python file and we would name this",
+    "start": 110.96,
+    "duration": 3.36
+  },
+  {
+    "text": "car",
+    "start": 113.52,
+    "duration": 2.959
+  },
+  {
+    "text": "click python file and we would declare",
+    "start": 114.32,
+    "duration": 4.159
+  },
+  {
+    "text": "our class within the separate module",
+    "start": 116.479,
+    "duration": 5.041
+  },
+  {
+    "text": "so class car and for now i'll type in",
+    "start": 118.479,
+    "duration": 3.6
+  },
+  {
+    "text": "pass",
+    "start": 121.52,
+    "duration": 2.559
+  },
+  {
+    "text": "then we just need to import this class",
+    "start": 122.079,
+    "duration": 4.161
+  },
+  {
+    "text": "so within our main module we would type",
+    "start": 124.079,
+    "duration": 4.8
+  },
+  {
+    "text": "from the name of the module import the",
+    "start": 126.24,
+    "duration": 3.68
+  },
+  {
+    "text": "name of the class",
+    "start": 128.879,
+    "duration": 3.921
+  },
+  {
+    "text": "from car import car now objects can have",
+    "start": 129.92,
+    "duration": 3.92
+  },
+  {
+    "text": "some combination",
+    "start": 132.8,
+    "duration": 2.96
+  },
+  {
+    "text": "of attributes and methods attributes",
+    "start": 133.84,
+    "duration": 3.36
+  },
+  {
+    "text": "describe what an object",
+    "start": 135.76,
+    "duration": 3.68
+  },
+  {
+    "text": "is or has so what are a few attributes",
+    "start": 137.2,
+    "duration": 3.679
+  },
+  {
+    "text": "that cars might have",
+    "start": 139.44,
+    "duration": 3.68
+  },
+  {
+    "text": "they might have a make so let's create a",
+    "start": 140.879,
+    "duration": 3.281
+  },
+  {
+    "text": "few variables",
+    "start": 143.12,
+    "duration": 2.64
+  },
+  {
+    "text": "for the time being i'm just going to use",
+    "start": 144.16,
+    "duration": 3.28
+  },
+  {
+    "text": "none as a placeholder",
+    "start": 145.76,
+    "duration": 6.24
+  },
+  {
+    "text": "cars can have a model a year",
+    "start": 147.44,
+    "duration": 7.28
+  },
+  {
+    "text": "and a color",
+    "start": 152.0,
+    "duration": 2.72
+  },
+  {
+    "text": "now objects can also have methods what",
+    "start": 155.599,
+    "duration": 4.321
+  },
+  {
+    "text": "kinds of methods could cars perform",
+    "start": 158.08,
+    "duration": 4.08
+  },
+  {
+    "text": "perhaps a drive method and a stop method",
+    "start": 159.92,
+    "duration": 3.52
+  },
+  {
+    "text": "so let's define those",
+    "start": 162.16,
+    "duration": 4.799
+  },
+  {
+    "text": "def let's say drive and we'll have one",
+    "start": 163.44,
+    "duration": 4.32
+  },
+  {
+    "text": "argument",
+    "start": 166.959,
+    "duration": 3.28
+  },
+  {
+    "text": "self self refers to the object that is",
+    "start": 167.76,
+    "duration": 3.759
+  },
+  {
+    "text": "using this method",
+    "start": 170.239,
+    "duration": 3.041
+  },
+  {
+    "text": "now what do we want to do when we call",
+    "start": 171.519,
+    "duration": 3.121
+  },
+  {
+    "text": "this method",
+    "start": 173.28,
+    "duration": 4.64
+  },
+  {
+    "text": "let's say this car",
+    "start": 174.64,
+    "duration": 6.319
+  },
+  {
+    "text": "is driving let's create a stop method as",
+    "start": 177.92,
+    "duration": 3.76
+  },
+  {
+    "text": "well",
+    "start": 180.959,
+    "duration": 4.0
+  },
+  {
+    "text": "tef stop",
+    "start": 181.68,
+    "duration": 6.559
+  },
+  {
+    "text": "and we will print this",
+    "start": 184.959,
+    "duration": 6.401
+  },
+  {
+    "text": "car is stopped we now have all of the",
+    "start": 188.239,
+    "duration": 4.801
+  },
+  {
+    "text": "different attributes and methods we",
+    "start": 191.36,
+    "duration": 3.519
+  },
+  {
+    "text": "would like our car objects to have but",
+    "start": 193.04,
+    "duration": 3.52
+  },
+  {
+    "text": "there is one more thing that we need it",
+    "start": 194.879,
+    "duration": 3.761
+  },
+  {
+    "text": "is a special method called the init",
+    "start": 196.56,
+    "duration": 3.599
+  },
+  {
+    "text": "method that will construct",
+    "start": 198.64,
+    "duration": 3.44
+  },
+  {
+    "text": "objects for us in other programming",
+    "start": 200.159,
+    "duration": 3.44
+  },
+  {
+    "text": "languages this is known as the",
+    "start": 202.08,
+    "duration": 2.4
+  },
+  {
+    "text": "constructor",
+    "start": 203.599,
+    "duration": 2.881
+  },
+  {
+    "text": "so we need a special method that will",
+    "start": 204.48,
+    "duration": 3.36
+  },
+  {
+    "text": "create objects for us",
+    "start": 206.48,
+    "duration": 4.0
+  },
+  {
+    "text": "so we need to define this method def and",
+    "start": 207.84,
+    "duration": 3.679
+  },
+  {
+    "text": "the syntax on this",
+    "start": 210.48,
+    "duration": 2.64
+  },
+  {
+    "text": "is somewhat strange it is two",
+    "start": 211.519,
+    "duration": 3.44
+  },
+  {
+    "text": "underscores i n i t",
+    "start": 213.12,
+    "duration": 3.92
+  },
+  {
+    "text": "it's short for initialize 200 scores",
+    "start": 214.959,
+    "duration": 3.761
+  },
+  {
+    "text": "again and then we need at least",
+    "start": 217.04,
+    "duration": 3.839
+  },
+  {
+    "text": "self as an argument and then we can",
+    "start": 218.72,
+    "duration": 4.0
+  },
+  {
+    "text": "actually assign",
+    "start": 220.879,
+    "duration": 4.881
+  },
+  {
+    "text": "our car objects unique variables so",
+    "start": 222.72,
+    "duration": 4.64
+  },
+  {
+    "text": "take all of these attributes that we",
+    "start": 225.76,
+    "duration": 3.039
+  },
+  {
+    "text": "have and we're going to place them",
+    "start": 227.36,
+    "duration": 3.04
+  },
+  {
+    "text": "within this init method",
+    "start": 228.799,
+    "duration": 4.0
+  },
+  {
+    "text": "now we can receive arguments when we",
+    "start": 230.4,
+    "duration": 3.039
+  },
+  {
+    "text": "create car",
+    "start": 232.799,
+    "duration": 3.201
+  },
+  {
+    "text": "objects but we need to pass them in as",
+    "start": 233.439,
+    "duration": 3.281
+  },
+  {
+    "text": "arguments",
+    "start": 236.0,
+    "duration": 2.959
+  },
+  {
+    "text": "to our init method so we need to set up",
+    "start": 236.72,
+    "duration": 3.28
+  },
+  {
+    "text": "some parameters",
+    "start": 238.959,
+    "duration": 2.401
+  },
+  {
+    "text": "let's say in order to create a car",
+    "start": 240.0,
+    "duration": 4.159
+  },
+  {
+    "text": "object we need a make",
+    "start": 241.36,
+    "duration": 6.0
+  },
+  {
+    "text": "a model a year and a color",
+    "start": 244.159,
+    "duration": 4.961
+  },
+  {
+    "text": "then when we receive these arguments we",
+    "start": 247.36,
+    "duration": 3.36
+  },
+  {
+    "text": "can actually assign them to",
+    "start": 249.12,
+    "duration": 4.399
+  },
+  {
+    "text": "each car's specific attributes but we",
+    "start": 250.72,
+    "duration": 4.96
+  },
+  {
+    "text": "need to precede each of these with self",
+    "start": 253.519,
+    "duration": 4.161
+  },
+  {
+    "text": "self is referring to the object that",
+    "start": 255.68,
+    "duration": 4.0
+  },
+  {
+    "text": "we're currently working on or creating",
+    "start": 257.68,
+    "duration": 5.04
+  },
+  {
+    "text": "so self.make self.model",
+    "start": 259.68,
+    "duration": 7.2
+  },
+  {
+    "text": "self.ear and self.color",
+    "start": 262.72,
+    "duration": 6.0
+  },
+  {
+    "text": "and then when we assign these we're",
+    "start": 266.88,
+    "duration": 3.52
+  },
+  {
+    "text": "going to say self.make",
+    "start": 268.72,
+    "duration": 3.919
+  },
+  {
+    "text": "equals whatever make that we receive",
+    "start": 270.4,
+    "duration": 4.0
+  },
+  {
+    "text": "when it's passed in as an argument",
+    "start": 272.639,
+    "duration": 4.56
+  },
+  {
+    "text": "self.model equals model and continue",
+    "start": 274.4,
+    "duration": 4.4
+  },
+  {
+    "text": "that pattern for year",
+    "start": 277.199,
+    "duration": 4.961
+  },
+  {
+    "text": "and color all right that is all we need",
+    "start": 278.8,
+    "duration": 5.92
+  },
+  {
+    "text": "for our class car we have a constructor",
+    "start": 282.16,
+    "duration": 3.759
+  },
+  {
+    "text": "we're assigning",
+    "start": 284.72,
+    "duration": 3.039
+  },
+  {
+    "text": "arguments that we receive to the",
+    "start": 285.919,
+    "duration": 3.041
+  },
+  {
+    "text": "attributes of our car",
+    "start": 287.759,
+    "duration": 4.241
+  },
+  {
+    "text": "object and we also have two methods one",
+    "start": 288.96,
+    "duration": 4.48
+  },
+  {
+    "text": "for drive and one for stop",
+    "start": 292.0,
+    "duration": 2.96
+  },
+  {
+    "text": "now we can start creating some car",
+    "start": 293.44,
+    "duration": 4.08
+  },
+  {
+    "text": "objects so going back to my main file",
+    "start": 294.96,
+    "duration": 2.959
+  },
+  {
+    "text": "here",
+    "start": 297.52,
+    "duration": 2.32
+  },
+  {
+    "text": "to create an object we need a unique",
+    "start": 297.919,
+    "duration": 3.28
+  },
+  {
+    "text": "name for it let's call this",
+    "start": 299.84,
+    "duration": 4.48
+  },
+  {
+    "text": "first car just car one equals",
+    "start": 301.199,
+    "duration": 5.361
+  },
+  {
+    "text": "the name of the class car then a set of",
+    "start": 304.32,
+    "duration": 3.439
+  },
+  {
+    "text": "parentheses",
+    "start": 306.56,
+    "duration": 3.44
+  },
+  {
+    "text": "now in order to construct a car object",
+    "start": 307.759,
+    "duration": 3.921
+  },
+  {
+    "text": "we need to pass in a matching",
+    "start": 310.0,
+    "duration": 3.68
+  },
+  {
+    "text": "set of arguments you can see here that",
+    "start": 311.68,
+    "duration": 4.16
+  },
+  {
+    "text": "we need to pass in a make a model a year",
+    "start": 313.68,
+    "duration": 2.88
+  },
+  {
+    "text": "and a color",
+    "start": 315.84,
+    "duration": 2.72
+  },
+  {
+    "text": "so what kind of car should we make let's",
+    "start": 316.56,
+    "duration": 4.479
+  },
+  {
+    "text": "say that the make is going to be",
+    "start": 318.56,
+    "duration": 6.4
+  },
+  {
+    "text": "chevy we need a model",
+    "start": 321.039,
+    "duration": 6.961
+  },
+  {
+    "text": "perhaps corvette a",
+    "start": 324.96,
+    "duration": 6.4
+  },
+  {
+    "text": "year 2021 is good and a color let's say",
+    "start": 328.0,
+    "duration": 4.16
+  },
+  {
+    "text": "blue",
+    "start": 331.36,
+    "duration": 3.92
+  },
+  {
+    "text": "all right now let's actually access some",
+    "start": 332.16,
+    "duration": 4.8
+  },
+  {
+    "text": "of these cars attributes",
+    "start": 335.28,
+    "duration": 2.88
+  },
+  {
+    "text": "and i should probably put this one in a",
+    "start": 336.96,
+    "duration": 4.239
+  },
+  {
+    "text": "print statement so print car ones",
+    "start": 338.16,
+    "duration": 6.72
+  },
+  {
+    "text": "make and this should print chevy",
+    "start": 341.199,
+    "duration": 5.921
+  },
+  {
+    "text": "then we can do the same thing for model",
+    "start": 344.88,
+    "duration": 3.599
+  },
+  {
+    "text": "year and color",
+    "start": 347.12,
+    "duration": 3.72
+  },
+  {
+    "text": "so let's change some of these around",
+    "start": 348.479,
+    "duration": 3.681
+  },
+  {
+    "text": "model",
+    "start": 350.84,
+    "duration": 6.04
+  },
+  {
+    "text": "year and color",
+    "start": 352.16,
+    "duration": 4.72
+  },
+  {
+    "text": "yep this object is a chevy corvette 2021",
+    "start": 357.44,
+    "duration": 4.0
+  },
+  {
+    "text": "and the color is blue",
+    "start": 360.24,
+    "duration": 3.12
+  },
+  {
+    "text": "and we should have two methods as well",
+    "start": 361.44,
+    "duration": 4.24
+  },
+  {
+    "text": "so car one i would like this car to use",
+    "start": 363.36,
+    "duration": 4.559
+  },
+  {
+    "text": "its drive method",
+    "start": 365.68,
+    "duration": 4.639
+  },
+  {
+    "text": "this car is driving and let's have this",
+    "start": 367.919,
+    "duration": 4.0
+  },
+  {
+    "text": "car use its stop method",
+    "start": 370.319,
+    "duration": 5.6
+  },
+  {
+    "text": "car one dot stop",
+    "start": 371.919,
+    "duration": 4.0
+  },
+  {
+    "text": "this car is stopped there's one thing",
+    "start": 376.479,
+    "duration": 3.521
+  },
+  {
+    "text": "that i should mention real quick because",
+    "start": 378.4,
+    "duration": 4.0
+  },
+  {
+    "text": "i forgot to mention it earlier so within",
+    "start": 380.0,
+    "duration": 4.56
+  },
+  {
+    "text": "our init method you can see that we need",
+    "start": 382.4,
+    "duration": 4.32
+  },
+  {
+    "text": "five arguments in order to construct a",
+    "start": 384.56,
+    "duration": 3.199
+  },
+  {
+    "text": "car object",
+    "start": 386.72,
+    "duration": 4.0
+  },
+  {
+    "text": "self make model year in color but when",
+    "start": 387.759,
+    "duration": 4.72
+  },
+  {
+    "text": "we pass in our arguments",
+    "start": 390.72,
+    "duration": 3.84
+  },
+  {
+    "text": "we're not passing in anything for self",
+    "start": 392.479,
+    "duration": 4.081
+  },
+  {
+    "text": "we only have four arguments here",
+    "start": 394.56,
+    "duration": 4.16
+  },
+  {
+    "text": "that's because with python we do not",
+    "start": 396.56,
+    "duration": 3.6
+  },
+  {
+    "text": "need to pass itself",
+    "start": 398.72,
+    "duration": 3.759
+  },
+  {
+    "text": "that's done automatically for us we're",
+    "start": 400.16,
+    "duration": 4.0
+  },
+  {
+    "text": "referring to the object that we're",
+    "start": 402.479,
+    "duration": 2.401
+  },
+  {
+    "text": "dealing with",
+    "start": 404.16,
+    "duration": 2.72
+  },
+  {
+    "text": "as you can see with our drive and stop",
+    "start": 404.88,
+    "duration": 3.759
+  },
+  {
+    "text": "method we need to pass",
+    "start": 406.88,
+    "duration": 4.8
+  },
+  {
+    "text": "in self in order to execute our method",
+    "start": 408.639,
+    "duration": 4.801
+  },
+  {
+    "text": "but when we call this method we do not",
+    "start": 411.68,
+    "duration": 3.84
+  },
+  {
+    "text": "need to do so so just remember with",
+    "start": 413.44,
+    "duration": 4.319
+  },
+  {
+    "text": "python with self we do not need to pass",
+    "start": 415.52,
+    "duration": 3.84
+  },
+  {
+    "text": "in anything for this argument",
+    "start": 417.759,
+    "duration": 3.44
+  },
+  {
+    "text": "that is all now the nice thing about",
+    "start": 419.36,
+    "duration": 3.679
+  },
+  {
+    "text": "this is that we can reuse",
+    "start": 421.199,
+    "duration": 3.84
+  },
+  {
+    "text": "this class as a blueprint to create more",
+    "start": 423.039,
+    "duration": 3.44
+  },
+  {
+    "text": "car objects we just call",
+    "start": 425.039,
+    "duration": 3.841
+  },
+  {
+    "text": "that init method that constructor so",
+    "start": 426.479,
+    "duration": 3.84
+  },
+  {
+    "text": "this time let's create a second car",
+    "start": 428.88,
+    "duration": 1.759
+  },
+  {
+    "text": "called",
+    "start": 430.319,
+    "duration": 2.801
+  },
+  {
+    "text": "car 2 and this will be a different kind",
+    "start": 430.639,
+    "duration": 4.0
+  },
+  {
+    "text": "of car",
+    "start": 433.12,
+    "duration": 3.84
+  },
+  {
+    "text": "what kinds of arguments should we pass",
+    "start": 434.639,
+    "duration": 3.441
+  },
+  {
+    "text": "it let's say this is a",
+    "start": 436.96,
+    "duration": 4.32
+  },
+  {
+    "text": "ford mustang",
+    "start": 438.08,
+    "duration": 5.679
+  },
+  {
+    "text": "the year will be 2022 and the color will",
+    "start": 441.28,
+    "duration": 3.6
+  },
+  {
+    "text": "be red",
+    "start": 443.759,
+    "duration": 2.801
+  },
+  {
+    "text": "all right let's check car to use",
+    "start": 444.88,
+    "duration": 4.24
+  },
+  {
+    "text": "attributes",
+    "start": 446.56,
+    "duration": 2.56
+  },
+  {
+    "text": "and let's have car 2 use its drive and",
+    "start": 449.68,
+    "duration": 4.48
+  },
+  {
+    "text": "stop method",
+    "start": 452.16,
+    "duration": 3.68
+  },
+  {
+    "text": "this is a forward mustang the year is",
+    "start": 454.16,
+    "duration": 3.759
+  },
+  {
+    "text": "2022. the color is red this car is",
+    "start": 455.84,
+    "duration": 2.72
+  },
+  {
+    "text": "driving and",
+    "start": 457.919,
+    "duration": 2.56
+  },
+  {
+    "text": "this car is stopped one other thing that",
+    "start": 458.56,
+    "duration": 3.52
+  },
+  {
+    "text": "we can do too is that",
+    "start": 460.479,
+    "duration": 3.921
+  },
+  {
+    "text": "within our methods here let's replace",
+    "start": 462.08,
+    "duration": 4.16
+  },
+  {
+    "text": "car with the name of the model that",
+    "start": 464.4,
+    "duration": 2.96
+  },
+  {
+    "text": "we're working with",
+    "start": 466.24,
+    "duration": 4.16
+  },
+  {
+    "text": "so this plus",
+    "start": 467.36,
+    "duration": 6.08
+  },
+  {
+    "text": "self dot model plus",
+    "start": 470.4,
+    "duration": 6.239
+  },
+  {
+    "text": "is driving now this self keyword think",
+    "start": 473.44,
+    "duration": 4.24
+  },
+  {
+    "text": "of it as",
+    "start": 476.639,
+    "duration": 3.761
+  },
+  {
+    "text": "you're replacing self with the name of",
+    "start": 477.68,
+    "duration": 4.48
+  },
+  {
+    "text": "the object that we're working on",
+    "start": 480.4,
+    "duration": 4.72
+  },
+  {
+    "text": "if car one is using its drive method",
+    "start": 482.16,
+    "duration": 4.96
+  },
+  {
+    "text": "replace itself with car one",
+    "start": 485.12,
+    "duration": 3.759
+  },
+  {
+    "text": "if this is car two that called this",
+    "start": 487.12,
+    "duration": 3.84
+  },
+  {
+    "text": "method then replace itself with",
+    "start": 488.879,
+    "duration": 4.241
+  },
+  {
+    "text": "car 2. think of it that way and let's do",
+    "start": 490.96,
+    "duration": 5.12
+  },
+  {
+    "text": "the same thing for stop",
+    "start": 493.12,
+    "duration": 6.88
+  },
+  {
+    "text": "this plus self dot model",
+    "start": 496.08,
+    "duration": 7.28
+  },
+  {
+    "text": "plus is stopped all right probably don't",
+    "start": 500.0,
+    "duration": 4.56
+  },
+  {
+    "text": "need these anymore",
+    "start": 503.36,
+    "duration": 3.839
+  },
+  {
+    "text": "so let's have car one use its drive and",
+    "start": 504.56,
+    "duration": 4.319
+  },
+  {
+    "text": "stop method",
+    "start": 507.199,
+    "duration": 3.521
+  },
+  {
+    "text": "this corvette is driving this corvette",
+    "start": 508.879,
+    "duration": 5.201
+  },
+  {
+    "text": "is stopped let's try this with car two",
+    "start": 510.72,
+    "duration": 5.28
+  },
+  {
+    "text": "this mustang is driving this mustang is",
+    "start": 514.08,
+    "duration": 4.0
+  },
+  {
+    "text": "stopped now you can have them",
+    "start": 516.0,
+    "duration": 3.68
+  },
+  {
+    "text": "do things independently too let's have",
+    "start": 518.08,
+    "duration": 4.079
+  },
+  {
+    "text": "car 1 use its drive method and car 2 use",
+    "start": 519.68,
+    "duration": 4.08
+  },
+  {
+    "text": "the stop method",
+    "start": 522.159,
+    "duration": 3.441
+  },
+  {
+    "text": "this corvette is driving and this",
+    "start": 523.76,
+    "duration": 3.92
+  },
+  {
+    "text": "mustang has stopped in conclusion",
+    "start": 525.6,
+    "duration": 4.48
+  },
+  {
+    "text": "a class can function as a blueprint to",
+    "start": 527.68,
+    "duration": 3.52
+  },
+  {
+    "text": "create objects",
+    "start": 530.08,
+    "duration": 3.52
+  },
+  {
+    "text": "we can assign attributes what describe",
+    "start": 531.2,
+    "duration": 3.04
+  },
+  {
+    "text": "an object",
+    "start": 533.6,
+    "duration": 4.16
+  },
+  {
+    "text": "is or has and methods what each object",
+    "start": 534.24,
+    "duration": 6.08
+  },
+  {
+    "text": "can do and then within our class we have",
+    "start": 537.76,
+    "duration": 5.12
+  },
+  {
+    "text": "a special method called the init method",
+    "start": 540.32,
+    "duration": 5.28
+  },
+  {
+    "text": "we can pass in some arguments and assign",
+    "start": 542.88,
+    "duration": 3.6
+  },
+  {
+    "text": "these arguments",
+    "start": 545.6,
+    "duration": 3.6
+  },
+  {
+    "text": "to each object's attributes and then we",
+    "start": 546.48,
+    "duration": 3.6
+  },
+  {
+    "text": "can reuse",
+    "start": 549.2,
+    "duration": 3.12
+  },
+  {
+    "text": "this class as if it was a blueprint so",
+    "start": 550.08,
+    "duration": 3.12
+  },
+  {
+    "text": "we can create",
+    "start": 552.32,
+    "duration": 3.44
+  },
+  {
+    "text": "more objects out of it so that is the",
+    "start": 553.2,
+    "duration": 5.12
+  },
+  {
+    "text": "basics of object-oriented programming in",
+    "start": 555.76,
+    "duration": 3.199
+  },
+  {
+    "text": "python",
+    "start": 558.32,
+    "duration": 2.0
+  },
+  {
+    "text": "if you would like a copy of all this",
+    "start": 558.959,
+    "duration": 3.121
+  },
+  {
+    "text": "code i will post this in the comment",
+    "start": 560.32,
+    "duration": 3.12
+  },
+  {
+    "text": "section down below",
+    "start": 562.08,
+    "duration": 3.6
+  },
+  {
+    "text": "but yeah that's the basics of object",
+    "start": 563.44,
+    "duration": 3.36
+  },
+  {
+    "text": "oriented programming",
+    "start": 565.68,
+    "duration": 4.48
+  },
+  {
+    "text": "in python hey you",
+    "start": 566.8,
+    "duration": 5.2
+  },
+  {
+    "text": "yeah i'm talking to you if you learned",
+    "start": 570.16,
+    "duration": 3.52
+  },
+  {
+    "text": "something new then help me",
+    "start": 572.0,
+    "duration": 4.48
+  },
+  {
+    "text": "help you in three easy steps by smashing",
+    "start": 573.68,
+    "duration": 3.76
+  },
+  {
+    "text": "that like button",
+    "start": 576.48,
+    "duration": 3.28
+  },
+  {
+    "text": "drop a comment down below and subscribe",
+    "start": 577.44,
+    "duration": 12.65
+  },
+  {
+    "text": "if you'd like to become a fellow bro",
+    "start": 579.76,
+    "duration": 23.279
+  },
+  {
+    "text": "[Music]",
+    "start": 590.09,
+    "duration": 12.949
+  },
+  {
+    "text": "you",
+    "start": 603.44,
+    "duration": 2.079
+  }
+]

@@ -1,0 +1,1587 @@
+[
+  {
+    "text": "Translator: Leslie Gauthier\nReviewer: Camille Martínez",
+    "start": 0.0,
+    "duration": 7.0
+  },
+  {
+    "text": "How many of you are creatives,",
+    "start": 12.555,
+    "duration": 2.289
+  },
+  {
+    "text": "designers, engineers,\nentrepreneurs, artists,",
+    "start": 14.868,
+    "duration": 3.624
+  },
+  {
+    "text": "or maybe you just have\na really big imagination?",
+    "start": 18.516,
+    "duration": 2.387
+  },
+  {
+    "text": "Show of hands? (Cheers)",
+    "start": 20.927,
+    "duration": 1.848
+  },
+  {
+    "text": "That's most of you.",
+    "start": 22.799,
+    "duration": 1.181
+  },
+  {
+    "text": "I have some news for us creatives.",
+    "start": 25.154,
+    "duration": 2.294
+  },
+  {
+    "text": "Over the course of the next 20 years,",
+    "start": 28.534,
+    "duration": 2.573
+  },
+  {
+    "text": "more will change around\nthe way we do our work",
+    "start": 33.291,
+    "duration": 2.973
+  },
+  {
+    "text": "than has happened in the last 2,000.",
+    "start": 37.202,
+    "duration": 2.157
+  },
+  {
+    "text": "In fact, I think we're at the dawn\nof a new age in human history.",
+    "start": 40.331,
+    "duration": 4.628
+  },
+  {
+    "text": "Now, there have been four major historical\neras defined by the way we work.",
+    "start": 45.465,
+    "duration": 4.761
+  },
+  {
+    "text": "The Hunter-Gatherer Age\nlasted several million years.",
+    "start": 51.224,
+    "duration": 3.275
+  },
+  {
+    "text": "And then the Agricultural Age\nlasted several thousand years.",
+    "start": 54.983,
+    "duration": 3.576
+  },
+  {
+    "text": "The Industrial Age lasted\na couple of centuries.",
+    "start": 59.015,
+    "duration": 3.49
+  },
+  {
+    "text": "And now the Information Age\nhas lasted just a few decades.",
+    "start": 62.529,
+    "duration": 4.287
+  },
+  {
+    "text": "And now today, we're on the cusp\nof our next great era as a species.",
+    "start": 66.84,
+    "duration": 5.22
+  },
+  {
+    "text": "Welcome to the Augmented Age.",
+    "start": 73.116,
+    "duration": 2.68
+  },
+  {
+    "text": "In this new era, your natural human\ncapabilities are going to be augmented",
+    "start": 75.82,
+    "duration": 3.693
+  },
+  {
+    "text": "by computational systems\nthat help you think,",
+    "start": 79.537,
+    "duration": 3.068
+  },
+  {
+    "text": "robotic systems that help you make,",
+    "start": 82.629,
+    "duration": 2.186
+  },
+  {
+    "text": "and a digital nervous system",
+    "start": 84.839,
+    "duration": 1.648
+  },
+  {
+    "text": "that connects you to the world\nfar beyond your natural senses.",
+    "start": 86.511,
+    "duration": 3.69
+  },
+  {
+    "text": "Let's start with cognitive augmentation.",
+    "start": 91.257,
+    "duration": 1.942
+  },
+  {
+    "text": "How many of you are augmented cyborgs?",
+    "start": 93.223,
+    "duration": 2.2
+  },
+  {
+    "text": "(Laughter)",
+    "start": 95.953,
+    "duration": 2.65
+  },
+  {
+    "text": "I would actually argue\nthat we're already augmented.",
+    "start": 98.627,
+    "duration": 2.821
+  },
+  {
+    "text": "Imagine you're at a party,",
+    "start": 102.108,
+    "duration": 1.504
+  },
+  {
+    "text": "and somebody asks you a question\nthat you don't know the answer to.",
+    "start": 103.636,
+    "duration": 3.52
+  },
+  {
+    "text": "If you have one of these,\nin a few seconds, you can know the answer.",
+    "start": 107.18,
+    "duration": 3.76
+  },
+  {
+    "text": "But this is just a primitive beginning.",
+    "start": 111.689,
+    "duration": 2.299
+  },
+  {
+    "text": "Even Siri is just a passive tool.",
+    "start": 114.683,
+    "duration": 3.331
+  },
+  {
+    "text": "In fact, for the last\nthree-and-a-half million years,",
+    "start": 118.48,
+    "duration": 3.381
+  },
+  {
+    "text": "the tools that we've had\nhave been completely passive.",
+    "start": 121.885,
+    "duration": 3.109
+  },
+  {
+    "text": "They do exactly what we tell them\nand nothing more.",
+    "start": 126.023,
+    "duration": 3.655
+  },
+  {
+    "text": "Our very first tool only cut\nwhere we struck it.",
+    "start": 129.702,
+    "duration": 3.101
+  },
+  {
+    "text": "The chisel only carves\nwhere the artist points it.",
+    "start": 133.642,
+    "duration": 3.04
+  },
+  {
+    "text": "And even our most advanced tools\ndo nothing without our explicit direction.",
+    "start": 137.163,
+    "duration": 5.641
+  },
+  {
+    "text": "In fact, to date, and this\nis something that frustrates me,",
+    "start": 142.828,
+    "duration": 3.181
+  },
+  {
+    "text": "we've always been limited",
+    "start": 146.033,
+    "duration": 1.448
+  },
+  {
+    "text": "by this need to manually\npush our wills into our tools --",
+    "start": 147.505,
+    "duration": 3.501
+  },
+  {
+    "text": "like, manual,\nliterally using our hands,",
+    "start": 151.03,
+    "duration": 2.297
+  },
+  {
+    "text": "even with computers.",
+    "start": 153.351,
+    "duration": 1.428
+  },
+  {
+    "text": "But I'm more like Scotty in \"Star Trek.\"",
+    "start": 155.892,
+    "duration": 2.463
+  },
+  {
+    "text": "(Laughter)",
+    "start": 158.379,
+    "duration": 1.85
+  },
+  {
+    "text": "I want to have a conversation\nwith a computer.",
+    "start": 160.253,
+    "duration": 2.146
+  },
+  {
+    "text": "I want to say, \"Computer,\nlet's design a car,\"",
+    "start": 162.423,
+    "duration": 2.97
+  },
+  {
+    "text": "and the computer shows me a car.",
+    "start": 165.417,
+    "duration": 1.539
+  },
+  {
+    "text": "And I say, \"No, more fast-looking,\nand less German,\"",
+    "start": 166.98,
+    "duration": 2.608
+  },
+  {
+    "text": "and bang, the computer shows me an option.",
+    "start": 169.612,
+    "duration": 2.163
+  },
+  {
+    "text": "(Laughter)",
+    "start": 171.799,
+    "duration": 1.865
+  },
+  {
+    "text": "That conversation might be\na little ways off,",
+    "start": 174.028,
+    "duration": 2.306
+  },
+  {
+    "text": "probably less than many of us think,",
+    "start": 176.358,
+    "duration": 2.665
+  },
+  {
+    "text": "but right now,",
+    "start": 179.047,
+    "duration": 1.763
+  },
+  {
+    "text": "we're working on it.",
+    "start": 180.834,
+    "duration": 1.151
+  },
+  {
+    "text": "Tools are making this leap\nfrom being passive to being generative.",
+    "start": 182.009,
+    "duration": 4.033
+  },
+  {
+    "text": "Generative design tools\nuse a computer and algorithms",
+    "start": 186.651,
+    "duration": 3.308
+  },
+  {
+    "text": "to synthesize geometry",
+    "start": 189.983,
+    "duration": 2.608
+  },
+  {
+    "text": "to come up with new designs\nall by themselves.",
+    "start": 192.615,
+    "duration": 2.754
+  },
+  {
+    "text": "All it needs are your goals\nand your constraints.",
+    "start": 195.816,
+    "duration": 2.748
+  },
+  {
+    "text": "I'll give you an example.",
+    "start": 198.588,
+    "duration": 1.408
+  },
+  {
+    "text": "In the case of this aerial drone chassis,",
+    "start": 200.02,
+    "duration": 2.788
+  },
+  {
+    "text": "all you would need to do\nis tell it something like,",
+    "start": 202.832,
+    "duration": 2.626
+  },
+  {
+    "text": "it has four propellers,",
+    "start": 205.482,
+    "duration": 1.273
+  },
+  {
+    "text": "you want it to be\nas lightweight as possible,",
+    "start": 206.779,
+    "duration": 2.131
+  },
+  {
+    "text": "and you need it to be\naerodynamically efficient.",
+    "start": 208.934,
+    "duration": 2.27
+  },
+  {
+    "text": "Then what the computer does\nis it explores the entire solution space:",
+    "start": 211.228,
+    "duration": 4.914
+  },
+  {
+    "text": "every single possibility that solves\nand meets your criteria --",
+    "start": 216.166,
+    "duration": 3.927
+  },
+  {
+    "text": "millions of them.",
+    "start": 220.117,
+    "duration": 1.442
+  },
+  {
+    "text": "It takes big computers to do this.",
+    "start": 221.583,
+    "duration": 1.975
+  },
+  {
+    "text": "But it comes back to us with designs",
+    "start": 223.582,
+    "duration": 1.955
+  },
+  {
+    "text": "that we, by ourselves,\nnever could've imagined.",
+    "start": 225.561,
+    "duration": 3.143
+  },
+  {
+    "text": "And the computer's coming up\nwith this stuff all by itself --",
+    "start": 229.146,
+    "duration": 2.912
+  },
+  {
+    "text": "no one ever drew anything,",
+    "start": 232.082,
+    "duration": 1.678
+  },
+  {
+    "text": "and it started completely from scratch.",
+    "start": 233.784,
+    "duration": 2.086
+  },
+  {
+    "text": "And by the way, it's no accident",
+    "start": 236.858,
+    "duration": 2.387
+  },
+  {
+    "text": "that the drone body looks just like\nthe pelvis of a flying squirrel.",
+    "start": 239.269,
+    "duration": 3.481
+  },
+  {
+    "text": "(Laughter)",
+    "start": 243.107,
+    "duration": 2.007
+  },
+  {
+    "text": "It's because the algorithms\nare designed to work",
+    "start": 245.86,
+    "duration": 2.302
+  },
+  {
+    "text": "the same way evolution does.",
+    "start": 248.186,
+    "duration": 1.637
+  },
+  {
+    "text": "What's exciting is we're starting\nto see this technology",
+    "start": 250.535,
+    "duration": 2.66
+  },
+  {
+    "text": "out in the real world.",
+    "start": 253.219,
+    "duration": 1.159
+  },
+  {
+    "text": "We've been working with Airbus\nfor a couple of years",
+    "start": 254.402,
+    "duration": 2.452
+  },
+  {
+    "text": "on this concept plane for the future.",
+    "start": 256.878,
+    "duration": 1.909
+  },
+  {
+    "text": "It's a ways out still.",
+    "start": 258.811,
+    "duration": 2.07
+  },
+  {
+    "text": "But just recently we used\na generative-design AI",
+    "start": 260.905,
+    "duration": 3.78
+  },
+  {
+    "text": "to come up with this.",
+    "start": 264.709,
+    "duration": 1.807
+  },
+  {
+    "text": "This is a 3D-printed cabin partition\nthat's been designed by a computer.",
+    "start": 267.429,
+    "duration": 5.153
+  },
+  {
+    "text": "It's stronger than the original\nyet half the weight,",
+    "start": 272.606,
+    "duration": 2.824
+  },
+  {
+    "text": "and it will be flying\nin the Airbus A320 later this year.",
+    "start": 275.454,
+    "duration": 3.146
+  },
+  {
+    "text": "So computers can now generate;",
+    "start": 279.225,
+    "duration": 1.559
+  },
+  {
+    "text": "they can come up with their own solutions\nto our well-defined problems.",
+    "start": 280.808,
+    "duration": 4.595
+  },
+  {
+    "text": "But they're not intuitive.",
+    "start": 286.497,
+    "duration": 1.31
+  },
+  {
+    "text": "They still have to start from scratch\nevery single time,",
+    "start": 287.831,
+    "duration": 3.086
+  },
+  {
+    "text": "and that's because they never learn.",
+    "start": 290.941,
+    "duration": 2.565
+  },
+  {
+    "text": "Unlike Maggie.",
+    "start": 294.188,
+    "duration": 1.766
+  },
+  {
+    "text": "(Laughter)",
+    "start": 295.978,
+    "duration": 1.581
+  },
+  {
+    "text": "Maggie's actually smarter\nthan our most advanced design tools.",
+    "start": 297.583,
+    "duration": 3.297
+  },
+  {
+    "text": "What do I mean by that?",
+    "start": 301.287,
+    "duration": 1.44
+  },
+  {
+    "text": "If her owner picks up that leash,",
+    "start": 302.751,
+    "duration": 1.59
+  },
+  {
+    "text": "Maggie knows with a fair\ndegree of certainty",
+    "start": 304.365,
+    "duration": 2.068
+  },
+  {
+    "text": "it's time to go for a walk.",
+    "start": 306.457,
+    "duration": 1.404
+  },
+  {
+    "text": "And how did she learn?",
+    "start": 307.885,
+    "duration": 1.185
+  },
+  {
+    "text": "Well, every time the owner picked up\nthe leash, they went for a walk.",
+    "start": 309.094,
+    "duration": 3.324
+  },
+  {
+    "text": "And Maggie did three things:",
+    "start": 312.442,
+    "duration": 1.878
+  },
+  {
+    "text": "she had to pay attention,",
+    "start": 314.344,
+    "duration": 1.869
+  },
+  {
+    "text": "she had to remember what happened",
+    "start": 316.237,
+    "duration": 2.082
+  },
+  {
+    "text": "and she had to retain and create\na pattern in her mind.",
+    "start": 318.343,
+    "duration": 4.017
+  },
+  {
+    "text": "Interestingly, that's exactly what",
+    "start": 323.249,
+    "duration": 2.095
+  },
+  {
+    "text": "computer scientists\nhave been trying to get AIs to do",
+    "start": 325.368,
+    "duration": 2.523
+  },
+  {
+    "text": "for the last 60 or so years.",
+    "start": 327.915,
+    "duration": 1.859
+  },
+  {
+    "text": "Back in 1952,",
+    "start": 330.503,
+    "duration": 1.349
+  },
+  {
+    "text": "they built this computer\nthat could play Tic-Tac-Toe.",
+    "start": 331.876,
+    "duration": 3.801
+  },
+  {
+    "text": "Big deal.",
+    "start": 336.901,
+    "duration": 1.16
+  },
+  {
+    "text": "Then 45 years later, in 1997,",
+    "start": 338.849,
+    "duration": 3.0
+  },
+  {
+    "text": "Deep Blue beats Kasparov at chess.",
+    "start": 341.873,
+    "duration": 2.472
+  },
+  {
+    "text": "2011, Watson beats these two\nhumans at Jeopardy,",
+    "start": 345.866,
+    "duration": 4.968
+  },
+  {
+    "text": "which is much harder for a computer\nto play than chess is.",
+    "start": 350.858,
+    "duration": 2.928
+  },
+  {
+    "text": "In fact, rather than working\nfrom predefined recipes,",
+    "start": 353.81,
+    "duration": 3.812
+  },
+  {
+    "text": "Watson had to use reasoning\nto overcome his human opponents.",
+    "start": 357.646,
+    "duration": 3.323
+  },
+  {
+    "text": "And then a couple of weeks ago,",
+    "start": 362.213,
+    "duration": 2.439
+  },
+  {
+    "text": "DeepMind's AlphaGo beats\nthe world's best human at Go,",
+    "start": 364.676,
+    "duration": 4.262
+  },
+  {
+    "text": "which is the most difficult\ngame that we have.",
+    "start": 368.962,
+    "duration": 2.212
+  },
+  {
+    "text": "In fact, in Go, there are more\npossible moves",
+    "start": 371.198,
+    "duration": 2.896
+  },
+  {
+    "text": "than there are atoms in the universe.",
+    "start": 374.118,
+    "duration": 2.024
+  },
+  {
+    "text": "So in order to win,",
+    "start": 378.03,
+    "duration": 1.826
+  },
+  {
+    "text": "what AlphaGo had to do\nwas develop intuition.",
+    "start": 379.88,
+    "duration": 2.618
+  },
+  {
+    "text": "And in fact, at some points,\nAlphaGo's programmers didn't understand",
+    "start": 382.918,
+    "duration": 4.11
+  },
+  {
+    "text": "why AlphaGo was doing what it was doing.",
+    "start": 387.052,
+    "duration": 2.286
+  },
+  {
+    "text": "And things are moving really fast.",
+    "start": 391.271,
+    "duration": 1.66
+  },
+  {
+    "text": "I mean, consider --\nin the space of a human lifetime,",
+    "start": 392.955,
+    "duration": 3.227
+  },
+  {
+    "text": "computers have gone from a child's game",
+    "start": 396.206,
+    "duration": 2.233
+  },
+  {
+    "text": "to what's recognized as the pinnacle\nof strategic thought.",
+    "start": 399.74,
+    "duration": 3.048
+  },
+  {
+    "text": "What's basically happening",
+    "start": 403.819,
+    "duration": 2.417
+  },
+  {
+    "text": "is computers are going\nfrom being like Spock",
+    "start": 406.26,
+    "duration": 3.31
+  },
+  {
+    "text": "to being a lot more like Kirk.",
+    "start": 409.594,
+    "duration": 1.949
+  },
+  {
+    "text": "(Laughter)",
+    "start": 411.567,
+    "duration": 3.618
+  },
+  {
+    "text": "Right? From pure logic to intuition.",
+    "start": 415.209,
+    "duration": 3.424
+  },
+  {
+    "text": "Would you cross this bridge?",
+    "start": 420.004,
+    "duration": 1.743
+  },
+  {
+    "text": "Most of you are saying, \"Oh, hell no!\"",
+    "start": 422.429,
+    "duration": 2.323
+  },
+  {
+    "text": "(Laughter)",
+    "start": 424.776,
+    "duration": 1.308
+  },
+  {
+    "text": "And you arrived at that decision\nin a split second.",
+    "start": 426.108,
+    "duration": 2.657
+  },
+  {
+    "text": "You just sort of knew\nthat bridge was unsafe.",
+    "start": 428.789,
+    "duration": 2.428
+  },
+  {
+    "text": "And that's exactly the kind of intuition",
+    "start": 431.241,
+    "duration": 1.989
+  },
+  {
+    "text": "that our deep-learning systems\nare starting to develop right now.",
+    "start": 433.254,
+    "duration": 3.568
+  },
+  {
+    "text": "Very soon, you'll literally be able",
+    "start": 437.542,
+    "duration": 1.707
+  },
+  {
+    "text": "to show something you've made,\nyou've designed,",
+    "start": 439.273,
+    "duration": 2.206
+  },
+  {
+    "text": "to a computer,",
+    "start": 441.503,
+    "duration": 1.153
+  },
+  {
+    "text": "and it will look at it and say,",
+    "start": 442.68,
+    "duration": 1.489
+  },
+  {
+    "text": "\"Sorry, homie, that'll never work.\nYou have to try again.\"",
+    "start": 444.193,
+    "duration": 2.823
+  },
+  {
+    "text": "Or you could ask it if people\nare going to like your next song,",
+    "start": 447.674,
+    "duration": 3.07
+  },
+  {
+    "text": "or your next flavor of ice cream.",
+    "start": 451.593,
+    "duration": 2.063
+  },
+  {
+    "text": "Or, much more importantly,",
+    "start": 455.369,
+    "duration": 2.579
+  },
+  {
+    "text": "you could work with a computer\nto solve a problem",
+    "start": 457.972,
+    "duration": 2.364
+  },
+  {
+    "text": "that we've never faced before.",
+    "start": 460.36,
+    "duration": 1.637
+  },
+  {
+    "text": "For instance, climate change.",
+    "start": 462.021,
+    "duration": 1.401
+  },
+  {
+    "text": "We're not doing a very\ngood job on our own,",
+    "start": 463.446,
+    "duration": 2.02
+  },
+  {
+    "text": "we could certainly use\nall the help we can get.",
+    "start": 465.49,
+    "duration": 2.245
+  },
+  {
+    "text": "That's what I'm talking about,",
+    "start": 467.759,
+    "duration": 1.458
+  },
+  {
+    "text": "technology amplifying\nour cognitive abilities",
+    "start": 469.241,
+    "duration": 2.555
+  },
+  {
+    "text": "so we can imagine and design things\nthat were simply out of our reach",
+    "start": 471.82,
+    "duration": 3.552
+  },
+  {
+    "text": "as plain old un-augmented humans.",
+    "start": 475.396,
+    "duration": 2.559
+  },
+  {
+    "text": "So what about making\nall of this crazy new stuff",
+    "start": 479.804,
+    "duration": 2.941
+  },
+  {
+    "text": "that we're going to invent and design?",
+    "start": 482.769,
+    "duration": 2.441
+  },
+  {
+    "text": "I think the era of human augmentation\nis as much about the physical world",
+    "start": 485.772,
+    "duration": 4.093
+  },
+  {
+    "text": "as it is about the virtual,\nintellectual realm.",
+    "start": 489.889,
+    "duration": 3.065
+  },
+  {
+    "text": "How will technology augment us?",
+    "start": 493.653,
+    "duration": 1.921
+  },
+  {
+    "text": "In the physical world, robotic systems.",
+    "start": 496.081,
+    "duration": 2.473
+  },
+  {
+    "text": "OK, there's certainly a fear",
+    "start": 499.44,
+    "duration": 1.736
+  },
+  {
+    "text": "that robots are going to take\njobs away from humans,",
+    "start": 501.2,
+    "duration": 2.488
+  },
+  {
+    "text": "and that is true in certain sectors.",
+    "start": 503.712,
+    "duration": 1.83
+  },
+  {
+    "text": "But I'm much more interested in this idea",
+    "start": 505.994,
+    "duration": 2.878
+  },
+  {
+    "text": "that humans and robots working together\nare going to augment each other,",
+    "start": 508.896,
+    "duration": 5.01
+  },
+  {
+    "text": "and start to inhabit a new space.",
+    "start": 513.93,
+    "duration": 2.058
+  },
+  {
+    "text": "This is our applied research lab\nin San Francisco,",
+    "start": 516.012,
+    "duration": 2.362
+  },
+  {
+    "text": "where one of our areas of focus\nis advanced robotics,",
+    "start": 518.398,
+    "duration": 3.142
+  },
+  {
+    "text": "specifically, human-robot collaboration.",
+    "start": 521.564,
+    "duration": 2.511
+  },
+  {
+    "text": "And this is Bishop, one of our robots.",
+    "start": 524.854,
+    "duration": 2.759
+  },
+  {
+    "text": "As an experiment, we set it up",
+    "start": 527.637,
+    "duration": 1.789
+  },
+  {
+    "text": "to help a person working in construction\ndoing repetitive tasks --",
+    "start": 529.45,
+    "duration": 3.46
+  },
+  {
+    "text": "tasks like cutting out holes for outlets\nor light switches in drywall.",
+    "start": 533.804,
+    "duration": 4.194
+  },
+  {
+    "text": "(Laughter)",
+    "start": 538.022,
+    "duration": 2.466
+  },
+  {
+    "text": "So, Bishop's human partner\ncan tell what to do in plain English",
+    "start": 541.697,
+    "duration": 3.111
+  },
+  {
+    "text": "and with simple gestures,",
+    "start": 544.832,
+    "duration": 1.305
+  },
+  {
+    "text": "kind of like talking to a dog,",
+    "start": 546.161,
+    "duration": 1.447
+  },
+  {
+    "text": "and then Bishop executes\non those instructions",
+    "start": 547.632,
+    "duration": 2.143
+  },
+  {
+    "text": "with perfect precision.",
+    "start": 549.799,
+    "duration": 1.892
+  },
+  {
+    "text": "We're using the human\nfor what the human is good at:",
+    "start": 551.715,
+    "duration": 2.989
+  },
+  {
+    "text": "awareness, perception and decision making.",
+    "start": 554.728,
+    "duration": 2.333
+  },
+  {
+    "text": "And we're using the robot\nfor what it's good at:",
+    "start": 557.085,
+    "duration": 2.24
+  },
+  {
+    "text": "precision and repetitiveness.",
+    "start": 559.349,
+    "duration": 1.748
+  },
+  {
+    "text": "Here's another cool project\nthat Bishop worked on.",
+    "start": 562.072,
+    "duration": 2.367
+  },
+  {
+    "text": "The goal of this project,\nwhich we called the HIVE,",
+    "start": 564.463,
+    "duration": 3.075
+  },
+  {
+    "text": "was to prototype the experience\nof humans, computers and robots",
+    "start": 567.562,
+    "duration": 3.851
+  },
+  {
+    "text": "all working together to solve\na highly complex design problem.",
+    "start": 571.437,
+    "duration": 3.22
+  },
+  {
+    "text": "The humans acted as labor.",
+    "start": 575.613,
+    "duration": 1.451
+  },
+  {
+    "text": "They cruised around the construction site,\nthey manipulated the bamboo --",
+    "start": 577.088,
+    "duration": 3.473
+  },
+  {
+    "text": "which, by the way,\nbecause it's a non-isomorphic material,",
+    "start": 580.585,
+    "duration": 2.756
+  },
+  {
+    "text": "is super hard for robots to deal with.",
+    "start": 583.365,
+    "duration": 1.874
+  },
+  {
+    "text": "But then the robots\ndid this fiber winding,",
+    "start": 585.263,
+    "duration": 2.022
+  },
+  {
+    "text": "which was almost impossible\nfor a human to do.",
+    "start": 587.309,
+    "duration": 2.451
+  },
+  {
+    "text": "And then we had an AI\nthat was controlling everything.",
+    "start": 589.784,
+    "duration": 3.621
+  },
+  {
+    "text": "It was telling the humans what to do,\ntelling the robots what to do",
+    "start": 593.429,
+    "duration": 3.29
+  },
+  {
+    "text": "and keeping track of thousands\nof individual components.",
+    "start": 596.743,
+    "duration": 2.915
+  },
+  {
+    "text": "What's interesting is,",
+    "start": 599.682,
+    "duration": 1.18
+  },
+  {
+    "text": "building this pavilion\nwas simply not possible",
+    "start": 600.886,
+    "duration": 3.141
+  },
+  {
+    "text": "without human, robot and AI\naugmenting each other.",
+    "start": 604.051,
+    "duration": 4.524
+  },
+  {
+    "text": "OK, I'll share one more project.\nThis one's a little bit crazy.",
+    "start": 609.71,
+    "duration": 3.32
+  },
+  {
+    "text": "We're working with Amsterdam-based artist\nJoris Laarman and his team at MX3D",
+    "start": 613.054,
+    "duration": 4.468
+  },
+  {
+    "text": "to generatively design\nand robotically print",
+    "start": 617.546,
+    "duration": 2.878
+  },
+  {
+    "text": "the world's first autonomously\nmanufactured bridge.",
+    "start": 620.448,
+    "duration": 2.995
+  },
+  {
+    "text": "So, Joris and an AI are designing\nthis thing right now, as we speak,",
+    "start": 624.135,
+    "duration": 3.685
+  },
+  {
+    "text": "in Amsterdam.",
+    "start": 627.844,
+    "duration": 1.172
+  },
+  {
+    "text": "And when they're done,\nwe're going to hit \"Go,\"",
+    "start": 629.04,
+    "duration": 2.321
+  },
+  {
+    "text": "and robots will start 3D printing\nin stainless steel,",
+    "start": 631.385,
+    "duration": 3.311
+  },
+  {
+    "text": "and then they're going to keep printing,\nwithout human intervention,",
+    "start": 634.72,
+    "duration": 3.283
+  },
+  {
+    "text": "until the bridge is finished.",
+    "start": 638.027,
+    "duration": 1.558
+  },
+  {
+    "text": "So, as computers are going\nto augment our ability",
+    "start": 640.919,
+    "duration": 2.928
+  },
+  {
+    "text": "to imagine and design new stuff,",
+    "start": 643.871,
+    "duration": 2.15
+  },
+  {
+    "text": "robotic systems are going to help us\nbuild and make things",
+    "start": 646.045,
+    "duration": 2.895
+  },
+  {
+    "text": "that we've never been able to make before.",
+    "start": 648.964,
+    "duration": 2.084
+  },
+  {
+    "text": "But what about our ability\nto sense and control these things?",
+    "start": 652.167,
+    "duration": 4.16
+  },
+  {
+    "text": "What about a nervous system\nfor the things that we make?",
+    "start": 656.351,
+    "duration": 4.031
+  },
+  {
+    "text": "Our nervous system,\nthe human nervous system,",
+    "start": 660.406,
+    "duration": 2.512
+  },
+  {
+    "text": "tells us everything\nthat's going on around us.",
+    "start": 662.942,
+    "duration": 2.311
+  },
+  {
+    "text": "But the nervous system of the things\nwe make is rudimentary at best.",
+    "start": 666.006,
+    "duration": 3.684
+  },
+  {
+    "text": "For instance, a car doesn't tell\nthe city's public works department",
+    "start": 669.714,
+    "duration": 3.563
+  },
+  {
+    "text": "that it just hit a pothole at the corner\nof Broadway and Morrison.",
+    "start": 673.301,
+    "duration": 3.13
+  },
+  {
+    "text": "A building doesn't tell its designers",
+    "start": 676.455,
+    "duration": 2.032
+  },
+  {
+    "text": "whether or not the people inside\nlike being there,",
+    "start": 678.511,
+    "duration": 2.684
+  },
+  {
+    "text": "and the toy manufacturer doesn't know",
+    "start": 681.219,
+    "duration": 3.01
+  },
+  {
+    "text": "if a toy is actually being played with --",
+    "start": 684.253,
+    "duration": 2.007
+  },
+  {
+    "text": "how and where and whether\nor not it's any fun.",
+    "start": 686.284,
+    "duration": 2.539
+  },
+  {
+    "text": "Look, I'm sure that the designers\nimagined this lifestyle for Barbie",
+    "start": 689.44,
+    "duration": 3.814
+  },
+  {
+    "text": "when they designed her.",
+    "start": 693.278,
+    "duration": 1.224
+  },
+  {
+    "text": "(Laughter)",
+    "start": 694.526,
+    "duration": 1.447
+  },
+  {
+    "text": "But what if it turns out that Barbie's\nactually really lonely?",
+    "start": 695.997,
+    "duration": 2.906
+  },
+  {
+    "text": "(Laughter)",
+    "start": 698.927,
+    "duration": 3.147
+  },
+  {
+    "text": "If the designers had known",
+    "start": 703.086,
+    "duration": 1.288
+  },
+  {
+    "text": "what was really happening\nin the real world",
+    "start": 704.398,
+    "duration": 2.107
+  },
+  {
+    "text": "with their designs -- the road,\nthe building, Barbie --",
+    "start": 706.529,
+    "duration": 2.583
+  },
+  {
+    "text": "they could've used that knowledge\nto create an experience",
+    "start": 709.136,
+    "duration": 2.694
+  },
+  {
+    "text": "that was better for the user.",
+    "start": 711.854,
+    "duration": 1.4
+  },
+  {
+    "text": "What's missing is a nervous system",
+    "start": 713.278,
+    "duration": 1.791
+  },
+  {
+    "text": "connecting us to all of the things\nthat we design, make and use.",
+    "start": 715.093,
+    "duration": 3.709
+  },
+  {
+    "text": "What if all of you had that kind\nof information flowing to you",
+    "start": 719.735,
+    "duration": 3.555
+  },
+  {
+    "text": "from the things you create\nin the real world?",
+    "start": 723.314,
+    "duration": 2.183
+  },
+  {
+    "text": "With all of the stuff we make,",
+    "start": 727.252,
+    "duration": 1.451
+  },
+  {
+    "text": "we spend a tremendous amount\nof money and energy --",
+    "start": 728.727,
+    "duration": 2.435
+  },
+  {
+    "text": "in fact, last year,\nabout two trillion dollars --",
+    "start": 731.186,
+    "duration": 2.376
+  },
+  {
+    "text": "convincing people to buy\nthe things we've made.",
+    "start": 733.586,
+    "duration": 2.854
+  },
+  {
+    "text": "But if you had this connection\nto the things that you design and create",
+    "start": 736.464,
+    "duration": 3.388
+  },
+  {
+    "text": "after they're out in the real world,",
+    "start": 739.876,
+    "duration": 1.727
+  },
+  {
+    "text": "after they've been sold\nor launched or whatever,",
+    "start": 741.627,
+    "duration": 3.614
+  },
+  {
+    "text": "we could actually change that,",
+    "start": 745.265,
+    "duration": 1.62
+  },
+  {
+    "text": "and go from making people want our stuff,",
+    "start": 746.909,
+    "duration": 3.047
+  },
+  {
+    "text": "to just making stuff that people\nwant in the first place.",
+    "start": 749.98,
+    "duration": 3.434
+  },
+  {
+    "text": "The good news is, we're working\non digital nervous systems",
+    "start": 753.438,
+    "duration": 2.787
+  },
+  {
+    "text": "that connect us to the things we design.",
+    "start": 756.249,
+    "duration": 2.801
+  },
+  {
+    "text": "We're working on one project",
+    "start": 760.185,
+    "duration": 1.627
+  },
+  {
+    "text": "with a couple of guys down in Los Angeles\ncalled the Bandito Brothers",
+    "start": 761.836,
+    "duration": 3.712
+  },
+  {
+    "text": "and their team.",
+    "start": 765.572,
+    "duration": 1.407
+  },
+  {
+    "text": "And one of the things these guys do\nis build insane cars",
+    "start": 767.003,
+    "duration": 3.433
+  },
+  {
+    "text": "that do absolutely insane things.",
+    "start": 770.46,
+    "duration": 2.873
+  },
+  {
+    "text": "These guys are crazy --",
+    "start": 774.725,
+    "duration": 1.45
+  },
+  {
+    "text": "(Laughter)",
+    "start": 776.199,
+    "duration": 1.036
+  },
+  {
+    "text": "in the best way.",
+    "start": 777.259,
+    "duration": 1.403
+  },
+  {
+    "text": "And what we're doing with them",
+    "start": 780.813,
+    "duration": 1.763
+  },
+  {
+    "text": "is taking a traditional race-car chassis",
+    "start": 782.6,
+    "duration": 2.44
+  },
+  {
+    "text": "and giving it a nervous system.",
+    "start": 785.064,
+    "duration": 1.585
+  },
+  {
+    "text": "So we instrumented it\nwith dozens of sensors,",
+    "start": 786.673,
+    "duration": 3.058
+  },
+  {
+    "text": "put a world-class driver behind the wheel,",
+    "start": 789.755,
+    "duration": 2.635
+  },
+  {
+    "text": "took it out to the desert\nand drove the hell out of it for a week.",
+    "start": 792.414,
+    "duration": 3.357
+  },
+  {
+    "text": "And the car's nervous system\ncaptured everything",
+    "start": 795.795,
+    "duration": 2.491
+  },
+  {
+    "text": "that was happening to the car.",
+    "start": 798.31,
+    "duration": 1.482
+  },
+  {
+    "text": "We captured four billion data points;",
+    "start": 799.816,
+    "duration": 2.621
+  },
+  {
+    "text": "all of the forces\nthat it was subjected to.",
+    "start": 802.461,
+    "duration": 2.31
+  },
+  {
+    "text": "And then we did something crazy.",
+    "start": 804.795,
+    "duration": 1.659
+  },
+  {
+    "text": "We took all of that data,",
+    "start": 807.088,
+    "duration": 1.5
+  },
+  {
+    "text": "and plugged it into a generative-design AI\nwe call \"Dreamcatcher.\"",
+    "start": 808.612,
+    "duration": 3.736
+  },
+  {
+    "text": "So what do get when you give\na design tool a nervous system,",
+    "start": 813.09,
+    "duration": 3.964
+  },
+  {
+    "text": "and you ask it to build you\nthe ultimate car chassis?",
+    "start": 817.078,
+    "duration": 2.882
+  },
+  {
+    "text": "You get this.",
+    "start": 820.543,
+    "duration": 1.973
+  },
+  {
+    "text": "This is something that a human\ncould never have designed.",
+    "start": 824.113,
+    "duration": 3.713
+  },
+  {
+    "text": "Except a human did design this,",
+    "start": 828.527,
+    "duration": 1.888
+  },
+  {
+    "text": "but it was a human that was augmented\nby a generative-design AI,",
+    "start": 830.439,
+    "duration": 4.309
+  },
+  {
+    "text": "a digital nervous system",
+    "start": 834.772,
+    "duration": 1.231
+  },
+  {
+    "text": "and robots that can actually\nfabricate something like this.",
+    "start": 836.027,
+    "duration": 3.005
+  },
+  {
+    "text": "So if this is the future,\nthe Augmented Age,",
+    "start": 839.5,
+    "duration": 3.595
+  },
+  {
+    "text": "and we're going to be augmented\ncognitively, physically and perceptually,",
+    "start": 843.119,
+    "duration": 4.261
+  },
+  {
+    "text": "what will that look like?",
+    "start": 847.404,
+    "duration": 1.408
+  },
+  {
+    "text": "What is this wonderland going to be like?",
+    "start": 849.396,
+    "duration": 3.321
+  },
+  {
+    "text": "I think we're going to see a world",
+    "start": 852.741,
+    "duration": 1.709
+  },
+  {
+    "text": "where we're moving\nfrom things that are fabricated",
+    "start": 854.474,
+    "duration": 3.068
+  },
+  {
+    "text": "to things that are farmed.",
+    "start": 857.566,
+    "duration": 1.445
+  },
+  {
+    "text": "Where we're moving from things\nthat are constructed",
+    "start": 859.979,
+    "duration": 3.453
+  },
+  {
+    "text": "to that which is grown.",
+    "start": 863.456,
+    "duration": 1.704
+  },
+  {
+    "text": "We're going to move from being isolated",
+    "start": 865.954,
+    "duration": 2.188
+  },
+  {
+    "text": "to being connected.",
+    "start": 868.166,
+    "duration": 1.61
+  },
+  {
+    "text": "And we'll move away from extraction",
+    "start": 870.454,
+    "duration": 2.411
+  },
+  {
+    "text": "to embrace aggregation.",
+    "start": 872.889,
+    "duration": 1.873
+  },
+  {
+    "text": "I also think we'll shift\nfrom craving obedience from our things",
+    "start": 875.787,
+    "duration": 3.767
+  },
+  {
+    "text": "to valuing autonomy.",
+    "start": 879.578,
+    "duration": 1.641
+  },
+  {
+    "text": "Thanks to our augmented capabilities,",
+    "start": 882.33,
+    "duration": 1.905
+  },
+  {
+    "text": "our world is going to change dramatically.",
+    "start": 884.259,
+    "duration": 2.377
+  },
+  {
+    "text": "We're going to have a world\nwith more variety, more connectedness,",
+    "start": 887.396,
+    "duration": 3.246
+  },
+  {
+    "text": "more dynamism, more complexity,",
+    "start": 890.666,
+    "duration": 2.287
+  },
+  {
+    "text": "more adaptability and, of course,",
+    "start": 892.977,
+    "duration": 2.318
+  },
+  {
+    "text": "more beauty.",
+    "start": 895.319,
+    "duration": 1.217
+  },
+  {
+    "text": "The shape of things to come",
+    "start": 897.051,
+    "duration": 1.564
+  },
+  {
+    "text": "will be unlike anything\nwe've ever seen before.",
+    "start": 898.639,
+    "duration": 2.29
+  },
+  {
+    "text": "Why?",
+    "start": 900.953,
+    "duration": 1.159
+  },
+  {
+    "text": "Because what will be shaping those things\nis this new partnership",
+    "start": 902.136,
+    "duration": 3.755
+  },
+  {
+    "text": "between technology, nature and humanity.",
+    "start": 905.915,
+    "duration": 3.67
+  },
+  {
+    "text": "That, to me, is a future\nwell worth looking forward to.",
+    "start": 911.099,
+    "duration": 3.804
+  },
+  {
+    "text": "Thank you all so much.",
+    "start": 914.927,
+    "duration": 1.271
+  },
+  {
+    "text": "(Applause)",
+    "start": 916.222,
+    "duration": 5.669
+  }
+]

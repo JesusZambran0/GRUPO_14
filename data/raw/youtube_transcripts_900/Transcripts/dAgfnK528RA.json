@@ -1,0 +1,582 @@
+[
+  {
+    "text": "Hi and welcome to Math Antics.",
+    "start": 6.857,
+    "duration": 1.867
+  },
+  {
+    "text": "Today we’re gonna talk about an important math concept called Order of Operations.",
+    "start": 8.724,
+    "duration": 5.352
+  },
+  {
+    "text": "Order of Operations is just a set of math rules that tell you which math operations (like addition or multiplication) to do first.",
+    "start": 14.076,
+    "duration": 7.735
+  },
+  {
+    "text": "Now you might be wondering (especially if you’re a teenager),",
+    "start": 21.811,
+    "duration": 3.153
+  },
+  {
+    "text": "“Why do I need RULES to tell me which operations to do first?  Can’t I just do them in any order I want?”",
+    "start": 24.964,
+    "duration": 6.069
+  },
+  {
+    "text": "Well, that’s a really good questions!",
+    "start": 31.033,
+    "duration": 1.933
+  },
+  {
+    "text": "And to answer it, we’re going to give two TOTALLY different people the SAME math problem to solve.",
+    "start": 32.966,
+    "duration": 5.268
+  },
+  {
+    "text": "The problem is: 2 + 5 × 4",
+    "start": 38.234,
+    "duration": 3.468
+  },
+  {
+    "text": "Hmmm… I like addition better than multiplication, so I’m gonna do that first!",
+    "start": 41.702,
+    "duration": 5.586
+  },
+  {
+    "text": "Let’s see… 2 + 5 gives us 7.  And then I just multiply that 7 by the 4 and I get 28.",
+    "start": 47.288,
+    "duration": 6.5
+  },
+  {
+    "text": "That was easy!  But you’d better not copy my answer!",
+    "start": 53.788,
+    "duration": 3.1
+  },
+  {
+    "text": "Uh, don’t worry… I’m not gonna copy your answer, cuz I want the RIGHT answer!",
+    "start": 56.888,
+    "duration": 5.032
+  },
+  {
+    "text": "And I prefer multiplying, so I’m going to do THAT first.",
+    "start": 61.926,
+    "duration": 3.718
+  },
+  {
+    "text": "Let’s see… 4 × 5 = 20, and THEN I’ll add the 2 which gives me 22 for a final answer.",
+    "start": 65.644,
+    "duration": 7.102
+  },
+  {
+    "text": "What makes you think THAT’S the right answer?  All my calculations were correct.",
+    "start": 72.746,
+    "duration": 4.036
+  },
+  {
+    "text": "I even checked it with a calculator!",
+    "start": 76.782,
+    "duration": 2.06
+  },
+  {
+    "text": "Pfffff - the only calculator I need is right up here!",
+    "start": 78.842,
+    "duration": 3.675
+  },
+  {
+    "text": "And the correct answer is… boop, boop, boop boop, boop…. 22!",
+    "start": 82.517,
+    "duration": 5.24
+  },
+  {
+    "text": "Okay, so which one of these guys do you think is right?  Neither one made any mistakes with the calculations.",
+    "start": 87.76,
+    "duration": 6.24
+  },
+  {
+    "text": "They just did the operations in a different order and got DIFFERENT answers!",
+    "start": 94.004,
+    "duration": 4.56
+  },
+  {
+    "text": "Well… since there were no mistakes, in a way, they were BOTH right!",
+    "start": 98.564,
+    "duration": 3.727
+  },
+  {
+    "text": "But math would be a VERY confusing subject if there were different answers to the same problem.",
+    "start": 102.291,
+    "duration": 4.985
+  },
+  {
+    "text": "And that’s where Order of Operations can help us out.",
+    "start": 107.276,
+    "duration": 3.468
+  },
+  {
+    "text": "The Order of Operations Rules are a way for us all to agree on the order that you should do math operations in.",
+    "start": 110.744,
+    "duration": 5.651
+  },
+  {
+    "text": "And if we always do operations in the same order, then we’ll always get the same answer.",
+    "start": 116.395,
+    "duration": 5.453
+  },
+  {
+    "text": "So now that you know WHY we need Order of Operations rules, let’s find out what those rules are.",
+    "start": 121.848,
+    "duration": 5.118
+  },
+  {
+    "text": "There’re basically four of them and they go something like this:",
+    "start": 126.966,
+    "duration": 3.16
+  },
+  {
+    "text": "FIRST: do operation in parentheses and brackets",
+    "start": 130.126,
+    "duration": 3.494
+  },
+  {
+    "text": "NEXT: do exponents",
+    "start": 133.62,
+    "duration": 2.22
+  },
+  {
+    "text": "THEN: do multiplication and division",
+    "start": 135.84,
+    "duration": 2.82
+  },
+  {
+    "text": "LAST: do addition and subtraction",
+    "start": 138.66,
+    "duration": 3.12
+  },
+  {
+    "text": "Let’s take a closer look at each one of these rules, and see some examples where they will help us.",
+    "start": 141.78,
+    "duration": 4.54
+  },
+  {
+    "text": "First on the list was:  do operations in parentheses and brackets.",
+    "start": 146.323,
+    "duration": 4.302
+  },
+  {
+    "text": "Now in case you haven’t seen parentheses or brackets used in math before, let me briefly explain how they work.",
+    "start": 150.625,
+    "duration": 5.884
+  },
+  {
+    "text": "Parentheses are just these symbols that curve forwards and backwards, and they’re used in pairs like this.",
+    "start": 156.509,
+    "duration": 6.119
+  },
+  {
+    "text": "And when we put numbers and operators in between them, it forms a group.",
+    "start": 162.628,
+    "duration": 3.985
+  },
+  {
+    "text": "It’s almost like the parentheses form a package to hold whatever math stuff we put inside them.",
+    "start": 166.613,
+    "duration": 5.503
+  },
+  {
+    "text": "And brackets work exactly the same way as parentheses.",
+    "start": 172.116,
+    "duration": 3.167
+  },
+  {
+    "text": "They just have a different shape that looks a little more boxy, but they mean exactly the same thing.",
+    "start": 175.283,
+    "duration": 5.603
+  },
+  {
+    "text": "So parentheses and brackets are used to group things together, and our rules tell us to do any operations inside these groups FIRST.",
+    "start": 180.886,
+    "duration": 8.674
+  },
+  {
+    "text": "For example, have a look at this problem: 10 × (4 + 5)",
+    "start": 189.56,
+    "duration": 4.74
+  },
+  {
+    "text": "It has 3 numbers and 2 operations: multiplication and addition.",
+    "start": 194.307,
+    "duration": 4.267
+  },
+  {
+    "text": "But 2 of the numbers and the addition symbol are inside parentheses.",
+    "start": 198.574,
+    "duration": 4.084
+  },
+  {
+    "text": "That means that they form a group and we need to do that part of the problem first.",
+    "start": 202.658,
+    "duration": 4.32
+  },
+  {
+    "text": "4 + 5 = 9, so the part inside the parentheses can just be replaced with the simplified value 9.",
+    "start": 206.98,
+    "duration": 6.88
+  },
+  {
+    "text": "Oh… and once you do the math that’s inside parentheses and get a single number like this,",
+    "start": 213.864,
+    "duration": 4.401
+  },
+  {
+    "text": "you usually don’t need to show the parentheses anymore.",
+    "start": 218.265,
+    "duration": 3.318
+  },
+  {
+    "text": "Now that the parentheses are gone, we just have one operation left to do.",
+    "start": 221.583,
+    "duration": 4.218
+  },
+  {
+    "text": "We multiply 10 × 9 and that gives us 90 as our final answer.",
+    "start": 225.801,
+    "duration": 4.76
+  },
+  {
+    "text": "So parentheses can really help you know what part of a problem you’re supposed to do first.",
+    "start": 230.561,
+    "duration": 4.477
+  },
+  {
+    "text": "But what if you get a problem that has more than one set of parentheses, like this:   (5 − 3) + (6 × 2)",
+    "start": 235.038,
+    "duration": 7.586
+  },
+  {
+    "text": "Fortunately, it doesn’t matter which set of parentheses you do first.",
+    "start": 242.624,
+    "duration": 3.718
+  },
+  {
+    "text": "You just need to do everything that’s inside the parentheses BEFORE you do anything that's NOT inside parentheses.",
+    "start": 246.342,
+    "duration": 6.48
+  },
+  {
+    "text": "In other words, we need to simplify BOTH of our parentheses groups before we can do this addition IN-BETWEEN them.",
+    "start": 252.822,
+    "duration": 6.938
+  },
+  {
+    "text": "The first group (5 − 3) simplifies to 2, and the second group (6 × 2) simplifies to 12.",
+    "start": 259.763,
+    "duration": 7.46
+  },
+  {
+    "text": "Now we can do the last operation and add the values that we got from simplifying: 2 + 12 = 14",
+    "start": 267.223,
+    "duration": 7.257
+  },
+  {
+    "text": "Okay, now that we know we always do operation in parentheses or brackets FIRST,",
+    "start": 274.484,
+    "duration": 4.685
+  },
+  {
+    "text": "let’s take a closer look at the second rule that says the next thing we do is exponents.",
+    "start": 279.169,
+    "duration": 5.169
+  },
+  {
+    "text": "Now if you haven’t seen exponents before, they’re just a way of writing repeated multiplication.",
+    "start": 284.338,
+    "duration": 5.26
+  },
+  {
+    "text": "For example, the repeated multiplication 4 × 4 can be written in a shorter form as 4 multiplied twice.",
+    "start": 289.6,
+    "duration": 7.04
+  },
+  {
+    "text": "And 4 × 4 × 4 can be written as 4 multiplied 3 times,",
+    "start": 296.643,
+    "duration": 4.785
+  },
+  {
+    "text": "and 4 × 4 × 4 × 4 can be written as 4 multiplied 4 times.  …get the idea?",
+    "start": 301.428,
+    "duration": 6.44
+  },
+  {
+    "text": "This small number is called an exponent (or power).",
+    "start": 307.868,
+    "duration": 3.547
+  },
+  {
+    "text": "It just tells you how many times to multiply the bigger number together.",
+    "start": 311.415,
+    "duration": 3.7
+  },
+  {
+    "text": "So after we take care of any parentheses, simplifying any exponents becomes the next highest priority.",
+    "start": 315.12,
+    "duration": 5.88
+  },
+  {
+    "text": "For example in this problem, we have to simplify the exponent BEFORE we can do the other multiplication.",
+    "start": 321.002,
+    "duration": 5.935
+  },
+  {
+    "text": "The exponent is telling us to multiply 5 together twice.  So 5 times 5 is 25.",
+    "start": 326.937,
+    "duration": 5.818
+  },
+  {
+    "text": "And after we do that, THEN we multiply the result by 3.  So 25 times 3 is 75.",
+    "start": 332.755,
+    "duration": 7.737
+  },
+  {
+    "text": "Oh, and one thing I should point out…",
+    "start": 340.492,
+    "duration": 2.401
+  },
+  {
+    "text": "sometimes you’ll get a problem that has exponents inside of parentheses, like this problem.",
+    "start": 342.893,
+    "duration": 4.601
+  },
+  {
+    "text": "And you may wonder, “How can I get rid of the parentheses BEFORE I do the exponent?”",
+    "start": 347.494,
+    "duration": 4.619
+  },
+  {
+    "text": "You might think that if you simplify the exponent first, you’re breaking the rules.",
+    "start": 352.113,
+    "duration": 4.068
+  },
+  {
+    "text": "But the truth is that by doing whatever operations are inside the parentheses, you ARE doing the parentheses first.",
+    "start": 356.181,
+    "duration": 6.56
+  },
+  {
+    "text": "The parentheses really just tell you where to start.",
+    "start": 362.741,
+    "duration": 2.659
+  },
+  {
+    "text": "So in this problem, first we do 3 to the power of 2, which means 3 × 3 which is 9.",
+    "start": 365.401,
+    "duration": 6.286
+  },
+  {
+    "text": "Then the part inside the parentheses is 9 × 4, which equals 36.",
+    "start": 371.687,
+    "duration": 4.734
+  },
+  {
+    "text": "And once the parentheses are gone, we add 36 + 6 and get 42 as our final answer.",
+    "start": 376.421,
+    "duration": 6.536
+  },
+  {
+    "text": "Alright, now we’re gonna look at the last two rules together.",
+    "start": 382.957,
+    "duration": 3.502
+  },
+  {
+    "text": "These two rules are really important because they deal with the most common math operations:",
+    "start": 386.459,
+    "duration": 4.734
+  },
+  {
+    "text": "addition, subtraction, multiplication & division.",
+    "start": 391.193,
+    "duration": 3.969
+  },
+  {
+    "text": "And the rules tell us that we need to do multiplication and division BEFORE we do addition and subtraction.",
+    "start": 395.162,
+    "duration": 6.468
+  },
+  {
+    "text": "To see how these rules work, lets look at a few quick examples that use those basic operations.",
+    "start": 401.63,
+    "duration": 5.352
+  },
+  {
+    "text": "First let’t try this one:  2 + 5 + 4  Ah Ha!… Does this look familiar?",
+    "start": 406.982,
+    "duration": 5.769
+  },
+  {
+    "text": "Yep, it’s the one we gave to my two friends earlier.",
+    "start": 412.751,
+    "duration": 3.168
+  },
+  {
+    "text": "And now that we have our rules, we see that we have to do the multiplication before the addition.",
+    "start": 415.919,
+    "duration": 5.26
+  },
+  {
+    "text": "5 × 4 = 20 and THEN we add the 2, which gives us 22… so the second guy WAS right!",
+    "start": 421.18,
+    "duration": 7.76
+  },
+  {
+    "text": "[Sarcastically] What a surprise!",
+    "start": 429.66,
+    "duration": 2.7
+  },
+  {
+    "text": "Now let’s try this one:  3 × 5 − 1",
+    "start": 432.8,
+    "duration": 4.092
+  },
+  {
+    "text": "Our rules tell us that multiplication is higher on the list than subtraction, so we do 3 × 5 first.",
+    "start": 436.892,
+    "duration": 6.503
+  },
+  {
+    "text": "That gives us 15, and THEN we subtract the ‘1’ which leaves 14 as our final answer.",
+    "start": 443.395,
+    "duration": 7.086
+  },
+  {
+    "text": "Here’s one with division and subtraction: 20 − 10 ÷ 5",
+    "start": 450.481,
+    "duration": 5.052
+  },
+  {
+    "text": "And since division has a higher priority, we do the 10 divided by 5 first, which equals 2.",
+    "start": 455.533,
+    "duration": 5.635
+  },
+  {
+    "text": "And then we subtract 2 from 20 and get 18 as our final answer.",
+    "start": 461.168,
+    "duration": 4.672
+  },
+  {
+    "text": "And here’s another problem: 12 ÷ 6 + 5",
+    "start": 465.84,
+    "duration": 4.08
+  },
+  {
+    "text": "Again, our rules say to do the division before addition, so 12 divided by 6 equals 2 and then we add the 5 to get 7.",
+    "start": 469.921,
+    "duration": 8.87
+  },
+  {
+    "text": "And here’s one last problem: 40 ÷ 4 × 5",
+    "start": 478.791,
+    "duration": 5.14
+  },
+  {
+    "text": "Which do we do first?… the multiplication or the division?  Our rules don’t tell us.",
+    "start": 483.94,
+    "duration": 5.2
+  },
+  {
+    "text": "Well, that’s because multiplication and division are TIED for priority or importance.  So are addition and subtraction.",
+    "start": 489.14,
+    "duration": 7.5
+  },
+  {
+    "text": "And THAT’S the reason we need an extra part at the end of each of these rule that says “from left to right”",
+    "start": 496.647,
+    "duration": 6.803
+  },
+  {
+    "text": "If you have a problem that has BOTH multiplication AND division, then you’re supposed to work it from left to right.",
+    "start": 503.45,
+    "duration": 7.086
+  },
+  {
+    "text": "That’s because in some cases, you can get a different answers if you go from right to left.",
+    "start": 510.536,
+    "duration": 4.668
+  },
+  {
+    "text": "For example, in this problem,",
+    "start": 515.204,
+    "duration": 2.217
+  },
+  {
+    "text": "if you work from right to left (the wrong way) you would do the 4 × 5 first and get 20.",
+    "start": 517.421,
+    "duration": 5.869
+  },
+  {
+    "text": "And then 40 divided by 20 equals 2.",
+    "start": 523.29,
+    "duration": 2.918
+  },
+  {
+    "text": "But if you go from left to right, you would do 40 divided by 4 first, which is 10, and then 10 times 5 equals 50.",
+    "start": 526.208,
+    "duration": 8.119
+  },
+  {
+    "text": "Wow! The direction we went made a BIG difference.",
+    "start": 534.327,
+    "duration": 3.353
+  },
+  {
+    "text": "So whenever you have a problem that has a mixture of multiplication and division OR a mixture of addition and subtraction,",
+    "start": 537.68,
+    "duration": 5.98
+  },
+  {
+    "text": "you know to do the operations in order from left to right.",
+    "start": 543.66,
+    "duration": 3.52
+  },
+  {
+    "text": "Alright, we’re just about done, but let’s have one more look at all four of our rules before you start practicing with the exercises.",
+    "start": 547.182,
+    "duration": 7.286
+  },
+  {
+    "text": "The Order of Operations rules say:",
+    "start": 554.468,
+    "duration": 2.151
+  },
+  {
+    "text": "FIRST: do operation in parentheses and brackets",
+    "start": 556.619,
+    "duration": 3.45
+  },
+  {
+    "text": "NEXT: do exponents",
+    "start": 560.069,
+    "duration": 2.2
+  },
+  {
+    "text": "THEN: do multiplication and division (from left to right)",
+    "start": 562.269,
+    "duration": 4.531
+  },
+  {
+    "text": "LAST: do addition and subtraction (from left to right)",
+    "start": 566.8,
+    "duration": 3.94
+  },
+  {
+    "text": "Alright, that does it for this video.  Good luck with the exercises and I’ll see ya next time.",
+    "start": 570.74,
+    "duration": 5.34
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 576.78,
+    "duration": 2.14
+  }
+]

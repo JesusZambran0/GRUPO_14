@@ -1,0 +1,2252 @@
+[
+  {
+    "text": "the rarest move in",
+    "start": 4.12,
+    "duration": 4.88
+  },
+  {
+    "text": "chess I know what you're thinking you",
+    "start": 6.759,
+    "duration": 4.681
+  },
+  {
+    "text": "think you have all the answers I was",
+    "start": 9.0,
+    "duration": 5.08
+  },
+  {
+    "text": "like you once it's got to be on bant",
+    "start": 11.44,
+    "duration": 5.04
+  },
+  {
+    "text": "Checkmate right you know the weird pawn",
+    "start": 14.08,
+    "duration": 5.119
+  },
+  {
+    "text": "move done in a way to cause Checkmate or",
+    "start": 16.48,
+    "duration": 4.92
+  },
+  {
+    "text": "uh wait maybe castling Checkmate is more",
+    "start": 19.199,
+    "duration": 4.84
+  },
+  {
+    "text": "rare or something with Pawn under",
+    "start": 21.4,
+    "duration": 4.719
+  },
+  {
+    "text": "promotion there's a simple way to get to",
+    "start": 24.039,
+    "duration": 4.361
+  },
+  {
+    "text": "the bottom of this let's just look at a",
+    "start": 26.119,
+    "duration": 4.601
+  },
+  {
+    "text": "bunch of games of chess whatever happens",
+    "start": 28.4,
+    "duration": 5.08
+  },
+  {
+    "text": "the least often must be the rarest right",
+    "start": 30.72,
+    "duration": 4.24
+  },
+  {
+    "text": "like if we ask a million people what",
+    "start": 33.48,
+    "duration": 3.399
+  },
+  {
+    "text": "their favorite type of pizza is we could",
+    "start": 34.96,
+    "duration": 3.8
+  },
+  {
+    "text": "find the most rare pizza topping which",
+    "start": 36.879,
+    "duration": 4.401
+  },
+  {
+    "text": "we already know is rhubarb if we want to",
+    "start": 38.76,
+    "duration": 4.36
+  },
+  {
+    "text": "do this we need some way of talking",
+    "start": 41.28,
+    "duration": 4.599
+  },
+  {
+    "text": "about moves like what is a rare move",
+    "start": 43.12,
+    "duration": 5.2
+  },
+  {
+    "text": "what even is a move what does it mean to",
+    "start": 45.879,
+    "duration": 5.241
+  },
+  {
+    "text": "play chess what are we doing again okay",
+    "start": 48.32,
+    "duration": 4.28
+  },
+  {
+    "text": "we're going to talk about moves in terms",
+    "start": 51.12,
+    "duration": 4.2
+  },
+  {
+    "text": "of standard algebraic notation that's",
+    "start": 52.6,
+    "duration": 4.24
+  },
+  {
+    "text": "the normal way people talk about chess",
+    "start": 55.32,
+    "duration": 5.12
+  },
+  {
+    "text": "moves like when they say E4 and nf6",
+    "start": 56.84,
+    "duration": 4.76
+  },
+  {
+    "text": "it's what they're writing down on those",
+    "start": 60.44,
+    "duration": 3.36
+  },
+  {
+    "text": "little pieces of paper it's a simple",
+    "start": 61.6,
+    "duration": 4.4
+  },
+  {
+    "text": "notation you just say what piece moved",
+    "start": 63.8,
+    "duration": 4.84
+  },
+  {
+    "text": "where that's the basic idea at least we",
+    "start": 66.0,
+    "duration": 4.759
+  },
+  {
+    "text": "just need to give names to places and",
+    "start": 68.64,
+    "duration": 4.799
+  },
+  {
+    "text": "pieces so we give every Square on the",
+    "start": 70.759,
+    "duration": 4.321
+  },
+  {
+    "text": "board coordinates with a letter and",
+    "start": 73.439,
+    "duration": 3.801
+  },
+  {
+    "text": "number and we give every piece a letter",
+    "start": 75.08,
+    "duration": 4.399
+  },
+  {
+    "text": "of its own we can use these letters and",
+    "start": 77.24,
+    "duration": 5.12
+  },
+  {
+    "text": "numbers to write down moves like bc4",
+    "start": 79.479,
+    "duration": 5.521
+  },
+  {
+    "text": "means the bishop moves to C4 and there's",
+    "start": 82.36,
+    "duration": 5.119
+  },
+  {
+    "text": "only a couple extra things to know X",
+    "start": 85.0,
+    "duration": 5.799
+  },
+  {
+    "text": "means capture nxf3 means the Knight",
+    "start": 87.479,
+    "duration": 5.801
+  },
+  {
+    "text": "captures the piece on F3 pawn moves",
+    "start": 90.799,
+    "duration": 4.801
+  },
+  {
+    "text": "don't bother with naming the piece E5",
+    "start": 93.28,
+    "duration": 4.76
+  },
+  {
+    "text": "just means you move your Pawn to E5 you",
+    "start": 95.6,
+    "duration": 5.64
+  },
+  {
+    "text": "add a plus to indicate a check qa5 plus",
+    "start": 98.04,
+    "duration": 5.079
+  },
+  {
+    "text": "means your queen moves to A5 and the",
+    "start": 101.24,
+    "duration": 4.08
+  },
+  {
+    "text": "opponent's king is now in check and",
+    "start": 103.119,
+    "duration": 4.881
+  },
+  {
+    "text": "similarly the hash sign means Checkmate",
+    "start": 105.32,
+    "duration": 4.72
+  },
+  {
+    "text": "pound sign what uh what do you call this",
+    "start": 108.0,
+    "duration": 5.32
+  },
+  {
+    "text": "thing octo Thorp yeah means Checkmate",
+    "start": 110.04,
+    "duration": 6.16
+  },
+  {
+    "text": "kingside Castle is o- O queenside Castle",
+    "start": 113.32,
+    "duration": 5.32
+  },
+  {
+    "text": "is o d o- o you don't even need to say",
+    "start": 116.2,
+    "duration": 4.4
+  },
+  {
+    "text": "whose turn it is white goes first and",
+    "start": 118.64,
+    "duration": 3.96
+  },
+  {
+    "text": "then you alternate this means the same",
+    "start": 120.6,
+    "duration": 4.199
+  },
+  {
+    "text": "move can happen from either side like e",
+    "start": 122.6,
+    "duration": 5.119
+  },
+  {
+    "text": "takes D5 e takes D5 with this notation",
+    "start": 124.799,
+    "duration": 5.401
+  },
+  {
+    "text": "you can describe an entire game of chess",
+    "start": 127.719,
+    "duration": 3.921
+  },
+  {
+    "text": "instead of writing down how the board",
+    "start": 130.2,
+    "duration": 3.36
+  },
+  {
+    "text": "looks after every move which would be",
+    "start": 131.64,
+    "duration": 3.64
+  },
+  {
+    "text": "very tedious you just write down the",
+    "start": 133.56,
+    "duration": 3.44
+  },
+  {
+    "text": "moves in order and you can reconstruct",
+    "start": 135.28,
+    "duration": 4.56
+  },
+  {
+    "text": "the board at any point so if we want to",
+    "start": 137.0,
+    "duration": 4.8
+  },
+  {
+    "text": "find the rarest move it's sufficient to",
+    "start": 139.84,
+    "duration": 4.399
+  },
+  {
+    "text": "look for the rarest notation of moves",
+    "start": 141.8,
+    "duration": 3.76
+  },
+  {
+    "text": "well okay there's probably many ways you",
+    "start": 144.239,
+    "duration": 2.321
+  },
+  {
+    "text": "could do it but we're going to be",
+    "start": 145.56,
+    "duration": 3.24
+  },
+  {
+    "text": "looking for the rarest notation there's",
+    "start": 146.56,
+    "duration": 3.959
+  },
+  {
+    "text": "one last important application to",
+    "start": 148.8,
+    "duration": 3.64
+  },
+  {
+    "text": "mention about this notation you'll",
+    "start": 150.519,
+    "duration": 4.201
+  },
+  {
+    "text": "notice this notation is very implicit",
+    "start": 152.44,
+    "duration": 3.68
+  },
+  {
+    "text": "all you do is say the type of piece and",
+    "start": 154.72,
+    "duration": 3.519
+  },
+  {
+    "text": "the destination and infer which source",
+    "start": 156.12,
+    "duration": 4.16
+  },
+  {
+    "text": "piece you're talking about but what if",
+    "start": 158.239,
+    "duration": 4.441
+  },
+  {
+    "text": "two pieces could move to the same square",
+    "start": 160.28,
+    "duration": 4.039
+  },
+  {
+    "text": "like both of these Knights could move to",
+    "start": 162.68,
+    "duration": 3.96
+  },
+  {
+    "text": "E5 in cases like this we need to",
+    "start": 164.319,
+    "duration": 5.041
+  },
+  {
+    "text": "disambiguate moves if it's ambiguous",
+    "start": 166.64,
+    "duration": 4.64
+  },
+  {
+    "text": "which piece to move you include the file",
+    "start": 169.36,
+    "duration": 5.2
+  },
+  {
+    "text": "of the source piece like nde E5 if it's",
+    "start": 171.28,
+    "duration": 5.36
+  },
+  {
+    "text": "still ambiguous use the rank instead",
+    "start": 174.56,
+    "duration": 5.08
+  },
+  {
+    "text": "like an3 E5 if it's still ambiguous use",
+    "start": 176.64,
+    "duration": 6.4
+  },
+  {
+    "text": "both both like n D3 E5 okay now we can",
+    "start": 179.64,
+    "duration": 5.959
+  },
+  {
+    "text": "talk about rare moves at this point I",
+    "start": 183.04,
+    "duration": 4.52
+  },
+  {
+    "text": "thought okay like there's so many games",
+    "start": 185.599,
+    "duration": 4.121
+  },
+  {
+    "text": "of Chess happening all the time we can",
+    "start": 187.56,
+    "duration": 3.959
+  },
+  {
+    "text": "just take all the moves in a bunch of",
+    "start": 189.72,
+    "duration": 3.76
+  },
+  {
+    "text": "games count how many times we see each",
+    "start": 191.519,
+    "duration": 4.481
+  },
+  {
+    "text": "move notation sort by that count and see",
+    "start": 193.48,
+    "duration": 4.759
+  },
+  {
+    "text": "which one is at the bottom but it turns",
+    "start": 196.0,
+    "duration": 5.04
+  },
+  {
+    "text": "out there's a lot of possible moves at",
+    "start": 198.239,
+    "duration": 5.201
+  },
+  {
+    "text": "this point I went on a bit of a crusade",
+    "start": 201.04,
+    "duration": 4.4
+  },
+  {
+    "text": "to understand what is every possible",
+    "start": 203.44,
+    "duration": 3.719
+  },
+  {
+    "text": "legal move notation according to",
+    "start": 205.44,
+    "duration": 3.879
+  },
+  {
+    "text": "standard algebraic notation that way I",
+    "start": 207.159,
+    "duration": 3.761
+  },
+  {
+    "text": "could understand if I'd seen every",
+    "start": 209.319,
+    "duration": 3.441
+  },
+  {
+    "text": "possible move this was much more",
+    "start": 210.92,
+    "duration": 3.519
+  },
+  {
+    "text": "interesting than I expected I kept",
+    "start": 212.76,
+    "duration": 3.119
+  },
+  {
+    "text": "finding new edge cases and eventually",
+    "start": 214.439,
+    "duration": 2.921
+  },
+  {
+    "text": "had to write a program to help simulate",
+    "start": 215.879,
+    "duration": 3.36
+  },
+  {
+    "text": "all the possibilities but honestly",
+    "start": 217.36,
+    "duration": 3.76
+  },
+  {
+    "text": "that's a video of its own let me know if",
+    "start": 219.239,
+    "duration": 3.72
+  },
+  {
+    "text": "you'd be interested in seeing such a",
+    "start": 221.12,
+    "duration": 4.24
+  },
+  {
+    "text": "video once I understood every possible",
+    "start": 222.959,
+    "duration": 4.401
+  },
+  {
+    "text": "move notation I was ready to look for",
+    "start": 225.36,
+    "duration": 4.799
+  },
+  {
+    "text": "the rarest move but something wasn't",
+    "start": 227.36,
+    "duration": 5.12
+  },
+  {
+    "text": "quite adding up I downloaded all the",
+    "start": 230.159,
+    "duration": 5.041
+  },
+  {
+    "text": "Master Level games from lee.org I",
+    "start": 232.48,
+    "duration": 4.08
+  },
+  {
+    "text": "thought maybe it just wasn't enough",
+    "start": 235.2,
+    "duration": 2.759
+  },
+  {
+    "text": "games so I started downloading games",
+    "start": 236.56,
+    "duration": 3.92
+  },
+  {
+    "text": "from anyone on Lee but as I kept",
+    "start": 237.959,
+    "duration": 4.321
+  },
+  {
+    "text": "downloading more and more months of data",
+    "start": 240.48,
+    "duration": 4.16
+  },
+  {
+    "text": "it became clear that there was a problem",
+    "start": 242.28,
+    "duration": 4.2
+  },
+  {
+    "text": "eventually I had gone through all of the",
+    "start": 244.64,
+    "duration": 3.879
+  },
+  {
+    "text": "games ever played on leeches containing",
+    "start": 246.48,
+    "duration": 5.0
+  },
+  {
+    "text": "5 billion games and 9 terabytes of data",
+    "start": 248.519,
+    "duration": 4.681
+  },
+  {
+    "text": "that's 16 games a second every second",
+    "start": 251.48,
+    "duration": 4.68
+  },
+  {
+    "text": "for 10 years out of all the possible",
+    "start": 253.2,
+    "duration": 5.52
+  },
+  {
+    "text": "moves a full 30% that were theoretically",
+    "start": 256.16,
+    "duration": 5.24
+  },
+  {
+    "text": "possible I never saw occur even once my",
+    "start": 258.72,
+    "duration": 4.44
+  },
+  {
+    "text": "dream of saying that a specific move",
+    "start": 261.4,
+    "duration": 5.28
+  },
+  {
+    "text": "like qa1 h8 was the rarest was",
+    "start": 263.16,
+    "duration": 6.24
+  },
+  {
+    "text": "shattered instead I found their entire",
+    "start": 266.68,
+    "duration": 6.16
+  },
+  {
+    "text": "cat cies of moves that are rare so I've",
+    "start": 269.4,
+    "duration": 5.12
+  },
+  {
+    "text": "identified four candidates for the",
+    "start": 272.84,
+    "duration": 4.56
+  },
+  {
+    "text": "rarest category of move in chess as we",
+    "start": 274.52,
+    "duration": 4.44
+  },
+  {
+    "text": "go through them place your bets for",
+    "start": 277.4,
+    "duration": 2.96
+  },
+  {
+    "text": "which one you think will be the rarest",
+    "start": 278.96,
+    "duration": 2.6
+  },
+  {
+    "text": "according to the",
+    "start": 280.36,
+    "duration": 3.92
+  },
+  {
+    "text": "data let's start with a warm-up to get",
+    "start": 281.56,
+    "duration": 4.32
+  },
+  {
+    "text": "acquainted with how these rare moves",
+    "start": 284.28,
+    "duration": 4.359
+  },
+  {
+    "text": "work generally rare moves require",
+    "start": 285.88,
+    "duration": 5.4
+  },
+  {
+    "text": "multiple unique circumstances to overlap",
+    "start": 288.639,
+    "duration": 5.641
+  },
+  {
+    "text": "together like most moves aren't captures",
+    "start": 291.28,
+    "duration": 5.359
+  },
+  {
+    "text": "and most moves aren't Checkmate but even",
+    "start": 294.28,
+    "duration": 4.16
+  },
+  {
+    "text": "less moves are both capture and",
+    "start": 296.639,
+    "duration": 4.241
+  },
+  {
+    "text": "Checkmate so so with that in mind let's",
+    "start": 298.44,
+    "duration": 5.24
+  },
+  {
+    "text": "start by looking at the queen recall how",
+    "start": 300.88,
+    "duration": 4.92
+  },
+  {
+    "text": "in our algebraic notation if it was",
+    "start": 303.68,
+    "duration": 3.68
+  },
+  {
+    "text": "ambiguous which piece would move we",
+    "start": 305.8,
+    "duration": 4.36
+  },
+  {
+    "text": "needed to disambiguate unsurprisingly",
+    "start": 307.36,
+    "duration": 4.04
+  },
+  {
+    "text": "rare moves are all based on",
+    "start": 310.16,
+    "duration": 2.879
+  },
+  {
+    "text": "disambiguations since they require",
+    "start": 311.4,
+    "duration": 3.68
+  },
+  {
+    "text": "pieces to be in certain positions which",
+    "start": 313.039,
+    "duration": 4.0
+  },
+  {
+    "text": "doesn't happen all the time you only",
+    "start": 315.08,
+    "duration": 4.28
+  },
+  {
+    "text": "have one Queen to start so to require",
+    "start": 317.039,
+    "duration": 4.201
+  },
+  {
+    "text": "disambiguation you'll need to promote a",
+    "start": 319.36,
+    "duration": 4.24
+  },
+  {
+    "text": "pawn once we have two queens if they",
+    "start": 321.24,
+    "duration": 4.36
+  },
+  {
+    "text": "both see the same Target Square we need",
+    "start": 323.6,
+    "duration": 4.56
+  },
+  {
+    "text": "to disambiguate with their file like",
+    "start": 325.6,
+    "duration": 5.0
+  },
+  {
+    "text": "qc6 if they both live on the same file",
+    "start": 328.16,
+    "duration": 5.56
+  },
+  {
+    "text": "then we need to use the rank like Q4 E6",
+    "start": 330.6,
+    "duration": 4.879
+  },
+  {
+    "text": "but what if we promote another Pawn to",
+    "start": 333.72,
+    "duration": 4.36
+  },
+  {
+    "text": "make three queens then if there were two",
+    "start": 335.479,
+    "duration": 4.601
+  },
+  {
+    "text": "Queens on the same Rank and two Queens",
+    "start": 338.08,
+    "duration": 4.0
+  },
+  {
+    "text": "on the same file and they all saw the",
+    "start": 340.08,
+    "duration": 3.839
+  },
+  {
+    "text": "same destination Square we need to",
+    "start": 342.08,
+    "duration": 4.6
+  },
+  {
+    "text": "disambiguate with both the rank and file",
+    "start": 343.919,
+    "duration": 5.681
+  },
+  {
+    "text": "like qc8 E6 this move is immediately",
+    "start": 346.68,
+    "duration": 4.639
+  },
+  {
+    "text": "rare because it requires three queens",
+    "start": 349.6,
+    "duration": 2.879
+  },
+  {
+    "text": "arranged",
+    "start": 351.319,
+    "duration": 3.32
+  },
+  {
+    "text": "together however we can keep stacking",
+    "start": 352.479,
+    "duration": 4.16
+  },
+  {
+    "text": "Rarity Checkmate can only happen once",
+    "start": 354.639,
+    "duration": 3.721
+  },
+  {
+    "text": "per game so we expect the same move",
+    "start": 356.639,
+    "duration": 5.12
+  },
+  {
+    "text": "causing Checkmate Q Q C8 E6 mate to be",
+    "start": 358.36,
+    "duration": 6.16
+  },
+  {
+    "text": "even rare finally if we also capture a",
+    "start": 361.759,
+    "duration": 5.28
+  },
+  {
+    "text": "piece when causing Checkmate we get Q C8",
+    "start": 364.52,
+    "duration": 5.16
+  },
+  {
+    "text": "takes E6 mate for a doubly disambiguated",
+    "start": 367.039,
+    "duration": 4.641
+  },
+  {
+    "text": "Queen capture",
+    "start": 369.68,
+    "duration": 5.359
+  },
+  {
+    "text": "Checkmate that is quite a move but this",
+    "start": 371.68,
+    "duration": 6.239
+  },
+  {
+    "text": "was just the warm up now we're ready for",
+    "start": 375.039,
+    "duration": 5.28
+  },
+  {
+    "text": "our first real candidate",
+    "start": 377.919,
+    "duration": 5.68
+  },
+  {
+    "text": "move let's talk about Bishops again",
+    "start": 380.319,
+    "duration": 6.081
+  },
+  {
+    "text": "we'll look at disambiguated moves wait a",
+    "start": 383.599,
+    "duration": 4.32
+  },
+  {
+    "text": "second why do you ever need to",
+    "start": 386.4,
+    "duration": 3.919
+  },
+  {
+    "text": "disambiguate Bishop moves each Bishop",
+    "start": 387.919,
+    "duration": 3.72
+  },
+  {
+    "text": "always stays on the same color when",
+    "start": 390.319,
+    "duration": 3.44
+  },
+  {
+    "text": "moving diagonally and since the two",
+    "start": 391.639,
+    "duration": 3.801
+  },
+  {
+    "text": "Bishops start on different colors it's",
+    "start": 393.759,
+    "duration": 3.401
+  },
+  {
+    "text": "always unambiguous which Bishop you mean",
+    "start": 395.44,
+    "duration": 4.199
+  },
+  {
+    "text": "to move the two Bishops live in entirely",
+    "start": 397.16,
+    "duration": 5.12
+  },
+  {
+    "text": "separate worlds well this would be true",
+    "start": 399.639,
+    "duration": 5.921
+  },
+  {
+    "text": "except for pesky Pawn under promotion if",
+    "start": 402.28,
+    "duration": 5.08
+  },
+  {
+    "text": "you promote a pawn to a bishop it can be",
+    "start": 405.56,
+    "duration": 3.759
+  },
+  {
+    "text": "on the same color as another bishop and",
+    "start": 407.36,
+    "duration": 4.48
+  },
+  {
+    "text": "therefore we may require disambiguation",
+    "start": 409.319,
+    "duration": 4.681
+  },
+  {
+    "text": "of course 98% of the time people promote",
+    "start": 411.84,
+    "duration": 4.24
+  },
+  {
+    "text": "pawns to Queens but you are allowed to",
+    "start": 414.0,
+    "duration": 4.16
+  },
+  {
+    "text": "promote to a bishop we've arrived at the",
+    "start": 416.08,
+    "duration": 4.959
+  },
+  {
+    "text": "rare move a rank disambiguated Bishop",
+    "start": 418.16,
+    "duration": 5.319
+  },
+  {
+    "text": "capture Checkmate remember that we first",
+    "start": 421.039,
+    "duration": 4.44
+  },
+  {
+    "text": "disambiguate with the file and only",
+    "start": 423.479,
+    "duration": 3.44
+  },
+  {
+    "text": "disambiguate with the rank if both",
+    "start": 425.479,
+    "duration": 4.16
+  },
+  {
+    "text": "Bishops are on the exact same file that",
+    "start": 426.919,
+    "duration": 4.801
+  },
+  {
+    "text": "is file disambiguation is preferred to",
+    "start": 429.639,
+    "duration": 4.56
+  },
+  {
+    "text": "rank disambiguation with eight columns",
+    "start": 431.72,
+    "duration": 3.96
+  },
+  {
+    "text": "you'd probably expect two pieces to be",
+    "start": 434.199,
+    "duration": 3.881
+  },
+  {
+    "text": "on the same file around 1/8 of the time",
+    "start": 435.68,
+    "duration": 4.0
+  },
+  {
+    "text": "that ends up being true here with rank",
+    "start": 438.08,
+    "duration": 3.799
+  },
+  {
+    "text": "based disambiguation about 1/8 as likely",
+    "start": 439.68,
+    "duration": 4.44
+  },
+  {
+    "text": "as file based as with the rare queen",
+    "start": 441.879,
+    "duration": 4.32
+  },
+  {
+    "text": "move we showed before we tack on capture",
+    "start": 444.12,
+    "duration": 4.199
+  },
+  {
+    "text": "and Checkmate to compound the Rarity",
+    "start": 446.199,
+    "duration": 4.521
+  },
+  {
+    "text": "such a move would look like this B2",
+    "start": 448.319,
+    "duration": 5.841
+  },
+  {
+    "text": "takes E4 mate to recap this requires",
+    "start": 450.72,
+    "duration": 5.08
+  },
+  {
+    "text": "under promoting a pawn to have two",
+    "start": 454.16,
+    "duration": 3.68
+  },
+  {
+    "text": "Bishops on the same color this requires",
+    "start": 455.8,
+    "duration": 3.16
+  },
+  {
+    "text": "arranging them so that they're on the",
+    "start": 457.84,
+    "duration": 3.52
+  },
+  {
+    "text": "same file it must capture a piece and it",
+    "start": 458.96,
+    "duration": 4.56
+  },
+  {
+    "text": "must cause Checkmate that leaves us with",
+    "start": 461.36,
+    "duration": 5.399
+  },
+  {
+    "text": "a pretty darn rare move I bet on basant",
+    "start": 463.52,
+    "duration": 5.6
+  },
+  {
+    "text": "mate doesn't sound so rare anymore does",
+    "start": 466.759,
+    "duration": 5.081
+  },
+  {
+    "text": "it the next rare move might not surprise",
+    "start": 469.12,
+    "duration": 4.88
+  },
+  {
+    "text": "you it's the doubly disambiguated Bishop",
+    "start": 471.84,
+    "duration": 4.479
+  },
+  {
+    "text": "capture Checkmate if you under promote",
+    "start": 474.0,
+    "duration": 4.36
+  },
+  {
+    "text": "at least two pawns to Bishops both on",
+    "start": 476.319,
+    "duration": 3.84
+  },
+  {
+    "text": "the same color then it's possible to",
+    "start": 478.36,
+    "duration": 3.239
+  },
+  {
+    "text": "arrange your Bishops in such a way that",
+    "start": 480.159,
+    "duration": 3.521
+  },
+  {
+    "text": "they need both Rank and file",
+    "start": 481.599,
+    "duration": 3.88
+  },
+  {
+    "text": "disambiguation if we look back at how",
+    "start": 483.68,
+    "duration": 3.56
+  },
+  {
+    "text": "much rarer rank disambiguated moves are",
+    "start": 485.479,
+    "duration": 4.081
+  },
+  {
+    "text": "compared to file based well doubly",
+    "start": 487.24,
+    "duration": 4.72
+  },
+  {
+    "text": "disambiguated moves are even rarer the",
+    "start": 489.56,
+    "duration": 4.199
+  },
+  {
+    "text": "arrangement requires the Bishops to sit",
+    "start": 491.96,
+    "duration": 4.44
+  },
+  {
+    "text": "in a square around a Target Square only",
+    "start": 493.759,
+    "duration": 4.361
+  },
+  {
+    "text": "onethird of the corners of this Square",
+    "start": 496.4,
+    "duration": 3.84
+  },
+  {
+    "text": "actually requires double disambiguation",
+    "start": 498.12,
+    "duration": 3.799
+  },
+  {
+    "text": "since the others only see one Bishop on",
+    "start": 500.24,
+    "duration": 4.76
+  },
+  {
+    "text": "their same Rank and file as before also",
+    "start": 501.919,
+    "duration": 4.4
+  },
+  {
+    "text": "including a capture and Checkmate",
+    "start": 505.0,
+    "duration": 3.36
+  },
+  {
+    "text": "compounds the Rarity such a move would",
+    "start": 506.319,
+    "duration": 5.681
+  },
+  {
+    "text": "look like ba a takes C6 mate there's",
+    "start": 508.36,
+    "duration": 5.919
+  },
+  {
+    "text": "actually another rare move here",
+    "start": 512.0,
+    "duration": 3.88
+  },
+  {
+    "text": "something very interesting happens when",
+    "start": 514.279,
+    "duration": 3.401
+  },
+  {
+    "text": "we look at doubly disambiguated Bishop",
+    "start": 515.88,
+    "duration": 4.56
+  },
+  {
+    "text": "checkmates that are not captures because",
+    "start": 517.68,
+    "duration": 4.32
+  },
+  {
+    "text": "all three Bishops see the same Target",
+    "start": 520.44,
+    "duration": 3.479
+  },
+  {
+    "text": "Square it means both diagonals from that",
+    "start": 522.0,
+    "duration": 3.6
+  },
+  {
+    "text": "square will remain attacked no matter",
+    "start": 523.919,
+    "duration": 4.121
+  },
+  {
+    "text": "which Bishop you move there thus if",
+    "start": 525.6,
+    "duration": 4.52
+  },
+  {
+    "text": "there's no enemy piece being captured a",
+    "start": 528.04,
+    "duration": 3.88
+  },
+  {
+    "text": "doubly disambiguated bishop move won't",
+    "start": 530.12,
+    "duration": 4.48
+  },
+  {
+    "text": "attack any new squares so how could this",
+    "start": 531.92,
+    "duration": 5.44
+  },
+  {
+    "text": "possibly be a Checkmate turns out this",
+    "start": 534.6,
+    "duration": 4.479
+  },
+  {
+    "text": "can be a Checkmate but only via a",
+    "start": 537.36,
+    "duration": 3.84
+  },
+  {
+    "text": "discovered attack the bishop you move",
+    "start": 539.079,
+    "duration": 3.561
+  },
+  {
+    "text": "has to reveal another piece that",
+    "start": 541.2,
+    "duration": 3.68
+  },
+  {
+    "text": "actually causes the Checkmate I like",
+    "start": 542.64,
+    "duration": 3.439
+  },
+  {
+    "text": "this move because it's one of the few",
+    "start": 544.88,
+    "duration": 2.88
+  },
+  {
+    "text": "times that a move implies that it must",
+    "start": 546.079,
+    "duration": 4.44
+  },
+  {
+    "text": "be a discovered attack such a move would",
+    "start": 547.76,
+    "duration": 6.4
+  },
+  {
+    "text": "look like B C6 E4 mate finally we have",
+    "start": 550.519,
+    "duration": 6.361
+  },
+  {
+    "text": "our last rare move candidate a doubly",
+    "start": 554.16,
+    "duration": 5.04
+  },
+  {
+    "text": "disambiguated Knight capture Checkmate",
+    "start": 556.88,
+    "duration": 4.6
+  },
+  {
+    "text": "finally something other than a bishop",
+    "start": 559.2,
+    "duration": 4.36
+  },
+  {
+    "text": "two knights can require disambiguation",
+    "start": 561.48,
+    "duration": 3.72
+  },
+  {
+    "text": "and in fact disambiguating Knight moves",
+    "start": 563.56,
+    "duration": 3.64
+  },
+  {
+    "text": "is common but to get double",
+    "start": 565.2,
+    "duration": 3.72
+  },
+  {
+    "text": "disambiguation we again need to under",
+    "start": 567.2,
+    "duration": 4.24
+  },
+  {
+    "text": "promote a at least one Pawn it's kind of",
+    "start": 568.92,
+    "duration": 4.08
+  },
+  {
+    "text": "hard for Knights to cause checkmates",
+    "start": 571.44,
+    "duration": 2.639
+  },
+  {
+    "text": "because they don't control as many",
+    "start": 573.0,
+    "duration": 3.399
+  },
+  {
+    "text": "squares as other pieces for this rare",
+    "start": 574.079,
+    "duration": 3.921
+  },
+  {
+    "text": "move the Knight must be arranged in a",
+    "start": 576.399,
+    "duration": 3.761
+  },
+  {
+    "text": "specific rectangle and then capture a",
+    "start": 578.0,
+    "duration": 4.56
+  },
+  {
+    "text": "piece and cause Checkmate this move",
+    "start": 580.16,
+    "duration": 4.84
+  },
+  {
+    "text": "might surprise you in Rarity due to how",
+    "start": 582.56,
+    "duration": 3.92
+  },
+  {
+    "text": "Knight's move the rectangle of where the",
+    "start": 585.0,
+    "duration": 3.56
+  },
+  {
+    "text": "knights must be is quite specific and",
+    "start": 586.48,
+    "duration": 4.52
+  },
+  {
+    "text": "not as lenient as queens or Bishops the",
+    "start": 588.56,
+    "duration": 3.88
+  },
+  {
+    "text": "destination Square cannot be anywhere",
+    "start": 591.0,
+    "duration": 4.04
+  },
+  {
+    "text": "along the outer edge of the",
+    "start": 592.44,
+    "duration": 5.04
+  },
+  {
+    "text": "board and if you inset one more Square",
+    "start": 595.04,
+    "duration": 3.96
+  },
+  {
+    "text": "only allows half as many positions of",
+    "start": 597.48,
+    "duration": 2.44
+  },
+  {
+    "text": "knights",
+    "start": 599.0,
+    "duration": 2.839
+  },
+  {
+    "text": "this gives less leeway for such an",
+    "start": 599.92,
+    "duration": 4.0
+  },
+  {
+    "text": "arrangement such a move would look like",
+    "start": 601.839,
+    "duration": 4.44
+  },
+  {
+    "text": "n D4 takes E6",
+    "start": 603.92,
+    "duration": 5.56
+  },
+  {
+    "text": "mate and that's our four rare move",
+    "start": 606.279,
+    "duration": 5.56
+  },
+  {
+    "text": "candidates side note I'm sure you've",
+    "start": 609.48,
+    "duration": 4.16
+  },
+  {
+    "text": "noticed all these moves require Pawn",
+    "start": 611.839,
+    "duration": 3.761
+  },
+  {
+    "text": "under promotion and having the opponent",
+    "start": 613.64,
+    "duration": 4.6
+  },
+  {
+    "text": "not resign these are highly unlikely",
+    "start": 615.6,
+    "duration": 5.2
+  },
+  {
+    "text": "situations to arise in high level games",
+    "start": 618.24,
+    "duration": 4.2
+  },
+  {
+    "text": "which in a sense contributes to the",
+    "start": 620.8,
+    "duration": 3.84
+  },
+  {
+    "text": "Rarity a move being rare doesn't mean",
+    "start": 622.44,
+    "duration": 4.44
+  },
+  {
+    "text": "it's good like getting struck by",
+    "start": 624.64,
+    "duration": 4.439
+  },
+  {
+    "text": "lightning under promotion itself is",
+    "start": 626.88,
+    "duration": 3.88
+  },
+  {
+    "text": "often been a sign of a game not being",
+    "start": 629.079,
+    "duration": 3.76
+  },
+  {
+    "text": "taken very seriously it's someone's",
+    "start": 630.76,
+    "duration": 4.28
+  },
+  {
+    "text": "always better to just promote to a queen",
+    "start": 632.839,
+    "duration": 3.961
+  },
+  {
+    "text": "I mean you could Envision cases where",
+    "start": 635.04,
+    "duration": 3.16
+  },
+  {
+    "text": "you must under promote to avoid",
+    "start": 636.8,
+    "duration": 3.4
+  },
+  {
+    "text": "stalemate to justify these moves being",
+    "start": 638.2,
+    "duration": 3.36
+  },
+  {
+    "text": "theoretically possible in a real",
+    "start": 640.2,
+    "duration": 2.879
+  },
+  {
+    "text": "professional chess game with no funny",
+    "start": 641.56,
+    "duration": 3.519
+  },
+  {
+    "text": "business but such a game would be so",
+    "start": 643.079,
+    "duration": 4.681
+  },
+  {
+    "text": "rare you'd never actually see it happen",
+    "start": 645.079,
+    "duration": 4.401
+  },
+  {
+    "text": "all right so far everything we've done",
+    "start": 647.76,
+    "duration": 3.92
+  },
+  {
+    "text": "here has been completely theoretical if",
+    "start": 649.48,
+    "duration": 3.64
+  },
+  {
+    "text": "we want to get a real answer for what's",
+    "start": 651.68,
+    "duration": 3.2
+  },
+  {
+    "text": "the rarest move we need to look at the",
+    "start": 653.12,
+    "duration": 4.12
+  },
+  {
+    "text": "data from all the data lead chess makes",
+    "start": 654.88,
+    "duration": 5.84
+  },
+  {
+    "text": "available I found 342 billi moves so can",
+    "start": 657.24,
+    "duration": 4.68
+  },
+  {
+    "text": "we talk about rare moves let's talk",
+    "start": 660.72,
+    "duration": 4.919
+  },
+  {
+    "text": "about rare moves some starter stats Pawn",
+    "start": 661.92,
+    "duration": 6.159
+  },
+  {
+    "text": "mates are not really uncommon with about",
+    "start": 665.639,
+    "duration": 5.64
+  },
+  {
+    "text": "0.01% of moves being a pawn mate very",
+    "start": 668.079,
+    "duration": 5.0
+  },
+  {
+    "text": "few of these are on pant mates but it's",
+    "start": 671.279,
+    "duration": 3.36
+  },
+  {
+    "text": "still on the order of tens of thousands",
+    "start": 673.079,
+    "duration": 2.44
+  },
+  {
+    "text": "of",
+    "start": 674.639,
+    "duration": 3.88
+  },
+  {
+    "text": "occurrences castling with Checkmate o-",
+    "start": 675.519,
+    "duration": 6.841
+  },
+  {
+    "text": "mate and o-- mate make up",
+    "start": 678.519,
+    "duration": 7.161
+  },
+  {
+    "text": "0.00001% of moves I found about 50,000",
+    "start": 682.36,
+    "duration": 6.479
+  },
+  {
+    "text": "instances out of the 342 billion",
+    "start": 685.68,
+    "duration": 5.04
+  },
+  {
+    "text": "interesting ly long Castle Mates is",
+    "start": 688.839,
+    "duration": 3.881
+  },
+  {
+    "text": "twice as common as short Castle mates",
+    "start": 690.72,
+    "duration": 3.559
+  },
+  {
+    "text": "probably because the Rook ends up more",
+    "start": 692.72,
+    "duration": 3.84
+  },
+  {
+    "text": "in the center where the king starts out",
+    "start": 694.279,
+    "duration": 3.881
+  },
+  {
+    "text": "these moves are pretty rare but it's",
+    "start": 696.56,
+    "duration": 4.16
+  },
+  {
+    "text": "just the beginning a king move that",
+    "start": 698.16,
+    "duration": 4.64
+  },
+  {
+    "text": "captures a piece and causes Checkmate",
+    "start": 700.72,
+    "duration": 4.919
+  },
+  {
+    "text": "like King takes A1 mate is actually even",
+    "start": 702.8,
+    "duration": 5.36
+  },
+  {
+    "text": "rarer than either of these with just",
+    "start": 705.639,
+    "duration": 5.721
+  },
+  {
+    "text": "13,677 occurrences just 1/4 as many as",
+    "start": 708.16,
+    "duration": 5.6
+  },
+  {
+    "text": "Castle checkmates this is probably rare",
+    "start": 711.36,
+    "duration": 4.56
+  },
+  {
+    "text": "because such a mate requires a discovery",
+    "start": 713.76,
+    "duration": 3.6
+  },
+  {
+    "text": "since the king can't directly threaten",
+    "start": 715.92,
+    "duration": 4.159
+  },
+  {
+    "text": "the other king and with that we're ready",
+    "start": 717.36,
+    "duration": 4.32
+  },
+  {
+    "text": "to see which of our candidates is",
+    "start": 720.079,
+    "duration": 4.481
+  },
+  {
+    "text": "actually the most rare place your bets",
+    "start": 721.68,
+    "duration": 5.88
+  },
+  {
+    "text": "now first up is our warm-up move doubly",
+    "start": 724.56,
+    "duration": 6.24
+  },
+  {
+    "text": "disambiguated Queen moves there were 42",
+    "start": 727.56,
+    "duration": 6.32
+  },
+  {
+    "text": "billion Queen moves out of which I found",
+    "start": 730.8,
+    "duration": 6.399
+  },
+  {
+    "text": "63,9 doubly disambiguated Queen moves",
+    "start": 733.88,
+    "duration": 4.92
+  },
+  {
+    "text": "but our idea was to look for captures",
+    "start": 737.199,
+    "duration": 3.721
+  },
+  {
+    "text": "with Checkmate when looking at doubly",
+    "start": 738.8,
+    "duration": 4.12
+  },
+  {
+    "text": "disambiguated Queen capture checkmates I",
+    "start": 740.92,
+    "duration": 5.2
+  },
+  {
+    "text": "found drum roll",
+    "start": 742.92,
+    "duration": 8.56
+  },
+  {
+    "text": "179 just 179 times in 342 billion moves",
+    "start": 746.12,
+    "duration": 7.6
+  },
+  {
+    "text": "that's",
+    "start": 751.48,
+    "duration": 2.24
+  },
+  {
+    "text": "0.005% now that's pretty rare as we",
+    "start": 755.88,
+    "duration": 5.04
+  },
+  {
+    "text": "talked about it requires two pawns to",
+    "start": 759.24,
+    "duration": 3.279
+  },
+  {
+    "text": "promote then sit in a square then",
+    "start": 760.92,
+    "duration": 3.52
+  },
+  {
+    "text": "capture a piece and cause a Checkmate in",
+    "start": 762.519,
+    "duration": 4.601
+  },
+  {
+    "text": "one move that's a lot to ask for okay",
+    "start": 764.44,
+    "duration": 4.24
+  },
+  {
+    "text": "but again that's just the warm-up now",
+    "start": 767.12,
+    "duration": 3.48
+  },
+  {
+    "text": "for our first real candidate for rare",
+    "start": 768.68,
+    "duration": 4.279
+  },
+  {
+    "text": "move it's rank disambiguated Bishop",
+    "start": 770.6,
+    "duration": 3.28
+  },
+  {
+    "text": "capture",
+    "start": 772.959,
+    "duration": 3.401
+  },
+  {
+    "text": "checkmates I found",
+    "start": 773.88,
+    "duration": 5.56
+  },
+  {
+    "text": "2,294 disambiguated Bishop moves of",
+    "start": 776.36,
+    "duration": 5.96
+  },
+  {
+    "text": "which only 22,35 were Rank",
+    "start": 779.44,
+    "duration": 5.0
+  },
+  {
+    "text": "disambiguated and how many of those",
+    "start": 782.32,
+    "duration": 5.199
+  },
+  {
+    "text": "cause capture and Checkmate a measly",
+    "start": 784.44,
+    "duration": 6.839
+  },
+  {
+    "text": "26 yep that's",
+    "start": 787.519,
+    "duration": 3.76
+  },
+  {
+    "text": "0.00000000 8% of moves since Knights can",
+    "start": 791.88,
+    "duration": 6.04
+  },
+  {
+    "text": "require rank disambiguation without Pawn",
+    "start": 795.88,
+    "duration": 3.92
+  },
+  {
+    "text": "under promotion the equivalent knight",
+    "start": 797.92,
+    "duration": 4.0
+  },
+  {
+    "text": "move happens 200 times more often than",
+    "start": 799.8,
+    "duration": 4.039
+  },
+  {
+    "text": "our rank disambiguated Bishop capture",
+    "start": 801.92,
+    "duration": 4.2
+  },
+  {
+    "text": "Checkmate we're getting into pretty rare",
+    "start": 803.839,
+    "duration": 4.881
+  },
+  {
+    "text": "territory now and now let's talk about",
+    "start": 806.12,
+    "duration": 4.959
+  },
+  {
+    "text": "non capture Bishop double disambiguated",
+    "start": 808.72,
+    "duration": 4.119
+  },
+  {
+    "text": "checkmates these were the ones that",
+    "start": 811.079,
+    "duration": 3.76
+  },
+  {
+    "text": "required a discovered attack after under",
+    "start": 812.839,
+    "duration": 4.321
+  },
+  {
+    "text": "promoting at least two pawns and how",
+    "start": 814.839,
+    "duration": 7.56
+  },
+  {
+    "text": "many of these did we find dral one yep",
+    "start": 817.16,
+    "duration": 7.119
+  },
+  {
+    "text": "that's right I found exactly one of",
+    "start": 822.399,
+    "duration": 6.601
+  },
+  {
+    "text": "these on January 22nd 2022 n Marcus n",
+    "start": 824.279,
+    "duration": 7.0
+  },
+  {
+    "text": "and",
+    "start": 829.0,
+    "duration": 5.04
+  },
+  {
+    "text": "Maus played a Blitz game which ended in",
+    "start": 831.279,
+    "duration": 5.92
+  },
+  {
+    "text": "bf1 G2 mate indeed they had three",
+    "start": 834.04,
+    "duration": 5.239
+  },
+  {
+    "text": "Bishops in a square and moved the corner",
+    "start": 837.199,
+    "duration": 6.601
+  },
+  {
+    "text": "ring a discovered attack via a queen wow",
+    "start": 839.279,
+    "duration": 10.761
+  },
+  {
+    "text": "so that's it then one out of 342 billion",
+    "start": 843.8,
+    "duration": 6.24
+  },
+  {
+    "text": "0.003% this must be the rarest move well",
+    "start": 853.079,
+    "duration": 5.721
+  },
+  {
+    "text": "let's keep going let's now talk about",
+    "start": 856.36,
+    "duration": 3.599
+  },
+  {
+    "text": "Knight double",
+    "start": 858.8,
+    "duration": 2.88
+  },
+  {
+    "text": "disambiguations I kind of thought these",
+    "start": 859.959,
+    "duration": 3.721
+  },
+  {
+    "text": "were an underdog in the race like it's",
+    "start": 861.68,
+    "duration": 4.12
+  },
+  {
+    "text": "just a knight move but these are truly",
+    "start": 863.68,
+    "duration": 4.36
+  },
+  {
+    "text": "very rare the constraints on how you",
+    "start": 865.8,
+    "duration": 3.479
+  },
+  {
+    "text": "have to position the knights make it",
+    "start": 868.04,
+    "duration": 3.4
+  },
+  {
+    "text": "harder to execute than you might expect",
+    "start": 869.279,
+    "duration": 3.68
+  },
+  {
+    "text": "I only found",
+    "start": 871.44,
+    "duration": 3.639
+  },
+  {
+    "text": "1,973 night double",
+    "start": 872.959,
+    "duration": 3.921
+  },
+  {
+    "text": "disambiguations and how many of these",
+    "start": 875.079,
+    "duration": 6.161
+  },
+  {
+    "text": "were capture and Checkmate none zero I",
+    "start": 876.88,
+    "duration": 5.48
+  },
+  {
+    "text": "never found",
+    "start": 881.24,
+    "duration": 3.36
+  },
+  {
+    "text": "any but judging from the ratio of",
+    "start": 882.36,
+    "duration": 4.12
+  },
+  {
+    "text": "capture checkmates from other moves we",
+    "start": 884.6,
+    "duration": 3.32
+  },
+  {
+    "text": "probably need to look at several billion",
+    "start": 886.48,
+    "duration": 3.24
+  },
+  {
+    "text": "more games before we'd expect to see one",
+    "start": 887.92,
+    "duration": 4.76
+  },
+  {
+    "text": "by chance so maybe we can expect one of",
+    "start": 889.72,
+    "duration": 5.32
+  },
+  {
+    "text": "these on Lees at some point this",
+    "start": 892.68,
+    "duration": 5.159
+  },
+  {
+    "text": "decade so is this it what could be rarer",
+    "start": 895.04,
+    "duration": 5.599
+  },
+  {
+    "text": "than never well finally we have the",
+    "start": 897.839,
+    "duration": 4.92
+  },
+  {
+    "text": "bishop double disambiguation capture",
+    "start": 900.639,
+    "duration": 4.361
+  },
+  {
+    "text": "Checkmate these are much rarer than",
+    "start": 902.759,
+    "duration": 3.121
+  },
+  {
+    "text": "single",
+    "start": 905.0,
+    "duration": 4.079
+  },
+  {
+    "text": "disambiguation I only found 665 Bishop",
+    "start": 905.88,
+    "duration": 4.079
+  },
+  {
+    "text": "double",
+    "start": 909.079,
+    "duration": 2.68
+  },
+  {
+    "text": "disambiguations and care to guess how",
+    "start": 909.959,
+    "duration": 2.761
+  },
+  {
+    "text": "many of these are captures and",
+    "start": 911.759,
+    "duration": 3.401
+  },
+  {
+    "text": "checkmates that's right none of them",
+    "start": 912.72,
+    "duration": 4.6
+  },
+  {
+    "text": "okay well we went looking for rare moves",
+    "start": 915.16,
+    "duration": 3.84
+  },
+  {
+    "text": "but it ended up being so rare that all",
+    "start": 917.32,
+    "duration": 3.84
+  },
+  {
+    "text": "we found is a bunch of zeros now how are",
+    "start": 919.0,
+    "duration": 3.8
+  },
+  {
+    "text": "we supposed to Crown a winner if it's a",
+    "start": 921.16,
+    "duration": 5.239
+  },
+  {
+    "text": "tie for Z out of 342 billion well",
+    "start": 922.8,
+    "duration": 5.32
+  },
+  {
+    "text": "ideally we just keep analyzing data",
+    "start": 926.399,
+    "duration": 4.321
+  },
+  {
+    "text": "until we had some hits but I went",
+    "start": 928.12,
+    "duration": 5.6
+  },
+  {
+    "text": "through all the data there was just.com",
+    "start": 930.72,
+    "duration": 5.52
+  },
+  {
+    "text": "has something like 8X more games but",
+    "start": 933.72,
+    "duration": 4.0
+  },
+  {
+    "text": "unfortunately the data is not available",
+    "start": 936.24,
+    "duration": 3.159
+  },
+  {
+    "text": "to download and we just won't know",
+    "start": 937.72,
+    "duration": 3.919
+  },
+  {
+    "text": "without the data in my view doubly",
+    "start": 939.399,
+    "duration": 4.281
+  },
+  {
+    "text": "disambiguated Bishop capture checkmates",
+    "start": 941.639,
+    "duration": 4.0
+  },
+  {
+    "text": "seem likely to be rarer than doubly",
+    "start": 943.68,
+    "duration": 4.639
+  },
+  {
+    "text": "disambiguated Knight capture checkmates",
+    "start": 945.639,
+    "duration": 3.961
+  },
+  {
+    "text": "of all the pieces Bishop double",
+    "start": 948.319,
+    "duration": 3.08
+  },
+  {
+    "text": "disambiguations occur significantly less",
+    "start": 949.6,
+    "duration": 3.76
+  },
+  {
+    "text": "than the others with onethird as many as",
+    "start": 951.399,
+    "duration": 4.321
+  },
+  {
+    "text": "Knight double disambiguations I found",
+    "start": 953.36,
+    "duration": 3.839
+  },
+  {
+    "text": "three Knight double disambiguation",
+    "start": 955.72,
+    "duration": 3.52
+  },
+  {
+    "text": "captures but zero Bishop double",
+    "start": 957.199,
+    "duration": 4.361
+  },
+  {
+    "text": "disambiguation captures Bishop double",
+    "start": 959.24,
+    "duration": 4.0
+  },
+  {
+    "text": "disambiguation requires at least two",
+    "start": 961.56,
+    "duration": 3.12
+  },
+  {
+    "text": "Pawn under promotions instead of just",
+    "start": 963.24,
+    "duration": 3.399
+  },
+  {
+    "text": "one and they have to be on the same",
+    "start": 964.68,
+    "duration": 5.32
+  },
+  {
+    "text": "color so we'll unconvincingly give the",
+    "start": 966.639,
+    "duration": 5.601
+  },
+  {
+    "text": "crown to Bishop double disambiguation",
+    "start": 970.0,
+    "duration": 4.839
+  },
+  {
+    "text": "capture checkmates great job there's an",
+    "start": 972.24,
+    "duration": 4.599
+  },
+  {
+    "text": "argument to be made here that if a move",
+    "start": 974.839,
+    "duration": 3.881
+  },
+  {
+    "text": "has never happened can you really call",
+    "start": 976.839,
+    "duration": 4.321
+  },
+  {
+    "text": "it rare like the minimum threshold",
+    "start": 978.72,
+    "duration": 5.52
+  },
+  {
+    "text": "should be one like let's say spaghetti",
+    "start": 981.16,
+    "duration": 4.919
+  },
+  {
+    "text": "monsters invaded Earth and beat Magnus",
+    "start": 984.24,
+    "duration": 4.159
+  },
+  {
+    "text": "Carlson at chess the word I would use to",
+    "start": 986.079,
+    "duration": 5.401
+  },
+  {
+    "text": "describe that wouldn't be rare though",
+    "start": 988.399,
+    "duration": 4.56
+  },
+  {
+    "text": "since we only have data from Lees we",
+    "start": 991.48,
+    "duration": 3.279
+  },
+  {
+    "text": "have to assume these moves have happened",
+    "start": 992.959,
+    "duration": 4.24
+  },
+  {
+    "text": "somewhere at some point in history so I",
+    "start": 994.759,
+    "duration": 5.52
+  },
+  {
+    "text": "think it's safe to call them rare",
+    "start": 997.199,
+    "duration": 3.08
+  },
+  {
+    "text": "moves this was so much more complicated",
+    "start": 1000.839,
+    "duration": 4.48
+  },
+  {
+    "text": "than I ever expected it to be I can't",
+    "start": 1003.44,
+    "duration": 3.48
+  },
+  {
+    "text": "tell you the number of times I remade",
+    "start": 1005.319,
+    "duration": 3.401
+  },
+  {
+    "text": "this video upon finding a newer even",
+    "start": 1006.92,
+    "duration": 3.919
+  },
+  {
+    "text": "rarer move or postpone to analyze just",
+    "start": 1008.72,
+    "duration": 4.44
+  },
+  {
+    "text": "one more month of data my code is",
+    "start": 1010.839,
+    "duration": 3.641
+  },
+  {
+    "text": "available if you'd like to analyze it",
+    "start": 1013.16,
+    "duration": 3.359
+  },
+  {
+    "text": "yourself you can look at some extra",
+    "start": 1014.48,
+    "duration": 4.44
+  },
+  {
+    "text": "details of the statistics there too",
+    "start": 1016.519,
+    "duration": 5.601
+  },
+  {
+    "text": "thanks for watching",
+    "start": 1018.92,
+    "duration": 3.2
+  }
+]

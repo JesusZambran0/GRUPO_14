@@ -1,0 +1,1417 @@
+[
+  {
+    "text": "Hello everyone. In this lesson, and in\nthis series of lessons we are going to",
+    "start": 0.269,
+    "duration": 4.421
+  },
+  {
+    "text": "introduce you",
+    "start": 4.69,
+    "duration": 1.29
+  },
+  {
+    "text": "to computer programming through 'C'.",
+    "start": 5.98,
+    "duration": 3.63
+  },
+  {
+    "text": "'C' is a computer programming language.These\nlessons are meant for someone with",
+    "start": 9.61,
+    "duration": 4.729
+  },
+  {
+    "text": "very little are no prior experience in\nprogramming. We are going to keep our",
+    "start": 14.339,
+    "duration": 4.541
+  },
+  {
+    "text": "assumptions really low, we will start with\nthe basics",
+    "start": 18.88,
+    "duration": 3.26
+  },
+  {
+    "text": "and carry everyone along. Okay so let's\nget started",
+    "start": 22.14,
+    "duration": 3.949
+  },
+  {
+    "text": "unlike most other machines that can\nperform",
+    "start": 26.089,
+    "duration": 3.02
+  },
+  {
+    "text": "a finite set of predefined tasks a\ncomputer",
+    "start": 29.109,
+    "duration": 3.54
+  },
+  {
+    "text": "is a general purpose machine that can\nperform",
+    "start": 32.649,
+    "duration": 4.131
+  },
+  {
+    "text": "any computational task. All you need to\ndo is",
+    "start": 36.78,
+    "duration": 3.86
+  },
+  {
+    "text": "you need to give it a program which",
+    "start": 40.64,
+    "duration": 3.46
+  },
+  {
+    "text": "is nothing but a set of instructions to\nperform a task.",
+    "start": 44.1,
+    "duration": 3.63
+  },
+  {
+    "text": "A computer is nothing in itself",
+    "start": 47.73,
+    "duration": 3.28
+  },
+  {
+    "text": "without programs, all the tasks are\nperformed through programs.",
+    "start": 51.01,
+    "duration": 3.869
+  },
+  {
+    "text": "A modern-day computer would have\nhundreds and thousands of programs",
+    "start": 54.879,
+    "duration": 3.991
+  },
+  {
+    "text": "in it. There are programs that manage the\nhardware resources of the computer",
+    "start": 58.87,
+    "duration": 4.61
+  },
+  {
+    "text": "we call such programs system programs.\nAnd",
+    "start": 63.48,
+    "duration": 3.639
+  },
+  {
+    "text": "then there are programs that perform\nyour favorite tasks,",
+    "start": 67.119,
+    "duration": 3.271
+  },
+  {
+    "text": "we call them application programs like\na web browser",
+    "start": 70.39,
+    "duration": 3.51
+  },
+  {
+    "text": "that you use to browse the internet or a\ntext editor",
+    "start": 73.9,
+    "duration": 3.31
+  },
+  {
+    "text": "that you use to create a document. And if\nany of these programs",
+    "start": 77.21,
+    "duration": 4.38
+  },
+  {
+    "text": "cannot perform the task that you want to\nperform you can write your own program",
+    "start": 81.59,
+    "duration": 4.849
+  },
+  {
+    "text": "and that's what we're going to learn in\nthis series of lessons,",
+    "start": 86.439,
+    "duration": 3.46
+  },
+  {
+    "text": "writing and executing your own program.",
+    "start": 89.899,
+    "duration": 3.11
+  },
+  {
+    "text": "As we saw a program is a set",
+    "start": 93.009,
+    "duration": 3.14
+  },
+  {
+    "text": "or sequence of instructions that you\nwould give to the computer",
+    "start": 96.149,
+    "duration": 3.201
+  },
+  {
+    "text": "and the computer would execute those\ninstructions.",
+    "start": 99.35,
+    "duration": 3.67
+  },
+  {
+    "text": "Now in what language can I give these\ninstructions to the computer.",
+    "start": 103.02,
+    "duration": 3.72
+  },
+  {
+    "text": "Can I give these instructions in a natural\nlanguage",
+    "start": 106.74,
+    "duration": 3.51
+  },
+  {
+    "text": "like English? You must have heard that",
+    "start": 110.25,
+    "duration": 3.219
+  },
+  {
+    "text": "a computer understand binary, binary\nis the language of computers.",
+    "start": 113.469,
+    "duration": 4.411
+  },
+  {
+    "text": "Binary is a number system that has\nonly two digits",
+    "start": 117.88,
+    "duration": 4.519
+  },
+  {
+    "text": "zero and one. The number system that",
+    "start": 122.399,
+    "duration": 3.161
+  },
+  {
+    "text": "we use has ten digits from 0 to 9 and\nwe call it decimal number system.",
+    "start": 125.56,
+    "duration": 6.73
+  },
+  {
+    "text": "So why does computer understand binary\nor rather",
+    "start": 132.29,
+    "duration": 3.81
+  },
+  {
+    "text": "why are computers designed to understand\nbinary",
+    "start": 136.1,
+    "duration": 3.18
+  },
+  {
+    "text": "and the reason is binary is really\neasy to simulate in",
+    "start": 139.28,
+    "duration": 4.82
+  },
+  {
+    "text": "actual physical design of things in real\nhardware.",
+    "start": 144.1,
+    "duration": 3.7
+  },
+  {
+    "text": "Computer is an electrical device and\nit's really easy to create",
+    "start": 147.8,
+    "duration": 4.76
+  },
+  {
+    "text": "the logic of zero and one in an\nelectrical circuit.",
+    "start": 152.56,
+    "duration": 3.77
+  },
+  {
+    "text": "For example if current is",
+    "start": 156.33,
+    "duration": 3.05
+  },
+  {
+    "text": "flowing through some wire we can say\nthat it's a 1",
+    "start": 159.38,
+    "duration": 3.64
+  },
+  {
+    "text": "and if current is not flowing we can\nsay that",
+    "start": 163.02,
+    "duration": 3.01
+  },
+  {
+    "text": "it's a 0. If there is some potential\ndifference",
+    "start": 166.03,
+    "duration": 3.48
+  },
+  {
+    "text": "across a capacitor we can say that\nit's a 1",
+    "start": 169.51,
+    "duration": 3.51
+  },
+  {
+    "text": "and if there is no potential difference\nwe can say that its",
+    "start": 173.02,
+    "duration": 3.4
+  },
+  {
+    "text": "a 0. In general '1' can correspond\nto something that exists",
+    "start": 176.42,
+    "duration": 5.65
+  },
+  {
+    "text": "and '0' can correspond to something\nthat does not exist.",
+    "start": 182.07,
+    "duration": 3.89
+  },
+  {
+    "text": "'1' can correspond to some condition\nbeing true",
+    "start": 185.96,
+    "duration": 3.41
+  },
+  {
+    "text": "and '0' can correspond to that\ncondition being false.",
+    "start": 189.37,
+    "duration": 3.59
+  },
+  {
+    "text": "At lowest level in a computer any\ncommunication",
+    "start": 192.96,
+    "duration": 3.42
+  },
+  {
+    "text": "has to happen in binary or any data\nhas to be stored in binary.",
+    "start": 196.38,
+    "duration": 5.07
+  },
+  {
+    "text": "You can use a bunch of wires together to\ncommunicate",
+    "start": 201.45,
+    "duration": 3.59
+  },
+  {
+    "text": "or signal something or you can use a\nbunch of capacitors together to store",
+    "start": 205.04,
+    "duration": 4.69
+  },
+  {
+    "text": "some data.",
+    "start": 209.73,
+    "duration": 0.73
+  },
+  {
+    "text": "In actual physical design there may be\nother ways",
+    "start": 210.46,
+    "duration": 3.58
+  },
+  {
+    "text": "to communicate or store some information\nbut logically it has to be binary,",
+    "start": 214.04,
+    "duration": 5.61
+  },
+  {
+    "text": "a bunch of one's and zero's put\ntogether. If we use only one wire or one",
+    "start": 219.65,
+    "duration": 5.36
+  },
+  {
+    "text": "capacitor we can",
+    "start": 225.01,
+    "duration": 1.13
+  },
+  {
+    "text": "signal or store only two possible\nvalues",
+    "start": 226.14,
+    "duration": 3.58
+  },
+  {
+    "text": "zero and one. But let's see if",
+    "start": 229.72,
+    "duration": 3.33
+  },
+  {
+    "text": "we use two wires or capacitors\ntogether we can signal or store four",
+    "start": 233.05,
+    "duration": 5.79
+  },
+  {
+    "text": "possible combinations or four possible\nvalues",
+    "start": 238.84,
+    "duration": 3.17
+  },
+  {
+    "text": "in binary 00,01,",
+    "start": 242.01,
+    "duration": 3.27
+  },
+  {
+    "text": "10 and 11. A binary digit is also\ncalled",
+    "start": 245.28,
+    "duration": 4.86
+  },
+  {
+    "text": "a bit, if you have only one bit",
+    "start": 250.14,
+    "duration": 3.83
+  },
+  {
+    "text": "you can have two possible values and if\nyou have two bits",
+    "start": 253.97,
+    "duration": 4.489
+  },
+  {
+    "text": "you can have four possible values each\nbit can either be 0 or 1.",
+    "start": 258.459,
+    "duration": 4.801
+  },
+  {
+    "text": "1 is also called 'set' bit",
+    "start": 263.26,
+    "duration": 3.38
+  },
+  {
+    "text": "and 0 is also called 'unset' bit.",
+    "start": 266.64,
+    "duration": 3.74
+  },
+  {
+    "text": "If we have three bits, lets say each cell\nthat I have drawn here in this",
+    "start": 270.38,
+    "duration": 4.65
+  },
+  {
+    "text": "figure is a bit position then at each\nposition",
+    "start": 275.03,
+    "duration": 3.4
+  },
+  {
+    "text": "we have two choices.We can either have\n0",
+    "start": 278.43,
+    "duration": 3.76
+  },
+  {
+    "text": "or a 1 and corresponding to these choices.\nWe will",
+    "start": 282.19,
+    "duration": 3.02
+  },
+  {
+    "text": "have two choices for the next position\nand corresponding to a combination of",
+    "start": 285.21,
+    "duration": 4.45
+  },
+  {
+    "text": "these two positions we will have two\nchoices for the next position. So",
+    "start": 289.66,
+    "duration": 4.38
+  },
+  {
+    "text": "if we have three bits we can have eight\npossible binary values.",
+    "start": 294.04,
+    "duration": 4.69
+  },
+  {
+    "text": "These are eight possible values with three\nbits, in decimal this is 'zero' this is",
+    "start": 298.73,
+    "duration": 4.46
+  },
+  {
+    "text": "'one'",
+    "start": 303.19,
+    "duration": 1.01
+  },
+  {
+    "text": "this is 'two' and so on. In general",
+    "start": 304.2,
+    "duration": 3.28
+  },
+  {
+    "text": "if we have n bits we can have two to the\npower",
+    "start": 307.48,
+    "duration": 3.47
+  },
+  {
+    "text": "'n' possible permutations and\ncombinations of zero's and one's.",
+    "start": 310.95,
+    "duration": 4.59
+  },
+  {
+    "text": "We can have values from zero till two to\nthe power",
+    "start": 315.54,
+    "duration": 4.24
+  },
+  {
+    "text": "'n-1', for 'n' equal 3 we can have values\nfrom 0 to 7 for 'n' equal 4 we can",
+    "start": 319.78,
+    "duration": 5.43
+  },
+  {
+    "text": "have",
+    "start": 325.21,
+    "duration": 0.72
+  },
+  {
+    "text": "values from 0 till 15 and we can go\non.",
+    "start": 325.93,
+    "duration": 3.92
+  },
+  {
+    "text": "For more on binary number system and\nthings like how to convert",
+    "start": 329.85,
+    "duration": 3.39
+  },
+  {
+    "text": "a number from binary to decimal and\nvice versa",
+    "start": 333.24,
+    "duration": 3.72
+  },
+  {
+    "text": "you can check the description of this\nvideo for some lessons.",
+    "start": 336.96,
+    "duration": 3.79
+  },
+  {
+    "text": "Now coming back to how computer would\nunderstand and execute",
+    "start": 340.75,
+    "duration": 4.16
+  },
+  {
+    "text": "instructions, core part of the computer\nthat",
+    "start": 344.91,
+    "duration": 3.48
+  },
+  {
+    "text": "executes all the instructions is called",
+    "start": 348.39,
+    "duration": 3.01
+  },
+  {
+    "text": "the central processing unit or CPU.",
+    "start": 351.4,
+    "duration": 3.62
+  },
+  {
+    "text": "Sometimes we simply call it the\nprocessor and",
+    "start": 355.02,
+    "duration": 3.13
+  },
+  {
+    "text": "it's not the big case or box of your\ndesktop computer it's often",
+    "start": 358.15,
+    "duration": 3.94
+  },
+  {
+    "text": "misunderstood like that.",
+    "start": 362.09,
+    "duration": 1.9
+  },
+  {
+    "text": "A modern-day CPU is a very small\nintegrated circuit",
+    "start": 363.99,
+    "duration": 3.71
+  },
+  {
+    "text": "that would look something like this,\nIntel is one of the companies that make",
+    "start": 367.7,
+    "duration": 3.96
+  },
+  {
+    "text": "CPU's.",
+    "start": 371.66,
+    "duration": 1.25
+  },
+  {
+    "text": "So CPU is the guy who has to execute\nyour instructions.",
+    "start": 372.91,
+    "duration": 3.87
+  },
+  {
+    "text": "Now each instruction to the CPU has to\nbe",
+    "start": 376.78,
+    "duration": 3.23
+  },
+  {
+    "text": "a pattern of bits a pattern of one's and\nzero's.",
+    "start": 380.01,
+    "duration": 4.07
+  },
+  {
+    "text": "But an instruction cannot be any random \npattern of bits",
+    "start": 384.08,
+    "duration": 3.7
+  },
+  {
+    "text": "it has to be in a certain format so that\nthe CPU is able to decode",
+    "start": 387.78,
+    "duration": 4.6
+  },
+  {
+    "text": "and execute it. A set of specifications\nare laid out for a CPU",
+    "start": 392.38,
+    "duration": 4.66
+  },
+  {
+    "text": "and your instructions must follow the\nspecifications,",
+    "start": 397.04,
+    "duration": 3.71
+  },
+  {
+    "text": "for example specification can be that\nany instruction to perform",
+    "start": 400.75,
+    "duration": 4.49
+  },
+  {
+    "text": "an arithmetical or logical operation\nmust be",
+    "start": 405.24,
+    "duration": 3.14
+  },
+  {
+    "text": "in 20 bits. Let's say the cells in the\nfigure that I have drawn here",
+    "start": 408.38,
+    "duration": 4.75
+  },
+  {
+    "text": "are bit positions in a binary number. Now\nspecification can be",
+    "start": 413.13,
+    "duration": 4.06
+  },
+  {
+    "text": "and this is just an example that out of\nthese 20 bits",
+    "start": 417.19,
+    "duration": 3.61
+  },
+  {
+    "text": "first four bits or leftmost four bits",
+    "start": 420.8,
+    "duration": 3.64
+  },
+  {
+    "text": "must be a binary code for the\noperation that you want to perform.",
+    "start": 424.44,
+    "duration": 4.91
+  },
+  {
+    "text": "We typically write shortcut 'opcode'",
+    "start": 429.35,
+    "duration": 3.319
+  },
+  {
+    "text": "for operation code and operation\ncodes will also be specified.",
+    "start": 432.669,
+    "duration": 4.361
+  },
+  {
+    "text": "Let's say operation code for 'Add' in\nfour bits",
+    "start": 437.03,
+    "duration": 3.45
+  },
+  {
+    "text": "is 0001, let's say \noperation code for subtraction",
+    "start": 440.48,
+    "duration": 4.15
+  },
+  {
+    "text": "is 0010 and there can be\nother operations like",
+    "start": 444.63,
+    "duration": 3.44
+  },
+  {
+    "text": "comparison let's say comparison is 0101.",
+    "start": 448.07,
+    "duration": 3.98
+  },
+  {
+    "text": "So if we want to have an instruction to\nadd two numbers",
+    "start": 452.05,
+    "duration": 3.839
+  },
+  {
+    "text": "these four bits must be 0001",
+    "start": 455.889,
+    "duration": 3.971
+  },
+  {
+    "text": "and let's say rest of the specification is\nthat the next",
+    "start": 459.86,
+    "duration": 3.23
+  },
+  {
+    "text": "8 bits must be the first operand.",
+    "start": 463.09,
+    "duration": 3.94
+  },
+  {
+    "text": "The numbers upon which you perform\noperations are called operands.",
+    "start": 467.03,
+    "duration": 3.72
+  },
+  {
+    "text": "The next eight bits can be the second\noperand.",
+    "start": 470.75,
+    "duration": 3.389
+  },
+  {
+    "text": "Let's say you want instruction to add\nnumbers 4 & 5.",
+    "start": 474.139,
+    "duration": 4.871
+  },
+  {
+    "text": "Then 4 in binary is 100",
+    "start": 479.01,
+    "duration": 4.56
+  },
+  {
+    "text": "rest of these bits will be 0 and\n5 in binary",
+    "start": 483.57,
+    "duration": 4.349
+  },
+  {
+    "text": "is 101  and rest of these bits \nwill be zeros,",
+    "start": 487.919,
+    "duration": 3.951
+  },
+  {
+    "text": "leading zeros will not mean anything. So\nwhat you have here",
+    "start": 491.87,
+    "duration": 4.18
+  },
+  {
+    "text": "in 20 bits is an instruction to add\nnumbers 4 & 5",
+    "start": 496.05,
+    "duration": 4.95
+  },
+  {
+    "text": "according to an example specification\nthat I have picked.",
+    "start": 501.0,
+    "duration": 3.83
+  },
+  {
+    "text": "So here is the deal this is the language\nthat the machine actually understands",
+    "start": 504.83,
+    "duration": 4.76
+  },
+  {
+    "text": "and executes instructions in binary\nas per some laid out specifications.",
+    "start": 509.59,
+    "duration": 5.41
+  },
+  {
+    "text": "The bits in instruction maps to some\nphysical design",
+    "start": 515.0,
+    "duration": 3.919
+  },
+  {
+    "text": "in circuit and we do not need to go into\nthose details.",
+    "start": 518.919,
+    "duration": 3.791
+  },
+  {
+    "text": "Such an instruction in binary is often\ncalled",
+    "start": 522.71,
+    "duration": 3.53
+  },
+  {
+    "text": "machine language instruction, machine\nlanguage because it can be interpreted",
+    "start": 526.24,
+    "duration": 3.95
+  },
+  {
+    "text": "and executed by the machine or more\nspecifically",
+    "start": 530.19,
+    "duration": 3.67
+  },
+  {
+    "text": "the CPU. Two CPU's can have entirely\ndifferent architectures",
+    "start": 533.86,
+    "duration": 4.6
+  },
+  {
+    "text": "and entirely different specifications\nfor",
+    "start": 538.46,
+    "duration": 3.18
+  },
+  {
+    "text": "instructions. So machine language\ninstruction for one CPU architecture",
+    "start": 541.64,
+    "duration": 4.949
+  },
+  {
+    "text": "may not work for another CPU\narchitecture.",
+    "start": 546.589,
+    "duration": 3.281
+  },
+  {
+    "text": "There was a time when programs where\nliterally",
+    "start": 549.87,
+    "duration": 3.03
+  },
+  {
+    "text": "written in machine language, it was a\nvery tedious and error-prone process.",
+    "start": 552.9,
+    "duration": 4.89
+  },
+  {
+    "text": "Think about it, you would constantly have\nto look at the specifications for",
+    "start": 557.79,
+    "duration": 4.78
+  },
+  {
+    "text": "binary codes for various operations and\ncommands.",
+    "start": 562.57,
+    "duration": 3.12
+  },
+  {
+    "text": "The program will not be human readable\nyou will not be able to figure out the",
+    "start": 565.69,
+    "duration": 3.14
+  },
+  {
+    "text": "logic",
+    "start": 568.83,
+    "duration": 0.92
+  },
+  {
+    "text": "by just looking at a program. Some\nimprovement came with development of",
+    "start": 569.75,
+    "duration": 4.47
+  },
+  {
+    "text": "assembly language. In assembly language\nwe can have a more human-readable",
+    "start": 574.22,
+    "duration": 4.29
+  },
+  {
+    "text": "representation",
+    "start": 578.51,
+    "duration": 1.73
+  },
+  {
+    "text": "of a machine language instruction, for\nexample",
+    "start": 580.24,
+    "duration": 3.07
+  },
+  {
+    "text": "if this is the machine language\ninstruction",
+    "start": 583.31,
+    "duration": 3.64
+  },
+  {
+    "text": "with one opcode and two operands",
+    "start": 586.95,
+    "duration": 3.24
+  },
+  {
+    "text": "then in assembly language the same\ninstruction can be written in a more",
+    "start": 590.19,
+    "duration": 4.2
+  },
+  {
+    "text": "readable form.",
+    "start": 594.39,
+    "duration": 1.41
+  },
+  {
+    "text": "We can write some keywords for opcode\nsay",
+    "start": 595.8,
+    "duration": 3.41
+  },
+  {
+    "text": "for example if this is opcode for\naddition we can write",
+    "start": 599.21,
+    "duration": 3.89
+  },
+  {
+    "text": "Add and then we can write the operands\nas well as constants in decimal,",
+    "start": 603.1,
+    "duration": 5.07
+  },
+  {
+    "text": "operand one is 4 and operand two is\n5.",
+    "start": 608.17,
+    "duration": 3.83
+  },
+  {
+    "text": "One can write an instruction like this\nin assembly language",
+    "start": 612.0,
+    "duration": 3.05
+  },
+  {
+    "text": "the improvement that you're getting is\ninstead of writing operation codes and",
+    "start": 615.05,
+    "duration": 3.87
+  },
+  {
+    "text": "commands",
+    "start": 618.92,
+    "duration": 1.1
+  },
+  {
+    "text": "in binary you are writing some keywords\nwhich will make some sense.",
+    "start": 620.02,
+    "duration": 4.75
+  },
+  {
+    "text": "Instead of writing 0001 for addition\nwe are writing",
+    "start": 624.77,
+    "duration": 3.22
+  },
+  {
+    "text": "add keyword and instead of writing\nconstants",
+    "start": 627.99,
+    "duration": 3.61
+  },
+  {
+    "text": "as binary numbers we're\nwriting constants",
+    "start": 631.6,
+    "duration": 3.47
+  },
+  {
+    "text": "in decimal. But wait a minute didn't I\nsay that",
+    "start": 635.07,
+    "duration": 3.22
+  },
+  {
+    "text": "CPU that has to execute all the\ninstructions",
+    "start": 638.29,
+    "duration": 3.63
+  },
+  {
+    "text": "will understand only machine language\ninstructions.",
+    "start": 641.92,
+    "duration": 3.08
+  },
+  {
+    "text": "This guy is shouting it out loud here that\nI can execute",
+    "start": 645.0,
+    "duration": 3.21
+  },
+  {
+    "text": "only machine level machine language\ninstructions so how can we write program",
+    "start": 648.21,
+    "duration": 4.439
+  },
+  {
+    "text": "in assembly language or whatever we are\ntalking here.",
+    "start": 652.649,
+    "duration": 3.031
+  },
+  {
+    "text": "Well you can write your logic in\nassembly language",
+    "start": 655.68,
+    "duration": 3.77
+  },
+  {
+    "text": "and then you can pass the assembly\nlanguage instructions",
+    "start": 659.45,
+    "duration": 3.71
+  },
+  {
+    "text": "to a program named assembler",
+    "start": 663.16,
+    "duration": 3.3
+  },
+  {
+    "text": "and this assembler will generate\nmachine language instructions",
+    "start": 666.46,
+    "duration": 4.97
+  },
+  {
+    "text": "corresponding to the assembly language\ninstructions.",
+    "start": 671.43,
+    "duration": 3.01
+  },
+  {
+    "text": "So basically someone wrote a program\nnamed assembler",
+    "start": 674.44,
+    "duration": 4.0
+  },
+  {
+    "text": "and with assembler programmers could\nwrite a little more readable",
+    "start": 678.44,
+    "duration": 3.27
+  },
+  {
+    "text": "instructions in assembly language.",
+    "start": 681.71,
+    "duration": 2.21
+  },
+  {
+    "text": "But there was a problem with assembly\nlanguage, assembly language",
+    "start": 683.92,
+    "duration": 3.66
+  },
+  {
+    "text": "is strongly mapped to machine language\nit's just that some",
+    "start": 687.58,
+    "duration": 3.97
+  },
+  {
+    "text": "binary codes in machine language\nbecome keywords",
+    "start": 691.55,
+    "duration": 3.41
+  },
+  {
+    "text": "in assembly language. So just like\nmachine language",
+    "start": 694.96,
+    "duration": 3.56
+  },
+  {
+    "text": "assembly language instructions will also\nvary from one",
+    "start": 698.52,
+    "duration": 3.319
+  },
+  {
+    "text": "CPU architecture to another.So if you\nwould",
+    "start": 701.839,
+    "duration": 3.451
+  },
+  {
+    "text": "try to port your assembly language\ncode from",
+    "start": 705.29,
+    "duration": 3.43
+  },
+  {
+    "text": "one architecture to another the same\nprogram may not run.",
+    "start": 708.72,
+    "duration": 3.6
+  },
+  {
+    "text": "You may have to rewrite your program\naccording to a new set of specifications.",
+    "start": 712.32,
+    "duration": 5.01
+  },
+  {
+    "text": "So both assembly and machine language\nare specific",
+    "start": 717.33,
+    "duration": 3.42
+  },
+  {
+    "text": "to architecture of machine. Such languages\nthe instructions in which depend",
+    "start": 720.75,
+    "duration": 4.17
+  },
+  {
+    "text": "upon",
+    "start": 724.92,
+    "duration": 0.7
+  },
+  {
+    "text": "the architecture of machine or more\nspecifically the architecture of CPU",
+    "start": 725.62,
+    "duration": 4.51
+  },
+  {
+    "text": "have been called low-level languages.",
+    "start": 730.13,
+    "duration": 2.959
+  },
+  {
+    "text": "There was need for programming languages\nthat would not be",
+    "start": 733.089,
+    "duration": 3.18
+  },
+  {
+    "text": "specific to architecture of machine, such\nprogramming languages were called",
+    "start": 736.269,
+    "duration": 4.73
+  },
+  {
+    "text": "high-level languages. A high-level\nlanguage is supposed to have",
+    "start": 740.999,
+    "duration": 4.02
+  },
+  {
+    "text": "more elements of natural language and\nit's supposed to make",
+    "start": 745.019,
+    "duration": 4.341
+  },
+  {
+    "text": "the life of a programmer a lot more easier\nbecause he will not have to care about",
+    "start": 749.36,
+    "duration": 3.75
+  },
+  {
+    "text": "all the detailed low level specifications of the\nmachine.",
+    "start": 753.11,
+    "duration": 3.529
+  },
+  {
+    "text": "And now let's talk about high-level\nlanguages, high-level languages give you",
+    "start": 756.639,
+    "duration": 4.13
+  },
+  {
+    "text": "abstraction from machine architecture,",
+    "start": 760.769,
+    "duration": 2.151
+  },
+  {
+    "text": "so many high-level languages have been\ndeveloped",
+    "start": 762.92,
+    "duration": 3.029
+  },
+  {
+    "text": "till date I would name some of them. We\nhave C",
+    "start": 765.949,
+    "duration": 4.13
+  },
+  {
+    "text": "finally it took the name of 'C' after so\nlong we have 'C++' we have 'Java' we",
+    "start": 770.079,
+    "duration": 5.141
+  },
+  {
+    "text": "have",
+    "start": 775.22,
+    "duration": 0.279
+  },
+  {
+    "text": "'Python' and couple of old ones like\n'FORTRAN',",
+    "start": 775.499,
+    "duration": 3.87
+  },
+  {
+    "text": "'Basic' and the list goes on. FORTRAN was\nthe first high-level language",
+    "start": 779.369,
+    "duration": 5.58
+  },
+  {
+    "text": "developed by IBM. Now even with\nhigh-level languages we cannot skip",
+    "start": 784.949,
+    "duration": 4.791
+  },
+  {
+    "text": "the basic rule that finally the\ninstructions that will be executed",
+    "start": 789.74,
+    "duration": 4.36
+  },
+  {
+    "text": "have to be in machine language.",
+    "start": 794.1,
+    "duration": 2.97
+  },
+  {
+    "text": "There are two possible execution models\nfor high-level languages.",
+    "start": 797.07,
+    "duration": 3.42
+  },
+  {
+    "text": "Some languages are called compiled\nlanguages,",
+    "start": 800.49,
+    "duration": 4.08
+  },
+  {
+    "text": "for these languages we would have a\nprogram that we would call",
+    "start": 804.57,
+    "duration": 3.37
+  },
+  {
+    "text": "compiler. Compiler will be different for\ndifferent languages.",
+    "start": 807.94,
+    "duration": 4.07
+  },
+  {
+    "text": "It will also be different for different\nmachine architectures.",
+    "start": 812.01,
+    "duration": 3.02
+  },
+  {
+    "text": "Compiler will take your program written\nin a high-level language.",
+    "start": 815.03,
+    "duration": 3.7
+  },
+  {
+    "text": "We typically say that it takes your\nsource code",
+    "start": 818.73,
+    "duration": 3.38
+  },
+  {
+    "text": "written in a high-level language and\ngenerates machine code,",
+    "start": 822.11,
+    "duration": 4.54
+  },
+  {
+    "text": "set of instructions that can be executed\ndirectly",
+    "start": 826.65,
+    "duration": 3.35
+  },
+  {
+    "text": "by the CPU. C is example of the\ncombined language",
+    "start": 830.0,
+    "duration": 4.16
+  },
+  {
+    "text": "how it typically works is that to the\ncompiler",
+    "start": 834.16,
+    "duration": 3.09
+  },
+  {
+    "text": "you would give a file or a group of\nfiles containing your program in",
+    "start": 837.25,
+    "duration": 4.54
+  },
+  {
+    "text": "high-level language.",
+    "start": 841.79,
+    "duration": 0.96
+  },
+  {
+    "text": "Let's say app.c is the find that will\ncontain a program in C,",
+    "start": 842.75,
+    "duration": 3.9
+  },
+  {
+    "text": "the compiler widget generate another\nfile",
+    "start": 846.65,
+    "duration": 3.53
+  },
+  {
+    "text": "that will be executable on the machine.\nLet's say it will create something like",
+    "start": 850.18,
+    "duration": 5.02
+  },
+  {
+    "text": "app.exe,",
+    "start": 855.2,
+    "duration": 0.51
+  },
+  {
+    "text": "exe files are executable files on\nWindows machine.",
+    "start": 855.71,
+    "duration": 5.26
+  },
+  {
+    "text": "The process of generating executable\nfiles from source code written in",
+    "start": 860.97,
+    "duration": 4.329
+  },
+  {
+    "text": "high-level languages",
+    "start": 865.299,
+    "duration": 1.111
+  },
+  {
+    "text": "is called compilation basically compiler\nperforms compilation.",
+    "start": 866.41,
+    "duration": 4.169
+  },
+  {
+    "text": "There is another execution model for\nhigh-level languages. Some languages",
+    "start": 870.579,
+    "duration": 4.06
+  },
+  {
+    "text": "are called interpreted languages, for\ninterpreted languages",
+    "start": 874.639,
+    "duration": 4.05
+  },
+  {
+    "text": "we need to use programs that we call\ninterpreters.",
+    "start": 878.689,
+    "duration": 3.23
+  },
+  {
+    "text": "Unlike compilers interpreters do not\ngenerate",
+    "start": 881.919,
+    "duration": 3.78
+  },
+  {
+    "text": "executable codes that can be\nexecuted separately.",
+    "start": 885.699,
+    "duration": 3.41
+  },
+  {
+    "text": "An interpreter takes source code in a\nhigh-level language",
+    "start": 889.109,
+    "duration": 3.48
+  },
+  {
+    "text": "analyzes it and runs it within itself,",
+    "start": 892.589,
+    "duration": 3.5
+  },
+  {
+    "text": "no executable file is created program is\nexecuted within the interpreter.",
+    "start": 896.089,
+    "duration": 4.83
+  },
+  {
+    "text": "We will not go into the details of how\nit really happens.",
+    "start": 900.919,
+    "duration": 3.07
+  },
+  {
+    "text": "Python is an interpreted language \ntheoretically  any language can be compiled",
+    "start": 903.989,
+    "duration": 4.18
+  },
+  {
+    "text": "or interpreted but practically\nlanguages fall into one of these",
+    "start": 908.169,
+    "duration": 3.26
+  },
+  {
+    "text": "categories,",
+    "start": 911.429,
+    "duration": 0.6
+  },
+  {
+    "text": "either they are compiled or interpreted. So\nthere are so many high-level languages",
+    "start": 912.029,
+    "duration": 4.1
+  },
+  {
+    "text": "and we are saying that we will learn\nprogramming through C.",
+    "start": 916.129,
+    "duration": 3.341
+  },
+  {
+    "text": "First of all why there are so many\nlanguages and which language is good.",
+    "start": 919.47,
+    "duration": 3.949
+  },
+  {
+    "text": "Actually there is no good or bad\nlanguage, some languages were written to",
+    "start": 923.419,
+    "duration": 4.32
+  },
+  {
+    "text": "overcome the limitations in previous\nlanguages.",
+    "start": 927.739,
+    "duration": 2.63
+  },
+  {
+    "text": "Some languages were written to make a\ncertain set of tasks",
+    "start": 930.369,
+    "duration": 3.34
+  },
+  {
+    "text": "easier but as such basic constructs and\nprimitive are",
+    "start": 933.709,
+    "duration": 3.47
+  },
+  {
+    "text": "same in most languages and what you\ncan do in one language",
+    "start": 937.179,
+    "duration": 4.15
+  },
+  {
+    "text": "can be done in another language. There\nwould be very few exceptions.",
+    "start": 941.329,
+    "duration": 3.56
+  },
+  {
+    "text": "If someone knows one of the programming\nlanguages really well",
+    "start": 944.889,
+    "duration": 3.51
+  },
+  {
+    "text": "it will be very easy for him to pick on\nanother programming language.",
+    "start": 948.399,
+    "duration": 3.901
+  },
+  {
+    "text": "And now let's talk about C, C was\ndeveloped around",
+    "start": 952.3,
+    "duration": 3.67
+  },
+  {
+    "text": "year 1970 by a great computer scientist\nnamed",
+    "start": 955.97,
+    "duration": 4.03
+  },
+  {
+    "text": "Dennis Ritchie. Dennis Ritchie is also the\ncreator of UNIX operating system,",
+    "start": 960.0,
+    "duration": 4.43
+  },
+  {
+    "text": "in fact UNIX operating system was\nwritten in C.",
+    "start": 964.43,
+    "duration": 3.2
+  },
+  {
+    "text": "C is a high-level language and it\nneeds compilation.",
+    "start": 967.63,
+    "duration": 3.32
+  },
+  {
+    "text": "C is still a very famous programming\nlanguage",
+    "start": 970.95,
+    "duration": 3.14
+  },
+  {
+    "text": "and most of the other famous programming\nlanguages like C++,",
+    "start": 974.09,
+    "duration": 4.0
+  },
+  {
+    "text": "Java or C sharp derive their basic\nstructure derive their basic constructs",
+    "start": 978.09,
+    "duration": 5.24
+  },
+  {
+    "text": "from C. So if you know the syntax of C",
+    "start": 983.33,
+    "duration": 3.25
+  },
+  {
+    "text": "it's really easy to on board these other\nlanguages",
+    "start": 986.58,
+    "duration": 3.11
+  },
+  {
+    "text": "at least for the basics and C gives\nyou a lot of",
+    "start": 989.69,
+    "duration": 3.57
+  },
+  {
+    "text": "low-level control on machine. Some people\nsay that C is somewhere",
+    "start": 993.26,
+    "duration": 4.01
+  },
+  {
+    "text": "in between a low-level language and\nhigh-level language.",
+    "start": 997.27,
+    "duration": 3.04
+  },
+  {
+    "text": "So working with C will give you a lot of\ninsight into computer architecture",
+    "start": 1000.31,
+    "duration": 4.52
+  },
+  {
+    "text": "and I think it's good for a Computer\nScience Engineer.",
+    "start": 1004.83,
+    "duration": 3.19
+  },
+  {
+    "text": "So we should be clear in this series of\nlessons we're going to learn programming",
+    "start": 1008.02,
+    "duration": 4.25
+  },
+  {
+    "text": "through C. To learn any language we should\nlearn some vocabulary",
+    "start": 1012.27,
+    "duration": 3.88
+  },
+  {
+    "text": "some grammar basically we should have\nsome set of rules",
+    "start": 1016.15,
+    "duration": 3.54
+  },
+  {
+    "text": "some syntax some semantics. Of course the\nrules for a programming language will be",
+    "start": 1019.69,
+    "duration": 4.56
+  },
+  {
+    "text": "much more stricter",
+    "start": 1024.25,
+    "duration": 1.41
+  },
+  {
+    "text": "than rules for a natural language. A\nprogramming language cannot be ambiguous",
+    "start": 1025.66,
+    "duration": 4.51
+  },
+  {
+    "text": "like",
+    "start": 1030.17,
+    "duration": 0.72
+  },
+  {
+    "text": "natural language. We will get started\nwith all of these things",
+    "start": 1030.89,
+    "duration": 3.199
+  },
+  {
+    "text": "in our next lesson. We will also write \nour first C program in next lesson.",
+    "start": 1034.089,
+    "duration": 4.311
+  },
+  {
+    "text": "This is it for this lesson Thanks for\nwatching.",
+    "start": 1038.4,
+    "duration": 2.15
+  }
+]

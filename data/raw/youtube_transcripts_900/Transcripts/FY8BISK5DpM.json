@@ -1,0 +1,1937 @@
+[
+  {
+    "text": "welcome to R programming 101 if this is",
+    "start": 0.64,
+    "duration": 5.32
+  },
+  {
+    "text": "the first time you've looked into using",
+    "start": 3.439,
+    "duration": 5.521
+  },
+  {
+    "text": "R so R is a programming language we use",
+    "start": 5.96,
+    "duration": 5.08
+  },
+  {
+    "text": "it for statistical analysis and data",
+    "start": 8.96,
+    "duration": 4.759
+  },
+  {
+    "text": "analysis and this video is specifically",
+    "start": 11.04,
+    "duration": 5.36
+  },
+  {
+    "text": "for people that have literally never",
+    "start": 13.719,
+    "duration": 4.4
+  },
+  {
+    "text": "looked at R before I'm going to walk you",
+    "start": 16.4,
+    "duration": 3.56
+  },
+  {
+    "text": "through some of the basics at the end of",
+    "start": 18.119,
+    "duration": 3.121
+  },
+  {
+    "text": "this video you're going to really feel",
+    "start": 19.96,
+    "duration": 3.36
+  },
+  {
+    "text": "comfortable with respect to what you can",
+    "start": 21.24,
+    "duration": 4.16
+  },
+  {
+    "text": "do with r and how to use it and how the",
+    "start": 23.32,
+    "duration": 4.24
+  },
+  {
+    "text": "kind of thinking Works how does how do",
+    "start": 25.4,
+    "duration": 4.639
+  },
+  {
+    "text": "people use R to do data analysis I'm",
+    "start": 27.56,
+    "duration": 4.24
+  },
+  {
+    "text": "going to keep it nice and simple I'm",
+    "start": 30.039,
+    "duration": 3.081
+  },
+  {
+    "text": "also going to show you a few tips and",
+    "start": 31.8,
+    "duration": 2.36
+  },
+  {
+    "text": "tricks and you're going to feel as if",
+    "start": 33.12,
+    "duration": 2.36
+  },
+  {
+    "text": "there are things that you can do with",
+    "start": 34.16,
+    "duration": 4.0
+  },
+  {
+    "text": "your data in R right from the word go",
+    "start": 35.48,
+    "duration": 4.559
+  },
+  {
+    "text": "okay so I'm going to keep it simple",
+    "start": 38.16,
+    "duration": 3.2
+  },
+  {
+    "text": "you're going to learn something stick",
+    "start": 40.039,
+    "duration": 2.801
+  },
+  {
+    "text": "with me you're going to love this and I",
+    "start": 41.36,
+    "duration": 2.76
+  },
+  {
+    "text": "love R and at the end of it I think",
+    "start": 42.84,
+    "duration": 2.8
+  },
+  {
+    "text": "you're going to kind think to yourself",
+    "start": 44.12,
+    "duration": 4.959
+  },
+  {
+    "text": "that you love R too okay so stick with",
+    "start": 45.64,
+    "duration": 5.64
+  },
+  {
+    "text": "me if you want to learn about R",
+    "start": 49.079,
+    "duration": 3.8
+  },
+  {
+    "text": "programming then you have come to the",
+    "start": 51.28,
+    "duration": 3.32
+  },
+  {
+    "text": "right place on this YouTube channel",
+    "start": 52.879,
+    "duration": 4.041
+  },
+  {
+    "text": "we're creating our programming videos on",
+    "start": 54.6,
+    "duration": 7.32
+  },
+  {
+    "text": "everything 3 2 1",
+    "start": 56.92,
+    "duration": 5.0
+  },
+  {
+    "text": "let's look let's look at the console",
+    "start": 62.12,
+    "duration": 4.56
+  },
+  {
+    "text": "okay what we've got here is we've got up",
+    "start": 64.08,
+    "duration": 4.52
+  },
+  {
+    "text": "at the top on the left right over here",
+    "start": 66.68,
+    "duration": 4.0
+  },
+  {
+    "text": "we've got what we call The Source this",
+    "start": 68.6,
+    "duration": 3.6
+  },
+  {
+    "text": "is where we write our code and I've",
+    "start": 70.68,
+    "duration": 4.2
+  },
+  {
+    "text": "written some code just to illustrate how",
+    "start": 72.2,
+    "duration": 4.919
+  },
+  {
+    "text": "our works the first line of code is I've",
+    "start": 74.88,
+    "duration": 4.919
+  },
+  {
+    "text": "typed in 5 + 6 and if I push contrl",
+    "start": 77.119,
+    "duration": 5.761
+  },
+  {
+    "text": "enter we see down here in the console at",
+    "start": 79.799,
+    "duration": 5.721
+  },
+  {
+    "text": "the bottom we see it's it's performed",
+    "start": 82.88,
+    "duration": 4.44
+  },
+  {
+    "text": "that like it would a calculator ignore",
+    "start": 85.52,
+    "duration": 3.16
+  },
+  {
+    "text": "the one in Brackets that's just telling",
+    "start": 87.32,
+    "duration": 3.92
+  },
+  {
+    "text": "us how many lines of answer is going to",
+    "start": 88.68,
+    "duration": 4.36
+  },
+  {
+    "text": "pop up on the screen so ignore that here",
+    "start": 91.24,
+    "duration": 4.32
+  },
+  {
+    "text": "has your answer 11 5 plus 6 is 11 that's",
+    "start": 93.04,
+    "duration": 5.039
+  },
+  {
+    "text": "the first lesson R can be used it is",
+    "start": 95.56,
+    "duration": 4.559
+  },
+  {
+    "text": "basically a very sophisticated",
+    "start": 98.079,
+    "duration": 3.68
+  },
+  {
+    "text": "calculator if you think about it like",
+    "start": 100.119,
+    "duration": 3.481
+  },
+  {
+    "text": "that okay now let's take this a step",
+    "start": 101.759,
+    "duration": 4.281
+  },
+  {
+    "text": "further we can say we can assign values",
+    "start": 103.6,
+    "duration": 4.479
+  },
+  {
+    "text": "so if we just type in the letter A we",
+    "start": 106.04,
+    "duration": 3.48
+  },
+  {
+    "text": "could type anything we wanted there and",
+    "start": 108.079,
+    "duration": 4.04
+  },
+  {
+    "text": "we use this little arrow which is which",
+    "start": 109.52,
+    "duration": 4.559
+  },
+  {
+    "text": "is the greater than and the little dash",
+    "start": 112.119,
+    "duration": 3.68
+  },
+  {
+    "text": "making it looks like an arrow so we're",
+    "start": 114.079,
+    "duration": 3.601
+  },
+  {
+    "text": "saying take this value five and assign",
+    "start": 115.799,
+    "duration": 5.441
+  },
+  {
+    "text": "it to that letter a and I push control",
+    "start": 117.68,
+    "duration": 6.84
+  },
+  {
+    "text": "enter you will see the little value a",
+    "start": 121.24,
+    "duration": 4.68
+  },
+  {
+    "text": "with with with the value next to it",
+    "start": 124.52,
+    "duration": 2.879
+  },
+  {
+    "text": "right so that's the next lesson we can",
+    "start": 125.92,
+    "duration": 3.16
+  },
+  {
+    "text": "and we can assign anything to anything",
+    "start": 127.399,
+    "duration": 3.721
+  },
+  {
+    "text": "right it doesn't have to be just just a",
+    "start": 129.08,
+    "duration": 3.64
+  },
+  {
+    "text": "number that we can assign all sorts of",
+    "start": 131.12,
+    "duration": 3.28
+  },
+  {
+    "text": "complicated things so that you know",
+    "start": 132.72,
+    "duration": 3.159
+  },
+  {
+    "text": "you'll get used to what what I mean by",
+    "start": 134.4,
+    "duration": 3.04
+  },
+  {
+    "text": "that but the the principle here is you",
+    "start": 135.879,
+    "duration": 3.72
+  },
+  {
+    "text": "can assign one thing to another fair",
+    "start": 137.44,
+    "duration": 4.4
+  },
+  {
+    "text": "enough and we assign six to B and then",
+    "start": 139.599,
+    "duration": 4.321
+  },
+  {
+    "text": "of course now we can say a plus b and",
+    "start": 141.84,
+    "duration": 4.72
+  },
+  {
+    "text": "once again of course we get 11 the next",
+    "start": 143.92,
+    "duration": 5.36
+  },
+  {
+    "text": "lesson is there are functions in other",
+    "start": 146.56,
+    "duration": 4.2
+  },
+  {
+    "text": "words there's a whole whole lot of",
+    "start": 149.28,
+    "duration": 4.2
+  },
+  {
+    "text": "pre-built Machinery that you can use and",
+    "start": 150.76,
+    "duration": 4.64
+  },
+  {
+    "text": "the simplest one just to to illustrate",
+    "start": 153.48,
+    "duration": 5.0
+  },
+  {
+    "text": "the point is sum right so we've got sum",
+    "start": 155.4,
+    "duration": 4.68
+  },
+  {
+    "text": "and whenever you've got a function you",
+    "start": 158.48,
+    "duration": 3.08
+  },
+  {
+    "text": "open and close the brackets and inside",
+    "start": 160.08,
+    "duration": 3.32
+  },
+  {
+    "text": "the brackets you put in what we call the",
+    "start": 161.56,
+    "duration": 4.08
+  },
+  {
+    "text": "arguments right so what is going what is",
+    "start": 163.4,
+    "duration": 4.759
+  },
+  {
+    "text": "this function going to be applied to",
+    "start": 165.64,
+    "duration": 4.08
+  },
+  {
+    "text": "well in this case we want to apply the",
+    "start": 168.159,
+    "duration": 4.601
+  },
+  {
+    "text": "function sum to A and B which we know",
+    "start": 169.72,
+    "duration": 4.92
+  },
+  {
+    "text": "we've assigned these values to and of",
+    "start": 172.76,
+    "duration": 4.72
+  },
+  {
+    "text": "course if we push contrl enter voila as",
+    "start": 174.64,
+    "duration": 5.2
+  },
+  {
+    "text": "you would expect it says 11 right simple",
+    "start": 177.48,
+    "duration": 4.2
+  },
+  {
+    "text": "are you confused yet no of course you're",
+    "start": 179.84,
+    "duration": 3.84
+  },
+  {
+    "text": "not because it is that simple okay let's",
+    "start": 181.68,
+    "duration": 5.6
+  },
+  {
+    "text": "keep going next we can take here we I'm",
+    "start": 183.68,
+    "duration": 5.8
+  },
+  {
+    "text": "creating a variable but I want more than",
+    "start": 187.28,
+    "duration": 4.959
+  },
+  {
+    "text": "just one value assigned to that variable",
+    "start": 189.48,
+    "duration": 5.52
+  },
+  {
+    "text": "I want there to be perhaps a string of",
+    "start": 192.239,
+    "duration": 5.241
+  },
+  {
+    "text": "values and in this case I'm calling it",
+    "start": 195.0,
+    "duration": 3.959
+  },
+  {
+    "text": "this is a variable and I'm going to I'm",
+    "start": 197.48,
+    "duration": 4.2
+  },
+  {
+    "text": "calling it name and assigned to name",
+    "start": 198.959,
+    "duration": 6.081
+  },
+  {
+    "text": "I've got two data points Greg and Jill",
+    "start": 201.68,
+    "duration": 5.88
+  },
+  {
+    "text": "and this little C here this the",
+    "start": 205.04,
+    "duration": 3.919
+  },
+  {
+    "text": "technical term is it stands for",
+    "start": 207.56,
+    "duration": 3.8
+  },
+  {
+    "text": "concatenation really think of it as that",
+    "start": 208.959,
+    "duration": 5.441
+  },
+  {
+    "text": "c saying name is going to be a a",
+    "start": 211.36,
+    "duration": 5.439
+  },
+  {
+    "text": "combination or a compilation of",
+    "start": 214.4,
+    "duration": 4.88
+  },
+  {
+    "text": "everything inside the bracket separated",
+    "start": 216.799,
+    "duration": 6.241
+  },
+  {
+    "text": "by a comma and if I push contrl enter",
+    "start": 219.28,
+    "duration": 6.08
+  },
+  {
+    "text": "voila we've got name it it knows that",
+    "start": 223.04,
+    "duration": 5.279
+  },
+  {
+    "text": "this is a character variable and then it",
+    "start": 225.36,
+    "duration": 4.28
+  },
+  {
+    "text": "it it'll tell you what they are right",
+    "start": 228.319,
+    "duration": 3.56
+  },
+  {
+    "text": "over there so u in fact the video you're",
+    "start": 229.64,
+    "duration": 5.239
+  },
+  {
+    "text": "watching my the video of my face is in",
+    "start": 231.879,
+    "duration": 5.681
+  },
+  {
+    "text": "the way but behind behind this this",
+    "start": 234.879,
+    "duration": 5.08
+  },
+  {
+    "text": "picture of me the first few data points",
+    "start": 237.56,
+    "duration": 4.319
+  },
+  {
+    "text": "in that variable right and then of",
+    "start": 239.959,
+    "duration": 4.12
+  },
+  {
+    "text": "course if we control enter on name it",
+    "start": 241.879,
+    "duration": 4.0
+  },
+  {
+    "text": "will generate it'll print them out down",
+    "start": 244.079,
+    "duration": 3.72
+  },
+  {
+    "text": "here we can see Greg and Jill right",
+    "start": 245.879,
+    "duration": 4.2
+  },
+  {
+    "text": "there okay so first lesson is it's a big",
+    "start": 247.799,
+    "duration": 3.72
+  },
+  {
+    "text": "calculator you can assign one thing to",
+    "start": 250.079,
+    "duration": 3.201
+  },
+  {
+    "text": "the next and you can assign multiple",
+    "start": 251.519,
+    "duration": 4.321
+  },
+  {
+    "text": "data points to a single entity and that",
+    "start": 253.28,
+    "duration": 4.359
+  },
+  {
+    "text": "becomes a variable now this is where",
+    "start": 255.84,
+    "duration": 3.88
+  },
+  {
+    "text": "things get exciting I've done I've",
+    "start": 257.639,
+    "duration": 3.72
+  },
+  {
+    "text": "created a bit of code here and I'll walk",
+    "start": 259.72,
+    "duration": 3.52
+  },
+  {
+    "text": "you through it super duper simple you're",
+    "start": 261.359,
+    "duration": 3.481
+  },
+  {
+    "text": "not confused yet of course you're not",
+    "start": 263.24,
+    "duration": 4.12
+  },
+  {
+    "text": "cuz this is that simple right here's a",
+    "start": 264.84,
+    "duration": 4.52
+  },
+  {
+    "text": "couple of variables I've made we've said",
+    "start": 267.36,
+    "duration": 4.32
+  },
+  {
+    "text": "name and I've assigned a three names to",
+    "start": 269.36,
+    "duration": 4.399
+  },
+  {
+    "text": "that I've said age and I've assigned",
+    "start": 271.68,
+    "duration": 4.079
+  },
+  {
+    "text": "Three Ages just numbers and you'll",
+    "start": 273.759,
+    "duration": 4.0
+  },
+  {
+    "text": "notice because these are numbers they're",
+    "start": 275.759,
+    "duration": 3.88
+  },
+  {
+    "text": "not needing the inverted commas because",
+    "start": 277.759,
+    "duration": 4.321
+  },
+  {
+    "text": "it's not a a word or a string R can pick",
+    "start": 279.639,
+    "duration": 5.321
+  },
+  {
+    "text": "up that that's a number and then gender",
+    "start": 282.08,
+    "duration": 4.48
+  },
+  {
+    "text": "I've just said M and F for male and",
+    "start": 284.96,
+    "duration": 4.959
+  },
+  {
+    "text": "female right so we've got uh name age",
+    "start": 286.56,
+    "duration": 5.16
+  },
+  {
+    "text": "and gender and you can see in the",
+    "start": 289.919,
+    "duration": 3.681
+  },
+  {
+    "text": "environment over here we can see age",
+    "start": 291.72,
+    "duration": 3.759
+  },
+  {
+    "text": "gender and name have popped up here and",
+    "start": 293.6,
+    "duration": 3.48
+  },
+  {
+    "text": "we can see that they now exist in our",
+    "start": 295.479,
+    "duration": 3.801
+  },
+  {
+    "text": "environment these are objects that we've",
+    "start": 297.08,
+    "duration": 4.6
+  },
+  {
+    "text": "got that we can work with data objects",
+    "start": 299.28,
+    "duration": 4.16
+  },
+  {
+    "text": "of some description so we've got these",
+    "start": 301.68,
+    "duration": 3.88
+  },
+  {
+    "text": "three variables and we can put them",
+    "start": 303.44,
+    "duration": 6.479
+  },
+  {
+    "text": "together right in a data frame and uh we",
+    "start": 305.56,
+    "duration": 6.4
+  },
+  {
+    "text": "can give that data frame a name and that",
+    "start": 309.919,
+    "duration": 3.481
+  },
+  {
+    "text": "becomes another object that we can work",
+    "start": 311.96,
+    "duration": 2.799
+  },
+  {
+    "text": "with and I've called this data frame",
+    "start": 313.4,
+    "duration": 4.359
+  },
+  {
+    "text": "friends and I use the function data",
+    "start": 314.759,
+    "duration": 6.16
+  },
+  {
+    "text": "frame and inside the brackets I put the",
+    "start": 317.759,
+    "duration": 5.081
+  },
+  {
+    "text": "arguments of that function and in this",
+    "start": 320.919,
+    "duration": 3.921
+  },
+  {
+    "text": "case there's these three objects name",
+    "start": 322.84,
+    "duration": 4.04
+  },
+  {
+    "text": "age and gender and if I push Comm",
+    "start": 324.84,
+    "duration": 5.88
+  },
+  {
+    "text": "control enter voila in our environment",
+    "start": 326.88,
+    "duration": 5.36
+  },
+  {
+    "text": "on the right hand side you can see right",
+    "start": 330.72,
+    "duration": 3.56
+  },
+  {
+    "text": "here a a new object has been created",
+    "start": 332.24,
+    "duration": 4.959
+  },
+  {
+    "text": "this is a DOT frame and if I click on it",
+    "start": 334.28,
+    "duration": 3.759
+  },
+  {
+    "text": "we can",
+    "start": 337.199,
+    "duration": 4.361
+  },
+  {
+    "text": "see here is our little data frame three",
+    "start": 338.039,
+    "duration": 6.16
+  },
+  {
+    "text": "variables name age and gender and we've",
+    "start": 341.56,
+    "duration": 5.8
+  },
+  {
+    "text": "got three rows or sometimes we call them",
+    "start": 344.199,
+    "duration": 5.72
+  },
+  {
+    "text": "observations Greg is 47 and it's male",
+    "start": 347.36,
+    "duration": 4.119
+  },
+  {
+    "text": "Etc all right it's a nice little simple",
+    "start": 349.919,
+    "duration": 3.481
+  },
+  {
+    "text": "data frame a super quick Interruption to",
+    "start": 351.479,
+    "duration": 3.641
+  },
+  {
+    "text": "this video to say thanks to nested",
+    "start": 353.4,
+    "duration": 3.6
+  },
+  {
+    "text": "knowledge nested knowledge sponsor this",
+    "start": 355.12,
+    "duration": 4.799
+  },
+  {
+    "text": "Channel and I absolutely love them n",
+    "start": 357.0,
+    "duration": 4.52
+  },
+  {
+    "text": "knowledge is an online platform that you",
+    "start": 359.919,
+    "duration": 3.521
+  },
+  {
+    "text": "can use to do literature review and",
+    "start": 361.52,
+    "duration": 3.799
+  },
+  {
+    "text": "systematic L review and what I love",
+    "start": 363.44,
+    "duration": 3.479
+  },
+  {
+    "text": "about this platform is that I'm using it",
+    "start": 365.319,
+    "duration": 3.32
+  },
+  {
+    "text": "for the entire process beginning to end",
+    "start": 366.919,
+    "duration": 3.041
+  },
+  {
+    "text": "all the way from search screening",
+    "start": 368.639,
+    "duration": 3.361
+  },
+  {
+    "text": "tagging extraction all the way through",
+    "start": 369.96,
+    "duration": 3.76
+  },
+  {
+    "text": "to actually writing the manuscript",
+    "start": 372.0,
+    "duration": 3.72
+  },
+  {
+    "text": "creating a living document online and",
+    "start": 373.72,
+    "duration": 3.919
+  },
+  {
+    "text": "I've got my entire team using it so we",
+    "start": 375.72,
+    "duration": 3.319
+  },
+  {
+    "text": "collaborate different people doing",
+    "start": 377.639,
+    "duration": 3.481
+  },
+  {
+    "text": "different parts of the process I used to",
+    "start": 379.039,
+    "duration": 3.88
+  },
+  {
+    "text": "hate lit review now I love it if you",
+    "start": 381.12,
+    "duration": 3.56
+  },
+  {
+    "text": "want to love lit review check out Ned",
+    "start": 382.919,
+    "duration": 2.961
+  },
+  {
+    "text": "knowledge click on the link in the",
+    "start": 384.68,
+    "duration": 2.639
+  },
+  {
+    "text": "description below and without further",
+    "start": 385.88,
+    "duration": 3.84
+  },
+  {
+    "text": "Ado on with the video okay so now we're",
+    "start": 387.319,
+    "duration": 4.561
+  },
+  {
+    "text": "cooking with gas we're working in R",
+    "start": 389.72,
+    "duration": 5.36
+  },
+  {
+    "text": "let's go back to our our uh this is this",
+    "start": 391.88,
+    "duration": 4.68
+  },
+  {
+    "text": "is the little bit of code that we've",
+    "start": 395.08,
+    "duration": 5.559
+  },
+  {
+    "text": "written now in R if you want R to look",
+    "start": 396.56,
+    "duration": 6.32
+  },
+  {
+    "text": "at and do something with one variable in",
+    "start": 400.639,
+    "duration": 3.641
+  },
+  {
+    "text": "a data frame so we've got three",
+    "start": 402.88,
+    "duration": 3.599
+  },
+  {
+    "text": "variables now we've got name age and",
+    "start": 404.28,
+    "duration": 4.24
+  },
+  {
+    "text": "gender but we want to do something just",
+    "start": 406.479,
+    "duration": 3.921
+  },
+  {
+    "text": "with name or just with age or just with",
+    "start": 408.52,
+    "duration": 4.44
+  },
+  {
+    "text": "gender and we want to tell R how to look",
+    "start": 410.4,
+    "duration": 4.359
+  },
+  {
+    "text": "specifically at that variable we use",
+    "start": 412.96,
+    "duration": 4.079
+  },
+  {
+    "text": "this little dollar sign right so if we",
+    "start": 414.759,
+    "duration": 4.88
+  },
+  {
+    "text": "type in friends that's the data frame",
+    "start": 417.039,
+    "duration": 5.081
+  },
+  {
+    "text": "dollar which means that within that data",
+    "start": 419.639,
+    "duration": 4.56
+  },
+  {
+    "text": "frame we want you to look at this",
+    "start": 422.12,
+    "duration": 4.6
+  },
+  {
+    "text": "variable name which is the variable that",
+    "start": 424.199,
+    "duration": 5.28
+  },
+  {
+    "text": "we've created if I push control enter",
+    "start": 426.72,
+    "duration": 5.68
+  },
+  {
+    "text": "you'll see down here it prints out all",
+    "start": 429.479,
+    "duration": 5.601
+  },
+  {
+    "text": "of the items or the data points within",
+    "start": 432.4,
+    "duration": 4.919
+  },
+  {
+    "text": "that variable okay that's interesting",
+    "start": 435.08,
+    "duration": 4.32
+  },
+  {
+    "text": "what if we wanted to subset we wanted to",
+    "start": 437.319,
+    "duration": 5.241
+  },
+  {
+    "text": "extract out a part of the start frame",
+    "start": 439.4,
+    "duration": 5.639
+  },
+  {
+    "text": "now I'm going to show you something and",
+    "start": 442.56,
+    "duration": 4.12
+  },
+  {
+    "text": "it might seem a little bit complicated",
+    "start": 445.039,
+    "duration": 3.44
+  },
+  {
+    "text": "but don't worry because within a few",
+    "start": 446.68,
+    "duration": 3.639
+  },
+  {
+    "text": "seconds I'm going to show you a much",
+    "start": 448.479,
+    "duration": 4.521
+  },
+  {
+    "text": "much easier way to do the same thing now",
+    "start": 450.319,
+    "duration": 4.32
+  },
+  {
+    "text": "you have to understand the basics in",
+    "start": 453.0,
+    "duration": 3.52
+  },
+  {
+    "text": "other words I've got to walk you through",
+    "start": 454.639,
+    "duration": 4.161
+  },
+  {
+    "text": "this kind of subsetting using the square",
+    "start": 456.52,
+    "duration": 5.28
+  },
+  {
+    "text": "brackets Don't Panic don't feel anxious",
+    "start": 458.8,
+    "duration": 4.959
+  },
+  {
+    "text": "in literally 30 seconds I'm going to",
+    "start": 461.8,
+    "duration": 3.359
+  },
+  {
+    "text": "make this so simple it's going to be",
+    "start": 463.759,
+    "duration": 4.28
+  },
+  {
+    "text": "super dupy easy so stick with me okay if",
+    "start": 465.159,
+    "duration": 5.681
+  },
+  {
+    "text": "I take the data frame friends and I want",
+    "start": 468.039,
+    "duration": 5.681
+  },
+  {
+    "text": "to take out a certain row or certain",
+    "start": 470.84,
+    "duration": 4.6
+  },
+  {
+    "text": "variable or certain combination of rows",
+    "start": 473.72,
+    "duration": 4.56
+  },
+  {
+    "text": "and variables right how do I tell R what",
+    "start": 475.44,
+    "duration": 4.8
+  },
+  {
+    "text": "part of that data frame to look at well",
+    "start": 478.28,
+    "duration": 3.599
+  },
+  {
+    "text": "we can have these two square brackets",
+    "start": 480.24,
+    "duration": 4.12
+  },
+  {
+    "text": "next to it with a comma in the middle",
+    "start": 481.879,
+    "duration": 5.841
+  },
+  {
+    "text": "right and in the space before the comma",
+    "start": 484.36,
+    "duration": 6.839
+  },
+  {
+    "text": "I tell R which rows I want to extract or",
+    "start": 487.72,
+    "duration": 6.039
+  },
+  {
+    "text": "I want to include in this opportunity to",
+    "start": 491.199,
+    "duration": 5.12
+  },
+  {
+    "text": "look at this data frame so before the",
+    "start": 493.759,
+    "duration": 5.601
+  },
+  {
+    "text": "comma are the rows or the observations",
+    "start": 496.319,
+    "duration": 5.481
+  },
+  {
+    "text": "and after the comma it's the variables",
+    "start": 499.36,
+    "duration": 4.76
+  },
+  {
+    "text": "right you got it okay so and if I left",
+    "start": 501.8,
+    "duration": 4.32
+  },
+  {
+    "text": "that completely blank if I left nothing",
+    "start": 504.12,
+    "duration": 4.519
+  },
+  {
+    "text": "in either of those spaces and I just",
+    "start": 506.12,
+    "duration": 3.88
+  },
+  {
+    "text": "push control ENT",
+    "start": 508.639,
+    "duration": 3.28
+  },
+  {
+    "text": "it would assume that I want everything",
+    "start": 510.0,
+    "duration": 3.959
+  },
+  {
+    "text": "right so leaving it blank means it gives",
+    "start": 511.919,
+    "duration": 5.881
+  },
+  {
+    "text": "me everything down here okay if I put",
+    "start": 513.959,
+    "duration": 6.921
+  },
+  {
+    "text": "something in here if I put a number one",
+    "start": 517.8,
+    "duration": 6.32
+  },
+  {
+    "text": "it's going to say okay we want the first",
+    "start": 520.88,
+    "duration": 5.2
+  },
+  {
+    "text": "row and all of the columns because we've",
+    "start": 524.12,
+    "duration": 4.12
+  },
+  {
+    "text": "left the columns blank so contrl enter",
+    "start": 526.08,
+    "duration": 4.56
+  },
+  {
+    "text": "there we go just the first row pops up",
+    "start": 528.24,
+    "duration": 4.64
+  },
+  {
+    "text": "in our console down there if I put a",
+    "start": 530.64,
+    "duration": 4.879
+  },
+  {
+    "text": "number one after the comma that means",
+    "start": 532.88,
+    "duration": 4.8
+  },
+  {
+    "text": "you know telling R what what columns I",
+    "start": 535.519,
+    "duration": 4.081
+  },
+  {
+    "text": "want to look at control enter it just",
+    "start": 537.68,
+    "duration": 3.36
+  },
+  {
+    "text": "it's just taken out one data point",
+    "start": 539.6,
+    "duration": 3.679
+  },
+  {
+    "text": "because that is the the first row and",
+    "start": 541.04,
+    "duration": 4.32
+  },
+  {
+    "text": "the First Column there just one cell or",
+    "start": 543.279,
+    "duration": 3.961
+  },
+  {
+    "text": "one data point and that's just my name",
+    "start": 545.36,
+    "duration": 5.479
+  },
+  {
+    "text": "Greg right there okay I could put one 2",
+    "start": 547.24,
+    "duration": 5.96
+  },
+  {
+    "text": "three and then it would control enter",
+    "start": 550.839,
+    "duration": 4.881
+  },
+  {
+    "text": "and then it selected all three it",
+    "start": 553.2,
+    "duration": 4.56
+  },
+  {
+    "text": "selected the column it selected is the",
+    "start": 555.72,
+    "duration": 4.52
+  },
+  {
+    "text": "First Column so it's the name column and",
+    "start": 557.76,
+    "duration": 4.88
+  },
+  {
+    "text": "it I've asked for all three observations",
+    "start": 560.24,
+    "duration": 3.719
+  },
+  {
+    "text": "and that's what's happened right there",
+    "start": 562.64,
+    "duration": 2.639
+  },
+  {
+    "text": "and I don't want to waste too much time",
+    "start": 563.959,
+    "duration": 3.281
+  },
+  {
+    "text": "yet but I could ask just for the First",
+    "start": 565.279,
+    "duration": 5.161
+  },
+  {
+    "text": "Column but all three the first row but",
+    "start": 567.24,
+    "duration": 4.44
+  },
+  {
+    "text": "all three columns and and that's what",
+    "start": 570.44,
+    "duration": 3.0
+  },
+  {
+    "text": "it's done right there okay so that's how",
+    "start": 571.68,
+    "duration": 4.2
+  },
+  {
+    "text": "we can kind of subset and ask for bits",
+    "start": 573.44,
+    "duration": 5.56
+  },
+  {
+    "text": "and pieces of the data frame we can add",
+    "start": 575.88,
+    "duration": 6.519
+  },
+  {
+    "text": "to that we can say friends in the",
+    "start": 579.0,
+    "duration": 5.44
+  },
+  {
+    "text": "columns that we want to select or subset",
+    "start": 582.399,
+    "duration": 5.361
+  },
+  {
+    "text": "if we say friends dollar sign age so",
+    "start": 584.44,
+    "duration": 6.04
+  },
+  {
+    "text": "with respect to the age variable if it's",
+    "start": 587.76,
+    "duration": 5.36
+  },
+  {
+    "text": "less than 50 select those and then",
+    "start": 590.48,
+    "duration": 4.52
+  },
+  {
+    "text": "select these columns over there the",
+    "start": 593.12,
+    "duration": 3.839
+  },
+  {
+    "text": "first and second column right and that",
+    "start": 595.0,
+    "duration": 3.399
+  },
+  {
+    "text": "seems a little bit complicated and I",
+    "start": 596.959,
+    "duration": 2.921
+  },
+  {
+    "text": "know this looks a bit messy and you feel",
+    "start": 598.399,
+    "duration": 3.241
+  },
+  {
+    "text": "as if oh my goodness now we're getting",
+    "start": 599.88,
+    "duration": 3.399
+  },
+  {
+    "text": "into this programming language and I'm",
+    "start": 601.64,
+    "duration": 3.639
+  },
+  {
+    "text": "already confused don't be because in a",
+    "start": 603.279,
+    "duration": 3.281
+  },
+  {
+    "text": "few seconds I'm going to show you a much",
+    "start": 605.279,
+    "duration": 3.401
+  },
+  {
+    "text": "easier way to do this I just want you to",
+    "start": 606.56,
+    "duration": 3.839
+  },
+  {
+    "text": "understand how it is that we do this so",
+    "start": 608.68,
+    "duration": 3.48
+  },
+  {
+    "text": "let's push contrl enter and that's",
+    "start": 610.399,
+    "duration": 3.961
+  },
+  {
+    "text": "what's happened here it's looked for any",
+    "start": 612.16,
+    "duration": 4.76
+  },
+  {
+    "text": "rows where the age is less than 50 so",
+    "start": 614.36,
+    "duration": 4.68
+  },
+  {
+    "text": "there's just two of those and it's taken",
+    "start": 616.92,
+    "duration": 4.32
+  },
+  {
+    "text": "out just the column for name and age so",
+    "start": 619.04,
+    "duration": 4.359
+  },
+  {
+    "text": "we've subsetted our data set quite",
+    "start": 621.24,
+    "duration": 5.159
+  },
+  {
+    "text": "neatly there but I agree looking at that",
+    "start": 623.399,
+    "duration": 4.401
+  },
+  {
+    "text": "does look a little confusing so let's",
+    "start": 626.399,
+    "duration": 4.0
+  },
+  {
+    "text": "look at a much easier way to do exactly",
+    "start": 627.8,
+    "duration": 5.84
+  },
+  {
+    "text": "the same thing okay NR this is the next",
+    "start": 630.399,
+    "duration": 4.44
+  },
+  {
+    "text": "lesson I want to teach you and you're",
+    "start": 633.64,
+    "duration": 2.6
+  },
+  {
+    "text": "not going to get too much into this yet",
+    "start": 634.839,
+    "duration": 3.041
+  },
+  {
+    "text": "but I want you to have hope see the",
+    "start": 636.24,
+    "duration": 3.88
+  },
+  {
+    "text": "future this is where you're going in R",
+    "start": 637.88,
+    "duration": 4.0
+  },
+  {
+    "text": "there are lovely packages that you can",
+    "start": 640.12,
+    "duration": 4.32
+  },
+  {
+    "text": "install that help you that give you",
+    "start": 641.88,
+    "duration": 5.079
+  },
+  {
+    "text": "expand your vocabulary that make R",
+    "start": 644.44,
+    "duration": 5.079
+  },
+  {
+    "text": "easier and easier to use and the best",
+    "start": 646.959,
+    "duration": 5.32
+  },
+  {
+    "text": "one if you say if you've installed the",
+    "start": 649.519,
+    "duration": 5.921
+  },
+  {
+    "text": "Tidy verse and incidentally you need to",
+    "start": 652.279,
+    "duration": 5.161
+  },
+  {
+    "text": "at some point install the Tidy verse and",
+    "start": 655.44,
+    "duration": 4.04
+  },
+  {
+    "text": "and that's as simple as saying it's it's",
+    "start": 657.44,
+    "duration": 4.32
+  },
+  {
+    "text": "really as simple as as typing in in",
+    "start": 659.48,
+    "duration": 4.32
+  },
+  {
+    "text": "install packages and then you would you",
+    "start": 661.76,
+    "duration": 5.639
+  },
+  {
+    "text": "would say inverted commas tidy verse",
+    "start": 663.8,
+    "duration": 5.479
+  },
+  {
+    "text": "like that and you would push enter and",
+    "start": 667.399,
+    "duration": 3.56
+  },
+  {
+    "text": "it would install the Tidy verse right it",
+    "start": 669.279,
+    "duration": 2.761
+  },
+  {
+    "text": "would put it onto your computer and",
+    "start": 670.959,
+    "duration": 2.201
+  },
+  {
+    "text": "you'd never have to do that again you",
+    "start": 672.04,
+    "duration": 3.0
+  },
+  {
+    "text": "only have to do that once it's then it's",
+    "start": 673.16,
+    "duration": 3.76
+  },
+  {
+    "text": "there and you've got it right but then",
+    "start": 675.04,
+    "duration": 3.12
+  },
+  {
+    "text": "every time you want to use it at the",
+    "start": 676.92,
+    "duration": 2.64
+  },
+  {
+    "text": "beginning of your programming session",
+    "start": 678.16,
+    "duration": 3.4
+  },
+  {
+    "text": "you would say library which means use",
+    "start": 679.56,
+    "duration": 3.719
+  },
+  {
+    "text": "this package and the Tidy verse is",
+    "start": 681.56,
+    "duration": 3.48
+  },
+  {
+    "text": "actually a whole collection of packages",
+    "start": 683.279,
+    "duration": 3.8
+  },
+  {
+    "text": "it's great and we push contrl enter and",
+    "start": 685.04,
+    "duration": 3.72
+  },
+  {
+    "text": "it R is going to say okay I'm going to",
+    "start": 687.079,
+    "duration": 3.721
+  },
+  {
+    "text": "go and F the Tidy verse and get all of",
+    "start": 688.76,
+    "duration": 5.16
+  },
+  {
+    "text": "that additional vocabulary and use that",
+    "start": 690.8,
+    "duration": 5.159
+  },
+  {
+    "text": "now don't worry you don't have to be",
+    "start": 693.92,
+    "duration": 3.64
+  },
+  {
+    "text": "able to use these packages yet I just",
+    "start": 695.959,
+    "duration": 3.32
+  },
+  {
+    "text": "want to show you where this is going so",
+    "start": 697.56,
+    "duration": 4.0
+  },
+  {
+    "text": "that you feel as if using R isn't",
+    "start": 699.279,
+    "duration": 5.24
+  },
+  {
+    "text": "complicated it is easy I can do this",
+    "start": 701.56,
+    "duration": 4.0
+  },
+  {
+    "text": "right and you're going to see why it's",
+    "start": 704.519,
+    "duration": 2.641
+  },
+  {
+    "text": "so easy right now when you're working",
+    "start": 705.56,
+    "duration": 3.44
+  },
+  {
+    "text": "within the Tidy verse it's a whole",
+    "start": 707.16,
+    "duration": 3.52
+  },
+  {
+    "text": "different ball game now we starting",
+    "start": 709.0,
+    "duration": 3.04
+  },
+  {
+    "text": "we're saying let's start with with the",
+    "start": 710.68,
+    "duration": 3.2
+  },
+  {
+    "text": "data frame fres and this little thing",
+    "start": 712.04,
+    "duration": 3.239
+  },
+  {
+    "text": "it's called a pipe operator it looks",
+    "start": 713.88,
+    "duration": 3.16
+  },
+  {
+    "text": "confusing but believe me it's your best",
+    "start": 715.279,
+    "duration": 4.481
+  },
+  {
+    "text": "friend it's basically percent greater",
+    "start": 717.04,
+    "duration": 4.28
+  },
+  {
+    "text": "than percent think of that as just",
+    "start": 719.76,
+    "duration": 4.319
+  },
+  {
+    "text": "saying and then right because it pipes",
+    "start": 721.32,
+    "duration": 4.759
+  },
+  {
+    "text": "in whatever's from the left hand side of",
+    "start": 724.079,
+    "duration": 4.481
+  },
+  {
+    "text": "the pipe operator into what's ever next",
+    "start": 726.079,
+    "duration": 4.081
+  },
+  {
+    "text": "to it on the right hand side and and by",
+    "start": 728.56,
+    "duration": 2.719
+  },
+  {
+    "text": "the right hand side I also mean",
+    "start": 730.16,
+    "duration": 3.119
+  },
+  {
+    "text": "underneath that's fine all right so we",
+    "start": 731.279,
+    "duration": 5.36
+  },
+  {
+    "text": "say friends and then select because we",
+    "start": 733.279,
+    "duration": 5.641
+  },
+  {
+    "text": "want to select just two of the rows name",
+    "start": 736.639,
+    "duration": 6.32
+  },
+  {
+    "text": "and age and then filter by age is less",
+    "start": 738.92,
+    "duration": 7.479
+  },
+  {
+    "text": "than 50 and if we stop there okay and",
+    "start": 742.959,
+    "duration": 6.68
+  },
+  {
+    "text": "push contrl enter voila we get exactly",
+    "start": 746.399,
+    "duration": 6.12
+  },
+  {
+    "text": "the same as what we got this here we got",
+    "start": 749.639,
+    "duration": 4.76
+  },
+  {
+    "text": "by doing friends and open square",
+    "start": 752.519,
+    "duration": 4.521
+  },
+  {
+    "text": "brackets complicated right by doing the",
+    "start": 754.399,
+    "duration": 4.921
+  },
+  {
+    "text": "exact same things with just this very",
+    "start": 757.04,
+    "duration": 4.359
+  },
+  {
+    "text": "easy to understand language this very",
+    "start": 759.32,
+    "duration": 5.28
+  },
+  {
+    "text": "natural language of Select these columns",
+    "start": 761.399,
+    "duration": 5.521
+  },
+  {
+    "text": "and and filter by this criteria we'll",
+    "start": 764.6,
+    "duration": 5.12
+  },
+  {
+    "text": "end up with the exact same little",
+    "start": 766.92,
+    "duration": 4.8
+  },
+  {
+    "text": "extract the exact same subset so it's",
+    "start": 769.72,
+    "duration": 3.84
+  },
+  {
+    "text": "super easy really nice and then we can",
+    "start": 771.72,
+    "duration": 3.44
+  },
+  {
+    "text": "add other things to it like you know for",
+    "start": 773.56,
+    "duration": 4.079
+  },
+  {
+    "text": "exam for example we can say and then",
+    "start": 775.16,
+    "duration": 4.52
+  },
+  {
+    "text": "arrange by age and you see originally",
+    "start": 777.639,
+    "duration": 4.721
+  },
+  {
+    "text": "we've got it's ranged you know the 47 is",
+    "start": 779.68,
+    "duration": 5.56
+  },
+  {
+    "text": "above the 34 but now if we if we run it",
+    "start": 782.36,
+    "duration": 5.0
+  },
+  {
+    "text": "it's doing it smallest to largest",
+    "start": 785.24,
+    "duration": 5.24
+  },
+  {
+    "text": "arranged in size order of age okay look",
+    "start": 787.36,
+    "duration": 4.719
+  },
+  {
+    "text": "I know we've covered quite a lot what",
+    "start": 790.48,
+    "duration": 3.159
+  },
+  {
+    "text": "I'm hoping is that you've seen first of",
+    "start": 792.079,
+    "duration": 4.081
+  },
+  {
+    "text": "all R is super easy to use it's not",
+    "start": 793.639,
+    "duration": 4.56
+  },
+  {
+    "text": "complicated right once you've got your",
+    "start": 796.16,
+    "duration": 3.88
+  },
+  {
+    "text": "head around these principles everything",
+    "start": 798.199,
+    "duration": 4.361
+  },
+  {
+    "text": "else is basically an expansion of what",
+    "start": 800.04,
+    "duration": 4.4
+  },
+  {
+    "text": "I've just shown you and the exciting",
+    "start": 802.56,
+    "duration": 3.48
+  },
+  {
+    "text": "thing is now that I've introduced you to",
+    "start": 804.44,
+    "duration": 3.88
+  },
+  {
+    "text": "the idea that there is the Tidy Burse",
+    "start": 806.04,
+    "duration": 3.96
+  },
+  {
+    "text": "and there is are the these packages and",
+    "start": 808.32,
+    "duration": 3.48
+  },
+  {
+    "text": "there is this expanded vocabulary that",
+    "start": 810.0,
+    "duration": 4.48
+  },
+  {
+    "text": "really uses a very natural language to",
+    "start": 811.8,
+    "duration": 4.88
+  },
+  {
+    "text": "do things now that you've seen that that",
+    "start": 814.48,
+    "duration": 4.64
+  },
+  {
+    "text": "is possible as you learn r at least you",
+    "start": 816.68,
+    "duration": 3.719
+  },
+  {
+    "text": "kind of know where you're going you can",
+    "start": 819.12,
+    "duration": 3.0
+  },
+  {
+    "text": "be like okay I have to learn some of the",
+    "start": 820.399,
+    "duration": 4.041
+  },
+  {
+    "text": "basics but I'm very quickly going to",
+    "start": 822.12,
+    "duration": 4.959
+  },
+  {
+    "text": "learn how to use these packages like for",
+    "start": 824.44,
+    "duration": 4.72
+  },
+  {
+    "text": "example the Tidy verse and I'm going to",
+    "start": 827.079,
+    "duration": 5.161
+  },
+  {
+    "text": "really start getting into a version of R",
+    "start": 829.16,
+    "duration": 5.44
+  },
+  {
+    "text": "which is intuative which uses a lot of",
+    "start": 832.24,
+    "duration": 4.56
+  },
+  {
+    "text": "natural language which is really not",
+    "start": 834.6,
+    "duration": 3.88
+  },
+  {
+    "text": "complicated at all you're going to love",
+    "start": 836.8,
+    "duration": 3.839
+  },
+  {
+    "text": "it I love it but get into it thank you",
+    "start": 838.48,
+    "duration": 3.44
+  },
+  {
+    "text": "for watching the video Don't ever change",
+    "start": 840.639,
+    "duration": 2.681
+  },
+  {
+    "text": "don't do drugs always do your best watch",
+    "start": 841.92,
+    "duration": 3.279
+  },
+  {
+    "text": "the next video take care speak to you",
+    "start": 843.32,
+    "duration": 5.319
+  },
+  {
+    "text": "soon bye",
+    "start": 845.199,
+    "duration": 3.44
+  }
+]

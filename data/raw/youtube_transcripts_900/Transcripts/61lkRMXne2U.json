@@ -1,0 +1,1897 @@
+[
+  {
+    "text": "Hello students myself Dr. Gajendra Purohit and I have",
+    "start": 0.0,
+    "duration": 2.93
+  },
+  {
+    "text": "done my P.hd in algebra and I have cleared CSIR-NET",
+    "start": 2.93,
+    "duration": 2.94
+  },
+  {
+    "text": "and my videos",
+    "start": 5.87,
+    "duration": 2.635
+  },
+  {
+    "text": "for engineering mathematics, bsc students",
+    "start": 8.505,
+    "duration": 2.88
+  },
+  {
+    "text": "are uploaded. You all might have lot of problems",
+    "start": 11.385,
+    "duration": 2.53
+  },
+  {
+    "text": "as students ask that were are these videos so please",
+    "start": 13.915,
+    "duration": 2.64
+  },
+  {
+    "text": "if you are facing any problem then here a playlist is made",
+    "start": 16.555,
+    "duration": 2.92
+  },
+  {
+    "text": "in that playlist separate playlist is made",
+    "start": 19.475,
+    "duration": 3.04
+  },
+  {
+    "text": "so there you can watch my videos",
+    "start": 22.515,
+    "duration": 2.26
+  },
+  {
+    "text": "if you are facing any problem",
+    "start": 24.775,
+    "duration": 1.55
+  },
+  {
+    "text": "then you can comment in my comment box. Students",
+    "start": 26.725,
+    "duration": 3.04
+  },
+  {
+    "text": "there might be some small",
+    "start": 29.765,
+    "duration": 2.19
+  },
+  {
+    "text": "plus minus mistake so you can comment there",
+    "start": 31.955,
+    "duration": 2.69
+  },
+  {
+    "text": "so that I can rectify that and in my",
+    "start": 34.645,
+    "duration": 3.12
+  },
+  {
+    "text": "pin comment also I am going to add so that",
+    "start": 37.765,
+    "duration": 2.85
+  },
+  {
+    "text": "you know that sir has done this mistake and you can avoid that",
+    "start": 40.615,
+    "duration": 3.0
+  },
+  {
+    "text": "and students if you are preparing for CSIR-NET",
+    "start": 43.615,
+    "duration": 2.8
+  },
+  {
+    "text": "then you can go to the playstore and download the unacademy app",
+    "start": 46.415,
+    "duration": 2.94
+  },
+  {
+    "text": "then you can search Gajendra Purohit then",
+    "start": 49.355,
+    "duration": 3.02
+  },
+  {
+    "text": "you can follow me there so that for all my courses",
+    "start": 52.375,
+    "duration": 2.5
+  },
+  {
+    "text": "you get the notification and",
+    "start": 54.875,
+    "duration": 2.84
+  },
+  {
+    "text": "do rate, review and share my course",
+    "start": 57.715,
+    "duration": 3.03
+  },
+  {
+    "text": "with your friends so that they also get the benefit of this",
+    "start": 60.745,
+    "duration": 2.89
+  },
+  {
+    "text": " ",
+    "start": 75.075,
+    "duration": 1.0
+  },
+  {
+    "text": "Hello students myself Dr. Gajendra Purohit and today I will",
+    "start": 79.945,
+    "duration": 3.13
+  },
+  {
+    "text": "discuss two phase method and students before this",
+    "start": 83.075,
+    "duration": 2.79
+  },
+  {
+    "text": "I have discussed graphical method, even told about the simplex method and today we",
+    "start": 85.865,
+    "duration": 4.87
+  },
+  {
+    "text": "will talk that how with two phase method",
+    "start": 90.735,
+    "duration": 2.7
+  },
+  {
+    "text": "we can solve the questions. So see here students",
+    "start": 93.435,
+    "duration": 3.0
+  },
+  {
+    "text": "if by chance there is a question like this for greater than",
+    "start": 96.435,
+    "duration": 3.15
+  },
+  {
+    "text": "we can use both big M and two phase method so I",
+    "start": 99.585,
+    "duration": 3.02
+  },
+  {
+    "text": "will first tell you how we can solve the question with big M method and",
+    "start": 102.605,
+    "duration": 2.79
+  },
+  {
+    "text": "then I will tell you how with two phase method it is",
+    "start": 105.395,
+    "duration": 3.02
+  },
+  {
+    "text": "solved.Right? So how we will do with big M",
+    "start": 108.415,
+    "duration": 2.98
+  },
+  {
+    "text": "so first of all for any question this type of simplex",
+    "start": 111.395,
+    "duration": 2.84
+  },
+  {
+    "text": "method if you have to use then it should be of maximization",
+    "start": 114.235,
+    "duration": 2.96
+  },
+  {
+    "text": "and here minimum z is written",
+    "start": 117.195,
+    "duration": 1.84
+  },
+  {
+    "text": "so first we will convert this to maximum",
+    "start": 119.035,
+    "duration": 2.76
+  },
+  {
+    "text": " ",
+    "start": 121.795,
+    "duration": 2.54
+  },
+  {
+    "text": " ",
+    "start": 124.335,
+    "duration": 2.95
+  },
+  {
+    "text": "Right? So we have to do any question in simplex method",
+    "start": 127.285,
+    "duration": 2.96
+  },
+  {
+    "text": "then it should be of maximization type",
+    "start": 130.245,
+    "duration": 2.94
+  },
+  {
+    "text": "if it is of minimization then we will multiply by minus",
+    "start": 133.185,
+    "duration": 3.22
+  },
+  {
+    "text": "and maximize it. Right? Then what we will do students",
+    "start": 136.405,
+    "duration": 2.84
+  },
+  {
+    "text": " ",
+    "start": 139.245,
+    "duration": 3.05
+  },
+  {
+    "text": " ",
+    "start": 142.295,
+    "duration": 2.56
+  },
+  {
+    "text": " ",
+    "start": 144.855,
+    "duration": 2.76
+  },
+  {
+    "text": " ",
+    "start": 147.615,
+    "duration": 2.72
+  },
+  {
+    "text": " ",
+    "start": 150.335,
+    "duration": 3.07
+  },
+  {
+    "text": " ",
+    "start": 154.095,
+    "duration": 2.44
+  },
+  {
+    "text": " ",
+    "start": 156.535,
+    "duration": 2.64
+  },
+  {
+    "text": " ",
+    "start": 159.175,
+    "duration": 3.35
+  },
+  {
+    "text": " ",
+    "start": 162.525,
+    "duration": 2.75
+  },
+  {
+    "text": " ",
+    "start": 165.275,
+    "duration": 1.82
+  },
+  {
+    "text": " ",
+    "start": 167.095,
+    "duration": 2.88
+  },
+  {
+    "text": " ",
+    "start": 169.975,
+    "duration": 2.8
+  },
+  {
+    "text": " ",
+    "start": 172.775,
+    "duration": 2.81
+  },
+  {
+    "text": " ",
+    "start": 176.365,
+    "duration": 2.64
+  },
+  {
+    "text": " ",
+    "start": 179.005,
+    "duration": 2.98
+  },
+  {
+    "text": " ",
+    "start": 181.985,
+    "duration": 2.08
+  },
+  {
+    "text": "and to solve this method",
+    "start": 184.065,
+    "duration": 2.0
+  },
+  {
+    "text": "we have added the two variable that it why we call it",
+    "start": 186.065,
+    "duration": 2.92
+  },
+  {
+    "text": "artificial variable. Here",
+    "start": 188.985,
+    "duration": 2.8
+  },
+  {
+    "text": " ",
+    "start": 191.785,
+    "duration": 2.7
+  },
+  {
+    "text": " ",
+    "start": 194.485,
+    "duration": 2.43
+  },
+  {
+    "text": " ",
+    "start": 196.915,
+    "duration": 2.5
+  },
+  {
+    "text": " ",
+    "start": 199.705,
+    "duration": 3.04
+  },
+  {
+    "text": " ",
+    "start": 202.745,
+    "duration": 3.02
+  },
+  {
+    "text": " ",
+    "start": 205.765,
+    "duration": 3.12
+  },
+  {
+    "text": " ",
+    "start": 208.885,
+    "duration": 2.94
+  },
+  {
+    "text": " ",
+    "start": 211.825,
+    "duration": 3.01
+  },
+  {
+    "text": " ",
+    "start": 214.835,
+    "duration": 1.21
+  },
+  {
+    "text": " ",
+    "start": 216.445,
+    "duration": 3.04
+  },
+  {
+    "text": " ",
+    "start": 219.485,
+    "duration": 1.34
+  },
+  {
+    "text": " ",
+    "start": 221.495,
+    "duration": 3.1
+  },
+  {
+    "text": " ",
+    "start": 224.595,
+    "duration": 1.82
+  },
+  {
+    "text": " ",
+    "start": 226.415,
+    "duration": 2.38
+  },
+  {
+    "text": " ",
+    "start": 228.795,
+    "duration": 2.97
+  },
+  {
+    "text": " ",
+    "start": 231.765,
+    "duration": 2.16
+  },
+  {
+    "text": " ",
+    "start": 234.205,
+    "duration": 2.47
+  },
+  {
+    "text": " ",
+    "start": 238.955,
+    "duration": 1.87
+  },
+  {
+    "text": " ",
+    "start": 241.225,
+    "duration": 1.26
+  },
+  {
+    "text": " ",
+    "start": 242.815,
+    "duration": 3.04
+  },
+  {
+    "text": " ",
+    "start": 245.855,
+    "duration": 2.56
+  },
+  {
+    "text": " ",
+    "start": 248.415,
+    "duration": 2.43
+  },
+  {
+    "text": " ",
+    "start": 251.075,
+    "duration": 2.38
+  },
+  {
+    "text": " ",
+    "start": 253.455,
+    "duration": 3.08
+  },
+  {
+    "text": " ",
+    "start": 256.535,
+    "duration": 1.92
+  },
+  {
+    "text": " ",
+    "start": 258.455,
+    "duration": 3.36
+  },
+  {
+    "text": " ",
+    "start": 261.815,
+    "duration": 3.32
+  },
+  {
+    "text": " ",
+    "start": 265.135,
+    "duration": 3.28
+  },
+  {
+    "text": " ",
+    "start": 268.765,
+    "duration": 3.16
+  },
+  {
+    "text": " ",
+    "start": 272.005,
+    "duration": 2.98
+  },
+  {
+    "text": " ",
+    "start": 274.985,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 277.195,
+    "duration": 3.17
+  },
+  {
+    "text": " ",
+    "start": 280.565,
+    "duration": 3.27
+  },
+  {
+    "text": " ",
+    "start": 283.835,
+    "duration": 3.26
+  },
+  {
+    "text": " ",
+    "start": 287.535,
+    "duration": 1.49
+  },
+  {
+    "text": " ",
+    "start": 289.025,
+    "duration": 2.28
+  },
+  {
+    "text": " ",
+    "start": 291.305,
+    "duration": 2.71
+  },
+  {
+    "text": " ",
+    "start": 294.015,
+    "duration": 2.71
+  },
+  {
+    "text": " ",
+    "start": 296.725,
+    "duration": 3.0
+  },
+  {
+    "text": " ",
+    "start": 299.725,
+    "duration": 2.77
+  },
+  {
+    "text": " ",
+    "start": 302.495,
+    "duration": 2.41
+  },
+  {
+    "text": " ",
+    "start": 304.905,
+    "duration": 1.89
+  },
+  {
+    "text": "Students I have already uploaded two videos on simplex method",
+    "start": 306.795,
+    "duration": 3.12
+  },
+  {
+    "text": "which you can see and understand here on the I icon",
+    "start": 309.915,
+    "duration": 2.26
+  },
+  {
+    "text": "as if you will understand this after that you will get it much better  and",
+    "start": 312.175,
+    "duration": 2.93
+  },
+  {
+    "text": "if you are watching this for the first time then please do watch that video also. Right?",
+    "start": 315.105,
+    "duration": 2.65
+  },
+  {
+    "text": " ",
+    "start": 318.235,
+    "duration": 2.76
+  },
+  {
+    "text": " ",
+    "start": 320.995,
+    "duration": 2.64
+  },
+  {
+    "text": " ",
+    "start": 323.635,
+    "duration": 2.73
+  },
+  {
+    "text": " ",
+    "start": 326.365,
+    "duration": 2.98
+  },
+  {
+    "text": " ",
+    "start": 329.345,
+    "duration": 2.6
+  },
+  {
+    "text": " ",
+    "start": 331.945,
+    "duration": 3.1
+  },
+  {
+    "text": " ",
+    "start": 335.605,
+    "duration": 3.09
+  },
+  {
+    "text": " ",
+    "start": 338.695,
+    "duration": 3.06
+  },
+  {
+    "text": " ",
+    "start": 341.755,
+    "duration": 2.64
+  },
+  {
+    "text": " ",
+    "start": 344.845,
+    "duration": 2.86
+  },
+  {
+    "text": " ",
+    "start": 347.705,
+    "duration": 2.7
+  },
+  {
+    "text": " ",
+    "start": 350.405,
+    "duration": 2.47
+  },
+  {
+    "text": " ",
+    "start": 353.165,
+    "duration": 2.85
+  },
+  {
+    "text": " ",
+    "start": 356.015,
+    "duration": 2.94
+  },
+  {
+    "text": " ",
+    "start": 359.335,
+    "duration": 2.8
+  },
+  {
+    "text": " ",
+    "start": 362.135,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 363.785,
+    "duration": 3.15
+  },
+  {
+    "text": " ",
+    "start": 366.935,
+    "duration": 3.13
+  },
+  {
+    "text": " ",
+    "start": 370.065,
+    "duration": 3.02
+  },
+  {
+    "text": " ",
+    "start": 373.535,
+    "duration": 3.13
+  },
+  {
+    "text": " ",
+    "start": 376.725,
+    "duration": 2.98
+  },
+  {
+    "text": " ",
+    "start": 379.705,
+    "duration": 3.43
+  },
+  {
+    "text": " ",
+    "start": 383.135,
+    "duration": 2.91
+  },
+  {
+    "text": " ",
+    "start": 386.045,
+    "duration": 3.24
+  },
+  {
+    "text": " ",
+    "start": 389.295,
+    "duration": 3.01
+  },
+  {
+    "text": " ",
+    "start": 392.305,
+    "duration": 3.09
+  },
+  {
+    "text": " ",
+    "start": 395.395,
+    "duration": 2.82
+  },
+  {
+    "text": " ",
+    "start": 398.215,
+    "duration": 2.54
+  },
+  {
+    "text": " ",
+    "start": 400.755,
+    "duration": 3.15
+  },
+  {
+    "text": " ",
+    "start": 403.905,
+    "duration": 3.06
+  },
+  {
+    "text": " ",
+    "start": 407.165,
+    "duration": 2.86
+  },
+  {
+    "text": " ",
+    "start": 410.025,
+    "duration": 3.3
+  },
+  {
+    "text": " ",
+    "start": 413.325,
+    "duration": 2.44
+  },
+  {
+    "text": " ",
+    "start": 415.765,
+    "duration": 3.26
+  },
+  {
+    "text": " ",
+    "start": 419.025,
+    "duration": 1.35
+  },
+  {
+    "text": " ",
+    "start": 420.695,
+    "duration": 2.99
+  },
+  {
+    "text": " ",
+    "start": 423.685,
+    "duration": 3.26
+  },
+  {
+    "text": " ",
+    "start": 427.235,
+    "duration": 2.9
+  },
+  {
+    "text": " ",
+    "start": 430.135,
+    "duration": 2.89
+  },
+  {
+    "text": " ",
+    "start": 433.025,
+    "duration": 3.38
+  },
+  {
+    "text": " ",
+    "start": 436.455,
+    "duration": 3.05
+  },
+  {
+    "text": " ",
+    "start": 439.505,
+    "duration": 1.73
+  },
+  {
+    "text": " ",
+    "start": 441.235,
+    "duration": 3.19
+  },
+  {
+    "text": " ",
+    "start": 444.425,
+    "duration": 2.79
+  },
+  {
+    "text": " ",
+    "start": 447.215,
+    "duration": 2.54
+  },
+  {
+    "text": " ",
+    "start": 450.095,
+    "duration": 2.14
+  },
+  {
+    "text": " ",
+    "start": 452.235,
+    "duration": 3.1
+  },
+  {
+    "text": " ",
+    "start": 455.335,
+    "duration": 3.1
+  },
+  {
+    "text": " ",
+    "start": 458.435,
+    "duration": 2.85
+  },
+  {
+    "text": " ",
+    "start": 461.285,
+    "duration": 2.86
+  },
+  {
+    "text": " ",
+    "start": 464.145,
+    "duration": 3.04
+  },
+  {
+    "text": " ",
+    "start": 467.185,
+    "duration": 2.9
+  },
+  {
+    "text": " ",
+    "start": 470.085,
+    "duration": 2.21
+  },
+  {
+    "text": " ",
+    "start": 472.295,
+    "duration": 2.65
+  },
+  {
+    "text": " ",
+    "start": 474.945,
+    "duration": 2.79
+  },
+  {
+    "text": " ",
+    "start": 478.965,
+    "duration": 2.62
+  },
+  {
+    "text": " ",
+    "start": 481.585,
+    "duration": 2.49
+  },
+  {
+    "text": " ",
+    "start": 484.075,
+    "duration": 2.96
+  },
+  {
+    "text": " ",
+    "start": 487.035,
+    "duration": 3.04
+  },
+  {
+    "text": " ",
+    "start": 490.075,
+    "duration": 2.63
+  },
+  {
+    "text": " ",
+    "start": 492.705,
+    "duration": 2.31
+  },
+  {
+    "text": " ",
+    "start": 495.555,
+    "duration": 3.04
+  },
+  {
+    "text": " ",
+    "start": 498.595,
+    "duration": 2.78
+  },
+  {
+    "text": " ",
+    "start": 501.575,
+    "duration": 3.19
+  },
+  {
+    "text": " ",
+    "start": 504.835,
+    "duration": 2.98
+  },
+  {
+    "text": " ",
+    "start": 507.815,
+    "duration": 2.73
+  },
+  {
+    "text": " ",
+    "start": 510.545,
+    "duration": 3.27
+  },
+  {
+    "text": " ",
+    "start": 513.965,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 515.755,
+    "duration": 3.0
+  },
+  {
+    "text": " ",
+    "start": 518.755,
+    "duration": 2.99
+  },
+  {
+    "text": " ",
+    "start": 521.745,
+    "duration": 3.02
+  },
+  {
+    "text": " ",
+    "start": 524.765,
+    "duration": 3.46
+  },
+  {
+    "text": " ",
+    "start": 528.245,
+    "duration": 2.9
+  },
+  {
+    "text": " ",
+    "start": 531.145,
+    "duration": 2.87
+  },
+  {
+    "text": " ",
+    "start": 534.015,
+    "duration": 2.49
+  },
+  {
+    "text": " ",
+    "start": 536.505,
+    "duration": 2.77
+  },
+  {
+    "text": " ",
+    "start": 539.275,
+    "duration": 2.62
+  },
+  {
+    "text": " ",
+    "start": 541.895,
+    "duration": 2.68
+  },
+  {
+    "text": " ",
+    "start": 544.575,
+    "duration": 2.76
+  },
+  {
+    "text": " ",
+    "start": 547.335,
+    "duration": 3.04
+  },
+  {
+    "text": " ",
+    "start": 550.375,
+    "duration": 2.53
+  },
+  {
+    "text": " ",
+    "start": 552.905,
+    "duration": 1.25
+  },
+  {
+    "text": " ",
+    "start": 554.155,
+    "duration": 3.28
+  },
+  {
+    "text": " ",
+    "start": 557.435,
+    "duration": 2.58
+  },
+  {
+    "text": " ",
+    "start": 560.015,
+    "duration": 2.56
+  },
+  {
+    "text": " ",
+    "start": 562.575,
+    "duration": 2.77
+  },
+  {
+    "text": " ",
+    "start": 565.345,
+    "duration": 2.98
+  },
+  {
+    "text": " ",
+    "start": 568.325,
+    "duration": 2.33
+  },
+  {
+    "text": " ",
+    "start": 570.655,
+    "duration": 3.31
+  },
+  {
+    "text": " ",
+    "start": 574.005,
+    "duration": 2.81
+  },
+  {
+    "text": " ",
+    "start": 576.815,
+    "duration": 2.53
+  },
+  {
+    "text": " ",
+    "start": 579.345,
+    "duration": 2.93
+  },
+  {
+    "text": " ",
+    "start": 582.275,
+    "duration": 1.29
+  },
+  {
+    "text": " ",
+    "start": 583.875,
+    "duration": 2.17
+  },
+  {
+    "text": " ",
+    "start": 586.065,
+    "duration": 3.41
+  },
+  {
+    "text": " ",
+    "start": 589.765,
+    "duration": 3.01
+  },
+  {
+    "text": " ",
+    "start": 592.775,
+    "duration": 3.27
+  },
+  {
+    "text": " ",
+    "start": 596.795,
+    "duration": 3.06
+  },
+  {
+    "text": " ",
+    "start": 599.855,
+    "duration": 2.2
+  },
+  {
+    "text": " ",
+    "start": 602.055,
+    "duration": 2.73
+  },
+  {
+    "text": " ",
+    "start": 604.785,
+    "duration": 3.0
+  },
+  {
+    "text": " ",
+    "start": 608.215,
+    "duration": 3.04
+  },
+  {
+    "text": " ",
+    "start": 611.255,
+    "duration": 1.83
+  },
+  {
+    "text": " ",
+    "start": 613.085,
+    "duration": 2.51
+  },
+  {
+    "text": " ",
+    "start": 615.595,
+    "duration": 1.96
+  },
+  {
+    "text": " ",
+    "start": 617.555,
+    "duration": 2.77
+  },
+  {
+    "text": " ",
+    "start": 620.325,
+    "duration": 1.97
+  },
+  {
+    "text": " ",
+    "start": 622.295,
+    "duration": 3.05
+  },
+  {
+    "text": " ",
+    "start": 625.345,
+    "duration": 1.18
+  },
+  {
+    "text": " ",
+    "start": 626.525,
+    "duration": 2.66
+  },
+  {
+    "text": " ",
+    "start": 629.185,
+    "duration": 3.0
+  },
+  {
+    "text": " ",
+    "start": 632.185,
+    "duration": 1.56
+  },
+  {
+    "text": " ",
+    "start": 634.425,
+    "duration": 2.99
+  },
+  {
+    "text": " ",
+    "start": 637.415,
+    "duration": 2.58
+  },
+  {
+    "text": " ",
+    "start": 639.995,
+    "duration": 2.45
+  },
+  {
+    "text": " ",
+    "start": 642.445,
+    "duration": 3.11
+  },
+  {
+    "text": " ",
+    "start": 645.915,
+    "duration": 3.04
+  },
+  {
+    "text": " ",
+    "start": 648.955,
+    "duration": 2.87
+  },
+  {
+    "text": " ",
+    "start": 651.825,
+    "duration": 1.99
+  },
+  {
+    "text": " ",
+    "start": 653.815,
+    "duration": 2.04
+  },
+  {
+    "text": " ",
+    "start": 655.855,
+    "duration": 2.47
+  },
+  {
+    "text": " ",
+    "start": 658.325,
+    "duration": 3.18
+  },
+  {
+    "text": " ",
+    "start": 661.505,
+    "duration": 3.15
+  },
+  {
+    "text": " ",
+    "start": 664.655,
+    "duration": 3.0
+  },
+  {
+    "text": " ",
+    "start": 667.655,
+    "duration": 2.55
+  },
+  {
+    "text": " ",
+    "start": 670.205,
+    "duration": 1.65
+  },
+  {
+    "text": " ",
+    "start": 672.215,
+    "duration": 3.06
+  },
+  {
+    "text": " ",
+    "start": 675.485,
+    "duration": 3.05
+  },
+  {
+    "text": " ",
+    "start": 678.535,
+    "duration": 1.35
+  },
+  {
+    "text": "so students now I will tell you how this question with two phase method",
+    "start": 680.305,
+    "duration": 3.07
+  },
+  {
+    "text": "is solved same to same question",
+    "start": 683.375,
+    "duration": 2.4
+  },
+  {
+    "text": "I will tell you the difference between big M and two phase",
+    "start": 685.915,
+    "duration": 3.03
+  },
+  {
+    "text": "this question only",
+    "start": 688.945,
+    "duration": 2.69
+  },
+  {
+    "text": "I will edit, change a little so you will understand what is the difference",
+    "start": 691.635,
+    "duration": 2.69
+  },
+  {
+    "text": "between the two so now we will solve this with two phase",
+    "start": 694.325,
+    "duration": 3.07
+  },
+  {
+    "text": "method. So students see how we solve this with two phase method",
+    "start": 697.395,
+    "duration": 3.15
+  },
+  {
+    "text": "same to same question. Big M is mainly asked in the exam",
+    "start": 700.545,
+    "duration": 2.71
+  },
+  {
+    "text": "by name that solve",
+    "start": 703.255,
+    "duration": 2.27
+  },
+  {
+    "text": "the two phase method, solve my big M method",
+    "start": 705.525,
+    "duration": 2.38
+  },
+  {
+    "text": "and if by chance they don't ask my name then use can apply two phase also and",
+    "start": 707.905,
+    "duration": 3.19
+  },
+  {
+    "text": "big M also. It depends on you. Right? So here",
+    "start": 711.095,
+    "duration": 2.77
+  },
+  {
+    "text": "I will tell you that how we will solve this question by two phase",
+    "start": 713.865,
+    "duration": 3.06
+  },
+  {
+    "text": " ",
+    "start": 716.925,
+    "duration": 3.34
+  },
+  {
+    "text": " ",
+    "start": 720.265,
+    "duration": 3.5
+  },
+  {
+    "text": " ",
+    "start": 724.155,
+    "duration": 3.02
+  },
+  {
+    "text": " ",
+    "start": 727.175,
+    "duration": 1.46
+  },
+  {
+    "text": " ",
+    "start": 729.265,
+    "duration": 3.01
+  },
+  {
+    "text": " ",
+    "start": 732.275,
+    "duration": 2.8
+  },
+  {
+    "text": " ",
+    "start": 735.075,
+    "duration": 2.98
+  },
+  {
+    "text": " ",
+    "start": 739.035,
+    "duration": 2.61
+  },
+  {
+    "text": " ",
+    "start": 741.645,
+    "duration": 3.04
+  },
+  {
+    "text": " ",
+    "start": 744.685,
+    "duration": 2.85
+  },
+  {
+    "text": " ",
+    "start": 747.535,
+    "duration": 3.13
+  },
+  {
+    "text": " ",
+    "start": 751.115,
+    "duration": 3.09
+  },
+  {
+    "text": " ",
+    "start": 754.205,
+    "duration": 3.02
+  },
+  {
+    "text": " ",
+    "start": 757.225,
+    "duration": 3.18
+  },
+  {
+    "text": " ",
+    "start": 760.405,
+    "duration": 2.81
+  },
+  {
+    "text": " ",
+    "start": 763.215,
+    "duration": 2.48
+  },
+  {
+    "text": " ",
+    "start": 765.695,
+    "duration": 3.03
+  },
+  {
+    "text": " ",
+    "start": 768.755,
+    "duration": 3.11
+  },
+  {
+    "text": " ",
+    "start": 771.865,
+    "duration": 2.82
+  },
+  {
+    "text": " ",
+    "start": 774.685,
+    "duration": 2.73
+  },
+  {
+    "text": " ",
+    "start": 777.415,
+    "duration": 2.63
+  },
+  {
+    "text": " ",
+    "start": 780.045,
+    "duration": 3.24
+  },
+  {
+    "text": " ",
+    "start": 783.285,
+    "duration": 2.87
+  },
+  {
+    "text": " ",
+    "start": 786.155,
+    "duration": 2.82
+  },
+  {
+    "text": " ",
+    "start": 788.975,
+    "duration": 2.9
+  },
+  {
+    "text": " ",
+    "start": 791.875,
+    "duration": 2.79
+  },
+  {
+    "text": " ",
+    "start": 794.665,
+    "duration": 2.94
+  },
+  {
+    "text": " ",
+    "start": 797.605,
+    "duration": 2.51
+  },
+  {
+    "text": " ",
+    "start": 800.115,
+    "duration": 3.36
+  },
+  {
+    "text": " ",
+    "start": 803.515,
+    "duration": 2.98
+  },
+  {
+    "text": " ",
+    "start": 806.495,
+    "duration": 2.92
+  },
+  {
+    "text": " ",
+    "start": 809.415,
+    "duration": 3.06
+  },
+  {
+    "text": " ",
+    "start": 812.475,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 814.335,
+    "duration": 2.78
+  },
+  {
+    "text": " ",
+    "start": 817.115,
+    "duration": 2.67
+  },
+  {
+    "text": " ",
+    "start": 819.785,
+    "duration": 2.73
+  },
+  {
+    "text": " ",
+    "start": 822.515,
+    "duration": 2.86
+  },
+  {
+    "text": " ",
+    "start": 825.425,
+    "duration": 3.05
+  },
+  {
+    "text": " ",
+    "start": 828.475,
+    "duration": 2.53
+  },
+  {
+    "text": " ",
+    "start": 831.005,
+    "duration": 2.93
+  },
+  {
+    "text": " ",
+    "start": 833.935,
+    "duration": 2.25
+  },
+  {
+    "text": " ",
+    "start": 836.835,
+    "duration": 3.0
+  },
+  {
+    "text": " ",
+    "start": 839.835,
+    "duration": 2.93
+  },
+  {
+    "text": " ",
+    "start": 842.765,
+    "duration": 3.36
+  },
+  {
+    "text": " ",
+    "start": 846.155,
+    "duration": 2.96
+  },
+  {
+    "text": " ",
+    "start": 849.155,
+    "duration": 3.03
+  },
+  {
+    "text": " ",
+    "start": 852.185,
+    "duration": 3.01
+  },
+  {
+    "text": " ",
+    "start": 855.195,
+    "duration": 2.96
+  },
+  {
+    "text": " ",
+    "start": 858.155,
+    "duration": 1.92
+  },
+  {
+    "text": " ",
+    "start": 860.385,
+    "duration": 1.35
+  },
+  {
+    "text": " ",
+    "start": 862.505,
+    "duration": 2.82
+  },
+  {
+    "text": " ",
+    "start": 865.325,
+    "duration": 3.12
+  },
+  {
+    "text": " ",
+    "start": 868.445,
+    "duration": 2.83
+  },
+  {
+    "text": " ",
+    "start": 871.275,
+    "duration": 2.67
+  },
+  {
+    "text": " ",
+    "start": 873.945,
+    "duration": 2.57
+  },
+  {
+    "text": " ",
+    "start": 876.515,
+    "duration": 2.7
+  },
+  {
+    "text": " ",
+    "start": 879.215,
+    "duration": 1.32
+  },
+  {
+    "text": " ",
+    "start": 881.535,
+    "duration": 2.97
+  },
+  {
+    "text": " ",
+    "start": 884.505,
+    "duration": 2.84
+  },
+  {
+    "text": " ",
+    "start": 887.345,
+    "duration": 2.77
+  },
+  {
+    "text": " ",
+    "start": 890.115,
+    "duration": 2.71
+  },
+  {
+    "text": " ",
+    "start": 892.825,
+    "duration": 3.07
+  },
+  {
+    "text": " ",
+    "start": 895.895,
+    "duration": 3.01
+  },
+  {
+    "text": " ",
+    "start": 898.905,
+    "duration": 2.82
+  },
+  {
+    "text": " ",
+    "start": 901.725,
+    "duration": 2.38
+  },
+  {
+    "text": " ",
+    "start": 904.105,
+    "duration": 3.27
+  },
+  {
+    "text": " ",
+    "start": 907.375,
+    "duration": 2.52
+  },
+  {
+    "text": " ",
+    "start": 909.895,
+    "duration": 3.08
+  },
+  {
+    "text": " ",
+    "start": 912.975,
+    "duration": 2.96
+  },
+  {
+    "text": " ",
+    "start": 915.935,
+    "duration": 2.91
+  },
+  {
+    "text": " ",
+    "start": 919.155,
+    "duration": 3.23
+  },
+  {
+    "text": " ",
+    "start": 923.185,
+    "duration": 2.85
+  },
+  {
+    "text": " ",
+    "start": 926.035,
+    "duration": 2.6
+  },
+  {
+    "text": " ",
+    "start": 928.635,
+    "duration": 3.12
+  },
+  {
+    "text": " ",
+    "start": 931.755,
+    "duration": 1.0
+  },
+  {
+    "text": " ",
+    "start": 934.565,
+    "duration": 3.16
+  },
+  {
+    "text": " ",
+    "start": 937.815,
+    "duration": 2.52
+  },
+  {
+    "text": " ",
+    "start": 940.335,
+    "duration": 2.42
+  },
+  {
+    "text": " ",
+    "start": 942.755,
+    "duration": 2.73
+  },
+  {
+    "text": " ",
+    "start": 945.485,
+    "duration": 2.92
+  },
+  {
+    "text": " ",
+    "start": 949.515,
+    "duration": 2.92
+  },
+  {
+    "text": " ",
+    "start": 952.435,
+    "duration": 2.92
+  },
+  {
+    "text": " ",
+    "start": 955.355,
+    "duration": 3.14
+  },
+  {
+    "text": " ",
+    "start": 958.495,
+    "duration": 2.78
+  },
+  {
+    "text": " ",
+    "start": 961.395,
+    "duration": 2.66
+  },
+  {
+    "text": " ",
+    "start": 964.495,
+    "duration": 2.63
+  },
+  {
+    "text": " ",
+    "start": 967.125,
+    "duration": 3.01
+  },
+  {
+    "text": " ",
+    "start": 970.135,
+    "duration": 2.74
+  },
+  {
+    "text": " ",
+    "start": 972.955,
+    "duration": 2.59
+  },
+  {
+    "text": " ",
+    "start": 975.545,
+    "duration": 2.69
+  },
+  {
+    "text": " ",
+    "start": 978.235,
+    "duration": 3.04
+  },
+  {
+    "text": " ",
+    "start": 981.275,
+    "duration": 2.95
+  },
+  {
+    "text": " ",
+    "start": 984.225,
+    "duration": 3.07
+  },
+  {
+    "text": " ",
+    "start": 987.295,
+    "duration": 2.91
+  },
+  {
+    "text": " ",
+    "start": 990.205,
+    "duration": 3.02
+  },
+  {
+    "text": " ",
+    "start": 993.225,
+    "duration": 3.1
+  },
+  {
+    "text": " ",
+    "start": 996.325,
+    "duration": 3.11
+  },
+  {
+    "text": " ",
+    "start": 999.435,
+    "duration": 3.03
+  },
+  {
+    "text": " ",
+    "start": 1002.465,
+    "duration": 2.96
+  },
+  {
+    "text": " ",
+    "start": 1005.425,
+    "duration": 2.92
+  },
+  {
+    "text": " ",
+    "start": 1008.345,
+    "duration": 2.92
+  },
+  {
+    "text": " ",
+    "start": 1011.265,
+    "duration": 2.76
+  },
+  {
+    "text": " ",
+    "start": 1014.025,
+    "duration": 2.44
+  },
+  {
+    "text": " ",
+    "start": 1016.465,
+    "duration": 3.01
+  },
+  {
+    "text": " ",
+    "start": 1019.475,
+    "duration": 3.08
+  },
+  {
+    "text": " ",
+    "start": 1022.555,
+    "duration": 2.98
+  },
+  {
+    "text": " ",
+    "start": 1025.535,
+    "duration": 1.65
+  },
+  {
+    "text": " ",
+    "start": 1027.185,
+    "duration": 2.49
+  },
+  {
+    "text": "Students I will take one more topic",
+    "start": 1029.675,
+    "duration": 2.27
+  },
+  {
+    "text": "one more video in which",
+    "start": 1031.945,
+    "duration": 1.93
+  },
+  {
+    "text": "one question on big M and two phase",
+    "start": 1033.875,
+    "duration": 1.37
+  },
+  {
+    "text": "I will solve so that your concepts are more clear",
+    "start": 1035.245,
+    "duration": 2.82
+  },
+  {
+    "text": "Students I feel that you must have understood my video and if there is any doubt",
+    "start": 1038.065,
+    "duration": 3.2
+  },
+  {
+    "text": "then you can tell me by commenting here",
+    "start": 1041.265,
+    "duration": 2.26
+  },
+  {
+    "text": "Thank you so much for watching my videos. Be with me",
+    "start": 1043.525,
+    "duration": 2.86
+  },
+  {
+    "text": "I am going to develop a good content for you all here and students",
+    "start": 1046.385,
+    "duration": 2.93
+  },
+  {
+    "text": "I am bringing one video on statistics and probability",
+    "start": 1049.315,
+    "duration": 3.17
+  },
+  {
+    "text": "plus here series solution, special function and",
+    "start": 1052.485,
+    "duration": 3.22
+  },
+  {
+    "text": "differential equation some of my topics are due like",
+    "start": 1055.705,
+    "duration": 3.07
+  },
+  {
+    "text": "higher order differential equation",
+    "start": 1058.925,
+    "duration": 2.85
+  },
+  {
+    "text": "sorry first order, first order and higher",
+    "start": 1062.015,
+    "duration": 2.49
+  },
+  {
+    "text": "degree in which solvable for x, solvable for",
+    "start": 1064.505,
+    "duration": 2.06
+  },
+  {
+    "text": "y and solvable for p and",
+    "start": 1066.565,
+    "duration": 2.64
+  },
+  {
+    "text": "the topic on series solution was also left and",
+    "start": 1069.205,
+    "duration": 2.98
+  },
+  {
+    "text": "even partial differential equation with constant coefficient was also left",
+    "start": 1072.185,
+    "duration": 3.02
+  },
+  {
+    "text": "so on these topics I am going to upload the videos",
+    "start": 1075.205,
+    "duration": 2.76
+  },
+  {
+    "text": "I am going to tell you that before march",
+    "start": 1077.965,
+    "duration": 2.86
+  },
+  {
+    "text": "I  will upload videos on all these topics",
+    "start": 1080.825,
+    "duration": 2.27
+  }
+]

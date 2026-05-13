@@ -1,0 +1,1752 @@
+[
+  {
+    "text": "so in the series of learning programming",
+    "start": 0.12,
+    "duration": 4.04
+  },
+  {
+    "text": "in c from this video I'm going to start",
+    "start": 1.8,
+    "duration": 4.519
+  },
+  {
+    "text": "strengths in C in this video we'll talk",
+    "start": 4.16,
+    "duration": 4.88
+  },
+  {
+    "text": "about basics of strengths like what is",
+    "start": 6.319,
+    "duration": 5.2
+  },
+  {
+    "text": "string and how the string is different",
+    "start": 9.04,
+    "duration": 4.519
+  },
+  {
+    "text": "from character array how to declare a",
+    "start": 11.519,
+    "duration": 3.641
+  },
+  {
+    "text": "string how to initialize a string",
+    "start": 13.559,
+    "duration": 2.72
+  },
+  {
+    "text": "different different methods of",
+    "start": 15.16,
+    "duration": 3.76
+  },
+  {
+    "text": "initializing strings with some example",
+    "start": 16.279,
+    "duration": 5.121
+  },
+  {
+    "text": "that we'll discuss in this video so now",
+    "start": 18.92,
+    "duration": 5.16
+  },
+  {
+    "text": "what is string in simple terms if you",
+    "start": 21.4,
+    "duration": 7.56
+  },
+  {
+    "text": "say in C string is simply array of",
+    "start": 24.08,
+    "duration": 7.88
+  },
+  {
+    "text": "characters",
+    "start": 28.96,
+    "duration": 3.0
+  },
+  {
+    "text": "you know what is array right we have",
+    "start": 34.28,
+    "duration": 4.08
+  },
+  {
+    "text": "discussed array how to say how to",
+    "start": 36.559,
+    "duration": 4.48
+  },
+  {
+    "text": "declare array and AR data type first of",
+    "start": 38.36,
+    "duration": 6.0
+  },
+  {
+    "text": "all you will write then we used to write",
+    "start": 41.039,
+    "duration": 7.401
+  },
+  {
+    "text": "array name and then size of a right",
+    "start": 44.36,
+    "duration": 6.199
+  },
+  {
+    "text": "array means collection of more than one",
+    "start": 48.44,
+    "duration": 5.24
+  },
+  {
+    "text": "data items that are of same type right",
+    "start": 50.559,
+    "duration": 6.601
+  },
+  {
+    "text": "either int or float or C right so now it",
+    "start": 53.68,
+    "duration": 5.12
+  },
+  {
+    "text": "is array of",
+    "start": 57.16,
+    "duration": 5.039
+  },
+  {
+    "text": "characters right right means how to",
+    "start": 58.8,
+    "duration": 6.399
+  },
+  {
+    "text": "declare a string it is array of",
+    "start": 62.199,
+    "duration": 6.881
+  },
+  {
+    "text": "character so data type must always be a",
+    "start": 65.199,
+    "duration": 6.96
+  },
+  {
+    "text": "character care the data type would",
+    "start": 69.08,
+    "duration": 4.359
+  },
+  {
+    "text": "always be a",
+    "start": 72.159,
+    "duration": 4.0
+  },
+  {
+    "text": "character right in case of string this",
+    "start": 73.439,
+    "duration": 6.921
+  },
+  {
+    "text": "is I'm know writing what declaration of",
+    "start": 76.159,
+    "duration": 6.521
+  },
+  {
+    "text": "string so data type always be a",
+    "start": 80.36,
+    "duration": 3.799
+  },
+  {
+    "text": "character here you cannot write data",
+    "start": 82.68,
+    "duration": 3.16
+  },
+  {
+    "text": "type because here we cannot write any",
+    "start": 84.159,
+    "duration": 6.201
+  },
+  {
+    "text": "int or float or anything right in string",
+    "start": 85.84,
+    "duration": 6.48
+  },
+  {
+    "text": "always the data type would be character",
+    "start": 90.36,
+    "duration": 4.32
+  },
+  {
+    "text": "we can only store",
+    "start": 92.32,
+    "duration": 5.799
+  },
+  {
+    "text": "characters right so care",
+    "start": 94.68,
+    "duration": 7.119
+  },
+  {
+    "text": "here string name any name you can take",
+    "start": 98.119,
+    "duration": 6.721
+  },
+  {
+    "text": "and here same size you will give size of",
+    "start": 101.799,
+    "duration": 5.68
+  },
+  {
+    "text": "the string see only difference is in",
+    "start": 104.84,
+    "duration": 4.72
+  },
+  {
+    "text": "Array we can take any data type int",
+    "start": 107.479,
+    "duration": 6.081
+  },
+  {
+    "text": "float C right but in string you can only",
+    "start": 109.56,
+    "duration": 6.239
+  },
+  {
+    "text": "take data type character because string",
+    "start": 113.56,
+    "duration": 4.36
+  },
+  {
+    "text": "is array of",
+    "start": 115.799,
+    "duration": 4.401
+  },
+  {
+    "text": "characters right or you can say it is a",
+    "start": 117.92,
+    "duration": 5.0
+  },
+  {
+    "text": "character array in other words you can",
+    "start": 120.2,
+    "duration": 4.519
+  },
+  {
+    "text": "also say string is a character array the",
+    "start": 122.92,
+    "duration": 4.64
+  },
+  {
+    "text": "only difference is what string you can",
+    "start": 124.719,
+    "duration": 5.68
+  },
+  {
+    "text": "say string is a character array which is",
+    "start": 127.56,
+    "duration": 4.96
+  },
+  {
+    "text": "ending with a null",
+    "start": 130.399,
+    "duration": 5.041
+  },
+  {
+    "text": "character whatever I'm saying I'm just",
+    "start": 132.52,
+    "duration": 5.079
+  },
+  {
+    "text": "going to you know justify this thing so",
+    "start": 135.44,
+    "duration": 4.76
+  },
+  {
+    "text": "this is I guess clear Declaration of a",
+    "start": 137.599,
+    "duration": 5.28
+  },
+  {
+    "text": "string right so if I declare a string",
+    "start": 140.2,
+    "duration": 5.64
+  },
+  {
+    "text": "like care and string name I'm taking",
+    "start": 142.879,
+    "duration": 5.801
+  },
+  {
+    "text": "generally we take like name and I'm",
+    "start": 145.84,
+    "duration": 5.8
+  },
+  {
+    "text": "taking size what",
+    "start": 148.68,
+    "duration": 6.72
+  },
+  {
+    "text": "10 this is what declaration of a string",
+    "start": 151.64,
+    "duration": 7.679
+  },
+  {
+    "text": "and you know name of the string is name",
+    "start": 155.4,
+    "duration": 5.6
+  },
+  {
+    "text": "right name I'm taking only and the size",
+    "start": 159.319,
+    "duration": 7.521
+  },
+  {
+    "text": "is 10 right so now here see string will",
+    "start": 161.0,
+    "duration": 8.44
+  },
+  {
+    "text": "always be ended with a null",
+    "start": 166.84,
+    "duration": 6.24
+  },
+  {
+    "text": "character right if how memory would be",
+    "start": 169.44,
+    "duration": 6.24
+  },
+  {
+    "text": "allocated to this 10 bytes should be",
+    "start": 173.08,
+    "duration": 5.159
+  },
+  {
+    "text": "allocated 10 bytes why because character",
+    "start": 175.68,
+    "duration": 5.639
+  },
+  {
+    "text": "is going to take only one by suppose",
+    "start": 178.239,
+    "duration": 7.36
+  },
+  {
+    "text": "address is 2000 so Next Bite would be",
+    "start": 181.319,
+    "duration": 9.0
+  },
+  {
+    "text": "2001 then 2 then 3 then",
+    "start": 185.599,
+    "duration": 4.72
+  },
+  {
+    "text": "four and 2009 something like this right",
+    "start": 191.28,
+    "duration": 7.679
+  },
+  {
+    "text": "so here the name of this is what",
+    "start": 195.36,
+    "duration": 6.239
+  },
+  {
+    "text": "name I mean the variable the string name",
+    "start": 198.959,
+    "duration": 5.521
+  },
+  {
+    "text": "I'm taking just name so name and name is",
+    "start": 201.599,
+    "duration": 6.081
+  },
+  {
+    "text": "containing What Base address of the",
+    "start": 204.48,
+    "duration": 6.16
+  },
+  {
+    "text": "string that is 2,000",
+    "start": 207.68,
+    "duration": 5.0
+  },
+  {
+    "text": "we know array is what array is",
+    "start": 210.64,
+    "duration": 4.36
+  },
+  {
+    "text": "considered as a internal pointer because",
+    "start": 212.68,
+    "duration": 4.279
+  },
+  {
+    "text": "it is containing array the name of the",
+    "start": 215.0,
+    "duration": 4.319
+  },
+  {
+    "text": "array variable is containing Base",
+    "start": 216.959,
+    "duration": 3.801
+  },
+  {
+    "text": "address of the array or you can say the",
+    "start": 219.319,
+    "duration": 2.681
+  },
+  {
+    "text": "address of the first element of the",
+    "start": 220.76,
+    "duration": 3.44
+  },
+  {
+    "text": "array and string is also an array it is",
+    "start": 222.0,
+    "duration": 5.64
+  },
+  {
+    "text": "array of characters right so obviously",
+    "start": 224.2,
+    "duration": 5.48
+  },
+  {
+    "text": "the name of this string is also going to",
+    "start": 227.64,
+    "duration": 4.48
+  },
+  {
+    "text": "contain Base address of the string B",
+    "start": 229.68,
+    "duration": 4.04
+  },
+  {
+    "text": "Base address of this character array or",
+    "start": 232.12,
+    "duration": 3.119
+  },
+  {
+    "text": "of the string you can say Base address",
+    "start": 233.72,
+    "duration": 4.56
+  },
+  {
+    "text": "is 2,000 so here in the name we have",
+    "start": 235.239,
+    "duration": 4.881
+  },
+  {
+    "text": "2,000 so it is you can say internal",
+    "start": 238.28,
+    "duration": 3.879
+  },
+  {
+    "text": "pointer to this",
+    "start": 240.12,
+    "duration": 5.0
+  },
+  {
+    "text": "string right and index would be same 0",
+    "start": 242.159,
+    "duration": 6.401
+  },
+  {
+    "text": "to size minus one 0 to",
+    "start": 245.12,
+    "duration": 6.039
+  },
+  {
+    "text": "n see now the point the main point is",
+    "start": 248.56,
+    "duration": 5.239
+  },
+  {
+    "text": "what in this string or in this character",
+    "start": 251.159,
+    "duration": 5.241
+  },
+  {
+    "text": "array we can only store how many",
+    "start": 253.799,
+    "duration": 5.081
+  },
+  {
+    "text": "characters nine",
+    "start": 256.4,
+    "duration": 6.079
+  },
+  {
+    "text": "characters because string would always",
+    "start": 258.88,
+    "duration": 6.12
+  },
+  {
+    "text": "be ended with a null character so in at",
+    "start": 262.479,
+    "duration": 5.761
+  },
+  {
+    "text": "the last we always store null",
+    "start": 265.0,
+    "duration": 6.479
+  },
+  {
+    "text": "character so where you can store Nine",
+    "start": 268.24,
+    "duration": 7.399
+  },
+  {
+    "text": "characters right or if",
+    "start": 271.479,
+    "duration": 7.401
+  },
+  {
+    "text": "C so I guess declaration is clear let me",
+    "start": 275.639,
+    "duration": 5.921
+  },
+  {
+    "text": "store some value now how to initialize",
+    "start": 278.88,
+    "duration": 5.8
+  },
+  {
+    "text": "this string multiple ways are there one",
+    "start": 281.56,
+    "duration": 6.16
+  },
+  {
+    "text": "way is while declaring here only we can",
+    "start": 284.68,
+    "duration": 6.76
+  },
+  {
+    "text": "write what string as we have discussed",
+    "start": 287.72,
+    "duration": 5.8
+  },
+  {
+    "text": "in previous videos also that starting",
+    "start": 291.44,
+    "duration": 4.52
+  },
+  {
+    "text": "videos of C programming how we write",
+    "start": 293.52,
+    "duration": 4.2
+  },
+  {
+    "text": "string something like this in double",
+    "start": 295.96,
+    "duration": 5.16
+  },
+  {
+    "text": "quotes if I write in double quotes",
+    "start": 297.72,
+    "duration": 7.039
+  },
+  {
+    "text": "Jenny so this is considered as string if",
+    "start": 301.12,
+    "duration": 8.04
+  },
+  {
+    "text": "I write Jenny Jenny's",
+    "start": 304.759,
+    "duration": 8.681
+  },
+  {
+    "text": "lectures this is also a string if I",
+    "start": 309.16,
+    "duration": 7.879
+  },
+  {
+    "text": "write something like this one 2 3 4 5 in",
+    "start": 313.44,
+    "duration": 6.64
+  },
+  {
+    "text": "double quotes this is also",
+    "start": 317.039,
+    "duration": 5.641
+  },
+  {
+    "text": "string right it's not like that I'm",
+    "start": 320.08,
+    "duration": 5.559
+  },
+  {
+    "text": "saying it's array of characters so you",
+    "start": 322.68,
+    "duration": 6.88
+  },
+  {
+    "text": "can only uh store A B C D and up to Zed",
+    "start": 325.639,
+    "duration": 8.56
+  },
+  {
+    "text": "no you can also store a white space uh",
+    "start": 329.56,
+    "duration": 7.88
+  },
+  {
+    "text": "these numbers because if you write this",
+    "start": 334.199,
+    "duration": 5.481
+  },
+  {
+    "text": "one 2 3 4 5 in this that is considered",
+    "start": 337.44,
+    "duration": 4.84
+  },
+  {
+    "text": "as string if you write one in single",
+    "start": 339.68,
+    "duration": 5.519
+  },
+  {
+    "text": "code that is considered as character if",
+    "start": 342.28,
+    "duration": 5.12
+  },
+  {
+    "text": "you write two like this this is",
+    "start": 345.199,
+    "duration": 4.401
+  },
+  {
+    "text": "considered as character if you write",
+    "start": 347.4,
+    "duration": 4.96
+  },
+  {
+    "text": "space like this is space in single code",
+    "start": 349.6,
+    "duration": 4.719
+  },
+  {
+    "text": "that that is considered as",
+    "start": 352.36,
+    "duration": 4.48
+  },
+  {
+    "text": "character so please don't get confused",
+    "start": 354.319,
+    "duration": 7.361
+  },
+  {
+    "text": "like characters are only a BC D till Z",
+    "start": 356.84,
+    "duration": 8.6
+  },
+  {
+    "text": "right okay now see and how this data is",
+    "start": 361.68,
+    "duration": 6.359
+  },
+  {
+    "text": "to be stored here SK values would be",
+    "start": 365.44,
+    "duration": 5.599
+  },
+  {
+    "text": "stored I guess that you know right the",
+    "start": 368.039,
+    "duration": 4.321
+  },
+  {
+    "text": "character system that also we have",
+    "start": 371.039,
+    "duration": 3.041
+  },
+  {
+    "text": "discussed in previous videos you can",
+    "start": 372.36,
+    "duration": 3.279
+  },
+  {
+    "text": "check out the playlist of C programming",
+    "start": 374.08,
+    "duration": 2.8
+  },
+  {
+    "text": "and you can check out the previous",
+    "start": 375.639,
+    "duration": 3.521
+  },
+  {
+    "text": "videos so SK values would be stored so",
+    "start": 376.88,
+    "duration": 4.759
+  },
+  {
+    "text": "suppose I'm I am storing here something",
+    "start": 379.16,
+    "duration": 5.8
+  },
+  {
+    "text": "like this",
+    "start": 381.639,
+    "duration": 3.321
+  },
+  {
+    "text": "J that's",
+    "start": 385.16,
+    "duration": 4.84
+  },
+  {
+    "text": "it right I'm initializing the string",
+    "start": 386.919,
+    "duration": 5.56
+  },
+  {
+    "text": "here this is one way of initial",
+    "start": 390.0,
+    "duration": 4.199
+  },
+  {
+    "text": "initializing a string initialization of",
+    "start": 392.479,
+    "duration": 5.801
+  },
+  {
+    "text": "a string using string literal we call as",
+    "start": 394.199,
+    "duration": 7.041
+  },
+  {
+    "text": "string literal Right double quotes J so",
+    "start": 398.28,
+    "duration": 6.4
+  },
+  {
+    "text": "how it would be stored in this memory j",
+    "start": 401.24,
+    "duration": 7.44
+  },
+  {
+    "text": "e double n y",
+    "start": 404.68,
+    "duration": 8.079
+  },
+  {
+    "text": "and at last string would be ended with a",
+    "start": 408.68,
+    "duration": 6.359
+  },
+  {
+    "text": "null character SK value of null",
+    "start": 412.759,
+    "duration": 6.481
+  },
+  {
+    "text": "character is zero right so that is uh",
+    "start": 415.039,
+    "duration": 5.56
+  },
+  {
+    "text": "the difference between string and",
+    "start": 419.24,
+    "duration": 3.6
+  },
+  {
+    "text": "character array string is is a character",
+    "start": 420.599,
+    "duration": 4.561
+  },
+  {
+    "text": "array you can you know say it's a",
+    "start": 422.84,
+    "duration": 3.919
+  },
+  {
+    "text": "character array that is always ended",
+    "start": 425.16,
+    "duration": 5.0
+  },
+  {
+    "text": "with a null character and why it is",
+    "start": 426.759,
+    "duration": 5.241
+  },
+  {
+    "text": "ended with null that also we'll discuss",
+    "start": 430.16,
+    "duration": 4.96
+  },
+  {
+    "text": "the reason also we'll discuss right one",
+    "start": 432.0,
+    "duration": 5.039
+  },
+  {
+    "text": "by one we'll discuss everything about",
+    "start": 435.12,
+    "duration": 5.04
+  },
+  {
+    "text": "string uh so now by default compiler",
+    "start": 437.039,
+    "duration": 5.961
+  },
+  {
+    "text": "will put null at last and here some",
+    "start": 440.16,
+    "duration": 3.879
+  },
+  {
+    "text": "garbage",
+    "start": 443.0,
+    "duration": 6.08
+  },
+  {
+    "text": "values right and if I write second way",
+    "start": 444.039,
+    "duration": 7.6
+  },
+  {
+    "text": "of initializing string is what one way",
+    "start": 449.08,
+    "duration": 4.92
+  },
+  {
+    "text": "is this second way is you can also write",
+    "start": 451.639,
+    "duration": 5.12
+  },
+  {
+    "text": "something like this I hope you can see",
+    "start": 454.0,
+    "duration": 7.68
+  },
+  {
+    "text": "this care name and I'm taking suppose 10",
+    "start": 456.759,
+    "duration": 7.681
+  },
+  {
+    "text": "here so how you can",
+    "start": 461.68,
+    "duration": 4.76
+  },
+  {
+    "text": "initialize",
+    "start": 464.44,
+    "duration": 6.92
+  },
+  {
+    "text": "j e in characters",
+    "start": 466.44,
+    "duration": 4.92
+  },
+  {
+    "text": "form J is individual character all are",
+    "start": 471.96,
+    "duration": 5.04
+  },
+  {
+    "text": "individual characters I'm providing list",
+    "start": 475.28,
+    "duration": 4.08
+  },
+  {
+    "text": "of characters but here at last",
+    "start": 477.0,
+    "duration": 5.039
+  },
+  {
+    "text": "explicitly you have to provide SL sorry",
+    "start": 479.36,
+    "duration": 4.679
+  },
+  {
+    "text": "null",
+    "start": 482.039,
+    "duration": 4.56
+  },
+  {
+    "text": "character right that is another way of",
+    "start": 484.039,
+    "duration": 5.361
+  },
+  {
+    "text": "initializing string that is also fine",
+    "start": 486.599,
+    "duration": 5.681
+  },
+  {
+    "text": "this is how this is what uh that is also",
+    "start": 489.4,
+    "duration": 4.799
+  },
+  {
+    "text": "stored something like this J and Y and",
+    "start": 492.28,
+    "duration": 4.08
+  },
+  {
+    "text": "at last you have provided null character",
+    "start": 494.199,
+    "duration": 4.161
+  },
+  {
+    "text": "that is also fine and remaining would be",
+    "start": 496.36,
+    "duration": 5.04
+  },
+  {
+    "text": "garbage value right so that is also",
+    "start": 498.36,
+    "duration": 5.119
+  },
+  {
+    "text": "correct that is also correct but you",
+    "start": 501.4,
+    "duration": 4.16
+  },
+  {
+    "text": "initialize if you initialize something",
+    "start": 503.479,
+    "duration": 4.761
+  },
+  {
+    "text": "like this see I'm not providing the size",
+    "start": 505.56,
+    "duration": 4.88
+  },
+  {
+    "text": "here",
+    "start": 508.24,
+    "duration": 4.84
+  },
+  {
+    "text": "that is also correct why because you are",
+    "start": 510.44,
+    "duration": 6.56
+  },
+  {
+    "text": "providing the values this is the string",
+    "start": 513.08,
+    "duration": 5.6
+  },
+  {
+    "text": "those these values you want in this",
+    "start": 517.0,
+    "duration": 3.279
+  },
+  {
+    "text": "string in this character array so",
+    "start": 518.68,
+    "duration": 4.839
+  },
+  {
+    "text": "automatically compiler will uh compiler",
+    "start": 520.279,
+    "duration": 5.521
+  },
+  {
+    "text": "will do what it will",
+    "start": 523.519,
+    "duration": 6.481
+  },
+  {
+    "text": "U I'm not getting the exact word",
+    "start": 525.8,
+    "duration": 7.159
+  },
+  {
+    "text": "y sorry compiler will automatically",
+    "start": 530.0,
+    "duration": 5.48
+  },
+  {
+    "text": "decide know find out the size and",
+    "start": 532.959,
+    "duration": 5.641
+  },
+  {
+    "text": "according to that it will store right so",
+    "start": 535.48,
+    "duration": 5.12
+  },
+  {
+    "text": "how the this is going to be stored the",
+    "start": 538.6,
+    "duration": 3.6
+  },
+  {
+    "text": "size would be now in this case size",
+    "start": 540.6,
+    "duration": 6.799
+  },
+  {
+    "text": "would be 1 2 3 4 5 6 like",
+    "start": 542.2,
+    "duration": 5.199
+  },
+  {
+    "text": "this j e n y and at last null so only",
+    "start": 548.279,
+    "duration": 9.921
+  },
+  {
+    "text": "what uh six bites to be allocated right",
+    "start": 553.519,
+    "duration": 7.201
+  },
+  {
+    "text": "no Wast no wastage of space here also",
+    "start": 558.2,
+    "duration": 5.56
+  },
+  {
+    "text": "you can skip the size because it is what",
+    "start": 560.72,
+    "duration": 5.559
+  },
+  {
+    "text": "string you are giving right Jenny it is",
+    "start": 563.76,
+    "duration": 3.96
+  },
+  {
+    "text": "in double quot so that is why it is what",
+    "start": 566.279,
+    "duration": 3.56
+  },
+  {
+    "text": "a string so same it would be stored like",
+    "start": 567.72,
+    "duration": 3.88
+  },
+  {
+    "text": "J Jenny and automatically compiler will",
+    "start": 569.839,
+    "duration": 6.321
+  },
+  {
+    "text": "add what uh null character at last right",
+    "start": 571.6,
+    "duration": 7.4
+  },
+  {
+    "text": "so by default size would be 1 2 3 4 5",
+    "start": 576.16,
+    "duration": 7.16
+  },
+  {
+    "text": "and six so the number of characters plus",
+    "start": 579.0,
+    "duration": 6.04
+  },
+  {
+    "text": "one that you need to take care size",
+    "start": 583.32,
+    "duration": 3.36
+  },
+  {
+    "text": "would be that thing number of characters",
+    "start": 585.04,
+    "duration": 5.76
+  },
+  {
+    "text": "plus one one for null character right",
+    "start": 586.68,
+    "duration": 6.64
+  },
+  {
+    "text": "now another way of initializing this a",
+    "start": 590.8,
+    "duration": 4.92
+  },
+  {
+    "text": "string is what and see this is also a",
+    "start": 593.32,
+    "duration": 4.8
+  },
+  {
+    "text": "string if I write something like",
+    "start": 595.72,
+    "duration": 4.359
+  },
+  {
+    "text": "this",
+    "start": 598.12,
+    "duration": 4.12
+  },
+  {
+    "text": "Jenny",
+    "start": 600.079,
+    "duration": 4.961
+  },
+  {
+    "text": "and with space and then katri this is",
+    "start": 602.24,
+    "duration": 4.839
+  },
+  {
+    "text": "also string space is also allowed",
+    "start": 605.04,
+    "duration": 4.12
+  },
+  {
+    "text": "symbols are also like plus minus divide",
+    "start": 607.079,
+    "duration": 3.721
+  },
+  {
+    "text": "these symbols are also allowed within",
+    "start": 609.16,
+    "duration": 4.119
+  },
+  {
+    "text": "this string that is also fine I hope you",
+    "start": 610.8,
+    "duration": 5.279
+  },
+  {
+    "text": "got my point what a string is Right",
+    "start": 613.279,
+    "duration": 4.441
+  },
+  {
+    "text": "special symbols are also a lot whatever",
+    "start": 616.079,
+    "duration": 3.041
+  },
+  {
+    "text": "you will write in this double quotes",
+    "start": 617.72,
+    "duration": 3.239
+  },
+  {
+    "text": "that is considered as string you can",
+    "start": 619.12,
+    "duration": 3.76
+  },
+  {
+    "text": "write something like this right or you",
+    "start": 620.959,
+    "duration": 4.641
+  },
+  {
+    "text": "know like welcome to my world that is",
+    "start": 622.88,
+    "duration": 4.519
+  },
+  {
+    "text": "also string in double quotes that is",
+    "start": 625.6,
+    "duration": 6.04
+  },
+  {
+    "text": "also fine right so now uh next is see",
+    "start": 627.399,
+    "duration": 6.44
+  },
+  {
+    "text": "this initialization is what it's I guess",
+    "start": 631.64,
+    "duration": 5.639
+  },
+  {
+    "text": "similar to one dimensional array right",
+    "start": 633.839,
+    "duration": 5.761
+  },
+  {
+    "text": "so you can also say string is One D one",
+    "start": 637.279,
+    "duration": 4.36
+  },
+  {
+    "text": "dimensional AR one dimensional character",
+    "start": 639.6,
+    "duration": 4.84
+  },
+  {
+    "text": "array right where each you know that",
+    "start": 641.639,
+    "duration": 4.521
+  },
+  {
+    "text": "element is either a character constant",
+    "start": 644.44,
+    "duration": 4.56
+  },
+  {
+    "text": "or a string constant right but here the",
+    "start": 646.16,
+    "duration": 5.0
+  },
+  {
+    "text": "data type must be care and one more",
+    "start": 649.0,
+    "duration": 5.639
+  },
+  {
+    "text": "thing in C string is not considered as a",
+    "start": 651.16,
+    "duration": 7.04
+  },
+  {
+    "text": "data type like int float and Care these",
+    "start": 654.639,
+    "duration": 5.76
+  },
+  {
+    "text": "are data types in C array is also Drive",
+    "start": 658.2,
+    "duration": 4.199
+  },
+  {
+    "text": "data type and see we also discuss some",
+    "start": 660.399,
+    "duration": 4.161
+  },
+  {
+    "text": "more data types right structure and",
+    "start": 662.399,
+    "duration": 3.88
+  },
+  {
+    "text": "Union these are also data types user",
+    "start": 664.56,
+    "duration": 4.279
+  },
+  {
+    "text": "defined data types right but string is",
+    "start": 666.279,
+    "duration": 5.441
+  },
+  {
+    "text": "not a data type in C separate data type",
+    "start": 668.839,
+    "duration": 5.921
+  },
+  {
+    "text": "in C but yeah we can represent string as",
+    "start": 671.72,
+    "duration": 7.119
+  },
+  {
+    "text": "a character array in C right so here",
+    "start": 674.76,
+    "duration": 6.68
+  },
+  {
+    "text": "format specifier for string is",
+    "start": 678.839,
+    "duration": 5.281
+  },
+  {
+    "text": "percentage",
+    "start": 681.44,
+    "duration": 2.68
+  },
+  {
+    "text": "s right like in for integer percentage D",
+    "start": 684.839,
+    "duration": 6.201
+  },
+  {
+    "text": "for Lo percentage f for character",
+    "start": 688.639,
+    "duration": 6.521
+  },
+  {
+    "text": "percentage C for uh string it's",
+    "start": 691.04,
+    "duration": 5.479
+  },
+  {
+    "text": "percentage",
+    "start": 695.16,
+    "duration": 5.679
+  },
+  {
+    "text": "s right and this is very important this",
+    "start": 696.519,
+    "duration": 6.0
+  },
+  {
+    "text": "also some properties of this also we'll",
+    "start": 700.839,
+    "duration": 4.201
+  },
+  {
+    "text": "discuss one by one right now another way",
+    "start": 702.519,
+    "duration": 5.281
+  },
+  {
+    "text": "of initializing string is what like I",
+    "start": 705.04,
+    "duration": 6.08
+  },
+  {
+    "text": "can also write care name and I'm not",
+    "start": 707.8,
+    "duration": 5.839
+  },
+  {
+    "text": "supposed giving any size here and I'm",
+    "start": 711.12,
+    "duration": 5.959
+  },
+  {
+    "text": "initializing it something like this V",
+    "start": 713.639,
+    "duration": 6.561
+  },
+  {
+    "text": "space space is a character so I'm",
+    "start": 717.079,
+    "duration": 4.601
+  },
+  {
+    "text": "providing list of characters so that is",
+    "start": 720.2,
+    "duration": 4.16
+  },
+  {
+    "text": "also in single code that is space here V",
+    "start": 721.68,
+    "duration": 6.56
+  },
+  {
+    "text": "rock that is also perfect so here the",
+    "start": 724.36,
+    "duration": 7.52
+  },
+  {
+    "text": "size of the string would be 1 2 3 4 5 6",
+    "start": 728.24,
+    "duration": 9.64
+  },
+  {
+    "text": "7 + 1 that is 8 8 how suppose I'm uh",
+    "start": 731.88,
+    "duration": 9.92
+  },
+  {
+    "text": "know eight like",
+    "start": 737.88,
+    "duration": 3.92
+  },
+  {
+    "text": "this so index would be 0 to 7 8 bytes",
+    "start": 742.199,
+    "duration": 5.88
+  },
+  {
+    "text": "should be allocated and here we store V",
+    "start": 745.639,
+    "duration": 3.801
+  },
+  {
+    "text": "then space",
+    "start": 748.079,
+    "duration": 3.76
+  },
+  {
+    "text": "Rock and",
+    "start": 749.44,
+    "duration": 5.12
+  },
+  {
+    "text": "null I guess you got it and this address",
+    "start": 751.839,
+    "duration": 4.721
+  },
+  {
+    "text": "address would be stored in this uh this",
+    "start": 754.56,
+    "duration": 4.36
+  },
+  {
+    "text": "name I mean the string name so string",
+    "start": 756.56,
+    "duration": 4.279
+  },
+  {
+    "text": "name is considered as a pointer pointer",
+    "start": 758.92,
+    "duration": 4.4
+  },
+  {
+    "text": "to the first character of the string",
+    "start": 760.839,
+    "duration": 4.601
+  },
+  {
+    "text": "right so we can access the the string",
+    "start": 763.32,
+    "duration": 5.879
+  },
+  {
+    "text": "using this pointer also and next way is",
+    "start": 765.44,
+    "duration": 6.32
+  },
+  {
+    "text": "if you declare here so you must declare",
+    "start": 769.199,
+    "duration": 7.0
+  },
+  {
+    "text": "size what eight if you declare five it",
+    "start": 771.76,
+    "duration": 5.4
+  },
+  {
+    "text": "is not",
+    "start": 776.199,
+    "duration": 4.32
+  },
+  {
+    "text": "allowed because size is only five but we",
+    "start": 777.16,
+    "duration": 5.28
+  },
+  {
+    "text": "are providing values more than five so",
+    "start": 780.519,
+    "duration": 3.961
+  },
+  {
+    "text": "that is not allowed size would be number",
+    "start": 782.44,
+    "duration": 5.68
+  },
+  {
+    "text": "of characters plus one right now 10 is",
+    "start": 784.48,
+    "duration": 5.76
+  },
+  {
+    "text": "fine right remaining would be any",
+    "start": 788.12,
+    "duration": 4.839
+  },
+  {
+    "text": "garbage value another way of",
+    "start": 790.24,
+    "duration": 4.839
+  },
+  {
+    "text": "initializing string is see if you want",
+    "start": 792.959,
+    "duration": 5.24
+  },
+  {
+    "text": "to initialize like this scare name and",
+    "start": 795.079,
+    "duration": 6.721
+  },
+  {
+    "text": "I'm providing sizes 10 and in next line",
+    "start": 798.199,
+    "duration": 6.76
+  },
+  {
+    "text": "I want to write name 10 is equal to j e",
+    "start": 801.8,
+    "duration": 4.479
+  },
+  {
+    "text": "n y",
+    "start": 804.959,
+    "duration": 4.921
+  },
+  {
+    "text": "j this is not allowed we cannot separate",
+    "start": 806.279,
+    "duration": 5.961
+  },
+  {
+    "text": "this out Declaration and initialization",
+    "start": 809.88,
+    "duration": 4.519
+  },
+  {
+    "text": "that would be in same line so this would",
+    "start": 812.24,
+    "duration": 4.88
+  },
+  {
+    "text": "give an error this is not allowed in see",
+    "start": 814.399,
+    "duration": 6.041
+  },
+  {
+    "text": "right uh next is if you want to do",
+    "start": 817.12,
+    "duration": 6.44
+  },
+  {
+    "text": "something like this like name 10 and",
+    "start": 820.44,
+    "duration": 4.12
+  },
+  {
+    "text": "this is",
+    "start": 823.56,
+    "duration": 4.839
+  },
+  {
+    "text": "what Jenny and I'm writing sorry",
+    "start": 824.56,
+    "duration": 5.839
+  },
+  {
+    "text": "care",
+    "start": 828.399,
+    "duration": 6.081
+  },
+  {
+    "text": "care and uh suppose I'm writing S1 same",
+    "start": 830.399,
+    "duration": 7.36
+  },
+  {
+    "text": "size is 10 and I want to initialize this",
+    "start": 834.48,
+    "duration": 7.799
+  },
+  {
+    "text": "S1 equal to name because this is also",
+    "start": 837.759,
+    "duration": 6.161
+  },
+  {
+    "text": "string this is also string I want to",
+    "start": 842.279,
+    "duration": 3.761
+  },
+  {
+    "text": "copy the whatever in this string that is",
+    "start": 843.92,
+    "duration": 4.52
+  },
+  {
+    "text": "Jenny into S1 I want to write this thing",
+    "start": 846.04,
+    "duration": 4.64
+  },
+  {
+    "text": "so that is also not allowed see here S1",
+    "start": 848.44,
+    "duration": 3.88
+  },
+  {
+    "text": "is what it's like array name so we",
+    "start": 850.68,
+    "duration": 4.04
+  },
+  {
+    "text": "cannot put any array name to the left",
+    "start": 852.32,
+    "duration": 5.639
+  },
+  {
+    "text": "side of this equal to operate have to",
+    "start": 854.72,
+    "duration": 4.4
+  },
+  {
+    "text": "read a string or you can have to",
+    "start": 857.959,
+    "duration": 5.0
+  },
+  {
+    "text": "initialize a string at run time so here",
+    "start": 859.12,
+    "duration": 5.56
+  },
+  {
+    "text": "in this case we are having what we use",
+    "start": 862.959,
+    "duration": 3.24
+  },
+  {
+    "text": "in array using",
+    "start": 864.68,
+    "duration": 4.68
+  },
+  {
+    "text": "scanf like for Loop and scanf use atun",
+    "start": 866.199,
+    "duration": 4.56
+  },
+  {
+    "text": "time initialization but here we use",
+    "start": 869.36,
+    "duration": 3.479
+  },
+  {
+    "text": "scanf also we can also use gets function",
+    "start": 870.759,
+    "duration": 3.64
+  },
+  {
+    "text": "we can also use get character two to",
+    "start": 872.839,
+    "duration": 3.281
+  },
+  {
+    "text": "three types of function we can use so",
+    "start": 874.399,
+    "duration": 3.721
+  },
+  {
+    "text": "that we'll discuss in next video because",
+    "start": 876.12,
+    "duration": 3.36
+  },
+  {
+    "text": "we have some drawbacks of scanner",
+    "start": 878.12,
+    "duration": 3.32
+  },
+  {
+    "text": "function that's why we use get as",
+    "start": 879.48,
+    "duration": 3.359
+  },
+  {
+    "text": "function also we have some drawbacks of",
+    "start": 881.44,
+    "duration": 2.759
+  },
+  {
+    "text": "get as function so that everything we'll",
+    "start": 882.839,
+    "duration": 3.161
+  },
+  {
+    "text": "discuss in next video with the proper",
+    "start": 884.199,
+    "duration": 4.56
+  },
+  {
+    "text": "example and that example also I'll show",
+    "start": 886.0,
+    "duration": 5.12
+  },
+  {
+    "text": "you practically on my laptop right so",
+    "start": 888.759,
+    "duration": 4.841
+  },
+  {
+    "text": "now some questions on string for you is",
+    "start": 891.12,
+    "duration": 4.68
+  },
+  {
+    "text": "I guess you got the basics of string",
+    "start": 893.6,
+    "duration": 4.76
+  },
+  {
+    "text": "only right I mean what is a string and",
+    "start": 895.8,
+    "duration": 5.279
+  },
+  {
+    "text": "some declaration and initialization like",
+    "start": 898.36,
+    "duration": 5.0
+  },
+  {
+    "text": "uh compile time initialization of string",
+    "start": 901.079,
+    "duration": 4.081
+  },
+  {
+    "text": "and some points important points about",
+    "start": 903.36,
+    "duration": 4.32
+  },
+  {
+    "text": "string I hope you got everything right",
+    "start": 905.16,
+    "duration": 3.96
+  },
+  {
+    "text": "so now you have to tell me in comment",
+    "start": 907.68,
+    "duration": 4.519
+  },
+  {
+    "text": "box like these are valid or not this",
+    "start": 909.12,
+    "duration": 5.719
+  },
+  {
+    "text": "initialization of string and if there's",
+    "start": 912.199,
+    "duration": 4.2
+  },
+  {
+    "text": "any error you can tell me what is the",
+    "start": 914.839,
+    "duration": 3.36
+  },
+  {
+    "text": "error or here you have to tell me the",
+    "start": 916.399,
+    "duration": 3.641
+  },
+  {
+    "text": "size because I'm not giving any size",
+    "start": 918.199,
+    "duration": 4.681
+  },
+  {
+    "text": "what size will be you know determined by",
+    "start": 920.04,
+    "duration": 4.32
+  },
+  {
+    "text": "the compiler automatically in this case",
+    "start": 922.88,
+    "duration": 3.639
+  },
+  {
+    "text": "and in this case right so this is",
+    "start": 924.36,
+    "duration": 4.64
+  },
+  {
+    "text": "assignment for you so now and the next",
+    "start": 926.519,
+    "duration": 4.24
+  },
+  {
+    "text": "video will discuss next part of our",
+    "start": 929.0,
+    "duration": 3.399
+  },
+  {
+    "text": "string like how to read a string how to",
+    "start": 930.759,
+    "duration": 3.481
+  },
+  {
+    "text": "print a string everything about string",
+    "start": 932.399,
+    "duration": 3.161
+  },
+  {
+    "text": "with some examples and I'll see you in",
+    "start": 934.24,
+    "duration": 4.959
+  },
+  {
+    "text": "the next video till then bye-bye take",
+    "start": 935.56,
+    "duration": 3.639
+  },
+  {
+    "text": "care",
+    "start": 939.88,
+    "duration": 3.0
+  }
+]

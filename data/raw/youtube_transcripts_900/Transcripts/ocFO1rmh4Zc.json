@@ -1,0 +1,447 @@
+[
+  {
+    "text": " Hello friends, welcome to Gate Smashers.",
+    "start": 0.6,
+    "duration": 2.377
+  },
+  {
+    "text": "Today's question is from algorithm and \ntopic I have chosen is Huffman encoding.",
+    "start": 3.067,
+    "duration": 5.4
+  },
+  {
+    "text": " So first of all let's read the question.",
+    "start": 8.711,
+    "duration": 1.889
+  },
+  {
+    "text": " Consider the following message, there is a message given and",
+    "start": 10.667,
+    "duration": 3.555
+  },
+  {
+    "text": "find the number of bits required for \nHuffman encoding of the upper message.",
+    "start": 14.422,
+    "duration": 3.978
+  },
+  {
+    "text": " Also find the average bits required to represent a character.",
+    "start": 18.425,
+    "duration": 3.419
+  },
+  {
+    "text": "So first of all why we use Huffman encoding?",
+    "start": 21.956,
+    "duration": 4.019
+  },
+  {
+    "text": " We use Huffman encoding to compress \ndata, plus it is a greedy technique.",
+    "start": 26.0,
+    "duration": 7.089
+  },
+  {
+    "text": " So here if we talk, let's suppose what are the characters A, B, C, D, E",
+    "start": 33.444,
+    "duration": 5.573
+  },
+  {
+    "text": "If we talk about A, then what is the ASCII value of A? 97.",
+    "start": 39.24,
+    "duration": 4.866
+  },
+  {
+    "text": " So if I want to represent 97, how many bits will we need?",
+    "start": 44.131,
+    "duration": 4.866
+  },
+  {
+    "text": "What is 2 raised to power 7? 128. \nWhat is 2 raised to power 6? 64.",
+    "start": 49.109,
+    "duration": 4.866
+  },
+  {
+    "text": " So this value is more than 64, so we can't\n represent in 6 bits, it will take 7 bits.",
+    "start": 54.0,
+    "duration": 5.717
+  },
+  {
+    "text": " So if I want to represent A, I need 7 bits, B, C, D,",
+    "start": 59.777,
+    "duration": 3.962
+  },
+  {
+    "text": "so here in total how many characteristics\n are there in the message? 30.",
+    "start": 63.764,
+    "duration": 5.125
+  },
+  {
+    "text": " So total how many characters are there? 30, so 30 x 7 is what? 210.",
+    "start": 68.914,
+    "duration": 5.841
+  },
+  {
+    "text": "Means I will need 210 bits to encode\n this message in a normal way.",
+    "start": 75.0,
+    "duration": 6.294
+  },
+  {
+    "text": " But Huffman is a greedy approach, we will reduce \nthe number of bits based on their frequency.",
+    "start": 81.319,
+    "duration": 8.656
+  },
+  {
+    "text": " So here first of all if we talk about frequency in \nthis type of question, you have to simply count,",
+    "start": 90.0,
+    "duration": 5.975
+  },
+  {
+    "text": " most of the time frequencies are already given in the question",
+    "start": 96.0,
+    "duration": 4.19
+  },
+  {
+    "text": "that A is repeated so many times, B, C, D.",
+    "start": 100.215,
+    "duration": 2.642
+  },
+  {
+    "text": " But if not, then you can count in this message. \nSo if we talk about A, B, C, D and E.",
+    "start": 103.034,
+    "duration": 8.267
+  },
+  {
+    "text": " So first of all how many times is A? 1, 2, 3,",
+    "start": 111.577,
+    "duration": 3.716
+  },
+  {
+    "text": "B, 7, C, 6, D, 1, 2, 3, 4, 5, E, 1, 2, 3, 6, 7, 8, 9.",
+    "start": 115.382,
+    "duration": 12.619
+  },
+  {
+    "text": " So this is what the frequency of each character.",
+    "start": 128.026,
+    "duration": 3.8
+  },
+  {
+    "text": "Now when we will apply Huffman encoding on this,",
+    "start": 131.982,
+    "duration": 2.993
+  },
+  {
+    "text": " then what we have to do is a simple way.",
+    "start": 135.0,
+    "duration": 2.736
+  },
+  {
+    "text": "First of all if I represent it like this, 6, 3, 7, 6, 5, 9 and A, B, C, D, E.",
+    "start": 137.781,
+    "duration": 11.778
+  },
+  {
+    "text": " Now we use here min heap data structure.",
+    "start": 149.847,
+    "duration": 3.201
+  },
+  {
+    "text": "So in min heap data structure, first \nremove minimum element here.",
+    "start": 153.137,
+    "duration": 5.356
+  },
+  {
+    "text": " So what is the minimum element here?",
+    "start": 158.644,
+    "duration": 1.937
+  },
+  {
+    "text": "Minimum element we have is A,\n means whose frequency is the minimum.",
+    "start": 160.648,
+    "duration": 4.822
+  },
+  {
+    "text": " So if we use A here, then write A's frequency together.",
+    "start": 165.495,
+    "duration": 5.405
+  },
+  {
+    "text": " What is the frequency of A? 3.",
+    "start": 170.925,
+    "duration": 2.176
+  },
+  {
+    "text": " Then also extract the second minimum from this whole list.",
+    "start": 173.126,
+    "duration": 5.744
+  },
+  {
+    "text": " A's frequency is 3, D's frequency is 5. So here also represent D.",
+    "start": 179.067,
+    "duration": 8.176
+  },
+  {
+    "text": " So we represent small element in left and large element in right.",
+    "start": 188.0,
+    "duration": 4.684
+  },
+  {
+    "text": " So in this way follow this method and this nomenclature.",
+    "start": 192.709,
+    "duration": 3.664
+  },
+  {
+    "text": " Always your answer will be correct.",
+    "start": 196.462,
+    "duration": 1.844
+  },
+  {
+    "text": "So let's add this. When we add this, then what is the total? 8.",
+    "start": 198.373,
+    "duration": 5.111
+  },
+  {
+    "text": " Now what we have to do is whatever question you get, many times we have very simple questions.",
+    "start": 204.0,
+    "duration": 6.0
+  },
+  {
+    "text": " In which you will get 8, next minimum we will put here or put here and keep approaching in this way.",
+    "start": 210.025,
+    "duration": 8.131
+  },
+  {
+    "text": " But what is the exact approach? We have \nremoved 2 minimum elements from this list.",
+    "start": 218.181,
+    "duration": 9.628
+  },
+  {
+    "text": " What is 3 and 5? We have done total. What is the total? 8.",
+    "start": 227.834,
+    "duration": 5.141
+  },
+  {
+    "text": " Now what we have to do is delete these two elements from here.",
+    "start": 233.0,
+    "duration": 8.231
+  },
+  {
+    "text": " And what was the new element? Means what \nis the new total? 8. And add 8 in the list.",
+    "start": 241.256,
+    "duration": 6.719
+  },
+  {
+    "text": " Now again here we are putting the min heap approach",
+    "start": 248.0,
+    "duration": 3.656
+  },
+  {
+    "text": "and in min heap we will find the minimum element.",
+    "start": 251.681,
+    "duration": 2.889
+  },
+  {
+    "text": " I will tell you again here. If you are not clear,\n then you can check the video again.",
+    "start": 255.0,
+    "duration": 4.0
+  },
+  {
+    "text": " So we did 3 plus 5, 8. Reduced from there, \ndeleted from there and added 8 here.",
+    "start": 259.025,
+    "duration": 5.95
+  },
+  {
+    "text": " Then again if we apply here, then what is the minimum element? 6.",
+    "start": 265.0,
+    "duration": 5.456
+  },
+  {
+    "text": " And whose frequency is 6 here? 6 is the frequency of C.",
+    "start": 271.155,
+    "duration": 5.996
+  },
+  {
+    "text": "Then B. What is the frequency of B here? 7.",
+    "start": 277.218,
+    "duration": 5.423
+  },
+  {
+    "text": " So we have removed minimum of both the elements here, 6 and 7.",
+    "start": 282.91,
+    "duration": 3.93
+  },
+  {
+    "text": "And what you have to do with these two? Add them.",
+    "start": 287.107,
+    "duration": 2.93
+  },
+  {
+    "text": " When you added these two, what is the total?",
+    "start": 290.062,
+    "duration": 2.189
+  },
+  {
+    "text": "The total is 13. Now what we have to do is same.",
+    "start": 292.473,
+    "duration": 4.502
+  },
+  {
+    "text": " Which ones did we add here? The value of C and B.",
+    "start": 297.0,
+    "duration": 4.468
+  },
+  {
+    "text": "So delete C and B from here.",
+    "start": 301.557,
+    "duration": 3.911
+  },
+  {
+    "text": " And what is the new value here? Total 13.",
+    "start": 305.493,
+    "duration": 2.937
+  },
+  {
+    "text": "Now this 13 out of 8 and 9, \nwhich is the minimum of these? 8.",
+    "start": 308.541,
+    "duration": 6.997
+  },
+  {
+    "text": " Which is already there? 9. Which next one is 9? So 9 is greater than 8.",
+    "start": 315.563,
+    "duration": 6.412
+  },
+  {
+    "text": " So here we will represent 9 as whose frequency is E.",
+    "start": 322.0,
+    "duration": 3.963
+  },
+  {
+    "text": "And what we will take from these two? Total.",
+    "start": 326.008,
+    "duration": 4.967
+  },
+  {
+    "text": " When we will take the total of these two, then it is what? 17.",
+    "start": 331.0,
+    "duration": 3.407
+  },
+  {
+    "text": " Means this node will be made, 8 is already in the left of this node.",
+    "start": 335.0,
+    "duration": 4.693
+  },
+  {
+    "text": "But which element will come in the right? 9.",
+    "start": 339.718,
+    "duration": 3.198
+  },
+  {
+    "text": " Now finally what is the total here? \n17. So 13 was already here.",
+    "start": 342.941,
+    "duration": 6.034
+  },
+  {
+    "text": " When we added 9 and 8, then what came here? 17. \nSo here we have to make a new node.",
+    "start": 349.0,
+    "duration": 6.975
+  },
+  {
+    "text": " And this root node, in the left of this root node, \n13 will come. In the right, 17 will come.",
+    "start": 356.0,
+    "duration": 7.963
+  },
+  {
+    "text": " And what is the total of these two? 30.",
+    "start": 364.0,
+    "duration": 2.163
+  },
+  {
+    "text": " And obviously our whole message is 30 bit.",
+    "start": 366.408,
+    "duration": 3.466
+  },
+  {
+    "text": "so this is how we got 30 here",
+    "start": 369.899,
+    "duration": 2.975
+  },
+  {
+    "text": "So this is how you have to make a Huffman graph.",
+    "start": 373.185,
+    "duration": 3.79
+  },
+  {
+    "text": " And then now you have to find what?\n You have to find the length.",
+    "start": 377.0,
+    "duration": 4.691
+  },
+  {
+    "text": " Length means if we want to reach C, then \nwhat is the length here? 1, 2. So 6 x 2.",
+    "start": 382.0,
+    "duration": 8.975
+  },
+  {
+    "text": " To reach 7 means to reach B, so here \nwe have to find the length from the root.",
+    "start": 391.0,
+    "duration": 4.0
+  },
+  {
+    "text": " What is the length from the root? 1, 2. \nSo 7 x 2. Then if we want to reach A,",
+    "start": 395.0,
+    "duration": 6.975
+  },
+  {
+    "text": " then how many nodes from the root, how many lines \nor edges we have to cover from A? 1, 2, 3.",
+    "start": 402.0,
+    "duration": 6.216
+  },
+  {
+    "text": " So 3 x 3. Then for D again 1, 2, 3. So 5 x 3. \nAnd for 9, means for E 1, 2. So 9 x 2.",
+    "start": 408.4,
+    "duration": 13.847
+  },
+  {
+    "text": " So when you will total this, then the answer will come 68.",
+    "start": 422.272,
+    "duration": 4.837
+  },
+  {
+    "text": "So this is how you have to find the total.",
+    "start": 427.265,
+    "duration": 2.133
+  },
+  {
+    "text": " And if you want to find the average, then\n what is the average? 68 total came.",
+    "start": 429.423,
+    "duration": 5.552
+  },
+  {
+    "text": " And how many characters we have here? 30 characters. So the answer will be 2.26.",
+    "start": 435.0,
+    "duration": 9.61
+  },
+  {
+    "text": " Approximately around 2.26 this value is coming here. \nSo this is all about the Huffman encoding.",
+    "start": 445.0,
+    "duration": 5.95
+  },
+  {
+    "text": " So in this Huffman encoding I have discussed that example,",
+    "start": 450.975,
+    "duration": 5.0
+  },
+  {
+    "text": " in which the simple examples will be covered in\n this only. This is the most complex one.",
+    "start": 456.0,
+    "duration": 5.903
+  },
+  {
+    "text": " Means in this more complex Huffman encoding question cannot come.",
+    "start": 461.928,
+    "duration": 4.045
+  },
+  {
+    "text": "So this is how you have to solve. Thank you.",
+    "start": 465.998,
+    "duration": 2.731
+  }
+]

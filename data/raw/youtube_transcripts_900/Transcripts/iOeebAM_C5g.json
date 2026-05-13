@@ -1,0 +1,1372 @@
+[
+  {
+    "text": "Java has always fascinated me not only",
+    "start": 0.12,
+    "duration": 4.04
+  },
+  {
+    "text": "is it the most delicious sounding",
+    "start": 2.48,
+    "duration": 3.44
+  },
+  {
+    "text": "programming language I've ever heard but",
+    "start": 4.16,
+    "duration": 3.199
+  },
+  {
+    "text": "some of my favorite childhood games like",
+    "start": 5.92,
+    "duration": 3.56
+  },
+  {
+    "text": "RuneScape and Minecraft were made using",
+    "start": 7.359,
+    "duration": 3.721
+  },
+  {
+    "text": "it it was created to let programmers",
+    "start": 9.48,
+    "duration": 3.52
+  },
+  {
+    "text": "write once and run everywhere meaning",
+    "start": 11.08,
+    "duration": 4.04
+  },
+  {
+    "text": "Java code automatically works on other",
+    "start": 13.0,
+    "duration": 3.64
+  },
+  {
+    "text": "operating systems without having to",
+    "start": 15.12,
+    "duration": 3.8
+  },
+  {
+    "text": "recompile which is truly a beautiful",
+    "start": 16.64,
+    "duration": 4.399
+  },
+  {
+    "text": "thing and ever since it's release in",
+    "start": 18.92,
+    "duration": 4.359
+  },
+  {
+    "text": "1995 it has remained one of the most",
+    "start": 21.039,
+    "duration": 4.361
+  },
+  {
+    "text": "popular programming languages needless",
+    "start": 23.279,
+    "duration": 4.121
+  },
+  {
+    "text": "to say I've been anxious for a long time",
+    "start": 25.4,
+    "duration": 3.84
+  },
+  {
+    "text": "to try it out and see what I can do with",
+    "start": 27.4,
+    "duration": 4.52
+  },
+  {
+    "text": "it now I must confess when I was 12",
+    "start": 29.24,
+    "duration": 4.52
+  },
+  {
+    "text": "before I even made video games I went to",
+    "start": 31.92,
+    "duration": 3.6
+  },
+  {
+    "text": "my local library and picked up this book",
+    "start": 33.76,
+    "duration": 3.72
+  },
+  {
+    "text": "called programming video games for the",
+    "start": 35.52,
+    "duration": 4.44
+  },
+  {
+    "text": "Evil Genius a pretty cheesy name for a",
+    "start": 37.48,
+    "duration": 4.32
+  },
+  {
+    "text": "book that was just about learning Java",
+    "start": 39.96,
+    "duration": 3.52
+  },
+  {
+    "text": "of course after skim reading a chapter",
+    "start": 41.8,
+    "duration": 3.599
+  },
+  {
+    "text": "or two and trying to copy the code I",
+    "start": 43.48,
+    "duration": 4.32
+  },
+  {
+    "text": "quickly became frustrated and completely",
+    "start": 45.399,
+    "duration": 4.521
+  },
+  {
+    "text": "gave up so fast forwarding almost 15",
+    "start": 47.8,
+    "duration": 3.84
+  },
+  {
+    "text": "years later I think it's time for me to",
+    "start": 49.92,
+    "duration": 3.479
+  },
+  {
+    "text": "redeem myself and see if I can actually",
+    "start": 51.64,
+    "duration": 4.28
+  },
+  {
+    "text": "make a game from scratch using Java not",
+    "start": 53.399,
+    "duration": 4.521
+  },
+  {
+    "text": "scratch I mean Java you get you get what",
+    "start": 55.92,
+    "duration": 3.68
+  },
+  {
+    "text": "I'm saying so starting off on my Java",
+    "start": 57.92,
+    "duration": 3.36
+  },
+  {
+    "text": "Quest I did something that I haven't",
+    "start": 59.6,
+    "duration": 3.36
+  },
+  {
+    "text": "done in a while and that was actually",
+    "start": 61.28,
+    "duration": 3.879
+  },
+  {
+    "text": "taking a little Java course on my phone",
+    "start": 62.96,
+    "duration": 4.24
+  },
+  {
+    "text": "and by take a course I mean I just kind",
+    "start": 65.159,
+    "duration": 3.801
+  },
+  {
+    "text": "of did a couple levels to get a feel for",
+    "start": 67.2,
+    "duration": 3.52
+  },
+  {
+    "text": "what the syntax was like and honestly if",
+    "start": 68.96,
+    "duration": 3.32
+  },
+  {
+    "text": "you're a beginner or new to programming",
+    "start": 70.72,
+    "duration": 3.28
+  },
+  {
+    "text": "languages uh I feel like this is just",
+    "start": 72.28,
+    "duration": 3.36
+  },
+  {
+    "text": "like a good thing to do it just kind of",
+    "start": 74.0,
+    "duration": 3.36
+  },
+  {
+    "text": "gives you a general idea before you just",
+    "start": 75.64,
+    "duration": 3.68
+  },
+  {
+    "text": "start jumping into it anywh who after I",
+    "start": 77.36,
+    "duration": 3.119
+  },
+  {
+    "text": "was done getting familiar with the",
+    "start": 79.32,
+    "duration": 3.4
+  },
+  {
+    "text": "basics I downloaded Eclipse which is an",
+    "start": 80.479,
+    "duration": 4.0
+  },
+  {
+    "text": "IDE and just in case you don't know what",
+    "start": 82.72,
+    "duration": 3.52
+  },
+  {
+    "text": "that is it's basically just software",
+    "start": 84.479,
+    "duration": 3.561
+  },
+  {
+    "text": "that you use to code in but this one's",
+    "start": 86.24,
+    "duration": 3.32
+  },
+  {
+    "text": "specifically for Java and I seem to",
+    "start": 88.04,
+    "duration": 3.56
+  },
+  {
+    "text": "remember using an IDE called net beans",
+    "start": 89.56,
+    "duration": 3.96
+  },
+  {
+    "text": "as a kid but Eclipse seems a lot more",
+    "start": 91.6,
+    "duration": 3.96
+  },
+  {
+    "text": "popular now so I just figured I would go",
+    "start": 93.52,
+    "duration": 3.919
+  },
+  {
+    "text": "with the crowd after that I set off to",
+    "start": 95.56,
+    "duration": 4.0
+  },
+  {
+    "text": "create a simple hello world program",
+    "start": 97.439,
+    "duration": 3.481
+  },
+  {
+    "text": "which was pretty straightforward",
+    "start": 99.56,
+    "duration": 3.599
+  },
+  {
+    "text": "basically you just create a package and",
+    "start": 100.92,
+    "duration": 3.96
+  },
+  {
+    "text": "I named it Maine and then you create a",
+    "start": 103.159,
+    "duration": 3.56
+  },
+  {
+    "text": "class and I also called it main I know",
+    "start": 104.88,
+    "duration": 3.839
+  },
+  {
+    "text": "it's confusing just trust me on it after",
+    "start": 106.719,
+    "duration": 4.161
+  },
+  {
+    "text": "that I slapped in the classic system out",
+    "start": 108.719,
+    "duration": 4.4
+  },
+  {
+    "text": "print line hello world and there you go",
+    "start": 110.88,
+    "duration": 4.48
+  },
+  {
+    "text": "your first Java program I did it so",
+    "start": 113.119,
+    "duration": 3.761
+  },
+  {
+    "text": "after getting my feet wet I knew I was",
+    "start": 115.36,
+    "duration": 3.359
+  },
+  {
+    "text": "ready to start working on my real",
+    "start": 116.88,
+    "duration": 3.879
+  },
+  {
+    "text": "project instead of CR a little mini game",
+    "start": 118.719,
+    "duration": 3.4
+  },
+  {
+    "text": "like I normally do for these kinds of",
+    "start": 120.759,
+    "duration": 3.04
+  },
+  {
+    "text": "videos I want to do something I've been",
+    "start": 122.119,
+    "duration": 3.28
+  },
+  {
+    "text": "dreaming about for a while now and",
+    "start": 123.799,
+    "duration": 3.521
+  },
+  {
+    "text": "that's making an RPG and I'm not talking",
+    "start": 125.399,
+    "duration": 3.521
+  },
+  {
+    "text": "about rocket launchers here I mean like",
+    "start": 127.32,
+    "duration": 3.88
+  },
+  {
+    "text": "an old grindy RPG that you would play on",
+    "start": 128.92,
+    "duration": 4.319
+  },
+  {
+    "text": "the NES games like Dragon Quest and",
+    "start": 131.2,
+    "duration": 3.92
+  },
+  {
+    "text": "Earthbound Beginnings I don't know why",
+    "start": 133.239,
+    "duration": 3.601
+  },
+  {
+    "text": "but I find these games simplistic art",
+    "start": 135.12,
+    "duration": 3.88
+  },
+  {
+    "text": "style super strange characters and",
+    "start": 136.84,
+    "duration": 4.32
+  },
+  {
+    "text": "repetitive combat to be so Charming they",
+    "start": 139.0,
+    "duration": 4.12
+  },
+  {
+    "text": "always feel so empty yet so full of",
+    "start": 141.16,
+    "duration": 3.64
+  },
+  {
+    "text": "character at the same time so now we",
+    "start": 143.12,
+    "duration": 2.92
+  },
+  {
+    "text": "know what direction the game's going to",
+    "start": 144.8,
+    "duration": 2.84
+  },
+  {
+    "text": "take it's time for us to do something",
+    "start": 146.04,
+    "duration": 4.04
+  },
+  {
+    "text": "basic and that's just draw a window and",
+    "start": 147.64,
+    "duration": 3.64
+  },
+  {
+    "text": "no I'm not talking about getting out a",
+    "start": 150.08,
+    "duration": 2.84
+  },
+  {
+    "text": "box of crayons and drawing a house with",
+    "start": 151.28,
+    "duration": 3.239
+  },
+  {
+    "text": "a window I'm talking about that frame",
+    "start": 152.92,
+    "duration": 3.12
+  },
+  {
+    "text": "that you see on your desktop when you",
+    "start": 154.519,
+    "duration": 3.481
+  },
+  {
+    "text": "play a game luckily for us Java has its",
+    "start": 156.04,
+    "duration": 3.72
+  },
+  {
+    "text": "own built-in container class called",
+    "start": 158.0,
+    "duration": 3.84
+  },
+  {
+    "text": "jframe meaning our game can be built",
+    "start": 159.76,
+    "duration": 4.0
+  },
+  {
+    "text": "purely with Vanilla Java so I set up",
+    "start": 161.84,
+    "duration": 3.679
+  },
+  {
+    "text": "jframe and made some of the parameters",
+    "start": 163.76,
+    "duration": 3.44
+  },
+  {
+    "text": "any who after doing all that I was able",
+    "start": 165.519,
+    "duration": 3.561
+  },
+  {
+    "text": "to successfully draw a window and as you",
+    "start": 167.2,
+    "duration": 3.8
+  },
+  {
+    "text": "can tell I was very excited next I",
+    "start": 169.08,
+    "duration": 3.96
+  },
+  {
+    "text": "created two new classes entity and",
+    "start": 171.0,
+    "duration": 4.4
+  },
+  {
+    "text": "player I'm planning on making NPCs later",
+    "start": 173.04,
+    "duration": 4.64
+  },
+  {
+    "text": "on so creating an entity class allows me",
+    "start": 175.4,
+    "duration": 4.119
+  },
+  {
+    "text": "just to reuse that code for the player",
+    "start": 177.68,
+    "duration": 4.72
+  },
+  {
+    "text": "and NPC for example like drawing their",
+    "start": 179.519,
+    "duration": 4.8
+  },
+  {
+    "text": "Sprites or checking for collisions and",
+    "start": 182.4,
+    "duration": 3.68
+  },
+  {
+    "text": "speaking of Sprites I was able to load",
+    "start": 184.319,
+    "duration": 3.721
+  },
+  {
+    "text": "and draw the Sticky's image make a move",
+    "start": 186.08,
+    "duration": 4.2
+  },
+  {
+    "text": "around the screen so yay I should also",
+    "start": 188.04,
+    "duration": 3.52
+  },
+  {
+    "text": "point out that I found this wonderful",
+    "start": 190.28,
+    "duration": 3.36
+  },
+  {
+    "text": "tutorial series by rynow and it was",
+    "start": 191.56,
+    "duration": 4.239
+  },
+  {
+    "text": "beyond helpful he does a really good job",
+    "start": 193.64,
+    "duration": 3.76
+  },
+  {
+    "text": "explaining how all this works so if you",
+    "start": 195.799,
+    "duration": 3.481
+  },
+  {
+    "text": "want to know more about the nitty-gritty",
+    "start": 197.4,
+    "duration": 3.479
+  },
+  {
+    "text": "details and all the code definitely",
+    "start": 199.28,
+    "duration": 3.239
+  },
+  {
+    "text": "check it out next I want to dive into",
+    "start": 200.879,
+    "duration": 3.241
+  },
+  {
+    "text": "creating a tile map system this is",
+    "start": 202.519,
+    "duration": 2.681
+  },
+  {
+    "text": "something that has always been",
+    "start": 204.12,
+    "duration": 3.0
+  },
+  {
+    "text": "intimidating for me for some reason it",
+    "start": 205.2,
+    "duration": 3.679
+  },
+  {
+    "text": "turns out to be super easy essentially",
+    "start": 207.12,
+    "duration": 3.28
+  },
+  {
+    "text": "all you have to do is create a text file",
+    "start": 208.879,
+    "duration": 3.201
+  },
+  {
+    "text": "full of numbers the numbers represent",
+    "start": 210.4,
+    "duration": 3.68
+  },
+  {
+    "text": "different types of tiles like zero is",
+    "start": 212.08,
+    "duration": 4.56
+  },
+  {
+    "text": "water and like one is grass and two is",
+    "start": 214.08,
+    "duration": 4.359
+  },
+  {
+    "text": "sand then all you need to do is load the",
+    "start": 216.64,
+    "duration": 3.879
+  },
+  {
+    "text": "data into an array and then slap it into",
+    "start": 218.439,
+    "duration": 4.041
+  },
+  {
+    "text": "a for Loop boom you got yourself a tile",
+    "start": 220.519,
+    "duration": 3.64
+  },
+  {
+    "text": "map and that's great and all but how do",
+    "start": 222.48,
+    "duration": 3.36
+  },
+  {
+    "text": "you make a camera system so that the",
+    "start": 224.159,
+    "duration": 3.881
+  },
+  {
+    "text": "player like can move around a larger",
+    "start": 225.84,
+    "duration": 4.72
+  },
+  {
+    "text": "tile ma area well the trick is instead",
+    "start": 228.04,
+    "duration": 4.6
+  },
+  {
+    "text": "of moving the player you move the tile",
+    "start": 230.56,
+    "duration": 3.92
+  },
+  {
+    "text": "set after that I made an if statement to",
+    "start": 232.64,
+    "duration": 3.879
+  },
+  {
+    "text": "see what tiles were on screen that way I",
+    "start": 234.48,
+    "duration": 3.839
+  },
+  {
+    "text": "could save performance by only rendering",
+    "start": 236.519,
+    "duration": 3.601
+  },
+  {
+    "text": "what the player could see and last I",
+    "start": 238.319,
+    "duration": 3.681
+  },
+  {
+    "text": "created collisions so you couldn't just",
+    "start": 240.12,
+    "duration": 4.319
+  },
+  {
+    "text": "like walk on the water so there you go",
+    "start": 242.0,
+    "duration": 3.76
+  },
+  {
+    "text": "now as you can tell the artwork is",
+    "start": 244.439,
+    "duration": 3.321
+  },
+  {
+    "text": "looking a little rough around the edges",
+    "start": 245.76,
+    "duration": 5.039
+  },
+  {
+    "text": "and since 50% of RPGs is just artwork I",
+    "start": 247.76,
+    "duration": 5.08
+  },
+  {
+    "text": "felt like we probably should update this",
+    "start": 250.799,
+    "duration": 3.601
+  },
+  {
+    "text": "now my original idea was to create a",
+    "start": 252.84,
+    "duration": 4.16
+  },
+  {
+    "text": "vector art style inspired by Byron be's",
+    "start": 254.4,
+    "duration": 4.519
+  },
+  {
+    "text": "Pokemon world map illustrations I've",
+    "start": 257.0,
+    "duration": 3.479
+  },
+  {
+    "text": "been a big fan of his work for a while",
+    "start": 258.919,
+    "duration": 3.04
+  },
+  {
+    "text": "and thought an RPG could look Super",
+    "start": 260.479,
+    "duration": 3.121
+  },
+  {
+    "text": "Fresh in this style though I quickly",
+    "start": 261.959,
+    "duration": 3.441
+  },
+  {
+    "text": "realized that higher resolution Vector",
+    "start": 263.6,
+    "duration": 3.64
+  },
+  {
+    "text": "artwork wasn't going to scale well down",
+    "start": 265.4,
+    "duration": 3.68
+  },
+  {
+    "text": "into pixels so this led me to kind of",
+    "start": 267.24,
+    "duration": 3.76
+  },
+  {
+    "text": "just create this same style but using",
+    "start": 269.08,
+    "duration": 3.559
+  },
+  {
+    "text": "pixel art instead I thought the results",
+    "start": 271.0,
+    "duration": 3.12
+  },
+  {
+    "text": "of this were kind of cool but I",
+    "start": 272.639,
+    "duration": 3.081
+  },
+  {
+    "text": "personally felt like this missed that",
+    "start": 274.12,
+    "duration": 3.639
+  },
+  {
+    "text": "quirky charm that I wanted to emulate in",
+    "start": 275.72,
+    "duration": 4.36
+  },
+  {
+    "text": "my favorite NES RPGs so after a slightly",
+    "start": 277.759,
+    "duration": 4.401
+  },
+  {
+    "text": "iterative process and the use of the NES",
+    "start": 280.08,
+    "duration": 4.48
+  },
+  {
+    "text": "color palette I ended up with this my",
+    "start": 282.16,
+    "duration": 5.599
+  },
+  {
+    "text": "animal inspired RPG so with that done I",
+    "start": 284.56,
+    "duration": 5.0
+  },
+  {
+    "text": "got to work replacing and adding in all",
+    "start": 287.759,
+    "duration": 3.641
+  },
+  {
+    "text": "the new tiles and artwork I also found",
+    "start": 289.56,
+    "duration": 3.88
+  },
+  {
+    "text": "that pixel edit the pixel art software I",
+    "start": 291.4,
+    "duration": 3.96
+  },
+  {
+    "text": "use has a feature that lets you export",
+    "start": 293.44,
+    "duration": 4.12
+  },
+  {
+    "text": "tiles out as a text file essentially",
+    "start": 295.36,
+    "duration": 4.399
+  },
+  {
+    "text": "turning my art software into my level",
+    "start": 297.56,
+    "duration": 3.919
+  },
+  {
+    "text": "editor which was pretty sweet after this",
+    "start": 299.759,
+    "duration": 3.321
+  },
+  {
+    "text": "I felt like the sound aspect of the game",
+    "start": 301.479,
+    "duration": 3.121
+  },
+  {
+    "text": "needed to be addressed so I jumped into",
+    "start": 303.08,
+    "duration": 3.2
+  },
+  {
+    "text": "lab tur I generated a couple of",
+    "start": 304.6,
+    "duration": 3.24
+  },
+  {
+    "text": "different sounds and then added them to",
+    "start": 306.28,
+    "duration": 3.04
+  },
+  {
+    "text": "the game I especially love this door",
+    "start": 307.84,
+    "duration": 3.28
+  },
+  {
+    "text": "sound when you enter a house it just",
+    "start": 309.32,
+    "duration": 4.2
+  },
+  {
+    "text": "It's oddly satisfying for music I made",
+    "start": 311.12,
+    "duration": 4.4
+  },
+  {
+    "text": "it myself using beatbox which I haven't",
+    "start": 313.52,
+    "duration": 3.76
+  },
+  {
+    "text": "used before I was surprised how easy it",
+    "start": 315.52,
+    "duration": 3.76
+  },
+  {
+    "text": "was to pick up but uh my song's a little",
+    "start": 317.28,
+    "duration": 3.6
+  },
+  {
+    "text": "clunky so let me know what you think",
+    "start": 319.28,
+    "duration": 3.12
+  },
+  {
+    "text": "after that I created a pausing State",
+    "start": 320.88,
+    "duration": 3.439
+  },
+  {
+    "text": "system so you can eventually look at",
+    "start": 322.4,
+    "duration": 4.04
+  },
+  {
+    "text": "your inventory and view your stats and I",
+    "start": 324.319,
+    "duration": 4.281
+  },
+  {
+    "text": "also Drew this text onto the screen so",
+    "start": 326.44,
+    "duration": 4.319
+  },
+  {
+    "text": "that text is actually a font I also know",
+    "start": 328.6,
+    "duration": 3.92
+  },
+  {
+    "text": "that world maps are a pretty big deal in",
+    "start": 330.759,
+    "duration": 3.401
+  },
+  {
+    "text": "these types of RPGs so I jumped back",
+    "start": 332.52,
+    "duration": 3.72
+  },
+  {
+    "text": "into pixel edit and made this kind of",
+    "start": 334.16,
+    "duration": 3.92
+  },
+  {
+    "text": "smaller world map just as a test run to",
+    "start": 336.24,
+    "duration": 3.519
+  },
+  {
+    "text": "see how I liked it this also means I had",
+    "start": 338.08,
+    "duration": 3.8
+  },
+  {
+    "text": "to create a room transition system so",
+    "start": 339.759,
+    "duration": 4.56
+  },
+  {
+    "text": "you could go from towns to the Overworld",
+    "start": 341.88,
+    "duration": 4.24
+  },
+  {
+    "text": "right now there's only one town but I",
+    "start": 344.319,
+    "duration": 3.44
+  },
+  {
+    "text": "think it's it's pretty cool it's start",
+    "start": 346.12,
+    "duration": 3.28
+  },
+  {
+    "text": "starting to feel like an RPG at this",
+    "start": 347.759,
+    "duration": 3.56
+  },
+  {
+    "text": "point I knew it was probably time to add",
+    "start": 349.4,
+    "duration": 4.44
+  },
+  {
+    "text": "NPCs I mean they're such a critical part",
+    "start": 351.319,
+    "duration": 4.121
+  },
+  {
+    "text": "using that entity system I mentioned",
+    "start": 353.84,
+    "duration": 3.639
+  },
+  {
+    "text": "earlier was super easy and made adding",
+    "start": 355.44,
+    "duration": 4.36
+  },
+  {
+    "text": "these NPCs take no time at all and then",
+    "start": 357.479,
+    "duration": 4.521
+  },
+  {
+    "text": "I add a dialogue system so I could have",
+    "start": 359.8,
+    "duration": 4.8
+  },
+  {
+    "text": "Bears say weird things like this and",
+    "start": 362.0,
+    "duration": 5.24
+  },
+  {
+    "text": "with that we have a basic RPG structure",
+    "start": 364.6,
+    "duration": 4.12
+  },
+  {
+    "text": "we're still missing combat which is the",
+    "start": 367.24,
+    "duration": 3.56
+  },
+  {
+    "text": "most crucial part of the game but I want",
+    "start": 368.72,
+    "duration": 4.08
+  },
+  {
+    "text": "to save that for a future video because",
+    "start": 370.8,
+    "duration": 4.6
+  },
+  {
+    "text": "this was a project I just really enjoyed",
+    "start": 372.8,
+    "duration": 4.519
+  },
+  {
+    "text": "working on I can't explain it but making",
+    "start": 375.4,
+    "duration": 4.4
+  },
+  {
+    "text": "a game without a game engine is super",
+    "start": 377.319,
+    "duration": 4.121
+  },
+  {
+    "text": "satisfying it's difficult and",
+    "start": 379.8,
+    "duration": 3.2
+  },
+  {
+    "text": "frustrating especially when you know you",
+    "start": 381.44,
+    "duration": 3.24
+  },
+  {
+    "text": "could do it 10 times faster using",
+    "start": 383.0,
+    "duration": 3.039
+  },
+  {
+    "text": "something else but it's also really",
+    "start": 384.68,
+    "duration": 3.6
+  },
+  {
+    "text": "rewarding cuz you know that you made it",
+    "start": 386.039,
+    "duration": 3.921
+  },
+  {
+    "text": "yourself I have a lot of plans what I",
+    "start": 388.28,
+    "duration": 3.16
+  },
+  {
+    "text": "could do with this RPG in the future",
+    "start": 389.96,
+    "duration": 3.16
+  },
+  {
+    "text": "even just as a passion project please",
+    "start": 391.44,
+    "duration": 2.879
+  },
+  {
+    "text": "let me know if you like to see more of",
+    "start": 393.12,
+    "duration": 3.519
+  },
+  {
+    "text": "it if not I'll probably just continue to",
+    "start": 394.319,
+    "duration": 4.28
+  },
+  {
+    "text": "work on it on my own time overall I",
+    "start": 396.639,
+    "duration": 3.56
+  },
+  {
+    "text": "really enjoy Java I think this has",
+    "start": 398.599,
+    "duration": 3.04
+  },
+  {
+    "text": "probably been my favorite language I've",
+    "start": 400.199,
+    "duration": 3.321
+  },
+  {
+    "text": "used so far in this series I highly",
+    "start": 401.639,
+    "duration": 3.601
+  },
+  {
+    "text": "highly recommend you check out RN's",
+    "start": 403.52,
+    "duration": 3.44
+  },
+  {
+    "text": "tutorial series on Java it's",
+    "start": 405.24,
+    "duration": 3.48
+  },
+  {
+    "text": "unbelievably helpful it explains",
+    "start": 406.96,
+    "duration": 3.44
+  },
+  {
+    "text": "everything that I covered in this video",
+    "start": 408.72,
+    "duration": 3.24
+  },
+  {
+    "text": "pretty much and even if you're just",
+    "start": 410.4,
+    "duration": 3.6
+  },
+  {
+    "text": "mildly interested check it out also if",
+    "start": 411.96,
+    "duration": 3.12
+  },
+  {
+    "text": "you're wanting to learn how to code",
+    "start": 414.0,
+    "duration": 2.4
+  },
+  {
+    "text": "yourself and you don't know how to get",
+    "start": 415.08,
+    "duration": 2.959
+  },
+  {
+    "text": "started check out a word from today's",
+    "start": 416.4,
+    "duration": 3.799
+  },
+  {
+    "text": "sponsor brilliant okay you might know",
+    "start": 418.039,
+    "duration": 3.6
+  },
+  {
+    "text": "this by now but brilliant is where you",
+    "start": 420.199,
+    "duration": 3.84
+  },
+  {
+    "text": "learn by doing with thousands of",
+    "start": 421.639,
+    "duration": 4.321
+  },
+  {
+    "text": "interactive lessons in math data",
+    "start": 424.039,
+    "duration": 4.681
+  },
+  {
+    "text": "analysis programming and of course AI",
+    "start": 425.96,
+    "duration": 4.16
+  },
+  {
+    "text": "now one thing I really like about it is",
+    "start": 428.72,
+    "duration": 2.879
+  },
+  {
+    "text": "brilliant helps build your critical",
+    "start": 430.12,
+    "duration": 3.519
+  },
+  {
+    "text": "thinking skills through problem solving",
+    "start": 431.599,
+    "duration": 3.961
+  },
+  {
+    "text": "not memorization so while you're",
+    "start": 433.639,
+    "duration": 3.521
+  },
+  {
+    "text": "building real knowledge on specific",
+    "start": 435.56,
+    "duration": 3.56
+  },
+  {
+    "text": "topics you're also becoming a better",
+    "start": 437.16,
+    "duration": 3.64
+  },
+  {
+    "text": "thinker brilliant is a learning platform",
+    "start": 439.12,
+    "duration": 3.56
+  },
+  {
+    "text": "designed to be uniquely effective each",
+    "start": 440.8,
+    "duration": 3.519
+  },
+  {
+    "text": "lesson is filled with Hands-On problem",
+    "start": 442.68,
+    "duration": 3.199
+  },
+  {
+    "text": "solving that can let you play with",
+    "start": 444.319,
+    "duration": 3.88
+  },
+  {
+    "text": "Concepts a method proven to be six times",
+    "start": 445.879,
+    "duration": 4.16
+  },
+  {
+    "text": "more effective than just watching boring",
+    "start": 448.199,
+    "duration": 3.881
+  },
+  {
+    "text": "lecture videos plus all the content on",
+    "start": 450.039,
+    "duration": 4.0
+  },
+  {
+    "text": "brilliant is crafted by an award-winning",
+    "start": 452.08,
+    "duration": 3.559
+  },
+  {
+    "text": "team of teachers researchers",
+    "start": 454.039,
+    "duration": 3.961
+  },
+  {
+    "text": "professionals from MIT Caltech Duke",
+    "start": 455.639,
+    "duration": 4.481
+  },
+  {
+    "text": "Microsoft and learning a little every",
+    "start": 458.0,
+    "duration": 3.52
+  },
+  {
+    "text": "day is one of the most important things",
+    "start": 460.12,
+    "duration": 3.639
+  },
+  {
+    "text": "you can do for both your personal and",
+    "start": 461.52,
+    "duration": 3.72
+  },
+  {
+    "text": "professional growth brilliant helps you",
+    "start": 463.759,
+    "duration": 3.72
+  },
+  {
+    "text": "build real knowledge in minutes a day",
+    "start": 465.24,
+    "duration": 3.84
+  },
+  {
+    "text": "with fun lessons you can do whenever you",
+    "start": 467.479,
+    "duration": 3.601
+  },
+  {
+    "text": "have time it's basically the opposite of",
+    "start": 469.08,
+    "duration": 3.839
+  },
+  {
+    "text": "mindlessly scrolling which is a",
+    "start": 471.08,
+    "duration": 3.239
+  },
+  {
+    "text": "beautiful thing now if you want to start",
+    "start": 472.919,
+    "duration": 3.081
+  },
+  {
+    "text": "programming brilliant has a growing",
+    "start": 474.319,
+    "duration": 3.361
+  },
+  {
+    "text": "number of programming courses that are a",
+    "start": 476.0,
+    "duration": 3.52
+  },
+  {
+    "text": "great way to start building foundational",
+    "start": 477.68,
+    "duration": 3.68
+  },
+  {
+    "text": "programming skills and learn real world",
+    "start": 479.52,
+    "duration": 3.679
+  },
+  {
+    "text": "applications get familiar with python",
+    "start": 481.36,
+    "duration": 3.88
+  },
+  {
+    "text": "and start building programs on day one",
+    "start": 483.199,
+    "duration": 3.601
+  },
+  {
+    "text": "with a drag and drop editor learn",
+    "start": 485.24,
+    "duration": 3.12
+  },
+  {
+    "text": "essential coding elements things that",
+    "start": 486.8,
+    "duration": 3.119
+  },
+  {
+    "text": "everyone should know like loops and",
+    "start": 488.36,
+    "duration": 3.239
+  },
+  {
+    "text": "variables and most importantly develop",
+    "start": 489.919,
+    "duration": 3.28
+  },
+  {
+    "text": "your mind to actually think like a",
+    "start": 491.599,
+    "duration": 3.44
+  },
+  {
+    "text": "programmer to try everything brilliant",
+    "start": 493.199,
+    "duration": 4.641
+  },
+  {
+    "text": "has to offer for free for a full 30 days",
+    "start": 495.039,
+    "duration": 5.16
+  },
+  {
+    "text": "visit brilliant.org goodus or click the",
+    "start": 497.84,
+    "duration": 4.6
+  },
+  {
+    "text": "link in the description you'll also get",
+    "start": 500.199,
+    "duration": 4.761
+  },
+  {
+    "text": "uh 20% off annual premium subscription",
+    "start": 502.44,
+    "duration": 4.199
+  },
+  {
+    "text": "so check it out also I just want to give",
+    "start": 504.96,
+    "duration": 3.959
+  },
+  {
+    "text": "my website a shout out gus. fun check it",
+    "start": 506.639,
+    "duration": 4.081
+  },
+  {
+    "text": "out it's got some information on there",
+    "start": 508.919,
+    "duration": 4.36
+  },
+  {
+    "text": "latest videos and a picture of me wow",
+    "start": 510.72,
+    "duration": 3.759
+  },
+  {
+    "text": "let me know if there's any other coding",
+    "start": 513.279,
+    "duration": 2.521
+  },
+  {
+    "text": "challenges you want me to tackle in the",
+    "start": 514.479,
+    "duration": 5.521
+  },
+  {
+    "text": "future and I'll see you next time",
+    "start": 515.8,
+    "duration": 4.2
+  }
+]

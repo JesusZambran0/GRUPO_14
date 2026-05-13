@@ -1,0 +1,4 @@
+dataset_original,dataset_compressed,original_rows,compressed_rows,original_size_bytes,compressed_size_bytes,compression_method,columns_preserved
+daily_trending_videos.csv,daily_trending_videos_compressed.csv,674141,270653,104471473,41971638,deterministic representative downsampling; no synthetic rows; schema preserved,9
+youtube_trending_in_kaggle_datasnaek_2017_2018.csv,youtube_trending_in_kaggle_datasnaek_2017_2018_compressed.csv,37352,22362,70056363,41982022,deterministic representative downsampling; no synthetic rows; schema preserved,23
+youtube_training_dataset.csv,youtube_training_dataset_compressed.csv,68526,36146,79514334,41772176,deterministic representative downsampling; no synthetic rows; schema preserved,48

@@ -1,0 +1,267 @@
+[
+  {
+    "text": "How does a turbocharged car engine work?",
+    "start": 1.0,
+    "duration": 2.47
+  },
+  {
+    "text": "Air can either enter the engine under the\ninfluence of atmospheric pressure at the moment",
+    "start": 3.47,
+    "duration": 5.15
+  },
+  {
+    "text": "when the piston moves and increases the volume\nof the chamber, or be supplied with the help",
+    "start": 8.62,
+    "duration": 5.41
+  },
+  {
+    "text": "of a special compressor.",
+    "start": 14.03,
+    "duration": 2.069
+  },
+  {
+    "text": "In the second scenario, there will be more\noxygen in the engine, and therefore it will",
+    "start": 16.099,
+    "duration": 4.581
+  },
+  {
+    "text": "be able to produce more power.",
+    "start": 20.68,
+    "duration": 2.62
+  },
+  {
+    "text": "An impeller (compressor wheel) is installed\nin the compressor.",
+    "start": 23.3,
+    "duration": 4.399
+  },
+  {
+    "text": "When rotating, the blades of the impeller\nforce air to move.",
+    "start": 27.699,
+    "duration": 4.051
+  },
+  {
+    "text": "Air particles are pushed to the perimeter\nof the impeller and enter the volute, from",
+    "start": 31.75,
+    "duration": 4.67
+  },
+  {
+    "text": "where the compressed air flows out of the\nair outlet of the compressor, and then moves",
+    "start": 36.42,
+    "duration": 4.08
+  },
+  {
+    "text": "on into the engine.",
+    "start": 40.5,
+    "duration": 2.239
+  },
+  {
+    "text": "In order for the compressor to force air into\nthe engine, the shaft on which the impeller",
+    "start": 42.739,
+    "duration": 4.541
+  },
+  {
+    "text": "is mounted needs to be rotated.",
+    "start": 47.28,
+    "duration": 2.349
+  },
+  {
+    "text": "There are various ways this can be organized:\nThe first way is for a pulley to be installed",
+    "start": 49.629,
+    "duration": 5.981
+  },
+  {
+    "text": "on the engine shaft so that a belt drive can\ntransfer the rotation to another pulley mounted",
+    "start": 55.61,
+    "duration": 4.71
+  },
+  {
+    "text": "on the compressor shaft.",
+    "start": 60.32,
+    "duration": 2.169
+  },
+  {
+    "text": "The second way is called turbocharging.",
+    "start": 62.489,
+    "duration": 2.39
+  },
+  {
+    "text": "It is based on the utilization of residual\nenergy from the exhaust gas flow.",
+    "start": 64.879,
+    "duration": 5.751
+  },
+  {
+    "text": "For this energy to be used, a turbine is necessary.",
+    "start": 70.63,
+    "duration": 4.11
+  },
+  {
+    "text": "Inside a turbine the opposite happens: the\nmoving gas causes the wheel to rotate.",
+    "start": 74.74,
+    "duration": 5.79
+  },
+  {
+    "text": "The turbine wheel can be installed in such\na way in the exhaust system of the engine",
+    "start": 80.53,
+    "duration": 4.17
+  },
+  {
+    "text": "that the moving particles of gas will act\nupon the blades of the wheel.",
+    "start": 84.7,
+    "duration": 4.28
+  },
+  {
+    "text": "As a result of this action, the wheel will\nrotate.",
+    "start": 88.98,
+    "duration": 3.45
+  },
+  {
+    "text": "Then, if the turbine wheel is connected to\nthe compressor, this creates a turbocharging",
+    "start": 92.43,
+    "duration": 5.2
+  },
+  {
+    "text": "system.",
+    "start": 97.63,
+    "duration": 1.23
+  },
+  {
+    "text": "In this case, the compressor wheel will be\nmade to rotate by the turbine.",
+    "start": 98.86,
+    "duration": 4.66
+  },
+  {
+    "text": "So how does an entire turbocharged engine\nwork?",
+    "start": 103.52,
+    "duration": 4.18
+  },
+  {
+    "text": "First, the cylinder is filled with a mixture\nof fuel and air.",
+    "start": 107.7,
+    "duration": 4.029
+  },
+  {
+    "text": "When the preset compression ratio is reached,\nthe mixture ignites, expands, and causes the",
+    "start": 111.729,
+    "duration": 6.341
+  },
+  {
+    "text": "piston to move downward, rotating the crankshaft.",
+    "start": 118.07,
+    "duration": 3.99
+  },
+  {
+    "text": "The exhaust gases are then forced out of the\ncylinder by the piston and move towards the",
+    "start": 122.06,
+    "duration": 4.46
+  },
+  {
+    "text": "turbine.",
+    "start": 126.52,
+    "duration": 1.3
+  },
+  {
+    "text": "The particles of gas act upon the blades of\nthe turbine wheel, causing it to rotate.",
+    "start": 127.82,
+    "duration": 4.95
+  },
+  {
+    "text": "The turbine and compressor wheels are mounted\non one shaft.",
+    "start": 132.77,
+    "duration": 4.56
+  },
+  {
+    "text": "When the turbine wheel rotates, the compressor\nwheel also rotates, forcing air into the engine’s",
+    "start": 137.33,
+    "duration": 5.77
+  },
+  {
+    "text": "cylinders.",
+    "start": 143.1,
+    "duration": 1.0
+  },
+  {
+    "text": "The exhaust gases have a very high temperature.",
+    "start": 144.1,
+    "duration": 2.609
+  },
+  {
+    "text": "They heat up the turbine, and from it the\nheat is transferred to the compressor.",
+    "start": 146.709,
+    "duration": 5.191
+  },
+  {
+    "text": "In addition, as air is compressed, it also\nheats up.",
+    "start": 151.9,
+    "duration": 3.73
+  },
+  {
+    "text": "When heated, air expands.",
+    "start": 155.63,
+    "duration": 1.8
+  },
+  {
+    "text": "Thus, what happens is that the compressor\ncompresses the air, but at the same time inevitably",
+    "start": 157.43,
+    "duration": 5.97
+  },
+  {
+    "text": "heats it, and so the air expands once again.",
+    "start": 163.4,
+    "duration": 4.06
+  },
+  {
+    "text": "This process is inefficient.",
+    "start": 167.46,
+    "duration": 2.42
+  },
+  {
+    "text": "For this reason, the air exiting from the\ncompressor’s outlet needs to be cooled.",
+    "start": 169.88,
+    "duration": 4.68
+  },
+  {
+    "text": "An intercooler is used for this purpose.",
+    "start": 174.56,
+    "duration": 3.13
+  },
+  {
+    "text": "An intercooler is a heat exchanger.",
+    "start": 177.69,
+    "duration": 5.4
+  },
+  {
+    "text": "There are two types of intercoolers: air-to-air\nand air-to-water.",
+    "start": 183.09,
+    "duration": 11.31
+  },
+  {
+    "text": "The manufacture and operation of a turbocharger\nis costly.",
+    "start": 194.4,
+    "duration": 12.83
+  },
+  {
+    "text": "When a turbine is used, the backpressure in\nthe exhaust line increases.",
+    "start": 207.23,
+    "duration": 4.9
+  },
+  {
+    "text": "But the benefits of the additional power from\nusing a turbocharger can be much more significant",
+    "start": 212.13,
+    "duration": 5.249
+  },
+  {
+    "text": "than the associated costs.",
+    "start": 217.379,
+    "duration": 3.151
+  },
+  {
+    "text": "Turbocharging is most effective in high-power\nengines, but recently it has also been used",
+    "start": 220.53,
+    "duration": 5.0
+  },
+  {
+    "text": "in low-power engines to make them budget and\nenvironmentally friendly.",
+    "start": 225.53,
+    "duration": 3.909
+  }
+]

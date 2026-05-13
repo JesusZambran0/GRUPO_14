@@ -1,0 +1,1132 @@
+[
+  {
+    "text": "Translator: Walter Wekkesser\nReviewer: Denise RQ",
+    "start": 0.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Hello. Alright, deep web.\nWhat is the deep web?",
+    "start": 6.752,
+    "duration": 3.319
+  },
+  {
+    "text": "Actually, it is the hidden part\nof the Internet;",
+    "start": 10.072,
+    "duration": 2.841
+  },
+  {
+    "text": "I could go into more detail,\nno time, but let's just say",
+    "start": 12.914,
+    "duration": 3.497
+  },
+  {
+    "text": "- but actually is as dull as\ndishwater, most of it -",
+    "start": 16.412,
+    "duration": 2.802
+  },
+  {
+    "text": "the hidden part of the Internet\nis the kind of place",
+    "start": 21.76,
+    "duration": 3.003
+  },
+  {
+    "text": "where if you want to be anonymous,\nyou most certainly can,",
+    "start": 24.763,
+    "duration": 3.621
+  },
+  {
+    "text": "but, in many ways,\nwe are looking at a parallel universe,",
+    "start": 28.385,
+    "duration": 3.687
+  },
+  {
+    "text": "we are looking at an alternative Internet,",
+    "start": 32.073,
+    "duration": 2.538
+  },
+  {
+    "text": "a place where people \ncommunicate secretly and securely",
+    "start": 34.612,
+    "duration": 4.524
+  },
+  {
+    "text": "away from the prying eyes of governments.",
+    "start": 39.144,
+    "duration": 2.537
+  },
+  {
+    "text": "At this level of the deep web,",
+    "start": 43.71,
+    "duration": 1.464
+  },
+  {
+    "text": "we are looking at a mirror image\nof the regular Internet, the surface web.",
+    "start": 45.175,
+    "duration": 5.88
+  },
+  {
+    "text": "You have got websites and bulletin boards,",
+    "start": 51.056,
+    "duration": 2.199
+  },
+  {
+    "text": "you've got clones of Twitter and Facebook,\nand all the rest of the things",
+    "start": 53.256,
+    "duration": 4.309
+  },
+  {
+    "text": "that you would normally expect\nfrom the Internet.",
+    "start": 57.566,
+    "duration": 2.624
+  },
+  {
+    "text": "So, who is using this stuff?",
+    "start": 60.191,
+    "duration": 1.925
+  },
+  {
+    "text": "Well, actually, all sorts of people:",
+    "start": 62.117,
+    "duration": 2.943
+  },
+  {
+    "text": "journalists and activists,\naid workers and dissidents,",
+    "start": 65.061,
+    "duration": 5.401
+  },
+  {
+    "text": "whistle-blowers and free-speech advocates,\ncriminals and spies,",
+    "start": 70.463,
+    "duration": 3.536
+  },
+  {
+    "text": "all sorts of people use deep web tools\nto be anonymous on the Internet.",
+    "start": 74.0,
+    "duration": 4.83
+  },
+  {
+    "text": "How do they do that?",
+    "start": 78.831,
+    "duration": 1.15
+  },
+  {
+    "text": "I will show you \nsome of the things that they do,",
+    "start": 79.982,
+    "duration": 2.315
+  },
+  {
+    "text": "but I would like\nto propose that we all start",
+    "start": 82.298,
+    "duration": 2.187
+  },
+  {
+    "text": "to think about learning \nsome of the secrets of the deep web,",
+    "start": 84.486,
+    "duration": 2.984
+  },
+  {
+    "text": "the black arts, if you will,",
+    "start": 87.471,
+    "duration": 1.869
+  },
+  {
+    "text": "to try and solve some of the problems\nof the Internet today.",
+    "start": 89.341,
+    "duration": 3.552
+  },
+  {
+    "text": "And the way I see it,",
+    "start": 92.895,
+    "duration": 1.514
+  },
+  {
+    "text": "the Internet is facing three main threats.",
+    "start": 94.41,
+    "duration": 3.013
+  },
+  {
+    "text": "Threat number one, \nyou might call it 'the NSA phantom.'",
+    "start": 98.81,
+    "duration": 3.536
+  },
+  {
+    "text": "We have all seen and read\nthe Edward Snowden's revelations.",
+    "start": 102.347,
+    "duration": 3.767
+  },
+  {
+    "text": "We all know we've been monitored\nall of the time.",
+    "start": 106.115,
+    "duration": 3.539
+  },
+  {
+    "text": "This, ultimately, is going to have\na terrible effect on the Internet,",
+    "start": 109.655,
+    "duration": 3.245
+  },
+  {
+    "text": "and it might get to the point where people\nare frightened to speak openly,",
+    "start": 112.9,
+    "duration": 4.524
+  },
+  {
+    "text": "rather like North Korea\nor the old East Germany,",
+    "start": 117.425,
+    "duration": 2.557
+  },
+  {
+    "text": "where the phones were tapped,\nor people were followed in the street,",
+    "start": 119.983,
+    "duration": 3.23
+  },
+  {
+    "text": "or their mail was intercepted.",
+    "start": 123.214,
+    "duration": 2.06
+  },
+  {
+    "text": "Here is a fun thing you can try at home:",
+    "start": 127.013,
+    "duration": 2.034
+  },
+  {
+    "text": "next time you send \nan e-mail to your mom, say,",
+    "start": 130.676,
+    "duration": 3.705
+  },
+  {
+    "text": "include the words 'bomb,' \n'kill,' 'Obama,' 'Thursday,'",
+    "start": 134.381,
+    "duration": 6.534
+  },
+  {
+    "text": "and let's see how long it takes them\nto come and get you and your mom.",
+    "start": 141.515,
+    "duration": 3.722
+  },
+  {
+    "text": "(Laughter)",
+    "start": 145.237,
+    "duration": 1.262
+  },
+  {
+    "text": "You can find my e-mail address,\nplease get in touch",
+    "start": 148.459,
+    "duration": 2.552
+  },
+  {
+    "text": "because I'd like to know what happens.",
+    "start": 151.012,
+    "duration": 2.099
+  },
+  {
+    "text": "Did the SWAT team come\nand kick your door down?",
+    "start": 153.112,
+    "duration": 3.0
+  },
+  {
+    "text": "Did you find yourself\non an airline no-fly list?",
+    "start": 156.113,
+    "duration": 3.109
+  },
+  {
+    "text": "Or did nothing happen? Or so you think.",
+    "start": 159.223,
+    "duration": 2.381
+  },
+  {
+    "text": "Because I actually think\nby monitoring us, the public at large,",
+    "start": 161.605,
+    "duration": 4.15
+  },
+  {
+    "text": "they are missing the point,\nthey are barking up the wrong tree,",
+    "start": 165.756,
+    "duration": 2.971
+  },
+  {
+    "text": "they are looking in the wrong place.",
+    "start": 168.728,
+    "duration": 2.427
+  },
+  {
+    "text": "Because no terrorist worth their salt\nis going to give anything away",
+    "start": 171.156,
+    "duration": 4.487
+  },
+  {
+    "text": "in an e-mail or on the phone.",
+    "start": 175.644,
+    "duration": 2.221
+  },
+  {
+    "text": "Osama Bin Laden\ndid not have a Facebook page",
+    "start": 179.307,
+    "duration": 3.13
+  },
+  {
+    "text": "(Laughter)",
+    "start": 182.438,
+    "duration": 1.421
+  },
+  {
+    "text": "and he never twitted his friends.",
+    "start": 186.289,
+    "duration": 2.163
+  },
+  {
+    "text": "So, you have to ask,\nwhy they are monitoring us all?",
+    "start": 190.336,
+    "duration": 3.147
+  },
+  {
+    "text": "I think they do it\nsimply because they can.",
+    "start": 193.484,
+    "duration": 3.846
+  },
+  {
+    "text": "Every government would want to know\nwhat its people are saying and thinking.",
+    "start": 197.331,
+    "duration": 3.956
+  },
+  {
+    "text": "After all, information is power.",
+    "start": 201.288,
+    "duration": 2.519
+  },
+  {
+    "text": "So, bear that in mind\nnext time there is a terrorist event,",
+    "start": 203.808,
+    "duration": 3.52
+  },
+  {
+    "text": "like the appalling murder\nin Woolwich, South London, last year",
+    "start": 207.329,
+    "duration": 4.003
+  },
+  {
+    "text": "of Fusilier Lee Rigby.",
+    "start": 211.333,
+    "duration": 2.118
+  },
+  {
+    "text": "As quick as a flash, the government\nused that as an opportunity to say:",
+    "start": 213.452,
+    "duration": 3.72
+  },
+  {
+    "text": "\"We need to monitor the public at large.\"\n\"We need more monitoring.\"",
+    "start": 217.172,
+    "duration": 4.199
+  },
+  {
+    "text": "But, correct me if I'm wrong,",
+    "start": 222.216,
+    "duration": 1.706
+  },
+  {
+    "text": "I don't think \nthere was any evidence to suggest",
+    "start": 223.922,
+    "duration": 2.355
+  },
+  {
+    "text": "that the perpetrators\nof this appalling crime",
+    "start": 226.277,
+    "duration": 3.067
+  },
+  {
+    "text": "actually discussed their intentions\non e-mail, or Facebook, or Twitter.",
+    "start": 229.345,
+    "duration": 4.517
+  },
+  {
+    "text": "And when it comes down to it, the bad guys\nhave a wealth of possibilities",
+    "start": 233.863,
+    "duration": 4.488
+  },
+  {
+    "text": "when they want to communicate secretly.",
+    "start": 238.351,
+    "duration": 1.957
+  },
+  {
+    "text": "One thing a lot of people do,",
+    "start": 241.343,
+    "duration": 1.543
+  },
+  {
+    "text": "they communicate inside\ntheir fantasy worlds:",
+    "start": 244.197,
+    "duration": 2.178
+  },
+  {
+    "text": "places like 'World of warcraft'\nand 'Second life'",
+    "start": 246.376,
+    "duration": 3.77
+  },
+  {
+    "text": "which in a sense makes them deep web.",
+    "start": 250.146,
+    "duration": 2.717
+  },
+  {
+    "text": "Now, it's very easy",
+    "start": 252.863,
+    "duration": 1.153
+  },
+  {
+    "text": "to have a private conversation\nwith someone like in 'Second life.'",
+    "start": 254.016,
+    "duration": 3.544
+  },
+  {
+    "text": "All you have to do is slide up\nto somebody on a park bench there",
+    "start": 257.562,
+    "duration": 3.366
+  },
+  {
+    "text": "and have a nice, quiet conversation.",
+    "start": 260.928,
+    "duration": 2.516
+  },
+  {
+    "text": "How does anybody know you are doing this?",
+    "start": 264.694,
+    "duration": 3.421
+  },
+  {
+    "text": "Probably they don't.",
+    "start": 268.116,
+    "duration": 1.886
+  },
+  {
+    "text": "And for all anybody knows,",
+    "start": 270.564,
+    "duration": 2.217
+  },
+  {
+    "text": "the Islamic State or ISIS may be lurking\ndown in 'My little pony' world.",
+    "start": 272.781,
+    "duration": 5.04
+  },
+  {
+    "text": "(Laughter)",
+    "start": 277.822,
+    "duration": 1.13
+  },
+  {
+    "text": "\"Hi, Applejack,\nwhat are you up to today?\"",
+    "start": 281.263,
+    "duration": 3.992
+  },
+  {
+    "text": "\"Hiya! I'm really busy.",
+    "start": 285.256,
+    "duration": 2.082
+  },
+  {
+    "text": "I'm going to kill the President\nwith a big bomb",
+    "start": 287.338,
+    "duration": 2.428
+  },
+  {
+    "text": "at four o'clock at the Convention Center.\"",
+    "start": 289.766,
+    "duration": 3.475
+  },
+  {
+    "text": "Snowden does tell us",
+    "start": 294.092,
+    "duration": 1.339
+  },
+  {
+    "text": "they can see inside these things,\ninside these secret fantasy worlds,",
+    "start": 295.431,
+    "duration": 4.002
+  },
+  {
+    "text": "but are they really monitoring\nthe conversations of 7-year-old girls?",
+    "start": 299.434,
+    "duration": 4.51
+  },
+  {
+    "text": "And even if they are, so what?",
+    "start": 303.945,
+    "duration": 2.087
+  },
+  {
+    "text": "You can talk in code,\nyou don't have to say 'President,'",
+    "start": 306.033,
+    "duration": 2.868
+  },
+  {
+    "text": "you could say 'big cheese' or whatever.",
+    "start": 308.902,
+    "duration": 1.872
+  },
+  {
+    "text": "How would they know? Because they don't.",
+    "start": 310.775,
+    "duration": 2.447
+  },
+  {
+    "text": "So I say that by monitoring us all,\nthey are wasting their time.",
+    "start": 313.227,
+    "duration": 3.751
+  },
+  {
+    "text": "And what are we actually achieving\nby doing all this?",
+    "start": 316.979,
+    "duration": 2.929
+  },
+  {
+    "text": "We are destroying the freedom\nthat the Internet originally promised.",
+    "start": 319.909,
+    "duration": 4.203
+  },
+  {
+    "text": "So that's threat number one.",
+    "start": 324.113,
+    "duration": 2.235
+  },
+  {
+    "text": "Threat number two:\nrampant commercialization.",
+    "start": 326.349,
+    "duration": 4.186
+  },
+  {
+    "text": "If we are not careful, we are heading\ntowards a two-tiered Internet,",
+    "start": 331.68,
+    "duration": 5.135
+  },
+  {
+    "text": "a nice, superfast Internet\nfor those who can pay,",
+    "start": 336.815,
+    "duration": 3.01
+  },
+  {
+    "text": "and a kind of rubbishy one\nfor those who can't,",
+    "start": 339.825,
+    "duration": 3.44
+  },
+  {
+    "text": "and it is called\n\"the end of net neutrality.\"",
+    "start": 343.265,
+    "duration": 3.422
+  },
+  {
+    "text": "Once upon a time, there were hundreds\nof small oil companies drilling for oil,",
+    "start": 346.687,
+    "duration": 5.528
+  },
+  {
+    "text": "and then, in time,\nthey all got taken over by the big boys.",
+    "start": 352.216,
+    "duration": 3.955
+  },
+  {
+    "text": "And now, the oil business is in the hands\nof a few ultrapowerful corporations.",
+    "start": 356.172,
+    "duration": 6.659
+  },
+  {
+    "text": "And if we are not careful,\nthis is the way the Internet's going.",
+    "start": 362.832,
+    "duration": 4.79
+  },
+  {
+    "text": "Instead of an information superhighway",
+    "start": 367.627,
+    "duration": 3.139
+  },
+  {
+    "text": "we are going to be looking\nat an expensive toll road,",
+    "start": 370.767,
+    "duration": 2.693
+  },
+  {
+    "text": "we are going to be looking\nat the pay-TV model.",
+    "start": 373.461,
+    "duration": 3.236
+  },
+  {
+    "text": "And even if you think\nsomething's free, it invariably isn't.",
+    "start": 376.698,
+    "duration": 3.109
+  },
+  {
+    "text": "And it's true when they say:",
+    "start": 379.808,
+    "duration": 1.455
+  },
+  {
+    "text": "\"If you are not paying,\nyou are the product.\"",
+    "start": 381.264,
+    "duration": 2.185
+  },
+  {
+    "text": "A quick example would be\nyou got a Gmail account",
+    "start": 383.449,
+    "duration": 2.369
+  },
+  {
+    "text": "a nice, free e-mail account\n- thank you very much -",
+    "start": 385.818,
+    "duration": 2.415
+  },
+  {
+    "text": "but the thing is they are combing\nfor everything you send and receive,",
+    "start": 388.234,
+    "duration": 3.945
+  },
+  {
+    "text": "looking for keywords\nso they can bombard you with advertising.",
+    "start": 392.18,
+    "duration": 4.139
+  },
+  {
+    "text": "Sometimes, this is very helpful, I guess.",
+    "start": 398.08,
+    "duration": 2.949
+  },
+  {
+    "text": "You may e-mail a friend\nand say: \"I'll meet you in Venice,\"",
+    "start": 401.03,
+    "duration": 3.481
+  },
+  {
+    "text": "and the next thing you know,\nyou've been bombarded with ads",
+    "start": 404.511,
+    "duration": 2.877
+  },
+  {
+    "text": "for cheap flights to Venice,\nand hotels, and all the rest of it.",
+    "start": 407.389,
+    "duration": 3.35
+  },
+  {
+    "text": "Or maybe, just once, just once, mind you,",
+    "start": 410.739,
+    "duration": 3.059
+  },
+  {
+    "text": "you look up the symptoms of hemorrhoids",
+    "start": 413.798,
+    "duration": 2.568
+  },
+  {
+    "text": "and then, for the rest of life,\nthey never let you forget it.",
+    "start": 416.367,
+    "duration": 2.964
+  },
+  {
+    "text": "(Laughter)",
+    "start": 419.332,
+    "duration": 1.444
+  },
+  {
+    "text": "So we have to say:",
+    "start": 423.157,
+    "duration": 1.656
+  },
+  {
+    "text": "do we really want\nthese ultrapowerful corporations",
+    "start": 426.105,
+    "duration": 4.013
+  },
+  {
+    "text": "know every tiny, little thing about us\nand store it all in databases,",
+    "start": 430.119,
+    "duration": 5.612
+  },
+  {
+    "text": "so they can better harvest this for cash?",
+    "start": 435.732,
+    "duration": 2.476
+  },
+  {
+    "text": "Because that's the way\nthe Internet's going.",
+    "start": 438.209,
+    "duration": 2.639
+  },
+  {
+    "text": "Threat number three: criminals and sickos.",
+    "start": 442.042,
+    "duration": 3.697
+  },
+  {
+    "text": "The streets are safe today",
+    "start": 445.74,
+    "duration": 2.298
+  },
+  {
+    "text": "because so many criminals\nhave migrated to digital",
+    "start": 448.039,
+    "duration": 3.58
+  },
+  {
+    "text": "where they can carry out their crimes\nin the comfort of their own living rooms.",
+    "start": 451.62,
+    "duration": 3.887
+  },
+  {
+    "text": "Con artists, confidence tricksters,\nthey are online too,",
+    "start": 455.508,
+    "duration": 3.923
+  },
+  {
+    "text": "they talk about heart strings\non dating sites,",
+    "start": 459.432,
+    "duration": 2.859
+  },
+  {
+    "text": "they offer us amazing bargains",
+    "start": 462.292,
+    "duration": 1.903
+  },
+  {
+    "text": "and they are even capable\nof pretending to be us in a crisis",
+    "start": 464.195,
+    "duration": 4.338
+  },
+  {
+    "text": "and getting our friends to send \nmoney thinking we are in trouble.",
+    "start": 469.623,
+    "duration": 4.27
+  },
+  {
+    "text": "This happened to a friend\nof mine last week.",
+    "start": 473.902,
+    "duration": 2.578
+  },
+  {
+    "text": "This is really scary, and it has happened\nto everybody one way or another",
+    "start": 477.551,
+    "duration": 4.296
+  },
+  {
+    "text": "people are getting these sorts of e-mails.",
+    "start": 481.847,
+    "duration": 2.118
+  },
+  {
+    "text": "You could also say",
+    "start": 486.451,
+    "duration": 1.048
+  },
+  {
+    "text": "that the other major threat\nare the stalkers and the trolls.",
+    "start": 487.499,
+    "duration": 3.686
+  },
+  {
+    "text": "Today, stalkers\ndon't have to hide in the bushes.",
+    "start": 492.769,
+    "duration": 4.295
+  },
+  {
+    "text": "Now, they can sip a latte at Caffè Nero",
+    "start": 497.065,
+    "duration": 2.802
+  },
+  {
+    "text": "and monitor multiple victims\nin real time on the free WiFi.",
+    "start": 499.867,
+    "duration": 3.782
+  },
+  {
+    "text": "This is the rather aptly named\n\"Cree. py\" surveillance tool.",
+    "start": 506.476,
+    "duration": 4.238
+  },
+  {
+    "text": "You can download it for free.",
+    "start": 510.715,
+    "duration": 1.706
+  },
+  {
+    "text": "And it allows you to keep closed tabs\non any active Twitter and Facebook user.",
+    "start": 512.422,
+    "duration": 5.16
+  },
+  {
+    "text": "This is my daughter Rebecca's \nrecent trip to Rome.",
+    "start": 519.006,
+    "duration": 3.403
+  },
+  {
+    "text": "I can see everywhere she has been,\npretty much what she has been up to.",
+    "start": 522.409,
+    "duration": 3.534
+  },
+  {
+    "text": "Mostly, she has taken photographs of food.",
+    "start": 525.944,
+    "duration": 2.388
+  },
+  {
+    "text": "You can move it up a notch",
+    "start": 530.034,
+    "duration": 1.543
+  },
+  {
+    "text": "because most stalkers today\nhave a wealth of possibilities,",
+    "start": 531.577,
+    "duration": 3.405
+  },
+  {
+    "text": "for 30 pounds - 50 dollars -",
+    "start": 534.982,
+    "duration": 2.491
+  },
+  {
+    "text": "you can get a phone tracking package",
+    "start": 537.473,
+    "duration": 4.291
+  },
+  {
+    "text": "allowing the stalker to follow\ntheir victim's GPS signal,",
+    "start": 541.764,
+    "duration": 3.621
+  },
+  {
+    "text": "to listen to all their conversations,",
+    "start": 545.385,
+    "duration": 2.712
+  },
+  {
+    "text": "and even to turn on\na camera or a microphone.",
+    "start": 548.097,
+    "duration": 2.855
+  },
+  {
+    "text": "You really don't want to make\nany enemies in the digital world,",
+    "start": 552.472,
+    "duration": 3.988
+  },
+  {
+    "text": "not when reputation \ndestruction is all too easy",
+    "start": 556.46,
+    "duration": 3.113
+  },
+  {
+    "text": "and suicides are all too common.",
+    "start": 559.573,
+    "duration": 2.093
+  },
+  {
+    "text": "Say hello to Rent-A-Hacker.",
+    "start": 561.666,
+    "duration": 2.595
+  },
+  {
+    "text": "You can find him down\non the Tor hidden network.",
+    "start": 564.261,
+    "duration": 2.86
+  },
+  {
+    "text": "For 50 euros, he would just screw\nwith somebody for you.",
+    "start": 568.408,
+    "duration": 4.232
+  },
+  {
+    "text": "For 200 euros, he'd get the passwords.",
+    "start": 572.641,
+    "duration": 3.775
+  },
+  {
+    "text": "For 400 euros, he can bankrupt somebody.",
+    "start": 576.417,
+    "duration": 2.72
+  },
+  {
+    "text": "Destroying a life cost a little bit more.",
+    "start": 580.078,
+    "duration": 3.209
+  },
+  {
+    "text": "For 500 euros, Rent-A-Hacker\nwill stuff a target's computer",
+    "start": 583.288,
+    "duration": 5.138
+  },
+  {
+    "text": "full of images of child sexual abuse\nand then tip off to the police.",
+    "start": 588.427,
+    "duration": 4.91
+  },
+  {
+    "text": "So, believe me when I say:\nthe Internet's a very dangerous place.",
+    "start": 593.338,
+    "duration": 4.332
+  },
+  {
+    "text": "But we can move from the deep web.",
+    "start": 597.671,
+    "duration": 2.259
+  },
+  {
+    "text": "We can all learn to be anonymous\nwhen we choose to be.",
+    "start": 599.931,
+    "duration": 3.021
+  },
+  {
+    "text": "If they don't know \nwho we are or where we are,",
+    "start": 603.921,
+    "duration": 3.204
+  },
+  {
+    "text": "they can't spy on us,\nthey can't bombard us with ads,",
+    "start": 607.126,
+    "duration": 4.149
+  },
+  {
+    "text": "and they can't stalk us and do us harm.",
+    "start": 611.276,
+    "duration": 2.885
+  },
+  {
+    "text": "So, what we could do, as a beginning,",
+    "start": 614.162,
+    "duration": 1.998
+  },
+  {
+    "text": "is to wean ourselves off\nproducts like Gmail.",
+    "start": 616.16,
+    "duration": 2.688
+  },
+  {
+    "text": "I would talk more about \nthe things that are available;",
+    "start": 618.848,
+    "duration": 2.93
+  },
+  {
+    "text": "so many new products today.",
+    "start": 621.779,
+    "duration": 1.948
+  },
+  {
+    "text": "This is a free e-mail service\nfrom Iceland.",
+    "start": 623.728,
+    "duration": 2.625
+  },
+  {
+    "text": "It's really cool, very secure,\nno one is going to comb for it",
+    "start": 626.354,
+    "duration": 3.21
+  },
+  {
+    "text": "for ads or the rest of it.",
+    "start": 629.564,
+    "duration": 1.577
+  },
+  {
+    "text": "If you don't like to be -",
+    "start": 631.142,
+    "duration": 2.14
+  },
+  {
+    "text": "If you don't like being followed online,",
+    "start": 633.283,
+    "duration": 1.908
+  },
+  {
+    "text": "by whoever, the state, criminals,\ncorporations, all the rest of it,",
+    "start": 635.191,
+    "duration": 4.303
+  },
+  {
+    "text": "you can just put a free add-on\nto your browser, it's a doddle.",
+    "start": 639.495,
+    "duration": 3.182
+  },
+  {
+    "text": "Better yet, you see, Tor Firefox browser.",
+    "start": 643.731,
+    "duration": 4.08
+  },
+  {
+    "text": "You can download this for free,",
+    "start": 647.812,
+    "duration": 2.126
+  },
+  {
+    "text": "it allows you to travel\ndirectly Internet, incognito,",
+    "start": 649.939,
+    "duration": 3.611
+  },
+  {
+    "text": "and to visit the dark side too.",
+    "start": 653.551,
+    "duration": 2.541
+  },
+  {
+    "text": "All you need to do is to type\n'Tor Firefox' into a search engine,",
+    "start": 656.093,
+    "duration": 4.206
+  },
+  {
+    "text": "follow your on-screen instructions,\nand hit press there.",
+    "start": 660.3,
+    "duration": 3.226
+  },
+  {
+    "text": "You can seriously be anonymous online.",
+    "start": 663.527,
+    "duration": 2.145
+  },
+  {
+    "text": "Back in the '70s, people worried\nthat TV was bad for you.",
+    "start": 667.933,
+    "duration": 4.872
+  },
+  {
+    "text": "They said, \n\"TV is rotting people's brains.\"",
+    "start": 672.806,
+    "duration": 3.843
+  },
+  {
+    "text": "Some people got so upset they made\nthis film 'Network,' starring Peter Finch",
+    "start": 676.65,
+    "duration": 5.886
+  },
+  {
+    "text": "as a crusty, old news anchor\nwho sees the light.",
+    "start": 682.537,
+    "duration": 3.372
+  },
+  {
+    "text": "It doesn't have any answers,",
+    "start": 685.91,
+    "duration": 2.617
+  },
+  {
+    "text": "it just wants people\nto wake up and get mad.",
+    "start": 688.528,
+    "duration": 2.3
+  },
+  {
+    "text": "Sadly, I'm not allowed to play a clip\nfrom the film for copyright reasons",
+    "start": 691.796,
+    "duration": 4.682
+  },
+  {
+    "text": "due to the Internet.",
+    "start": 696.479,
+    "duration": 1.104
+  },
+  {
+    "text": "So, I want you to imagine Peter Finch\nreally, really angry shouting:",
+    "start": 697.584,
+    "duration": 4.541
+  },
+  {
+    "text": "\"I'm as mad as hell,\nand I'm not going to take this anymore.\"",
+    "start": 702.126,
+    "duration": 4.749
+  },
+  {
+    "text": "\"I'm as mad as hell,\nand I'm not going to take this anymore.\"",
+    "start": 708.359,
+    "duration": 3.229
+  },
+  {
+    "text": "We should all be doing this.",
+    "start": 712.394,
+    "duration": 2.292
+  },
+  {
+    "text": "We should all be saying:",
+    "start": 714.687,
+    "duration": 2.181
+  },
+  {
+    "text": "\"I'm as mad as hell at all the spying,\nat the commercial takeover,",
+    "start": 716.868,
+    "duration": 5.997
+  },
+  {
+    "text": "and all the criminals\nand sickos around to get us.\"",
+    "start": 722.865,
+    "duration": 3.639
+  },
+  {
+    "text": "In the film, they're just worried\nthat TV is rotting people's brains;",
+    "start": 726.505,
+    "duration": 4.308
+  },
+  {
+    "text": "that's nothing.",
+    "start": 730.813,
+    "duration": 1.228
+  },
+  {
+    "text": "This is far more serious.",
+    "start": 732.041,
+    "duration": 1.899
+  },
+  {
+    "text": "We are looking at the end\nof the Internet as we know it",
+    "start": 733.941,
+    "duration": 3.587
+  },
+  {
+    "text": "because the Internet is being taken over\nby all the wrong people.",
+    "start": 738.687,
+    "duration": 3.873
+  },
+  {
+    "text": "But we can do something about it,\nwe can all go deep web.",
+    "start": 744.396,
+    "duration": 4.051
+  },
+  {
+    "text": "It is not a place, it is a state\nof mind, a way of being.",
+    "start": 748.448,
+    "duration": 4.561
+  },
+  {
+    "text": "Simply by masking our activities,",
+    "start": 753.01,
+    "duration": 2.406
+  },
+  {
+    "text": "we can prevent people monitoring us,\nfollowing us, doing us harm.",
+    "start": 755.416,
+    "duration": 3.527
+  },
+  {
+    "text": "I say, it's time we woke up\nto the threats towards the Internet,",
+    "start": 760.098,
+    "duration": 3.307
+  },
+  {
+    "text": "it's time we stood up\nand do something about it,",
+    "start": 763.406,
+    "duration": 2.33
+  },
+  {
+    "text": "it's time we stood up\nand took back the Internet,",
+    "start": 765.737,
+    "duration": 2.366
+  },
+  {
+    "text": "and it's time we said:",
+    "start": 768.104,
+    "duration": 1.139
+  },
+  {
+    "text": "\"I'm as mad as hell,\nand I'm not going to take this anymore.\"",
+    "start": 769.244,
+    "duration": 3.497
+  },
+  {
+    "text": "Ladies and gentlemen, thank you.",
+    "start": 772.742,
+    "duration": 1.693
+  },
+  {
+    "text": "(Applause)",
+    "start": 774.436,
+    "duration": 0.985
+  }
+]

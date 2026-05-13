@@ -1,0 +1,82 @@
+{
+  "best_model": "logistic_regression",
+  "selection_criterion": "f1_then_roc_auc_then_recall",
+  "target": "boost_candidate",
+  "percentile_threshold": 0.7,
+  "rows": 68526,
+  "positive_rate": 0.3000029186002393,
+  "feature_columns": [
+    "text_total",
+    "title_len",
+    "description_len",
+    "text_total_word_count",
+    "cta_flag",
+    "urgency_flag",
+    "trust_flag",
+    "promo_flag",
+    "benefit_flag",
+    "price_flag",
+    "duration_seconds",
+    "category_id"
+  ],
+  "metrics": [
+    {
+      "accuracy": 0.6875091200933897,
+      "precision": 0.48232375439321895,
+      "recall": 0.567363813229572,
+      "f1": 0.5213990389987708,
+      "roc_auc": 0.7327832595802013,
+      "tn": 7090,
+      "fp": 2504,
+      "fn": 1779,
+      "tp": 2333,
+      "model": "logistic_regression"
+    },
+    {
+      "accuracy": 0.7460966000291843,
+      "precision": 0.6276252019386107,
+      "recall": 0.3779182879377432,
+      "f1": 0.47176684881602915,
+      "roc_auc": 0.7442419275098169,
+      "tn": 8672,
+      "fp": 922,
+      "fn": 2558,
+      "tp": 1554,
+      "model": "random_forest"
+    },
+    {
+      "accuracy": 0.7555085364074128,
+      "precision": 0.7221249270286048,
+      "recall": 0.3008268482490272,
+      "f1": 0.42472103004291845,
+      "roc_auc": 0.735365937307607,
+      "tn": 9118,
+      "fp": 476,
+      "fn": 2875,
+      "tp": 1237,
+      "model": "linear_svc"
+    },
+    {
+      "accuracy": 0.7603969064643222,
+      "precision": 0.8259842519685039,
+      "recall": 0.25510700389105057,
+      "f1": 0.389817911557042,
+      "roc_auc": 0.7551839103395523,
+      "tn": 9373,
+      "fp": 221,
+      "fn": 3063,
+      "tp": 1049,
+      "model": "hist_gradient_boosting"
+    }
+  ],
+  "dataset_kind": "real_kaggle",
+  "source_files": [
+    "daily_trending_videos.csv",
+    "youtube_trending_in_kaggle_datasnaek_2017_2018.csv"
+  ],
+  "trained_with_synthetic": false,
+  "model_timeout_s": 300,
+  "hgb_enabled": true,
+  "methodological_note": "boost_candidate es una etiqueta derivada del potencial orgánico; no representa ROI causal real.",
+  "probability_clipping": "Las probabilidades de inferencia se recortan a [0.02, 0.98] para evitar absolutos."
+}

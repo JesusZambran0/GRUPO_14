@@ -1,0 +1,1677 @@
+[
+  {
+    "text": "programming is hard crazy right now this",
+    "start": 0.12,
+    "duration": 4.52
+  },
+  {
+    "text": "is obvious to some of you I can already",
+    "start": 2.639,
+    "duration": 4.321
+  },
+  {
+    "text": "hear some of you no way programming's",
+    "start": 4.64,
+    "duration": 5.32
+  },
+  {
+    "text": "hard what's next the sky is blue the",
+    "start": 6.96,
+    "duration": 6.08
+  },
+  {
+    "text": "Earth is a donut there are some people",
+    "start": 9.96,
+    "duration": 5.4
+  },
+  {
+    "text": "mainly beginners who think it's easy I",
+    "start": 13.04,
+    "duration": 3.88
+  },
+  {
+    "text": "think it's because of the day in the",
+    "start": 15.36,
+    "duration": 3.44
+  },
+  {
+    "text": "life videos that mainly show them",
+    "start": 16.92,
+    "duration": 4.0
+  },
+  {
+    "text": "working 1 hour and then eating lunch for",
+    "start": 18.8,
+    "duration": 4.479
+  },
+  {
+    "text": "another 7 hours or influencers that are",
+    "start": 20.92,
+    "duration": 4.16
+  },
+  {
+    "text": "like learn these Technologies and get a",
+    "start": 23.279,
+    "duration": 4.361
+  },
+  {
+    "text": "six-figure job in 3 to 6 months yippe",
+    "start": 25.08,
+    "duration": 4.959
+  },
+  {
+    "text": "but surprisingly programming in terms of",
+    "start": 27.64,
+    "duration": 4.68
+  },
+  {
+    "text": "writing code itself is the easy part",
+    "start": 30.039,
+    "duration": 4.68
+  },
+  {
+    "text": "programming at its surface seems like a",
+    "start": 32.32,
+    "duration": 4.04
+  },
+  {
+    "text": "straightforward task right write some",
+    "start": 34.719,
+    "duration": 3.961
+  },
+  {
+    "text": "code that computers understand however",
+    "start": 36.36,
+    "duration": 4.76
+  },
+  {
+    "text": "the reality is far more complex because",
+    "start": 38.68,
+    "duration": 4.8
+  },
+  {
+    "text": "programming involves logical thinking",
+    "start": 41.12,
+    "duration": 4.2
+  },
+  {
+    "text": "problem solving and a deep understanding",
+    "start": 43.48,
+    "duration": 3.68
+  },
+  {
+    "text": "of both the problem you're solving and",
+    "start": 45.32,
+    "duration": 3.2
+  },
+  {
+    "text": "the tools you're using so what I'm",
+    "start": 47.16,
+    "duration": 3.6
+  },
+  {
+    "text": "trying to say in a smooth brain way",
+    "start": 48.52,
+    "duration": 4.8
+  },
+  {
+    "text": "programming is not coding what a lot of",
+    "start": 50.76,
+    "duration": 4.56
+  },
+  {
+    "text": "times people are missing an essential",
+    "start": 53.32,
+    "duration": 3.96
+  },
+  {
+    "text": "part of programming the mindset thinking",
+    "start": 55.32,
+    "duration": 3.759
+  },
+  {
+    "text": "like a developer and this is the part",
+    "start": 57.28,
+    "duration": 3.72
+  },
+  {
+    "text": "that makes program I mean difficult for",
+    "start": 59.079,
+    "duration": 4.16
+  },
+  {
+    "text": "everybody especially beginners it's not",
+    "start": 61.0,
+    "duration": 4.56
+  },
+  {
+    "text": "the coding part but the mindset it's one",
+    "start": 63.239,
+    "duration": 3.88
+  },
+  {
+    "text": "thing saying just go learn some",
+    "start": 65.56,
+    "duration": 3.0
+  },
+  {
+    "text": "JavaScript it's going to be easy learn",
+    "start": 67.119,
+    "duration": 3.04
+  },
+  {
+    "text": "it in like a week bro but what they",
+    "start": 68.56,
+    "duration": 3.4
+  },
+  {
+    "text": "don't mention is all the Imposter",
+    "start": 70.159,
+    "duration": 3.401
+  },
+  {
+    "text": "syndrome all the late night coding",
+    "start": 71.96,
+    "duration": 3.519
+  },
+  {
+    "text": "sessions and all the times you just feel",
+    "start": 73.56,
+    "duration": 3.96
+  },
+  {
+    "text": "stupid like programming is not for you",
+    "start": 75.479,
+    "duration": 3.64
+  },
+  {
+    "text": "that's never brought up and I think it's",
+    "start": 77.52,
+    "duration": 3.44
+  },
+  {
+    "text": "because it's something that tutorials",
+    "start": 79.119,
+    "duration": 4.441
+  },
+  {
+    "text": "and books can't teach you have to",
+    "start": 80.96,
+    "duration": 4.6
+  },
+  {
+    "text": "experience that yourself let me expand",
+    "start": 83.56,
+    "duration": 4.199
+  },
+  {
+    "text": "more on this whole developer mindset",
+    "start": 85.56,
+    "duration": 4.04
+  },
+  {
+    "text": "thing and give you some tips to help you",
+    "start": 87.759,
+    "duration": 4.0
+  },
+  {
+    "text": "develop V this mindset faster imagine",
+    "start": 89.6,
+    "duration": 4.12
+  },
+  {
+    "text": "learning to cook by only memorizing",
+    "start": 91.759,
+    "duration": 3.72
+  },
+  {
+    "text": "recipes you might know that to make a",
+    "start": 93.72,
+    "duration": 4.679
+  },
+  {
+    "text": "cake you need flour sugar eggs and",
+    "start": 95.479,
+    "duration": 4.92
+  },
+  {
+    "text": "butter and following the recipe you can",
+    "start": 98.399,
+    "duration": 4.201
+  },
+  {
+    "text": "bake a pretty decent cake but what if",
+    "start": 100.399,
+    "duration": 4.161
+  },
+  {
+    "text": "you're missing an ingredient or added",
+    "start": 102.6,
+    "duration": 3.68
+  },
+  {
+    "text": "the wrong amount of an ingredient or",
+    "start": 104.56,
+    "duration": 3.559
+  },
+  {
+    "text": "someone ask you to bake something else",
+    "start": 106.28,
+    "duration": 3.479
+  },
+  {
+    "text": "because they hate cake if you've only",
+    "start": 108.119,
+    "duration": 4.201
+  },
+  {
+    "text": "memorized recipes you might be at a loss",
+    "start": 109.759,
+    "duration": 4.4
+  },
+  {
+    "text": "because you understand the steps but not",
+    "start": 112.32,
+    "duration": 3.479
+  },
+  {
+    "text": "the principles behind them this is",
+    "start": 114.159,
+    "duration": 3.081
+  },
+  {
+    "text": "similar to learning programming",
+    "start": 115.799,
+    "duration": 3.081
+  },
+  {
+    "text": "languages without understanding the",
+    "start": 117.24,
+    "duration": 3.519
+  },
+  {
+    "text": "underlying principles programming so",
+    "start": 118.88,
+    "duration": 3.4
+  },
+  {
+    "text": "you're basically a worst version of chat",
+    "start": 120.759,
+    "duration": 4.081
+  },
+  {
+    "text": "GPT knowing a language like python or",
+    "start": 122.28,
+    "duration": 4.92
+  },
+  {
+    "text": "JavaScript is like knowing or memorizing",
+    "start": 124.84,
+    "duration": 4.759
+  },
+  {
+    "text": "recipe sure it's important but it's not",
+    "start": 127.2,
+    "duration": 4.119
+  },
+  {
+    "text": "the whole story you can memorize all the",
+    "start": 129.599,
+    "duration": 3.961
+  },
+  {
+    "text": "syntax but the bigger question is do you",
+    "start": 131.319,
+    "duration": 4.121
+  },
+  {
+    "text": "know how to use the syntax here's an",
+    "start": 133.56,
+    "duration": 3.64
+  },
+  {
+    "text": "example let's say you've learned how",
+    "start": 135.44,
+    "duration": 3.799
+  },
+  {
+    "text": "variables loops and lists work you then",
+    "start": 137.2,
+    "duration": 3.72
+  },
+  {
+    "text": "learn how to create a list of numbers",
+    "start": 139.239,
+    "duration": 3.601
+  },
+  {
+    "text": "and print each number using a for Loop",
+    "start": 140.92,
+    "duration": 3.959
+  },
+  {
+    "text": "the basic tutorial covered it like this",
+    "start": 142.84,
+    "duration": 3.88
+  },
+  {
+    "text": "the next step is now to find the average",
+    "start": 144.879,
+    "duration": 3.681
+  },
+  {
+    "text": "of these numbers and the tutorial did it",
+    "start": 146.72,
+    "duration": 4.36
+  },
+  {
+    "text": "like this let's say in your situation",
+    "start": 148.56,
+    "duration": 4.12
+  },
+  {
+    "text": "I'm a strict professor and I don't want",
+    "start": 151.08,
+    "duration": 3.0
+  },
+  {
+    "text": "you to use the sum function because",
+    "start": 152.68,
+    "duration": 3.36
+  },
+  {
+    "text": "that's too easy in order to calculate",
+    "start": 154.08,
+    "duration": 3.72
+  },
+  {
+    "text": "the average under this constraint you",
+    "start": 156.04,
+    "duration": 3.279
+  },
+  {
+    "text": "need to understand what the sum function",
+    "start": 157.8,
+    "duration": 3.56
+  },
+  {
+    "text": "is doing you should know that the sum is",
+    "start": 159.319,
+    "duration": 3.881
+  },
+  {
+    "text": "just all the elements added together in",
+    "start": 161.36,
+    "duration": 3.48
+  },
+  {
+    "text": "the tutorial you've learned how to",
+    "start": 163.2,
+    "duration": 3.759
+  },
+  {
+    "text": "iterate over list with a for Loop and",
+    "start": 164.84,
+    "duration": 4.64
+  },
+  {
+    "text": "perform basic arithmetic operations so",
+    "start": 166.959,
+    "duration": 4.0
+  },
+  {
+    "text": "here's the alternative way to approach",
+    "start": 169.48,
+    "duration": 3.92
+  },
+  {
+    "text": "it the tutorial didn't explicitly cover",
+    "start": 170.959,
+    "duration": 4.041
+  },
+  {
+    "text": "this but it taught you everything you",
+    "start": 173.4,
+    "duration": 3.68
+  },
+  {
+    "text": "needed to solve this on your own this",
+    "start": 175.0,
+    "duration": 4.04
+  },
+  {
+    "text": "example is pretty simple and kind of",
+    "start": 177.08,
+    "duration": 4.0
+  },
+  {
+    "text": "dumb but unfortunately you'll encounter",
+    "start": 179.04,
+    "duration": 4.32
+  },
+  {
+    "text": "a lot of situations like this situations",
+    "start": 181.08,
+    "duration": 4.239
+  },
+  {
+    "text": "like you can't use this Library you",
+    "start": 183.36,
+    "duration": 3.799
+  },
+  {
+    "text": "can't use this framework or there's",
+    "start": 185.319,
+    "duration": 4.0
+  },
+  {
+    "text": "times where a built-in function in one",
+    "start": 187.159,
+    "duration": 4.041
+  },
+  {
+    "text": "programming language doesn't exist in",
+    "start": 189.319,
+    "duration": 3.801
+  },
+  {
+    "text": "another in cooking this scenario is",
+    "start": 191.2,
+    "duration": 4.36
+  },
+  {
+    "text": "similar to adjusting a recipe based on a",
+    "start": 193.12,
+    "duration": 4.399
+  },
+  {
+    "text": "dietary restriction maybe you can't use",
+    "start": 195.56,
+    "duration": 4.0
+  },
+  {
+    "text": "a common ingredient like sugar instead",
+    "start": 197.519,
+    "duration": 3.44
+  },
+  {
+    "text": "you have to substitute it with some",
+    "start": 199.56,
+    "duration": 3.039
+  },
+  {
+    "text": "alternative you weren't directly taught",
+    "start": 200.959,
+    "duration": 3.92
+  },
+  {
+    "text": "this substitution in the recipe or in a",
+    "start": 202.599,
+    "duration": 4.321
+  },
+  {
+    "text": "cooking class but understanding the role",
+    "start": 204.879,
+    "duration": 4.601
+  },
+  {
+    "text": "sugar plays in the recipe allows you to",
+    "start": 206.92,
+    "duration": 4.28
+  },
+  {
+    "text": "make the necessary adjustments in",
+    "start": 209.48,
+    "duration": 4.119
+  },
+  {
+    "text": "cooking once you grasp the fundamentals",
+    "start": 211.2,
+    "duration": 4.399
+  },
+  {
+    "text": "you can start experimenting and creating",
+    "start": 213.599,
+    "duration": 3.761
+  },
+  {
+    "text": "dishes on your own you're no longer just",
+    "start": 215.599,
+    "duration": 4.041
+  },
+  {
+    "text": "following recipes you're creating them",
+    "start": 217.36,
+    "duration": 4.159
+  },
+  {
+    "text": "the same goes for programming with a",
+    "start": 219.64,
+    "duration": 3.679
+  },
+  {
+    "text": "strong foundation in the basics you're",
+    "start": 221.519,
+    "duration": 3.881
+  },
+  {
+    "text": "not just copying and pasting code you're",
+    "start": 223.319,
+    "duration": 4.361
+  },
+  {
+    "text": "crafting solutions from scratch this is",
+    "start": 225.4,
+    "duration": 3.839
+  },
+  {
+    "text": "where the true challenge of programming",
+    "start": 227.68,
+    "duration": 3.96
+  },
+  {
+    "text": "lies this is a programmer's mindset",
+    "start": 229.239,
+    "duration": 4.321
+  },
+  {
+    "text": "problem solving and logical thinking",
+    "start": 231.64,
+    "duration": 4.04
+  },
+  {
+    "text": "it's not just about knowing how to code",
+    "start": 233.56,
+    "duration": 4.08
+  },
+  {
+    "text": "it's about knowing what to code to",
+    "start": 235.68,
+    "duration": 4.399
+  },
+  {
+    "text": "develop a new feature or fix a bug you",
+    "start": 237.64,
+    "duration": 4.2
+  },
+  {
+    "text": "need to break it down into smaller",
+    "start": 240.079,
+    "duration": 4.121
+  },
+  {
+    "text": "manageable pieces then systematically",
+    "start": 241.84,
+    "duration": 4.119
+  },
+  {
+    "text": "address each part this skill is",
+    "start": 244.2,
+    "duration": 3.56
+  },
+  {
+    "text": "something that's often overlooked in",
+    "start": 245.959,
+    "duration": 3.56
+  },
+  {
+    "text": "tutorials because it's something you",
+    "start": 247.76,
+    "duration": 3.759
+  },
+  {
+    "text": "can't really teach it's one of those",
+    "start": 249.519,
+    "duration": 2.961
+  },
+  {
+    "text": "things where you're just going to have",
+    "start": 251.519,
+    "duration": 2.841
+  },
+  {
+    "text": "to figure it out yourself I can give you",
+    "start": 252.48,
+    "duration": 3.68
+  },
+  {
+    "text": "all the tips in the world and examples",
+    "start": 254.36,
+    "duration": 3.52
+  },
+  {
+    "text": "about problem solving and yeah you'll",
+    "start": 256.16,
+    "duration": 3.799
+  },
+  {
+    "text": "get better and maybe learn it quicker",
+    "start": 257.88,
+    "duration": 4.36
+  },
+  {
+    "text": "but to fully Master it you have to do it",
+    "start": 259.959,
+    "duration": 4.161
+  },
+  {
+    "text": "on your own you have to experience it",
+    "start": 262.24,
+    "duration": 3.92
+  },
+  {
+    "text": "for yourself because you can't master a",
+    "start": 264.12,
+    "duration": 4.12
+  },
+  {
+    "text": "skill of solving problems if someone",
+    "start": 266.16,
+    "duration": 4.599
+  },
+  {
+    "text": "else is solving that problem right in my",
+    "start": 268.24,
+    "duration": 4.799
+  },
+  {
+    "text": "experience these skills took the longest",
+    "start": 270.759,
+    "duration": 4.081
+  },
+  {
+    "text": "to develop and this is because all the",
+    "start": 273.039,
+    "duration": 4.44
+  },
+  {
+    "text": "learning resources so tutorials books",
+    "start": 274.84,
+    "duration": 4.639
+  },
+  {
+    "text": "courses they can't really teach these",
+    "start": 277.479,
+    "duration": 3.961
+  },
+  {
+    "text": "skills because they're meant to show you",
+    "start": 279.479,
+    "duration": 4.321
+  },
+  {
+    "text": "everything each step the reasoning and",
+    "start": 281.44,
+    "duration": 4.319
+  },
+  {
+    "text": "how it all fits together tutorials are",
+    "start": 283.8,
+    "duration": 3.32
+  },
+  {
+    "text": "meant to help you get better at",
+    "start": 285.759,
+    "duration": 3.16
+  },
+  {
+    "text": "programming by showing you how to do",
+    "start": 287.12,
+    "duration": 3.799
+  },
+  {
+    "text": "things but in order to be good at",
+    "start": 288.919,
+    "duration": 3.84
+  },
+  {
+    "text": "programming you also need to figure",
+    "start": 290.919,
+    "duration": 3.601
+  },
+  {
+    "text": "things out on your own something",
+    "start": 292.759,
+    "duration": 3.961
+  },
+  {
+    "text": "tutorials can't do because then it",
+    "start": 294.52,
+    "duration": 4.32
+  },
+  {
+    "text": "wouldn't be a tutorial pretty tricky",
+    "start": 296.72,
+    "duration": 4.319
+  },
+  {
+    "text": "right you need to bance using tutorials",
+    "start": 298.84,
+    "duration": 4.12
+  },
+  {
+    "text": "and doing things on your own and this is",
+    "start": 301.039,
+    "duration": 3.841
+  },
+  {
+    "text": "why people end up in a situation where",
+    "start": 302.96,
+    "duration": 3.84
+  },
+  {
+    "text": "they know all this theoretical knowledge",
+    "start": 304.88,
+    "duration": 3.56
+  },
+  {
+    "text": "but they have no practical knowledge",
+    "start": 306.8,
+    "duration": 3.04
+  },
+  {
+    "text": "they know everything but they don't know",
+    "start": 308.44,
+    "duration": 2.64
+  },
+  {
+    "text": "how to use it it's one of those",
+    "start": 309.84,
+    "duration": 2.799
+  },
+  {
+    "text": "situations where you did too much",
+    "start": 311.08,
+    "duration": 3.16
+  },
+  {
+    "text": "tutorials and not enough things on your",
+    "start": 312.639,
+    "duration": 3.28
+  },
+  {
+    "text": "own and this is when people start",
+    "start": 314.24,
+    "duration": 4.0
+  },
+  {
+    "text": "entering tutorial hell and unfortunately",
+    "start": 315.919,
+    "duration": 4.681
+  },
+  {
+    "text": "they may never Escape it tutorial hell",
+    "start": 318.24,
+    "duration": 4.519
+  },
+  {
+    "text": "is a place where endless tutorials are",
+    "start": 320.6,
+    "duration": 3.879
+  },
+  {
+    "text": "watched and countless examples are",
+    "start": 322.759,
+    "duration": 4.0
+  },
+  {
+    "text": "followed yet the ability to solve new or",
+    "start": 324.479,
+    "duration": 4.401
+  },
+  {
+    "text": "unique problems doesn't seem to improve",
+    "start": 326.759,
+    "duration": 4.481
+  },
+  {
+    "text": "it's an easy to fall into this is why",
+    "start": 328.88,
+    "duration": 4.12
+  },
+  {
+    "text": "the learning curve in programming is",
+    "start": 331.24,
+    "duration": 3.6
+  },
+  {
+    "text": "notoriously steep because you need a",
+    "start": 333.0,
+    "duration": 3.919
+  },
+  {
+    "text": "balance tutorials and doing things on",
+    "start": 334.84,
+    "duration": 4.0
+  },
+  {
+    "text": "your own but it's important to recognize",
+    "start": 336.919,
+    "duration": 3.881
+  },
+  {
+    "text": "that in order to escape tutorial hell",
+    "start": 338.84,
+    "duration": 3.799
+  },
+  {
+    "text": "it's not about abandoning tutorials",
+    "start": 340.8,
+    "duration": 3.839
+  },
+  {
+    "text": "altogether it's about how you use them",
+    "start": 342.639,
+    "duration": 3.641
+  },
+  {
+    "text": "tutorials are like training wheels",
+    "start": 344.639,
+    "duration": 3.201
+  },
+  {
+    "text": "eventually they're meant to be removed",
+    "start": 346.28,
+    "duration": 3.4
+  },
+  {
+    "text": "the real learning begins when you start",
+    "start": 347.84,
+    "duration": 3.0
+  },
+  {
+    "text": "applying what you've learned in",
+    "start": 349.68,
+    "duration": 2.68
+  },
+  {
+    "text": "different situations when you start",
+    "start": 350.84,
+    "duration": 3.479
+  },
+  {
+    "text": "cooking without the recipe so to speak",
+    "start": 352.36,
+    "duration": 3.76
+  },
+  {
+    "text": "many people quit before they reach the",
+    "start": 354.319,
+    "duration": 4.6
+  },
+  {
+    "text": "stage because programming is not easy so",
+    "start": 356.12,
+    "duration": 5.079
+  },
+  {
+    "text": "what can I do well for starters remember",
+    "start": 358.919,
+    "duration": 4.201
+  },
+  {
+    "text": "that every expert was once a beginner",
+    "start": 361.199,
+    "duration": 4.081
+  },
+  {
+    "text": "keep pushing forward keep learning and",
+    "start": 363.12,
+    "duration": 3.799
+  },
+  {
+    "text": "don't hesitate to seek help from the",
+    "start": 365.28,
+    "duration": 3.08
+  },
+  {
+    "text": "community when you need it you can",
+    "start": 366.919,
+    "duration": 3.161
+  },
+  {
+    "text": "always join my community the link is in",
+    "start": 368.36,
+    "duration": 3.44
+  },
+  {
+    "text": "the description but let me give you some",
+    "start": 370.08,
+    "duration": 3.88
+  },
+  {
+    "text": "tips to help you gain this programmer",
+    "start": 371.8,
+    "duration": 5.16
+  },
+  {
+    "text": "mindset my first tip break down problems",
+    "start": 373.96,
+    "duration": 5.92
+  },
+  {
+    "text": "Master this skill please I'm begging",
+    "start": 376.96,
+    "duration": 4.56
+  },
+  {
+    "text": "start by breaking down programming",
+    "start": 379.88,
+    "duration": 3.56
+  },
+  {
+    "text": "problems into smaller more manageable",
+    "start": 381.52,
+    "duration": 4.04
+  },
+  {
+    "text": "task this approach makes even the most",
+    "start": 383.44,
+    "duration": 4.36
+  },
+  {
+    "text": "daunting problems seem approachable and",
+    "start": 385.56,
+    "duration": 4.12
+  },
+  {
+    "text": "gives you clear starting points now I",
+    "start": 387.8,
+    "duration": 3.36
+  },
+  {
+    "text": "know I said giving you an example",
+    "start": 389.68,
+    "duration": 3.12
+  },
+  {
+    "text": "wouldn't help you master the skill but",
+    "start": 391.16,
+    "duration": 2.92
+  },
+  {
+    "text": "it's at least going to guide you in the",
+    "start": 392.8,
+    "duration": 3.16
+  },
+  {
+    "text": "right direction so let's do an example",
+    "start": 394.08,
+    "duration": 4.28
+  },
+  {
+    "text": "let's say I tell you to create a program",
+    "start": 395.96,
+    "duration": 4.239
+  },
+  {
+    "text": "that tracks and displays the top three",
+    "start": 398.36,
+    "duration": 3.559
+  },
+  {
+    "text": "most frequent words in a given list",
+    "start": 400.199,
+    "duration": 3.28
+  },
+  {
+    "text": "seems a little complicated right let's",
+    "start": 401.919,
+    "duration": 3.441
+  },
+  {
+    "text": "break it down let's start by looking at",
+    "start": 403.479,
+    "duration": 3.881
+  },
+  {
+    "text": "the list and Counting the frequency of",
+    "start": 405.36,
+    "duration": 4.16
+  },
+  {
+    "text": "each word okay that still seems too",
+    "start": 407.36,
+    "duration": 3.959
+  },
+  {
+    "text": "complicated so let's break it down even",
+    "start": 409.52,
+    "duration": 3.76
+  },
+  {
+    "text": "more how about just looking through the",
+    "start": 411.319,
+    "duration": 4.32
+  },
+  {
+    "text": "list okay now this is really easy all we",
+    "start": 413.28,
+    "duration": 4.52
+  },
+  {
+    "text": "need to do is a simple for Loop okay so",
+    "start": 415.639,
+    "duration": 3.601
+  },
+  {
+    "text": "we're looking at the list all we have to",
+    "start": 417.8,
+    "duration": 3.48
+  },
+  {
+    "text": "do now is count the frequency so we can",
+    "start": 419.24,
+    "duration": 3.959
+  },
+  {
+    "text": "use a dictionary to keep track of that",
+    "start": 421.28,
+    "duration": 3.4
+  },
+  {
+    "text": "and would you look at that we solved the",
+    "start": 423.199,
+    "duration": 3.44
+  },
+  {
+    "text": "sub problem of looking at the list and",
+    "start": 424.68,
+    "duration": 3.56
+  },
+  {
+    "text": "Counting the frequency now we can move",
+    "start": 426.639,
+    "duration": 3.4
+  },
+  {
+    "text": "up to the main problem I'm going to let",
+    "start": 428.24,
+    "duration": 3.72
+  },
+  {
+    "text": "you finish this because you need to get",
+    "start": 430.039,
+    "duration": 3.641
+  },
+  {
+    "text": "good at problem solving this is the type",
+    "start": 431.96,
+    "duration": 3.2
+  },
+  {
+    "text": "of thinking technical interviews are",
+    "start": 433.68,
+    "duration": 3.48
+  },
+  {
+    "text": "looking for so I strongly recommend",
+    "start": 435.16,
+    "duration": 3.479
+  },
+  {
+    "text": "practicing this skill and if you want a",
+    "start": 437.16,
+    "duration": 2.879
+  },
+  {
+    "text": "resource that will help you practice",
+    "start": 438.639,
+    "duration": 2.921
+  },
+  {
+    "text": "this skill you should check out today's",
+    "start": 440.039,
+    "duration": 3.16
+  },
+  {
+    "text": "sponsor brilliant brilliant is a",
+    "start": 441.56,
+    "duration": 3.359
+  },
+  {
+    "text": "platform where you learn by doing which",
+    "start": 443.199,
+    "duration": 3.72
+  },
+  {
+    "text": "is exactly what a programmer needs with",
+    "start": 444.919,
+    "duration": 4.041
+  },
+  {
+    "text": "thousands of interactive lessons in math",
+    "start": 446.919,
+    "duration": 4.441
+  },
+  {
+    "text": "data analysis Anis programming and AI",
+    "start": 448.96,
+    "duration": 4.239
+  },
+  {
+    "text": "I'm positive there's something for you",
+    "start": 451.36,
+    "duration": 3.2
+  },
+  {
+    "text": "brilliant believes in improving your",
+    "start": 453.199,
+    "duration": 2.961
+  },
+  {
+    "text": "critical thinking skills through problem",
+    "start": 454.56,
+    "duration": 3.68
+  },
+  {
+    "text": "solving not memorizing so while you're",
+    "start": 456.16,
+    "duration": 3.68
+  },
+  {
+    "text": "building real knowledge on specific",
+    "start": 458.24,
+    "duration": 3.12
+  },
+  {
+    "text": "topics you'll also become a better",
+    "start": 459.84,
+    "duration": 3.12
+  },
+  {
+    "text": "thinker which is what you need to gain",
+    "start": 461.36,
+    "duration": 3.679
+  },
+  {
+    "text": "that developer mindset brilliant is also",
+    "start": 462.96,
+    "duration": 3.84
+  },
+  {
+    "text": "a learning platform that's designed to",
+    "start": 465.039,
+    "duration": 3.801
+  },
+  {
+    "text": "be effective each lesson is filled with",
+    "start": 466.8,
+    "duration": 3.88
+  },
+  {
+    "text": "Hands-On problem solving that lets you",
+    "start": 468.84,
+    "duration": 3.44
+  },
+  {
+    "text": "play with Concepts a method that's",
+    "start": 470.68,
+    "duration": 3.359
+  },
+  {
+    "text": "proven to be six times more effective",
+    "start": 472.28,
+    "duration": 3.879
+  },
+  {
+    "text": "than watching lecture videos plus all",
+    "start": 474.039,
+    "duration": 4.12
+  },
+  {
+    "text": "the content on brilliant is crafted by",
+    "start": 476.159,
+    "duration": 3.88
+  },
+  {
+    "text": "an award-winning team of teach teachers",
+    "start": 478.159,
+    "duration": 4.48
+  },
+  {
+    "text": "researchers and professionals from MIT",
+    "start": 480.039,
+    "duration": 5.641
+  },
+  {
+    "text": "Caltech Duke Microsoft Google and more",
+    "start": 482.639,
+    "duration": 4.641
+  },
+  {
+    "text": "brilliant helps you build real knowledge",
+    "start": 485.68,
+    "duration": 3.639
+  },
+  {
+    "text": "in just a few minutes with fun lessons",
+    "start": 487.28,
+    "duration": 3.84
+  },
+  {
+    "text": "you can do whenever you have time it's",
+    "start": 489.319,
+    "duration": 3.481
+  },
+  {
+    "text": "the opposite of mindless scrolling he's",
+    "start": 491.12,
+    "duration": 3.56
+  },
+  {
+    "text": "still not convinced brilliant has tons",
+    "start": 492.8,
+    "duration": 3.679
+  },
+  {
+    "text": "of programming courses you can start",
+    "start": 494.68,
+    "duration": 3.72
+  },
+  {
+    "text": "building programs on day one with their",
+    "start": 496.479,
+    "duration": 3.801
+  },
+  {
+    "text": "built-in drag and drop editor and you",
+    "start": 498.4,
+    "duration": 3.68
+  },
+  {
+    "text": "also develop your mind to think like a",
+    "start": 500.28,
+    "duration": 3.199
+  },
+  {
+    "text": "programmer if this sounds like the",
+    "start": 502.08,
+    "duration": 3.16
+  },
+  {
+    "text": "learning platform for you and you'd like",
+    "start": 503.479,
+    "duration": 3.4
+  },
+  {
+    "text": "to try everything brilliant has to offer",
+    "start": 505.24,
+    "duration": 3.84
+  },
+  {
+    "text": "for free for a full 30 days visit",
+    "start": 506.879,
+    "duration": 4.76
+  },
+  {
+    "text": "brilliant .org slthe coding SL or click",
+    "start": 509.08,
+    "duration": 3.959
+  },
+  {
+    "text": "the link in the description you'll also",
+    "start": 511.639,
+    "duration": 3.28
+  },
+  {
+    "text": "get 20% off in annual premium",
+    "start": 513.039,
+    "duration": 3.48
+  },
+  {
+    "text": "subscription okay let me give you",
+    "start": 514.919,
+    "duration": 3.281
+  },
+  {
+    "text": "another big tip that will help you think",
+    "start": 516.519,
+    "duration": 3.96
+  },
+  {
+    "text": "like a programmer Project based learning",
+    "start": 518.2,
+    "duration": 4.56
+  },
+  {
+    "text": "this is the definitive way to become",
+    "start": 520.479,
+    "duration": 3.8
+  },
+  {
+    "text": "better at programming why is it",
+    "start": 522.76,
+    "duration": 3.16
+  },
+  {
+    "text": "effective because you'll be building",
+    "start": 524.279,
+    "duration": 4.161
+  },
+  {
+    "text": "stuff stupid and building stuff is good",
+    "start": 525.92,
+    "duration": 4.479
+  },
+  {
+    "text": "why because building things makes you",
+    "start": 528.44,
+    "duration": 3.76
+  },
+  {
+    "text": "use your small brain and using your",
+    "start": 530.399,
+    "duration": 4.0
+  },
+  {
+    "text": "small brain means problem solving and",
+    "start": 532.2,
+    "duration": 4.16
+  },
+  {
+    "text": "problem solving means good developer",
+    "start": 534.399,
+    "duration": 3.241
+  },
+  {
+    "text": "another reason is you're going to be",
+    "start": 536.36,
+    "duration": 3.719
+  },
+  {
+    "text": "building your portfolio and a port folio",
+    "start": 537.64,
+    "duration": 5.24
+  },
+  {
+    "text": "equals experience and experience equals",
+    "start": 540.079,
+    "duration": 5.841
+  },
+  {
+    "text": "job job equals money now for my next tip",
+    "start": 542.88,
+    "duration": 5.0
+  },
+  {
+    "text": "the fan technique I'm steal I mean",
+    "start": 545.92,
+    "duration": 3.8
+  },
+  {
+    "text": "borrowing this tip from fireship like a",
+    "start": 547.88,
+    "duration": 3.959
+  },
+  {
+    "text": "true programmer what exactly is this",
+    "start": 549.72,
+    "duration": 4.119
+  },
+  {
+    "text": "well the finean technique is based on",
+    "start": 551.839,
+    "duration": 3.801
+  },
+  {
+    "text": "the idea that you truly understand a",
+    "start": 553.839,
+    "duration": 3.68
+  },
+  {
+    "text": "concept only if you can explain it in",
+    "start": 555.64,
+    "duration": 4.04
+  },
+  {
+    "text": "simple terms this forces you to break",
+    "start": 557.519,
+    "duration": 4.401
+  },
+  {
+    "text": "down complex programming Concepts into",
+    "start": 559.68,
+    "duration": 3.8
+  },
+  {
+    "text": "their fundamental parts and as you're",
+    "start": 561.92,
+    "duration": 3.56
+  },
+  {
+    "text": "trying to explain a concept It's Quickly",
+    "start": 563.48,
+    "duration": 4.2
+  },
+  {
+    "text": "going to reveal what you understand and",
+    "start": 565.48,
+    "duration": 3.72
+  },
+  {
+    "text": "what you don't understand and it's going",
+    "start": 567.68,
+    "duration": 3.04
+  },
+  {
+    "text": "to guide you on what you should study",
+    "start": 569.2,
+    "duration": 2.92
+  },
+  {
+    "text": "more and of course teaching or",
+    "start": 570.72,
+    "duration": 3.119
+  },
+  {
+    "text": "explaining a concept to someone else or",
+    "start": 572.12,
+    "duration": 3.44
+  },
+  {
+    "text": "even to yourself out loud is going to",
+    "start": 573.839,
+    "duration": 3.44
+  },
+  {
+    "text": "help you solidify your understanding and",
+    "start": 575.56,
+    "duration": 3.12
+  },
+  {
+    "text": "it's going to help you with retention",
+    "start": 577.279,
+    "duration": 2.8
+  },
+  {
+    "text": "you're going to remember it more so I'm",
+    "start": 578.68,
+    "duration": 2.76
+  },
+  {
+    "text": "going to use this technique right now",
+    "start": 580.079,
+    "duration": 2.841
+  },
+  {
+    "text": "and I'm going to speedrun these tips my",
+    "start": 581.44,
+    "duration": 3.48
+  },
+  {
+    "text": "next tip Embrace failure as a learning",
+    "start": 582.92,
+    "duration": 3.56
+  },
+  {
+    "text": "tool you're going to fail you're not",
+    "start": 584.92,
+    "duration": 3.12
+  },
+  {
+    "text": "perfect I'm not perfect we're all going",
+    "start": 586.48,
+    "duration": 3.08
+  },
+  {
+    "text": "to fail so you better get used to it",
+    "start": 588.04,
+    "duration": 3.12
+  },
+  {
+    "text": "I've seen hundreds of errors and I've",
+    "start": 589.56,
+    "duration": 3.48
+  },
+  {
+    "text": "made hundreds of bugs and at this point",
+    "start": 591.16,
+    "duration": 3.32
+  },
+  {
+    "text": "I have a good idea of where something",
+    "start": 593.04,
+    "duration": 3.28
+  },
+  {
+    "text": "went wrong because I failed so much so",
+    "start": 594.48,
+    "duration": 3.68
+  },
+  {
+    "text": "you should start failing more next tip",
+    "start": 596.32,
+    "duration": 3.639
+  },
+  {
+    "text": "practice regularly and for a long period",
+    "start": 598.16,
+    "duration": 3.6
+  },
+  {
+    "text": "of time be consistent in programming",
+    "start": 599.959,
+    "duration": 3.361
+  },
+  {
+    "text": "that's really obvious but I don't mean",
+    "start": 601.76,
+    "duration": 3.56
+  },
+  {
+    "text": "practice for 30 minutes that is not",
+    "start": 603.32,
+    "duration": 3.199
+  },
+  {
+    "text": "enough maybe that's going to work for",
+    "start": 605.32,
+    "duration": 3.519
+  },
+  {
+    "text": "your little baby leode problems but for",
+    "start": 606.519,
+    "duration": 4.361
+  },
+  {
+    "text": "actual programming Concepts or projects",
+    "start": 608.839,
+    "duration": 3.361
+  },
+  {
+    "text": "you're going to need a longer block of",
+    "start": 610.88,
+    "duration": 5.199
+  },
+  {
+    "text": "time so maybe you know 24 hours 48 I'm",
+    "start": 612.2,
+    "duration": 5.68
+  },
+  {
+    "text": "kidding 1 hour or more at least and my",
+    "start": 616.079,
+    "duration": 4.081
+  },
+  {
+    "text": "last tip stop comparing yourself to",
+    "start": 617.88,
+    "duration": 4.48
+  },
+  {
+    "text": "other people the only person you should",
+    "start": 620.16,
+    "duration": 4.679
+  },
+  {
+    "text": "ever compare yourself to is Elon is",
+    "start": 622.36,
+    "duration": 4.28
+  },
+  {
+    "text": "yourself obviously you should not be",
+    "start": 624.839,
+    "duration": 3.68
+  },
+  {
+    "text": "worrying about anybody else except",
+    "start": 626.64,
+    "duration": 3.6
+  },
+  {
+    "text": "yourself a lot of you keep comparing",
+    "start": 628.519,
+    "duration": 3.121
+  },
+  {
+    "text": "yourself to people that have been",
+    "start": 630.24,
+    "duration": 2.76
+  },
+  {
+    "text": "programming for years when you've",
+    "start": 631.64,
+    "duration": 2.759
+  },
+  {
+    "text": "probably been programming for less than",
+    "start": 633.0,
+    "duration": 2.8
+  },
+  {
+    "text": "a week it's obvious they're going to be",
+    "start": 634.399,
+    "duration": 3.481
+  },
+  {
+    "text": "better than you celebrate how far you've",
+    "start": 635.8,
+    "duration": 3.96
+  },
+  {
+    "text": "gone it doesn't matter how small it is",
+    "start": 637.88,
+    "duration": 4.16
+  },
+  {
+    "text": "you did a tutorial you sol some bug it's",
+    "start": 639.76,
+    "duration": 4.48
+  },
+  {
+    "text": "something worth celebrating so have fun",
+    "start": 642.04,
+    "duration": 4.28
+  },
+  {
+    "text": "making some errors making some projects",
+    "start": 644.24,
+    "duration": 5.64
+  },
+  {
+    "text": "and I'll see you all in the next video",
+    "start": 646.32,
+    "duration": 3.56
+  }
+]

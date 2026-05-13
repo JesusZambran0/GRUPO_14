@@ -1,0 +1,2272 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.85,
+    "duration": 3.1
+  },
+  {
+    "text": "hello everybody and welcome to a brand",
+    "start": 8.48,
+    "duration": 4.239
+  },
+  {
+    "text": "new tutorial series on this channel",
+    "start": 10.639,
+    "duration": 4.08
+  },
+  {
+    "text": "where i'm going to be covering the rust",
+    "start": 12.719,
+    "duration": 4.001
+  },
+  {
+    "text": "programming language now i'm super",
+    "start": 14.719,
+    "duration": 4.081
+  },
+  {
+    "text": "excited about this series rust is an",
+    "start": 16.72,
+    "duration": 4.08
+  },
+  {
+    "text": "awesome programming language i've really",
+    "start": 18.8,
+    "duration": 3.92
+  },
+  {
+    "text": "been enjoying it over the past few days",
+    "start": 20.8,
+    "duration": 3.2
+  },
+  {
+    "text": "and i think you guys are going to enjoy",
+    "start": 22.72,
+    "duration": 3.44
+  },
+  {
+    "text": "it as well going through this series now",
+    "start": 24.0,
+    "duration": 4.0
+  },
+  {
+    "text": "a big shout out to my discord server",
+    "start": 26.16,
+    "duration": 3.359
+  },
+  {
+    "text": "discord gg",
+    "start": 28.0,
+    "duration": 3.359
+  },
+  {
+    "text": "twt can join that from the link in the",
+    "start": 29.519,
+    "duration": 3.761
+  },
+  {
+    "text": "description for actually recommending",
+    "start": 31.359,
+    "duration": 4.401
+  },
+  {
+    "text": "this video idea and kind of constantly",
+    "start": 33.28,
+    "duration": 4.799
+  },
+  {
+    "text": "bombarding me about rust because now i'm",
+    "start": 35.76,
+    "duration": 4.08
+  },
+  {
+    "text": "finally making it they have convinced me",
+    "start": 38.079,
+    "duration": 3.521
+  },
+  {
+    "text": "i'm gonna go through and teach you the",
+    "start": 39.84,
+    "duration": 3.68
+  },
+  {
+    "text": "rust language ideally here we're going",
+    "start": 41.6,
+    "duration": 4.24
+  },
+  {
+    "text": "to have between 15 and 20 videos in this",
+    "start": 43.52,
+    "duration": 4.08
+  },
+  {
+    "text": "series i'm going to cover everything",
+    "start": 45.84,
+    "duration": 3.6
+  },
+  {
+    "text": "from the complete basics so setting up",
+    "start": 47.6,
+    "duration": 3.76
+  },
+  {
+    "text": "your environment to some more advanced",
+    "start": 49.44,
+    "duration": 3.759
+  },
+  {
+    "text": "rust concepts and show you some of the",
+    "start": 51.36,
+    "duration": 4.4
+  },
+  {
+    "text": "power of the rust programming language",
+    "start": 53.199,
+    "duration": 4.561
+  },
+  {
+    "text": "with that said i will quickly mention",
+    "start": 55.76,
+    "duration": 4.08
+  },
+  {
+    "text": "here that this series is not designed",
+    "start": 57.76,
+    "duration": 4.16
+  },
+  {
+    "text": "for complete beginners i'm assuming you",
+    "start": 59.84,
+    "duration": 4.399
+  },
+  {
+    "text": "have some familiarity with programming",
+    "start": 61.92,
+    "duration": 4.16
+  },
+  {
+    "text": "you've touched programming languages",
+    "start": 64.239,
+    "duration": 4.801
+  },
+  {
+    "text": "before or at least one before otherwise",
+    "start": 66.08,
+    "duration": 5.039
+  },
+  {
+    "text": "it will be a little hard to follow along",
+    "start": 69.04,
+    "duration": 3.92
+  },
+  {
+    "text": "here however if you are a beginner",
+    "start": 71.119,
+    "duration": 3.761
+  },
+  {
+    "text": "programmer that's fine i'm just assuming",
+    "start": 72.96,
+    "duration": 3.76
+  },
+  {
+    "text": "you kind of know what a variable is you",
+    "start": 74.88,
+    "duration": 3.599
+  },
+  {
+    "text": "understand what a command prompt in a",
+    "start": 76.72,
+    "duration": 4.0
+  },
+  {
+    "text": "terminal is i'm not going to explain all",
+    "start": 78.479,
+    "duration": 4.401
+  },
+  {
+    "text": "of the super basic stuff that i imagine",
+    "start": 80.72,
+    "duration": 4.0
+  },
+  {
+    "text": "most of you are familiar with now with",
+    "start": 82.88,
+    "duration": 3.68
+  },
+  {
+    "text": "that said if you are a complete beginner",
+    "start": 84.72,
+    "duration": 3.439
+  },
+  {
+    "text": "programmer or you're kind of in the",
+    "start": 86.56,
+    "duration": 2.96
+  },
+  {
+    "text": "beginner stages and you're looking to",
+    "start": 88.159,
+    "duration": 3.121
+  },
+  {
+    "text": "get better at programming you can check",
+    "start": 89.52,
+    "duration": 4.0
+  },
+  {
+    "text": "out my course programming expert dot io",
+    "start": 91.28,
+    "duration": 4.159
+  },
+  {
+    "text": "you can use discount code tim that is",
+    "start": 93.52,
+    "duration": 3.76
+  },
+  {
+    "text": "literally the best resource it's",
+    "start": 95.439,
+    "duration": 3.601
+  },
+  {
+    "text": "interactive and it will teach you how to",
+    "start": 97.28,
+    "duration": 3.519
+  },
+  {
+    "text": "get up to a software engineering level",
+    "start": 99.04,
+    "duration": 3.68
+  },
+  {
+    "text": "in programming really as fast as",
+    "start": 100.799,
+    "duration": 3.68
+  },
+  {
+    "text": "possible so check that out from the link",
+    "start": 102.72,
+    "duration": 3.6
+  },
+  {
+    "text": "in the description and with that said",
+    "start": 104.479,
+    "duration": 3.441
+  },
+  {
+    "text": "let's get into the rust language here",
+    "start": 106.32,
+    "duration": 3.2
+  },
+  {
+    "text": "i'm going to give you a quick intro to",
+    "start": 107.92,
+    "duration": 3.36
+  },
+  {
+    "text": "the language show you how to set up your",
+    "start": 109.52,
+    "duration": 4.0
+  },
+  {
+    "text": "environment for mac linux and windows",
+    "start": 111.28,
+    "duration": 4.479
+  },
+  {
+    "text": "then we'll write and compile our first",
+    "start": 113.52,
+    "duration": 4.32
+  },
+  {
+    "text": "rust program so as i was saying i'm just",
+    "start": 115.759,
+    "duration": 3.761
+  },
+  {
+    "text": "going to give you a quick intro here to",
+    "start": 117.84,
+    "duration": 3.52
+  },
+  {
+    "text": "rust spend a minute or two talking about",
+    "start": 119.52,
+    "duration": 3.52
+  },
+  {
+    "text": "some of the benefits and features of the",
+    "start": 121.36,
+    "duration": 3.2
+  },
+  {
+    "text": "language then we'll get into the",
+    "start": 123.04,
+    "duration": 4.32
+  },
+  {
+    "text": "installation so rust is a statically and",
+    "start": 124.56,
+    "duration": 5.039
+  },
+  {
+    "text": "strongly typed programming language it's",
+    "start": 127.36,
+    "duration": 4.239
+  },
+  {
+    "text": "also compiled and what that means is",
+    "start": 129.599,
+    "duration": 4.0
+  },
+  {
+    "text": "that if you write a rust program you",
+    "start": 131.599,
+    "duration": 5.201
+  },
+  {
+    "text": "compile it into a binary executable file",
+    "start": 133.599,
+    "duration": 5.601
+  },
+  {
+    "text": "and that file can be ran by anyone who",
+    "start": 136.8,
+    "duration": 4.799
+  },
+  {
+    "text": "doesn't actually have rust installed so",
+    "start": 139.2,
+    "duration": 4.24
+  },
+  {
+    "text": "this differs from something like python",
+    "start": 141.599,
+    "duration": 4.321
+  },
+  {
+    "text": "or javascript or ruby where you actually",
+    "start": 143.44,
+    "duration": 4.799
+  },
+  {
+    "text": "need a python interpreter for example on",
+    "start": 145.92,
+    "duration": 4.399
+  },
+  {
+    "text": "your system to be able to run the code",
+    "start": 148.239,
+    "duration": 4.0
+  },
+  {
+    "text": "this is different someone does not have",
+    "start": 150.319,
+    "duration": 4.241
+  },
+  {
+    "text": "to have rust installed to run your rust",
+    "start": 152.239,
+    "duration": 4.08
+  },
+  {
+    "text": "program assuming they're on the same",
+    "start": 154.56,
+    "duration": 3.84
+  },
+  {
+    "text": "operating system that you are on when",
+    "start": 156.319,
+    "duration": 4.721
+  },
+  {
+    "text": "you compiled the program continuing here",
+    "start": 158.4,
+    "duration": 4.72
+  },
+  {
+    "text": "rust is known as a very fast and",
+    "start": 161.04,
+    "duration": 4.4
+  },
+  {
+    "text": "reliable programming language it's very",
+    "start": 163.12,
+    "duration": 4.72
+  },
+  {
+    "text": "good at error handling and catching bugs",
+    "start": 165.44,
+    "duration": 4.24
+  },
+  {
+    "text": "and a lot of developers use it because",
+    "start": 167.84,
+    "duration": 3.6
+  },
+  {
+    "text": "it is very efficient like it's a very",
+    "start": 169.68,
+    "duration": 3.919
+  },
+  {
+    "text": "fast language in terms of execution",
+    "start": 171.44,
+    "duration": 4.079
+  },
+  {
+    "text": "speed but it also is not extremely",
+    "start": 173.599,
+    "duration": 4.161
+  },
+  {
+    "text": "difficult to write in the main benefit",
+    "start": 175.519,
+    "duration": 4.08
+  },
+  {
+    "text": "of rust is that it has a bunch of high",
+    "start": 177.76,
+    "duration": 3.759
+  },
+  {
+    "text": "level features but it also gives you",
+    "start": 179.599,
+    "duration": 4.881
+  },
+  {
+    "text": "control of lower level features and code",
+    "start": 181.519,
+    "duration": 4.72
+  },
+  {
+    "text": "without kind of the difficulty of",
+    "start": 184.48,
+    "duration": 3.92
+  },
+  {
+    "text": "languages that typically do that like c",
+    "start": 186.239,
+    "duration": 4.881
+  },
+  {
+    "text": "or c plus plus so really that is why you",
+    "start": 188.4,
+    "duration": 4.24
+  },
+  {
+    "text": "would use rust you want to make an",
+    "start": 191.12,
+    "duration": 3.839
+  },
+  {
+    "text": "efficient scalable very fast system of",
+    "start": 192.64,
+    "duration": 3.92
+  },
+  {
+    "text": "some sort but you don't want to deal",
+    "start": 194.959,
+    "duration": 3.441
+  },
+  {
+    "text": "with kind of the annoyance of writing",
+    "start": 196.56,
+    "duration": 4.16
+  },
+  {
+    "text": "code for example in c yet you still want",
+    "start": 198.4,
+    "duration": 4.24
+  },
+  {
+    "text": "to have the control of those low level",
+    "start": 200.72,
+    "duration": 3.84
+  },
+  {
+    "text": "features again this is a super high",
+    "start": 202.64,
+    "duration": 3.84
+  },
+  {
+    "text": "level overview of the language there's a",
+    "start": 204.56,
+    "duration": 3.84
+  },
+  {
+    "text": "ton of other awesome features and i have",
+    "start": 206.48,
+    "duration": 3.44
+  },
+  {
+    "text": "a little list here i'm going to read off",
+    "start": 208.4,
+    "duration": 3.119
+  },
+  {
+    "text": "of some of the things you can make with",
+    "start": 209.92,
+    "duration": 2.56
+  },
+  {
+    "text": "rust",
+    "start": 211.519,
+    "duration": 3.041
+  },
+  {
+    "text": "so rust allows you to make command line",
+    "start": 212.48,
+    "duration": 5.36
+  },
+  {
+    "text": "tools web services devops tools embedded",
+    "start": 214.56,
+    "duration": 5.52
+  },
+  {
+    "text": "devices or embedded systems",
+    "start": 217.84,
+    "duration": 3.84
+  },
+  {
+    "text": "cryptocurrency related stuff",
+    "start": 220.08,
+    "duration": 3.12
+  },
+  {
+    "text": "bioinformatics",
+    "start": 221.68,
+    "duration": 3.6
+  },
+  {
+    "text": "search engines machine learning and it's",
+    "start": 223.2,
+    "duration": 4.24
+  },
+  {
+    "text": "actually used in part of the firefox",
+    "start": 225.28,
+    "duration": 4.08
+  },
+  {
+    "text": "browser if you want to learn more about",
+    "start": 227.44,
+    "duration": 3.92
+  },
+  {
+    "text": "this language i will link the rust",
+    "start": 229.36,
+    "duration": 3.599
+  },
+  {
+    "text": "programming language book in the",
+    "start": 231.36,
+    "duration": 3.76
+  },
+  {
+    "text": "description this is completely free this",
+    "start": 232.959,
+    "duration": 3.521
+  },
+  {
+    "text": "is the official kind of rust",
+    "start": 235.12,
+    "duration": 3.36
+  },
+  {
+    "text": "documentation here for getting started",
+    "start": 236.48,
+    "duration": 4.0
+  },
+  {
+    "text": "and learning some concepts and really",
+    "start": 238.48,
+    "duration": 3.119
+  },
+  {
+    "text": "what i'm going to be doing in this",
+    "start": 240.48,
+    "duration": 3.92
+  },
+  {
+    "text": "series is following along with this book",
+    "start": 241.599,
+    "duration": 4.401
+  },
+  {
+    "text": "and kind of just picking out the more",
+    "start": 244.4,
+    "duration": 3.759
+  },
+  {
+    "text": "important information and giving you a",
+    "start": 246.0,
+    "duration": 4.0
+  },
+  {
+    "text": "almost summary or overview of the",
+    "start": 248.159,
+    "duration": 3.36
+  },
+  {
+    "text": "important topics without getting into",
+    "start": 250.0,
+    "duration": 3.84
+  },
+  {
+    "text": "all of the super kind of nuanced details",
+    "start": 251.519,
+    "duration": 3.601
+  },
+  {
+    "text": "that you don't really need to know to",
+    "start": 253.84,
+    "duration": 2.959
+  },
+  {
+    "text": "quickly pick up the language so if you",
+    "start": 255.12,
+    "duration": 3.6
+  },
+  {
+    "text": "want kind of a text-based resource here",
+    "start": 256.799,
+    "duration": 3.84
+  },
+  {
+    "text": "to follow along with go to this book",
+    "start": 258.72,
+    "duration": 3.28
+  },
+  {
+    "text": "again everything i'm teaching is going",
+    "start": 260.639,
+    "duration": 2.961
+  },
+  {
+    "text": "to be pretty much directly from here",
+    "start": 262.0,
+    "duration": 2.8
+  },
+  {
+    "text": "although i'll come up with my own",
+    "start": 263.6,
+    "duration": 2.96
+  },
+  {
+    "text": "examples and kind of add some more",
+    "start": 264.8,
+    "duration": 4.399
+  },
+  {
+    "text": "detail to this so with that said that is",
+    "start": 266.56,
+    "duration": 4.96
+  },
+  {
+    "text": "rust again a great programming language",
+    "start": 269.199,
+    "duration": 4.321
+  },
+  {
+    "text": "relatively easy to learn at least from",
+    "start": 271.52,
+    "duration": 4.16
+  },
+  {
+    "text": "my perspective with that said let's get",
+    "start": 273.52,
+    "duration": 3.84
+  },
+  {
+    "text": "into the setup and start writing some",
+    "start": 275.68,
+    "duration": 3.2
+  },
+  {
+    "text": "rust code all right so now we're going",
+    "start": 277.36,
+    "duration": 3.52
+  },
+  {
+    "text": "to move on to installation now there is",
+    "start": 278.88,
+    "duration": 4.08
+  },
+  {
+    "text": "different steps here for windows mac and",
+    "start": 280.88,
+    "duration": 4.24
+  },
+  {
+    "text": "linux so just go to the appropriate time",
+    "start": 282.96,
+    "duration": 4.56
+  },
+  {
+    "text": "stamp in the video player for which",
+    "start": 285.12,
+    "duration": 4.96
+  },
+  {
+    "text": "operating system uh reflects yours now",
+    "start": 287.52,
+    "duration": 4.48
+  },
+  {
+    "text": "i'm going to show you windows first so",
+    "start": 290.08,
+    "duration": 4.08
+  },
+  {
+    "text": "to install rust on windows first of all",
+    "start": 292.0,
+    "duration": 4.24
+  },
+  {
+    "text": "you can reference this page right here",
+    "start": 294.16,
+    "duration": 3.44
+  },
+  {
+    "text": "this has all the installation",
+    "start": 296.24,
+    "duration": 3.04
+  },
+  {
+    "text": "instructions in case for some reason",
+    "start": 297.6,
+    "duration": 2.96
+  },
+  {
+    "text": "what i'm showing you doesn't work",
+    "start": 299.28,
+    "duration": 3.199
+  },
+  {
+    "text": "although it should uh anyways what we",
+    "start": 300.56,
+    "duration": 4.32
+  },
+  {
+    "text": "need to do on windows is go to this page",
+    "start": 302.479,
+    "duration": 4.321
+  },
+  {
+    "text": "right here i'll leave this direct link",
+    "start": 304.88,
+    "duration": 3.44
+  },
+  {
+    "text": "in the description and we need to",
+    "start": 306.8,
+    "duration": 3.92
+  },
+  {
+    "text": "download the graphical installer for",
+    "start": 308.32,
+    "duration": 6.24
+  },
+  {
+    "text": "rust so we can download rust knit.exe",
+    "start": 310.72,
+    "duration": 5.84
+  },
+  {
+    "text": "we're going to use the 64-bit version",
+    "start": 314.56,
+    "duration": 3.199
+  },
+  {
+    "text": "unless for some reason you're on a",
+    "start": 316.56,
+    "duration": 3.6
+  },
+  {
+    "text": "32-bit machine although i imagine most",
+    "start": 317.759,
+    "duration": 4.72
+  },
+  {
+    "text": "of you are on 64-bit so just click on 64",
+    "start": 320.16,
+    "duration": 4.16
+  },
+  {
+    "text": "if you're unsure anyways you're going to",
+    "start": 322.479,
+    "duration": 3.841
+  },
+  {
+    "text": "download that uh that is going to give",
+    "start": 324.32,
+    "duration": 3.599
+  },
+  {
+    "text": "you a program that you can just double",
+    "start": 326.32,
+    "duration": 3.84
+  },
+  {
+    "text": "click on wherever you download it to so",
+    "start": 327.919,
+    "duration": 3.521
+  },
+  {
+    "text": "i'm just going to load it up i already",
+    "start": 330.16,
+    "duration": 2.879
+  },
+  {
+    "text": "do have rust installed but just so you",
+    "start": 331.44,
+    "duration": 3.36
+  },
+  {
+    "text": "guys can see how to go through this and",
+    "start": 333.039,
+    "duration": 3.841
+  },
+  {
+    "text": "all you have to do here is hit one so",
+    "start": 334.8,
+    "duration": 3.04
+  },
+  {
+    "text": "you're gonna proceed with the",
+    "start": 336.88,
+    "duration": 2.56
+  },
+  {
+    "text": "installation just the default you don't",
+    "start": 337.84,
+    "duration": 3.76
+  },
+  {
+    "text": "need to mess with anything and then hit",
+    "start": 339.44,
+    "duration": 4.16
+  },
+  {
+    "text": "enter now i already have this installed",
+    "start": 341.6,
+    "duration": 4.4
+  },
+  {
+    "text": "so it went very fast uh but for you guys",
+    "start": 343.6,
+    "duration": 4.0
+  },
+  {
+    "text": "it will install rust and then you should",
+    "start": 346.0,
+    "duration": 3.28
+  },
+  {
+    "text": "be good to go now there is one more",
+    "start": 347.6,
+    "duration": 3.68
+  },
+  {
+    "text": "thing on windows however you do need to",
+    "start": 349.28,
+    "duration": 3.52
+  },
+  {
+    "text": "install and this is going to be the",
+    "start": 351.28,
+    "duration": 4.08
+  },
+  {
+    "text": "microsoft c plus plus build tools so",
+    "start": 352.8,
+    "duration": 4.48
+  },
+  {
+    "text": "i'll leave this link in the description",
+    "start": 355.36,
+    "duration": 4.08
+  },
+  {
+    "text": "go here download the build tools this is",
+    "start": 357.28,
+    "duration": 4.479
+  },
+  {
+    "text": "the 2019 build tools which is what we",
+    "start": 359.44,
+    "duration": 4.0
+  },
+  {
+    "text": "want and then when you go through this",
+    "start": 361.759,
+    "duration": 3.121
+  },
+  {
+    "text": "installer here",
+    "start": 363.44,
+    "duration": 2.96
+  },
+  {
+    "text": "mine probably looks a little bit",
+    "start": 364.88,
+    "duration": 2.879
+  },
+  {
+    "text": "different than yours so i'm not actually",
+    "start": 366.4,
+    "duration": 3.76
+  },
+  {
+    "text": "going to run it but as it says here in",
+    "start": 367.759,
+    "duration": 4.641
+  },
+  {
+    "text": "the installation documentation you need",
+    "start": 370.16,
+    "duration": 4.64
+  },
+  {
+    "text": "to make sure that you select c plus plus",
+    "start": 372.4,
+    "duration": 5.76
+  },
+  {
+    "text": "build tools and the windows 10 sdk as",
+    "start": 374.8,
+    "duration": 5.839
+  },
+  {
+    "text": "well as the english language pack",
+    "start": 378.16,
+    "duration": 4.72
+  },
+  {
+    "text": "now i think by default it will install",
+    "start": 380.639,
+    "duration": 3.521
+  },
+  {
+    "text": "these for you at least that's what it",
+    "start": 382.88,
+    "duration": 2.96
+  },
+  {
+    "text": "did for me but if for some reason you're",
+    "start": 384.16,
+    "duration": 3.28
+  },
+  {
+    "text": "having some options you need to select",
+    "start": 385.84,
+    "duration": 3.76
+  },
+  {
+    "text": "and uh or select from just make sure you",
+    "start": 387.44,
+    "duration": 3.92
+  },
+  {
+    "text": "select these ones right here so c plus",
+    "start": 389.6,
+    "duration": 4.24
+  },
+  {
+    "text": "plus build tools windows 10 sdk and the",
+    "start": 391.36,
+    "duration": 4.64
+  },
+  {
+    "text": "english language pack after that you",
+    "start": 393.84,
+    "duration": 3.76
+  },
+  {
+    "text": "should be good to go and if you want to",
+    "start": 396.0,
+    "duration": 3.52
+  },
+  {
+    "text": "test if your installation is working",
+    "start": 397.6,
+    "duration": 4.08
+  },
+  {
+    "text": "open up your command prompt on windows",
+    "start": 399.52,
+    "duration": 4.239
+  },
+  {
+    "text": "and just type in rust c and if you get",
+    "start": 401.68,
+    "duration": 3.6
+  },
+  {
+    "text": "some output from this command then",
+    "start": 403.759,
+    "duration": 3.28
+  },
+  {
+    "text": "you're all good to go and we can move on",
+    "start": 405.28,
+    "duration": 3.759
+  },
+  {
+    "text": "to the next step now let me show you the",
+    "start": 407.039,
+    "duration": 4.16
+  },
+  {
+    "text": "installation on mac alright so i'm now",
+    "start": 409.039,
+    "duration": 3.841
+  },
+  {
+    "text": "on my mac computer i'm just going to",
+    "start": 411.199,
+    "duration": 3.361
+  },
+  {
+    "text": "quickly run you through the steps this",
+    "start": 412.88,
+    "duration": 3.599
+  },
+  {
+    "text": "will be the same on linux as well by the",
+    "start": 414.56,
+    "duration": 4.0
+  },
+  {
+    "text": "way so i'm on the page for rust",
+    "start": 416.479,
+    "duration": 4.081
+  },
+  {
+    "text": "installation notice now it's not giving",
+    "start": 418.56,
+    "duration": 3.759
+  },
+  {
+    "text": "me the windows download buttons because",
+    "start": 420.56,
+    "duration": 3.759
+  },
+  {
+    "text": "i'm on mac and all i'm going to do here",
+    "start": 422.319,
+    "duration": 4.0
+  },
+  {
+    "text": "is just copy this now this link will be",
+    "start": 424.319,
+    "duration": 3.28
+  },
+  {
+    "text": "in the description so if you want to",
+    "start": 426.319,
+    "duration": 3.6
+  },
+  {
+    "text": "find this command just click this link",
+    "start": 427.599,
+    "duration": 3.681
+  },
+  {
+    "text": "and what we're going to you're going to",
+    "start": 429.919,
+    "duration": 3.28
+  },
+  {
+    "text": "do here sorry is open up a terminal",
+    "start": 431.28,
+    "duration": 3.44
+  },
+  {
+    "text": "window and we're just going to paste",
+    "start": 433.199,
+    "duration": 3.761
+  },
+  {
+    "text": "this in so i believe i can use command v",
+    "start": 434.72,
+    "duration": 4.08
+  },
+  {
+    "text": "to paste that if that doesn't work for",
+    "start": 436.96,
+    "duration": 3.519
+  },
+  {
+    "text": "you then try right clicking on your",
+    "start": 438.8,
+    "duration": 3.6
+  },
+  {
+    "text": "mouse and it should paste that into your",
+    "start": 440.479,
+    "duration": 4.16
+  },
+  {
+    "text": "terminal now what you can do here is hit",
+    "start": 442.4,
+    "duration": 4.32
+  },
+  {
+    "text": "enter and this should actually download",
+    "start": 444.639,
+    "duration": 4.241
+  },
+  {
+    "text": "the installer for you and run through",
+    "start": 446.72,
+    "duration": 3.84
+  },
+  {
+    "text": "the rust setup so here we're getting the",
+    "start": 448.88,
+    "duration": 3.039
+  },
+  {
+    "text": "same thing we got in the windows",
+    "start": 450.56,
+    "duration": 3.52
+  },
+  {
+    "text": "installation all we need to do is hit",
+    "start": 451.919,
+    "duration": 3.84
+  },
+  {
+    "text": "one to proceed with the default",
+    "start": 454.08,
+    "duration": 4.32
+  },
+  {
+    "text": "installation and then hit enter and it",
+    "start": 455.759,
+    "duration": 4.801
+  },
+  {
+    "text": "should install rust for us now we do",
+    "start": 458.4,
+    "duration": 4.4
+  },
+  {
+    "text": "also need a c compiler here to be able",
+    "start": 460.56,
+    "duration": 4.88
+  },
+  {
+    "text": "to run rust on mac however you should",
+    "start": 462.8,
+    "duration": 4.72
+  },
+  {
+    "text": "have one installed by default and once",
+    "start": 465.44,
+    "duration": 3.439
+  },
+  {
+    "text": "this is finished i'll show you how we",
+    "start": 467.52,
+    "duration": 3.04
+  },
+  {
+    "text": "can test the installation to make sure",
+    "start": 468.879,
+    "duration": 3.201
+  },
+  {
+    "text": "it's working all right so as you can see",
+    "start": 470.56,
+    "duration": 3.759
+  },
+  {
+    "text": "here rust is now installed however",
+    "start": 472.08,
+    "duration": 3.76
+  },
+  {
+    "text": "before we can get rust to work we do",
+    "start": 474.319,
+    "duration": 3.681
+  },
+  {
+    "text": "need to restart our terminal window so",
+    "start": 475.84,
+    "duration": 3.759
+  },
+  {
+    "text": "i'm just going to close the terminal",
+    "start": 478.0,
+    "duration": 3.52
+  },
+  {
+    "text": "here i'm just going to open up a new",
+    "start": 479.599,
+    "duration": 4.88
+  },
+  {
+    "text": "window so let's go new window here and",
+    "start": 481.52,
+    "duration": 4.399
+  },
+  {
+    "text": "inside of here i'm simply going to type",
+    "start": 484.479,
+    "duration": 3.761
+  },
+  {
+    "text": "the command rust c now if this command",
+    "start": 485.919,
+    "duration": 3.761
+  },
+  {
+    "text": "works for you then you have successfully",
+    "start": 488.24,
+    "duration": 2.88
+  },
+  {
+    "text": "installed rust and you're good to",
+    "start": 489.68,
+    "duration": 3.6
+  },
+  {
+    "text": "continue on with the video if this did",
+    "start": 491.12,
+    "duration": 3.84
+  },
+  {
+    "text": "not work then please check the",
+    "start": 493.28,
+    "duration": 3.44
+  },
+  {
+    "text": "installation documentation again it will",
+    "start": 494.96,
+    "duration": 3.44
+  },
+  {
+    "text": "be in the description there may be an",
+    "start": 496.72,
+    "duration": 3.52
+  },
+  {
+    "text": "additional step you need to follow or",
+    "start": 498.4,
+    "duration": 3.28
+  },
+  {
+    "text": "you may have not actually ran this",
+    "start": 500.24,
+    "duration": 3.28
+  },
+  {
+    "text": "command correctly with that said that's",
+    "start": 501.68,
+    "duration": 2.88
+  },
+  {
+    "text": "all that i have for you for the",
+    "start": 503.52,
+    "duration": 2.799
+  },
+  {
+    "text": "installation now let's actually write",
+    "start": 504.56,
+    "duration": 3.919
+  },
+  {
+    "text": "some rust code alright so i'm back on my",
+    "start": 506.319,
+    "duration": 3.841
+  },
+  {
+    "text": "windows machine and i think as i",
+    "start": 508.479,
+    "duration": 3.44
+  },
+  {
+    "text": "mentioned i'm going to be using sublime",
+    "start": 510.16,
+    "duration": 3.92
+  },
+  {
+    "text": "text here as my code editor you can use",
+    "start": 511.919,
+    "duration": 3.841
+  },
+  {
+    "text": "whatever you'd like but this one is free",
+    "start": 514.08,
+    "duration": 3.04
+  },
+  {
+    "text": "and what i'll be using so you can",
+    "start": 515.76,
+    "duration": 2.48
+  },
+  {
+    "text": "download this from the link in the",
+    "start": 517.12,
+    "duration": 3.12
+  },
+  {
+    "text": "description if you want and i have it",
+    "start": 518.24,
+    "duration": 4.4
+  },
+  {
+    "text": "open here now to start writing our first",
+    "start": 520.24,
+    "duration": 4.159
+  },
+  {
+    "text": "rust program i'm just going to go here",
+    "start": 522.64,
+    "duration": 4.0
+  },
+  {
+    "text": "to file new file let me just close this",
+    "start": 524.399,
+    "duration": 4.56
+  },
+  {
+    "text": "one here and i'm just going to save this",
+    "start": 526.64,
+    "duration": 5.28
+  },
+  {
+    "text": "file as something that ends in dot rs",
+    "start": 528.959,
+    "duration": 5.281
+  },
+  {
+    "text": "for now i'm going to go with main.rs and",
+    "start": 531.92,
+    "duration": 4.56
+  },
+  {
+    "text": "rs is the rust file extension so you",
+    "start": 534.24,
+    "duration": 4.159
+  },
+  {
+    "text": "need dot rs uh you can call this",
+    "start": 536.48,
+    "duration": 3.52
+  },
+  {
+    "text": "whatever you want but don't have any",
+    "start": 538.399,
+    "duration": 3.601
+  },
+  {
+    "text": "spaces in the name and if you wanted to",
+    "start": 540.0,
+    "duration": 3.92
+  },
+  {
+    "text": "have a space then put an underscore so",
+    "start": 542.0,
+    "duration": 3.68
+  },
+  {
+    "text": "if you want to do like hello",
+    "start": 543.92,
+    "duration": 3.68
+  },
+  {
+    "text": "world rather than not do like hello",
+    "start": 545.68,
+    "duration": 3.76
+  },
+  {
+    "text": "underscore world that's the convention",
+    "start": 547.6,
+    "duration": 3.679
+  },
+  {
+    "text": "for naming so for now though let's just",
+    "start": 549.44,
+    "duration": 5.04
+  },
+  {
+    "text": "call this main.rs and now we have a rust",
+    "start": 551.279,
+    "duration": 5.041
+  },
+  {
+    "text": "file now you should automatically get",
+    "start": 554.48,
+    "duration": 3.6
+  },
+  {
+    "text": "syntax highlighting for this if you're",
+    "start": 556.32,
+    "duration": 3.6
+  },
+  {
+    "text": "in vs code you may need to install the",
+    "start": 558.08,
+    "duration": 4.16
+  },
+  {
+    "text": "rust extension but let's write our first",
+    "start": 559.92,
+    "duration": 4.64
+  },
+  {
+    "text": "rust program so to do this i'm simply",
+    "start": 562.24,
+    "duration": 4.719
+  },
+  {
+    "text": "going to say fn standing for function",
+    "start": 564.56,
+    "duration": 4.88
+  },
+  {
+    "text": "i'm going to write the main function i'm",
+    "start": 566.959,
+    "duration": 4.721
+  },
+  {
+    "text": "going to put a set of parentheses a set",
+    "start": 569.44,
+    "duration": 4.399
+  },
+  {
+    "text": "of curly braces like this or brackets",
+    "start": 571.68,
+    "duration": 3.68
+  },
+  {
+    "text": "whatever you call them and then i'm",
+    "start": 573.839,
+    "duration": 4.401
+  },
+  {
+    "text": "going to write print ln exclamation",
+    "start": 575.36,
+    "duration": 4.24
+  },
+  {
+    "text": "point i'm going to put a set of",
+    "start": 578.24,
+    "duration": 3.2
+  },
+  {
+    "text": "parentheses and inside of here i'm going",
+    "start": 579.6,
+    "duration": 3.919
+  },
+  {
+    "text": "to put a string that i want to print out",
+    "start": 581.44,
+    "duration": 4.0
+  },
+  {
+    "text": "now of course we need to do hello world",
+    "start": 583.519,
+    "duration": 3.76
+  },
+  {
+    "text": "that's what we do for our first programs",
+    "start": 585.44,
+    "duration": 4.16
+  },
+  {
+    "text": "every time and let me save this file and",
+    "start": 587.279,
+    "duration": 4.721
+  },
+  {
+    "text": "i've now written my first rus program so",
+    "start": 589.6,
+    "duration": 3.84
+  },
+  {
+    "text": "i'll quickly break this down for you",
+    "start": 592.0,
+    "duration": 2.88
+  },
+  {
+    "text": "then i'll show you how we actually run",
+    "start": 593.44,
+    "duration": 4.48
+  },
+  {
+    "text": "this so fn stands for function we'll get",
+    "start": 594.88,
+    "duration": 5.04
+  },
+  {
+    "text": "into functions later but the main",
+    "start": 597.92,
+    "duration": 4.0
+  },
+  {
+    "text": "function is a special function in rust",
+    "start": 599.92,
+    "duration": 3.28
+  },
+  {
+    "text": "that's going to be executed",
+    "start": 601.92,
+    "duration": 3.44
+  },
+  {
+    "text": "automatically when you run your rust",
+    "start": 603.2,
+    "duration": 3.68
+  },
+  {
+    "text": "program so you need to make sure you",
+    "start": 605.36,
+    "duration": 3.44
+  },
+  {
+    "text": "call this function main it's kind of the",
+    "start": 606.88,
+    "duration": 4.0
+  },
+  {
+    "text": "entry point of your code and anything",
+    "start": 608.8,
+    "duration": 3.76
+  },
+  {
+    "text": "inside of here will run",
+    "start": 610.88,
+    "duration": 4.24
+  },
+  {
+    "text": "immediately now in rust you're supposed",
+    "start": 612.56,
+    "duration": 6.0
+  },
+  {
+    "text": "to have i believe it is four spaces not",
+    "start": 615.12,
+    "duration": 5.2
+  },
+  {
+    "text": "tabs for indentation although let me",
+    "start": 618.56,
+    "duration": 3.6
+  },
+  {
+    "text": "check on that so rust does actually",
+    "start": 620.32,
+    "duration": 3.68
+  },
+  {
+    "text": "recommend that you have four spaces as",
+    "start": 622.16,
+    "duration": 3.84
+  },
+  {
+    "text": "opposed to tabs for your indentation",
+    "start": 624.0,
+    "duration": 3.76
+  },
+  {
+    "text": "level it doesn't matter so long as",
+    "start": 626.0,
+    "duration": 3.12
+  },
+  {
+    "text": "you're inside of the correct set of",
+    "start": 627.76,
+    "duration": 2.96
+  },
+  {
+    "text": "parenthesis i'm actually just going to",
+    "start": 629.12,
+    "duration": 3.44
+  },
+  {
+    "text": "use tabs because they're easier but just",
+    "start": 630.72,
+    "duration": 3.359
+  },
+  {
+    "text": "wanted to mention in case any of you are",
+    "start": 632.56,
+    "duration": 4.24
+  },
+  {
+    "text": "wondering four spaces rather than taps",
+    "start": 634.079,
+    "duration": 4.721
+  },
+  {
+    "text": "continuing here we have print ln now",
+    "start": 636.8,
+    "duration": 4.159
+  },
+  {
+    "text": "this stands for print line and then we",
+    "start": 638.8,
+    "duration": 4.0
+  },
+  {
+    "text": "put an exclamation point now the",
+    "start": 640.959,
+    "duration": 3.681
+  },
+  {
+    "text": "exclamation point actually means that",
+    "start": 642.8,
+    "duration": 3.76
+  },
+  {
+    "text": "we're running something called a macro",
+    "start": 644.64,
+    "duration": 3.52
+  },
+  {
+    "text": "i'm not going to get to that for a while",
+    "start": 646.56,
+    "duration": 3.279
+  },
+  {
+    "text": "but this is different than a function",
+    "start": 648.16,
+    "duration": 4.08
+  },
+  {
+    "text": "this is actually a rust macro and this",
+    "start": 649.839,
+    "duration": 4.401
+  },
+  {
+    "text": "is going to take one string argument",
+    "start": 652.24,
+    "duration": 4.4
+  },
+  {
+    "text": "here that allows us to print this out to",
+    "start": 654.24,
+    "duration": 3.839
+  },
+  {
+    "text": "the screen so that's really all we're",
+    "start": 656.64,
+    "duration": 3.199
+  },
+  {
+    "text": "doing we're printing the string hello",
+    "start": 658.079,
+    "duration": 3.76
+  },
+  {
+    "text": "world to the screen and this is a string",
+    "start": 659.839,
+    "duration": 3.841
+  },
+  {
+    "text": "because it's surrounded in double",
+    "start": 661.839,
+    "duration": 4.161
+  },
+  {
+    "text": "quotation marks okay so let me save the",
+    "start": 663.68,
+    "duration": 4.32
+  },
+  {
+    "text": "program here now that we have our first",
+    "start": 666.0,
+    "duration": 3.839
+  },
+  {
+    "text": "program we need to know how to run this",
+    "start": 668.0,
+    "duration": 3.68
+  },
+  {
+    "text": "now the steps will be very similar on",
+    "start": 669.839,
+    "duration": 4.161
+  },
+  {
+    "text": "mac or windows same with linux we just",
+    "start": 671.68,
+    "duration": 4.24
+  },
+  {
+    "text": "need to open up a terminal or a command",
+    "start": 674.0,
+    "duration": 3.68
+  },
+  {
+    "text": "prompt all right so now that you have a",
+    "start": 675.92,
+    "duration": 3.919
+  },
+  {
+    "text": "terminal or command prompt open what you",
+    "start": 677.68,
+    "duration": 4.32
+  },
+  {
+    "text": "need to do is get into the directory",
+    "start": 679.839,
+    "duration": 4.321
+  },
+  {
+    "text": "where your rust code is so first you",
+    "start": 682.0,
+    "duration": 3.839
+  },
+  {
+    "text": "need to know where you saved it i",
+    "start": 684.16,
+    "duration": 3.52
+  },
+  {
+    "text": "imagine you guys can figure that out but",
+    "start": 685.839,
+    "duration": 3.921
+  },
+  {
+    "text": "mine is actually in a folder called rust",
+    "start": 687.68,
+    "duration": 4.56
+  },
+  {
+    "text": "tutorial which is on my desktop so from",
+    "start": 689.76,
+    "duration": 3.92
+  },
+  {
+    "text": "my command prompt here i'm going to type",
+    "start": 692.24,
+    "duration": 3.76
+  },
+  {
+    "text": "cd standing for change directory and i'm",
+    "start": 693.68,
+    "duration": 4.0
+  },
+  {
+    "text": "going to change into the desktop",
+    "start": 696.0,
+    "duration": 3.519
+  },
+  {
+    "text": "directory then i'm going to change into",
+    "start": 697.68,
+    "duration": 4.08
+  },
+  {
+    "text": "the rust tutorial directory and now that",
+    "start": 699.519,
+    "duration": 4.56
+  },
+  {
+    "text": "i'm here and i type ls you'll see that i",
+    "start": 701.76,
+    "duration": 4.8
+  },
+  {
+    "text": "see the main.rs file now all of these",
+    "start": 704.079,
+    "duration": 4.0
+  },
+  {
+    "text": "commands will work on any operating",
+    "start": 706.56,
+    "duration": 3.6
+  },
+  {
+    "text": "system so you can run them on you know",
+    "start": 708.079,
+    "duration": 4.56
+  },
+  {
+    "text": "windows mac linux etc now that we're",
+    "start": 710.16,
+    "duration": 4.479
+  },
+  {
+    "text": "here we can actually run the russ c",
+    "start": 712.639,
+    "duration": 4.561
+  },
+  {
+    "text": "command which stands for rust compile",
+    "start": 714.639,
+    "duration": 4.64
+  },
+  {
+    "text": "followed by the name of our file which",
+    "start": 717.2,
+    "duration": 4.8
+  },
+  {
+    "text": "in this case is main.rs now when we do",
+    "start": 719.279,
+    "duration": 4.0
+  },
+  {
+    "text": "this what's going to happen is we're",
+    "start": 722.0,
+    "duration": 2.959
+  },
+  {
+    "text": "going to compile what's known as our",
+    "start": 723.279,
+    "duration": 3.601
+  },
+  {
+    "text": "source code which is this file right",
+    "start": 724.959,
+    "duration": 4.801
+  },
+  {
+    "text": "here into an executable binary file",
+    "start": 726.88,
+    "duration": 4.8
+  },
+  {
+    "text": "which will be executable on the",
+    "start": 729.76,
+    "duration": 4.079
+  },
+  {
+    "text": "operating system in which we ran this",
+    "start": 731.68,
+    "duration": 4.0
+  },
+  {
+    "text": "code so if i run this or sorry this",
+    "start": 733.839,
+    "duration": 3.361
+  },
+  {
+    "text": "command so if i run this command on",
+    "start": 735.68,
+    "duration": 3.92
+  },
+  {
+    "text": "windows then the executable file i get",
+    "start": 737.2,
+    "duration": 4.72
+  },
+  {
+    "text": "runs on windows if i do it on mac then",
+    "start": 739.6,
+    "duration": 4.16
+  },
+  {
+    "text": "it runs on mac if i do it on linux it",
+    "start": 741.92,
+    "duration": 4.0
+  },
+  {
+    "text": "runs on linux etc and actually i think",
+    "start": 743.76,
+    "duration": 4.319
+  },
+  {
+    "text": "if you do it on mac it will run on linux",
+    "start": 745.92,
+    "duration": 4.32
+  },
+  {
+    "text": "or mac and same on linux it'll run on",
+    "start": 748.079,
+    "duration": 4.801
+  },
+  {
+    "text": "mac and linux anyways let's hit enter",
+    "start": 750.24,
+    "duration": 4.56
+  },
+  {
+    "text": "here we shouldn't get any output but",
+    "start": 752.88,
+    "duration": 4.0
+  },
+  {
+    "text": "what should happen if we type ls after",
+    "start": 754.8,
+    "duration": 4.2
+  },
+  {
+    "text": "this is we should see that we have a",
+    "start": 756.88,
+    "duration": 5.84
+  },
+  {
+    "text": "main.exe file or just a file called main",
+    "start": 759.0,
+    "duration": 6.04
+  },
+  {
+    "text": "or main.sh or something along those",
+    "start": 762.72,
+    "duration": 4.88
+  },
+  {
+    "text": "lines if you're on mac or linux so this",
+    "start": 765.04,
+    "duration": 5.039
+  },
+  {
+    "text": "is actually the executable binary file",
+    "start": 767.6,
+    "duration": 4.08
+  },
+  {
+    "text": "and this is what we can give to people",
+    "start": 770.079,
+    "duration": 3.76
+  },
+  {
+    "text": "if we wanted them to run our rus code",
+    "start": 771.68,
+    "duration": 4.399
+  },
+  {
+    "text": "without having rust installed so rather",
+    "start": 773.839,
+    "duration": 3.841
+  },
+  {
+    "text": "than giving them the source code which",
+    "start": 776.079,
+    "duration": 4.401
+  },
+  {
+    "text": "is in our rs file we give them the exe",
+    "start": 777.68,
+    "duration": 4.159
+  },
+  {
+    "text": "file and you don't need to worry about",
+    "start": 780.48,
+    "duration": 3.44
+  },
+  {
+    "text": "this third file right here so now how do",
+    "start": 781.839,
+    "duration": 3.921
+  },
+  {
+    "text": "we actually run our code well we've just",
+    "start": 783.92,
+    "duration": 3.919
+  },
+  {
+    "text": "compiled the code now we have the",
+    "start": 785.76,
+    "duration": 4.4
+  },
+  {
+    "text": "executable file and to do this it's a",
+    "start": 787.839,
+    "duration": 3.921
+  },
+  {
+    "text": "bit different on each operating system",
+    "start": 790.16,
+    "duration": 3.84
+  },
+  {
+    "text": "but on windows it's going to be dot",
+    "start": 791.76,
+    "duration": 5.199
+  },
+  {
+    "text": "backslash and then main dot exe like",
+    "start": 794.0,
+    "duration": 5.04
+  },
+  {
+    "text": "that when we run that command it should",
+    "start": 796.959,
+    "duration": 4.0
+  },
+  {
+    "text": "spit out hello world so that's what we",
+    "start": 799.04,
+    "duration": 4.0
+  },
+  {
+    "text": "have inside of the code here and if",
+    "start": 800.959,
+    "duration": 4.081
+  },
+  {
+    "text": "you're on mac or linux it's going to be",
+    "start": 803.04,
+    "duration": 3.52
+  },
+  {
+    "text": "dot the slash is going to be in the",
+    "start": 805.04,
+    "duration": 3.28
+  },
+  {
+    "text": "other direction and then i believe it's",
+    "start": 806.56,
+    "duration": 3.519
+  },
+  {
+    "text": "just going to be main i don't think",
+    "start": 808.32,
+    "duration": 3.6
+  },
+  {
+    "text": "you're going to have a dot exe extension",
+    "start": 810.079,
+    "duration": 3.601
+  },
+  {
+    "text": "on there so you would just do dot slash",
+    "start": 811.92,
+    "duration": 3.68
+  },
+  {
+    "text": "main and you should get the same output",
+    "start": 813.68,
+    "duration": 3.839
+  },
+  {
+    "text": "there in your terminal",
+    "start": 815.6,
+    "duration": 4.239
+  },
+  {
+    "text": "okay let me just clear this with cls",
+    "start": 817.519,
+    "duration": 4.241
+  },
+  {
+    "text": "again the command is russ c the name of",
+    "start": 819.839,
+    "duration": 4.481
+  },
+  {
+    "text": "your source code so main.rs it then",
+    "start": 821.76,
+    "duration": 4.879
+  },
+  {
+    "text": "gives you some type of executable file",
+    "start": 824.32,
+    "duration": 4.48
+  },
+  {
+    "text": "you can then run that executable file",
+    "start": 826.639,
+    "duration": 3.841
+  },
+  {
+    "text": "and there you go you have ran and",
+    "start": 828.8,
+    "duration": 4.479
+  },
+  {
+    "text": "executed your first rust program now if",
+    "start": 830.48,
+    "duration": 4.479
+  },
+  {
+    "text": "you are having trouble navigating here",
+    "start": 833.279,
+    "duration": 3.441
+  },
+  {
+    "text": "in the terminal i will leave a video in",
+    "start": 834.959,
+    "duration": 3.12
+  },
+  {
+    "text": "the description that shows you some",
+    "start": 836.72,
+    "duration": 3.28
+  },
+  {
+    "text": "basic terminal commands you do need to",
+    "start": 838.079,
+    "duration": 3.921
+  },
+  {
+    "text": "be familiar with this to be able to",
+    "start": 840.0,
+    "duration": 4.24
+  },
+  {
+    "text": "execute your rust code properly and i",
+    "start": 842.0,
+    "duration": 3.76
+  },
+  {
+    "text": "won't go through explaining all the cd",
+    "start": 844.24,
+    "duration": 2.959
+  },
+  {
+    "text": "commands so video in the description if",
+    "start": 845.76,
+    "duration": 2.96
+  },
+  {
+    "text": "you aren't able to follow along with",
+    "start": 847.199,
+    "duration": 2.721
+  },
+  {
+    "text": "these steps",
+    "start": 848.72,
+    "duration": 2.96
+  },
+  {
+    "text": "alright so that's really all that i have",
+    "start": 849.92,
+    "duration": 4.0
+  },
+  {
+    "text": "for you in this first video this is our",
+    "start": 851.68,
+    "duration": 3.68
+  },
+  {
+    "text": "first rust program we got the",
+    "start": 853.92,
+    "duration": 3.599
+  },
+  {
+    "text": "installation we are now able to actually",
+    "start": 855.36,
+    "duration": 4.88
+  },
+  {
+    "text": "run and compile our uh what is it rust",
+    "start": 857.519,
+    "duration": 5.041
+  },
+  {
+    "text": "code and in case you were confused there",
+    "start": 860.24,
+    "duration": 4.719
+  },
+  {
+    "text": "again we need to compile first into that",
+    "start": 862.56,
+    "duration": 4.32
+  },
+  {
+    "text": "executable then we could run the",
+    "start": 864.959,
+    "duration": 3.521
+  },
+  {
+    "text": "executable and now that we have the",
+    "start": 866.88,
+    "duration": 3.28
+  },
+  {
+    "text": "executable file we can give that to",
+    "start": 868.48,
+    "duration": 3.44
+  },
+  {
+    "text": "anyone and regardless of their",
+    "start": 870.16,
+    "duration": 3.6
+  },
+  {
+    "text": "environment setup well their operating",
+    "start": 871.92,
+    "duration": 3.2
+  },
+  {
+    "text": "system will matter but other than that",
+    "start": 873.76,
+    "duration": 2.96
+  },
+  {
+    "text": "they should just be able to run that",
+    "start": 875.12,
+    "duration": 3.519
+  },
+  {
+    "text": "code so with that said i will wrap up",
+    "start": 876.72,
+    "duration": 3.76
+  },
+  {
+    "text": "the video here in the next video i'm",
+    "start": 878.639,
+    "duration": 3.521
+  },
+  {
+    "text": "going to show you some rust command line",
+    "start": 880.48,
+    "duration": 2.88
+  },
+  {
+    "text": "tools i'm going to show you how to",
+    "start": 882.16,
+    "duration": 3.359
+  },
+  {
+    "text": "better set up a project then we'll move",
+    "start": 883.36,
+    "duration": 4.0
+  },
+  {
+    "text": "on to some more rust features some more",
+    "start": 885.519,
+    "duration": 4.0
+  },
+  {
+    "text": "syntax and look at all the stuff that",
+    "start": 887.36,
+    "duration": 4.24
+  },
+  {
+    "text": "you'd expect in a programming language",
+    "start": 889.519,
+    "duration": 3.281
+  },
+  {
+    "text": "if you guys enjoyed make sure to leave a",
+    "start": 891.6,
+    "duration": 2.88
+  },
+  {
+    "text": "like subscribe to the channel don't",
+    "start": 892.8,
+    "duration": 3.839
+  },
+  {
+    "text": "forget to check out programmingexpert.io",
+    "start": 894.48,
+    "duration": 3.52
+  },
+  {
+    "text": "from the link in the description and i",
+    "start": 896.639,
+    "duration": 5.201
+  },
+  {
+    "text": "will see you in the next one",
+    "start": 898.0,
+    "duration": 11.89
+  },
+  {
+    "text": "[Music]",
+    "start": 901.84,
+    "duration": 8.05
+  }
+]

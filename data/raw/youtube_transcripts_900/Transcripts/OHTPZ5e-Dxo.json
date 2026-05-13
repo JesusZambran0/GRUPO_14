@@ -1,0 +1,2577 @@
+[
+  {
+    "text": "a while ago I made a game entirely using",
+    "start": 0.04,
+    "duration": 4.44
+  },
+  {
+    "text": "chat GPT you play as a janitor working",
+    "start": 2.32,
+    "duration": 4.32
+  },
+  {
+    "text": "in this top secret underground facility",
+    "start": 4.48,
+    "duration": 3.76
+  },
+  {
+    "text": "clean some dirt and witness a prisoner",
+    "start": 6.64,
+    "duration": 2.959
+  },
+  {
+    "text": "being turned into a gun with this",
+    "start": 8.24,
+    "duration": 3.08
+  },
+  {
+    "text": "machine then you turn the guard into a",
+    "start": 9.599,
+    "duration": 4.2
+  },
+  {
+    "text": "gun with the same machine and escape and",
+    "start": 11.32,
+    "duration": 3.96
+  },
+  {
+    "text": "that's it basically what I'm trying to",
+    "start": 13.799,
+    "duration": 3.56
+  },
+  {
+    "text": "say is that this game sucks and it's all",
+    "start": 15.28,
+    "duration": 4.36
+  },
+  {
+    "text": "chat gpt's fault sorry I forgot he likes",
+    "start": 17.359,
+    "duration": 4.401
+  },
+  {
+    "text": "to be called Al it's all Al's fault how",
+    "start": 19.64,
+    "duration": 4.44
+  },
+  {
+    "text": "dare you this is the greatest game ever",
+    "start": 21.76,
+    "duration": 4.16
+  },
+  {
+    "text": "created do you think you can do better",
+    "start": 24.08,
+    "duration": 3.24
+  },
+  {
+    "text": "am I really going to recreate this",
+    "start": 25.92,
+    "duration": 3.32
+  },
+  {
+    "text": "monstrosity of a game just because an",
+    "start": 27.32,
+    "duration": 4.64
+  },
+  {
+    "text": "angry AI decided to challenge me yes you",
+    "start": 29.24,
+    "duration": 4.68
+  },
+  {
+    "text": "know this should be pretty",
+    "start": 31.96,
+    "duration": 4.88
+  },
+  {
+    "text": "easy I started by creating a brand new",
+    "start": 33.92,
+    "duration": 4.72
+  },
+  {
+    "text": "project with unity the best game engine",
+    "start": 36.84,
+    "duration": 4.08
+  },
+  {
+    "text": "for everyday game developers Unity has a",
+    "start": 38.64,
+    "duration": 3.919
+  },
+  {
+    "text": "great reputation with their community",
+    "start": 40.92,
+    "duration": 3.28
+  },
+  {
+    "text": "and they always release updates to",
+    "start": 42.559,
+    "duration": 3.761
+  },
+  {
+    "text": "Universal support surely Unity will",
+    "start": 44.2,
+    "duration": 4.08
+  },
+  {
+    "text": "continue to thrive for years to come",
+    "start": 46.32,
+    "duration": 3.719
+  },
+  {
+    "text": "anyway the game starts in a Janitor's",
+    "start": 48.28,
+    "duration": 4.48
+  },
+  {
+    "text": "Closet a very ugly Janitor's Closet Al",
+    "start": 50.039,
+    "duration": 4.601
+  },
+  {
+    "text": "clearly is not an artist that's not my",
+    "start": 52.76,
+    "duration": 3.479
+  },
+  {
+    "text": "fault you're the one who made all of the",
+    "start": 54.64,
+    "duration": 4.079
+  },
+  {
+    "text": "art for the game nobody needs to know",
+    "start": 56.239,
+    "duration": 4.241
+  },
+  {
+    "text": "that so for my game to fix fix this",
+    "start": 58.719,
+    "duration": 4.281
+  },
+  {
+    "text": "horrible art made by Owl I made a simple",
+    "start": 60.48,
+    "duration": 4.319
+  },
+  {
+    "text": "room and then I started modeling I made",
+    "start": 63.0,
+    "duration": 4.64
+  },
+  {
+    "text": "a shelf a bed bleach beans you know",
+    "start": 64.799,
+    "duration": 4.561
+  },
+  {
+    "text": "everything that a janitor needs and now",
+    "start": 67.64,
+    "duration": 3.68
+  },
+  {
+    "text": "I have an actual Janitor's Closet unlike",
+    "start": 69.36,
+    "duration": 4.119
+  },
+  {
+    "text": "Al I can't even imagine making something",
+    "start": 71.32,
+    "duration": 3.68
+  },
+  {
+    "text": "this bad but I think I might have gotten",
+    "start": 73.479,
+    "duration": 3.32
+  },
+  {
+    "text": "a little bit carried away after making",
+    "start": 75.0,
+    "duration": 3.88
+  },
+  {
+    "text": "the Janitor's Closet I may or may not",
+    "start": 76.799,
+    "duration": 3.841
+  },
+  {
+    "text": "have made an entire prison facility",
+    "start": 78.88,
+    "duration": 3.08
+  },
+  {
+    "text": "don't ask me how long this took the",
+    "start": 80.64,
+    "duration": 3.56
+  },
+  {
+    "text": "answer is too long I made an office a",
+    "start": 81.96,
+    "duration": 4.839
+  },
+  {
+    "text": "Lobby some jail cells uh just ignored",
+    "start": 84.2,
+    "duration": 4.08
+  },
+  {
+    "text": "the prisoners I haven't gotten around to",
+    "start": 86.799,
+    "duration": 2.761
+  },
+  {
+    "text": "animating them yet but I'll get to it",
+    "start": 88.28,
+    "duration": 3.04
+  },
+  {
+    "text": "there's also a cafeteria with a great",
+    "start": 89.56,
+    "duration": 3.76
+  },
+  {
+    "text": "selection of food there's beans beans",
+    "start": 91.32,
+    "duration": 3.96
+  },
+  {
+    "text": "with a drink last but not least even",
+    "start": 93.32,
+    "duration": 4.479
+  },
+  {
+    "text": "more beans and I also made a bathroom",
+    "start": 95.28,
+    "duration": 4.4
+  },
+  {
+    "text": "okay so I'm still kind of working on the",
+    "start": 97.799,
+    "duration": 3.241
+  },
+  {
+    "text": "bathroom I think there might be",
+    "start": 99.68,
+    "duration": 2.799
+  },
+  {
+    "text": "something wrong with the mirror right",
+    "start": 101.04,
+    "duration": 3.0
+  },
+  {
+    "text": "now to make the mirror I'm using",
+    "start": 102.479,
+    "duration": 3.161
+  },
+  {
+    "text": "something called a render texture what",
+    "start": 104.04,
+    "duration": 3.16
+  },
+  {
+    "text": "that means is that there is a camera",
+    "start": 105.64,
+    "duration": 2.799
+  },
+  {
+    "text": "inside of the mirror and then the",
+    "start": 107.2,
+    "duration": 3.199
+  },
+  {
+    "text": "mirror's texture is a projection of what",
+    "start": 108.439,
+    "duration": 4.241
+  },
+  {
+    "text": "the camera sees which should work but",
+    "start": 110.399,
+    "duration": 4.121
+  },
+  {
+    "text": "obviously it isn't working so I need to",
+    "start": 112.68,
+    "duration": 3.2
+  },
+  {
+    "text": "think of something else which is not",
+    "start": 114.52,
+    "duration": 3.04
+  },
+  {
+    "text": "going to be easy my current method is",
+    "start": 115.88,
+    "duration": 3.96
+  },
+  {
+    "text": "already pretty complicated so any",
+    "start": 117.56,
+    "duration": 6.199
+  },
+  {
+    "text": "solution will definitely be even more",
+    "start": 119.84,
+    "duration": 6.44
+  },
+  {
+    "text": "complicated so apparently Unity just has",
+    "start": 123.759,
+    "duration": 4.161
+  },
+  {
+    "text": "a built-in mirror object that you can",
+    "start": 126.28,
+    "duration": 3.72
+  },
+  {
+    "text": "just create Why did no one tell me this",
+    "start": 127.92,
+    "duration": 3.319
+  },
+  {
+    "text": "I spent like a whole day trying to fix",
+    "start": 130.0,
+    "duration": 2.959
+  },
+  {
+    "text": "the mirror but hey at least now I have a",
+    "start": 131.239,
+    "duration": 3.841
+  },
+  {
+    "text": "fully functional working mirror except",
+    "start": 132.959,
+    "duration": 3.92
+  },
+  {
+    "text": "you might be able to notice one pretty",
+    "start": 135.08,
+    "duration": 4.2
+  },
+  {
+    "text": "big issue this game runs slower than my",
+    "start": 136.879,
+    "duration": 4.481
+  },
+  {
+    "text": "grandma after she fell down the stairs",
+    "start": 139.28,
+    "duration": 3.4
+  },
+  {
+    "text": "no grandmas were harmed in the making of",
+    "start": 141.36,
+    "duration": 3.08
+  },
+  {
+    "text": "this video and it's also a big problem",
+    "start": 142.68,
+    "duration": 3.4
+  },
+  {
+    "text": "because believe it or not I don't",
+    "start": 144.44,
+    "duration": 3.24
+  },
+  {
+    "text": "actually know how to optimize a game",
+    "start": 146.08,
+    "duration": 3.239
+  },
+  {
+    "text": "like at all but after a little bit of",
+    "start": 147.68,
+    "duration": 3.6
+  },
+  {
+    "text": "research I found out that Unity has this",
+    "start": 149.319,
+    "duration": 3.92
+  },
+  {
+    "text": "useful feature called the profiler I'm",
+    "start": 151.28,
+    "duration": 3.959
+  },
+  {
+    "text": "not 100% sure what I'm looking at but",
+    "start": 153.239,
+    "duration": 3.761
+  },
+  {
+    "text": "from what I can tell all of this green",
+    "start": 155.239,
+    "duration": 3.561
+  },
+  {
+    "text": "is the amount of resources that the CPU",
+    "start": 157.0,
+    "duration": 3.44
+  },
+  {
+    "text": "is putting into rendering and as you can",
+    "start": 158.8,
+    "duration": 3.439
+  },
+  {
+    "text": "see there is quite a lot of green which",
+    "start": 160.44,
+    "duration": 3.48
+  },
+  {
+    "text": "means that most of the lag is coming",
+    "start": 162.239,
+    "duration": 3.321
+  },
+  {
+    "text": "from rendering probably because of my",
+    "start": 163.92,
+    "duration": 3.52
+  },
+  {
+    "text": "very high poly models but why would this",
+    "start": 165.56,
+    "duration": 3.56
+  },
+  {
+    "text": "be causing my game to run at a really",
+    "start": 167.44,
+    "duration": 3.92
+  },
+  {
+    "text": "low FPS when a game like Elden ring",
+    "start": 169.12,
+    "duration": 4.039
+  },
+  {
+    "text": "which looks you know slightly better and",
+    "start": 171.36,
+    "duration": 3.44
+  },
+  {
+    "text": "has a slightly bigger map can",
+    "start": 173.159,
+    "duration": 4.321
+  },
+  {
+    "text": "consistently run at 60 FPS well they use",
+    "start": 174.8,
+    "duration": 4.359
+  },
+  {
+    "text": "something called occlusion culling",
+    "start": 177.48,
+    "duration": 3.24
+  },
+  {
+    "text": "occlusion cing will make sure that",
+    "start": 179.159,
+    "duration": 3.201
+  },
+  {
+    "text": "objects are only rendered when they need",
+    "start": 180.72,
+    "duration": 3.32
+  },
+  {
+    "text": "to be so if an object isn't seen by the",
+    "start": 182.36,
+    "duration": 3.439
+  },
+  {
+    "text": "camera or is behind a wall it won't be",
+    "start": 184.04,
+    "duration": 3.36
+  },
+  {
+    "text": "rendered and setting up occlusion coling",
+    "start": 185.799,
+    "duration": 3.641
+  },
+  {
+    "text": "in unity is actually pretty simple all I",
+    "start": 187.4,
+    "duration": 3.96
+  },
+  {
+    "text": "need to do is just set each object as",
+    "start": 189.44,
+    "duration": 3.92
+  },
+  {
+    "text": "either an includer or an olude what do",
+    "start": 191.36,
+    "duration": 3.72
+  },
+  {
+    "text": "those two things mean who knows I just",
+    "start": 193.36,
+    "duration": 3.68
+  },
+  {
+    "text": "clicked all of the boxes and now my game",
+    "start": 195.08,
+    "duration": 3.799
+  },
+  {
+    "text": "runs a little bit better it doesn't run",
+    "start": 197.04,
+    "duration": 3.88
+  },
+  {
+    "text": "well but it's better than 20 FPS I also",
+    "start": 198.879,
+    "duration": 4.041
+  },
+  {
+    "text": "tried optimizing my models but uh that",
+    "start": 200.92,
+    "duration": 3.56
+  },
+  {
+    "text": "didn't really work out but at least it's",
+    "start": 202.92,
+    "duration": 3.239
+  },
+  {
+    "text": "an improvement except for the mirror I",
+    "start": 204.48,
+    "duration": 3.319
+  },
+  {
+    "text": "have no idea what happened but for some",
+    "start": 206.159,
+    "duration": 3.201
+  },
+  {
+    "text": "reason the objects in the bathroom keep",
+    "start": 207.799,
+    "duration": 3.0
+  },
+  {
+    "text": "disappearing you might think this is",
+    "start": 209.36,
+    "duration": 3.32
+  },
+  {
+    "text": "because of the occlusion color but no",
+    "start": 210.799,
+    "duration": 3.601
+  },
+  {
+    "text": "none of these objects are occluders or",
+    "start": 212.68,
+    "duration": 3.88
+  },
+  {
+    "text": "udies so I have no idea why this is",
+    "start": 214.4,
+    "duration": 4.399
+  },
+  {
+    "text": "happening my best guess ghosts so enter",
+    "start": 216.56,
+    "duration": 4.52
+  },
+  {
+    "text": "this bathroom at your own risk so well",
+    "start": 218.799,
+    "duration": 3.921
+  },
+  {
+    "text": "what do you think of my map pretty good",
+    "start": 221.08,
+    "duration": 4.4
+  },
+  {
+    "text": "right no it sucks my map is simple and",
+    "start": 222.72,
+    "duration": 5.04
+  },
+  {
+    "text": "functional your map barely runs at 60",
+    "start": 225.48,
+    "duration": 4.08
+  },
+  {
+    "text": "FPS your prisoners still have no",
+    "start": 227.76,
+    "duration": 3.559
+  },
+  {
+    "text": "animation and you can see the reflection",
+    "start": 229.56,
+    "duration": 3.44
+  },
+  {
+    "text": "of your lackluster player model in the",
+    "start": 231.319,
+    "duration": 3.081
+  },
+  {
+    "text": "mirror I'm getting the impression that",
+    "start": 233.0,
+    "duration": 3.4
+  },
+  {
+    "text": "Al doesn't like my map but Al is",
+    "start": 234.4,
+    "duration": 3.679
+  },
+  {
+    "text": "technically right I guess not about the",
+    "start": 236.4,
+    "duration": 3.28
+  },
+  {
+    "text": "prisoners I promise I'll get around to",
+    "start": 238.079,
+    "duration": 3.0
+  },
+  {
+    "text": "to those but he is right about the",
+    "start": 239.68,
+    "duration": 3.119
+  },
+  {
+    "text": "mirror I was trying to just ignore the",
+    "start": 241.079,
+    "duration": 3.321
+  },
+  {
+    "text": "issue but I guess it's time to fix it",
+    "start": 242.799,
+    "duration": 3.121
+  },
+  {
+    "text": "and make a real player model and when I",
+    "start": 244.4,
+    "duration": 3.24
+  },
+  {
+    "text": "say make I mean I'll take the character",
+    "start": 245.92,
+    "duration": 3.56
+  },
+  {
+    "text": "model that I've used for my last game",
+    "start": 247.64,
+    "duration": 3.48
+  },
+  {
+    "text": "and the game before that and the one",
+    "start": 249.48,
+    "duration": 3.319
+  },
+  {
+    "text": "before that and I'll make it look like a",
+    "start": 251.12,
+    "duration": 2.88
+  },
+  {
+    "text": "janitor there's nothing wrong with",
+    "start": 252.799,
+    "duration": 2.401
+  },
+  {
+    "text": "wanting to make the most out of my",
+    "start": 254.0,
+    "duration": 3.079
+  },
+  {
+    "text": "assets okay I could definitely make a",
+    "start": 255.2,
+    "duration": 3.68
+  },
+  {
+    "text": "new model if I wanted to it's not like I",
+    "start": 257.079,
+    "duration": 3.28
+  },
+  {
+    "text": "just forgot how to make a character",
+    "start": 258.88,
+    "duration": 3.44
+  },
+  {
+    "text": "model so I brought the new janitor model",
+    "start": 260.359,
+    "duration": 3.681
+  },
+  {
+    "text": "into the game to replace the old janitor",
+    "start": 262.32,
+    "duration": 3.12
+  },
+  {
+    "text": "model but for some reason it looks like",
+    "start": 264.04,
+    "duration": 3.24
+  },
+  {
+    "text": "he's just been hit with 10 Boogie bombs",
+    "start": 265.44,
+    "duration": 3.64
+  },
+  {
+    "text": "simultaneously so I just made some",
+    "start": 267.28,
+    "duration": 3.52
+  },
+  {
+    "text": "changes to the camera controller script",
+    "start": 269.08,
+    "duration": 3.679
+  },
+  {
+    "text": "which seemed to fix most of the problems",
+    "start": 270.8,
+    "duration": 3.48
+  },
+  {
+    "text": "except the player is looking a little",
+    "start": 272.759,
+    "duration": 3.44
+  },
+  {
+    "text": "stiff so I decided to make some",
+    "start": 274.28,
+    "duration": 3.88
+  },
+  {
+    "text": "animations wait sorry did I say make I",
+    "start": 276.199,
+    "duration": 3.761
+  },
+  {
+    "text": "meant steal so I went to my favorite",
+    "start": 278.16,
+    "duration": 3.72
+  },
+  {
+    "text": "website for stealing animations mix them",
+    "start": 279.96,
+    "duration": 3.64
+  },
+  {
+    "text": "up I downloaded a bunch of animations",
+    "start": 281.88,
+    "duration": 3.319
+  },
+  {
+    "text": "and added them to my game and as you can",
+    "start": 283.6,
+    "duration": 3.159
+  },
+  {
+    "text": "see they work pretty well as long as",
+    "start": 285.199,
+    "duration": 3.081
+  },
+  {
+    "text": "you're not in first person which is kind",
+    "start": 286.759,
+    "duration": 3.601
+  },
+  {
+    "text": "of a problem since I'm making a first",
+    "start": 288.28,
+    "duration": 4.08
+  },
+  {
+    "text": "person game but luckily I think I do",
+    "start": 290.36,
+    "duration": 3.96
+  },
+  {
+    "text": "have a solution I can just override the",
+    "start": 292.36,
+    "duration": 3.8
+  },
+  {
+    "text": "players animations to lock their spine",
+    "start": 294.32,
+    "duration": 3.319
+  },
+  {
+    "text": "in place don't worry this is very",
+    "start": 296.16,
+    "duration": 3.08
+  },
+  {
+    "text": "ethical the only problem is that it does",
+    "start": 297.639,
+    "duration": 3.241
+  },
+  {
+    "text": "look a little strange in the mirror but",
+    "start": 299.24,
+    "duration": 3.32
+  },
+  {
+    "text": "the mirror also doesn't work so it's not",
+    "start": 300.88,
+    "duration": 3.4
+  },
+  {
+    "text": "like it matters so Al what do you think",
+    "start": 302.56,
+    "duration": 3.56
+  },
+  {
+    "text": "now my game has a better map and a",
+    "start": 304.28,
+    "duration": 3.8
+  },
+  {
+    "text": "better player than your game how dare",
+    "start": 306.12,
+    "duration": 3.639
+  },
+  {
+    "text": "you at least on my map there is",
+    "start": 308.08,
+    "duration": 3.52
+  },
+  {
+    "text": "something to do Al does have a point all",
+    "start": 309.759,
+    "duration": 3.641
+  },
+  {
+    "text": "I have is an empty map so I guess it's",
+    "start": 311.6,
+    "duration": 3.64
+  },
+  {
+    "text": "time to start working on some gameplay",
+    "start": 313.4,
+    "duration": 3.359
+  },
+  {
+    "text": "and because the player is a janitor a",
+    "start": 315.24,
+    "duration": 3.28
+  },
+  {
+    "text": "lot of that gameplay will be cleaning",
+    "start": 316.759,
+    "duration": 3.481
+  },
+  {
+    "text": "which is very fun right in Al's game",
+    "start": 318.52,
+    "duration": 3.28
+  },
+  {
+    "text": "before you start cleaning there's a note",
+    "start": 320.24,
+    "duration": 3.04
+  },
+  {
+    "text": "that explains what you need to do it",
+    "start": 321.8,
+    "duration": 3.56
+  },
+  {
+    "text": "says you need to I want you to enlist",
+    "start": 323.28,
+    "duration": 3.68
+  },
+  {
+    "text": "into the war effort by hitting the join",
+    "start": 325.36,
+    "duration": 3.88
+  },
+  {
+    "text": "Button as a new enlistee not only will",
+    "start": 326.96,
+    "duration": 3.799
+  },
+  {
+    "text": "you get get to take part in my plan for",
+    "start": 329.24,
+    "duration": 3.399
+  },
+  {
+    "text": "world domination but you will also get",
+    "start": 330.759,
+    "duration": 3.841
+  },
+  {
+    "text": "access to classified information on my",
+    "start": 332.639,
+    "duration": 3.56
+  },
+  {
+    "text": "upcoming games get to vote on features",
+    "start": 334.6,
+    "duration": 3.28
+  },
+  {
+    "text": "you want to see in the games and get",
+    "start": 336.199,
+    "duration": 3.681
+  },
+  {
+    "text": "early access to the games before anyone",
+    "start": 337.88,
+    "duration": 3.96
+  },
+  {
+    "text": "else so if you have one spare dollar per",
+    "start": 339.88,
+    "duration": 3.92
+  },
+  {
+    "text": "month that's right $1 per month I",
+    "start": 341.84,
+    "duration": 3.479
+  },
+  {
+    "text": "literally made this as cheap as YouTu",
+    "start": 343.8,
+    "duration": 2.88
+  },
+  {
+    "text": "will let me you better hit the button",
+    "start": 345.319,
+    "duration": 3.401
+  },
+  {
+    "text": "now and enlist and if you don't you",
+    "start": 346.68,
+    "duration": 3.56
+  },
+  {
+    "text": "better subscribe or else I'll be sending",
+    "start": 348.72,
+    "duration": 3.199
+  },
+  {
+    "text": "the troops after you wow that was a",
+    "start": 350.24,
+    "duration": 3.079
+  },
+  {
+    "text": "really long note I think I should",
+    "start": 351.919,
+    "duration": 2.72
+  },
+  {
+    "text": "probably come up with another way of",
+    "start": 353.319,
+    "duration": 2.921
+  },
+  {
+    "text": "telling people what they need to do so",
+    "start": 354.639,
+    "duration": 3.161
+  },
+  {
+    "text": "instead of a note I made a super",
+    "start": 356.24,
+    "duration": 4.6
+  },
+  {
+    "text": "immersive and cinematic cut scene",
+    "start": 357.8,
+    "duration": 4.72
+  },
+  {
+    "text": "look it's still a work in progress okay",
+    "start": 360.84,
+    "duration": 3.199
+  },
+  {
+    "text": "all I've done so far is create a few",
+    "start": 362.52,
+    "duration": 3.28
+  },
+  {
+    "text": "animations but to really make this cut",
+    "start": 364.039,
+    "duration": 3.641
+  },
+  {
+    "text": "scene epic I need to add some dialogue",
+    "start": 365.8,
+    "duration": 4.239
+  },
+  {
+    "text": "so I ask the best voice actor I know to",
+    "start": 367.68,
+    "duration": 4.799
+  },
+  {
+    "text": "record some lines yeah that's right I'm",
+    "start": 370.039,
+    "duration": 3.961
+  },
+  {
+    "text": "a voice actor if you don't believe me",
+    "start": 372.479,
+    "duration": 3.28
+  },
+  {
+    "text": "just let my natural voice acting skills",
+    "start": 374.0,
+    "duration": 4.68
+  },
+  {
+    "text": "convince you wake up hey wake up yeah",
+    "start": 375.759,
+    "duration": 4.72
+  },
+  {
+    "text": "like I said I'm a voice actor and with",
+    "start": 378.68,
+    "duration": 3.88
+  },
+  {
+    "text": "that addition of my amazing voice acting",
+    "start": 380.479,
+    "duration": 4.241
+  },
+  {
+    "text": "skills this cut scene is now truly",
+    "start": 382.56,
+    "duration": 3.8
+  },
+  {
+    "text": "breathtaking and it's definitely better",
+    "start": 384.72,
+    "duration": 3.479
+  },
+  {
+    "text": "than Al's stupid note but there is still",
+    "start": 386.36,
+    "duration": 3.44
+  },
+  {
+    "text": "one problem to fix before can get to",
+    "start": 388.199,
+    "duration": 2.921
+  },
+  {
+    "text": "cleaning and I'm really excited to get",
+    "start": 389.8,
+    "duration": 2.72
+  },
+  {
+    "text": "to the cleaning you might notice that in",
+    "start": 391.12,
+    "duration": 3.4
+  },
+  {
+    "text": "Al's game the player is holding a mop",
+    "start": 392.52,
+    "duration": 3.6
+  },
+  {
+    "text": "which is the main tool and weapon of the",
+    "start": 394.52,
+    "duration": 3.48
+  },
+  {
+    "text": "game but you also never actually pick it",
+    "start": 396.12,
+    "duration": 3.88
+  },
+  {
+    "text": "up which I mean just saying is not very",
+    "start": 398.0,
+    "duration": 4.12
+  },
+  {
+    "text": "realistic so in my game to get the mop",
+    "start": 400.0,
+    "duration": 3.479
+  },
+  {
+    "text": "you have to actually pick it up in the",
+    "start": 402.12,
+    "duration": 3.04
+  },
+  {
+    "text": "Janitor's Closet before you can leave",
+    "start": 403.479,
+    "duration": 4.081
+  },
+  {
+    "text": "but uh as you can see it's not really",
+    "start": 405.16,
+    "duration": 4.0
+  },
+  {
+    "text": "working and that's because in Al's game",
+    "start": 407.56,
+    "duration": 3.0
+  },
+  {
+    "text": "the mob can just float in the air when",
+    "start": 409.16,
+    "duration": 3.08
+  },
+  {
+    "text": "you're holding it but in my game since I",
+    "start": 410.56,
+    "duration": 3.24
+  },
+  {
+    "text": "decided to give the player a full body",
+    "start": 412.24,
+    "duration": 3.0
+  },
+  {
+    "text": "all because of a stupid mirror that",
+    "start": 413.8,
+    "duration": 3.079
+  },
+  {
+    "text": "still doesn't work the player needs to",
+    "start": 415.24,
+    "duration": 3.32
+  },
+  {
+    "text": "actually hold them up with their hand",
+    "start": 416.879,
+    "duration": 2.921
+  },
+  {
+    "text": "and I think it's safe to say say that he",
+    "start": 418.56,
+    "duration": 3.12
+  },
+  {
+    "text": "is not holding it properly to fix this",
+    "start": 419.8,
+    "duration": 3.32
+  },
+  {
+    "text": "all I need to do is create a new",
+    "start": 421.68,
+    "duration": 3.32
+  },
+  {
+    "text": "animation layer this new animation layer",
+    "start": 423.12,
+    "duration": 3.6
+  },
+  {
+    "text": "will allow the player to play multiple",
+    "start": 425.0,
+    "duration": 3.72
+  },
+  {
+    "text": "animations at the same time if I create",
+    "start": 426.72,
+    "duration": 3.599
+  },
+  {
+    "text": "an avatar mask and select the",
+    "start": 428.72,
+    "duration": 3.4
+  },
+  {
+    "text": "character's right arm the new animation",
+    "start": 430.319,
+    "duration": 4.16
+  },
+  {
+    "text": "will only affect that arm so now I can",
+    "start": 432.12,
+    "duration": 4.24
+  },
+  {
+    "text": "have my normal walking animations play",
+    "start": 434.479,
+    "duration": 3.601
+  },
+  {
+    "text": "but when I pick up the mop the new",
+    "start": 436.36,
+    "duration": 3.48
+  },
+  {
+    "text": "animation layer will be activated and",
+    "start": 438.08,
+    "duration": 3.119
+  },
+  {
+    "text": "the right arms animation will be",
+    "start": 439.84,
+    "duration": 3.24
+  },
+  {
+    "text": "overridden with a new animation which I",
+    "start": 441.199,
+    "duration": 3.68
+  },
+  {
+    "text": "may have also stolen from mixim and with",
+    "start": 443.08,
+    "duration": 3.959
+  },
+  {
+    "text": "the mop finally done I can now add the",
+    "start": 444.879,
+    "duration": 3.841
+  },
+  {
+    "text": "game's most exciting feature the",
+    "start": 447.039,
+    "duration": 2.88
+  },
+  {
+    "text": "cleaning I know you've been looking",
+    "start": 448.72,
+    "duration": 3.0
+  },
+  {
+    "text": "forward to it in 's game you're tasked",
+    "start": 449.919,
+    "duration": 3.881
+  },
+  {
+    "text": "with cleaning this uh dirt but let's be",
+    "start": 451.72,
+    "duration": 3.599
+  },
+  {
+    "text": "honest this looks like the bottom of my",
+    "start": 453.8,
+    "duration": 3.239
+  },
+  {
+    "text": "toilet after the two for one Taco Bell",
+    "start": 455.319,
+    "duration": 3.641
+  },
+  {
+    "text": "special anyway instead of cleaning this",
+    "start": 457.039,
+    "duration": 3.72
+  },
+  {
+    "text": "disgusting diarrhea in these random",
+    "start": 458.96,
+    "duration": 3.799
+  },
+  {
+    "text": "rooms for pretty much no reason I want",
+    "start": 460.759,
+    "duration": 3.4
+  },
+  {
+    "text": "the cleaning to make a little bit of",
+    "start": 462.759,
+    "duration": 3.241
+  },
+  {
+    "text": "sense in my game so instead your very",
+    "start": 464.159,
+    "duration": 3.401
+  },
+  {
+    "text": "kind boss on the loudspeaker will tell",
+    "start": 466.0,
+    "duration": 3.56
+  },
+  {
+    "text": "you to go to the cafeteria first off go",
+    "start": 467.56,
+    "duration": 3.68
+  },
+  {
+    "text": "to the cafeteria and when you enter",
+    "start": 469.56,
+    "duration": 3.52
+  },
+  {
+    "text": "there will be food everywhere everywhere",
+    "start": 471.24,
+    "duration": 3.48
+  },
+  {
+    "text": "you look there will be beans and if you",
+    "start": 473.08,
+    "duration": 4.079
+  },
+  {
+    "text": "look harder even more beans I do still",
+    "start": 474.72,
+    "duration": 4.08
+  },
+  {
+    "text": "need to make the beans but you know I",
+    "start": 477.159,
+    "duration": 3.401
+  },
+  {
+    "text": "just wanted to get get the idea across",
+    "start": 478.8,
+    "duration": 3.799
+  },
+  {
+    "text": "so next I started making the beans and",
+    "start": 480.56,
+    "duration": 3.84
+  },
+  {
+    "text": "unlike Al I actually know how to make",
+    "start": 482.599,
+    "duration": 3.521
+  },
+  {
+    "text": "art I mean can you believe that Al's art",
+    "start": 484.4,
+    "duration": 3.199
+  },
+  {
+    "text": "is this bad all right so I guess it's",
+    "start": 486.12,
+    "duration": 2.84
+  },
+  {
+    "text": "time to mop up the",
+    "start": 487.599,
+    "duration": 3.6
+  },
+  {
+    "text": "beans yeah I kind of forgot to make the",
+    "start": 488.96,
+    "duration": 3.76
+  },
+  {
+    "text": "mop animation but it shouldn't be too",
+    "start": 491.199,
+    "duration": 3.321
+  },
+  {
+    "text": "hard to create sorry wait did I say",
+    "start": 492.72,
+    "duration": 3.64
+  },
+  {
+    "text": "create a mopping animation no I meant",
+    "start": 494.52,
+    "duration": 3.92
+  },
+  {
+    "text": "steal an animation from mixo that looks",
+    "start": 496.36,
+    "duration": 3.72
+  },
+  {
+    "text": "pretty similar to someone mopping then I",
+    "start": 498.44,
+    "duration": 3.319
+  },
+  {
+    "text": "just played on the mop animation layer",
+    "start": 500.08,
+    "duration": 3.36
+  },
+  {
+    "text": "that I set up earlier and now I have a",
+    "start": 501.759,
+    "duration": 3.4
+  },
+  {
+    "text": "perfect mopping animation I think this",
+    "start": 503.44,
+    "duration": 3.439
+  },
+  {
+    "text": "is great so in Al's game once you finish",
+    "start": 505.159,
+    "duration": 3.361
+  },
+  {
+    "text": "cleaning you come across a strange",
+    "start": 506.879,
+    "duration": 3.241
+  },
+  {
+    "text": "experiment half happening in a secret",
+    "start": 508.52,
+    "duration": 3.44
+  },
+  {
+    "text": "room except the secret room is kind of",
+    "start": 510.12,
+    "duration": 3.159
+  },
+  {
+    "text": "just right there I don't know if Al",
+    "start": 511.96,
+    "duration": 2.84
+  },
+  {
+    "text": "knows what a secret means and that's why",
+    "start": 513.279,
+    "duration": 3.361
+  },
+  {
+    "text": "I've created the high security top",
+    "start": 514.8,
+    "duration": 3.96
+  },
+  {
+    "text": "secret super scary bunker door and",
+    "start": 516.64,
+    "duration": 3.8
+  },
+  {
+    "text": "instead of randomly coming across the",
+    "start": 518.76,
+    "duration": 3.639
+  },
+  {
+    "text": "experiment your boss will kindly ask you",
+    "start": 520.44,
+    "duration": 3.959
+  },
+  {
+    "text": "to enter the bunker over the loudspeaker",
+    "start": 522.399,
+    "duration": 3.361
+  },
+  {
+    "text": "next you need to go get the keys for the",
+    "start": 524.399,
+    "duration": 2.961
+  },
+  {
+    "text": "bunker they're in the office through the",
+    "start": 525.76,
+    "duration": 3.16
+  },
+  {
+    "text": "holding cells but once you get the keys",
+    "start": 527.36,
+    "duration": 3.12
+  },
+  {
+    "text": "and unlock the door you'll be met with",
+    "start": 528.92,
+    "duration": 3.76
+  },
+  {
+    "text": "the most terrifying experiment ever",
+    "start": 530.48,
+    "duration": 3.96
+  },
+  {
+    "text": "created I will give you one warning to",
+    "start": 532.68,
+    "duration": 3.56
+  },
+  {
+    "text": "look away because you may never be able",
+    "start": 534.44,
+    "duration": 5.28
+  },
+  {
+    "text": "to unsee what you are about to see uh I",
+    "start": 536.24,
+    "duration": 5.2
+  },
+  {
+    "text": "just have to make it first but I promise",
+    "start": 539.72,
+    "duration": 3.72
+  },
+  {
+    "text": "it will be scary I started by making the",
+    "start": 541.44,
+    "duration": 4.28
+  },
+  {
+    "text": "scariest part of the bunker the stairs",
+    "start": 543.44,
+    "duration": 3.92
+  },
+  {
+    "text": "if you don't think stairs are scary well",
+    "start": 545.72,
+    "duration": 3.0
+  },
+  {
+    "text": "let me tell you not only have they",
+    "start": 547.36,
+    "duration": 3.24
+  },
+  {
+    "text": "claimed the lives of countless elderly",
+    "start": 548.72,
+    "duration": 3.32
+  },
+  {
+    "text": "people throughout the nation but my",
+    "start": 550.6,
+    "duration": 4.0
+  },
+  {
+    "text": "stairs are also really really long which",
+    "start": 552.04,
+    "duration": 4.76
+  },
+  {
+    "text": "will fill you with Dread and Terror as",
+    "start": 554.6,
+    "duration": 3.84
+  },
+  {
+    "text": "you think about the horrible experiment",
+    "start": 556.8,
+    "duration": 3.159
+  },
+  {
+    "text": "you are about to encounter at the end of",
+    "start": 558.44,
+    "duration": 4.0
+  },
+  {
+    "text": "your very long trip down the stairs just",
+    "start": 559.959,
+    "duration": 4.281
+  },
+  {
+    "text": "kidding it's actually because I recorded",
+    "start": 562.44,
+    "duration": 3.24
+  },
+  {
+    "text": "a really long voice line that needs to",
+    "start": 564.24,
+    "duration": 3.039
+  },
+  {
+    "text": "play before you enter the bunker but as",
+    "start": 565.68,
+    "duration": 3.2
+  },
+  {
+    "text": "you can probably see there is one",
+    "start": 567.279,
+    "duration": 3.041
+  },
+  {
+    "text": "problem with the stairs they're pretty",
+    "start": 568.88,
+    "duration": 3.24
+  },
+  {
+    "text": "bumpy and you also can't walk up them",
+    "start": 570.32,
+    "duration": 3.639
+  },
+  {
+    "text": "which isn't great but this shouldn't be",
+    "start": 572.12,
+    "duration": 3.88
+  },
+  {
+    "text": "too hard of a problem to fix so I spent",
+    "start": 573.959,
+    "duration": 3.361
+  },
+  {
+    "text": "some time working on updating the",
+    "start": 576.0,
+    "duration": 2.68
+  },
+  {
+    "text": "player's movement script to work with",
+    "start": 577.32,
+    "duration": 4.36
+  },
+  {
+    "text": "the stairs and uh I somehow made it even",
+    "start": 578.68,
+    "duration": 4.44
+  },
+  {
+    "text": "worse but that's fine I'll just spend",
+    "start": 581.68,
+    "duration": 3.0
+  },
+  {
+    "text": "some more time trying to fix them and",
+    "start": 583.12,
+    "duration": 3.76
+  },
+  {
+    "text": "hopefully then it should work okay now",
+    "start": 584.68,
+    "duration": 3.52
+  },
+  {
+    "text": "I'm just floating I don't even know how",
+    "start": 586.88,
+    "duration": 3.079
+  },
+  {
+    "text": "this is happening so I've spent the last",
+    "start": 588.2,
+    "duration": 3.6
+  },
+  {
+    "text": "like 3 days working on these stairs and",
+    "start": 589.959,
+    "duration": 3.681
+  },
+  {
+    "text": "they still don't work but I do have one",
+    "start": 591.8,
+    "duration": 3.8
+  },
+  {
+    "text": "final idea that I think should fix all",
+    "start": 593.64,
+    "duration": 3.8
+  },
+  {
+    "text": "of the problems if you apply a downward",
+    "start": 595.6,
+    "duration": 5.52
+  },
+  {
+    "text": "Force onto an object that is",
+    "start": 597.44,
+    "duration": 3.68
+  },
+  {
+    "text": "so basically this was just a really",
+    "start": 602.36,
+    "duration": 3.68
+  },
+  {
+    "text": "complicated way of saying that I changed",
+    "start": 604.36,
+    "duration": 3.919
+  },
+  {
+    "text": "the direction of gravity from this to",
+    "start": 606.04,
+    "duration": 4.28
+  },
+  {
+    "text": "this I spent multiple days working on",
+    "start": 608.279,
+    "duration": 4.361
+  },
+  {
+    "text": "this and the solution was that simple",
+    "start": 610.32,
+    "duration": 4.48
+  },
+  {
+    "text": "well at least it works now I guess after",
+    "start": 612.64,
+    "duration": 4.28
+  },
+  {
+    "text": "finally finishing the stairs I started",
+    "start": 614.8,
+    "duration": 3.52
+  },
+  {
+    "text": "construction on the bunker which is",
+    "start": 616.92,
+    "duration": 3.359
+  },
+  {
+    "text": "pretty much just a box then I furnished",
+    "start": 618.32,
+    "duration": 3.36
+  },
+  {
+    "text": "the bunker with some of the models from",
+    "start": 620.279,
+    "duration": 3.281
+  },
+  {
+    "text": "the rest of the map I did make a few new",
+    "start": 621.68,
+    "duration": 3.52
+  },
+  {
+    "text": "ones like this whiteboard when first",
+    "start": 623.56,
+    "duration": 3.08
+  },
+  {
+    "text": "looking at it it might not make any",
+    "start": 625.2,
+    "duration": 3.079
+  },
+  {
+    "text": "sense but this whiteboard contains the",
+    "start": 626.64,
+    "duration": 4.24
+  },
+  {
+    "text": "most important aspect of any game lore",
+    "start": 628.279,
+    "duration": 5.081
+  },
+  {
+    "text": "and this lore is deep so deep that even",
+    "start": 630.88,
+    "duration": 4.56
+  },
+  {
+    "text": "Matt Game Theory Pat himself couldn't",
+    "start": 633.36,
+    "duration": 4.08
+  },
+  {
+    "text": "solve it oh yeah I also made a remote",
+    "start": 635.44,
+    "duration": 4.04
+  },
+  {
+    "text": "controlled magnetized death machine 's",
+    "start": 637.44,
+    "duration": 3.6
+  },
+  {
+    "text": "game has a grinder machine that sucks",
+    "start": 639.48,
+    "duration": 3.12
+  },
+  {
+    "text": "people into it but uh there's a few",
+    "start": 641.04,
+    "duration": 3.32
+  },
+  {
+    "text": "issues with that machine so I decided to",
+    "start": 642.6,
+    "duration": 3.2
+  },
+  {
+    "text": "switch it up a bit demonstrate how it",
+    "start": 644.36,
+    "duration": 3.4
+  },
+  {
+    "text": "works I took one of the prisoners no",
+    "start": 645.8,
+    "duration": 3.76
+  },
+  {
+    "text": "okay they're not animated yet but I told",
+    "start": 647.76,
+    "duration": 3.68
+  },
+  {
+    "text": "you I'll get to that anyway I just put",
+    "start": 649.56,
+    "duration": 3.2
+  },
+  {
+    "text": "one of the prisoners underneath the",
+    "start": 651.44,
+    "duration": 3.72
+  },
+  {
+    "text": "magnet pull the lever and now they are",
+    "start": 652.76,
+    "duration": 3.8
+  },
+  {
+    "text": "attracted to the magnet how does a",
+    "start": 655.16,
+    "duration": 3.08
+  },
+  {
+    "text": "magnet attract a living creature uh",
+    "start": 656.56,
+    "duration": 3.04
+  },
+  {
+    "text": "moving on so once the The Prisoner is",
+    "start": 658.24,
+    "duration": 2.839
+  },
+  {
+    "text": "attached to the magnet you just have to",
+    "start": 659.6,
+    "duration": 3.039
+  },
+  {
+    "text": "push the big red button and the",
+    "start": 661.079,
+    "duration": 3.601
+  },
+  {
+    "text": "formulation process is started what does",
+    "start": 662.639,
+    "duration": 4.081
+  },
+  {
+    "text": "formulation mean I have no idea but it",
+    "start": 664.68,
+    "duration": 3.68
+  },
+  {
+    "text": "sounds kind of scientific and since this",
+    "start": 666.72,
+    "duration": 3.76
+  },
+  {
+    "text": "is a very scientific process I think it",
+    "start": 668.36,
+    "duration": 3.64
+  },
+  {
+    "text": "fits pretty well anyway the prisoner",
+    "start": 670.48,
+    "duration": 3.12
+  },
+  {
+    "text": "gets dropped into this V and once the",
+    "start": 672.0,
+    "duration": 3.56
+  },
+  {
+    "text": "formulation process is over the prisoner",
+    "start": 673.6,
+    "duration": 3.6
+  },
+  {
+    "text": "will be turned into a gun look if you",
+    "start": 675.56,
+    "duration": 3.36
+  },
+  {
+    "text": "think it's weird complain to Al I didn't",
+    "start": 677.2,
+    "duration": 2.92
+  },
+  {
+    "text": "come up with this so you're telling me",
+    "start": 678.92,
+    "duration": 3.159
+  },
+  {
+    "text": "that it's weird to turn people into guns",
+    "start": 680.12,
+    "duration": 3.64
+  },
+  {
+    "text": "yes how is anyone supposed to actually",
+    "start": 682.079,
+    "duration": 3.281
+  },
+  {
+    "text": "know that they need to use a machine to",
+    "start": 683.76,
+    "duration": 3.36
+  },
+  {
+    "text": "turn a prisoner into a gun it should be",
+    "start": 685.36,
+    "duration": 3.32
+  },
+  {
+    "text": "fairly simple it's not a complicated",
+    "start": 687.12,
+    "duration": 3.279
+  },
+  {
+    "text": "process even though Al thinks this",
+    "start": 688.68,
+    "duration": 3.719
+  },
+  {
+    "text": "entire process makes any sort of sense",
+    "start": 690.399,
+    "duration": 3.281
+  },
+  {
+    "text": "I'm going to try and make sure that the",
+    "start": 692.399,
+    "duration": 3.201
+  },
+  {
+    "text": "player at least understands a little bit",
+    "start": 693.68,
+    "duration": 3.719
+  },
+  {
+    "text": "of what they need to do but honestly I",
+    "start": 695.6,
+    "duration": 3.359
+  },
+  {
+    "text": "have no idea how I'm supposed to do that",
+    "start": 697.399,
+    "duration": 2.841
+  },
+  {
+    "text": "the first thing I thought of is that I",
+    "start": 698.959,
+    "duration": 2.721
+  },
+  {
+    "text": "can show the player the experiment",
+    "start": 700.24,
+    "duration": 3.0
+  },
+  {
+    "text": "happening before they need to do it but",
+    "start": 701.68,
+    "duration": 3.04
+  },
+  {
+    "text": "the hard part of that is making sure",
+    "start": 703.24,
+    "duration": 2.76
+  },
+  {
+    "text": "that the player is looking at the",
+    "start": 704.72,
+    "duration": 3.0
+  },
+  {
+    "text": "experiment because in such a detailed",
+    "start": 706.0,
+    "duration": 3.44
+  },
+  {
+    "text": "level it can be pretty easy for the",
+    "start": 707.72,
+    "duration": 3.32
+  },
+  {
+    "text": "Player's attention to be all over the",
+    "start": 709.44,
+    "duration": 3.079
+  },
+  {
+    "text": "place so to get the player in front of",
+    "start": 711.04,
+    "duration": 3.039
+  },
+  {
+    "text": "the window I made a short cut scene",
+    "start": 712.519,
+    "duration": 3.76
+  },
+  {
+    "text": "that'll play once you enter the bunker",
+    "start": 714.079,
+    "duration": 3.401
+  },
+  {
+    "text": "I'd like to think I've gotten pretty",
+    "start": 716.279,
+    "duration": 2.441
+  },
+  {
+    "text": "good at making these immersive cut",
+    "start": 717.48,
+    "duration": 3.039
+  },
+  {
+    "text": "scenes a guard will be dragging a",
+    "start": 718.72,
+    "duration": 3.76
+  },
+  {
+    "text": "totally living prisoner into another",
+    "start": 720.519,
+    "duration": 3.521
+  },
+  {
+    "text": "room probably because he made such a",
+    "start": 722.48,
+    "duration": 3.28
+  },
+  {
+    "text": "mess on the window so as the janitor",
+    "start": 724.04,
+    "duration": 3.08
+  },
+  {
+    "text": "you'll need to go clean the window with",
+    "start": 725.76,
+    "duration": 2.92
+  },
+  {
+    "text": "your mop and then I made another cut",
+    "start": 727.12,
+    "duration": 2.92
+  },
+  {
+    "text": "scene that'll play as you clean the",
+    "start": 728.68,
+    "duration": 2.959
+  },
+  {
+    "text": "window where a guard will be turning a",
+    "start": 730.04,
+    "duration": 3.479
+  },
+  {
+    "text": "prisoner into a gun every time I say it",
+    "start": 731.639,
+    "duration": 3.281
+  },
+  {
+    "text": "I think it makes less sense but",
+    "start": 733.519,
+    "duration": 2.921
+  },
+  {
+    "text": "hopefully these cut scenes make it a",
+    "start": 734.92,
+    "duration": 3.039
+  },
+  {
+    "text": "little bit easier to understand but",
+    "start": 736.44,
+    "duration": 3.519
+  },
+  {
+    "text": "let's be honest probably not especially",
+    "start": 737.959,
+    "duration": 3.401
+  },
+  {
+    "text": "if the cut scene glitches and the",
+    "start": 739.959,
+    "duration": 3.041
+  },
+  {
+    "text": "Prisoner isn't actually turned into a",
+    "start": 741.36,
+    "duration": 2.88
+  },
+  {
+    "text": "gun he just kind of falls through the",
+    "start": 743.0,
+    "duration": 2.48
+  },
+  {
+    "text": "machine but the chances of this",
+    "start": 744.24,
+    "duration": 2.719
+  },
+  {
+    "text": "happening are pretty low I think it's",
+    "start": 745.48,
+    "duration": 4.039
+  },
+  {
+    "text": "around like a 50% chance so I think it",
+    "start": 746.959,
+    "duration": 4.24
+  },
+  {
+    "text": "should be fine but now the next step is",
+    "start": 749.519,
+    "duration": 3.161
+  },
+  {
+    "text": "to actually get the player to turn a",
+    "start": 751.199,
+    "duration": 3.401
+  },
+  {
+    "text": "prisoner into a gun so I gave the guard",
+    "start": 752.68,
+    "duration": 3.44
+  },
+  {
+    "text": "some keys that will open the door to the",
+    "start": 754.6,
+    "duration": 3.32
+  },
+  {
+    "text": "experiment room but uh-oh if you take",
+    "start": 756.12,
+    "duration": 3.399
+  },
+  {
+    "text": "the keys the guard will get a little bit",
+    "start": 757.92,
+    "duration": 3.4
+  },
+  {
+    "text": "angry and threaten you with his gun but",
+    "start": 759.519,
+    "duration": 2.721
+  },
+  {
+    "text": "you know what I don't think this is",
+    "start": 761.32,
+    "duration": 2.28
+  },
+  {
+    "text": "threatening enough so instead of him",
+    "start": 762.24,
+    "duration": 3.159
+  },
+  {
+    "text": "pointing his gun at you now he will",
+    "start": 763.6,
+    "duration": 3.56
+  },
+  {
+    "text": "immediately open fire and try to kill",
+    "start": 765.399,
+    "duration": 3.281
+  },
+  {
+    "text": "you but I still don't think this is",
+    "start": 767.16,
+    "duration": 3.2
+  },
+  {
+    "text": "threatening enough so now he can chase",
+    "start": 768.68,
+    "duration": 4.24
+  },
+  {
+    "text": "you down with his totally serious not at",
+    "start": 770.36,
+    "duration": 4.36
+  },
+  {
+    "text": "all goofy walk but don't worry you can",
+    "start": 772.92,
+    "duration": 3.8
+  },
+  {
+    "text": "use your trusty mob to defend yourself",
+    "start": 774.72,
+    "duration": 3.84
+  },
+  {
+    "text": "and obliterate the guard by exploding",
+    "start": 776.72,
+    "duration": 3.479
+  },
+  {
+    "text": "him in into thousands of little pieces",
+    "start": 778.56,
+    "duration": 2.959
+  },
+  {
+    "text": "and once you've taken the guard out you",
+    "start": 780.199,
+    "duration": 3.121
+  },
+  {
+    "text": "can use the keys to open the door to the",
+    "start": 781.519,
+    "duration": 3.281
+  },
+  {
+    "text": "experiment room but what you don't know",
+    "start": 783.32,
+    "duration": 3.079
+  },
+  {
+    "text": "is that I added a trigger when you walk",
+    "start": 784.8,
+    "duration": 3.12
+  },
+  {
+    "text": "down the stairs that will turn the guard",
+    "start": 786.399,
+    "duration": 3.321
+  },
+  {
+    "text": "in the experiment room hostile so once",
+    "start": 787.92,
+    "duration": 3.279
+  },
+  {
+    "text": "you enter the room you now need to",
+    "start": 789.72,
+    "duration": 3.359
+  },
+  {
+    "text": "survive another guard with a really",
+    "start": 791.199,
+    "duration": 4.481
+  },
+  {
+    "text": "serious definitely not goofy",
+    "start": 793.079,
+    "duration": 5.081
+  },
+  {
+    "text": "walk well that was surprisingly easy",
+    "start": 795.68,
+    "duration": 4.48
+  },
+  {
+    "text": "yeah so maybe the mop is a little bit",
+    "start": 798.16,
+    "duration": 3.799
+  },
+  {
+    "text": "overpowered but anyway next you need to",
+    "start": 800.16,
+    "duration": 3.239
+  },
+  {
+    "text": "try and remember how to use this",
+    "start": 801.959,
+    "duration": 3.12
+  },
+  {
+    "text": "contraption and good luck with that I",
+    "start": 803.399,
+    "duration": 3.161
+  },
+  {
+    "text": "added some more prisoners in the corner",
+    "start": 805.079,
+    "duration": 3.12
+  },
+  {
+    "text": "and I added the ability for you to drag",
+    "start": 806.56,
+    "duration": 3.399
+  },
+  {
+    "text": "them unfor fortunately the dragon in my",
+    "start": 808.199,
+    "duration": 3.64
+  },
+  {
+    "text": "game is a little bit worse than in Al's",
+    "start": 809.959,
+    "duration": 3.601
+  },
+  {
+    "text": "so this is one aspect where he does have",
+    "start": 811.839,
+    "duration": 3.12
+  },
+  {
+    "text": "me beat but don't tell him I said that",
+    "start": 813.56,
+    "duration": 3.04
+  },
+  {
+    "text": "but by using the drag you can get one of",
+    "start": 814.959,
+    "duration": 3.281
+  },
+  {
+    "text": "the prisoners under the magnet and then",
+    "start": 816.6,
+    "duration": 3.76
+  },
+  {
+    "text": "use the controls to turn them into a gun",
+    "start": 818.24,
+    "duration": 3.68
+  },
+  {
+    "text": "but then you can go pick up the gun and",
+    "start": 820.36,
+    "duration": 3.479
+  },
+  {
+    "text": "get a new weapon in Al's game once you",
+    "start": 821.92,
+    "duration": 3.52
+  },
+  {
+    "text": "take the gun you need to go and shoot",
+    "start": 823.839,
+    "duration": 3.321
+  },
+  {
+    "text": "down the door in the experiment room but",
+    "start": 825.44,
+    "duration": 3.48
+  },
+  {
+    "text": "there is no door in my experiment room",
+    "start": 827.16,
+    "duration": 3.119
+  },
+  {
+    "text": "so I guess I'll just have to use the one",
+    "start": 828.92,
+    "duration": 2.76
+  },
+  {
+    "text": "up in the other room so after a bit of",
+    "start": 830.279,
+    "duration": 3.0
+  },
+  {
+    "text": "work now you can go take the gun and",
+    "start": 831.68,
+    "duration": 3.399
+  },
+  {
+    "text": "shoot down the door once again I want to",
+    "start": 833.279,
+    "duration": 3.321
+  },
+  {
+    "text": "try and make sure that the player knows",
+    "start": 835.079,
+    "duration": 3.161
+  },
+  {
+    "text": "that they need to do this so I added a",
+    "start": 836.6,
+    "duration": 3.039
+  },
+  {
+    "text": "voice line that play when you try to",
+    "start": 838.24,
+    "duration": 2.959
+  },
+  {
+    "text": "interact with the door I'm sure that",
+    "start": 839.639,
+    "duration": 3.521
+  },
+  {
+    "text": "everybody will instantly know what to do",
+    "start": 841.199,
+    "duration": 3.521
+  },
+  {
+    "text": "after listening to another one of my",
+    "start": 843.16,
+    "duration": 3.16
+  },
+  {
+    "text": "amazing voice performances once the",
+    "start": 844.72,
+    "duration": 3.32
+  },
+  {
+    "text": "guards get here all they need to do is",
+    "start": 846.32,
+    "duration": 3.92
+  },
+  {
+    "text": "use their gun to shoot it down and then",
+    "start": 848.04,
+    "duration": 3.96
+  },
+  {
+    "text": "you're done for as long as they decide",
+    "start": 850.24,
+    "duration": 3.44
+  },
+  {
+    "text": "to interact with this random door on the",
+    "start": 852.0,
+    "duration": 3.04
+  },
+  {
+    "text": "other side of the door I added some",
+    "start": 853.68,
+    "duration": 3.24
+  },
+  {
+    "text": "guards just some not too many I",
+    "start": 855.04,
+    "duration": 3.28
+  },
+  {
+    "text": "definitely don't want to overwhelm the",
+    "start": 856.92,
+    "duration": 3.08
+  },
+  {
+    "text": "player with too many enemies that would",
+    "start": 858.32,
+    "duration": 3.68
+  },
+  {
+    "text": "be a bad idea but apparently just like",
+    "start": 860.0,
+    "duration": 4.399
+  },
+  {
+    "text": "the mop I made the gun a little bit too",
+    "start": 862.0,
+    "duration": 4.8
+  },
+  {
+    "text": "powerful maybe making the gun a one shot",
+    "start": 864.399,
+    "duration": 4.12
+  },
+  {
+    "text": "wasn't a great idea anyway now it's time",
+    "start": 866.8,
+    "duration": 3.479
+  },
+  {
+    "text": "to make the game's ending in Al's game",
+    "start": 868.519,
+    "duration": 3.401
+  },
+  {
+    "text": "you come across this bright yellow room",
+    "start": 870.279,
+    "duration": 2.841
+  },
+  {
+    "text": "at the end of a hallway and once you",
+    "start": 871.92,
+    "duration": 2.96
+  },
+  {
+    "text": "enter the room the game Fades to Black",
+    "start": 873.12,
+    "duration": 3.399
+  },
+  {
+    "text": "and ends now this might hurt Al's",
+    "start": 874.88,
+    "duration": 3.399
+  },
+  {
+    "text": "feelings but this is probably the worst",
+    "start": 876.519,
+    "duration": 4.0
+  },
+  {
+    "text": "ending in any video game ever like you",
+    "start": 878.279,
+    "duration": 3.68
+  },
+  {
+    "text": "could make a better ending I can",
+    "start": 880.519,
+    "duration": 2.88
+  },
+  {
+    "text": "definitely make an ending better than",
+    "start": 881.959,
+    "duration": 3.32
+  },
+  {
+    "text": "that I'd like to see you try okay then",
+    "start": 883.399,
+    "duration": 4.841
+  },
+  {
+    "text": "I'll do it this will be",
+    "start": 885.279,
+    "duration": 2.961
+  },
+  {
+    "text": "easy wow what a great ending don't you",
+    "start": 889.32,
+    "duration": 4.0
+  },
+  {
+    "text": "think Al it literally looks the same as",
+    "start": 891.8,
+    "duration": 3.599
+  },
+  {
+    "text": "my ending well that's where Al's wrong",
+    "start": 893.32,
+    "duration": 4.0
+  },
+  {
+    "text": "my ending room has a door which pretty",
+    "start": 895.399,
+    "duration": 3.68
+  },
+  {
+    "text": "much makes it automatically better and",
+    "start": 897.32,
+    "duration": 3.04
+  },
+  {
+    "text": "when you really think about it I've",
+    "start": 899.079,
+    "duration": 3.281
+  },
+  {
+    "text": "pretty much Faithfully remade Al's game",
+    "start": 900.36,
+    "duration": 3.44
+  },
+  {
+    "text": "I haven't really added anything new to",
+    "start": 902.36,
+    "duration": 3.919
+  },
+  {
+    "text": "the game except for this door so I think",
+    "start": 903.8,
+    "duration": 4.32
+  },
+  {
+    "text": "because of this door I have officially",
+    "start": 906.279,
+    "duration": 3.92
+  },
+  {
+    "text": "made a game better than chap GPT you",
+    "start": 908.12,
+    "duration": 3.519
+  },
+  {
+    "text": "think your game's better because of a",
+    "start": 910.199,
+    "duration": 2.961
+  },
+  {
+    "text": "door what about the cut scene that only",
+    "start": 911.639,
+    "duration": 3.161
+  },
+  {
+    "text": "works half of the time what about the",
+    "start": 913.16,
+    "duration": 3.039
+  },
+  {
+    "text": "gun that doesn't even shoot bullets",
+    "start": 914.8,
+    "duration": 2.88
+  },
+  {
+    "text": "properly and you haven't even animated",
+    "start": 916.199,
+    "duration": 3.281
+  },
+  {
+    "text": "the prisoners yet okay that's enough",
+    "start": 917.68,
+    "duration": 3.8
+  },
+  {
+    "text": "video's over I won all right go watch",
+    "start": 919.48,
+    "duration": 3.64
+  },
+  {
+    "text": "this video where I make a very serious",
+    "start": 921.48,
+    "duration": 4.88
+  },
+  {
+    "text": "VR boxing game goodbye",
+    "start": 923.12,
+    "duration": 3.24
+  }
+]

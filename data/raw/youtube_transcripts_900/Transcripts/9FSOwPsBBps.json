@@ -1,0 +1,3652 @@
+[
+  {
+    "text": "I break Minecraft a lot.",
+    "start": 0.0,
+    "duration": 1.333
+  },
+  {
+    "text": "OHHH!",
+    "start": 1.5,
+    "duration": 0.799
+  },
+  {
+    "text": "Look at-- look at me.",
+    "start": 2.299,
+    "duration": 1.067
+  },
+  {
+    "text": "Man, it's hard to hear.",
+    "start": 3.5,
+    "duration": 1.333
+  },
+  {
+    "text": "But every time I've broken Minecraft,",
+    "start": 5.416,
+    "duration": 1.417
+  },
+  {
+    "text": "I've been in a version of the game",
+    "start": 6.833,
+    "duration": 1.133
+  },
+  {
+    "text": "where you can do",
+    "start": 7.966,
+    "duration": 0.617
+  },
+  {
+    "text": "things like run commands,",
+    "start": 8.583,
+    "duration": 1.083
+  },
+  {
+    "text": "spawn mobs, and even break blocks.",
+    "start": 9.883,
+    "duration": 1.45
+  },
+  {
+    "text": "Today though, that changes.",
+    "start": 11.566,
+    "duration": 1.367
+  },
+  {
+    "text": "I'm in Adventure Mode,",
+    "start": 13.333,
+    "duration": 1.8
+  },
+  {
+    "text": "a game mode specifically designed",
+    "start": 15.133,
+    "duration": 1.683
+  },
+  {
+    "text": "to limit what the player",
+    "start": 17.0,
+    "duration": 1.083
+  },
+  {
+    "text": "is able to do in the world.",
+    "start": 18.083,
+    "duration": 1.116
+  },
+  {
+    "text": "By default, adventure mode",
+    "start": 19.199,
+    "duration": 1.351
+  },
+  {
+    "text": "doesn't allow cheats.",
+    "start": 20.55,
+    "duration": 1.083
+  },
+  {
+    "text": "So today, I can't",
+    "start": 21.633,
+    "duration": 1.0
+  },
+  {
+    "text": "spawn hundreds of entities",
+    "start": 22.633,
+    "duration": 0.983
+  },
+  {
+    "text": "or give myself items.",
+    "start": 23.616,
+    "duration": 1.167
+  },
+  {
+    "text": "Adventure Mode also kinda removes",
+    "start": 25.0,
+    "duration": 1.416
+  },
+  {
+    "text": "one of the fundamental elements of",
+    "start": 26.416,
+    "duration": 1.483
+  },
+  {
+    "text": "breaking Minecraft gameplay,",
+    "start": 27.899,
+    "duration": 0.867
+  },
+  {
+    "text": "breaking and placing blocks.",
+    "start": 29.216,
+    "duration": 1.0
+  },
+  {
+    "text": "And that's gonna be a problem.",
+    "start": 30.433,
+    "duration": 1.45
+  },
+  {
+    "text": "So today, with my ultimate",
+    "start": 31.883,
+    "duration": 1.3
+  },
+  {
+    "text": "goal of crashing Minecraft,",
+    "start": 33.183,
+    "duration": 1.45
+  },
+  {
+    "text": "I'm gonna need to rely on niche features",
+    "start": 34.899,
+    "duration": 1.584
+  },
+  {
+    "text": "and potentially bugs within Minecraft",
+    "start": 36.483,
+    "duration": 1.933
+  },
+  {
+    "text": "to get me to the finish line.",
+    "start": 38.416,
+    "duration": 1.45
+  },
+  {
+    "text": "I'm not allowed to run any",
+    "start": 39.866,
+    "duration": 1.033
+  },
+  {
+    "text": "commands to make this happen.",
+    "start": 40.899,
+    "duration": 1.484
+  },
+  {
+    "text": "So, what's the game plan?",
+    "start": 42.383,
+    "duration": 1.4
+  },
+  {
+    "text": "Well, in order to form one,",
+    "start": 43.783,
+    "duration": 1.183
+  },
+  {
+    "text": "I need to do some testing to see",
+    "start": 44.966,
+    "duration": 1.367
+  },
+  {
+    "text": "what's actually possible in",
+    "start": 46.333,
+    "duration": 1.25
+  },
+  {
+    "text": "Adventure and what's limited.",
+    "start": 47.583,
+    "duration": 1.333
+  },
+  {
+    "text": "And here we are in my",
+    "start": 49.133,
+    "duration": 1.05
+  },
+  {
+    "text": "Adventure Mode testing world.",
+    "start": 50.183,
+    "duration": 1.683
+  },
+  {
+    "text": "Let's start with",
+    "start": 51.866,
+    "duration": 0.5
+  },
+  {
+    "text": "General Block Interaction.",
+    "start": 52.366,
+    "duration": 1.417
+  },
+  {
+    "text": "Obviously, you can't",
+    "start": 53.783,
+    "duration": 1.2
+  },
+  {
+    "text": "place blocks down anywhere.",
+    "start": 54.983,
+    "duration": 1.4
+  },
+  {
+    "text": "It doesn't work.",
+    "start": 56.383,
+    "duration": 0.7
+  },
+  {
+    "text": "If those blocks are already there,",
+    "start": 57.2,
+    "duration": 1.833
+  },
+  {
+    "text": "can you use something on them?",
+    "start": 59.533,
+    "duration": 2.25
+  },
+  {
+    "text": "Yes, you can.",
+    "start": 61.983,
+    "duration": 0.783
+  },
+  {
+    "text": "Okay, good to know.",
+    "start": 62.766,
+    "duration": 0.917
+  },
+  {
+    "text": "But it looks like I",
+    "start": 63.683,
+    "duration": 0.817
+  },
+  {
+    "text": "can't place it on the ground.",
+    "start": 64.5,
+    "duration": 1.9
+  },
+  {
+    "text": "So I can't light the ground on fire,",
+    "start": 66.799,
+    "duration": 1.967
+  },
+  {
+    "text": "but I can light TNT.",
+    "start": 68.766,
+    "duration": 1.7
+  },
+  {
+    "text": "Interesting.",
+    "start": 70.65,
+    "duration": 0.5
+  },
+  {
+    "text": "I can also obviously pick up blocks,",
+    "start": 71.316,
+    "duration": 1.783
+  },
+  {
+    "text": "which would really suck",
+    "start": 73.099,
+    "duration": 1.417
+  },
+  {
+    "text": "if I couldn't do that.",
+    "start": 74.516,
+    "duration": 0.917
+  },
+  {
+    "text": "But now that I have the blocks,",
+    "start": 75.433,
+    "duration": 1.067
+  },
+  {
+    "text": "I still can't really",
+    "start": 76.5,
+    "duration": 0.683
+  },
+  {
+    "text": "do anything with them.",
+    "start": 77.183,
+    "duration": 1.15
+  },
+  {
+    "text": "So they're all just kinda useless.",
+    "start": 78.333,
+    "duration": 1.55
+  },
+  {
+    "text": "What about a water bucket?",
+    "start": 80.2,
+    "duration": 1.183
+  },
+  {
+    "text": "Okay, you can't place water buckets down.",
+    "start": 81.783,
+    "duration": 2.633
+  },
+  {
+    "text": "Can I pick up water?",
+    "start": 84.416,
+    "duration": 1.617
+  },
+  {
+    "text": "No, okay, so buckets are also useless.",
+    "start": 86.7,
+    "duration": 2.8
+  },
+  {
+    "text": "I can interact with all of",
+    "start": 89.783,
+    "duration": 2.0
+  },
+  {
+    "text": "these, which is interesting.",
+    "start": 91.783,
+    "duration": 2.033
+  },
+  {
+    "text": "Can I use the bell?",
+    "start": 94.299,
+    "duration": 0.634
+  },
+  {
+    "text": "You can!",
+    "start": 95.483,
+    "duration": 0.5
+  },
+  {
+    "text": "No blocks also work.",
+    "start": 96.416,
+    "duration": 1.117
+  },
+  {
+    "text": "So interacting with",
+    "start": 97.816,
+    "duration": 0.817
+  },
+  {
+    "text": "blocks like this does work,",
+    "start": 98.633,
+    "duration": 1.733
+  },
+  {
+    "text": "which is kinda odd.",
+    "start": 100.366,
+    "duration": 1.867
+  },
+  {
+    "text": "What about entity interaction?",
+    "start": 102.233,
+    "duration": 1.3
+  },
+  {
+    "text": "Okay, now you have a job.",
+    "start": 103.916,
+    "duration": 1.067
+  },
+  {
+    "text": "Okay, yes, you can",
+    "start": 104.983,
+    "duration": 0.95
+  },
+  {
+    "text": "interact with villagers.",
+    "start": 105.933,
+    "duration": 0.833
+  },
+  {
+    "text": "Looks like you can also",
+    "start": 107.116,
+    "duration": 1.1
+  },
+  {
+    "text": "interact with creepers,",
+    "start": 108.216,
+    "duration": 1.383
+  },
+  {
+    "text": "which is an",
+    "start": 109.599,
+    "duration": 0.484
+  },
+  {
+    "text": "interesting way to break blocks.",
+    "start": 110.083,
+    "duration": 1.1
+  },
+  {
+    "text": "I think that's kinda the only way",
+    "start": 111.433,
+    "duration": 1.467
+  },
+  {
+    "text": "to break blocks in Adventure Mode.",
+    "start": 112.9,
+    "duration": 1.566
+  },
+  {
+    "text": "And you can also light",
+    "start": 114.5,
+    "duration": 1.266
+  },
+  {
+    "text": "creepers with flint and steel.",
+    "start": 115.766,
+    "duration": 1.8
+  },
+  {
+    "text": "Also good to know.",
+    "start": 117.983,
+    "duration": 0.816
+  },
+  {
+    "text": "You can damage them.",
+    "start": 118.799,
+    "duration": 1.0
+  },
+  {
+    "text": "Can you interact with redstone?",
+    "start": 119.799,
+    "duration": 1.601
+  },
+  {
+    "text": "Yes, interesting.",
+    "start": 121.733,
+    "duration": 0.983
+  },
+  {
+    "text": "It's a very limited number of things",
+    "start": 122.983,
+    "duration": 1.7
+  },
+  {
+    "text": "that I can actually do in Adventure Mode.",
+    "start": 124.683,
+    "duration": 2.017
+  },
+  {
+    "text": "So this is gonna be,",
+    "start": 127.299,
+    "duration": 1.167
+  },
+  {
+    "text": "this is gonna be rough.",
+    "start": 128.466,
+    "duration": 0.633
+  },
+  {
+    "text": "All right, well, let's form a game plan.",
+    "start": 129.333,
+    "duration": 1.883
+  },
+  {
+    "text": "Game plan one, casual in-game discovery.",
+    "start": 131.5,
+    "duration": 2.633
+  },
+  {
+    "text": "Honestly, since I don't have",
+    "start": 134.133,
+    "duration": 1.033
+  },
+  {
+    "text": "much of a direction to follow",
+    "start": 135.166,
+    "duration": 1.067
+  },
+  {
+    "text": "to figure out what can crash the game,",
+    "start": 136.233,
+    "duration": 1.5
+  },
+  {
+    "text": "I decided to just play",
+    "start": 137.983,
+    "duration": 1.183
+  },
+  {
+    "text": "Minecraft in Adventure Mode",
+    "start": 139.166,
+    "duration": 1.033
+  },
+  {
+    "text": "and see if it leads anywhere naturally.",
+    "start": 140.199,
+    "duration": 1.784
+  },
+  {
+    "text": "So I gathered some food",
+    "start": 141.983,
+    "duration": 1.05
+  },
+  {
+    "text": "in the form of chickens",
+    "start": 143.033,
+    "duration": 0.767
+  },
+  {
+    "text": "and set off to find a village.",
+    "start": 144.233,
+    "duration": 1.3
+  },
+  {
+    "text": "Adventure Mode sucks, man.",
+    "start": 145.933,
+    "duration": 1.6
+  },
+  {
+    "text": "There's so much that I could probably do",
+    "start": 147.533,
+    "duration": 1.7
+  },
+  {
+    "text": "with like this cave and",
+    "start": 149.233,
+    "duration": 1.633
+  },
+  {
+    "text": "like, I could go find things,",
+    "start": 150.866,
+    "duration": 2.0
+  },
+  {
+    "text": "but no, I'm just stuck here,",
+    "start": 153.199,
+    "duration": 2.367
+  },
+  {
+    "text": "not able to break anything.",
+    "start": 155.8,
+    "duration": 1.083
+  },
+  {
+    "text": "The first real direction I wanted to go",
+    "start": 157.4,
+    "duration": 1.483
+  },
+  {
+    "text": "was towards the plains",
+    "start": 158.883,
+    "duration": 1.25
+  },
+  {
+    "text": "so I could find a village pretty easily.",
+    "start": 160.366,
+    "duration": 1.517
+  },
+  {
+    "text": "And after wandering around for a while",
+    "start": 162.166,
+    "duration": 1.717
+  },
+  {
+    "text": "with minimal complaints,",
+    "start": 164.016,
+    "duration": 2.017
+  },
+  {
+    "text": "my goal is to crash the game",
+    "start": 166.283,
+    "duration": 1.416
+  },
+  {
+    "text": "and yet I can't do anything in the game.",
+    "start": 167.699,
+    "duration": 2.184
+  },
+  {
+    "text": "It actually paid off.",
+    "start": 169.883,
+    "duration": 0.85
+  },
+  {
+    "text": "Oh, there's a village over there.",
+    "start": 170.933,
+    "duration": 1.333
+  },
+  {
+    "text": "Okay, sick.",
+    "start": 172.283,
+    "duration": 0.6
+  },
+  {
+    "text": "I'm gonna think through like,",
+    "start": 173.116,
+    "duration": 0.717
+  },
+  {
+    "text": "what kind of",
+    "start": 174.116,
+    "duration": 0.717
+  },
+  {
+    "text": "resources I'm gonna find here.",
+    "start": 174.833,
+    "duration": 1.683
+  },
+  {
+    "text": "And I don't know if this is",
+    "start": 176.733,
+    "duration": 1.683
+  },
+  {
+    "text": "necessarily going to be helpful",
+    "start": 178.416,
+    "duration": 1.25
+  },
+  {
+    "text": "for my final goal of breaking the game,",
+    "start": 179.916,
+    "duration": 1.817
+  },
+  {
+    "text": "but I need to find out.",
+    "start": 181.733,
+    "duration": 1.15
+  },
+  {
+    "text": "It was around this time",
+    "start": 182.883,
+    "duration": 0.733
+  },
+  {
+    "text": "that I started",
+    "start": 183.616,
+    "duration": 0.6
+  },
+  {
+    "text": "questioning my initial game plan.",
+    "start": 184.216,
+    "duration": 1.983
+  },
+  {
+    "text": "There's not much you can",
+    "start": 186.199,
+    "duration": 0.767
+  },
+  {
+    "text": "access in Adventure Mode,",
+    "start": 186.966,
+    "duration": 1.167
+  },
+  {
+    "text": "so my options were pretty limited.",
+    "start": 188.383,
+    "duration": 1.633
+  },
+  {
+    "text": "It was basically",
+    "start": 190.016,
+    "duration": 0.617
+  },
+  {
+    "text": "impossible together enough resources",
+    "start": 190.633,
+    "duration": 1.55
+  },
+  {
+    "text": "to craft anything in a quantity",
+    "start": 192.433,
+    "duration": 1.3
+  },
+  {
+    "text": "that would do damage to my frame rate.",
+    "start": 193.733,
+    "duration": 1.6
+  },
+  {
+    "text": "And I wasn't allowed to use mods",
+    "start": 195.583,
+    "duration": 1.433
+  },
+  {
+    "text": "or anything extra to help me out,",
+    "start": 197.016,
+    "duration": 1.617
+  },
+  {
+    "text": "so I was feeling pretty unsure.",
+    "start": 199.0,
+    "duration": 1.483
+  },
+  {
+    "text": "But as the sun started",
+    "start": 200.483,
+    "duration": 0.733
+  },
+  {
+    "text": "setting, I made it to the village.",
+    "start": 201.216,
+    "duration": 1.383
+  },
+  {
+    "text": "In theory, this is a",
+    "start": 202.8,
+    "duration": 0.966
+  },
+  {
+    "text": "step in the right direction.",
+    "start": 203.766,
+    "duration": 1.25
+  },
+  {
+    "text": "Let's see what's in here.",
+    "start": 205.016,
+    "duration": 0.75
+  },
+  {
+    "text": "Leather, okay, and some bread.",
+    "start": 206.0,
+    "duration": 1.599
+  },
+  {
+    "text": "That's huge.",
+    "start": 207.599,
+    "duration": 0.567
+  },
+  {
+    "text": "Oh no, I can't get in this house.",
+    "start": 208.433,
+    "duration": 1.95
+  },
+  {
+    "text": "There's a chest in",
+    "start": 210.383,
+    "duration": 0.733
+  },
+  {
+    "text": "there, but I can't get in",
+    "start": 211.116,
+    "duration": 0.8
+  },
+  {
+    "text": "because there's a, oh, I",
+    "start": 211.916,
+    "duration": 1.867
+  },
+  {
+    "text": "guess I could creeper it.",
+    "start": 213.783,
+    "duration": 1.483
+  },
+  {
+    "text": "Oh no, oh no.",
+    "start": 215.266,
+    "duration": 1.667
+  },
+  {
+    "text": "(laughs)",
+    "start": 217.666,
+    "duration": 0.65
+  },
+  {
+    "text": "Oh no, oh no, wait, I",
+    "start": 218.316,
+    "duration": 2.984
+  },
+  {
+    "text": "can't even put the fire out.",
+    "start": 221.3,
+    "duration": 1.183
+  },
+  {
+    "text": "He's just stuck here.",
+    "start": 222.483,
+    "duration": 0.9
+  },
+  {
+    "text": "There's nothing, oh okay, oh no.",
+    "start": 223.683,
+    "duration": 1.95
+  },
+  {
+    "text": "It's really, that's really a bummer.",
+    "start": 225.633,
+    "duration": 1.483
+  },
+  {
+    "text": "Uhh...",
+    "start": 227.583,
+    "duration": 0.533
+  },
+  {
+    "text": "Okay, I see a couple creepers up there.",
+    "start": 228.116,
+    "duration": 2.1
+  },
+  {
+    "text": "I'm gonna see if I can lure them down.",
+    "start": 230.216,
+    "duration": 1.417
+  },
+  {
+    "text": "Hey you, hey come here.",
+    "start": 232.033,
+    "duration": 1.1
+  },
+  {
+    "text": "Come on, yeah, no, no,",
+    "start": 233.133,
+    "duration": 0.783
+  },
+  {
+    "text": "I don't want the others.",
+    "start": 233.916,
+    "duration": 0.75
+  },
+  {
+    "text": "I just want the creeper.",
+    "start": 234.666,
+    "duration": 1.0
+  },
+  {
+    "text": "I just need the, get out of here, man.",
+    "start": 235.666,
+    "duration": 1.717
+  },
+  {
+    "text": "Get out of here.",
+    "start": 237.383,
+    "duration": 0.5
+  },
+  {
+    "text": "Ow, stop, oh shoot, this is bad.",
+    "start": 238.233,
+    "duration": 1.8
+  },
+  {
+    "text": "Come on creeper, right here, come on.",
+    "start": 240.033,
+    "duration": 1.583
+  },
+  {
+    "text": "This is where I need you to be.",
+    "start": 241.916,
+    "duration": 1.15
+  },
+  {
+    "text": "This is where I want you to be.",
+    "start": 243.3,
+    "duration": 1.116
+  },
+  {
+    "text": "I need you to light right",
+    "start": 244.416,
+    "duration": 1.067
+  },
+  {
+    "text": "there, right there, right there.",
+    "start": 245.483,
+    "duration": 0.933
+  },
+  {
+    "text": "Yes, I'm sorry, man.",
+    "start": 246.916,
+    "duration": 1.15
+  },
+  {
+    "text": "It was for the greater good, okay.",
+    "start": 248.233,
+    "duration": 1.25
+  },
+  {
+    "text": "Oh, wood, oh shoot, I",
+    "start": 249.483,
+    "duration": 1.533
+  },
+  {
+    "text": "got cobblestone too.",
+    "start": 251.016,
+    "duration": 1.65
+  },
+  {
+    "text": "Oh my gosh, oh my gosh,",
+    "start": 252.666,
+    "duration": 1.3
+  },
+  {
+    "text": "there's so many monsters.",
+    "start": 253.966,
+    "duration": 0.934
+  },
+  {
+    "text": "Okay, all right, I'm running, I'm",
+    "start": 255.133,
+    "duration": 1.133
+  },
+  {
+    "text": "running, I'm running.",
+    "start": 256.266,
+    "duration": 0.917
+  },
+  {
+    "text": "(groans)",
+    "start": 257.183,
+    "duration": 0.7
+  },
+  {
+    "text": "Wait creeper, come here.",
+    "start": 258.516,
+    "duration": 0.817
+  },
+  {
+    "text": "Wait, come on, come on.",
+    "start": 259.333,
+    "duration": 0.8
+  },
+  {
+    "text": "Don't let the skeleton hit you.",
+    "start": 260.199,
+    "duration": 1.101
+  },
+  {
+    "text": "Ow, don't let the skeleton hit me either.",
+    "start": 261.3,
+    "duration": 1.483
+  },
+  {
+    "text": "Light there, light here.",
+    "start": 263.066,
+    "duration": 0.934
+  },
+  {
+    "text": "Well, all right, I should've,",
+    "start": 265.85,
+    "duration": 1.15
+  },
+  {
+    "text": "I probably should've",
+    "start": 267.0,
+    "duration": 0.899
+  },
+  {
+    "text": "seen that coming, okay.",
+    "start": 267.899,
+    "duration": 0.917
+  },
+  {
+    "text": "This could be good, did",
+    "start": 268.816,
+    "duration": 0.7
+  },
+  {
+    "text": "it drop any hay bales?",
+    "start": 269.516,
+    "duration": 1.167
+  },
+  {
+    "text": "Did they drop any, yes, hay bales.",
+    "start": 270.683,
+    "duration": 1.317
+  },
+  {
+    "text": "Is this guy still alive?",
+    "start": 272.0,
+    "duration": 0.716
+  },
+  {
+    "text": "Oh, he lived.",
+    "start": 273.0,
+    "duration": 0.716
+  },
+  {
+    "text": "This ruined portal might have some stuff.",
+    "start": 273.966,
+    "duration": 1.65
+  },
+  {
+    "text": "I'm gonna head over there.",
+    "start": 275.616,
+    "duration": 0.617
+  },
+  {
+    "text": "We got, oh, flint and",
+    "start": 276.233,
+    "duration": 1.166
+  },
+  {
+    "text": "steel and a golden shovel,",
+    "start": 277.399,
+    "duration": 1.467
+  },
+  {
+    "text": "which I can't really use, but I have it.",
+    "start": 279.116,
+    "duration": 2.067
+  },
+  {
+    "text": "Now here's the thing, I",
+    "start": 281.183,
+    "duration": 1.3
+  },
+  {
+    "text": "still can't place blocks.",
+    "start": 282.483,
+    "duration": 1.65
+  },
+  {
+    "text": "So even if I gather wood",
+    "start": 284.616,
+    "duration": 1.083
+  },
+  {
+    "text": "from creeper explosions,",
+    "start": 285.699,
+    "duration": 1.034
+  },
+  {
+    "text": "I can't place the crafting table.",
+    "start": 287.1,
+    "duration": 1.683
+  },
+  {
+    "text": "Plus, to make things worse,",
+    "start": 288.816,
+    "duration": 1.083
+  },
+  {
+    "text": "crafting tables only spawn in Savannah,",
+    "start": 290.133,
+    "duration": 1.85
+  },
+  {
+    "text": "Desert and Taiga villages.",
+    "start": 292.433,
+    "duration": 1.383
+  },
+  {
+    "text": "So my plains village",
+    "start": 294.216,
+    "duration": 0.983
+  },
+  {
+    "text": "was all but useless.",
+    "start": 295.199,
+    "duration": 0.917
+  },
+  {
+    "text": "So now I'm on another search.",
+    "start": 296.333,
+    "duration": 1.583
+  },
+  {
+    "text": "Another village in another biome",
+    "start": 298.199,
+    "duration": 1.784
+  },
+  {
+    "text": "that will finally let me craft things.",
+    "start": 299.983,
+    "duration": 2.2
+  },
+  {
+    "text": "And so I wandered the",
+    "start": 302.183,
+    "duration": 1.05
+  },
+  {
+    "text": "forest aimlessly until,",
+    "start": 303.233,
+    "duration": 1.7
+  },
+  {
+    "text": "oh, whoa, whoa, whoa.",
+    "start": 305.233,
+    "duration": 2.267
+  },
+  {
+    "text": "Okay, I see a village, but I don't.",
+    "start": 307.5,
+    "duration": 2.283
+  },
+  {
+    "text": "Uh-huh, this is an",
+    "start": 310.083,
+    "duration": 0.517
+  },
+  {
+    "text": "abandoned spruce village.",
+    "start": 310.6,
+    "duration": 1.216
+  },
+  {
+    "text": "I really hope this doesn't have, oh, oh.",
+    "start": 312.083,
+    "duration": 3.75
+  },
+  {
+    "text": "Oh my gosh, this is perfect.",
+    "start": 316.083,
+    "duration": 1.633
+  },
+  {
+    "text": "Okay, crafting table acquired.",
+    "start": 318.066,
+    "duration": 1.6
+  },
+  {
+    "text": "Is there anything I can do with it?",
+    "start": 319.966,
+    "duration": 2.15
+  },
+  {
+    "text": "Now that I think about it,",
+    "start": 322.116,
+    "duration": 0.767
+  },
+  {
+    "text": "there's not much I can craft",
+    "start": 322.883,
+    "duration": 1.05
+  },
+  {
+    "text": "that's gonna help me.",
+    "start": 324.133,
+    "duration": 0.783
+  },
+  {
+    "text": "Oh, that was weird.",
+    "start": 325.166,
+    "duration": 0.85
+  },
+  {
+    "text": "Guess I'll make some bread.",
+    "start": 326.016,
+    "duration": 0.75
+  },
+  {
+    "text": "That's nice.",
+    "start": 326.983,
+    "duration": 0.5
+  },
+  {
+    "text": "I've got a single iron ingot.",
+    "start": 327.716,
+    "duration": 1.6
+  },
+  {
+    "text": "Great.",
+    "start": 329.566,
+    "duration": 0.5
+  },
+  {
+    "text": "Uhhh...",
+    "start": 330.1,
+    "duration": 0.733
+  },
+  {
+    "text": "Leather boots, I guess.",
+    "start": 331.0,
+    "duration": 1.583
+  },
+  {
+    "text": "We have a crafting table.",
+    "start": 332.883,
+    "duration": 1.016
+  },
+  {
+    "text": "We have all this stuff that we need.",
+    "start": 334.1,
+    "duration": 1.483
+  },
+  {
+    "text": "We have a general way to break blocks,",
+    "start": 335.583,
+    "duration": 1.616
+  },
+  {
+    "text": "but I can't entirely think of",
+    "start": 337.416,
+    "duration": 1.367
+  },
+  {
+    "text": "a good way to crash the game.",
+    "start": 338.783,
+    "duration": 2.05
+  },
+  {
+    "text": "I was stumped.",
+    "start": 341.1,
+    "duration": 0.616
+  },
+  {
+    "text": "So I decided to do some research.",
+    "start": 342.266,
+    "duration": 1.4
+  },
+  {
+    "text": "I think I need a new approach.",
+    "start": 343.883,
+    "duration": 1.05
+  },
+  {
+    "text": "Game plan two, dig into the code.",
+    "start": 345.199,
+    "duration": 1.867
+  },
+  {
+    "text": "There might be some sort",
+    "start": 347.133,
+    "duration": 0.9
+  },
+  {
+    "text": "of game breaking glitch",
+    "start": 348.033,
+    "duration": 1.1
+  },
+  {
+    "text": "in Minecraft's code that",
+    "start": 349.133,
+    "duration": 0.967
+  },
+  {
+    "text": "will allow me to crash the game",
+    "start": 350.1,
+    "duration": 1.233
+  },
+  {
+    "text": "without overloading my computer.",
+    "start": 351.433,
+    "duration": 1.4
+  },
+  {
+    "text": "Something to terminate",
+    "start": 353.116,
+    "duration": 0.867
+  },
+  {
+    "text": "the application itself",
+    "start": 353.983,
+    "duration": 1.183
+  },
+  {
+    "text": "rather than my hardware.",
+    "start": 355.666,
+    "duration": 1.3
+  },
+  {
+    "text": "So I did some digging",
+    "start": 356.966,
+    "duration": 0.767
+  },
+  {
+    "text": "and it turns out Minecraft",
+    "start": 357.733,
+    "duration": 1.083
+  },
+  {
+    "text": "actually has an article",
+    "start": 359.033,
+    "duration": 0.866
+  },
+  {
+    "text": "about their top 10 favorite bugs",
+    "start": 359.899,
+    "duration": 1.667
+  },
+  {
+    "text": "from the game.",
+    "start": 361.566,
+    "duration": 0.65
+  },
+  {
+    "text": "That's exactly what I'm looking for.",
+    "start": 362.6,
+    "duration": 1.7
+  },
+  {
+    "text": "They say when they added",
+    "start": 364.3,
+    "duration": 0.766
+  },
+  {
+    "text": "the Wither, suddenly our game",
+    "start": 365.066,
+    "duration": 0.9
+  },
+  {
+    "text": "would start crashing in",
+    "start": 365.966,
+    "duration": 0.95
+  },
+  {
+    "text": "really weird and impossible ways.",
+    "start": 366.916,
+    "duration": 1.55
+  },
+  {
+    "text": "When was the Wither added?",
+    "start": 368.816,
+    "duration": 1.3
+  },
+  {
+    "text": "It was part of the pretty scary update",
+    "start": 370.116,
+    "duration": 1.3
+  },
+  {
+    "text": "or version 1.4.2 of the game.",
+    "start": 371.416,
+    "duration": 2.067
+  },
+  {
+    "text": "Snapshots for 1.4 didn't exist.",
+    "start": 373.716,
+    "duration": 1.717
+  },
+  {
+    "text": "So I guess the final version was the one",
+    "start": 375.899,
+    "duration": 2.134
+  },
+  {
+    "text": "that they released, right?",
+    "start": 378.033,
+    "duration": 1.15
+  },
+  {
+    "text": "Dang it.",
+    "start": 379.383,
+    "duration": 0.5
+  },
+  {
+    "text": "Well, that's unfortunate.",
+    "start": 379.883,
+    "duration": 1.683
+  },
+  {
+    "text": "All right, next idea.",
+    "start": 382.083,
+    "duration": 0.917
+  },
+  {
+    "text": "So there was a bug that happened in 1.3?",
+    "start": 383.366,
+    "duration": 3.467
+  },
+  {
+    "text": "Minecraft 1.3, crouch",
+    "start": 387.516,
+    "duration": 0.9
+  },
+  {
+    "text": "push screenshot equals crash.",
+    "start": 388.416,
+    "duration": 1.517
+  },
+  {
+    "text": "This has always happened.",
+    "start": 389.933,
+    "duration": 0.9
+  },
+  {
+    "text": "It's not new.",
+    "start": 390.833,
+    "duration": 0.733
+  },
+  {
+    "text": "Crouch F2, crouching screenshot.",
+    "start": 391.8,
+    "duration": 2.2
+  },
+  {
+    "text": "Screen shot.",
+    "start": 394.283,
+    "duration": 0.5
+  },
+  {
+    "text": "It's still, it works.",
+    "start": 394.883,
+    "duration": 0.933
+  },
+  {
+    "text": "I'm having trouble finding anything",
+    "start": 396.1,
+    "duration": 1.9
+  },
+  {
+    "text": "that's actually helpful.",
+    "start": 398.0,
+    "duration": 1.066
+  },
+  {
+    "text": "I think it's time to",
+    "start": 400.166,
+    "duration": 0.75
+  },
+  {
+    "text": "ask my comments for help.",
+    "start": 400.916,
+    "duration": 1.267
+  },
+  {
+    "text": "Game plan three, ask the viewers.",
+    "start": 402.466,
+    "duration": 2.117
+  },
+  {
+    "text": "What is a good way to break",
+    "start": 404.899,
+    "duration": 1.0
+  },
+  {
+    "text": "Minecraft in adventure mode",
+    "start": 405.899,
+    "duration": 1.017
+  },
+  {
+    "text": "asking for a friend?",
+    "start": 407.0,
+    "duration": 0.983
+  },
+  {
+    "text": "Because I don't wanna, I",
+    "start": 407.983,
+    "duration": 0.85
+  },
+  {
+    "text": "don't want people to know",
+    "start": 408.833,
+    "duration": 0.767
+  },
+  {
+    "text": "that's what I'm doing.",
+    "start": 409.6,
+    "duration": 0.766
+  },
+  {
+    "text": "Sword computer.",
+    "start": 410.683,
+    "duration": 0.883
+  },
+  {
+    "text": "Break them in half with the",
+    "start": 411.933,
+    "duration": 0.933
+  },
+  {
+    "text": "break-in-halfinator.",
+    "start": 412.866,
+    "duration": 0.95
+  },
+  {
+    "text": "Subscribing in an RFE would immediately",
+    "start": 414.166,
+    "duration": 1.2
+  },
+  {
+    "text": "break the game source, trust me bro.",
+    "start": 415.516,
+    "duration": 1.7
+  },
+  {
+    "text": "Hit along with a snowball,",
+    "start": 417.399,
+    "duration": 0.967
+  },
+  {
+    "text": "then let some spit at you.",
+    "start": 418.366,
+    "duration": 1.0
+  },
+  {
+    "text": "Repeat until death.",
+    "start": 419.366,
+    "duration": 0.867
+  },
+  {
+    "text": "Go to the gym.",
+    "start": 420.233,
+    "duration": 0.583
+  },
+  {
+    "text": "Danny DeVito.",
+    "start": 421.016,
+    "duration": 0.817
+  },
+  {
+    "text": "This is not helping.",
+    "start": 422.116,
+    "duration": 1.15
+  },
+  {
+    "text": "Break the game in adventure.",
+    "start": 423.633,
+    "duration": 1.15
+  },
+  {
+    "text": "(screams)",
+    "start": 425.033,
+    "duration": 0.65
+  },
+  {
+    "text": "Go on a superflat",
+    "start": 425.683,
+    "duration": 0.683
+  },
+  {
+    "text": "filled with sand and wait.",
+    "start": 426.366,
+    "duration": 0.75
+  },
+  {
+    "text": "Normally, eventually it should break by",
+    "start": 427.316,
+    "duration": 0.95
+  },
+  {
+    "text": "something or someone.",
+    "start": 428.266,
+    "duration": 1.117
+  },
+  {
+    "text": "That's actually a great idea.",
+    "start": 429.383,
+    "duration": 1.4
+  },
+  {
+    "text": "I'm not having to touch anything here.",
+    "start": 430.783,
+    "duration": 1.95
+  },
+  {
+    "text": "I'm now in adventure mode.",
+    "start": 432.733,
+    "duration": 1.4
+  },
+  {
+    "text": "And if I can...",
+    "start": 434.133,
+    "duration": 0.95
+  },
+  {
+    "text": "Oh, I just realized it doesn't update it.",
+    "start": 435.083,
+    "duration": 3.033
+  },
+  {
+    "text": "Hold on, hold on.",
+    "start": 438.116,
+    "duration": 0.917
+  },
+  {
+    "text": "Three sand, one air, one",
+    "start": 439.233,
+    "duration": 1.367
+  },
+  {
+    "text": "sand and a pressure plates.",
+    "start": 440.6,
+    "duration": 1.133
+  },
+  {
+    "text": "Oh, oh, oh, oh, oh, oh.",
+    "start": 442.916,
+    "duration": 1.684
+  },
+  {
+    "text": "This also still didn't,",
+    "start": 444.6,
+    "duration": 1.266
+  },
+  {
+    "text": "oh shoot, wait, hold on.",
+    "start": 445.866,
+    "duration": 1.117
+  },
+  {
+    "text": "This is still not working.",
+    "start": 447.283,
+    "duration": 0.85
+  },
+  {
+    "text": "I'm just gonna remove those layers.",
+    "start": 448.133,
+    "duration": 1.066
+  },
+  {
+    "text": "We're just gonna have one sand.",
+    "start": 449.199,
+    "duration": 0.934
+  },
+  {
+    "text": "Great new world, I'm in adventure.",
+    "start": 450.383,
+    "duration": 1.133
+  },
+  {
+    "text": "Okay, I'm falling now.",
+    "start": 451.516,
+    "duration": 1.017
+  },
+  {
+    "text": "I'm dying, but there is sand falling.",
+    "start": 452.533,
+    "duration": 1.9
+  },
+  {
+    "text": "Wait, oh, oh, oh.",
+    "start": 455.283,
+    "duration": 2.133
+  },
+  {
+    "text": "Okay, wait, okay, wait.",
+    "start": 457.416,
+    "duration": 1.184
+  },
+  {
+    "text": "This could crash it actually.",
+    "start": 458.6,
+    "duration": 1.583
+  },
+  {
+    "text": "I've done this before in, oh my gosh,",
+    "start": 460.183,
+    "duration": 2.417
+  },
+  {
+    "text": "in a breaking Minecraft video",
+    "start": 462.6,
+    "duration": 1.133
+  },
+  {
+    "text": "and I don't remember if it crashed it,",
+    "start": 464.016,
+    "duration": 2.0
+  },
+  {
+    "text": "but this is a step in",
+    "start": 466.016,
+    "duration": 0.85
+  },
+  {
+    "text": "the right direction.",
+    "start": 466.866,
+    "duration": 0.617
+  },
+  {
+    "text": "I am trying to fully crash the game.",
+    "start": 467.699,
+    "duration": 2.417
+  },
+  {
+    "text": "So this is not",
+    "start": 470.366,
+    "duration": 1.15
+  },
+  {
+    "text": "necessarily an unplayable thing.",
+    "start": 471.516,
+    "duration": 1.767
+  },
+  {
+    "text": "It's something that I'm",
+    "start": 473.283,
+    "duration": 0.683
+  },
+  {
+    "text": "like actually actively",
+    "start": 473.966,
+    "duration": 1.167
+  },
+  {
+    "text": "trying to crash.",
+    "start": 475.333,
+    "duration": 0.733
+  },
+  {
+    "text": "The rendering of this though is",
+    "start": 476.283,
+    "duration": 1.416
+  },
+  {
+    "text": "definitely taking a toll.",
+    "start": 477.699,
+    "duration": 1.867
+  },
+  {
+    "text": "So that's interesting.",
+    "start": 479.566,
+    "duration": 0.867
+  },
+  {
+    "text": "Okay, it's going, but",
+    "start": 480.466,
+    "duration": 2.05
+  },
+  {
+    "text": "it's still not crashing.",
+    "start": 482.516,
+    "duration": 1.8
+  },
+  {
+    "text": "It's just really slow.",
+    "start": 484.616,
+    "duration": 1.6
+  },
+  {
+    "text": "Yeah, unfortunately I don't",
+    "start": 486.783,
+    "duration": 1.083
+  },
+  {
+    "text": "think this is gonna crash it.",
+    "start": 487.866,
+    "duration": 0.934
+  },
+  {
+    "text": "I'm kind of thinking",
+    "start": 489.033,
+    "duration": 1.5
+  },
+  {
+    "text": "this is it for this one.",
+    "start": 490.533,
+    "duration": 1.483
+  },
+  {
+    "text": "All right, I'm gonna try something else.",
+    "start": 492.016,
+    "duration": 1.084
+  },
+  {
+    "text": "We're gonna try the",
+    "start": 493.133,
+    "duration": 0.6
+  },
+  {
+    "text": "super flat method again,",
+    "start": 493.733,
+    "duration": 1.1
+  },
+  {
+    "text": "but with TNT.",
+    "start": 494.833,
+    "duration": 0.7
+  },
+  {
+    "text": "In theory, this does overload the world.",
+    "start": 495.899,
+    "duration": 2.817
+  },
+  {
+    "text": "Oh geez, okay, okay, okay.",
+    "start": 498.716,
+    "duration": 1.367
+  },
+  {
+    "text": "We're gonna have a lot of explosions.",
+    "start": 500.083,
+    "duration": 0.983
+  },
+  {
+    "text": "Oh geez, okay.",
+    "start": 501.283,
+    "duration": 0.933
+  },
+  {
+    "text": "Okay, okay, this is interesting.",
+    "start": 503.466,
+    "duration": 2.467
+  },
+  {
+    "text": "I'm not taking damage",
+    "start": 506.183,
+    "duration": 0.883
+  },
+  {
+    "text": "down here for some reason,",
+    "start": 507.066,
+    "duration": 1.3
+  },
+  {
+    "text": "but it's still exploding up there.",
+    "start": 508.366,
+    "duration": 1.35
+  },
+  {
+    "text": "Oh, oh, oh, oh, some damage.",
+    "start": 510.0,
+    "duration": 2.566
+  },
+  {
+    "text": "I guess I'm stuck down here.",
+    "start": 512.566,
+    "duration": 1.217
+  },
+  {
+    "text": "Okay, this might not work.",
+    "start": 516.5,
+    "duration": 2.216
+  },
+  {
+    "text": "Yeah, it's not crashing.",
+    "start": 518.716,
+    "duration": 1.6
+  },
+  {
+    "text": "It's just making the game slow and weird.",
+    "start": 520.7,
+    "duration": 2.833
+  },
+  {
+    "text": "I think I would also",
+    "start": 523.533,
+    "duration": 0.883
+  },
+  {
+    "text": "move on from this one.",
+    "start": 524.416,
+    "duration": 0.95
+  },
+  {
+    "text": "The comments weren't",
+    "start": 525.366,
+    "duration": 0.767
+  },
+  {
+    "text": "super helpful so far,",
+    "start": 526.133,
+    "duration": 1.1
+  },
+  {
+    "text": "but I kept reading and I",
+    "start": 527.233,
+    "duration": 1.367
+  },
+  {
+    "text": "stumbled upon something",
+    "start": 528.6,
+    "duration": 0.833
+  },
+  {
+    "text": "that legitimately completely changed",
+    "start": 529.433,
+    "duration": 2.45
+  },
+  {
+    "text": "the trajectory of this video.",
+    "start": 531.883,
+    "duration": 1.516
+  },
+  {
+    "text": "Use Snapshot 12W34A,",
+    "start": 533.399,
+    "duration": 1.934
+  },
+  {
+    "text": "build a nether portal near a lava pool.",
+    "start": 535.333,
+    "duration": 2.05
+  },
+  {
+    "text": "Yes, you can build in",
+    "start": 537.383,
+    "duration": 1.2
+  },
+  {
+    "text": "adventure mode in this snapshot.",
+    "start": 538.583,
+    "duration": 1.933
+  },
+  {
+    "text": "Light it up using",
+    "start": 540.516,
+    "duration": 0.367
+  },
+  {
+    "text": "wooden planks or something",
+    "start": 540.883,
+    "duration": 0.683
+  },
+  {
+    "text": "and try fishing inside of it.",
+    "start": 541.566,
+    "duration": 1.067
+  },
+  {
+    "text": "Interesting, 12W34A.",
+    "start": 542.833,
+    "duration": 2.5
+  },
+  {
+    "text": "It doesn't exist.",
+    "start": 545.666,
+    "duration": 1.617
+  },
+  {
+    "text": "Okay, Snapshot 1.4.1.",
+    "start": 547.799,
+    "duration": 1.717
+  },
+  {
+    "text": "I'm gonna try that one and",
+    "start": 549.6,
+    "duration": 1.416
+  },
+  {
+    "text": "I'm gonna see if that works.",
+    "start": 551.016,
+    "duration": 1.283
+  },
+  {
+    "text": "Oh, it, oh no.",
+    "start": 552.583,
+    "duration": 1.583
+  },
+  {
+    "text": "So we have a problem.",
+    "start": 554.483,
+    "duration": 0.9
+  },
+  {
+    "text": "Minecraft Snapshots",
+    "start": 555.683,
+    "duration": 0.433
+  },
+  {
+    "text": "around the time of 1.4",
+    "start": 556.116,
+    "duration": 1.25
+  },
+  {
+    "text": "weren't released the",
+    "start": 557.466,
+    "duration": 0.8
+  },
+  {
+    "text": "same way they are today.",
+    "start": 558.266,
+    "duration": 1.017
+  },
+  {
+    "text": "It required a bit more of a workaround,",
+    "start": 559.583,
+    "duration": 1.75
+  },
+  {
+    "text": "so none of the actual snapshots",
+    "start": 561.666,
+    "duration": 1.35
+  },
+  {
+    "text": "were in the Minecraft launcher.",
+    "start": 563.016,
+    "duration": 1.467
+  },
+  {
+    "text": "I couldn't access the one",
+    "start": 565.0,
+    "duration": 1.6
+  },
+  {
+    "text": "snapshot that I actually needed.",
+    "start": 566.6,
+    "duration": 1.699
+  },
+  {
+    "text": "How do you access it?",
+    "start": 568.5,
+    "duration": 1.483
+  },
+  {
+    "text": "How do you access these old snapshots?",
+    "start": 569.983,
+    "duration": 1.816
+  },
+  {
+    "text": "But then I found it, way back machine.",
+    "start": 572.2,
+    "duration": 2.8
+  },
+  {
+    "text": "These old Minecraft",
+    "start": 575.283,
+    "duration": 0.683
+  },
+  {
+    "text": "articles still house the downloads",
+    "start": 575.966,
+    "duration": 1.8
+  },
+  {
+    "text": "for the old Minecraft snapshot jar files.",
+    "start": 578.166,
+    "duration": 1.834
+  },
+  {
+    "text": "The actual Minecraft version existed",
+    "start": 580.399,
+    "duration": 1.9
+  },
+  {
+    "text": "and I managed to download it.",
+    "start": 582.716,
+    "duration": 1.4
+  },
+  {
+    "text": "I also found an old Reddit post",
+    "start": 584.116,
+    "duration": 1.183
+  },
+  {
+    "text": "about how to run these",
+    "start": 585.299,
+    "duration": 0.767
+  },
+  {
+    "text": "jar files through a launcher",
+    "start": 586.066,
+    "duration": 0.967
+  },
+  {
+    "text": "called MultiMC by replacing",
+    "start": 587.033,
+    "duration": 1.9
+  },
+  {
+    "text": "the existing Minecraft jar file",
+    "start": 588.933,
+    "duration": 1.667
+  },
+  {
+    "text": "in an instance with the new one.",
+    "start": 590.6,
+    "duration": 1.966
+  },
+  {
+    "text": "And finally, after a",
+    "start": 592.566,
+    "duration": 1.233
+  },
+  {
+    "text": "lot of tinkering, oh.",
+    "start": 593.799,
+    "duration": 2.5
+  },
+  {
+    "text": "That took some wizardry to get working.",
+    "start": 596.5,
+    "duration": 2.783
+  },
+  {
+    "text": "Game plan four, snapshot",
+    "start": 599.766,
+    "duration": 1.734
+  },
+  {
+    "text": "nether portal fishing rod.",
+    "start": 601.5,
+    "duration": 1.966
+  },
+  {
+    "text": "12W34A is a unique version of the game",
+    "start": 603.466,
+    "duration": 2.667
+  },
+  {
+    "text": "because Mojang made a critical change",
+    "start": 606.2,
+    "duration": 1.583
+  },
+  {
+    "text": "to how adventure mode worked.",
+    "start": 607.883,
+    "duration": 1.283
+  },
+  {
+    "text": "Instead of stopping the player",
+    "start": 609.399,
+    "duration": 0.967
+  },
+  {
+    "text": "from using any blocks",
+    "start": 610.366,
+    "duration": 1.017
+  },
+  {
+    "text": "or tools no matter what,",
+    "start": 611.383,
+    "duration": 1.016
+  },
+  {
+    "text": "this version only stopped you",
+    "start": 612.666,
+    "duration": 1.35
+  },
+  {
+    "text": "if you didn't have the correct item.",
+    "start": 614.016,
+    "duration": 1.717
+  },
+  {
+    "text": "For example, you can place any wood block",
+    "start": 615.733,
+    "duration": 1.85
+  },
+  {
+    "text": "you already have in your inventory,",
+    "start": 617.583,
+    "duration": 1.35
+  },
+  {
+    "text": "but you can't break that block",
+    "start": 619.2,
+    "duration": 1.666
+  },
+  {
+    "text": "if you aren't holding an ax.",
+    "start": 620.866,
+    "duration": 1.317
+  },
+  {
+    "text": "Same for stone and pickaxes, et cetera.",
+    "start": 622.466,
+    "duration": 2.167
+  },
+  {
+    "text": "So this version now not only gave me",
+    "start": 624.633,
+    "duration": 1.883
+  },
+  {
+    "text": "a better method of playing the game,",
+    "start": 626.516,
+    "duration": 1.55
+  },
+  {
+    "text": "but this also gave me a game-crashing bug",
+    "start": 628.366,
+    "duration": 2.45
+  },
+  {
+    "text": "from the snapshot,",
+    "start": 631.016,
+    "duration": 0.7
+  },
+  {
+    "text": "fishing rods in nether portals.",
+    "start": 632.083,
+    "duration": 1.4
+  },
+  {
+    "text": "So game plan four was simple.",
+    "start": 633.683,
+    "duration": 1.716
+  },
+  {
+    "text": "Find the things I needed",
+    "start": 635.6,
+    "duration": 0.866
+  },
+  {
+    "text": "for the nether portal and fishing rod,",
+    "start": 636.616,
+    "duration": 1.183
+  },
+  {
+    "text": "build the portal and",
+    "start": 638.233,
+    "duration": 1.35
+  },
+  {
+    "text": "hope that the bug was real.",
+    "start": 639.583,
+    "duration": 1.617
+  },
+  {
+    "text": "So much research has",
+    "start": 641.533,
+    "duration": 0.983
+  },
+  {
+    "text": "gone into this. So much.",
+    "start": 642.516,
+    "duration": 1.417
+  },
+  {
+    "text": "Look at me, look at me in the face",
+    "start": 644.566,
+    "duration": 1.7
+  },
+  {
+    "text": "and tell me that you're not impressed.",
+    "start": 646.716,
+    "duration": 1.7
+  },
+  {
+    "text": "Tell me that you're subscribed, please.",
+    "start": 648.683,
+    "duration": 2.883
+  },
+  {
+    "text": "Okay, I need to get to work.",
+    "start": 651.966,
+    "duration": 1.017
+  },
+  {
+    "text": "If I can find maybe a",
+    "start": 652.983,
+    "duration": 1.3
+  },
+  {
+    "text": "village in this version,",
+    "start": 654.283,
+    "duration": 1.083
+  },
+  {
+    "text": "if villages even exist in this version,",
+    "start": 655.483,
+    "duration": 2.283
+  },
+  {
+    "text": "that could be really helpful.",
+    "start": 658.166,
+    "duration": 1.15
+  },
+  {
+    "text": "You know, fun fact,",
+    "start": 659.316,
+    "duration": 0.7
+  },
+  {
+    "text": "this is about the version",
+    "start": 660.233,
+    "duration": 1.35
+  },
+  {
+    "text": "where I started playing.",
+    "start": 661.583,
+    "duration": 1.316
+  },
+  {
+    "text": "I remember that the first ever update",
+    "start": 662.899,
+    "duration": 2.034
+  },
+  {
+    "text": "that I ever saw was one of",
+    "start": 665.216,
+    "duration": 2.667
+  },
+  {
+    "text": "the spooky scary updates.",
+    "start": 667.883,
+    "duration": 1.483
+  },
+  {
+    "text": "This is actually, I think",
+    "start": 669.366,
+    "duration": 0.9
+  },
+  {
+    "text": "this is just a little bit",
+    "start": 670.266,
+    "duration": 1.25
+  },
+  {
+    "text": "before I started, which is kind of cool.",
+    "start": 671.6,
+    "duration": 1.883
+  },
+  {
+    "text": "This is neat.",
+    "start": 673.483,
+    "duration": 0.5
+  },
+  {
+    "text": "Classic Minecraft really does",
+    "start": 674.183,
+    "duration": 1.033
+  },
+  {
+    "text": "feel like classic, you know?",
+    "start": 675.216,
+    "duration": 2.15
+  },
+  {
+    "text": "Ah yes, the sheep, they've been around",
+    "start": 677.366,
+    "duration": 1.933
+  },
+  {
+    "text": "since the beginning.",
+    "start": 679.299,
+    "duration": 0.767
+  },
+  {
+    "text": "All hail the immortal sheep.",
+    "start": 680.316,
+    "duration": 1.184
+  },
+  {
+    "text": "They've been here forever.",
+    "start": 681.783,
+    "duration": 1.0
+  },
+  {
+    "text": "I won't lie to you, I definitely thought",
+    "start": 682.783,
+    "duration": 1.75
+  },
+  {
+    "text": "I was in the home stretch by now.",
+    "start": 684.533,
+    "duration": 1.167
+  },
+  {
+    "text": "I had everything I",
+    "start": 686.0,
+    "duration": 0.866
+  },
+  {
+    "text": "needed for the fishing rod",
+    "start": 686.866,
+    "duration": 0.85
+  },
+  {
+    "text": "and all I needed was to",
+    "start": 687.916,
+    "duration": 1.067
+  },
+  {
+    "text": "find a village blacksmith",
+    "start": 688.983,
+    "duration": 0.95
+  },
+  {
+    "text": "and get obsidian for the portal.",
+    "start": 689.933,
+    "duration": 1.583
+  },
+  {
+    "text": "Instead of that though, I traveled,",
+    "start": 691.516,
+    "duration": 1.75
+  },
+  {
+    "text": "I made a boat and I traveled some more",
+    "start": 693.866,
+    "duration": 3.2
+  },
+  {
+    "text": "and I traveled a bit more",
+    "start": 697.5,
+    "duration": 1.833
+  },
+  {
+    "text": "until I remembered one key",
+    "start": 699.866,
+    "duration": 1.5
+  },
+  {
+    "text": "mechanic about this update",
+    "start": 701.366,
+    "duration": 1.2
+  },
+  {
+    "text": "that I mentioned before.",
+    "start": 702.566,
+    "duration": 1.217
+  },
+  {
+    "text": "You can use tools to break things.",
+    "start": 703.783,
+    "duration": 3.717
+  },
+  {
+    "text": "So if I'd make a wooden axe here,",
+    "start": 707.5,
+    "duration": 2.583
+  },
+  {
+    "text": "in theory that should",
+    "start": 710.299,
+    "duration": 0.884
+  },
+  {
+    "text": "let me break this, it does.",
+    "start": 711.183,
+    "duration": 2.133
+  },
+  {
+    "text": "Oh, that's huge.",
+    "start": 713.666,
+    "duration": 0.834
+  },
+  {
+    "text": "Oh, that's huge.",
+    "start": 714.866,
+    "duration": 0.767
+  },
+  {
+    "text": "Minecraft went through a phase here",
+    "start": 716.1,
+    "duration": 1.066
+  },
+  {
+    "text": "where they decided that",
+    "start": 717.299,
+    "duration": 1.434
+  },
+  {
+    "text": "adventure mode was much more tuned",
+    "start": 718.733,
+    "duration": 2.433
+  },
+  {
+    "text": "towards like, you know,",
+    "start": 721.366,
+    "duration": 1.334
+  },
+  {
+    "text": "controlling what the player can do.",
+    "start": 723.066,
+    "duration": 1.217
+  },
+  {
+    "text": "So if you wanted to",
+    "start": 724.533,
+    "duration": 1.4
+  },
+  {
+    "text": "give the player the ability",
+    "start": 725.933,
+    "duration": 1.25
+  },
+  {
+    "text": "to break blocks in an adventure mode map,",
+    "start": 727.183,
+    "duration": 2.2
+  },
+  {
+    "text": "you would give them the tools for it.",
+    "start": 729.6,
+    "duration": 1.9
+  },
+  {
+    "text": "Nowadays, obviously we have a",
+    "start": 731.5,
+    "duration": 1.016
+  },
+  {
+    "text": "bunch more solutions for that.",
+    "start": 732.516,
+    "duration": 1.184
+  },
+  {
+    "text": "Like there's things that you can do",
+    "start": 733.7,
+    "duration": 0.983
+  },
+  {
+    "text": "to break individual types",
+    "start": 734.683,
+    "duration": 1.45
+  },
+  {
+    "text": "of blocks or whatever it is.",
+    "start": 736.133,
+    "duration": 1.25
+  },
+  {
+    "text": "But in this version,",
+    "start": 737.716,
+    "duration": 1.067
+  },
+  {
+    "text": "that means I can make tools",
+    "start": 739.116,
+    "duration": 1.484
+  },
+  {
+    "text": "and I can still play this game.",
+    "start": 740.6,
+    "duration": 1.299
+  },
+  {
+    "text": "Yes.",
+    "start": 742.2,
+    "duration": 0.5
+  },
+  {
+    "text": "Okay, I'm gonna play some kind of scuffed",
+    "start": 743.0,
+    "duration": 1.883
+  },
+  {
+    "text": "Minecraft survival here,",
+    "start": 745.016,
+    "duration": 1.084
+  },
+  {
+    "text": "get myself a couple resources",
+    "start": 746.1,
+    "duration": 0.983
+  },
+  {
+    "text": "and then I can wander",
+    "start": 747.083,
+    "duration": 1.017
+  },
+  {
+    "text": "off into the sunset.",
+    "start": 748.1,
+    "duration": 1.183
+  },
+  {
+    "text": "With this absolutely incredible",
+    "start": 749.616,
+    "duration": 1.267
+  },
+  {
+    "text": "newfound block breaking",
+    "start": 751.033,
+    "duration": 1.083
+  },
+  {
+    "text": "in adventure mode power,",
+    "start": 752.116,
+    "duration": 1.017
+  },
+  {
+    "text": "I gathered what I needed and",
+    "start": 753.516,
+    "duration": 1.25
+  },
+  {
+    "text": "I even found this little guy.",
+    "start": 754.766,
+    "duration": 1.517
+  },
+  {
+    "text": "Pink sheep, no way.",
+    "start": 756.283,
+    "duration": 1.25
+  },
+  {
+    "text": "Hey there buddy, how's it going?",
+    "start": 757.533,
+    "duration": 1.583
+  },
+  {
+    "text": "But when I finally felt",
+    "start": 759.116,
+    "duration": 0.767
+  },
+  {
+    "text": "I had gathered enough,",
+    "start": 759.883,
+    "duration": 0.783
+  },
+  {
+    "text": "I set out on possibly",
+    "start": 760.916,
+    "duration": 1.017
+  },
+  {
+    "text": "the most painful mission",
+    "start": 761.933,
+    "duration": 1.35
+  },
+  {
+    "text": "of my entire life,",
+    "start": 763.283,
+    "duration": 1.233
+  },
+  {
+    "text": "attempting to cross the ocean.",
+    "start": 765.183,
+    "duration": 1.433
+  },
+  {
+    "text": "This is taking so long.",
+    "start": 766.899,
+    "duration": 2.184
+  },
+  {
+    "text": "There's no land in sight.",
+    "start": 769.083,
+    "duration": 1.483
+  },
+  {
+    "text": "All I see are squids.",
+    "start": 771.1,
+    "duration": 1.666
+  },
+  {
+    "text": "Oh my gosh, is there land over there?",
+    "start": 772.766,
+    "duration": 1.5
+  },
+  {
+    "text": "I'm going over towards this land.",
+    "start": 774.266,
+    "duration": 1.717
+  },
+  {
+    "text": "It better not just be a tiny island.",
+    "start": 775.983,
+    "duration": 1.617
+  },
+  {
+    "text": "It's a tiny island.",
+    "start": 777.883,
+    "duration": 1.533
+  },
+  {
+    "text": "This ocean extended",
+    "start": 779.433,
+    "duration": 1.067
+  },
+  {
+    "text": "further than any ocean",
+    "start": 780.5,
+    "duration": 1.5
+  },
+  {
+    "text": "I have ever seen before.",
+    "start": 782.0,
+    "duration": 2.066
+  },
+  {
+    "text": "On and on, I kept",
+    "start": 784.533,
+    "duration": 1.133
+  },
+  {
+    "text": "sailing, but all I could see",
+    "start": 785.666,
+    "duration": 1.5
+  },
+  {
+    "text": "was more water and the occasional squid.",
+    "start": 787.166,
+    "duration": 2.267
+  },
+  {
+    "text": "Every once in a while,",
+    "start": 789.433,
+    "duration": 1.05
+  },
+  {
+    "text": "the ocean would taunt me",
+    "start": 790.483,
+    "duration": 1.3
+  },
+  {
+    "text": "with an island,",
+    "start": 791.783,
+    "duration": 0.883
+  },
+  {
+    "text": "reminding me that land existed,",
+    "start": 792.666,
+    "duration": 1.434
+  },
+  {
+    "text": "but it wasn't gonna give me the",
+    "start": 794.383,
+    "duration": 1.45
+  },
+  {
+    "text": "satisfaction of finding it.",
+    "start": 795.833,
+    "duration": 1.4
+  },
+  {
+    "text": "The ocean tortured me for",
+    "start": 797.233,
+    "duration": 1.867
+  },
+  {
+    "text": "an immense amount of time.",
+    "start": 799.1,
+    "duration": 1.683
+  },
+  {
+    "text": "I was constantly fighting the urge",
+    "start": 801.066,
+    "duration": 1.717
+  },
+  {
+    "text": "to switch to creative mode and fly",
+    "start": 802.783,
+    "duration": 1.683
+  },
+  {
+    "text": "or teleport back to the",
+    "start": 804.816,
+    "duration": 1.317
+  },
+  {
+    "text": "mainland I had come from",
+    "start": 806.133,
+    "duration": 1.2
+  },
+  {
+    "text": "and go the opposite direction.",
+    "start": 807.483,
+    "duration": 1.583
+  },
+  {
+    "text": "Anything to escape this",
+    "start": 809.783,
+    "duration": 1.1
+  },
+  {
+    "text": "nightmare of an ocean.",
+    "start": 810.883,
+    "duration": 1.233
+  },
+  {
+    "text": "Don't you dare tease me",
+    "start": 812.399,
+    "duration": 1.234
+  },
+  {
+    "text": "like this with more islands.",
+    "start": 813.633,
+    "duration": 1.467
+  },
+  {
+    "text": "Don't you dare.",
+    "start": 815.916,
+    "duration": 1.067
+  },
+  {
+    "text": "I hate the islands",
+    "start": 817.2,
+    "duration": 0.766
+  },
+  {
+    "text": "with everything that I am.",
+    "start": 817.966,
+    "duration": 1.417
+  },
+  {
+    "text": "Sitting here, holding my W key for ages,",
+    "start": 819.383,
+    "duration": 2.4
+  },
+  {
+    "text": "it made me really think",
+    "start": 822.216,
+    "duration": 1.05
+  },
+  {
+    "text": "about if this entire question",
+    "start": 823.266,
+    "duration": 1.2
+  },
+  {
+    "text": "was even worth it.",
+    "start": 824.466,
+    "duration": 1.134
+  },
+  {
+    "text": "I could legitimately",
+    "start": 825.6,
+    "duration": 0.866
+  },
+  {
+    "text": "just say, the answer is no.",
+    "start": 826.466,
+    "duration": 1.7
+  },
+  {
+    "text": "You can't break",
+    "start": 828.166,
+    "duration": 0.667
+  },
+  {
+    "text": "Minecraft in adventure mode,",
+    "start": 828.833,
+    "duration": 1.233
+  },
+  {
+    "text": "it isn't worth it.",
+    "start": 830.066,
+    "duration": 0.917
+  },
+  {
+    "text": "And this entire thing would be over.",
+    "start": 830.983,
+    "duration": 1.183
+  },
+  {
+    "text": "But I didn't.",
+    "start": 832.383,
+    "duration": 0.65
+  },
+  {
+    "text": "All of this is being done in the name",
+    "start": 833.033,
+    "duration": 1.933
+  },
+  {
+    "text": "of crashing Minecraft in adventure mode.",
+    "start": 835.083,
+    "duration": 2.533
+  },
+  {
+    "text": "And it's gonna be",
+    "start": 837.616,
+    "duration": 0.8
+  },
+  {
+    "text": "worth it, question mark.",
+    "start": 838.416,
+    "duration": 1.517
+  },
+  {
+    "text": "I sat there in that boat",
+    "start": 840.216,
+    "duration": 1.017
+  },
+  {
+    "text": "passing island after island,",
+    "start": 841.233,
+    "duration": 1.85
+  },
+  {
+    "text": "wishing that each one was",
+    "start": 843.233,
+    "duration": 1.35
+  },
+  {
+    "text": "more than just a few blocks.",
+    "start": 844.583,
+    "duration": 1.517
+  },
+  {
+    "text": "And ultimately, after",
+    "start": 846.1,
+    "duration": 1.316
+  },
+  {
+    "text": "traveling thousands of blocks",
+    "start": 847.416,
+    "duration": 1.467
+  },
+  {
+    "text": "in this never ending",
+    "start": 848.883,
+    "duration": 1.383
+  },
+  {
+    "text": "sea of misery, I gave up.",
+    "start": 850.266,
+    "duration": 2.9
+  },
+  {
+    "text": "I decided to restart.",
+    "start": 853.399,
+    "duration": 1.034
+  },
+  {
+    "text": "The ocean had broken me",
+    "start": 854.7,
+    "duration": 1.716
+  },
+  {
+    "text": "before I could break Minecraft.",
+    "start": 856.416,
+    "duration": 1.617
+  },
+  {
+    "text": "I've restarted, but I have found a world",
+    "start": 859.533,
+    "duration": 2.866
+  },
+  {
+    "text": "that includes a village.",
+    "start": 863.233,
+    "duration": 1.433
+  },
+  {
+    "text": "If this village doesn't have",
+    "start": 864.916,
+    "duration": 2.767
+  },
+  {
+    "text": "any sort of enough obsidian",
+    "start": 867.683,
+    "duration": 2.25
+  },
+  {
+    "text": "in this chest, I am",
+    "start": 870.766,
+    "duration": 1.717
+  },
+  {
+    "text": "going to lose my mind.",
+    "start": 872.483,
+    "duration": 2.816
+  },
+  {
+    "text": "Oh no.",
+    "start": 877.166,
+    "duration": 0.867
+  },
+  {
+    "text": "This is the worst freaking",
+    "start": 878.033,
+    "duration": 1.183
+  },
+  {
+    "text": "video of my entire life, dude.",
+    "start": 879.216,
+    "duration": 2.067
+  },
+  {
+    "text": "This iron pickaxe does make",
+    "start": 881.283,
+    "duration": 1.217
+  },
+  {
+    "text": "me think of one more thing,",
+    "start": 882.5,
+    "duration": 1.399
+  },
+  {
+    "text": "though, is the fact that",
+    "start": 883.899,
+    "duration": 1.134
+  },
+  {
+    "text": "obsidian does exist naturally",
+    "start": 885.033,
+    "duration": 1.75
+  },
+  {
+    "text": "in this world.",
+    "start": 886.783,
+    "duration": 0.833
+  },
+  {
+    "text": "And I could try to find",
+    "start": 887.616,
+    "duration": 1.017
+  },
+  {
+    "text": "diamonds and mine obsidian.",
+    "start": 888.633,
+    "duration": 2.35
+  },
+  {
+    "text": "You know what?",
+    "start": 891.183,
+    "duration": 0.5
+  },
+  {
+    "text": "Fine, I'm gonna brute force it.",
+    "start": 891.816,
+    "duration": 1.3
+  },
+  {
+    "text": "We're gonna do it.",
+    "start": 893.333,
+    "duration": 0.65
+  },
+  {
+    "text": "We are going to brute force this.",
+    "start": 894.233,
+    "duration": 1.467
+  },
+  {
+    "text": "I'm going to find a",
+    "start": 895.916,
+    "duration": 1.6
+  },
+  {
+    "text": "lava pool or something,",
+    "start": 897.516,
+    "duration": 1.467
+  },
+  {
+    "text": "and I'm going to mine",
+    "start": 899.433,
+    "duration": 0.85
+  },
+  {
+    "text": "the obsidian myself.",
+    "start": 900.283,
+    "duration": 1.05
+  },
+  {
+    "text": "I also still need to get wood.",
+    "start": 901.716,
+    "duration": 1.817
+  },
+  {
+    "text": "Gonna cheat, I'm not gonna do it.",
+    "start": 904.2,
+    "duration": 1.966
+  },
+  {
+    "text": "And the only way to get wood right now",
+    "start": 906.166,
+    "duration": 1.567
+  },
+  {
+    "text": "is to blow up a tree.",
+    "start": 908.2,
+    "duration": 1.266
+  },
+  {
+    "text": "Wait, 11 emeralds for a diamond pickaxe.",
+    "start": 909.766,
+    "duration": 1.8
+  },
+  {
+    "text": "That's actually huge.",
+    "start": 912.399,
+    "duration": 0.767
+  },
+  {
+    "text": "16 wool for one emerald.",
+    "start": 913.616,
+    "duration": 1.817
+  },
+  {
+    "text": "Interesting, because I've",
+    "start": 915.683,
+    "duration": 1.5
+  },
+  {
+    "text": "got some shears right here.",
+    "start": 917.183,
+    "duration": 1.75
+  },
+  {
+    "text": "Don't go anywhere.",
+    "start": 919.616,
+    "duration": 0.667
+  },
+  {
+    "text": "This world was looking way",
+    "start": 920.483,
+    "duration": 1.35
+  },
+  {
+    "text": "better than the first one.",
+    "start": 921.833,
+    "duration": 1.15
+  },
+  {
+    "text": "I had found a village",
+    "start": 923.033,
+    "duration": 0.783
+  },
+  {
+    "text": "with some promising trades.",
+    "start": 923.816,
+    "duration": 1.017
+  },
+  {
+    "text": "There were tools and",
+    "start": 925.083,
+    "duration": 1.283
+  },
+  {
+    "text": "obsidian in the blacksmith,",
+    "start": 926.366,
+    "duration": 1.4
+  },
+  {
+    "text": "and there was even a second",
+    "start": 928.083,
+    "duration": 1.0
+  },
+  {
+    "text": "village super close by with...",
+    "start": 929.083,
+    "duration": 1.983
+  },
+  {
+    "text": "Okay, that chest wasn't",
+    "start": 932.483,
+    "duration": 0.933
+  },
+  {
+    "text": "great, but the rest of it was.",
+    "start": 933.416,
+    "duration": 1.383
+  },
+  {
+    "text": "I got a couple of",
+    "start": 934.799,
+    "duration": 0.484
+  },
+  {
+    "text": "creepers to blow up some houses,",
+    "start": 935.283,
+    "duration": 1.35
+  },
+  {
+    "text": "and I was able to craft some tools",
+    "start": 936.633,
+    "duration": 1.3
+  },
+  {
+    "text": "together even more wood.",
+    "start": 937.933,
+    "duration": 1.333
+  },
+  {
+    "text": "I was set.",
+    "start": 939.266,
+    "duration": 0.95
+  },
+  {
+    "text": "I was doing so much better.",
+    "start": 940.583,
+    "duration": 1.65
+  },
+  {
+    "text": "The ocean had no grip on me anymore.",
+    "start": 942.616,
+    "duration": 2.2
+  },
+  {
+    "text": "Game plan five, finish the mission.",
+    "start": 945.166,
+    "duration": 2.934
+  },
+  {
+    "text": "Okay, before this night is over,",
+    "start": 948.1,
+    "duration": 1.016
+  },
+  {
+    "text": "I need to get some more string.",
+    "start": 949.116,
+    "duration": 1.9
+  },
+  {
+    "text": "So that's my plan next.",
+    "start": 951.016,
+    "duration": 0.9
+  },
+  {
+    "text": "Any spiders?",
+    "start": 952.233,
+    "duration": 0.7
+  },
+  {
+    "text": "I keep hearing",
+    "start": 953.716,
+    "duration": 0.9
+  },
+  {
+    "text": "zombies breaking down doors.",
+    "start": 954.616,
+    "duration": 1.484
+  },
+  {
+    "text": "There's a spider.",
+    "start": 956.1,
+    "duration": 0.5
+  },
+  {
+    "text": "Spiders, spiders, spiders.",
+    "start": 956.816,
+    "duration": 1.117
+  },
+  {
+    "text": "They are so loud over there.",
+    "start": 957.933,
+    "duration": 1.4
+  },
+  {
+    "text": "Them breaking down that door is so loud.",
+    "start": 959.666,
+    "duration": 1.817
+  },
+  {
+    "text": "I have two string.",
+    "start": 961.483,
+    "duration": 0.717
+  },
+  {
+    "text": "Wait, is that all I need?",
+    "start": 962.2,
+    "duration": 0.816
+  },
+  {
+    "text": "I think I just need those too.",
+    "start": 963.016,
+    "duration": 1.084
+  },
+  {
+    "text": "I think I have the string I need.",
+    "start": 964.1,
+    "duration": 1.283
+  },
+  {
+    "text": "Wait, sticks like this and string.",
+    "start": 965.383,
+    "duration": 1.883
+  },
+  {
+    "text": "Fishing rod, got it.",
+    "start": 967.266,
+    "duration": 1.017
+  },
+  {
+    "text": "And now I just need obsidian.",
+    "start": 968.283,
+    "duration": 2.083
+  },
+  {
+    "text": "Can I use a bucket?",
+    "start": 970.583,
+    "duration": 1.216
+  },
+  {
+    "text": "Do buckets work with this?",
+    "start": 971.799,
+    "duration": 1.334
+  },
+  {
+    "text": "Buckets work in this version.",
+    "start": 973.833,
+    "duration": 1.433
+  },
+  {
+    "text": "Oh my gosh, okay.",
+    "start": 975.266,
+    "duration": 0.917
+  },
+  {
+    "text": "Okay, that's actually huge.",
+    "start": 976.183,
+    "duration": 1.017
+  },
+  {
+    "text": "If I can find a lava",
+    "start": 977.2,
+    "duration": 0.883
+  },
+  {
+    "text": "pool, then we've done it.",
+    "start": 978.083,
+    "duration": 1.483
+  },
+  {
+    "text": "Finding one is probably",
+    "start": 979.683,
+    "duration": 1.4
+  },
+  {
+    "text": "gonna be the struggle though.",
+    "start": 981.083,
+    "duration": 0.983
+  },
+  {
+    "text": "Do lava pools exist in this version?",
+    "start": 982.083,
+    "duration": 1.683
+  },
+  {
+    "text": "Oh, but wait, I don't have a, oh, wait.",
+    "start": 984.016,
+    "duration": 2.05
+  },
+  {
+    "text": "I could try a speed run.",
+    "start": 986.066,
+    "duration": 1.1
+  },
+  {
+    "text": "Hold on, I could try the speed run thing.",
+    "start": 987.166,
+    "duration": 1.334
+  },
+  {
+    "text": "I don't know how to do that,",
+    "start": 988.5,
+    "duration": 1.216
+  },
+  {
+    "text": "but I'm gonna try to figure it out.",
+    "start": 989.716,
+    "duration": 1.65
+  },
+  {
+    "text": "Okay, let me try to go underground,",
+    "start": 991.6,
+    "duration": 1.866
+  },
+  {
+    "text": "see if there's anything in this cave.",
+    "start": 993.466,
+    "duration": 1.567
+  },
+  {
+    "text": "There's not.",
+    "start": 995.683,
+    "duration": 0.35
+  },
+  {
+    "text": "What if I dig straight down?",
+    "start": 996.033,
+    "duration": 1.35
+  },
+  {
+    "text": "That actually could work.",
+    "start": 997.383,
+    "duration": 1.133
+  },
+  {
+    "text": "Down we go.",
+    "start": 998.516,
+    "duration": 0.5
+  },
+  {
+    "text": "See if I can find anything.",
+    "start": 999.299,
+    "duration": 0.917
+  },
+  {
+    "text": "Oh, I hear lava.",
+    "start": 1000.233,
+    "duration": 1.433
+  },
+  {
+    "text": "If there's anything I",
+    "start": 1002.066,
+    "duration": 0.717
+  },
+  {
+    "text": "know about Minecraft,",
+    "start": 1002.783,
+    "duration": 0.817
+  },
+  {
+    "text": "Y level 11.",
+    "start": 1004.016,
+    "duration": 0.75
+  },
+  {
+    "text": "Oh, oh, oh, oh, oh, oh.",
+    "start": 1005.033,
+    "duration": 3.567
+  },
+  {
+    "text": "Y level 11, baby!",
+    "start": 1008.6,
+    "duration": 1.699
+  },
+  {
+    "text": "The best level for diamonds",
+    "start": 1010.416,
+    "duration": 2.067
+  },
+  {
+    "text": "because of the lava pools.",
+    "start": 1012.483,
+    "duration": 2.333
+  },
+  {
+    "text": "Oh, dude.",
+    "start": 1015.033,
+    "duration": 0.866
+  },
+  {
+    "text": "This is exactly what I need.",
+    "start": 1016.399,
+    "duration": 2.184
+  },
+  {
+    "text": "Okay, I'm gonna build",
+    "start": 1018.6,
+    "duration": 0.933
+  },
+  {
+    "text": "out a little area over here",
+    "start": 1019.533,
+    "duration": 1.7
+  },
+  {
+    "text": "and I'm gonna use this to",
+    "start": 1021.233,
+    "duration": 1.2
+  },
+  {
+    "text": "build the nether portal,",
+    "start": 1022.433,
+    "duration": 1.4
+  },
+  {
+    "text": "but I want it to be kind of",
+    "start": 1023.833,
+    "duration": 1.766
+  },
+  {
+    "text": "tucked away and down like this",
+    "start": 1025.599,
+    "duration": 1.734
+  },
+  {
+    "text": "so that the lava doesn't",
+    "start": 1027.333,
+    "duration": 2.1
+  },
+  {
+    "text": "just immediately get covered",
+    "start": 1029.433,
+    "duration": 1.067
+  },
+  {
+    "text": "by a bunch of water.",
+    "start": 1030.5,
+    "duration": 0.766
+  },
+  {
+    "text": "Okay, the two most important pieces I",
+    "start": 1031.266,
+    "duration": 1.85
+  },
+  {
+    "text": "think are these top two.",
+    "start": 1033.116,
+    "duration": 0.9
+  },
+  {
+    "text": "So what I'm gonna do is I'm gonna use",
+    "start": 1034.016,
+    "duration": 1.217
+  },
+  {
+    "text": "these obsidian up here.",
+    "start": 1035.233,
+    "duration": 1.4
+  },
+  {
+    "text": "Then what I can do is",
+    "start": 1037.133,
+    "duration": 0.633
+  },
+  {
+    "text": "I can put water here,",
+    "start": 1037.766,
+    "duration": 1.017
+  },
+  {
+    "text": "grab some lava, put lava there.",
+    "start": 1038.833,
+    "duration": 1.883
+  },
+  {
+    "text": "Yeah, and then I just fill this all in",
+    "start": 1040.716,
+    "duration": 2.083
+  },
+  {
+    "text": "with lava all the way across there",
+    "start": 1043.083,
+    "duration": 3.216
+  },
+  {
+    "text": "and then lava here and lava here.",
+    "start": 1046.299,
+    "duration": 2.184
+  },
+  {
+    "text": "Boom, okay, and then",
+    "start": 1048.483,
+    "duration": 1.25
+  },
+  {
+    "text": "now this is the struggle.",
+    "start": 1049.733,
+    "duration": 1.6
+  },
+  {
+    "text": "Flint and Steel doesn't quite work.",
+    "start": 1051.633,
+    "duration": 1.8
+  },
+  {
+    "text": "At least I don't know if it does.",
+    "start": 1053.433,
+    "duration": 1.583
+  },
+  {
+    "text": "Wait, hold on, let's find out.",
+    "start": 1055.016,
+    "duration": 1.15
+  },
+  {
+    "text": "I have a shovel now",
+    "start": 1056.166,
+    "duration": 0.767
+  },
+  {
+    "text": "so I can just do this.",
+    "start": 1056.933,
+    "duration": 1.133
+  },
+  {
+    "text": "Ah, Flint, okay.",
+    "start": 1058.266,
+    "duration": 0.817
+  },
+  {
+    "text": "Does Flint and Steel work now?",
+    "start": 1059.083,
+    "duration": 1.25
+  },
+  {
+    "text": "Oh, it does in this version.",
+    "start": 1060.333,
+    "duration": 1.55
+  },
+  {
+    "text": "Flint and Steel.",
+    "start": 1061.883,
+    "duration": 0.733
+  },
+  {
+    "text": "All right, folks, this",
+    "start": 1063.133,
+    "duration": 1.133
+  },
+  {
+    "text": "is the moment of truth.",
+    "start": 1064.266,
+    "duration": 1.734
+  },
+  {
+    "text": "Can I break Minecraft in adventure mode?",
+    "start": 1066.0,
+    "duration": 2.583
+  },
+  {
+    "text": "I've been in adventure",
+    "start": 1068.633,
+    "duration": 0.7
+  },
+  {
+    "text": "mode this whole time.",
+    "start": 1069.333,
+    "duration": 1.05
+  },
+  {
+    "text": "You can see I can't break these.",
+    "start": 1070.383,
+    "duration": 1.517
+  },
+  {
+    "text": "Here we go.",
+    "start": 1072.2,
+    "duration": 0.766
+  },
+  {
+    "text": "(upbeat music)",
+    "start": 1073.766,
+    "duration": 1.917
+  },
+  {
+    "text": "Oh, oh, it completely froze.",
+    "start": 1075.683,
+    "duration": 5.8
+  },
+  {
+    "text": "Oh my gosh.",
+    "start": 1082.033,
+    "duration": 2.233
+  },
+  {
+    "text": "It's done.",
+    "start": 1085.483,
+    "duration": 0.6
+  },
+  {
+    "text": "We made it.",
+    "start": 1086.533,
+    "duration": 0.883
+  },
+  {
+    "text": "I literally just stood up.",
+    "start": 1087.966,
+    "duration": 1.633
+  },
+  {
+    "text": "That's it, that's a crash report.",
+    "start": 1089.633,
+    "duration": 1.75
+  },
+  {
+    "text": "We got it, we killed Minecraft.",
+    "start": 1091.633,
+    "duration": 1.9
+  },
+  {
+    "text": "We broke Minecraft in",
+    "start": 1093.733,
+    "duration": 1.3
+  },
+  {
+    "text": "adventure mode and that's, wow.",
+    "start": 1095.033,
+    "duration": 3.066
+  },
+  {
+    "text": "What a breakthrough with this version.",
+    "start": 1098.116,
+    "duration": 2.467
+  },
+  {
+    "text": "All right, I'm gonna go cry in a corner",
+    "start": 1101.099,
+    "duration": 1.634
+  },
+  {
+    "text": "from the fricking ocean.",
+    "start": 1102.733,
+    "duration": 1.366
+  },
+  {
+    "text": "I have PTSD now.",
+    "start": 1104.099,
+    "duration": 1.301
+  },
+  {
+    "text": "Hope you enjoyed,",
+    "start": 1105.4,
+    "duration": 0.483
+  },
+  {
+    "text": "subscribe, see you next time.",
+    "start": 1105.883,
+    "duration": 1.033
+  },
+  {
+    "text": "(upbeat music)",
+    "start": 1107.483,
+    "duration": 1.333
+  }
+]

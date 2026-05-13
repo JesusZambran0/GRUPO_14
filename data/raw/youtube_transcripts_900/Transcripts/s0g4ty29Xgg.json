@@ -1,0 +1,1717 @@
+[
+  {
+    "text": "[Music]",
+    "start": 3.02,
+    "duration": 4.98
+  },
+  {
+    "text": "hello everyone and welcome to this new",
+    "start": 6.24,
+    "duration": 3.439
+  },
+  {
+    "text": "course where we are going to study about",
+    "start": 8.0,
+    "duration": 2.24
+  },
+  {
+    "text": "the c",
+    "start": 9.679,
+    "duration": 2.96
+  },
+  {
+    "text": "plus plus programming language so if you",
+    "start": 10.24,
+    "duration": 4.319
+  },
+  {
+    "text": "are a person who wants to learn c plus",
+    "start": 12.639,
+    "duration": 3.441
+  },
+  {
+    "text": "plus programming as a part of your",
+    "start": 14.559,
+    "duration": 2.161
+  },
+  {
+    "text": "curriculum",
+    "start": 16.08,
+    "duration": 2.32
+  },
+  {
+    "text": "or even if you are a person who just",
+    "start": 16.72,
+    "duration": 3.12
+  },
+  {
+    "text": "wants to learn the c",
+    "start": 18.4,
+    "duration": 3.52
+  },
+  {
+    "text": "programming language either way this",
+    "start": 19.84,
+    "duration": 3.12
+  },
+  {
+    "text": "course is for you",
+    "start": 21.92,
+    "duration": 3.04
+  },
+  {
+    "text": "so here we will start from scratch we",
+    "start": 22.96,
+    "duration": 3.92
+  },
+  {
+    "text": "will start with the basics and build up",
+    "start": 24.96,
+    "duration": 3.52
+  },
+  {
+    "text": "to the fundamentals of this",
+    "start": 26.88,
+    "duration": 3.44
+  },
+  {
+    "text": "c plus plus programming language with",
+    "start": 28.48,
+    "duration": 3.36
+  },
+  {
+    "text": "the intention to make you",
+    "start": 30.32,
+    "duration": 3.759
+  },
+  {
+    "text": "a good c plus plus programmer so in this",
+    "start": 31.84,
+    "duration": 3.76
+  },
+  {
+    "text": "lecture we are going to just see the",
+    "start": 34.079,
+    "duration": 3.121
+  },
+  {
+    "text": "basic introduction to c",
+    "start": 35.6,
+    "duration": 3.6
+  },
+  {
+    "text": "plus we will see what is this c plus",
+    "start": 37.2,
+    "duration": 4.16
+  },
+  {
+    "text": "plus language who designed it",
+    "start": 39.2,
+    "duration": 4.24
+  },
+  {
+    "text": "when was it designed and we will see the",
+    "start": 41.36,
+    "duration": 3.84
+  },
+  {
+    "text": "key features of this language",
+    "start": 43.44,
+    "duration": 3.76
+  },
+  {
+    "text": "and we will see what are the main things",
+    "start": 45.2,
+    "duration": 3.199
+  },
+  {
+    "text": "that we are going to cover",
+    "start": 47.2,
+    "duration": 3.92
+  },
+  {
+    "text": "in this course so once again welcome to",
+    "start": 48.399,
+    "duration": 4.241
+  },
+  {
+    "text": "this course where we are going to learn",
+    "start": 51.12,
+    "duration": 3.04
+  },
+  {
+    "text": "about this wonderful language",
+    "start": 52.64,
+    "duration": 4.32
+  },
+  {
+    "text": "c plus all right so let's get started so",
+    "start": 54.16,
+    "duration": 4.719
+  },
+  {
+    "text": "coming to the introduction to c plus",
+    "start": 56.96,
+    "duration": 2.399
+  },
+  {
+    "text": "plus",
+    "start": 58.879,
+    "duration": 2.32
+  },
+  {
+    "text": "c plus plus is a general purpose",
+    "start": 59.359,
+    "duration": 3.04
+  },
+  {
+    "text": "programming language",
+    "start": 61.199,
+    "duration": 3.201
+  },
+  {
+    "text": "now what do we mean by general purpose",
+    "start": 62.399,
+    "duration": 3.04
+  },
+  {
+    "text": "programming language",
+    "start": 64.4,
+    "duration": 3.039
+  },
+  {
+    "text": "so general purpose programming language",
+    "start": 65.439,
+    "duration": 3.601
+  },
+  {
+    "text": "means it is a language",
+    "start": 67.439,
+    "duration": 4.161
+  },
+  {
+    "text": "that can be used for general purpose",
+    "start": 69.04,
+    "duration": 4.399
+  },
+  {
+    "text": "that means it can be used for writing",
+    "start": 71.6,
+    "duration": 2.64
+  },
+  {
+    "text": "softwares",
+    "start": 73.439,
+    "duration": 3.201
+  },
+  {
+    "text": "in different domains it can be used for",
+    "start": 74.24,
+    "duration": 4.48
+  },
+  {
+    "text": "writing softwares for different",
+    "start": 76.64,
+    "duration": 2.96
+  },
+  {
+    "text": "applications",
+    "start": 78.72,
+    "duration": 3.2
+  },
+  {
+    "text": "and different domains so that is why we",
+    "start": 79.6,
+    "duration": 3.199
+  },
+  {
+    "text": "call it a",
+    "start": 81.92,
+    "duration": 3.76
+  },
+  {
+    "text": "general purpose programming language now",
+    "start": 82.799,
+    "duration": 5.36
+  },
+  {
+    "text": "c plus plus was designed and implemented",
+    "start": 85.68,
+    "duration": 5.36
+  },
+  {
+    "text": "by the danish computer scientist bianes",
+    "start": 88.159,
+    "duration": 3.841
+  },
+  {
+    "text": "trustrop",
+    "start": 91.04,
+    "duration": 4.399
+  },
+  {
+    "text": "in 1979 at the bell labs",
+    "start": 92.0,
+    "duration": 5.6
+  },
+  {
+    "text": "so this is the amazing person who have",
+    "start": 95.439,
+    "duration": 3.68
+  },
+  {
+    "text": "designed and implemented the",
+    "start": 97.6,
+    "duration": 4.72
+  },
+  {
+    "text": "c plus plus programming language so you",
+    "start": 99.119,
+    "duration": 3.521
+  },
+  {
+    "text": "may",
+    "start": 102.32,
+    "duration": 2.479
+  },
+  {
+    "text": "have some idea about the c programming",
+    "start": 102.64,
+    "duration": 3.759
+  },
+  {
+    "text": "language you must have heard at least",
+    "start": 104.799,
+    "duration": 3.201
+  },
+  {
+    "text": "about the c programming language",
+    "start": 106.399,
+    "duration": 4.241
+  },
+  {
+    "text": "now c plus plus is actually an extension",
+    "start": 108.0,
+    "duration": 3.2
+  },
+  {
+    "text": "of the",
+    "start": 110.64,
+    "duration": 2.88
+  },
+  {
+    "text": "c programming language with more",
+    "start": 111.2,
+    "duration": 3.04
+  },
+  {
+    "text": "features",
+    "start": 113.52,
+    "duration": 3.36
+  },
+  {
+    "text": "and is more powerful than the c",
+    "start": 114.24,
+    "duration": 3.76
+  },
+  {
+    "text": "programming language",
+    "start": 116.88,
+    "duration": 3.279
+  },
+  {
+    "text": "so we will see the differences between c",
+    "start": 118.0,
+    "duration": 4.079
+  },
+  {
+    "text": "and c plus plus and we will see the",
+    "start": 120.159,
+    "duration": 3.761
+  },
+  {
+    "text": "more powerful features that are there in",
+    "start": 122.079,
+    "duration": 4.08
+  },
+  {
+    "text": "the c plus plus programming language",
+    "start": 123.92,
+    "duration": 4.64
+  },
+  {
+    "text": "as we move ahead in this course now c",
+    "start": 126.159,
+    "duration": 4.8
+  },
+  {
+    "text": "plus plus runs on a variety of platforms",
+    "start": 128.56,
+    "duration": 5.44
+  },
+  {
+    "text": "such as windows mac os and the various",
+    "start": 130.959,
+    "duration": 4.0
+  },
+  {
+    "text": "versions of",
+    "start": 134.0,
+    "duration": 3.599
+  },
+  {
+    "text": "unix so we see that c plus plus is",
+    "start": 134.959,
+    "duration": 3.36
+  },
+  {
+    "text": "supported",
+    "start": 137.599,
+    "duration": 2.961
+  },
+  {
+    "text": "on most of the major platforms that we",
+    "start": 138.319,
+    "duration": 3.761
+  },
+  {
+    "text": "have like windows mac",
+    "start": 140.56,
+    "duration": 4.8
+  },
+  {
+    "text": "and unix so we can use it for a wide",
+    "start": 142.08,
+    "duration": 5.04
+  },
+  {
+    "text": "variety of applications for",
+    "start": 145.36,
+    "duration": 3.92
+  },
+  {
+    "text": "writing different softwares that can be",
+    "start": 147.12,
+    "duration": 3.36
+  },
+  {
+    "text": "used in different",
+    "start": 149.28,
+    "duration": 4.239
+  },
+  {
+    "text": "domains okay now this is just a basic",
+    "start": 150.48,
+    "duration": 4.88
+  },
+  {
+    "text": "introduction to c plus plus so we see",
+    "start": 153.519,
+    "duration": 3.521
+  },
+  {
+    "text": "that it is a general purpose programming",
+    "start": 155.36,
+    "duration": 3.68
+  },
+  {
+    "text": "language and we see who is a scientist",
+    "start": 157.04,
+    "duration": 3.68
+  },
+  {
+    "text": "who designed and implemented it",
+    "start": 159.04,
+    "duration": 3.68
+  },
+  {
+    "text": "now before we move ahead here is a fun",
+    "start": 160.72,
+    "duration": 4.239
+  },
+  {
+    "text": "fact for you the initial version of c",
+    "start": 162.72,
+    "duration": 3.599
+  },
+  {
+    "text": "plus plus was called",
+    "start": 164.959,
+    "duration": 4.321
+  },
+  {
+    "text": "c with classes so as i already said c",
+    "start": 166.319,
+    "duration": 4.961
+  },
+  {
+    "text": "plus plus is an extension of c",
+    "start": 169.28,
+    "duration": 4.239
+  },
+  {
+    "text": "so we first had the c language and c",
+    "start": 171.28,
+    "duration": 4.16
+  },
+  {
+    "text": "plus plus was designed to have more",
+    "start": 173.519,
+    "duration": 2.641
+  },
+  {
+    "text": "features",
+    "start": 175.44,
+    "duration": 3.84
+  },
+  {
+    "text": "as compared to c now one of the major",
+    "start": 176.16,
+    "duration": 3.84
+  },
+  {
+    "text": "features",
+    "start": 179.28,
+    "duration": 3.76
+  },
+  {
+    "text": "that is there in c plus and not in c",
+    "start": 180.0,
+    "duration": 5.92
+  },
+  {
+    "text": "is the concept of classes now because of",
+    "start": 183.04,
+    "duration": 3.279
+  },
+  {
+    "text": "that",
+    "start": 185.92,
+    "duration": 2.88
+  },
+  {
+    "text": "before the term c plus plus was coined",
+    "start": 186.319,
+    "duration": 3.84
+  },
+  {
+    "text": "the name given to c",
+    "start": 188.8,
+    "duration": 4.56
+  },
+  {
+    "text": "plus plus was actually c with classes so",
+    "start": 190.159,
+    "duration": 4.8
+  },
+  {
+    "text": "that was the first name that was given",
+    "start": 193.36,
+    "duration": 3.519
+  },
+  {
+    "text": "and later on they decided to call it",
+    "start": 194.959,
+    "duration": 4.161
+  },
+  {
+    "text": "c plus plus all right so that is about",
+    "start": 196.879,
+    "duration": 4.161
+  },
+  {
+    "text": "the basic introduction to c plus plus",
+    "start": 199.12,
+    "duration": 3.92
+  },
+  {
+    "text": "along with a small fun fact for you",
+    "start": 201.04,
+    "duration": 4.16
+  },
+  {
+    "text": "all right so as i just said c plus plus",
+    "start": 203.04,
+    "duration": 3.6
+  },
+  {
+    "text": "is an extension of c",
+    "start": 205.2,
+    "duration": 3.759
+  },
+  {
+    "text": "so let us talk a little more about that",
+    "start": 206.64,
+    "duration": 4.08
+  },
+  {
+    "text": "so talking about c plus plus",
+    "start": 208.959,
+    "duration": 4.321
+  },
+  {
+    "text": "as an extension of c c plus plus is",
+    "start": 210.72,
+    "duration": 3.2
+  },
+  {
+    "text": "actually",
+    "start": 213.28,
+    "duration": 3.76
+  },
+  {
+    "text": "a better c so as i already said c plus",
+    "start": 213.92,
+    "duration": 4.48
+  },
+  {
+    "text": "plus has more features",
+    "start": 217.04,
+    "duration": 3.6
+  },
+  {
+    "text": "and is more powerful as compared to c so",
+    "start": 218.4,
+    "duration": 4.0
+  },
+  {
+    "text": "we can say that it is a better",
+    "start": 220.64,
+    "duration": 4.64
+  },
+  {
+    "text": "c and it supports data abstraction it",
+    "start": 222.4,
+    "duration": 4.96
+  },
+  {
+    "text": "supports object oriented programming",
+    "start": 225.28,
+    "duration": 4.879
+  },
+  {
+    "text": "and it supports generic programming so",
+    "start": 227.36,
+    "duration": 4.56
+  },
+  {
+    "text": "if you are a person who is new to",
+    "start": 230.159,
+    "duration": 3.601
+  },
+  {
+    "text": "programming then these terms",
+    "start": 231.92,
+    "duration": 3.679
+  },
+  {
+    "text": "may sound new to you and you may not",
+    "start": 233.76,
+    "duration": 3.44
+  },
+  {
+    "text": "understand it at the moment so don't",
+    "start": 235.599,
+    "duration": 3.28
+  },
+  {
+    "text": "worry about it we are going to make",
+    "start": 237.2,
+    "duration": 3.599
+  },
+  {
+    "text": "everything clear as we move ahead in",
+    "start": 238.879,
+    "duration": 2.64
+  },
+  {
+    "text": "this course",
+    "start": 240.799,
+    "duration": 2.481
+  },
+  {
+    "text": "so for now we are not going to explain",
+    "start": 241.519,
+    "duration": 3.681
+  },
+  {
+    "text": "or go into the details of these terms",
+    "start": 243.28,
+    "duration": 4.159
+  },
+  {
+    "text": "but just know that c plus plus supports",
+    "start": 245.2,
+    "duration": 3.2
+  },
+  {
+    "text": "all these features",
+    "start": 247.439,
+    "duration": 3.121
+  },
+  {
+    "text": "that we have listed here so that is why",
+    "start": 248.4,
+    "duration": 4.16
+  },
+  {
+    "text": "we say that it is a better c",
+    "start": 250.56,
+    "duration": 4.08
+  },
+  {
+    "text": "and it is more powerful as compared to",
+    "start": 252.56,
+    "duration": 3.919
+  },
+  {
+    "text": "the c programming language",
+    "start": 254.64,
+    "duration": 4.08
+  },
+  {
+    "text": "okay so now let us take an example from",
+    "start": 256.479,
+    "duration": 3.44
+  },
+  {
+    "text": "the c language",
+    "start": 258.72,
+    "duration": 3.28
+  },
+  {
+    "text": "so here i am taking a small example from",
+    "start": 259.919,
+    "duration": 3.84
+  },
+  {
+    "text": "the c language so some of you may",
+    "start": 262.0,
+    "duration": 3.68
+  },
+  {
+    "text": "already know the c language and even if",
+    "start": 263.759,
+    "duration": 3.841
+  },
+  {
+    "text": "you don't know no problem at all so in",
+    "start": 265.68,
+    "duration": 2.88
+  },
+  {
+    "text": "this example",
+    "start": 267.6,
+    "duration": 3.36
+  },
+  {
+    "text": "let i be an integer variable whose value",
+    "start": 268.56,
+    "duration": 4.24
+  },
+  {
+    "text": "is equal to 6. now again if you are new",
+    "start": 270.96,
+    "duration": 3.519
+  },
+  {
+    "text": "to programming you may not understand",
+    "start": 272.8,
+    "duration": 3.44
+  },
+  {
+    "text": "the meaning of this term variable",
+    "start": 274.479,
+    "duration": 4.241
+  },
+  {
+    "text": "and what do we mean by i is an integer",
+    "start": 276.24,
+    "duration": 3.2
+  },
+  {
+    "text": "and all that",
+    "start": 278.72,
+    "duration": 2.96
+  },
+  {
+    "text": "so it's totally fine for now just",
+    "start": 279.44,
+    "duration": 3.6
+  },
+  {
+    "text": "understand that we are",
+    "start": 281.68,
+    "duration": 4.079
+  },
+  {
+    "text": "having a variable now what is a variable",
+    "start": 283.04,
+    "duration": 3.92
+  },
+  {
+    "text": "variable is something",
+    "start": 285.759,
+    "duration": 3.841
+  },
+  {
+    "text": "that can hold a value so just think of",
+    "start": 286.96,
+    "duration": 4.4
+  },
+  {
+    "text": "variable as something that can hold a",
+    "start": 289.6,
+    "duration": 2.24
+  },
+  {
+    "text": "value",
+    "start": 291.36,
+    "duration": 3.2
+  },
+  {
+    "text": "now i is a variable which is an integer",
+    "start": 291.84,
+    "duration": 3.2
+  },
+  {
+    "text": "now",
+    "start": 294.56,
+    "duration": 2.48
+  },
+  {
+    "text": "integer means the same kind of integer",
+    "start": 295.04,
+    "duration": 3.52
+  },
+  {
+    "text": "that we have in mathematics",
+    "start": 297.04,
+    "duration": 4.32
+  },
+  {
+    "text": "so i is a variable that can hold an",
+    "start": 298.56,
+    "duration": 3.44
+  },
+  {
+    "text": "integer",
+    "start": 301.36,
+    "duration": 2.48
+  },
+  {
+    "text": "value so that's what we mean here and",
+    "start": 302.0,
+    "duration": 4.08
+  },
+  {
+    "text": "what is the value the value is equal to",
+    "start": 303.84,
+    "duration": 5.52
+  },
+  {
+    "text": "6 so that means i is equal to 6 now",
+    "start": 306.08,
+    "duration": 6.0
+  },
+  {
+    "text": "i plus plus will increment the value by",
+    "start": 309.36,
+    "duration": 3.04
+  },
+  {
+    "text": "one",
+    "start": 312.08,
+    "duration": 2.959
+  },
+  {
+    "text": "now this plus plus if you put this plus",
+    "start": 312.4,
+    "duration": 3.84
+  },
+  {
+    "text": "symbol two times",
+    "start": 315.039,
+    "duration": 4.241
+  },
+  {
+    "text": "after this i that signifies an increment",
+    "start": 316.24,
+    "duration": 3.84
+  },
+  {
+    "text": "operator",
+    "start": 319.28,
+    "duration": 2.8
+  },
+  {
+    "text": "in c now what is an increment operator",
+    "start": 320.08,
+    "duration": 3.679
+  },
+  {
+    "text": "the increment operator will",
+    "start": 322.08,
+    "duration": 4.88
+  },
+  {
+    "text": "increase the value by 1. so i plus plus",
+    "start": 323.759,
+    "duration": 5.361
+  },
+  {
+    "text": "is an increment operator and it will",
+    "start": 326.96,
+    "duration": 4.799
+  },
+  {
+    "text": "increase the value and make i is equal",
+    "start": 329.12,
+    "duration": 3.12
+  },
+  {
+    "text": "to",
+    "start": 331.759,
+    "duration": 2.801
+  },
+  {
+    "text": "7 because the previous value of i was",
+    "start": 332.24,
+    "duration": 3.2
+  },
+  {
+    "text": "equal to 6",
+    "start": 334.56,
+    "duration": 3.68
+  },
+  {
+    "text": "so 6 plus 1 equal to 7 so that is what",
+    "start": 335.44,
+    "duration": 3.199
+  },
+  {
+    "text": "the",
+    "start": 338.24,
+    "duration": 2.959
+  },
+  {
+    "text": "increment operator or this plus plus",
+    "start": 338.639,
+    "duration": 3.28
+  },
+  {
+    "text": "operator",
+    "start": 341.199,
+    "duration": 3.121
+  },
+  {
+    "text": "does now why are we discussing this we",
+    "start": 341.919,
+    "duration": 4.081
+  },
+  {
+    "text": "are discussing this because i want to",
+    "start": 344.32,
+    "duration": 3.04
+  },
+  {
+    "text": "emphasize the fact that",
+    "start": 346.0,
+    "duration": 3.919
+  },
+  {
+    "text": "the term c plus plus was coined because",
+    "start": 347.36,
+    "duration": 3.04
+  },
+  {
+    "text": "of",
+    "start": 349.919,
+    "duration": 2.961
+  },
+  {
+    "text": "this particular reason so we saw that",
+    "start": 350.4,
+    "duration": 4.4
+  },
+  {
+    "text": "plus plus is an increment operator",
+    "start": 352.88,
+    "duration": 4.24
+  },
+  {
+    "text": "and because of that c plus plus was",
+    "start": 354.8,
+    "duration": 4.16
+  },
+  {
+    "text": "chosen to denote it being the",
+    "start": 357.12,
+    "duration": 4.56
+  },
+  {
+    "text": "next or the successor or increment of",
+    "start": 358.96,
+    "duration": 3.12
+  },
+  {
+    "text": "the",
+    "start": 361.68,
+    "duration": 2.959
+  },
+  {
+    "text": "c programming language so we said that c",
+    "start": 362.08,
+    "duration": 3.92
+  },
+  {
+    "text": "plus plus is an extension of",
+    "start": 364.639,
+    "duration": 3.68
+  },
+  {
+    "text": "c and the name c plus plus was chosen in",
+    "start": 366.0,
+    "duration": 3.52
+  },
+  {
+    "text": "order to denote that",
+    "start": 368.319,
+    "duration": 3.44
+  },
+  {
+    "text": "it is the next or the successor or an",
+    "start": 369.52,
+    "duration": 3.6
+  },
+  {
+    "text": "increment of the",
+    "start": 371.759,
+    "duration": 3.601
+  },
+  {
+    "text": "c programming language so that is why i",
+    "start": 373.12,
+    "duration": 4.32
+  },
+  {
+    "text": "wanted to discuss this small example to",
+    "start": 375.36,
+    "duration": 2.64
+  },
+  {
+    "text": "tell you",
+    "start": 377.44,
+    "duration": 3.199
+  },
+  {
+    "text": "why this plus plus is there after this c",
+    "start": 378.0,
+    "duration": 3.6
+  },
+  {
+    "text": "making it",
+    "start": 380.639,
+    "duration": 3.68
+  },
+  {
+    "text": "c plus plus okay so now let's discuss",
+    "start": 381.6,
+    "duration": 4.56
+  },
+  {
+    "text": "the prerequisites that we need to",
+    "start": 384.319,
+    "duration": 4.081
+  },
+  {
+    "text": "know before learning the c programming",
+    "start": 386.16,
+    "duration": 3.92
+  },
+  {
+    "text": "language all right so coming to the",
+    "start": 388.4,
+    "duration": 2.639
+  },
+  {
+    "text": "prerequisites",
+    "start": 390.08,
+    "duration": 3.679
+  },
+  {
+    "text": "let us ask ourselves some few questions",
+    "start": 391.039,
+    "duration": 4.72
+  },
+  {
+    "text": "do i need to have prior knowledge of c",
+    "start": 393.759,
+    "duration": 2.72
+  },
+  {
+    "text": "to learn c",
+    "start": 395.759,
+    "duration": 2.401
+  },
+  {
+    "text": "plus plus so in the previous slide we",
+    "start": 396.479,
+    "duration": 3.601
+  },
+  {
+    "text": "have just seen that c plus plus is",
+    "start": 398.16,
+    "duration": 3.12
+  },
+  {
+    "text": "actually an extension of",
+    "start": 400.08,
+    "duration": 3.28
+  },
+  {
+    "text": "c so do you need to have any prior",
+    "start": 401.28,
+    "duration": 3.199
+  },
+  {
+    "text": "knowledge of c",
+    "start": 403.36,
+    "duration": 3.2
+  },
+  {
+    "text": "in order to learn c plus plus the answer",
+    "start": 404.479,
+    "duration": 3.521
+  },
+  {
+    "text": "is no you don't need",
+    "start": 406.56,
+    "duration": 4.24
+  },
+  {
+    "text": "to no c to learn c plus so if you",
+    "start": 408.0,
+    "duration": 4.72
+  },
+  {
+    "text": "already know c that is well and good",
+    "start": 410.8,
+    "duration": 3.6
+  },
+  {
+    "text": "but even if you don't know it it is",
+    "start": 412.72,
+    "duration": 3.84
+  },
+  {
+    "text": "totally fine because c plus plus in",
+    "start": 414.4,
+    "duration": 3.76
+  },
+  {
+    "text": "itself is a complete programming",
+    "start": 416.56,
+    "duration": 3.28
+  },
+  {
+    "text": "language and we are going to",
+    "start": 418.16,
+    "duration": 3.52
+  },
+  {
+    "text": "start from scratch and discuss",
+    "start": 419.84,
+    "duration": 4.079
+  },
+  {
+    "text": "everything right from the basics so you",
+    "start": 421.68,
+    "duration": 4.0
+  },
+  {
+    "text": "don't need to have any prior knowledge",
+    "start": 423.919,
+    "duration": 2.161
+  },
+  {
+    "text": "of c",
+    "start": 425.68,
+    "duration": 2.88
+  },
+  {
+    "text": "in order to learn c plus and then do i",
+    "start": 426.08,
+    "duration": 3.119
+  },
+  {
+    "text": "need to know",
+    "start": 428.56,
+    "duration": 2.639
+  },
+  {
+    "text": "any other programming languages before",
+    "start": 429.199,
+    "duration": 3.921
+  },
+  {
+    "text": "learning c plus plus so apart from",
+    "start": 431.199,
+    "duration": 3.44
+  },
+  {
+    "text": "c is there any other programming",
+    "start": 433.12,
+    "duration": 3.68
+  },
+  {
+    "text": "languages that you need to know before",
+    "start": 434.639,
+    "duration": 4.721
+  },
+  {
+    "text": "learning c plus plus again the answer is",
+    "start": 436.8,
+    "duration": 4.48
+  },
+  {
+    "text": "no you don't need to know any other",
+    "start": 439.36,
+    "duration": 4.72
+  },
+  {
+    "text": "programming languages before learning c",
+    "start": 441.28,
+    "duration": 5.039
+  },
+  {
+    "text": "so if you have chosen c plus plus as",
+    "start": 444.08,
+    "duration": 4.399
+  },
+  {
+    "text": "your first programming language it is",
+    "start": 446.319,
+    "duration": 2.961
+  },
+  {
+    "text": "totally fine",
+    "start": 448.479,
+    "duration": 3.44
+  },
+  {
+    "text": "because we are going to learn everything",
+    "start": 449.28,
+    "duration": 3.359
+  },
+  {
+    "text": "as i said",
+    "start": 451.919,
+    "duration": 2.881
+  },
+  {
+    "text": "from scratch so we will start from the",
+    "start": 452.639,
+    "duration": 3.68
+  },
+  {
+    "text": "basics and cover each and everything",
+    "start": 454.8,
+    "duration": 2.48
+  },
+  {
+    "text": "that is required",
+    "start": 456.319,
+    "duration": 3.28
+  },
+  {
+    "text": "in order to learn this language so again",
+    "start": 457.28,
+    "duration": 3.68
+  },
+  {
+    "text": "if this is your first programming",
+    "start": 459.599,
+    "duration": 3.04
+  },
+  {
+    "text": "language you have made a good choice",
+    "start": 460.96,
+    "duration": 3.2
+  },
+  {
+    "text": "in choosing this as your first",
+    "start": 462.639,
+    "duration": 3.361
+  },
+  {
+    "text": "programming language so we see that",
+    "start": 464.16,
+    "duration": 3.52
+  },
+  {
+    "text": "basically there are no prerequisites in",
+    "start": 466.0,
+    "duration": 2.479
+  },
+  {
+    "text": "order to learn c",
+    "start": 467.68,
+    "duration": 2.32
+  },
+  {
+    "text": "plus plus you can just learn it from",
+    "start": 468.479,
+    "duration": 3.28
+  },
+  {
+    "text": "whatever position that you are",
+    "start": 470.0,
+    "duration": 3.84
+  },
+  {
+    "text": "right now okay now let's take a look at",
+    "start": 471.759,
+    "duration": 3.84
+  },
+  {
+    "text": "the syllabus okay so coming to the",
+    "start": 473.84,
+    "duration": 3.359
+  },
+  {
+    "text": "syllabus we will see what are the main",
+    "start": 475.599,
+    "duration": 3.28
+  },
+  {
+    "text": "things that we are going to discuss",
+    "start": 477.199,
+    "duration": 4.481
+  },
+  {
+    "text": "in this course okay so here are the list",
+    "start": 478.879,
+    "duration": 3.6
+  },
+  {
+    "text": "of the basic",
+    "start": 481.68,
+    "duration": 2.32
+  },
+  {
+    "text": "topics that we are going to discuss in",
+    "start": 482.479,
+    "duration": 3.361
+  },
+  {
+    "text": "this course so first of all we will see",
+    "start": 484.0,
+    "duration": 3.599
+  },
+  {
+    "text": "the introduction so this lecture is also",
+    "start": 485.84,
+    "duration": 3.44
+  },
+  {
+    "text": "a part of the introduction and we will",
+    "start": 487.599,
+    "duration": 3.521
+  },
+  {
+    "text": "see some more basic things that we need",
+    "start": 489.28,
+    "duration": 2.4
+  },
+  {
+    "text": "to learn",
+    "start": 491.12,
+    "duration": 3.199
+  },
+  {
+    "text": "before we get into the details of c plus",
+    "start": 491.68,
+    "duration": 4.16
+  },
+  {
+    "text": "plus so that will be discussed in the",
+    "start": 494.319,
+    "duration": 2.16
+  },
+  {
+    "text": "introduction",
+    "start": 495.84,
+    "duration": 2.0
+  },
+  {
+    "text": "and then we will study about the",
+    "start": 496.479,
+    "duration": 3.201
+  },
+  {
+    "text": "variables and basic types",
+    "start": 497.84,
+    "duration": 3.68
+  },
+  {
+    "text": "so don't worry about these terms that",
+    "start": 499.68,
+    "duration": 3.28
+  },
+  {
+    "text": "are written here if you are new to",
+    "start": 501.52,
+    "duration": 3.28
+  },
+  {
+    "text": "programming it will all become clear as",
+    "start": 502.96,
+    "duration": 2.72
+  },
+  {
+    "text": "we move ahead",
+    "start": 504.8,
+    "duration": 2.56
+  },
+  {
+    "text": "so just know that we are going to",
+    "start": 505.68,
+    "duration": 3.76
+  },
+  {
+    "text": "discuss these things so after variables",
+    "start": 507.36,
+    "duration": 3.76
+  },
+  {
+    "text": "and basic types we are going to discuss",
+    "start": 509.44,
+    "duration": 2.56
+  },
+  {
+    "text": "about strings",
+    "start": 511.12,
+    "duration": 2.96
+  },
+  {
+    "text": "vectors and arrays then we will see the",
+    "start": 512.0,
+    "duration": 3.76
+  },
+  {
+    "text": "different kind of expressions that we",
+    "start": 514.08,
+    "duration": 2.0
+  },
+  {
+    "text": "have",
+    "start": 515.76,
+    "duration": 1.92
+  },
+  {
+    "text": "then the different kind of statements",
+    "start": 516.08,
+    "duration": 2.959
+  },
+  {
+    "text": "that we have and then we will study",
+    "start": 517.68,
+    "duration": 2.4
+  },
+  {
+    "text": "about functions",
+    "start": 519.039,
+    "duration": 2.401
+  },
+  {
+    "text": "and then we will also study about",
+    "start": 520.08,
+    "duration": 3.04
+  },
+  {
+    "text": "classes so we see that",
+    "start": 521.44,
+    "duration": 4.0
+  },
+  {
+    "text": "classes as we already saw in the first",
+    "start": 523.12,
+    "duration": 4.24
+  },
+  {
+    "text": "slide is one of the features that is",
+    "start": 525.44,
+    "duration": 2.56
+  },
+  {
+    "text": "there in c",
+    "start": 527.36,
+    "duration": 2.88
+  },
+  {
+    "text": "plus plus which was not there in c so",
+    "start": 528.0,
+    "duration": 4.08
+  },
+  {
+    "text": "this is an important feature of c",
+    "start": 530.24,
+    "duration": 3.52
+  },
+  {
+    "text": "plus which we need to study and this is",
+    "start": 532.08,
+    "duration": 3.84
+  },
+  {
+    "text": "also a topic that will make us ready to",
+    "start": 533.76,
+    "duration": 3.84
+  },
+  {
+    "text": "learn the object-oriented programming",
+    "start": 535.92,
+    "duration": 2.24
+  },
+  {
+    "text": "approach",
+    "start": 537.6,
+    "duration": 2.799
+  },
+  {
+    "text": "so after classes we will see the input",
+    "start": 538.16,
+    "duration": 4.32
+  },
+  {
+    "text": "output library then we will study about",
+    "start": 540.399,
+    "duration": 3.761
+  },
+  {
+    "text": "the overloaded operations and",
+    "start": 542.48,
+    "duration": 3.76
+  },
+  {
+    "text": "conversions and we will also study about",
+    "start": 544.16,
+    "duration": 2.4
+  },
+  {
+    "text": "the",
+    "start": 546.24,
+    "duration": 2.8
+  },
+  {
+    "text": "object oriented programming so as i said",
+    "start": 546.56,
+    "duration": 4.16
+  },
+  {
+    "text": "don't worry even if this topics",
+    "start": 549.04,
+    "duration": 3.84
+  },
+  {
+    "text": "seem alien to you at the moment if you",
+    "start": 550.72,
+    "duration": 3.84
+  },
+  {
+    "text": "are new to programming we are going to",
+    "start": 552.88,
+    "duration": 3.04
+  },
+  {
+    "text": "study and make everything",
+    "start": 554.56,
+    "duration": 3.52
+  },
+  {
+    "text": "clear in this course so basically these",
+    "start": 555.92,
+    "duration": 3.84
+  },
+  {
+    "text": "are the main things that are going to be",
+    "start": 558.08,
+    "duration": 2.24
+  },
+  {
+    "text": "covered",
+    "start": 559.76,
+    "duration": 2.56
+  },
+  {
+    "text": "in this course now coming to the target",
+    "start": 560.32,
+    "duration": 3.92
+  },
+  {
+    "text": "audience who are the target audience for",
+    "start": 562.32,
+    "duration": 2.56
+  },
+  {
+    "text": "this course",
+    "start": 564.24,
+    "duration": 2.56
+  },
+  {
+    "text": "so you may already have an idea because",
+    "start": 564.88,
+    "duration": 3.76
+  },
+  {
+    "text": "i said about this in the first slide",
+    "start": 566.8,
+    "duration": 2.4
+  },
+  {
+    "text": "itself",
+    "start": 568.64,
+    "duration": 2.96
+  },
+  {
+    "text": "so first of all anyone who is having c",
+    "start": 569.2,
+    "duration": 4.48
+  },
+  {
+    "text": "plus plus as a part of their university",
+    "start": 571.6,
+    "duration": 4.239
+  },
+  {
+    "text": "or college curriculum you're welcome to",
+    "start": 573.68,
+    "duration": 3.68
+  },
+  {
+    "text": "learn using this course",
+    "start": 575.839,
+    "duration": 3.601
+  },
+  {
+    "text": "and then anyone who wants to learn the c",
+    "start": 577.36,
+    "duration": 3.84
+  },
+  {
+    "text": "plus plus programming language so if you",
+    "start": 579.44,
+    "duration": 3.6
+  },
+  {
+    "text": "are just a casual learner or if you want",
+    "start": 581.2,
+    "duration": 3.6
+  },
+  {
+    "text": "to learn the details of this programming",
+    "start": 583.04,
+    "duration": 3.44
+  },
+  {
+    "text": "language or if you want to even just",
+    "start": 584.8,
+    "duration": 2.96
+  },
+  {
+    "text": "brush up some concepts",
+    "start": 586.48,
+    "duration": 3.52
+  },
+  {
+    "text": "this course is for you so basically",
+    "start": 587.76,
+    "duration": 4.32
+  },
+  {
+    "text": "anyone who wants to learn the c plus",
+    "start": 590.0,
+    "duration": 4.0
+  },
+  {
+    "text": "programming language can make use of",
+    "start": 592.08,
+    "duration": 3.92
+  },
+  {
+    "text": "this course all right so that was about",
+    "start": 594.0,
+    "duration": 4.16
+  },
+  {
+    "text": "the basic introduction to c plus plus i",
+    "start": 596.0,
+    "duration": 3.68
+  },
+  {
+    "text": "hope you got an idea of",
+    "start": 598.16,
+    "duration": 3.52
+  },
+  {
+    "text": "what is c plus plus programming language",
+    "start": 599.68,
+    "duration": 4.0
+  },
+  {
+    "text": "how it is an extension of c",
+    "start": 601.68,
+    "duration": 3.36
+  },
+  {
+    "text": "and what are the things that we are",
+    "start": 603.68,
+    "duration": 3.599
+  },
+  {
+    "text": "going to study in this course and who",
+    "start": 605.04,
+    "duration": 3.76
+  },
+  {
+    "text": "are the target audience",
+    "start": 607.279,
+    "duration": 3.281
+  },
+  {
+    "text": "so i hope we will have a wonderful",
+    "start": 608.8,
+    "duration": 4.08
+  },
+  {
+    "text": "journey in learning and teaching this",
+    "start": 610.56,
+    "duration": 2.8
+  },
+  {
+    "text": "course",
+    "start": 612.88,
+    "duration": 2.88
+  },
+  {
+    "text": "together so i hope this introductory",
+    "start": 613.36,
+    "duration": 4.159
+  },
+  {
+    "text": "lecture is clear to you thank you for",
+    "start": 615.76,
+    "duration": 2.319
+  },
+  {
+    "text": "watching",
+    "start": 617.519,
+    "duration": 15.361
+  },
+  {
+    "text": "and see you in the next one",
+    "start": 618.079,
+    "duration": 14.801
+  }
+]

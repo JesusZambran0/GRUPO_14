@@ -1,0 +1,877 @@
+[
+  {
+    "text": "This is a piece of code from a \nfully functional 8-bit snake game,  ",
+    "start": 0.24,
+    "duration": 3.92
+  },
+  {
+    "text": "featuring razor-sharp graphics, \nmesmerizing gameplay, and even  ",
+    "start": 4.16,
+    "duration": 4.16
+  },
+  {
+    "text": "sound! The reason that the code looks like \nthis is because it's written in Brainf-.",
+    "start": 8.32,
+    "duration": 5.28
+  },
+  {
+    "text": "I don't want to get demonetized, so I'll \nabbreviate the name to just BF. As you  ",
+    "start": 14.48,
+    "duration": 4.56
+  },
+  {
+    "text": "can probably tell by the name, this language is \nquite literally designed to give you a headache,  ",
+    "start": 19.04,
+    "duration": 4.64
+  },
+  {
+    "text": "I'm just one of the weirdos that \nfinds it fun to work with - remember,  ",
+    "start": 23.68,
+    "duration": 3.2
+  },
+  {
+    "text": "you're currently looking \nat a game engine. Point is,  ",
+    "start": 26.88,
+    "duration": 2.8
+  },
+  {
+    "text": "if you don't take notes on every little thing \nyour code does, it's very easy to get lost.",
+    "start": 29.68,
+    "duration": 5.36
+  },
+  {
+    "text": "All programs written in BF look like \nunreadable garbage - it's not just my code,  ",
+    "start": 35.04,
+    "duration": 4.32
+  },
+  {
+    "text": "I promise. That's because the entire BF grammar \nconsists of just 8 symbols. Other characters,  ",
+    "start": 39.36,
+    "duration": 5.52
+  },
+  {
+    "text": "like letters and even numbers, are \nsimply ignored. But, in theory,  ",
+    "start": 44.88,
+    "duration": 4.88
+  },
+  {
+    "text": "this is all you need to write any program - \nincluding a relatively complicated 2D game.",
+    "start": 49.76,
+    "duration": 5.6
+  },
+  {
+    "text": "Here's how it works: you're given a long array \nof numbers, which are all set to 0 by default.  ",
+    "start": 55.36,
+    "duration": 4.8
+  },
+  {
+    "text": "You've also got a cursor, which starts off \npointing at the very first number. You can  ",
+    "start": 60.16,
+    "duration": 3.84
+  },
+  {
+    "text": "use these two instructions to move that cursor to \nthe right, or to the left. You can use the plus  ",
+    "start": 64.0,
+    "duration": 4.88
+  },
+  {
+    "text": "and minus symbols to add 1 or remove 1 from the \ncurrently selected number. The comma lets you read  ",
+    "start": 68.88,
+    "duration": 6.08
+  },
+  {
+    "text": "user input one symbol at a time, and the dot lets \nyou output a symbol. Finally, the square brackets  ",
+    "start": 74.96,
+    "duration": 5.84
+  },
+  {
+    "text": "indicate a loop - any code inside of here will \nrepeat until the selected value becomes zero.",
+    "start": 80.8,
+    "duration": 5.92
+  },
+  {
+    "text": "And yep, that's all there is to it. \nCongratulations, you've successfully  ",
+    "start": 86.72,
+    "duration": 3.68
+  },
+  {
+    "text": "learned an entire programming language. Feel \nfree to put that on your resume if you want,  ",
+    "start": 90.4,
+    "duration": 3.92
+  },
+  {
+    "text": "though... maybe leave out the \nname. It's not very professional.",
+    "start": 94.32,
+    "duration": 3.68
+  },
+  {
+    "text": "Okay, so we've got the LEGOs, but how \ndo you build a game with this? For that,  ",
+    "start": 98.0,
+    "duration": 4.4
+  },
+  {
+    "text": "we'll first need a screen. I wrote a program \nthat visualizes the first 256 cells as pixels.  ",
+    "start": 102.4,
+    "duration": 6.16
+  },
+  {
+    "text": "This means that if we, for example, \nincrease the value of the first cell,  ",
+    "start": 108.56,
+    "duration": 3.84
+  },
+  {
+    "text": "the first pixel will get brighter. If \nwe do the same a few cells forward,  ",
+    "start": 112.4,
+    "duration": 3.92
+  },
+  {
+    "text": "we can light up a different pixel. Slowly, little \nby little, we can start to build a whole image.",
+    "start": 116.32,
+    "duration": 5.92
+  },
+  {
+    "text": "Technically, this screen doesn't have to be \n16 by 16, but that does make it easier to work  ",
+    "start": 122.24,
+    "duration": 4.64
+  },
+  {
+    "text": "with when building a game. BF works with 8-bit \nvalues, which means that the highest number you  ",
+    "start": 126.88,
+    "duration": 5.44
+  },
+  {
+    "text": "can achieve is 255. Going over that will just \nflip the value back over to 0. And, likewise,  ",
+    "start": 132.32,
+    "duration": 6.48
+  },
+  {
+    "text": "subtracting one from zero will bring you up to \n255. A 16 by 16 pixel screen has exactly 256  ",
+    "start": 138.8,
+    "duration": 8.32
+  },
+  {
+    "text": "pixels, which means that we can store something \nlike the player position in just one cell.",
+    "start": 147.12,
+    "duration": 5.12
+  },
+  {
+    "text": "Actually drawing a player based on this \nposition is where it starts to get interesting.",
+    "start": 152.24,
+    "duration": 4.8
+  },
+  {
+    "text": "Say we're storing the position in the 256th cell,  ",
+    "start": 157.04,
+    "duration": 3.6
+  },
+  {
+    "text": "right outside of the pixel buffer. To \ndraw the player at the given location,  ",
+    "start": 160.64,
+    "duration": 3.68
+  },
+  {
+    "text": "we need a way to convert this number to a set \nof cursor moving instructions. Just hard-coding  ",
+    "start": 164.32,
+    "duration": 4.8
+  },
+  {
+    "text": "these isn't gonna work, because then you'd \nhave to change the code to move the player.",
+    "start": 169.12,
+    "duration": 4.08
+  },
+  {
+    "text": "My solution to this was to use what I call \na glider - it's a loop with just one arrow  ",
+    "start": 173.2,
+    "duration": 4.64
+  },
+  {
+    "text": "instruction inside, and what this does is \nit makes the cursor continuously move in  ",
+    "start": 177.84,
+    "duration": 4.24
+  },
+  {
+    "text": "one direction until it reaches a 0, \nat which point, the loop will stop.",
+    "start": 182.08,
+    "duration": 4.56
+  },
+  {
+    "text": "That actually reframes the problem, as now \nwe just need to fill some continuous volume  ",
+    "start": 186.64,
+    "duration": 4.08
+  },
+  {
+    "text": "of cells with positive values, which is \na lot more plausible than jumping ahead.",
+    "start": 190.72,
+    "duration": 4.64
+  },
+  {
+    "text": "The code I'm using here just decrements the \nposition counter, then glides into the pixel  ",
+    "start": 195.36,
+    "duration": 4.24
+  },
+  {
+    "text": "buffer, increments one value at the end of the \nchain, and glides right back. Rinse repeat,  ",
+    "start": 199.6,
+    "duration": 5.04
+  },
+  {
+    "text": "and you've got yourself a bunch of ones leading \nup to where the player is supposed to be. Now,  ",
+    "start": 204.64,
+    "duration": 4.4
+  },
+  {
+    "text": "if you just use another set of gliders, \nyou can go to the end of this chain,  ",
+    "start": 209.04,
+    "duration": 3.92
+  },
+  {
+    "text": "draw a fully white pixel there, and then \nglide back while picking up your garbage  ",
+    "start": 212.96,
+    "duration": 4.48
+  },
+  {
+    "text": "along the way. Yeah, this is not what \ngame programming normally looks like.",
+    "start": 217.44,
+    "duration": 4.88
+  },
+  {
+    "text": "At this point, you might say: “What's the big \ndeal? We were already drawing pixels ages ago!”  ",
+    "start": 222.32,
+    "duration": 5.04
+  },
+  {
+    "text": "But here's the cool part - we can now put all \nof the drawing code in its own loop, and make  ",
+    "start": 227.36,
+    "duration": 5.12
+  },
+  {
+    "text": "changes to the position each time the loop runs, \nwhich makes that pixel start moving! It's not  ",
+    "start": 232.48,
+    "duration": 6.48
+  },
+  {
+    "text": "quite Snake just yet, but we're getting there. \nWhat we need now is a way to control the player.",
+    "start": 238.96,
+    "duration": 6.16
+  },
+  {
+    "text": "I mentioned earlier that the comma operator \ncan read symbols from user input, but in my  ",
+    "start": 245.12,
+    "duration": 5.2
+  },
+  {
+    "text": "engine I've slightly tweaked it to give me \na bitmask of controller inputs. Simply put,  ",
+    "start": 250.32,
+    "duration": 4.72
+  },
+  {
+    "text": "when I use the comma, I'll get back a \nnumber that can correspond to a button,  ",
+    "start": 255.04,
+    "duration": 3.84
+  },
+  {
+    "text": "or a combination of buttons. To be clear - I'm \nnot adding anything new, this is all still doable  ",
+    "start": 258.88,
+    "duration": 5.12
+  },
+  {
+    "text": "in vanilla BF. I'm effectively just remapping \nthese inputs to be more intuitive for a game.",
+    "start": 264.0,
+    "duration": 5.12
+  },
+  {
+    "text": "So with that, and a bunch more BF code, I \ncan finally start to move around a pixel  ",
+    "start": 269.12,
+    "duration": 4.64
+  },
+  {
+    "text": "on the screen. And, depending on how easily \nentertained you are, one could already call  ",
+    "start": 273.76,
+    "duration": 4.24
+  },
+  {
+    "text": "this a game. Maybe. The fundamental concept that \nmakes this (and the rest of the game) possible,  ",
+    "start": 278.0,
+    "duration": 6.64
+  },
+  {
+    "text": "are conditionals. In most programming languages, \nthese are expressions like “is X equal to 5?” or  ",
+    "start": 284.64,
+    "duration": 6.0
+  },
+  {
+    "text": "“is A less than B?”, but ohh no no no no- \nthis is BF, we don't get such fancies. We  ",
+    "start": 290.64,
+    "duration": 5.92
+  },
+  {
+    "text": "just have a few increments and loops. \nStill, undeterred, we can make it work.",
+    "start": 296.56,
+    "duration": 5.12
+  },
+  {
+    "text": "If you think about it, the BF loop is kind of like  ",
+    "start": 301.68,
+    "duration": 3.36
+  },
+  {
+    "text": "a conditional that asks “is the \nnumber not equal to zero?” If so,  ",
+    "start": 305.04,
+    "duration": 4.24
+  },
+  {
+    "text": "it'll run and repeat the code that's inside. \nIf not, it'll jump forward and skip the loop.",
+    "start": 309.28,
+    "duration": 5.28
+  },
+  {
+    "text": "Now, that might seem like a dead end at first, but \njust watch: if we add a few subtractions before  ",
+    "start": 314.56,
+    "duration": 5.04
+  },
+  {
+    "text": "the loop, we can now start to ask questions like \n“is the number not equal to 3?”, because this is  ",
+    "start": 319.6,
+    "duration": 5.36
+  },
+  {
+    "text": "basically the same as carrying the number to the \nother side of the equation. We can also nest loops  ",
+    "start": 324.96,
+    "duration": 5.76
+  },
+  {
+    "text": "inside of each other to ask questions like “is the \nnumber not 3 or 4?”. And while it might seem like  ",
+    "start": 330.72,
+    "duration": 5.76
+  },
+  {
+    "text": "we're limited to just the “not equal” kinds of \nquestions, there's a way to get around that, too!",
+    "start": 336.48,
+    "duration": 5.84
+  },
+  {
+    "text": "Say we have a loop that always works - it has a \ndedicated flag number that we'll set to a non-  ",
+    "start": 342.32,
+    "duration": 4.96
+  },
+  {
+    "text": "zero value. No matter the number comes before it, \nit'll always pass, because it's actually checking  ",
+    "start": 347.28,
+    "duration": 5.76
+  },
+  {
+    "text": "a completely different number. But, remember \n- we've got the power to exclude any number,  ",
+    "start": 353.04,
+    "duration": 5.6
+  },
+  {
+    "text": "so we can add another loop before this that \nchecks if the cursor is not pointing towards a 3,  ",
+    "start": 358.64,
+    "duration": 5.52
+  },
+  {
+    "text": "and if so, it'll flip that flag, which will now \nskip the second loop for anything that isn't a 3.",
+    "start": 364.16,
+    "duration": 6.64
+  },
+  {
+    "text": "This might be a lot to take in all at once,  ",
+    "start": 370.8,
+    "duration": 2.24
+  },
+  {
+    "text": "but essentially this means that we can \nstart gluing together basic conditions  ",
+    "start": 373.04,
+    "duration": 4.64
+  },
+  {
+    "text": "like “is the left direction key pressed, \nand if so, change the player's position”.",
+    "start": 377.68,
+    "duration": 4.96
+  },
+  {
+    "text": "But, let's be honest, it's not \nreally a game without an objective,  ",
+    "start": 382.64,
+    "duration": 3.84
+  },
+  {
+    "text": "so let's try adding another slightly \ndimmer pixel – in Snake, this would be  ",
+    "start": 386.48,
+    "duration": 4.32
+  },
+  {
+    "text": "the apple. But... that's kinda stupid, \nsince snakes don't actually eat apples,  ",
+    "start": 390.8,
+    "duration": 3.92
+  },
+  {
+    "text": "so just between us, the protagonist of this \ngame will actually be a very hungry caterpillar.",
+    "start": 394.72,
+    "duration": 4.88
+  },
+  {
+    "text": "Anyway, if we just copy the player rendering code, \nit seems to work at first, until you step to the  ",
+    "start": 399.6,
+    "duration": 5.76
+  },
+  {
+    "text": "right of it. This happens because of the way \nwe're gliding across the screen. In a situation  ",
+    "start": 405.36,
+    "duration": 4.8
+  },
+  {
+    "text": "like this, The player gets drawn first, and then \nthe apple's rendering routine has to glide over  ",
+    "start": 410.16,
+    "duration": 5.2
+  },
+  {
+    "text": "it to be drawn after. But the apple can't really \ndistinguish between a marker it placed and a pixel  ",
+    "start": 415.36,
+    "duration": 5.76
+  },
+  {
+    "text": "that was already there, so the player effectively \noffsets the apple one cell to the left.",
+    "start": 421.12,
+    "duration": 5.28
+  },
+  {
+    "text": "I don't know if there's a good way to solve \nthis, at least I haven't figured it out yet,  ",
+    "start": 426.4,
+    "duration": 3.92
+  },
+  {
+    "text": "and if I ever do, it's not like I'm going \nto come back and update my rendering  ",
+    "start": 430.32,
+    "duration": 3.76
+  },
+  {
+    "text": "pipeline. It's not exactly trivial \nto refactor a program written in BF.",
+    "start": 434.08,
+    "duration": 4.96
+  },
+  {
+    "text": "My solution is pretty dumb, but it does work \n- I just check if the player's coordinate is  ",
+    "start": 439.04,
+    "duration": 5.52
+  },
+  {
+    "text": "less than than the apple's coordinate, \nand subtract one if so. The reason this  ",
+    "start": 444.56,
+    "duration": 4.4
+  },
+  {
+    "text": "approach sucks is that you now have to \ndo this for every new pixel you add,  ",
+    "start": 448.96,
+    "duration": 3.92
+  },
+  {
+    "text": "making the code more and more of a brainfu- \n*ahem*, sorry, excuse me- almost got me there.",
+    "start": 452.88,
+    "duration": 5.68
+  },
+  {
+    "text": "Lastly, we need a way to randomize the position \nof the apple after it's been picked up. BF  ",
+    "start": 458.56,
+    "duration": 5.12
+  },
+  {
+    "text": "doesn't have any randomization functions \nper se, but just like many great NES games,  ",
+    "start": 463.68,
+    "duration": 4.4
+  },
+  {
+    "text": "we can simulate randomness by using \na timer that counts up every frame.  ",
+    "start": 468.08,
+    "duration": 4.48
+  },
+  {
+    "text": "My engine runs this game at 60 FPS, and \nit'd be pretty hard to predict the exact  ",
+    "start": 472.56,
+    "duration": 4.4
+  },
+  {
+    "text": "value of that counter every time I pick \nup an apple. So, it's basically random.",
+    "start": 476.96,
+    "duration": 4.56
+  },
+  {
+    "text": "Speaking of frame rate, it's actually pretty \nhard to control the player with how fast it  ",
+    "start": 481.52,
+    "duration": 4.08
+  },
+  {
+    "text": "moves at 60 FPS. I didn't mention this before, but \nI repurposed the dot operator that usually prints  ",
+    "start": 485.6,
+    "duration": 5.76
+  },
+  {
+    "text": "a single character to instead signal to my runtime \nthat the frame buffer is ready for drawing.",
+    "start": 491.36,
+    "duration": 5.12
+  },
+  {
+    "text": "We could slow down the game by drawing \nmultiple identical frames back to back,  ",
+    "start": 496.48,
+    "duration": 4.64
+  },
+  {
+    "text": "but that would make movement feel \nmuch less responsive. Instead,  ",
+    "start": 501.12,
+    "duration": 3.52
+  },
+  {
+    "text": "I'll increment a counter 32 times each frame, \nand only update the player's position once that  ",
+    "start": 504.64,
+    "duration": 5.6
+  },
+  {
+    "text": "counter wraps around to zero, which \nwould be every 8th frame. This way,  ",
+    "start": 510.24,
+    "duration": 4.24
+  },
+  {
+    "text": "I can still read player input on every frame, \nbut I process it at a much slower rate.",
+    "start": 514.48,
+    "duration": 5.76
+  },
+  {
+    "text": "Okay, so we've got a pretty \nawesome dot collection game,  ",
+    "start": 520.24,
+    "duration": 2.48
+  },
+  {
+    "text": "but this ain't no Snake. \nWhere's the tail! Where's the-",
+    "start": 522.72,
+    "duration": 4.16
+  },
+  {
+    "text": "yeah no, just... just, where's the tail?",
+    "start": 526.88,
+    "duration": 2.16
+  },
+  {
+    "text": "Well, drawing one piece of the tail \nis about the same as drawing another  ",
+    "start": 529.04,
+    "duration": 3.12
+  },
+  {
+    "text": "player that's just lagging behind by one \ntick. Making it longer is what's annoying,  ",
+    "start": 532.16,
+    "duration": 4.72
+  },
+  {
+    "text": "and I actually procrastinated on this so hard \nthat I ended up implementing 8-bit color.",
+    "start": 536.88,
+    "duration": 5.68
+  },
+  {
+    "text": "This wasn't actually that hard - instead \nof drawing each pixel as a brightness,  ",
+    "start": 542.56,
+    "duration": 3.84
+  },
+  {
+    "text": "I treat the numbers in the frame buffer as RGB332 \ncolor values. This basically means that certain  ",
+    "start": 546.4,
+    "duration": 6.16
+  },
+  {
+    "text": "numbers correspond to certain colors. So all \nI have to do to make the player green and the  ",
+    "start": 552.56,
+    "duration": 4.56
+  },
+  {
+    "text": "apple red is to just use those specific numbers \nwhen drawing the pixels. To change the color of  ",
+    "start": 557.12,
+    "duration": 5.2
+  },
+  {
+    "text": "the background, I can just add some number \nto every pixel in the frame buffer. That  ",
+    "start": 562.32,
+    "duration": 4.8
+  },
+  {
+    "text": "does also mess up the colors of existing \npixels, but this can be compensated for.",
+    "start": 567.12,
+    "duration": 4.8
+  },
+  {
+    "text": "Okay, enough of that, we do actually need a \ntail. There are two ways to go about this - we  ",
+    "start": 571.92,
+    "duration": 4.56
+  },
+  {
+    "text": "can either write a template for drawing one pixel \nof the tail and copy-paste that a bunch of times,  ",
+    "start": 576.48,
+    "duration": 4.96
+  },
+  {
+    "text": "or we can figure out how to implement arrays. \nAnd, regardless of which option I'd choose,  ",
+    "start": 581.44,
+    "duration": 4.88
+  },
+  {
+    "text": "because of my crappy rendering \npipeline, each tail piece would  ",
+    "start": 586.32,
+    "duration": 3.04
+  },
+  {
+    "text": "have to account for the position of every \nother tail piece to be ordered correctly.",
+    "start": 589.36,
+    "duration": 4.8
+  },
+  {
+    "text": "The elegant solution here, if you can \ncall it that, is to use some kind of  ",
+    "start": 594.16,
+    "duration": 4.32
+  },
+  {
+    "text": "array structure. Remember- we can't tell \nBF to get the N-th tail piece directly.  ",
+    "start": 598.48,
+    "duration": 5.04
+  },
+  {
+    "text": "We already solved a similar problem \nearlier with the frame buffer,  ",
+    "start": 603.52,
+    "duration": 3.12
+  },
+  {
+    "text": "but that was for writing to an \nempty canvas - this is the opposite.",
+    "start": 606.64,
+    "duration": 4.96
+  },
+  {
+    "text": "One way to do this is to free up \ntwice the memory you would need,  ",
+    "start": 611.6,
+    "duration": 3.04
+  },
+  {
+    "text": "and fill the second half with the coordinates. \nTo retrieve an element from a specific index,  ",
+    "start": 614.64,
+    "duration": 4.64
+  },
+  {
+    "text": "you can shift the entire array backwards by \nthat amount, and then go to where the first  ",
+    "start": 619.28,
+    "duration": 4.88
+  },
+  {
+    "text": "coordinate was - that will now hold your \ndesired array element. This would be one  ",
+    "start": 624.16,
+    "duration": 4.48
+  },
+  {
+    "text": "of the more elegant and beautiful and dynamic \nway to do things, but my code doesn't do this.",
+    "start": 628.64,
+    "duration": 5.92
+  },
+  {
+    "text": "I just wrote some JavaScript code that \ntakes the template for drawing one tail  ",
+    "start": 634.56,
+    "duration": 3.76
+  },
+  {
+    "text": "piece and copy-pastes it 16 times. \nThat's the dumb and stinky approach,  ",
+    "start": 638.32,
+    "duration": 4.72
+  },
+  {
+    "text": "but the one benefit it does have is \nthat it's actually quite a bit faster,  ",
+    "start": 643.04,
+    "duration": 3.92
+  },
+  {
+    "text": "especially because you'd otherwise have to \nshift the whole array a bajillion times to  ",
+    "start": 646.96,
+    "duration": 3.92
+  },
+  {
+    "text": "cross-compare all the tail pixel coordinates. \nAnd this might actually matter, as even with  ",
+    "start": 650.88,
+    "duration": 5.04
+  },
+  {
+    "text": "the cheaper approach, my caterpillar starts to \nnot feel so good after a few too many apples.",
+    "start": 655.92,
+    "duration": 5.12
+  },
+  {
+    "text": "The solution to this is to just optimize the \ninterpreter. For example, instead of executing  ",
+    "start": 661.04,
+    "duration": 4.72
+  },
+  {
+    "text": "individual plus instructions one-by-one, \nyou can count them up ahead of time and  ",
+    "start": 665.76,
+    "duration": 5.12
+  },
+  {
+    "text": "store the exact amount to add. Likewise, \ninstead of stepping all the way through a  ",
+    "start": 670.88,
+    "duration": 4.4
+  },
+  {
+    "text": "loop to find the beginning or end, we can \ncount the distance between brackets ahead  ",
+    "start": 675.28,
+    "duration": 4.48
+  },
+  {
+    "text": "of time. This is actually how some basic \ncompression systems work in the real world.",
+    "start": 679.76,
+    "duration": 4.32
+  },
+  {
+    "text": "With just a few changes like these, \nthere's no longer any bit of lag remaining,  ",
+    "start": 684.08,
+    "duration": 4.24
+  },
+  {
+    "text": "even at full tail length. You could optimize \nthis even further by converting this binary  ",
+    "start": 688.32,
+    "duration": 4.72
+  },
+  {
+    "text": "format into C code, and then compiling \nthat down to actual machine code that  ",
+    "start": 693.04,
+    "duration": 4.88
+  },
+  {
+    "text": "runs natively on your processor, but \nI don't think our game will need that.",
+    "start": 697.92,
+    "duration": 4.8
+  },
+  {
+    "text": "Implementing a game-over state for biting the \ntail is probably the easiest thing in this whole  ",
+    "start": 702.72,
+    "duration": 4.8
+  },
+  {
+    "text": "project – all you have to do is create an infinite \nloop that draws the same frame over and over.",
+    "start": 707.52,
+    "duration": 5.52
+  },
+  {
+    "text": "Now, I'd love to say that we're finally done \nwith the game, but here comes the dreaded part:",
+    "start": 713.04,
+    "duration": 5.44
+  },
+  {
+    "text": "debugging BF code.",
+    "start": 718.48,
+    "duration": 2.8
+  },
+  {
+    "text": "There are quite a few graphical bugs, and even \nmore gameplay bugs. Just to name an example,  ",
+    "start": 721.28,
+    "duration": 5.92
+  },
+  {
+    "text": "if you move diagonally, \nyou'll start skipping pixels,  ",
+    "start": 727.2,
+    "duration": 3.44
+  },
+  {
+    "text": "which basically lets you go through \nyour own tail if you get lucky.",
+    "start": 730.64,
+    "duration": 3.44
+  },
+  {
+    "text": "I fixed that last one by making \ndiagonal movement stepped. Basically,  ",
+    "start": 734.08,
+    "duration": 3.84
+  },
+  {
+    "text": "I've got a value that flip-flops between \nzero and non-zero every time movement is  ",
+    "start": 737.92,
+    "duration": 4.4
+  },
+  {
+    "text": "processed. Then, instead of applying both \ncoordinate changes for diagonal movement,  ",
+    "start": 742.32,
+    "duration": 4.08
+  },
+  {
+    "text": "I choose a direction based on that flag. This also \nends up looking a lot more like what you'd expect.",
+    "start": 746.4,
+    "duration": 5.84
+  },
+  {
+    "text": "Since I also can't make the tail infinitely \nlong, you can exploit the way the screen  ",
+    "start": 752.24,
+    "duration": 4.08
+  },
+  {
+    "text": "coordinates wrap around to do this, which is kind \nof like an infinite score glitch. To remedy that,  ",
+    "start": 756.32,
+    "duration": 6.24
+  },
+  {
+    "text": "I added this blue pixel that kills you on contact. \nYou can think of it as a sort of \"bad apple\".",
+    "start": 762.56,
+    "duration": 6.08
+  },
+  {
+    "text": "Hold on a second-\n[Bad Apple plays in horrible quality]",
+    "start": 768.64,
+    "duration": 13.52
+  },
+  {
+    "text": "Yes, I did also add sound to the runtime. \nThe address that you've selected when you  ",
+    "start": 782.16,
+    "duration": 4.48
+  },
+  {
+    "text": "run the dot operator would normally be \nused to specify which character to print,  ",
+    "start": 786.64,
+    "duration": 4.16
+  },
+  {
+    "text": "but here it specifies a MIDI note to play \nfor the rest of the frame. In my game,  ",
+    "start": 790.8,
+    "duration": 4.56
+  },
+  {
+    "text": "I added basic blip sound effects \nfor picking up an apple, and a  ",
+    "start": 795.36,
+    "duration": 3.2
+  },
+  {
+    "text": "3-note sequence for when the player dies. \nI think that's about as good as it gets.",
+    "start": 798.56,
+    "duration": 4.96
+  },
+  {
+    "text": "Oh, and for the sake of completeness,  ",
+    "start": 803.52,
+    "duration": 1.92
+  },
+  {
+    "text": "I did also write a BF interpreter in \nPortal 2. It just... felt wrong not to.",
+    "start": 805.44,
+    "duration": 4.88
+  },
+  {
+    "text": "Anyway, if you enjoyed this rabbithole, \nyou can subscribe for more unhinged  ",
+    "start": 810.32,
+    "duration": 3.76
+  },
+  {
+    "text": "sidequests. And just in case you \nstill have any doubts about this,  ",
+    "start": 814.08,
+    "duration": 3.12
+  },
+  {
+    "text": "here's the first frame of the game being \nrun in a vanilla BF interpreter. There's  ",
+    "start": 817.2,
+    "duration": 3.92
+  },
+  {
+    "text": "no graphical output of course, but the memory \nbuffer does line up with the expected pixels.",
+    "start": 821.12,
+    "duration": 4.56
+  },
+  {
+    "text": "Alright, for real this time, \nthat's all from me today- see ya!",
+    "start": 825.68,
+    "duration": 6.64
+  }
+]

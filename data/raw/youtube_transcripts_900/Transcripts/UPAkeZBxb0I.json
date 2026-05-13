@@ -1,0 +1,642 @@
+[
+  {
+    "text": "hey there friends we might have come a",
+    "start": 6.12,
+    "duration": 4.8
+  },
+  {
+    "text": "long way since the first trip to the",
+    "start": 8.84,
+    "duration": 5.44
+  },
+  {
+    "text": "moon but at one point even the first",
+    "start": 10.92,
+    "duration": 5.439
+  },
+  {
+    "text": "mission was going to fail",
+    "start": 14.28,
+    "duration": 4.72
+  },
+  {
+    "text": "miserably thanks to Margaret Hamilton's",
+    "start": 16.359,
+    "duration": 5.961
+  },
+  {
+    "text": "software Neil Armstrong was able to land",
+    "start": 19.0,
+    "duration": 7.24
+  },
+  {
+    "text": "on the moon successfully back in",
+    "start": 22.32,
+    "duration": 7.039
+  },
+  {
+    "text": "1969 today I will tell you about",
+    "start": 26.24,
+    "duration": 5.439
+  },
+  {
+    "text": "Margaret and her invention of the",
+    "start": 29.359,
+    "duration": 6.081
+  },
+  {
+    "text": "software program that took us to the",
+    "start": 31.679,
+    "duration": 6.161
+  },
+  {
+    "text": "Moon zoom",
+    "start": 35.44,
+    "duration": 6.16
+  },
+  {
+    "text": "in it was when Margaret moved to Boston",
+    "start": 37.84,
+    "duration": 6.44
+  },
+  {
+    "text": "Massachusetts with her husband and",
+    "start": 41.6,
+    "duration": 5.639
+  },
+  {
+    "text": "daughter Lauren that she started working",
+    "start": 44.28,
+    "duration": 4.2
+  },
+  {
+    "text": "on",
+    "start": 47.239,
+    "duration": 4.601
+  },
+  {
+    "text": "computers Margaret joined the MIT as a",
+    "start": 48.48,
+    "duration": 6.28
+  },
+  {
+    "text": "programmer to support her husband's",
+    "start": 51.84,
+    "duration": 6.08
+  },
+  {
+    "text": "graduation though software as a concept",
+    "start": 54.76,
+    "duration": 6.959
+  },
+  {
+    "text": "was very new Mar always saw potential in",
+    "start": 57.92,
+    "duration": 7.199
+  },
+  {
+    "text": "it a software was a group of programs",
+    "start": 61.719,
+    "duration": 6.361
+  },
+  {
+    "text": "that enabled the computer to multitask",
+    "start": 65.119,
+    "duration": 6.281
+  },
+  {
+    "text": "without humans intervening Margaret felt",
+    "start": 68.08,
+    "duration": 6.359
+  },
+  {
+    "text": "softwares could make the computer a more",
+    "start": 71.4,
+    "duration": 6.52
+  },
+  {
+    "text": "efficient machine in the earlier days",
+    "start": 74.439,
+    "duration": 5.961
+  },
+  {
+    "text": "computers were huge machines that",
+    "start": 77.92,
+    "duration": 6.48
+  },
+  {
+    "text": "performed only one task at a time but",
+    "start": 80.4,
+    "duration": 7.44
+  },
+  {
+    "text": "the world was on the verge of a giant",
+    "start": 84.4,
+    "duration": 6.44
+  },
+  {
+    "text": "leap thanks to the Apollo program",
+    "start": 87.84,
+    "duration": 6.04
+  },
+  {
+    "text": "launched by JF Kennedy in",
+    "start": 90.84,
+    "duration": 6.319
+  },
+  {
+    "text": "1961 a poloo program was a mission that",
+    "start": 93.88,
+    "duration": 7.36
+  },
+  {
+    "text": "was planned to get man to the moon the",
+    "start": 97.159,
+    "duration": 7.361
+  },
+  {
+    "text": "space flight Apollo was to carry two of",
+    "start": 101.24,
+    "duration": 6.879
+  },
+  {
+    "text": "the first ever portable computers one of",
+    "start": 104.52,
+    "duration": 6.4
+  },
+  {
+    "text": "them was known as the eagle that helped",
+    "start": 108.119,
+    "duration": 5.521
+  },
+  {
+    "text": "them land on the moon and the other was",
+    "start": 110.92,
+    "duration": 5.76
+  },
+  {
+    "text": "known as The Command Module that carried",
+    "start": 113.64,
+    "duration": 7.64
+  },
+  {
+    "text": "astronauts to and from Earth",
+    "start": 116.68,
+    "duration": 8.039
+  },
+  {
+    "text": "as lucky as Margaret was she was offered",
+    "start": 121.28,
+    "duration": 7.199
+  },
+  {
+    "text": "to be a part of this project as the",
+    "start": 124.719,
+    "duration": 6.561
+  },
+  {
+    "text": "Apollo project progressed the importance",
+    "start": 128.479,
+    "duration": 5.521
+  },
+  {
+    "text": "of software in accomplishing the mission",
+    "start": 131.28,
+    "duration": 6.039
+  },
+  {
+    "text": "became clearer with time the initial",
+    "start": 134.0,
+    "duration": 6.72
+  },
+  {
+    "text": "software was for error detection data",
+    "start": 137.319,
+    "duration": 6.801
+  },
+  {
+    "text": "recovery restarts and the display",
+    "start": 140.72,
+    "duration": 6.32
+  },
+  {
+    "text": "interface routines Margaret's software",
+    "start": 144.12,
+    "duration": 5.839
+  },
+  {
+    "text": "had become important to the mission but",
+    "start": 147.04,
+    "duration": 5.8
+  },
+  {
+    "text": "there was one final hurdle before it",
+    "start": 149.959,
+    "duration": 6.601
+  },
+  {
+    "text": "became the hero of the mission a few",
+    "start": 152.84,
+    "duration": 6.0
+  },
+  {
+    "text": "days before the mission Margaret's",
+    "start": 156.56,
+    "duration": 4.679
+  },
+  {
+    "text": "4-year-old daughter Lauren was playing",
+    "start": 158.84,
+    "duration": 5.52
+  },
+  {
+    "text": "in the lab as she toyed with a keyboard",
+    "start": 161.239,
+    "duration": 6.481
+  },
+  {
+    "text": "an error message popped up Lauren had",
+    "start": 164.36,
+    "duration": 5.84
+  },
+  {
+    "text": "crashed the stimulator by pre-launching",
+    "start": 167.72,
+    "duration": 4.84
+  },
+  {
+    "text": "a program called",
+    "start": 170.2,
+    "duration": 6.24
+  },
+  {
+    "text": "p01 Margaret was able to rectify it but",
+    "start": 172.56,
+    "duration": 6.48
+  },
+  {
+    "text": "she feared that such accidents could",
+    "start": 176.44,
+    "duration": 3.92
+  },
+  {
+    "text": "happen again",
+    "start": 179.04,
+    "duration": 3.559
+  },
+  {
+    "text": "she warned her seniors to take",
+    "start": 180.36,
+    "duration": 5.0
+  },
+  {
+    "text": "precautions so that no mistake of the",
+    "start": 182.599,
+    "duration": 5.881
+  },
+  {
+    "text": "astronauts would abought the mission but",
+    "start": 185.36,
+    "duration": 6.68
+  },
+  {
+    "text": "her insistence wasn't entertained people",
+    "start": 188.48,
+    "duration": 6.319
+  },
+  {
+    "text": "told her that astronauts would not make",
+    "start": 192.04,
+    "duration": 6.279
+  },
+  {
+    "text": "such errors but people were proven wrong",
+    "start": 194.799,
+    "duration": 7.08
+  },
+  {
+    "text": "Apollo 8 was sent to obit the moon an",
+    "start": 198.319,
+    "duration": 5.92
+  },
+  {
+    "text": "astronaut on the space flight pressed",
+    "start": 201.879,
+    "duration": 5.28
+  },
+  {
+    "text": "the wrong button which caused loss of",
+    "start": 204.239,
+    "duration": 6.28
+  },
+  {
+    "text": "the entire data in addition the",
+    "start": 207.159,
+    "duration": 7.041
+  },
+  {
+    "text": "astronauts were stuck in space had there",
+    "start": 210.519,
+    "duration": 6.481
+  },
+  {
+    "text": "been a software it would have identified",
+    "start": 214.2,
+    "duration": 6.08
+  },
+  {
+    "text": "the important Data before deleting it",
+    "start": 217.0,
+    "duration": 6.2
+  },
+  {
+    "text": "you see kids how important a software",
+    "start": 220.28,
+    "duration": 3.72
+  },
+  {
+    "text": "can",
+    "start": 223.2,
+    "duration": 5.319
+  },
+  {
+    "text": "be Margaret and team spent 9 hours to",
+    "start": 224.0,
+    "duration": 7.64
+  },
+  {
+    "text": "come up with a solution they had to send",
+    "start": 228.519,
+    "duration": 5.961
+  },
+  {
+    "text": "new data to the computers in order for",
+    "start": 231.64,
+    "duration": 4.72
+  },
+  {
+    "text": "them to come back",
+    "start": 234.48,
+    "duration": 5.319
+  },
+  {
+    "text": "safely Margaret knew that astronauts",
+    "start": 236.36,
+    "duration": 6.079
+  },
+  {
+    "text": "could also make errors that could be",
+    "start": 239.799,
+    "duration": 5.881
+  },
+  {
+    "text": "fatal As Time passed she got ready for",
+    "start": 242.439,
+    "duration": 7.0
+  },
+  {
+    "text": "the next mission Apollo",
+    "start": 245.68,
+    "duration": 7.639
+  },
+  {
+    "text": "11 then again on 20th July",
+    "start": 249.439,
+    "duration": 7.241
+  },
+  {
+    "text": "1969 just 3 minutes before yet another",
+    "start": 253.319,
+    "duration": 6.44
+  },
+  {
+    "text": "Landing of Apollo 11 on the moon the",
+    "start": 256.68,
+    "duration": 5.959
+  },
+  {
+    "text": "eagle started throwing out worrying",
+    "start": 259.759,
+    "duration": 3.88
+  },
+  {
+    "text": "error",
+    "start": 262.639,
+    "duration": 4.441
+  },
+  {
+    "text": "messages the computer was unable to",
+    "start": 263.639,
+    "duration": 6.201
+  },
+  {
+    "text": "process the landing on moon because of",
+    "start": 267.08,
+    "duration": 5.679
+  },
+  {
+    "text": "the many unnecessary calculations it had",
+    "start": 269.84,
+    "duration": 6.16
+  },
+  {
+    "text": "been doing like the previous time the",
+    "start": 272.759,
+    "duration": 6.761
+  },
+  {
+    "text": "computer needed a software to prioritize",
+    "start": 276.0,
+    "duration": 7.4
+  },
+  {
+    "text": "amongst its tasks but thanks to Margaret",
+    "start": 279.52,
+    "duration": 6.36
+  },
+  {
+    "text": "she had already designed a software for",
+    "start": 283.4,
+    "duration": 5.56
+  },
+  {
+    "text": "any error that could have popped up the",
+    "start": 285.88,
+    "duration": 5.4
+  },
+  {
+    "text": "software began eliminating lower",
+    "start": 288.96,
+    "duration": 5.44
+  },
+  {
+    "text": "priority tasks and was reestablishing",
+    "start": 291.28,
+    "duration": 7.12
+  },
+  {
+    "text": "the more important ones that is the ones",
+    "start": 294.4,
+    "duration": 6.42
+  },
+  {
+    "text": "needed for landing",
+    "start": 298.4,
+    "duration": 3.68
+  },
+  {
+    "text": "[Music]",
+    "start": 300.82,
+    "duration": 5.86
+  },
+  {
+    "text": "wo now that was a close Escape what",
+    "start": 302.08,
+    "duration": 7.839
+  },
+  {
+    "text": "seemed impossible just 3 minutes ago had",
+    "start": 306.68,
+    "duration": 6.239
+  },
+  {
+    "text": "now become the greatest accomplishment",
+    "start": 309.919,
+    "duration": 6.641
+  },
+  {
+    "text": "for mankind the tremendous success of",
+    "start": 312.919,
+    "duration": 7.161
+  },
+  {
+    "text": "software on AP poo 11 computers made way",
+    "start": 316.56,
+    "duration": 7.479
+  },
+  {
+    "text": "for a new branch in engineering called",
+    "start": 320.08,
+    "duration": 6.48
+  },
+  {
+    "text": "software",
+    "start": 324.039,
+    "duration": 5.641
+  },
+  {
+    "text": "engineering from the Moon to about every",
+    "start": 326.56,
+    "duration": 5.72
+  },
+  {
+    "text": "every little thing software has taken",
+    "start": 329.68,
+    "duration": 6.079
+  },
+  {
+    "text": "over the world all thanks to Margaret",
+    "start": 332.28,
+    "duration": 7.359
+  },
+  {
+    "text": "Hamilton wait wait we're not done it's",
+    "start": 335.759,
+    "duration": 8.081
+  },
+  {
+    "text": "time for your favorite part trivia",
+    "start": 339.639,
+    "duration": 7.12
+  },
+  {
+    "text": "time did you know that the computers on",
+    "start": 343.84,
+    "duration": 5.799
+  },
+  {
+    "text": "the Apollo program had a total space of",
+    "start": 346.759,
+    "duration": 10.401
+  },
+  {
+    "text": "only 72 KB that is way way way smaller",
+    "start": 349.639,
+    "duration": 9.441
+  },
+  {
+    "text": "than even a photograph you click",
+    "start": 357.16,
+    "duration": 3.24
+  },
+  {
+    "text": "nowadays",
+    "start": 359.08,
+    "duration": 3.6
+  },
+  {
+    "text": "but even with such a tiny amount of",
+    "start": 360.4,
+    "duration": 5.6
+  },
+  {
+    "text": "space it had many cool features the",
+    "start": 362.68,
+    "duration": 5.68
+  },
+  {
+    "text": "Apollo computers had the first ever",
+    "start": 366.0,
+    "duration": 5.639
+  },
+  {
+    "text": "computerized onboard navigation system",
+    "start": 368.36,
+    "duration": 5.76
+  },
+  {
+    "text": "with autopilot",
+    "start": 371.639,
+    "duration": 5.521
+  },
+  {
+    "text": "technology I can assure you that landing",
+    "start": 374.12,
+    "duration": 6.72
+  },
+  {
+    "text": "on the moon will never be a problem",
+    "start": 377.16,
+    "duration": 9.0
+  },
+  {
+    "text": "again until next time this is me zooming",
+    "start": 380.84,
+    "duration": 9.04
+  },
+  {
+    "text": "out hey kids you liked my videos didn't",
+    "start": 386.16,
+    "duration": 6.96
+  },
+  {
+    "text": "you before you go don't forget to click",
+    "start": 389.88,
+    "duration": 6.28
+  },
+  {
+    "text": "on the Subscribe button and the Bell so",
+    "start": 393.12,
+    "duration": 6.88
+  },
+  {
+    "text": "you won't miss out on my latest",
+    "start": 396.16,
+    "duration": 8.2
+  },
+  {
+    "text": "videos see you",
+    "start": 400.0,
+    "duration": 4.36
+  }
+]

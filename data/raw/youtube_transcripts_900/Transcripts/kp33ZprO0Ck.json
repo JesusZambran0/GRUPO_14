@@ -1,0 +1,502 @@
+[
+  {
+    "text": "﻿How a Microwave Oven Works EngineerGuy Series #4",
+    "start": 2.0,
+    "duration": 4.0
+  },
+  {
+    "text": "This microwave oven is a truly remarkable feat of engineering.",
+    "start": 7.0,
+    "duration": 3.0
+  },
+  {
+    "text": "The rapid heating that makes microwaves popular",
+    "start": 10.0,
+    "duration": 3.0
+  },
+  {
+    "text": "is made possible by power provided from",
+    "start": 13.0,
+    "duration": 2.0
+  },
+  {
+    "text": "this vacuum tube",
+    "start": 19.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Now, if you picture a vacuum tube at all it’s likely in",
+    "start": 20.0,
+    "duration": 3.0
+  },
+  {
+    "text": "a radio like this.",
+    "start": 25.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Inevitably, tiny transistors and microchips replaced",
+    "start": 27.0,
+    "duration": 3.0
+  },
+  {
+    "text": "clunky vacuum tubes, but it's too soon to",
+    "start": 30.0,
+    "duration": 3.0
+  },
+  {
+    "text": "relegate them to the museum.",
+    "start": 33.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Microchips can’t easily replace tubes for producing power.",
+    "start": 34.0,
+    "duration": 3.0
+  },
+  {
+    "text": "For example, in heating food.",
+    "start": 37.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Now, a microwave contains three main components",
+    "start": 42.0,
+    "duration": 3.0
+  },
+  {
+    "text": "A vacuum tube called a magnetron",
+    "start": 45.0,
+    "duration": 3.0
+  },
+  {
+    "text": "it generates the energy that heats food.",
+    "start": 48.0,
+    "duration": 2.0
+  },
+  {
+    "text": "A waveguide hidden in the wall to direct that energy to the food",
+    "start": 50.0,
+    "duration": 4.0
+  },
+  {
+    "text": "and a chamber to hold the food and safely contain the microwave radiation.",
+    "start": 54.0,
+    "duration": 3.0
+  },
+  {
+    "text": "In principle, a microwave oven heats no differently",
+    "start": 68.0,
+    "duration": 2.0
+  },
+  {
+    "text": "than any other type of heat transfer.",
+    "start": 70.0,
+    "duration": 2.0
+  },
+  {
+    "text": "At a molecular level heat is a transfer of energy",
+    "start": 72.0,
+    "duration": 3.0
+  },
+  {
+    "text": "that results in increased motion of the molecules in a substance.",
+    "start": 75.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Since we aren't quantum-sized,",
+    "start": 78.0,
+    "duration": 1.0
+  },
+  {
+    "text": "we observe this increase in motion",
+    "start": 79.0,
+    "duration": 2.0
+  },
+  {
+    "text": "as a rise in temperature.",
+    "start": 81.0,
+    "duration": 1.0
+  },
+  {
+    "text": "In a traditional oven or stove we heat food",
+    "start": 82.0,
+    "duration": 3.0
+  },
+  {
+    "text": "by placing a pan on a burner",
+    "start": 85.0,
+    "duration": 1.0
+  },
+  {
+    "text": "or in the oven where the walls radiate heat,",
+    "start": 86.0,
+    "duration": 3.0
+  },
+  {
+    "text": "which cooks the outside of the food.",
+    "start": 89.0,
+    "duration": 2.0
+  },
+  {
+    "text": "The insides cook when heat transfers from the surface",
+    "start": 91.0,
+    "duration": 3.0
+  },
+  {
+    "text": "of the food to its interior.",
+    "start": 94.0,
+    "duration": 2.0
+  },
+  {
+    "text": "In contrast, energy from the magnetron penetrates",
+    "start": 96.0,
+    "duration": 2.0
+  },
+  {
+    "text": "into the food, which means the whole mass of the food",
+    "start": 98.0,
+    "duration": 3.0
+  },
+  {
+    "text": "can be cooked simultaneously.",
+    "start": 101.0,
+    "duration": 1.0
+  },
+  {
+    "text": "How does it do this?",
+    "start": 102.0,
+    "duration": 1.0
+  },
+  {
+    "text": "Well, our food is filled with water,",
+    "start": 103.0,
+    "duration": 2.0
+  },
+  {
+    "text": "which is positively charged at one end,",
+    "start": 105.0,
+    "duration": 2.0
+  },
+  {
+    "text": "and negative at the other.",
+    "start": 107.0,
+    "duration": 1.0
+  },
+  {
+    "text": "To give these molecules more energy,",
+    "start": 108.0,
+    "duration": 2.0
+  },
+  {
+    "text": "we expose it to electromagnetic waves that emanate from the tube.",
+    "start": 110.0,
+    "duration": 3.0
+  },
+  {
+    "text": "By definition, the waves have electrical and magnetic fields",
+    "start": 113.0,
+    "duration": 4.0
+  },
+  {
+    "text": "that change direction rapidly.",
+    "start": 117.0,
+    "duration": 1.0
+  },
+  {
+    "text": "For this oven, the direction of the fields change",
+    "start": 118.0,
+    "duration": 3.0
+  },
+  {
+    "text": "two point four five billion times per second.",
+    "start": 121.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Water will try to align with the radiation’s electric field.",
+    "start": 124.0,
+    "duration": 3.0
+  },
+  {
+    "text": "The changing field rocks the water molecules",
+    "start": 127.0,
+    "duration": 2.0
+  },
+  {
+    "text": "back and forth rapidly and molecular friction",
+    "start": 129.0,
+    "duration": 3.0
+  },
+  {
+    "text": "from this creates heat as the motion disrupts",
+    "start": 132.0,
+    "duration": 2.0
+  },
+  {
+    "text": "the hydrogen bonds between neighboring water molecules.",
+    "start": 134.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Now, you can get an idea of the wavelength of the energy",
+    "start": 137.0,
+    "duration": 3.0
+  },
+  {
+    "text": "emitted from the magnetron using cheese.",
+    "start": 140.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Now, you can see on here sections where the cheese",
+    "start": 161.0,
+    "duration": 2.0
+  },
+  {
+    "text": "has completely melted, and other sections where it’s completely unheated.",
+    "start": 163.0,
+    "duration": 3.0
+  },
+  {
+    "text": "The oven’s metal walls only reflect waves of",
+    "start": 166.0,
+    "duration": 3.0
+  },
+  {
+    "text": "a length that fits inside the oven.",
+    "start": 169.0,
+    "duration": 1.0
+  },
+  {
+    "text": "This standing wave causes hot and cold spots inside the oven.",
+    "start": 170.0,
+    "duration": 3.0
+  },
+  {
+    "text": "The three-dimensional pattern of waves is difficult to predict,",
+    "start": 173.0,
+    "duration": 3.0
+  },
+  {
+    "text": "but the principle can be seen by looking at",
+    "start": 176.0,
+    "duration": 3.0
+  },
+  {
+    "text": "the waves in a single dimension.",
+    "start": 179.0,
+    "duration": 1.0
+  },
+  {
+    "text": "The peaks and valleys in the wave represent",
+    "start": 180.0,
+    "duration": 3.0
+  },
+  {
+    "text": "the greatest energy of the wave,",
+    "start": 183.0,
+    "duration": 1.0
+  },
+  {
+    "text": "while the nodes here correspond to the \"cold\" spots inside the chamber.",
+    "start": 184.0,
+    "duration": 3.0
+  },
+  {
+    "text": "If I measure the distance between melted cheese spots",
+    "start": 187.0,
+    "duration": 3.0
+  },
+  {
+    "text": "I find about 2 1/2 inches.",
+    "start": 190.0,
+    "duration": 2.0
+  },
+  {
+    "text": "That would be half the wavelength",
+    "start": 192.0,
+    "duration": 1.0
+  },
+  {
+    "text": "the distance between nodes",
+    "start": 193.0,
+    "duration": 3.0
+  },
+  {
+    "text": "and is pretty close to the actual wavelength of microwave radiation used.",
+    "start": 196.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Using that wavelength I can estimate the microwave radiation's frequency.",
+    "start": 199.0,
+    "duration": 5.0
+  },
+  {
+    "text": "The frequency is related to the wavelength by the speed of light.",
+    "start": 204.0,
+    "duration": 3.0
+  },
+  {
+    "text": "I get an answer that only has a 4 or 5 percent error.",
+    "start": 207.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Not bad for this primitive measurement.",
+    "start": 210.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Now, the real engineering in the microwave oven",
+    "start": 213.0,
+    "duration": 2.0
+  },
+  {
+    "text": "lies in creating the magnetron that",
+    "start": 215.0,
+    "duration": 2.0
+  },
+  {
+    "text": "generates high powered radio waves.",
+    "start": 217.0,
+    "duration": 2.0
+  },
+  {
+    "text": "It's truly an amazing and revolutionary device.",
+    "start": 219.0,
+    "duration": 3.0
+  },
+  {
+    "text": "The vacuum tube is inside here.",
+    "start": 226.0,
+    "duration": 1.0
+  },
+  {
+    "text": "These are cooling fins",
+    "start": 227.0,
+    "duration": 1.0
+  },
+  {
+    "text": "thin pieces of metal that dissipate the heat as the magnetron operates.",
+    "start": 228.0,
+    "duration": 4.0
+  },
+  {
+    "text": "The key parts are these two magnets and",
+    "start": 234.0,
+    "duration": 3.0
+  },
+  {
+    "text": "the vacuum tube.",
+    "start": 239.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Now I have another one so you can see the inside.",
+    "start": 241.0,
+    "duration": 2.0
+  },
+  {
+    "text": "You apply a large voltage across both",
+    "start": 245.0,
+    "duration": 2.0
+  },
+  {
+    "text": "the inner filament and the circular cooper outside.",
+    "start": 247.0,
+    "duration": 3.0
+  },
+  {
+    "text": "This voltage “boils” electrons off the center filament",
+    "start": 250.0,
+    "duration": 3.0
+  },
+  {
+    "text": "and they fly toward the circular copper section.",
+    "start": 253.0,
+    "duration": 2.0
+  },
+  {
+    "text": "The filament is made from tungsten and thorium.",
+    "start": 255.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Tungsten because it can withstand high temperatures",
+    "start": 258.0,
+    "duration": 2.0
+  },
+  {
+    "text": "and thorium because it’s a good source of electrons.",
+    "start": 260.0,
+    "duration": 2.0
+  },
+  {
+    "text": "The magnets bend these electrons so they swing",
+    "start": 262.0,
+    "duration": 4.0
+  },
+  {
+    "text": "back toward the center filament.",
+    "start": 266.0,
+    "duration": 1.0
+  },
+  {
+    "text": "We adjust the magnetic strength so that the now",
+    "start": 267.0,
+    "duration": 2.0
+  },
+  {
+    "text": "orbiting electrons just brush past the opening of these cavities.",
+    "start": 269.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Like blowing over a half filled pop bottle to make it whistle,",
+    "start": 273.0,
+    "duration": 3.0
+  },
+  {
+    "text": "this creates an oscillating wave - the microwave radiation that heats food.",
+    "start": 276.0,
+    "duration": 5.0
+  },
+  {
+    "text": "It’s simply astonishing that these cavities can be made",
+    "start": 281.0,
+    "duration": 3.0
+  },
+  {
+    "text": "with high precision, low cost, and incredibly high reliability.",
+    "start": 284.0,
+    "duration": 3.0
+  },
+  {
+    "text": "I’m Bill Hammack, the EngineerGuy.",
+    "start": 287.0,
+    "duration": 2.0
+  },
+  {
+    "text": "This video is based on a chapter in the book",
+    "start": 289.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Eight Amazing Engineering Stories.",
+    "start": 291.0,
+    "duration": 3.0
+  },
+  {
+    "text": "The chapter features more information about this subject.",
+    "start": 294.0,
+    "duration": 3.0
+  },
+  {
+    "text": "Learn more about the book at the address below.",
+    "start": 297.0,
+    "duration": 3.0
+  }
+]

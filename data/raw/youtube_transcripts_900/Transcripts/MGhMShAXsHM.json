@@ -1,0 +1,1422 @@
+[
+  {
+    "text": "How to make a Game?",
+    "start": 0.0,
+    "duration": 1.046
+  },
+  {
+    "text": "This is such a question",
+    "start": 1.2,
+    "duration": 0.99
+  },
+  {
+    "text": "That you can find in the comment section of every videos",
+    "start": 2.19,
+    "duration": 2.5
+  },
+  {
+    "text": "And any new viewer who visits the channel",
+    "start": 4.69,
+    "duration": 2.444
+  },
+  {
+    "text": "asks the same question",
+    "start": 7.134,
+    "duration": 1.547
+  },
+  {
+    "text": "Are you also a new viewer?",
+    "start": 8.9,
+    "duration": 1.305
+  },
+  {
+    "text": "If yes , then listen SUBSCRIBE the channel right now or I will shoot you",
+    "start": 10.205,
+    "duration": 2.783
+  },
+  {
+    "text": "So yeah this video is on the topic that how can you make games on your own",
+    "start": 13.242,
+    "duration": 3.419
+  },
+  {
+    "text": "And whatever doubts you have , related to Game Development ",
+    "start": 16.736,
+    "duration": 2.203
+  },
+  {
+    "text": "I will clear those doubts too",
+    "start": 18.939,
+    "duration": 1.177
+  },
+  {
+    "text": "Like - Can we make games on Mobile?",
+    "start": 20.116,
+    "duration": 1.848
+  },
+  {
+    "text": "What are the system requirements required to make Games",
+    "start": 21.964,
+    "duration": 2.165
+  },
+  {
+    "text": "How can we make Games without Coding",
+    "start": 24.129,
+    "duration": 1.997
+  },
+  {
+    "text": "Does making Game requires Money?",
+    "start": 26.126,
+    "duration": 1.716
+  },
+  {
+    "text": "And many more!",
+    "start": 27.842,
+    "duration": 1.286
+  },
+  {
+    "text": "But watch this video full",
+    "start": 29.128,
+    "duration": 1.248
+  },
+  {
+    "text": "Because if u miss anything , then later you will say -",
+    "start": 30.376,
+    "duration": 2.839
+  },
+  {
+    "text": "Vab brother I have made the script of the game",
+    "start": 33.215,
+    "duration": 1.785
+  },
+  {
+    "text": "But where should I put it?",
+    "start": 35.0,
+    "duration": 1.027
+  },
+  {
+    "text": "There is only Google here",
+    "start": 36.027,
+    "duration": 1.005
+  },
+  {
+    "text": "IDIOT!",
+    "start": 37.032,
+    "duration": 0.906
+  },
+  {
+    "text": "Okay lets start How to make a Game",
+    "start": 37.938,
+    "duration": 1.885
+  },
+  {
+    "text": "So to make a Game , firstly you will need a Game Engine",
+    "start": 39.823,
+    "duration": 3.045
+  },
+  {
+    "text": "Where we make Games.....Obviously",
+    "start": 42.868,
+    "duration": 2.132
+  },
+  {
+    "text": "and you will find many Game Engines in the market where you can make Games",
+    "start": 45.0,
+    "duration": 3.628
+  },
+  {
+    "text": "But I will not cover those Engines",
+    "start": 48.628,
+    "duration": 1.922
+  },
+  {
+    "text": "Because I don't know which ones are they",
+    "start": 50.55,
+    "duration": 2.334
+  },
+  {
+    "text": "So I will say about those Engines which I personally know",
+    "start": 52.884,
+    "duration": 2.55
+  },
+  {
+    "text": "And comparing these Engines , I will also say that which one is the best for you",
+    "start": 55.434,
+    "duration": 3.579
+  },
+  {
+    "text": "Because many people wants to make Games without Coding",
+    "start": 59.013,
+    "duration": 2.583
+  },
+  {
+    "text": "YOU BACK BENCHERS!",
+    "start": 61.671,
+    "duration": 1.035
+  },
+  {
+    "text": "So the Engines I know are -",
+    "start": 62.95,
+    "duration": 2.05
+  },
+  {
+    "text": "Unreal Engine, Unity and Godot",
+    "start": 65.0,
+    "duration": 2.225
+  },
+  {
+    "text": "Yeah , I know these 3 Engines only",
+    "start": 67.225,
+    "duration": 1.925
+  },
+  {
+    "text": "So firstly let us see How we can make games in Unreal",
+    "start": 69.15,
+    "duration": 2.596
+  },
+  {
+    "text": "And yeah , this is the same Engine which I have mentioned in the last 2 videos",
+    "start": 71.746,
+    "duration": 3.091
+  },
+  {
+    "text": "And yeah, again this the same Engine which is used to make triple A Games",
+    "start": 74.837,
+    "duration": 2.97
+  },
+  {
+    "text": "For example , Tomb Raider",
+    "start": 77.807,
+    "duration": 1.323
+  },
+  {
+    "text": "The Witcher",
+    "start": 79.13,
+    "duration": 1.027
+  },
+  {
+    "text": "And your popular Battle Royale Game - PUBG",
+    "start": 80.157,
+    "duration": 2.187
+  },
+  {
+    "text": "And those who thinks that this Engine is Paid",
+    "start": 82.344,
+    "duration": 1.944
+  },
+  {
+    "text": "Then NO, this Engine is completely free",
+    "start": 84.288,
+    "duration": 1.872
+  },
+  {
+    "text": "You don't have to pay them in the starting",
+    "start": 86.16,
+    "duration": 1.94
+  },
+  {
+    "text": "Until your Game earns more than 1 million dollars in the market",
+    "start": 88.1,
+    "duration": 3.034
+  },
+  {
+    "text": "But if it earns more than 1 million dollars",
+    "start": 91.134,
+    "duration": 1.57
+  },
+  {
+    "text": "Then you have to pay them 5% revenue as Royalty Fee",
+    "start": 92.704,
+    "duration": 3.381
+  },
+  {
+    "text": "But don't focus on this now as its way too far ",
+    "start": 96.085,
+    "duration": 3.438
+  },
+  {
+    "text": "Lets see how Games are being made here!",
+    "start": 99.523,
+    "duration": 1.884
+  },
+  {
+    "text": "So to make Games here , you will have 2 options for Coding",
+    "start": 101.407,
+    "duration": 2.989
+  },
+  {
+    "text": "Visual Scripting and Actual Coding",
+    "start": 104.396,
+    "duration": 2.051
+  },
+  {
+    "text": "And in their Actual Coding , they use the world's hardest language ",
+    "start": 106.447,
+    "duration": 3.307
+  },
+  {
+    "text": "Yes , C++",
+    "start": 109.754,
+    "duration": 1.802
+  },
+  {
+    "text": "And for this reason , I didn't chose Unreal Engine",
+    "start": 111.556,
+    "duration": 2.484
+  },
+  {
+    "text": "But its alternate is very easy , that is Visual Scripting",
+    "start": 114.04,
+    "duration": 3.129
+  },
+  {
+    "text": "Also known as BLUEPRINTS",
+    "start": 117.169,
+    "duration": 1.372
+  },
+  {
+    "text": "Here you can make Games without Coding",
+    "start": 118.541,
+    "duration": 2.39
+  },
+  {
+    "text": "And by just joining nodes with each other",
+    "start": 120.931,
+    "duration": 2.094
+  },
+  {
+    "text": "For example , if you have seen Choo Choo Charles",
+    "start": 123.025,
+    "duration": 2.094
+  },
+  {
+    "text": "Then that game is made completely in BLUEPRINTS",
+    "start": 125.119,
+    "duration": 1.813
+  },
+  {
+    "text": "So yeah compared to C++ , BLUEPRINTS are more easy",
+    "start": 126.932,
+    "duration": 2.524
+  },
+  {
+    "text": "But I cant say that it is more easy than C#",
+    "start": 129.456,
+    "duration": 2.168
+  },
+  {
+    "text": "And yeah I am telling now only ",
+    "start": 131.624,
+    "duration": 1.11
+  },
+  {
+    "text": "That Unreal is not beginner-friendly",
+    "start": 132.734,
+    "duration": 1.719
+  },
+  {
+    "text": "Because its user interface is more suited to professional people",
+    "start": 134.453,
+    "duration": 2.883
+  },
+  {
+    "text": "And yeah there's one things that I like about Unreal ",
+    "start": 137.336,
+    "duration": 2.016
+  },
+  {
+    "text": "That is , in their Marketplace , there are many High Quality Assets ",
+    "start": 139.352,
+    "duration": 2.633
+  },
+  {
+    "text": "That you will find FREE",
+    "start": 141.985,
+    "duration": 1.532
+  },
+  {
+    "text": "Now you will ask that , \"What's new in this?\"",
+    "start": 143.517,
+    "duration": 2.053
+  },
+  {
+    "text": "\"Every Engine has to give it\"",
+    "start": 145.57,
+    "duration": 1.869
+  },
+  {
+    "text": "I AGREE",
+    "start": 147.439,
+    "duration": 0.602
+  },
+  {
+    "text": "But they have given so much High Quality Assets in FREE",
+    "start": 148.041,
+    "duration": 2.439
+  },
+  {
+    "text": "That while making your Game , you will need nothing",
+    "start": 150.48,
+    "duration": 2.483
+  },
+  {
+    "text": "Here you can find Player ,",
+    "start": 152.963,
+    "duration": 1.383
+  },
+  {
+    "text": "Environment ,",
+    "start": 154.346,
+    "duration": 1.024
+  },
+  {
+    "text": "3D Models,",
+    "start": 155.37,
+    "duration": 1.155
+  },
+  {
+    "text": "Animations,",
+    "start": 156.525,
+    "duration": 1.209
+  },
+  {
+    "text": "Scripts too",
+    "start": 157.734,
+    "duration": 0.935
+  },
+  {
+    "text": "And even Brain",
+    "start": 158.669,
+    "duration": 1.239
+  },
+  {
+    "text": "THAT YOU DONT HAVE ",
+    "start": 159.908,
+    "duration": 0.987
+  },
+  {
+    "text": "Just you have to do some Coding and nothing else!",
+    "start": 161.3,
+    "duration": 2.119
+  },
+  {
+    "text": "Which means BLUEPRINTS",
+    "start": 163.419,
+    "duration": 1.581
+  },
+  {
+    "text": "Yeaaaahhhhhhh",
+    "start": 165.0,
+    "duration": 0.55
+  },
+  {
+    "text": "Now Lets see How Games are being made in Unity",
+    "start": 165.55,
+    "duration": 2.019
+  },
+  {
+    "text": "And for those who don't know where I make Games",
+    "start": 167.569,
+    "duration": 2.259
+  },
+  {
+    "text": "THEN SHAME ON YOU!",
+    "start": 169.828,
+    "duration": 0.96
+  },
+  {
+    "text": "I have said 1000 times in Unity",
+    "start": 170.788,
+    "duration": 1.473
+  },
+  {
+    "text": "Hello Guys , now also I am making a new project in Unity",
+    "start": 172.261,
+    "duration": 2.408
+  },
+  {
+    "text": "Hello Guys , now also I am making Games in Unity",
+    "start": 174.669,
+    "duration": 2.071
+  },
+  {
+    "text": "Hello FOOLS , now I am harassing the player",
+    "start": 176.74,
+    "duration": 2.414
+  },
+  {
+    "text": "Yeaaaahhhhh",
+    "start": 179.154,
+    "duration": 0.5
+  },
+  {
+    "text": "So Go Away",
+    "start": 179.654,
+    "duration": 0.515
+  },
+  {
+    "text": "~ohh godd~",
+    "start": 180.169,
+    "duration": 1.061
+  },
+  {
+    "text": "And those who don't understand this",
+    "start": 181.23,
+    "duration": 1.65
+  },
+  {
+    "text": "Then LISTEN",
+    "start": 182.88,
+    "duration": 0.688
+  },
+  {
+    "text": "The word that is written big on my back",
+    "start": 183.568,
+    "duration": 1.766
+  },
+  {
+    "text": "That is written for people like you only",
+    "start": 185.334,
+    "duration": 1.324
+  },
+  {
+    "text": "IDIOT people",
+    "start": 186.658,
+    "duration": 0.821
+  },
+  {
+    "text": "So yeah I am saying again , that I make Games in Unity only",
+    "start": 187.479,
+    "duration": 2.838
+  },
+  {
+    "text": "And if you see the revenue share of Unity",
+    "start": 190.317,
+    "duration": 1.923
+  },
+  {
+    "text": "Then you will see that Unity doesn't charges any royalty fee",
+    "start": 192.24,
+    "duration": 2.167
+  },
+  {
+    "text": "But if your Game earns more than 100k dollars",
+    "start": 194.407,
+    "duration": 2.73
+  },
+  {
+    "text": "Then you have to buy Unity Pro of Unity for which you have to pay every year",
+    "start": 197.137,
+    "duration": 4.165
+  },
+  {
+    "text": "FORCEFULLY",
+    "start": 201.302,
+    "duration": 0.968
+  },
+  {
+    "text": "which means that it will cut itself from earnings only",
+    "start": 202.27,
+    "duration": 1.532
+  },
+  {
+    "text": "But yeah its way too far",
+    "start": 203.802,
+    "duration": 1.289
+  },
+  {
+    "text": " Apart from that , Unity is basically beginner-friendly",
+    "start": 205.091,
+    "duration": 1.918
+  },
+  {
+    "text": "Even Unity has its own tutorials!",
+    "start": 207.009,
+    "duration": 1.77
+  },
+  {
+    "text": "To teach the new users about how to make Games",
+    "start": 208.779,
+    "duration": 2.0
+  },
+  {
+    "text": "And Unity has also 2 options for Coding",
+    "start": 210.779,
+    "duration": 2.15
+  },
+  {
+    "text": "1st , Real Coding and 2nd , Visual Scripting that is BOLT",
+    "start": 212.929,
+    "duration": 3.252
+  },
+  {
+    "text": "And for coding , we use C# language here",
+    "start": 216.181,
+    "duration": 3.14
+  },
+  {
+    "text": "Which is a very easy language to learn",
+    "start": 219.321,
+    "duration": 1.869
+  },
+  {
+    "text": "And this is even a popular language for Game Development",
+    "start": 221.19,
+    "duration": 2.51
+  },
+  {
+    "text": "And their Documentation is also easy to learn",
+    "start": 223.7,
+    "duration": 2.294
+  },
+  {
+    "text": "By which you can learn this Engine very well",
+    "start": 225.994,
+    "duration": 1.813
+  },
+  {
+    "text": "And they have their own Asset Store where you can find many Game Assets",
+    "start": 227.807,
+    "duration": 4.178
+  },
+  {
+    "text": "FREE and PAID both",
+    "start": 231.985,
+    "duration": 1.333
+  },
+  {
+    "text": "Yeah , PAID Assets are only more",
+    "start": 233.318,
+    "duration": 2.377
+  },
+  {
+    "text": "But no worries , will tolerate",
+    "start": 235.695,
+    "duration": 1.412
+  },
+  {
+    "text": "And for their 2nd Coding option",
+    "start": 237.107,
+    "duration": 1.63
+  },
+  {
+    "text": "You can use their Visual Scripting that is BOLT",
+    "start": 238.737,
+    "duration": 2.628
+  },
+  {
+    "text": "They are also like BLUEPRINTS of Unreal ",
+    "start": 241.365,
+    "duration": 1.892
+  },
+  {
+    "text": "But a little buggy",
+    "start": 243.257,
+    "duration": 1.27
+  },
+  {
+    "text": "Till now , I have not seen any popular game that is made with BOLT",
+    "start": 244.527,
+    "duration": 3.278
+  },
+  {
+    "text": "So yeah I will not recommend you to use BOLT ",
+    "start": 247.805,
+    "duration": 2.594
+  },
+  {
+    "text": "But , Its Your Choice",
+    "start": 250.399,
+    "duration": 1.23
+  },
+  {
+    "text": "But yeah Unity is good for making ",
+    "start": 251.629,
+    "duration": 1.495
+  },
+  {
+    "text": "2D and 3D Games",
+    "start": 253.124,
+    "duration": 1.311
+  },
+  {
+    "text": "Now only one Engine is left",
+    "start": 254.435,
+    "duration": 1.488
+  },
+  {
+    "text": "GODOT",
+    "start": 255.923,
+    "duration": 0.821
+  },
+  {
+    "text": "Lets see , What is GODOT?",
+    "start": 256.744,
+    "duration": 1.49
+  },
+  {
+    "text": "So see , GODOT is basically a 2D Game Engine",
+    "start": 258.234,
+    "duration": 1.978
+  },
+  {
+    "text": "And this Engine is full Open Source",
+    "start": 260.212,
+    "duration": 1.839
+  },
+  {
+    "text": "Which means no matter how much money you make from this Engine",
+    "start": 262.051,
+    "duration": 2.283
+  },
+  {
+    "text": "GO , EVERYTHING'S YOURS",
+    "start": 264.334,
+    "duration": 0.862
+  },
+  {
+    "text": "This was a good one what he said",
+    "start": 265.196,
+    "duration": 1.42
+  },
+  {
+    "text": "And as a Programming Language , it supports many languages",
+    "start": 266.616,
+    "duration": 3.123
+  },
+  {
+    "text": "Like C# , C++ , Python , Java Script and many other languages",
+    "start": 269.739,
+    "duration": 4.679
+  },
+  {
+    "text": "That probably I don't know",
+    "start": 274.418,
+    "duration": 1.616
+  },
+  {
+    "text": "And they have also started to introduce 3D workspace",
+    "start": 276.034,
+    "duration": 2.898
+  },
+  {
+    "text": "By which you can make 3D game too",
+    "start": 278.932,
+    "duration": 2.243
+  },
+  {
+    "text": "But I will not recommend you to use this from now only",
+    "start": 281.175,
+    "duration": 2.889
+  },
+  {
+    "text": "Because till now , it has not been implemented well ",
+    "start": 284.064,
+    "duration": 2.9
+  },
+  {
+    "text": "Which means that it is still in Development Phase",
+    "start": 286.964,
+    "duration": 2.209
+  },
+  {
+    "text": "So you may face some problems",
+    "start": 289.173,
+    "duration": 2.132
+  },
+  {
+    "text": "And their Documentation Support is better than both Unity and Unreal",
+    "start": 291.305,
+    "duration": 3.67
+  },
+  {
+    "text": "So it's Noice!",
+    "start": 294.975,
+    "duration": 0.912
+  },
+  {
+    "text": "So I have explained all the Engines",
+    "start": 295.887,
+    "duration": 2.483
+  },
+  {
+    "text": "Now , let's see which Engine will be best for you",
+    "start": 298.37,
+    "duration": 2.257
+  },
+  {
+    "text": "So see , if you are a complete beginner",
+    "start": 302.396,
+    "duration": 1.66
+  },
+  {
+    "text": "And you don't even know about Hello and Bye World in Coding",
+    "start": 304.056,
+    "duration": 2.561
+  },
+  {
+    "text": "Then I will suggest you Unity",
+    "start": 306.617,
+    "duration": 1.752
+  },
+  {
+    "text": "Because you can use C# here to quickly learn to make Games",
+    "start": 308.369,
+    "duration": 3.363
+  },
+  {
+    "text": "And the user interface of Unity is very beginner-friendly",
+    "start": 311.732,
+    "duration": 2.836
+  },
+  {
+    "text": "So your learning speed will increase more",
+    "start": 314.568,
+    "duration": 1.85
+  },
+  {
+    "text": "And I also make Games in Unity",
+    "start": 316.418,
+    "duration": 1.764
+  },
+  {
+    "text": "So I will say in a while that how you can learn to make Games like me",
+    "start": 318.182,
+    "duration": 3.638
+  },
+  {
+    "text": "But now , if you want to make Games with Coding with 0 knowledge of it",
+    "start": 321.82,
+    "duration": 4.173
+  },
+  {
+    "text": "Then I will suggest Unity only",
+    "start": 325.993,
+    "duration": 1.501
+  },
+  {
+    "text": "And in Unity , you can make both 2D and 3D Games",
+    "start": 327.494,
+    "duration": 2.7
+  },
+  {
+    "text": "Which is a very nice thing!",
+    "start": 330.194,
+    "duration": 1.307
+  },
+  {
+    "text": " Because it will affect the rest Engines",
+    "start": 331.501,
+    "duration": 2.534
+  },
+  {
+    "text": "So if you are more  lazy than me",
+    "start": 334.035,
+    "duration": 2.062
+  },
+  {
+    "text": "And don't want to do Coding",
+    "start": 336.097,
+    "duration": 1.719
+  },
+  {
+    "text": "Then you can choose Unreal Engine",
+    "start": 337.816,
+    "duration": 2.053
+  },
+  {
+    "text": "Which BLUEPRINTS!",
+    "start": 339.869,
+    "duration": 1.265
+  },
+  {
+    "text": "But yeah , with this you will be able to make only 3D Games",
+    "start": 341.134,
+    "duration": 2.0
+  },
+  {
+    "text": "Because their 2D Engine is very bad",
+    "start": 343.134,
+    "duration": 1.742
+  },
+  {
+    "text": "But if you want to make only 2D Games",
+    "start": 344.876,
+    "duration": 2.075
+  },
+  {
+    "text": "Then I will recommend both Unity and Godot",
+    "start": 346.951,
+    "duration": 2.093
+  },
+  {
+    "text": "Because both Engines are good about this",
+    "start": 349.044,
+    "duration": 2.015
+  },
+  {
+    "text": "And yeah this video is not Sponsored",
+    "start": 351.059,
+    "duration": 2.253
+  },
+  {
+    "text": "I am just sharing my own experience",
+    "start": 353.312,
+    "duration": 1.922
+  },
+  {
+    "text": "And I am suggesting Unity because",
+    "start": 355.234,
+    "duration": 1.869
+  },
+  {
+    "text": "You can try both 2D and 3D Games here",
+    "start": 357.103,
+    "duration": 2.486
+  },
+  {
+    "text": "And C# is used here which is very easy to learn",
+    "start": 359.589,
+    "duration": 2.468
+  },
+  {
+    "text": "And if you learn this language , then the rest languages also becomes easy to learn",
+    "start": 362.057,
+    "duration": 3.104
+  },
+  {
+    "text": "Like C++ which comes under C and even C# also comes under C",
+    "start": 365.161,
+    "duration": 4.526
+  },
+  {
+    "text": "And if you don't know about C , then it is also a language only",
+    "start": 369.687,
+    "duration": 2.299
+  },
+  {
+    "text": "And C# and C++ are under this language only",
+    "start": 371.986,
+    "duration": 2.769
+  },
+  {
+    "text": "And if you want to use Unreal and Godot",
+    "start": 374.755,
+    "duration": 2.301
+  },
+  {
+    "text": "Then you can also switch it from Unity",
+    "start": 377.056,
+    "duration": 2.094
+  },
+  {
+    "text": "And you will have experience , so it will be easy to switch",
+    "start": 379.15,
+    "duration": 3.031
+  },
+  {
+    "text": "Its up to you Guys , Select it on your own",
+    "start": 382.181,
+    "duration": 2.337
+  },
+  {
+    "text": "I am just saying the easy way",
+    "start": 384.518,
+    "duration": 1.478
+  },
+  {
+    "text": "System Requirements",
+    "start": 385.996,
+    "duration": 1.161
+  },
+  {
+    "text": "See , the system requirements for Unity and Unreal are also same",
+    "start": 388.98,
+    "duration": 3.17
+  },
+  {
+    "text": "Minimum requirements you will need is 8GB ram",
+    "start": 392.15,
+    "duration": 2.208
+  },
+  {
+    "text": "The more , the better",
+    "start": 394.358,
+    "duration": 1.33
+  },
+  {
+    "text": "And you can run both the software in 4GB ram",
+    "start": 395.688,
+    "duration": 2.914
+  },
+  {
+    "text": "But the chances of crashes are more",
+    "start": 398.602,
+    "duration": 2.031
+  },
+  {
+    "text": "Don't even try in 2GB ram",
+    "start": 400.633,
+    "duration": 1.501
+  },
+  {
+    "text": "You Know , It will Blast",
+    "start": 402.134,
+    "duration": 1.4
+  },
+  {
+    "text": "Just Kidding",
+    "start": 403.534,
+    "duration": 0.781
+  },
+  {
+    "text": "Here Operating System Windows7 and + will run",
+    "start": 404.315,
+    "duration": 2.745
+  },
+  {
+    "text": "And make sure that the threads of your CPU is more than 6 ",
+    "start": 407.06,
+    "duration": 2.94
+  },
+  {
+    "text": "And according to them , your GPU VRAM should be at least 6GB",
+    "start": 410.0,
+    "duration": 4.0
+  },
+  {
+    "text": "And if you want to know in detail",
+    "start": 414.0,
+    "duration": 1.719
+  },
+  {
+    "text": "I have provided the link of the System Requirements in the description",
+    "start": 415.719,
+    "duration": 3.085
+  },
+  {
+    "text": "You can checkout from there",
+    "start": 418.804,
+    "duration": 1.644
+  },
+  {
+    "text": "And the System Requirements for Godot is very low",
+    "start": 420.448,
+    "duration": 2.895
+  },
+  {
+    "text": "Here , you can make games even in 4GB ram!",
+    "start": 423.343,
+    "duration": 2.206
+  },
+  {
+    "text": "Which is Nice",
+    "start": 425.549,
+    "duration": 0.99
+  },
+  {
+    "text": "And the rest of its requirements almost matches with Unity and Unreal",
+    "start": 426.539,
+    "duration": 3.76
+  },
+  {
+    "text": "So I will also provide the link of it in the description",
+    "start": 430.299,
+    "duration": 1.76
+  },
+  {
+    "text": "Vab brother , Mobile!",
+    "start": 432.059,
+    "duration": 1.075
+  },
+  {
+    "text": "Yeah coming to Mobile also in a while , WAIT",
+    "start": 433.134,
+    "duration": 1.982
+  },
+  {
+    "text": "So Hardware is done , Now let's talk about how to learn to make Games",
+    "start": 435.116,
+    "duration": 3.533
+  },
+  {
+    "text": "So see , I don't have proper idea for Unreal and Godot that how u can learn it",
+    "start": 438.649,
+    "duration": 5.051
+  },
+  {
+    "text": "But I have the shared the Beginner Guide in Discord",
+    "start": 443.7,
+    "duration": 2.543
+  },
+  {
+    "text": "From here , you can follow these tutorials and learn to make Games",
+    "start": 446.243,
+    "duration": 3.291
+  },
+  {
+    "text": "And many people think that Game is made like this -",
+    "start": 449.534,
+    "duration": 2.58
+  },
+  {
+    "text": "Hey Listen , ",
+    "start": 452.114,
+    "duration": 0.784
+  },
+  {
+    "text": "If I press A , then move forward",
+    "start": 452.898,
+    "duration": 1.775
+  },
+  {
+    "text": "If I press S , then move right",
+    "start": 454.673,
+    "duration": 1.719
+  },
+  {
+    "text": "If I press D , then move to the south",
+    "start": 456.392,
+    "duration": 1.85
+  },
+  {
+    "text": "And if I press W , then go to hell",
+    "start": 458.242,
+    "duration": 1.458
+  },
+  {
+    "text": "NO FOOL , NO OFFENSE",
+    "start": 459.7,
+    "duration": 1.673
+  },
+  {
+    "text": "So to make a proper Game , you will need 4 things -",
+    "start": 461.373,
+    "duration": 2.767
+  },
+  {
+    "text": "Game Design , Programming , Game Engine and Art",
+    "start": 464.14,
+    "duration": 3.381
+  },
+  {
+    "text": "Lets side the Game Design because you will learn it time to time while making Games",
+    "start": 467.521,
+    "duration": 4.313
+  },
+  {
+    "text": "Here basically this happens that what and how things are gonna work in the Game",
+    "start": 471.834,
+    "duration": 3.166
+  },
+  {
+    "text": "Ignore this now because as a beginner , I did the same",
+    "start": 475.0,
+    "duration": 2.76
+  },
+  {
+    "text": "And let us side the Art too because we will see it later",
+    "start": 477.76,
+    "duration": 3.122
+  },
+  {
+    "text": "So the remaining are Game Engine and Programming",
+    "start": 480.882,
+    "duration": 2.377
+  },
+  {
+    "text": "So now let's talk about Unity",
+    "start": 483.259,
+    "duration": 1.537
+  },
+  {
+    "text": "And to be honest , I can't teach you to make games myself",
+    "start": 484.796,
+    "duration": 3.354
+  },
+  {
+    "text": "Because it will take a lot of time for me to teach you",
+    "start": 488.15,
+    "duration": 2.19
+  },
+  {
+    "text": "Because as you know , I have other projects also to complete",
+    "start": 490.34,
+    "duration": 2.374
+  },
+  {
+    "text": "But the place from where I learnt , you can learn from there too!",
+    "start": 492.714,
+    "duration": 3.104
+  },
+  {
+    "text": "And that is BRACKEYS",
+    "start": 495.818,
+    "duration": 1.158
+  },
+  {
+    "text": "From this channel , you will learn more than half of Game Development",
+    "start": 496.976,
+    "duration": 2.779
+  },
+  {
+    "text": "And as a beginner , I followed this series of Brackeys fully ",
+    "start": 499.755,
+    "duration": 2.916
+  },
+  {
+    "text": "For which I was able to learn Game Development",
+    "start": 502.671,
+    "duration": 1.546
+  },
+  {
+    "text": "And I will also recommend you to watch this series",
+    "start": 504.217,
+    "duration": 2.817
+  },
+  {
+    "text": "This man teaches very well",
+    "start": 507.034,
+    "duration": 1.401
+  },
+  {
+    "text": "Yeah , his channel is dead now but its enough for you guys",
+    "start": 508.435,
+    "duration": 2.805
+  },
+  {
+    "text": " And yeah I have provided the link of the important tutorials in my Discord Server",
+    "start": 511.24,
+    "duration": 3.441
+  },
+  {
+    "text": "From there , you can learn with 0 Coding knowledge",
+    "start": 514.681,
+    "duration": 2.787
+  },
+  {
+    "text": "And yeah , for making Games I have not done any Paid Courses",
+    "start": 517.468,
+    "duration": 3.026
+  },
+  {
+    "text": "Because everything is available in the Internet",
+    "start": 520.494,
+    "duration": 2.0
+  },
+  {
+    "text": "That too in FREE",
+    "start": 522.494,
+    "duration": 0.788
+  },
+  {
+    "text": "And I will also not recommend you to take up Paid Courses in the starting",
+    "start": 523.282,
+    "duration": 3.218
+  },
+  {
+    "text": "Because many people pullout from half only",
+    "start": 526.5,
+    "duration": 2.112
+  },
+  {
+    "text": "I am not saying that don't do course",
+    "start": 528.612,
+    "duration": 2.036
+  },
+  {
+    "text": "Do course , even Advance course But after learning Unity",
+    "start": 530.648,
+    "duration": 2.805
+  },
+  {
+    "text": "And I don't think there's necessary to even take",
+    "start": 533.453,
+    "duration": 2.05
+  },
+  {
+    "text": "Because Advance tutorial courses are already available in Youtube",
+    "start": 535.503,
+    "duration": 3.138
+  },
+  {
+    "text": "And for you , I have also opened a Tutorials Channel",
+    "start": 538.641,
+    "duration": 2.596
+  },
+  {
+    "text": "Where I will try to teach you by making Advance tutorials ",
+    "start": 541.237,
+    "duration": 3.397
+  },
+  {
+    "text": "And yeah from the Internet , you can only learn 50% of Game Making",
+    "start": 544.634,
+    "duration": 2.682
+  },
+  {
+    "text": "The rest 50% , you have to learn from your own even also if you take Paid Courses",
+    "start": 547.316,
+    "duration": 3.643
+  },
+  {
+    "text": "Now , ART",
+    "start": 550.959,
+    "duration": 0.84
+  },
+  {
+    "text": "Mainly 3D Models , Textures and Audio comes under this",
+    "start": 551.799,
+    "duration": 3.135
+  },
+  {
+    "text": "And no need to learn this in starting only",
+    "start": 554.934,
+    "duration": 2.107
+  },
+  {
+    "text": "You can learn this later too",
+    "start": 557.041,
+    "duration": 1.361
+  },
+  {
+    "text": "And to dodge this , you can use third party resources in starting",
+    "start": 558.402,
+    "duration": 3.198
+  },
+  {
+    "text": "Like many things can be found in Asset store",
+    "start": 561.6,
+    "duration": 2.185
+  },
+  {
+    "text": "And by this , your learning will also become fast!",
+    "start": 563.785,
+    "duration": 2.442
+  },
+  {
+    "text": "And I have also given Blender and Photoshop tutorials in Discord",
+    "start": 566.227,
+    "duration": 2.837
+  },
+  {
+    "text": "From there , you can learn these too",
+    "start": 569.064,
+    "duration": 1.691
+  },
+  {
+    "text": "Blender is basically used for 3D modelling",
+    "start": 570.755,
+    "duration": 2.231
+  },
+  {
+    "text": "And Photoshop for 2D and for textures",
+    "start": 572.986,
+    "duration": 2.0
+  },
+  {
+    "text": "MOBILE GAME DEVELOPMENT",
+    "start": 574.986,
+    "duration": 1.319
+  },
+  {
+    "text": "See , to be honest , you cannot make a proper game using mobile",
+    "start": 576.305,
+    "duration": 3.084
+  },
+  {
+    "text": "Because.... It is not practical only",
+    "start": 579.389,
+    "duration": 1.604
+  },
+  {
+    "text": "Your Anroid Device will blast",
+    "start": 580.993,
+    "duration": 1.383
+  },
+  {
+    "text": "But still if you want to try",
+    "start": 583.869,
+    "duration": 1.962
+  },
+  {
+    "text": "Then there's an application in Playstore called Magic Engine",
+    "start": 585.831,
+    "duration": 2.262
+  },
+  {
+    "text": "That you can try for learning purpose",
+    "start": 588.093,
+    "duration": 2.741
+  },
+  {
+    "text": "And in Discord , we already have a Game Development Community",
+    "start": 590.834,
+    "duration": 3.083
+  },
+  {
+    "text": "If you face any problem while making Games , you can ask here",
+    "start": 593.917,
+    "duration": 3.817
+  },
+  {
+    "text": "Someone will surely help you and if I am available , then I myself will help you",
+    "start": 597.734,
+    "duration": 4.066
+  },
+  {
+    "text": "And main thing",
+    "start": 601.8,
+    "duration": 0.796
+  },
+  {
+    "text": "if you need the logics of how proper Games are made ",
+    "start": 602.596,
+    "duration": 3.026
+  },
+  {
+    "text": "Then start watching Devlogs",
+    "start": 605.622,
+    "duration": 1.476
+  },
+  {
+    "text": "I also post Devlogs but they are very small",
+    "start": 607.098,
+    "duration": 2.43
+  },
+  {
+    "text": "But next I am making a Multiplayer Game  ",
+    "start": 609.528,
+    "duration": 2.039
+  },
+  {
+    "text": "So I will start making proper Devlogs of it",
+    "start": 611.567,
+    "duration": 2.318
+  },
+  {
+    "text": "By which , you will be able to learn a lot!",
+    "start": 613.885,
+    "duration": 1.698
+  },
+  {
+    "text": "So that's it for this video!",
+    "start": 615.583,
+    "duration": 1.66
+  },
+  {
+    "text": "I don't know if there's anything I have missed",
+    "start": 617.243,
+    "duration": 2.21
+  },
+  {
+    "text": "The rest say in the comments that how will you start making your Game",
+    "start": 619.453,
+    "duration": 3.336
+  },
+  {
+    "text": "AND BYE.",
+    "start": 622.789,
+    "duration": 1.409
+  }
+]

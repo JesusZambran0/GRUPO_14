@@ -1,0 +1,737 @@
+[
+  {
+    "text": "Hi!  Welcome to Math Antics.",
+    "start": 6.66,
+    "duration": 1.831
+  },
+  {
+    "text": "In our video called “Long Division” we learned how to do division problems that had long multi-digit dividends.",
+    "start": 8.491,
+    "duration": 6.54
+  },
+  {
+    "text": "They key was to break up a big division problem into a series of smaller and easier division steps.",
+    "start": 15.04,
+    "duration": 6.22
+  },
+  {
+    "text": "And that involved trying to divide the dividend one digit at a time… digit-by-digit.",
+    "start": 21.264,
+    "duration": 5.401
+  },
+  {
+    "text": "And in the examples we saw, going digit-by-digit was pretty easy because we only had one-digit divisors.",
+    "start": 26.665,
+    "duration": 6.436
+  },
+  {
+    "text": "But, what if you need to use that division method for problems that have bigger divisors?",
+    "start": 33.101,
+    "duration": 4.501
+  },
+  {
+    "text": "…like if you’re dividing by a two or three-digit number?",
+    "start": 37.602,
+    "duration": 3.18
+  },
+  {
+    "text": "In this lesson, we’re gonna learn how you handle problems like that.",
+    "start": 40.782,
+    "duration": 3.84
+  },
+  {
+    "text": "The good news is that you kind of already know what to do, you just may not realize it yet.",
+    "start": 44.622,
+    "duration": 5.178
+  },
+  {
+    "text": "To see what I mean, have a look at these two division problems.  They both have the same dividend and both have a one-digit divisor.",
+    "start": 49.807,
+    "duration": 7.669
+  },
+  {
+    "text": "But these divisors are different numbers, and as you’ll see, that’s going to effect our digit-by-digit division process.",
+    "start": 57.476,
+    "duration": 6.802
+  },
+  {
+    "text": "To solve this first problem, we start by asking,",
+    "start": 64.278,
+    "duration": 2.968
+  },
+  {
+    "text": "“How many ‘2’s does it take to make 5 or almost 5?”  Or you can think of it as, “How many ‘2’s will fit into 5?”",
+    "start": 67.246,
+    "duration": 7.754
+  },
+  {
+    "text": "And it’s easy to see that the answer is 2.  So we put a 2 as the first digit of our answer.",
+    "start": 75.0,
+    "duration": 5.801
+  },
+  {
+    "text": "Then we multiply 2 times 2 which is 4, and we subtract that 4 from the 5 which leaves us a remainder of 1.",
+    "start": 80.801,
+    "duration": 8.119
+  },
+  {
+    "text": "Now we move to our next digit and we need to bring down a copy of it to combine with the remainder from the first digit.",
+    "start": 88.92,
+    "duration": 6.553
+  },
+  {
+    "text": "Then we ask, “How many ‘2’s will make 12?”  That’s easy: 6.",
+    "start": 95.473,
+    "duration": 4.969
+  },
+  {
+    "text": "So we put 6 as the next digit of our answer.",
+    "start": 100.442,
+    "duration": 3.417
+  },
+  {
+    "text": "2 × 6 = 12, and 12 minus 12 leaves no remainder.",
+    "start": 103.859,
+    "duration": 4.568
+  },
+  {
+    "text": "And finally, for our last digit, even though there was no remainder, we can bring a copy down and ask,",
+    "start": 108.427,
+    "duration": 5.419
+  },
+  {
+    "text": "“How many ‘2’s will make 8?”  And the answer is exactly 4.",
+    "start": 113.846,
+    "duration": 4.7
+  },
+  {
+    "text": "4 × 2 = 8 which again leaves no remainder.",
+    "start": 118.546,
+    "duration": 3.5
+  },
+  {
+    "text": "There, we went digit-by-digit and broke our problem up into three division steps (one for each digit)",
+    "start": 122.046,
+    "duration": 6.489
+  },
+  {
+    "text": "and we got our answer: 264.",
+    "start": 128.535,
+    "duration": 3.35
+  },
+  {
+    "text": "Now let’s solve the next example.  And right at the start, you’ll see we have a bit of a problem.",
+    "start": 131.885,
+    "duration": 4.619
+  },
+  {
+    "text": "When we ask, “How many ‘8’s does it take to make 5 or almost 5?” The answer is NONE!",
+    "start": 136.504,
+    "duration": 5.819
+  },
+  {
+    "text": "And that’s because the first digit (taken by itself) is LESS than the divisor.",
+    "start": 142.323,
+    "duration": 4.66
+  },
+  {
+    "text": "8 is TOO BIG to divide into 5.  So what do we do?",
+    "start": 146.983,
+    "duration": 3.96
+  },
+  {
+    "text": "Well, Instead of just trying to divide the first digit all by itself, let’s group the first two digits together?",
+    "start": 150.943,
+    "duration": 6.468
+  },
+  {
+    "text": "If we group the 5 and the 2 together, then our first step will to ask, “How many ‘8’s will make 52?”",
+    "start": 157.411,
+    "duration": 6.302
+  },
+  {
+    "text": "That’s better… 8 will divide into 52 about 6 times.",
+    "start": 163.713,
+    "duration": 4.302
+  },
+  {
+    "text": "So we’ll put a 6 in our answer line, right above the 2.",
+    "start": 168.015,
+    "duration": 3.54
+  },
+  {
+    "text": "Why does it go there?  Because we had to skip the first digit and group it with the 2.",
+    "start": 171.56,
+    "duration": 5.14
+  },
+  {
+    "text": "If we wanted to, we could have put a zero above that first digit since the 8 wouldn’t divide into it ANY times,",
+    "start": 176.701,
+    "duration": 6.169
+  },
+  {
+    "text": "and if that helps you keep track of which answer digit you’re on, then that’s a good idea, but it’s not required.",
+    "start": 182.87,
+    "duration": 6.119
+  },
+  {
+    "text": "So, 6 × 8 = 48 and then 52 minus 48 gives us a remainder of 4.",
+    "start": 188.989,
+    "duration": 6.919
+  },
+  {
+    "text": "Now, we only have one digit left to divide so we bring down a copy of it to combine with the remainder and ask,",
+    "start": 195.908,
+    "duration": 5.985
+  },
+  {
+    "text": "“How many ‘8’s will make 48?”  We know the answer to that is 6 also.",
+    "start": 201.893,
+    "duration": 4.953
+  },
+  {
+    "text": "6 × 8 is 48 which leaves no remainder.  There… our answer is 66.",
+    "start": 206.846,
+    "duration": 6.285
+  },
+  {
+    "text": "Did you notice the difference between these two problems?",
+    "start": 213.131,
+    "duration": 2.918
+  },
+  {
+    "text": "We wanted to go digit-by-digit in both problems, but in the second problem,",
+    "start": 216.049,
+    "duration": 4.452
+  },
+  {
+    "text": "the divisor was bigger than the first digit of the dividend, so we had to start out by going two-digits at a time in that case.",
+    "start": 220.501,
+    "duration": 7.836
+  },
+  {
+    "text": "And that helps us see something really important about this traditional long division method.",
+    "start": 228.337,
+    "duration": 4.483
+  },
+  {
+    "text": "You don’t always HAVE to go one digit at a time.",
+    "start": 232.82,
+    "duration": 3.203
+  },
+  {
+    "text": "You can break the dividend up into bigger ‘chunks’ of digits if you want and apply the same procedure to those bigger chunks.",
+    "start": 236.023,
+    "duration": 7.234
+  },
+  {
+    "text": "You could go two or three digits at a time or even try to divide the entire dividend all in one step!",
+    "start": 243.257,
+    "duration": 6.803
+  },
+  {
+    "text": "And taking bigger chunks of the divided usually results in fewer division steps.",
+    "start": 250.06,
+    "duration": 4.786
+  },
+  {
+    "text": "Notice that there were three steps in the first problem but only two steps in the second problem.",
+    "start": 254.846,
+    "duration": 5.101
+  },
+  {
+    "text": "Fewer steps!?  I like the sound of that!  That seems like a lot less work!!",
+    "start": 259.947,
+    "duration": 4.819
+  },
+  {
+    "text": "Ah yes… fewer division steps does SOUND better, but it’s really not.",
+    "start": 264.766,
+    "duration": 5.052
+  },
+  {
+    "text": "That’s because the more digits you group together, the harder that division step will be.",
+    "start": 269.818,
+    "duration": 5.14
+  },
+  {
+    "text": "I thought it sounded too good to be true.",
+    "start": 274.96,
+    "duration": 3.94
+  },
+  {
+    "text": "It’s kind of like climbing stairs.",
+    "start": 278.9,
+    "duration": 2.28
+  },
+  {
+    "text": "When you have a lot of small steps, each one is easy to climb.",
+    "start": 281.189,
+    "duration": 3.685
+  },
+  {
+    "text": "But with only a few big steps, each one can be a challenge of its own.",
+    "start": 284.874,
+    "duration": 4.68
+  },
+  {
+    "text": "That’s why we always TRY to go just one digit at a time.",
+    "start": 289.56,
+    "duration": 3.999
+  },
+  {
+    "text": "If you only have to divide into one or two digits of the dividend at a time,",
+    "start": 293.559,
+    "duration": 4.002
+  },
+  {
+    "text": "it’s much easier because all the answers to those smaller division steps can be found on the multiplication table,",
+    "start": 297.561,
+    "duration": 6.352
+  },
+  {
+    "text": "(which you have memorized, right?)",
+    "start": 303.913,
+    "duration": 2.3
+  },
+  {
+    "text": "But when we have to go 3 or 4 digits at a time, it’s a lot harder to figure out the answer of each step.",
+    "start": 306.22,
+    "duration": 7.112
+  },
+  {
+    "text": "Okay, but how does that relate to two-digit divisors?",
+    "start": 313.332,
+    "duration": 3.686
+  },
+  {
+    "text": "Ah… as you’ll see, two-digit divisors force us to take bigger steps!",
+    "start": 317.018,
+    "duration": 5.335
+  },
+  {
+    "text": "To see what I mean, let’s try solving two new division problems that have the same dividend as before but two new divisors,",
+    "start": 322.353,
+    "duration": 7.18
+  },
+  {
+    "text": "and both of these are TWO-digit divisors.",
+    "start": 329.54,
+    "duration": 3.18
+  },
+  {
+    "text": "In this first problem, we COULD start by asking, “How many ’24’s will fit into 5?”,",
+    "start": 332.72,
+    "duration": 5.52
+  },
+  {
+    "text": "but since our divisor now has two digits, we already know that NO one-digit chunk of the dividend will be big enough for that to divide into.",
+    "start": 338.242,
+    "duration": 9.058
+  },
+  {
+    "text": "So, because we have a two-digit divisor, we automatically need to group the first two digits and ask, “How many ’24’s will make 52?”",
+    "start": 347.3,
+    "duration": 9.615
+  },
+  {
+    "text": "This is trickier because multiples of 24 are not on our multiplication table.",
+    "start": 356.915,
+    "duration": 5.087
+  },
+  {
+    "text": "Instead, we have to figure it out by estimating (or good guessing).",
+    "start": 362.002,
+    "duration": 4.483
+  },
+  {
+    "text": "Because we know that 2 times 25 would be 50, 2 is a really good estimate for the first digit of our answer.",
+    "start": 366.485,
+    "duration": 8.07
+  },
+  {
+    "text": "2 times 24 is 48 and then when we subtract 48 from 52, we get a remainder of 4.",
+    "start": 374.555,
+    "duration": 8.019
+  },
+  {
+    "text": "Okay, so far so good… we’ve already dealt with the first two digits of the dividend,",
+    "start": 382.574,
+    "duration": 5.152
+  },
+  {
+    "text": "so now we bring down the last digit to join the remainder and ask, “How many ’24’s will make 48?”",
+    "start": 387.726,
+    "duration": 6.603
+  },
+  {
+    "text": "That’s easy, it’s 2 again because we just saw that 2 times 24 is 48, so that will leave no remainder.",
+    "start": 394.329,
+    "duration": 8.086
+  },
+  {
+    "text": "So the answer to this first two-digit divisor problem is 22.",
+    "start": 402.415,
+    "duration": 4.651
+  },
+  {
+    "text": "Now let’s have a look at the next problem.  It’s also got a two-digit divisor, so we’ll start the same way.",
+    "start": 407.066,
+    "duration": 5.721
+  },
+  {
+    "text": "We’ll start with a two-digit chunk of our dividend and ask, “How many ’88’s will it take to make 52 or almost 52?”",
+    "start": 412.787,
+    "duration": 8.118
+  },
+  {
+    "text": "Uh Oh!  …see the problem?  Even though both are two digits, this won’t work because 88 is already greater than 52.",
+    "start": 420.905,
+    "duration": 8.22
+  },
+  {
+    "text": "And that means, we’re going to have to take an even BIGGER chunk of this dividend.",
+    "start": 429.125,
+    "duration": 3.76
+  },
+  {
+    "text": "We need to group the first THREE digits together!",
+    "start": 432.885,
+    "duration": 2.855
+  },
+  {
+    "text": "But… that’s just like doing the whole problem at once, without breaking it into any steps!",
+    "start": 435.744,
+    "duration": 5.435
+  },
+  {
+    "text": "Yep… and that’s why division problems with big divisors can get difficult.",
+    "start": 441.179,
+    "duration": 4.36
+  },
+  {
+    "text": "When you have a two or three-digit divisor, each step might be as big as the whole long division problem",
+    "start": 445.54,
+    "duration": 6.0
+  },
+  {
+    "text": "and it can take a lot of trial and error to figure out.",
+    "start": 451.548,
+    "duration": 3.169
+  },
+  {
+    "text": "In fact, if we had our way here at Math Antics, when division problems get that complicated,",
+    "start": 454.717,
+    "duration": 4.76
+  },
+  {
+    "text": "we’d just let students use calculators to solve them.",
+    "start": 459.48,
+    "duration": 2.82
+  },
+  {
+    "text": "What do we want?     Calculators!",
+    "start": 462.78,
+    "duration": 2.32
+  },
+  {
+    "text": "When do we want them?     Whenever we have long division with two or more digit divisors!",
+    "start": 465.104,
+    "duration": 4.34
+  },
+  {
+    "text": "Okay, but what if we don’t get our way and you need to solve this problem without a calculator?  What’s the best strategy?",
+    "start": 469.672,
+    "duration": 6.88
+  },
+  {
+    "text": "Well, a little estimating will help us make much better guesses at our answer.",
+    "start": 476.56,
+    "duration": 4.46
+  },
+  {
+    "text": "The numbers 88 and 528 are kind of hard to work with, but if we made estimates of those numbers…",
+    "start": 481.02,
+    "duration": 6.892
+  },
+  {
+    "text": "Like if we change them to 90 and 500, that would make it easier to estimate the answer.",
+    "start": 487.912,
+    "duration": 5.485
+  },
+  {
+    "text": "Since 100 would divide into 500 exactly 5 times, that means that 90 will divide into 500 at least that many times.",
+    "start": 493.397,
+    "duration": 8.853
+  },
+  {
+    "text": "So, let’s make 5 our first estimate for the answer.",
+    "start": 502.25,
+    "duration": 3.635
+  },
+  {
+    "text": "To check to see how good that estimate is, we multiply 5 by 88 and then subtract that from 528 to see what the remainder is.",
+    "start": 505.885,
+    "duration": 9.12
+  },
+  {
+    "text": "Now 5 × 88 is kinda tricky on its own, so you may want to use scratch paper to work it out.",
+    "start": 515.005,
+    "duration": 6.315
+  },
+  {
+    "text": "5 times 88 is 440 and when we subtract 440 from 528, we get a remainder of 88.",
+    "start": 521.32,
+    "duration": 8.8
+  },
+  {
+    "text": "Hmmm… it looks like our estimate was too low.",
+    "start": 530.12,
+    "duration": 3.1
+  },
+  {
+    "text": "Whenever the remainder is greater than or equal to the divisor, it means we underestimated the answer.",
+    "start": 533.228,
+    "duration": 6.852
+  },
+  {
+    "text": "In fact, since our remainder is EQUAL to the divisor, it means we could have divided exactly one more 88 into 528.",
+    "start": 540.08,
+    "duration": 8.58
+  },
+  {
+    "text": "So we should have picked 6.",
+    "start": 548.66,
+    "duration": 2.04
+  },
+  {
+    "text": "And if you multiply 6 times 88, you’ll see that it’s 528.",
+    "start": 550.701,
+    "duration": 5.335
+  },
+  {
+    "text": "So as you can see, even though the division procedure is basically the same in all these cases,",
+    "start": 556.036,
+    "duration": 5.736
+  },
+  {
+    "text": "the value of the divisor makes a big difference on our division steps.",
+    "start": 561.772,
+    "duration": 4.818
+  },
+  {
+    "text": "Whenever the divisor is bigger than the part of the dividend that we’re trying to divide,",
+    "start": 566.59,
+    "duration": 5.119
+  },
+  {
+    "text": "it means that we need to group more digits and take bigger division steps.",
+    "start": 571.709,
+    "duration": 4.584
+  },
+  {
+    "text": "Let’s try one more much longer two-digit divisor problem.",
+    "start": 576.293,
+    "duration": 4.08
+  },
+  {
+    "text": "817,152 divided by 38.",
+    "start": 580.38,
+    "duration": 4.96
+  },
+  {
+    "text": "I’m gonna work through this kinda fast, so you may want to re-watch it a couple times if you have trouble following it.",
+    "start": 585.346,
+    "duration": 6.036
+  },
+  {
+    "text": "Since we have a two-digit divisor, we start with the first 2 digits of the dividend and ask,",
+    "start": 591.382,
+    "duration": 5.602
+  },
+  {
+    "text": "“How many ’38’s will it take to make 81?”",
+    "start": 596.984,
+    "duration": 3.102
+  },
+  {
+    "text": "Again we’re gonna use rounding to help us estimate the answer.",
+    "start": 600.086,
+    "duration": 3.85
+  },
+  {
+    "text": "38 is close to 40, and 81 is really close to 80.",
+    "start": 603.936,
+    "duration": 4.335
+  },
+  {
+    "text": "And since 80 is 2 times 40, my estimate for the first answer digit will be 2.",
+    "start": 608.271,
+    "duration": 6.12
+  },
+  {
+    "text": "2 × 38 = 76.  And 81 minus 76 leaves a remainder of 5.",
+    "start": 614.391,
+    "duration": 7.303
+  },
+  {
+    "text": "We know our estimate was just right because 5 is less than our divisor of 38.",
+    "start": 621.694,
+    "duration": 5.434
+  },
+  {
+    "text": "Now we move on to the next digit.",
+    "start": 627.128,
+    "duration": 2.101
+  },
+  {
+    "text": "We bring a copy of it down and combine it with our 5 and ask, “How many '38's will it take to make 57?”",
+    "start": 629.229,
+    "duration": 7.553
+  },
+  {
+    "text": "That one is easier to estimate.  …just 1, because it’s easy to see that two ’38’s would be too big.",
+    "start": 636.782,
+    "duration": 6.001
+  },
+  {
+    "text": "1 × 38 = 38.  And 57 minus 38 leaves a remainder of 19.",
+    "start": 642.783,
+    "duration": 6.536
+  },
+  {
+    "text": "On to the next digit…",
+    "start": 649.319,
+    "duration": 1.701
+  },
+  {
+    "text": "we bring down a copy of the 1 and now we ask, “How many ’38’s will it take to make 191?”",
+    "start": 651.02,
+    "duration": 6.119
+  },
+  {
+    "text": "That’s a bit tougher.  To estimate, I’ll round those numbers to 40 and 200.",
+    "start": 657.139,
+    "duration": 5.434
+  },
+  {
+    "text": "And I know that five ’40’s makes 200, so 5 is my estimate for the next answer digit.",
+    "start": 662.573,
+    "duration": 5.686
+  },
+  {
+    "text": "5 × 38 = 190.  And 191 minus 190 leaves a remainder of 1.",
+    "start": 668.259,
+    "duration": 8.06
+  },
+  {
+    "text": "Moving on... we bring down a copy of our next digit and ask, “How many ’38’s will it take to make 15?”",
+    "start": 676.32,
+    "duration": 6.678
+  },
+  {
+    "text": "Uh oh. 15 isn’t big enough to be divided by 38.",
+    "start": 682.998,
+    "duration": 3.76
+  },
+  {
+    "text": "But don’t worry, we already know what to do when this happens.",
+    "start": 686.76,
+    "duration": 3.257
+  },
+  {
+    "text": "Whenever we’re trying to divide a bigger number into a smaller number,",
+    "start": 690.017,
+    "duration": 3.7
+  },
+  {
+    "text": "we just put a zero in the answer line and move on to the next digit.",
+    "start": 693.72,
+    "duration": 4.02
+  },
+  {
+    "text": "We bring down a copy of the 2 and combine it with our remainder of 15.",
+    "start": 697.74,
+    "duration": 4.78
+  },
+  {
+    "text": "Now we ask, “How many ’38’s will it take to make 152?”",
+    "start": 702.52,
+    "duration": 4.58
+  },
+  {
+    "text": "To estimate this one, I’m going to round those numbers to 40 and 160.",
+    "start": 707.106,
+    "duration": 4.952
+  },
+  {
+    "text": "And since 4 × 40 = 160, I’ll put 4 in the answer line as my estimate.",
+    "start": 712.058,
+    "duration": 5.902
+  },
+  {
+    "text": "4 × 38 = 152.  And 152 minus 152 leaves no remainder. And we’re done!",
+    "start": 717.96,
+    "duration": 9.071
+  },
+  {
+    "text": "Wow!  That was a lot of work!  But did you see how much rounding helped us out?",
+    "start": 727.031,
+    "duration": 4.901
+  },
+  {
+    "text": "We made good estimates each time by rounding the numbers we were working with.",
+    "start": 731.932,
+    "duration": 4.88
+  },
+  {
+    "text": "Alright, now you know that the long division procedure works the same for two-digit divisors.",
+    "start": 736.82,
+    "duration": 5.399
+  },
+  {
+    "text": "It’s just that each division step will involve two or three digits of the dividend.",
+    "start": 742.219,
+    "duration": 4.835
+  },
+  {
+    "text": "And, since each of those bigger steps is harder to figure out, you’ll want to use estimating to help find the answers.",
+    "start": 747.054,
+    "duration": 6.785
+  },
+  {
+    "text": "And while it’s good to know how to do complex division problems like this,",
+    "start": 753.839,
+    "duration": 3.986
+  },
+  {
+    "text": "we still think that complex division problems are a job for your calculator.",
+    "start": 757.825,
+    "duration": 4.535
+  },
+  {
+    "text": "So try a few practice problems, but don’t wear yourself out doing really long division like this.",
+    "start": 762.36,
+    "duration": 5.72
+  },
+  {
+    "text": "After all, the reason we study math is to become good problem solvers and to be able to understand all sorts of important math ideas,",
+    "start": 768.08,
+    "duration": 7.16
+  },
+  {
+    "text": "and there’s a lot more to math than division!",
+    "start": 775.248,
+    "duration": 2.28
+  },
+  {
+    "text": "As always, thanks for watching Math Antics and I’ll see ya next time.",
+    "start": 777.528,
+    "duration": 3.38
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 781.86,
+    "duration": 1.96
+  }
+]

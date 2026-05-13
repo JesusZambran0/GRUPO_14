@@ -1,0 +1,327 @@
+[
+  {
+    "text": "Hi and welcome to Math Antics.  This video is all about dividing fractions,",
+    "start": 6.858,
+    "duration": 4.434
+  },
+  {
+    "text": "but in order to understand how dividing fractions works, we first need to learn about something called reciprocals.",
+    "start": 11.292,
+    "duration": 6.486
+  },
+  {
+    "text": "A reciprocal is just a fancy math term for what you get when you switch the top and bottom numbers of a fractions.",
+    "start": 17.778,
+    "duration": 6.703
+  },
+  {
+    "text": "For example, if you have the fraction 1 over 2 and then switch the top and bottom numbers, you’ll end up with 2 over 1.",
+    "start": 24.481,
+    "duration": 6.94
+  },
+  {
+    "text": "2 over 1 is the reciprocal of 1 over 2.",
+    "start": 31.421,
+    "duration": 3.46
+  },
+  {
+    "text": "And, 1 over 2 is the reciprocal of 2 over 1.",
+    "start": 34.881,
+    "duration": 4.379
+  },
+  {
+    "text": "And an interesting thing about reciprocals is; multiplying a fraction by its own reciprocal will always give you ‘1’.",
+    "start": 39.269,
+    "duration": 7.6
+  },
+  {
+    "text": "That’s because you’ll have the same multiplication problem on the top and bottom,",
+    "start": 46.869,
+    "duration": 4.005
+  },
+  {
+    "text": "so you’ll end up with a whole fraction which is always ‘1’.",
+    "start": 50.874,
+    "duration": 3.901
+  },
+  {
+    "text": "Okay, that’s nice, but what do reciprocals have to do with dividing fractions?",
+    "start": 54.775,
+    "duration": 4.734
+  },
+  {
+    "text": "Well, reciprocals let us do a really cool trick that makes dividing fractions easy!",
+    "start": 59.509,
+    "duration": 5.152
+  },
+  {
+    "text": "Whenever you have to divide something by a fraction, you can just multiply it by the reciprocal of that fraction instead,",
+    "start": 64.661,
+    "duration": 5.96
+  },
+  {
+    "text": "and you’ll get the correct answer.",
+    "start": 70.621,
+    "duration": 2.194
+  },
+  {
+    "text": "And that’s great news because multiplying fractions is so simple.",
+    "start": 72.815,
+    "duration": 4.1
+  },
+  {
+    "text": "This trick of multiplying by the reciprocal works because fractions are really just mini division problems,",
+    "start": 76.92,
+    "duration": 5.84
+  },
+  {
+    "text": "so when you multiply something by 1 over 2, it’s the same as dividing by 2, since 2 is below the fraction’s division line.",
+    "start": 82.768,
+    "duration": 7.832
+  },
+  {
+    "text": "AND… dividing by 2 is the same as dividing by 2 over 1,",
+    "start": 90.6,
+    "duration": 4.3
+  },
+  {
+    "text": "because you can turn any number into a fraction by just writing a ‘1’ as the bottom number, right?",
+    "start": 94.9,
+    "duration": 5.24
+  },
+  {
+    "text": "But look… reciprocals!  That’s why multiplying by 1 over 2 is the same as dividing by 2 over 1.",
+    "start": 100.14,
+    "duration": 6.58
+  },
+  {
+    "text": "And it’s true the other way around too.",
+    "start": 106.72,
+    "duration": 2.391
+  },
+  {
+    "text": "So really, it’s kind of like you never have to divide fractions.",
+    "start": 109.111,
+    "duration": 3.76
+  },
+  {
+    "text": "You can just re-write your division problems so that you’re multiplying by the reciprocal instead.",
+    "start": 112.88,
+    "duration": 5.317
+  },
+  {
+    "text": "Then when you multiply, you’ll get the answer for the original division problem.",
+    "start": 118.197,
+    "duration": 4.402
+  },
+  {
+    "text": "As always, let’s see a couple examples of how this works so you’ll really understand.",
+    "start": 122.599,
+    "duration": 4.819
+  },
+  {
+    "text": "Let’s try this problem: 3 over 4, divided by 2 over 7.",
+    "start": 127.418,
+    "duration": 4.485
+  },
+  {
+    "text": "Okay, so the first thing we want to do is re-write our problem.",
+    "start": 131.903,
+    "duration": 3.885
+  },
+  {
+    "text": "Instead of dividing by 2 over 7, we can multiply by the reciprocal instead.",
+    "start": 135.788,
+    "duration": 5.232
+  },
+  {
+    "text": "The reciprocal of 2 over 7, is 7 over 2, so our problem becomes 3 over 4, times 7 over 2.",
+    "start": 141.02,
+    "duration": 8.68
+  },
+  {
+    "text": "Oh, I should mention a mistake that a lot of students make when they first learn to divide fractions.",
+    "start": 149.7,
+    "duration": 5.394
+  },
+  {
+    "text": "Sometimes students take the reciprocal of the first fraction (the one that’s being divided),",
+    "start": 155.094,
+    "duration": 4.76
+  },
+  {
+    "text": "or even the reciprocal of both fractions… but you only want to take the reciprocal of the second fraction (the one you are dividing BY).",
+    "start": 159.86,
+    "duration": 8.18
+  },
+  {
+    "text": "Okay, now that our problem has been changed to multiplication, it’s easy!",
+    "start": 168.048,
+    "duration": 4.16
+  },
+  {
+    "text": "Just multiply the tops (3 times 7 equals 21)",
+    "start": 172.208,
+    "duration": 3.42
+  },
+  {
+    "text": "and multiply the bottoms (4 times 2 equals 8)",
+    "start": 175.628,
+    "duration": 3.191
+  },
+  {
+    "text": "and we have the answer to our fraction division problem.",
+    "start": 178.819,
+    "duration": 3.68
+  },
+  {
+    "text": "So, 3 over 4, divided by 2 over 7, is 21 over 8.",
+    "start": 182.5,
+    "duration": 4.7
+  },
+  {
+    "text": "So that’s pretty easy, but let’s try one more example.",
+    "start": 187.205,
+    "duration": 3.375
+  },
+  {
+    "text": "Let’s try 15 over 16, divided by 9 over 22.",
+    "start": 190.58,
+    "duration": 4.04
+  },
+  {
+    "text": "Again, the first thing we want to do is re-write our problem.",
+    "start": 194.624,
+    "duration": 3.385
+  },
+  {
+    "text": "We’ll change the ‘divided by 9 over 22’ into ‘times 22 over 9’.",
+    "start": 198.009,
+    "duration": 5.44
+  },
+  {
+    "text": "Now all we have to do is multiply, but since these numbers are kinda big,",
+    "start": 203.449,
+    "duration": 3.846
+  },
+  {
+    "text": "I’m going to use my calculator to help. Let’s see here… so we have… alright!",
+    "start": 207.295,
+    "duration": 6.1
+  },
+  {
+    "text": "On the top we have, 15 times 22 equals 330,",
+    "start": 213.4,
+    "duration": 4.46
+  },
+  {
+    "text": "and on the bottom, we have16 times 9 equals 144.",
+    "start": 217.86,
+    "duration": 4.7
+  },
+  {
+    "text": "So the answer to our division problem is 330 over 144.",
+    "start": 222.56,
+    "duration": 4.859
+  },
+  {
+    "text": "Of course that could be simplified for your final answer on a test, but we cover simplifying fractions in another video.",
+    "start": 227.419,
+    "duration": 6.47
+  },
+  {
+    "text": "Alright, that’s how you divide fractions; you just multiply by the reciprocal and you have your answer.",
+    "start": 233.889,
+    "duration": 5.618
+  },
+  {
+    "text": "But, there’s one more thing I want to show you.",
+    "start": 239.507,
+    "duration": 2.301
+  },
+  {
+    "text": "You already know that the line between the top and bottom number of a fraction is just another form of the division symbol.",
+    "start": 241.808,
+    "duration": 6.036
+  },
+  {
+    "text": "Well, that means you'll sometimes see fraction division problems written like this…",
+    "start": 247.844,
+    "duration": 4.869
+  },
+  {
+    "text": "This shows the top fraction (2 over 3) being divided by the bottom fraction (4 over 5).",
+    "start": 252.713,
+    "duration": 5.784
+  },
+  {
+    "text": "It’s really just that we have a fraction made up from other fractions.",
+    "start": 258.497,
+    "duration": 3.718
+  },
+  {
+    "text": "The top number is a fraction and the bottom number is a fraction.",
+    "start": 262.215,
+    "duration": 3.4
+  },
+  {
+    "text": "It just looks a little confusing because we have all these fractions lines here.",
+    "start": 265.615,
+    "duration": 4.053
+  },
+  {
+    "text": "But, we can make it look a lot better.",
+    "start": 269.668,
+    "duration": 2.18
+  },
+  {
+    "text": "Let’s re-write this as a multiplication problem by taking the reciprocal of the bottom number (the fraction that we are dividing BY)",
+    "start": 271.848,
+    "duration": 6.512
+  },
+  {
+    "text": "and multiplying it by the fraction on top.",
+    "start": 278.37,
+    "duration": 3.086
+  },
+  {
+    "text": "There, that looks easier to do, and it’s really the same problem!",
+    "start": 281.456,
+    "duration": 3.717
+  },
+  {
+    "text": "We just need to multiply to get the answer.",
+    "start": 285.173,
+    "duration": 2.235
+  },
+  {
+    "text": "So 2 times 5 equals 10, and 3 times 4 equals 12.",
+    "start": 287.408,
+    "duration": 4.552
+  },
+  {
+    "text": "Okay, so there you have it.  What sounded really hard turns out to be as easy as flipping fractions upside-down.",
+    "start": 291.96,
+    "duration": 6.451
+  },
+  {
+    "text": "If you can multiply fractions, then you can divide fractions too!",
+    "start": 298.411,
+    "duration": 3.9
+  },
+  {
+    "text": "Don’t forget to practice what you’ve learned by doing the exercises for this section.",
+    "start": 302.32,
+    "duration": 3.84
+  },
+  {
+    "text": "Thanks for watching and see ya next time.",
+    "start": 306.164,
+    "duration": 2.6
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 309.7,
+    "duration": 2.1
+  }
+]

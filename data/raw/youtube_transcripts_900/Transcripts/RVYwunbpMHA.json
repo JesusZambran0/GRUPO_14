@@ -1,0 +1,547 @@
+[
+  {
+    "text": "Hi! Welcome to Math Antics.  In our last video, we learned the basics of multi-digit multiplication.",
+    "start": 6.786,
+    "duration": 6.519
+  },
+  {
+    "text": "We learned how to multiply a multi-digit number by a one-digit number.",
+    "start": 13.305,
+    "duration": 4.395
+  },
+  {
+    "text": "But in this video, we’re gonna take it to the next level.",
+    "start": 17.7,
+    "duration": 3.159
+  },
+  {
+    "text": "We’re gonna learn how to multiply a multi-digit number by another multi-digit number.",
+    "start": 20.859,
+    "duration": 5.635
+  },
+  {
+    "text": "You remember the procedure for multiplying when we have a one-digit bottom number, right?",
+    "start": 26.494,
+    "duration": 4.817
+  },
+  {
+    "text": "You break up the problem into a series of multiplication steps, one for each of the top digits.",
+    "start": 31.311,
+    "duration": 5.804
+  },
+  {
+    "text": "And in each step, you just multiply the bottom digit by a top digit,",
+    "start": 37.115,
+    "duration": 4.634
+  },
+  {
+    "text": "starting with the ones place and working your way left until you’ve multiplied all of the digits.",
+    "start": 41.749,
+    "duration": 5.435
+  },
+  {
+    "text": "Well, when the bottom number of your multiplication problem also has more than one digit,",
+    "start": 47.184,
+    "duration": 4.901
+  },
+  {
+    "text": "you have to do that same procedure we learned for EACH bottom digit.",
+    "start": 52.085,
+    "duration": 4.435
+  },
+  {
+    "text": "For example, if you have a two-digit bottom number,",
+    "start": 56.52,
+    "duration": 3.035
+  },
+  {
+    "text": "you multiply the first digit by each top digit, and then you multiply the second digit by each top digit.",
+    "start": 59.555,
+    "duration": 7.102
+  },
+  {
+    "text": "That means you’re gonna have twice as many steps to do,",
+    "start": 66.657,
+    "duration": 3.319
+  },
+  {
+    "text": "AND it means you’re gonna get two different answers!",
+    "start": 69.976,
+    "duration": 3.94
+  },
+  {
+    "text": "What?!! - How can we have two different answers for the same problem?",
+    "start": 73.92,
+    "duration": 4.092
+  },
+  {
+    "text": "Now don’t panic.",
+    "start": 78.012,
+    "duration": 1.38
+  },
+  {
+    "text": "The different answers are just what you get from doing the multiplication procedure for each digit of the bottom number separately.",
+    "start": 79.4,
+    "duration": 6.26
+  },
+  {
+    "text": "In fact, it’s kind of like we’re pretending we have two SEPARATE multiplication problems that each have a one-digit bottom number",
+    "start": 85.665,
+    "duration": 7.151
+  },
+  {
+    "text": "…which is nice, cuz I kinda like pretending…",
+    "start": 92.816,
+    "duration": 4.002
+  },
+  {
+    "text": "No Luke… I AM your father!",
+    "start": 96.818,
+    "duration": 3.851
+  },
+  {
+    "text": "NO!  That’s IMPOSSIBLE!",
+    "start": 100.669,
+    "duration": 2.752
+  },
+  {
+    "text": "Ha Ha Ha!",
+    "start": 103.421,
+    "duration": 1.601
+  },
+  {
+    "text": "Ahh… wait…no…",
+    "start": 105.022,
+    "duration": 1.82
+  },
+  {
+    "text": "Nooooooooooo…..",
+    "start": 106.842,
+    "duration": 3.03
+  },
+  {
+    "text": "Ha Ha Ha Ha Ha…",
+    "start": 109.872,
+    "duration": 1.52
+  },
+  {
+    "text": "Err… well… I mean… it’s nice because we already know how to multiply when we have a one-digit bottom number.",
+    "start": 111.872,
+    "duration": 7.188
+  },
+  {
+    "text": "But then what will we do with the two different answers we’re gonna get?",
+    "start": 119.06,
+    "duration": 3.48
+  },
+  {
+    "text": "Well, it turns out that all we have to do is add them together once we’re finished doing all of our multiplication steps.",
+    "start": 122.54,
+    "duration": 6.42
+  },
+  {
+    "text": "Are you ready to see an example?  It should make a lot more sense when you see the procedure in action.",
+    "start": 128.96,
+    "duration": 5.371
+  },
+  {
+    "text": "So let’s multiply 324 (a three-digit number) by 46 (a two-digit number).",
+    "start": 134.331,
+    "duration": 6.72
+  },
+  {
+    "text": "Now remember, we’re gonna do the same procedure that we did in the last video for each of the bottom digits.",
+    "start": 141.051,
+    "duration": 5.8
+  },
+  {
+    "text": "And since our top number has three digits, that means there’ll be",
+    "start": 146.86,
+    "duration": 3.0
+  },
+  {
+    "text": "three multiplication steps for the first digit AND three steps for the second digit.",
+    "start": 149.86,
+    "duration": 5.395
+  },
+  {
+    "text": "Fortunately, we can start the same way we would if the bottom had only one digit",
+    "start": 155.255,
+    "duration": 4.82
+  },
+  {
+    "text": "by just ignoring the second digit until we finish the first three steps.",
+    "start": 160.075,
+    "duration": 4.1
+  },
+  {
+    "text": "Alright, so our first multiplication step is 6 × 4 which is 24",
+    "start": 164.175,
+    "duration": 5.452
+  },
+  {
+    "text": "And since 24 has two-digits, we can leave the ‘4’ in our answer line,",
+    "start": 169.627,
+    "duration": 3.851
+  },
+  {
+    "text": "but we need to carry the ‘2’ and put it above the next top digit that we’re gonna multiply.",
+    "start": 173.478,
+    "duration": 5.252
+  },
+  {
+    "text": "So the next step is 6 × 2 which is 12.",
+    "start": 178.73,
+    "duration": 3.7
+  },
+  {
+    "text": "But we have to add in the ‘2’ that we carried, so 12 + 2 gives us 14.",
+    "start": 182.43,
+    "duration": 4.85
+  },
+  {
+    "text": "That’s another two-digit answer,",
+    "start": 187.283,
+    "duration": 1.652
+  },
+  {
+    "text": "so we leave the ‘4’ in our answer line, and carry the ‘1’ up above the next digit that we’re gonna multiply.",
+    "start": 188.935,
+    "duration": 5.918
+  },
+  {
+    "text": "And our third step is 6 × 3 which is 18.  And then we add in the ‘1’ that we carried and we get 19.",
+    "start": 194.853,
+    "duration": 6.687
+  },
+  {
+    "text": "This time we can leave both digits of the 19 in our answer line, because there’s no more multiplication steps to do.",
+    "start": 201.54,
+    "duration": 6.4
+  },
+  {
+    "text": "Well… at least there’s no more steps for the FIRST digit.",
+    "start": 207.94,
+    "duration": 2.902
+  },
+  {
+    "text": "Remember, we still have that other bottom digit that we’ve been ignoring.",
+    "start": 210.842,
+    "duration": 3.435
+  },
+  {
+    "text": "NOW we have to multiply IT by each of the top digits also, which means we have three more steps to do.",
+    "start": 214.277,
+    "duration": 6.419
+  },
+  {
+    "text": "It also means that we’ll get a second answer.",
+    "start": 220.696,
+    "duration": 2.7
+  },
+  {
+    "text": "And because we’ll get a second answer, we need to start a second answer line for the next set of steps.",
+    "start": 223.396,
+    "duration": 5.169
+  },
+  {
+    "text": "We’re gonna put our new answer just below the first one.",
+    "start": 228.565,
+    "duration": 3.32
+  },
+  {
+    "text": "So this answer line comes from our first bottom digit, and this answer line will come from our second bottom digit.",
+    "start": 231.885,
+    "duration": 6.435
+  },
+  {
+    "text": "At the very end, after we’re all done multiplying, we’re gonna add the two answers together.",
+    "start": 238.32,
+    "duration": 4.699
+  },
+  {
+    "text": "But for now, let’s continue with the second set of multiplication steps.",
+    "start": 243.019,
+    "duration": 4.619
+  },
+  {
+    "text": "Oh… and I almost forgot to tell you…",
+    "start": 247.638,
+    "duration": 2.418
+  },
+  {
+    "text": "there’s something VERY important that you need to do when you start the second set of steps.",
+    "start": 250.056,
+    "duration": 4.94
+  },
+  {
+    "text": "Because the second digit of the bottom number is in the TENS place,",
+    "start": 255.0,
+    "duration": 3.492
+  },
+  {
+    "text": "that means that even though the digit is only a ‘4’, it’s value is really 40.",
+    "start": 258.492,
+    "duration": 4.402
+  },
+  {
+    "text": "That’s 10 times bigger… so the answer we get should also be 10 times bigger.",
+    "start": 262.894,
+    "duration": 4.5
+  },
+  {
+    "text": "So before we start multiplying, we need to put a ZERO in the first spot of our answer line so it’s 10 times bigger.",
+    "start": 267.394,
+    "duration": 6.954
+  },
+  {
+    "text": "That means that all the other answer digits we put there are shifted to the next bigger number place.",
+    "start": 274.348,
+    "duration": 5.692
+  },
+  {
+    "text": "And (just so you know) if we happened to have a third bottom digit,",
+    "start": 280.04,
+    "duration": 3.795
+  },
+  {
+    "text": "we would get a third answer line, and we’d need to shift the third answer over by TWO zeros, cuz it would be 100 times bigger.",
+    "start": 283.835,
+    "duration": 7.24
+  },
+  {
+    "text": "And if we had a fourth digit, there would be a fourth answer line shifted over by THREE zeros.",
+    "start": 291.08,
+    "duration": 5.02
+  },
+  {
+    "text": "And if we had a fifth bottom digit, there would be a fifth answer line shifted over by FOUR zeros!",
+    "start": 296.107,
+    "duration": 5.36
+  },
+  {
+    "text": "See the pattern?",
+    "start": 301.467,
+    "duration": 1.508
+  },
+  {
+    "text": "Boy am I glad we’ve only got two bottom digits!!",
+    "start": 302.975,
+    "duration": 2.6
+  },
+  {
+    "text": "And now you see why we always put the number with the fewest digits on the bottom when we’re multiplying.",
+    "start": 305.58,
+    "duration": 5.28
+  },
+  {
+    "text": "But let’s continue with our problem…",
+    "start": 310.86,
+    "duration": 2.2
+  },
+  {
+    "text": "Let’s do the first step for our second bottom digit.",
+    "start": 313.06,
+    "duration": 3.1
+  },
+  {
+    "text": "We multiply that digit (4) by the ones place digit of the top number (which is also a ‘4’).",
+    "start": 316.163,
+    "duration": 6.251
+  },
+  {
+    "text": "4 × 4 gives us 16, and that goes in our second answer line, right next to the extra zero we put there.",
+    "start": 322.414,
+    "duration": 6.737
+  },
+  {
+    "text": "Now remember, because 16 is a two-digit answer, we have to carry.",
+    "start": 329.151,
+    "duration": 4.284
+  },
+  {
+    "text": "And we always put the digit we carry above the next top digit that we will multiply.",
+    "start": 333.435,
+    "duration": 4.686
+  },
+  {
+    "text": "But before we can carry it up to that place,",
+    "start": 338.121,
+    "duration": 2.22
+  },
+  {
+    "text": "we need to cross out all the digits that we carried from our first answer line, because we’ve already used them.",
+    "start": 340.341,
+    "duration": 5.199
+  },
+  {
+    "text": "We don’t want to accidentally add them to our second answer line.",
+    "start": 345.54,
+    "duration": 3.401
+  },
+  {
+    "text": "There… so now we can carry our ‘1’ to the top of the tens place, which means it will go in the column above this ‘2’,",
+    "start": 348.941,
+    "duration": 6.06
+  },
+  {
+    "text": "because that’s the next top digit that we’ll multiply with our bottom digit.",
+    "start": 355.001,
+    "duration": 3.879
+  },
+  {
+    "text": "Now we can do the next multiplication step.",
+    "start": 358.88,
+    "duration": 2.48
+  },
+  {
+    "text": "4 × 2 gives us 8, and then we’ll add the ‘1’ that we carried and we get 9.",
+    "start": 361.363,
+    "duration": 4.735
+  },
+  {
+    "text": "Great! …finally a one-digit answer, so we don’t have to carry this time.",
+    "start": 366.098,
+    "duration": 4.285
+  },
+  {
+    "text": "We just write the ‘9’ in the next place of our answer line and move on to the next step.",
+    "start": 370.383,
+    "duration": 4.784
+  },
+  {
+    "text": "The next (and last) multiplication step is 4 × 3 which is 12.",
+    "start": 375.167,
+    "duration": 5.386
+  },
+  {
+    "text": "And since there’s no more steps, we can write both digits in our second answer line.",
+    "start": 380.553,
+    "duration": 4.72
+  },
+  {
+    "text": "All right… we’re finally done with all our multiplication steps.",
+    "start": 385.28,
+    "duration": 4.275
+  },
+  {
+    "text": "We multiplied each bottom digit by each top digit, just like we were supposed to.",
+    "start": 389.555,
+    "duration": 5.14
+  },
+  {
+    "text": "But, now what do we do?  We have two answers lines, but this is just one multiplication problem.",
+    "start": 394.7,
+    "duration": 5.46
+  },
+  {
+    "text": "Well, remember…",
+    "start": 400.16,
+    "duration": 1.233
+  },
+  {
+    "text": "the reason we have two answer lines is that we’re pretending that we’re doing two separate multiplication problems.",
+    "start": 401.393,
+    "duration": 5.686
+  },
+  {
+    "text": "We treated it like it was 6 × 324 and 4 × 324.",
+    "start": 407.079,
+    "duration": 5.335
+  },
+  {
+    "text": "But since the ‘4’ was in the tens place, we had to put an extra zero in our second answer since it would really be the answer from 40 × 324.",
+    "start": 412.414,
+    "duration": 8.902
+  },
+  {
+    "text": "Now as I mentioned earlier, all we have to do to get the final answer is add those two answers together.",
+    "start": 421.316,
+    "duration": 5.22
+  },
+  {
+    "text": "And the great news is that those answers are already stacked up like an addition problem should be,",
+    "start": 426.536,
+    "duration": 5.184
+  },
+  {
+    "text": "so we can just draw a line below them and stick a plus sign on the left side.",
+    "start": 431.72,
+    "duration": 4.436
+  },
+  {
+    "text": "Now we can add them, column by column, starting from ones place, just like we did in the multi-digit addition video.",
+    "start": 436.156,
+    "duration": 6.502
+  },
+  {
+    "text": "4 + 0 = 4",
+    "start": 442.658,
+    "duration": 2.62
+  },
+  {
+    "text": "4 + 6 = 10,  so we carry the ‘1’",
+    "start": 445.28,
+    "duration": 3.68
+  },
+  {
+    "text": "1 + 9 + 9 = 19, so we carry the ‘1’ again.",
+    "start": 448.96,
+    "duration": 5.185
+  },
+  {
+    "text": "1 + 1 + 2 = 4, and then our last answer digit is just 1.",
+    "start": 454.145,
+    "duration": 5.687
+  },
+  {
+    "text": "There, our final answer is a pretty big number: 14,904.",
+    "start": 459.832,
+    "duration": 5.384
+  },
+  {
+    "text": "Let’s double check with a calculator to make sure we got it right.",
+    "start": 465.216,
+    "duration": 5.5
+  },
+  {
+    "text": "Yep, that’s exactly what you get when you multiply 324 by 46.",
+    "start": 470.72,
+    "duration": 5.56
+  },
+  {
+    "text": "Okay, I know that procedure is kinda complicated, so don’t get frustrated if you don’t get it right away.",
+    "start": 476.286,
+    "duration": 5.719
+  },
+  {
+    "text": "It just takes some time and practice to really get the hang of it.",
+    "start": 482.005,
+    "duration": 3.135
+  },
+  {
+    "text": "And you can always re-watch this video if you need to.",
+    "start": 485.14,
+    "duration": 3.051
+  },
+  {
+    "text": "And if you’re a Math Antics subscriber, be sure to check out the extra problems I work in the “Prob with Rob” video examples.",
+    "start": 488.191,
+    "duration": 5.952
+  },
+  {
+    "text": "After that, you can try some of the exercises on your own.",
+    "start": 494.143,
+    "duration": 3.351
+  },
+  {
+    "text": "Thanks for tuning into Math Antics and I’ll see you next time.",
+    "start": 497.5,
+    "duration": 3.3
+  },
+  {
+    "text": "Learn more at www.mathantics.com",
+    "start": 501.42,
+    "duration": 2.22
+  }
+]

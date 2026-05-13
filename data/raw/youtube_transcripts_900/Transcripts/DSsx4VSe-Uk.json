@@ -1,0 +1,1847 @@
+[
+  {
+    "text": "welcome back seing here you're watching",
+    "start": 0.64,
+    "duration": 5.199
+  },
+  {
+    "text": "my turtle programming tutorial Series",
+    "start": 2.96,
+    "duration": 4.76
+  },
+  {
+    "text": "this is intended as a general",
+    "start": 5.839,
+    "duration": 3.84
+  },
+  {
+    "text": "programming tutorial for people with",
+    "start": 7.72,
+    "duration": 4.56
+  },
+  {
+    "text": "zero programming experience at all use",
+    "start": 9.679,
+    "duration": 4.641
+  },
+  {
+    "text": "the computercraft mods these Turtles are",
+    "start": 12.28,
+    "duration": 4.48
+  },
+  {
+    "text": "from the computercraft mod and you can",
+    "start": 14.32,
+    "duration": 3.719
+  },
+  {
+    "text": "find that in the video description",
+    "start": 16.76,
+    "duration": 2.439
+  },
+  {
+    "text": "although I'm going to be using the Feed",
+    "start": 18.039,
+    "duration": 4.601
+  },
+  {
+    "text": "The Beast mod pack in these videos uh",
+    "start": 19.199,
+    "duration": 5.521
+  },
+  {
+    "text": "turtles use Lua which is a programming",
+    "start": 22.64,
+    "duration": 4.76
+  },
+  {
+    "text": "language but the principles that uh that",
+    "start": 24.72,
+    "duration": 4.52
+  },
+  {
+    "text": "I'll be teaching are common to most",
+    "start": 27.4,
+    "duration": 3.44
+  },
+  {
+    "text": "programming languages so it should be",
+    "start": 29.24,
+    "duration": 3.92
+  },
+  {
+    "text": "very useful and I encourage you to",
+    "start": 30.84,
+    "duration": 4.6
+  },
+  {
+    "text": "follow along on your own and hope you",
+    "start": 33.16,
+    "duration": 3.28
+  },
+  {
+    "text": "learn something",
+    "start": 35.44,
+    "duration": 2.92
+  },
+  {
+    "text": "valuable all right so the first thing we",
+    "start": 36.44,
+    "duration": 3.68
+  },
+  {
+    "text": "need to ask ourselves is what is a",
+    "start": 38.36,
+    "duration": 4.44
+  },
+  {
+    "text": "turtle a turtle is a type of computer",
+    "start": 40.12,
+    "duration": 4.72
+  },
+  {
+    "text": "that can move around and first thing I",
+    "start": 42.8,
+    "duration": 4.2
+  },
+  {
+    "text": "need to do is craft one this is the",
+    "start": 44.84,
+    "duration": 4.92
+  },
+  {
+    "text": "crafting recipe uh this this will make a",
+    "start": 47.0,
+    "duration": 6.0
+  },
+  {
+    "text": "computer here computer and then to make",
+    "start": 49.76,
+    "duration": 5.24
+  },
+  {
+    "text": "a turtle out of the computer we surround",
+    "start": 53.0,
+    "duration": 4.52
+  },
+  {
+    "text": "the turtle with iron and add a chest",
+    "start": 55.0,
+    "duration": 4.32
+  },
+  {
+    "text": "because the turtle has an inventory and",
+    "start": 57.52,
+    "duration": 3.12
+  },
+  {
+    "text": "the last thing I'm going to do is I make",
+    "start": 59.32,
+    "duration": 4.239
+  },
+  {
+    "text": "it a a mining Turtle so that it it can",
+    "start": 60.64,
+    "duration": 4.92
+  },
+  {
+    "text": "mine stuff in addition to moving around",
+    "start": 63.559,
+    "duration": 3.321
+  },
+  {
+    "text": "now this is a turtle when we put it on",
+    "start": 65.56,
+    "duration": 3.919
+  },
+  {
+    "text": "the grounds we have our Turtle this is",
+    "start": 66.88,
+    "duration": 4.279
+  },
+  {
+    "text": "what it looks like this is the front of",
+    "start": 69.479,
+    "duration": 4.32
+  },
+  {
+    "text": "the turtle it's got kind of eyes here or",
+    "start": 71.159,
+    "duration": 5.201
+  },
+  {
+    "text": "a sensor and in the back it's got I",
+    "start": 73.799,
+    "duration": 5.401
+  },
+  {
+    "text": "don't know some sort of Port um I'm in",
+    "start": 76.36,
+    "duration": 5.2
+  },
+  {
+    "text": "creative mode so I got an extra turtle",
+    "start": 79.2,
+    "duration": 4.8
+  },
+  {
+    "text": "out of that now when you right click on",
+    "start": 81.56,
+    "duration": 6.32
+  },
+  {
+    "text": "the turtle you get a command prompt now",
+    "start": 84.0,
+    "duration": 5.439
+  },
+  {
+    "text": "some of you know what this is probably a",
+    "start": 87.88,
+    "duration": 2.919
+  },
+  {
+    "text": "lot of you",
+    "start": 89.439,
+    "duration": 5.081
+  },
+  {
+    "text": "command prompt is an interactive way of",
+    "start": 90.799,
+    "duration": 6.561
+  },
+  {
+    "text": "well interacting with the turtle now the",
+    "start": 94.52,
+    "duration": 5.12
+  },
+  {
+    "text": "turtle has a directory structure so if I",
+    "start": 97.36,
+    "duration": 3.399
+  },
+  {
+    "text": "type",
+    "start": 99.64,
+    "duration": 3.88
+  },
+  {
+    "text": "durd I can see a list of the directories",
+    "start": 100.759,
+    "duration": 6.881
+  },
+  {
+    "text": "or folders in the root directory the",
+    "start": 103.52,
+    "duration": 5.599
+  },
+  {
+    "text": "root directory is just the default",
+    "start": 107.64,
+    "duration": 3.759
+  },
+  {
+    "text": "directory that's at the top level um if",
+    "start": 109.119,
+    "duration": 4.32
+  },
+  {
+    "text": "I type CD which stands for change",
+    "start": 111.399,
+    "duration": 4.801
+  },
+  {
+    "text": "directory I can go to the ROM folder",
+    "start": 113.439,
+    "duration": 5.801
+  },
+  {
+    "text": "here I can type dur again to see what",
+    "start": 116.2,
+    "duration": 4.16
+  },
+  {
+    "text": "folders",
+    "start": 119.24,
+    "duration": 4.6
+  },
+  {
+    "text": "reside in the ROM folder if I type CD do",
+    "start": 120.36,
+    "duration": 5.92
+  },
+  {
+    "text": "dot uh that will take me up a level back",
+    "start": 123.84,
+    "duration": 6.8
+  },
+  {
+    "text": "to the root level uh I can type uh MK",
+    "start": 126.28,
+    "duration": 6.52
+  },
+  {
+    "text": "dur to create a directory create a",
+    "start": 130.64,
+    "duration": 4.84
+  },
+  {
+    "text": "folder it stands for a make directory",
+    "start": 132.8,
+    "duration": 5.68
+  },
+  {
+    "text": "and so inance I could make a directory",
+    "start": 135.48,
+    "duration": 5.2
+  },
+  {
+    "text": "called Prague and then if I type dur now",
+    "start": 138.48,
+    "duration": 3.92
+  },
+  {
+    "text": "that'll show up next to",
+    "start": 140.68,
+    "duration": 5.68
+  },
+  {
+    "text": "ROM uh if I go in there it'll be empty",
+    "start": 142.4,
+    "duration": 8.119
+  },
+  {
+    "text": "if I type dur so just creates an empty",
+    "start": 146.36,
+    "duration": 7.36
+  },
+  {
+    "text": "folder uh now if I go into the ROM",
+    "start": 150.519,
+    "duration": 5.561
+  },
+  {
+    "text": "directory we can see there are several",
+    "start": 153.72,
+    "duration": 5.0
+  },
+  {
+    "text": "directories here The Helpful thing about",
+    "start": 156.08,
+    "duration": 5.28
+  },
+  {
+    "text": "this is that okay so ROM stands for",
+    "start": 158.72,
+    "duration": 5.48
+  },
+  {
+    "text": "readon memory which means you can't edit",
+    "start": 161.36,
+    "duration": 4.4
+  },
+  {
+    "text": "any of the programs or any of the",
+    "start": 164.2,
+    "duration": 3.6
+  },
+  {
+    "text": "folders or anything that resides in this",
+    "start": 165.76,
+    "duration": 6.0
+  },
+  {
+    "text": "folder so if I go to programs uh it it",
+    "start": 167.8,
+    "duration": 6.079
+  },
+  {
+    "text": "contains a list of the built-in programs",
+    "start": 171.76,
+    "duration": 6.96
+  },
+  {
+    "text": "if I type dur again we can see a list of",
+    "start": 173.879,
+    "duration": 8.161
+  },
+  {
+    "text": "the folders and files in this",
+    "start": 178.72,
+    "duration": 6.32
+  },
+  {
+    "text": "directory colored computer HTTP secret",
+    "start": 182.04,
+    "duration": 4.88
+  },
+  {
+    "text": "and turtle are the folders and then",
+    "start": 185.04,
+    "duration": 4.279
+  },
+  {
+    "text": "everything after that are files which",
+    "start": 186.92,
+    "duration": 3.52
+  },
+  {
+    "text": "are",
+    "start": 189.319,
+    "duration": 3.48
+  },
+  {
+    "text": "programs um if I go to the turtle",
+    "start": 190.44,
+    "duration": 4.439
+  },
+  {
+    "text": "directory it contains a list of programs",
+    "start": 192.799,
+    "duration": 6.36
+  },
+  {
+    "text": "which are useful for turtles so these",
+    "start": 194.879,
+    "duration": 7.121
+  },
+  {
+    "text": "are fun to play around with on your own",
+    "start": 199.159,
+    "duration": 4.561
+  },
+  {
+    "text": "uh you might look look online to see",
+    "start": 202.0,
+    "duration": 4.64
+  },
+  {
+    "text": "what they do uh you can also look at",
+    "start": 203.72,
+    "duration": 6.879
+  },
+  {
+    "text": "them in order to see what code uh runs",
+    "start": 206.64,
+    "duration": 7.04
+  },
+  {
+    "text": "the program so if I type edit let's see",
+    "start": 210.599,
+    "duration": 6.801
+  },
+  {
+    "text": "what's a good program to look at maybe",
+    "start": 213.68,
+    "duration": 8.16
+  },
+  {
+    "text": "um dance now I'm in in a editor this is",
+    "start": 217.4,
+    "duration": 6.72
+  },
+  {
+    "text": "this is the code this is the alua code",
+    "start": 221.84,
+    "duration": 5.44
+  },
+  {
+    "text": "that runs the program called Turn uh I",
+    "start": 224.12,
+    "duration": 5.0
+  },
+  {
+    "text": "don't think there's too much code to it",
+    "start": 227.28,
+    "duration": 4.159
+  },
+  {
+    "text": "it's just a lot of turn rights turn",
+    "start": 229.12,
+    "duration": 5.52
+  },
+  {
+    "text": "lefts some backs and stuff um but this",
+    "start": 231.439,
+    "duration": 5.88
+  },
+  {
+    "text": "is what the code looks like uh it's it",
+    "start": 234.64,
+    "duration": 4.799
+  },
+  {
+    "text": "may look like a jumble to you right now",
+    "start": 237.319,
+    "duration": 3.48
+  },
+  {
+    "text": "if you don't know anything about",
+    "start": 239.439,
+    "duration": 4.401
+  },
+  {
+    "text": "programming but as we learn about this",
+    "start": 240.799,
+    "duration": 4.44
+  },
+  {
+    "text": "stuff you're going to learn what all of",
+    "start": 243.84,
+    "duration": 5.319
+  },
+  {
+    "text": "this stuff does and so I can like it",
+    "start": 245.239,
+    "duration": 5.72
+  },
+  {
+    "text": "says at the bottom of the terminal here",
+    "start": 249.159,
+    "duration": 4.201
+  },
+  {
+    "text": "I can press control to access the menu",
+    "start": 250.959,
+    "duration": 4.36
+  },
+  {
+    "text": "and so now I can either save or exit or",
+    "start": 253.36,
+    "duration": 3.48
+  },
+  {
+    "text": "print I didn't make any changes but if I",
+    "start": 255.319,
+    "duration": 3.6
+  },
+  {
+    "text": "did I could save those changes with save",
+    "start": 256.84,
+    "duration": 5.16
+  },
+  {
+    "text": "I'm just going to exit um and we can",
+    "start": 258.919,
+    "duration": 5.761
+  },
+  {
+    "text": "actually run the dance program here and",
+    "start": 262.0,
+    "duration": 4.88
+  },
+  {
+    "text": "we can see the turtle is preparing to",
+    "start": 264.68,
+    "duration": 5.12
+  },
+  {
+    "text": "get down um I can press any key to stop",
+    "start": 266.88,
+    "duration": 6.52
+  },
+  {
+    "text": "the groove he's doing his little",
+    "start": 269.8,
+    "duration": 8.8
+  },
+  {
+    "text": "dance I guess he he stopped anyway uh so",
+    "start": 273.4,
+    "duration": 6.44
+  },
+  {
+    "text": "we're going to go over a lot of the",
+    "start": 278.6,
+    "duration": 3.28
+  },
+  {
+    "text": "stuff that you need in order to write",
+    "start": 279.84,
+    "duration": 4.56
+  },
+  {
+    "text": "your own programs so I'm going to get",
+    "start": 281.88,
+    "duration": 6.48
+  },
+  {
+    "text": "out of out of here um we going go back",
+    "start": 284.4,
+    "duration": 6.799
+  },
+  {
+    "text": "to the root folder",
+    "start": 288.36,
+    "duration": 5.2
+  },
+  {
+    "text": "and so the next thing I want to show you",
+    "start": 291.199,
+    "duration": 5.081
+  },
+  {
+    "text": "is the Lua interpreter Lua is the",
+    "start": 293.56,
+    "duration": 5.0
+  },
+  {
+    "text": "programming R programming language that",
+    "start": 296.28,
+    "duration": 4.04
+  },
+  {
+    "text": "runs the turtles program",
+    "start": 298.56,
+    "duration": 3.4
+  },
+  {
+    "text": "if I type Lua",
+    "start": 300.32,
+    "duration": 5.8
+  },
+  {
+    "text": "luua I'll get an interactive Lua prompt",
+    "start": 301.96,
+    "duration": 6.079
+  },
+  {
+    "text": "you say you can see it says call exit",
+    "start": 306.12,
+    "duration": 6.32
+  },
+  {
+    "text": "perin pin to exit uh in this Lua prompt",
+    "start": 308.039,
+    "duration": 6.761
+  },
+  {
+    "text": "we can actually type in source code and",
+    "start": 312.44,
+    "duration": 4.52
+  },
+  {
+    "text": "it will run it immediately so for",
+    "start": 314.8,
+    "duration": 5.04
+  },
+  {
+    "text": "instance if I take a look at the turtle",
+    "start": 316.96,
+    "duration": 6.0
+  },
+  {
+    "text": "he's facing this direction if I type",
+    "start": 319.84,
+    "duration": 6.919
+  },
+  {
+    "text": "Turtle turtle. turn right and then open",
+    "start": 322.96,
+    "duration": 6.4
+  },
+  {
+    "text": "parenthesis close parenthesis the turtle",
+    "start": 326.759,
+    "duration": 5.401
+  },
+  {
+    "text": "turn right see I change directions",
+    "start": 329.36,
+    "duration": 7.399
+  },
+  {
+    "text": "similarly I can do turtle. turn left and",
+    "start": 332.16,
+    "duration": 6.2
+  },
+  {
+    "text": "the turtle turns left you'll notice each",
+    "start": 336.759,
+    "duration": 4.481
+  },
+  {
+    "text": "time I I open and close the terminal it",
+    "start": 338.36,
+    "duration": 4.24
+  },
+  {
+    "text": "stays where it was we're still in the",
+    "start": 341.24,
+    "duration": 4.04
+  },
+  {
+    "text": "Lua interpreter that's useful now I can",
+    "start": 342.6,
+    "duration": 4.8
+  },
+  {
+    "text": "type turtle. forward and that'll try and",
+    "start": 345.28,
+    "duration": 4.28
+  },
+  {
+    "text": "make it go forward you can see it says",
+    "start": 347.4,
+    "duration": 6.6
+  },
+  {
+    "text": "false after that and it didn't move uh",
+    "start": 349.56,
+    "duration": 5.96
+  },
+  {
+    "text": "that's because it doesn't have any",
+    "start": 354.0,
+    "duration": 5.4
+  },
+  {
+    "text": "fuel so there are some things we can do",
+    "start": 355.52,
+    "duration": 5.36
+  },
+  {
+    "text": "uh that we'll need to do in order to get",
+    "start": 359.4,
+    "duration": 4.4
+  },
+  {
+    "text": "the turtle fueled up if I take a look at",
+    "start": 360.88,
+    "duration": 7.2
+  },
+  {
+    "text": "turtle. getet item count this is a",
+    "start": 363.8,
+    "duration": 7.76
+  },
+  {
+    "text": "what's called a function that will get",
+    "start": 368.08,
+    "duration": 5.239
+  },
+  {
+    "text": "the item count for a particular slot in",
+    "start": 371.56,
+    "duration": 3.0
+  },
+  {
+    "text": "the turtle's inventory if you look to",
+    "start": 373.319,
+    "duration": 3.0
+  },
+  {
+    "text": "the right of my inventory you'll see 16",
+    "start": 374.56,
+    "duration": 4.88
+  },
+  {
+    "text": "slots which the turtle has as its",
+    "start": 376.319,
+    "duration": 6.801
+  },
+  {
+    "text": "inventory now the first slot is the top",
+    "start": 379.44,
+    "duration": 5.12
+  },
+  {
+    "text": "left and then it goes in reading order",
+    "start": 383.12,
+    "duration": 3.199
+  },
+  {
+    "text": "so the bottom slot is the bottom or",
+    "start": 384.56,
+    "duration": 4.359
+  },
+  {
+    "text": "sorry the the last slot the 16th slot is",
+    "start": 386.319,
+    "duration": 4.561
+  },
+  {
+    "text": "the bottom right so if I type turtle.",
+    "start": 388.919,
+    "duration": 6.081
+  },
+  {
+    "text": "getet item count 1 it says zero if I put",
+    "start": 390.88,
+    "duration": 7.28
+  },
+  {
+    "text": "three coal there and repeat the commands",
+    "start": 395.0,
+    "duration": 6.319
+  },
+  {
+    "text": "now it'll say three uh if I try it on",
+    "start": 398.16,
+    "duration": 5.759
+  },
+  {
+    "text": "the second slot it says zero you can see",
+    "start": 401.319,
+    "duration": 4.28
+  },
+  {
+    "text": "if I put another item here and now it'll",
+    "start": 403.919,
+    "duration": 5.761
+  },
+  {
+    "text": "say one okay so this is how the turtle",
+    "start": 405.599,
+    "duration": 6.44
+  },
+  {
+    "text": "can tell how many items it has in each",
+    "start": 409.68,
+    "duration": 4.639
+  },
+  {
+    "text": "slot it can't tell what type of item is",
+    "start": 412.039,
+    "duration": 4.481
+  },
+  {
+    "text": "in each slot so that's something you're",
+    "start": 414.319,
+    "duration": 3.72
+  },
+  {
+    "text": "going to kind of have to manage for the",
+    "start": 416.52,
+    "duration": 3.84
+  },
+  {
+    "text": "turtle but we'll kind of talk about that",
+    "start": 418.039,
+    "duration": 4.801
+  },
+  {
+    "text": "later uh we can have the turtle select",
+    "start": 420.36,
+    "duration": 3.959
+  },
+  {
+    "text": "different slots in its inventory you'll",
+    "start": 422.84,
+    "duration": 4.0
+  },
+  {
+    "text": "notice the first slot is kind of",
+    "start": 424.319,
+    "duration": 5.88
+  },
+  {
+    "text": "selected right now if we select slot two",
+    "start": 426.84,
+    "duration": 6.72
+  },
+  {
+    "text": "uh that'll be selected select slot 16",
+    "start": 430.199,
+    "duration": 5.081
+  },
+  {
+    "text": "that'll move it move the selection to",
+    "start": 433.56,
+    "duration": 3.6
+  },
+  {
+    "text": "the bottom",
+    "start": 435.28,
+    "duration": 5.52
+  },
+  {
+    "text": "left um so these are just the different",
+    "start": 437.16,
+    "duration": 6.08
+  },
+  {
+    "text": "functions that the turtle has now we can",
+    "start": 440.8,
+    "duration": 4.839
+  },
+  {
+    "text": "refuel the turtle uh first of all let's",
+    "start": 443.24,
+    "duration": 3.76
+  },
+  {
+    "text": "take a look at what the current fuel",
+    "start": 445.639,
+    "duration": 3.4
+  },
+  {
+    "text": "level is is for the turtle we haven't",
+    "start": 447.0,
+    "duration": 4.36
+  },
+  {
+    "text": "put any fuel in it at all this is the",
+    "start": 449.039,
+    "duration": 4.521
+  },
+  {
+    "text": "function get fuel level has to have a",
+    "start": 451.36,
+    "duration": 5.559
+  },
+  {
+    "text": "capital f and capital L uh and it'll",
+    "start": 453.56,
+    "duration": 5.16
+  },
+  {
+    "text": "return zero so there's no fuel in it",
+    "start": 456.919,
+    "duration": 4.4
+  },
+  {
+    "text": "which means it it can move zero blocks",
+    "start": 458.72,
+    "duration": 6.08
+  },
+  {
+    "text": "so if we type turtle. refuel one what",
+    "start": 461.319,
+    "duration": 6.32
+  },
+  {
+    "text": "this will do is it will look in the",
+    "start": 464.8,
+    "duration": 5.76
+  },
+  {
+    "text": "selected slot for some fuel source and",
+    "start": 467.639,
+    "duration": 5.441
+  },
+  {
+    "text": "if there is a fuel source it'll consume",
+    "start": 470.56,
+    "duration": 5.12
+  },
+  {
+    "text": "one item of that fuel source it'll use",
+    "start": 473.08,
+    "duration": 5.519
+  },
+  {
+    "text": "one Fuel and it returns true which means",
+    "start": 475.68,
+    "duration": 5.72
+  },
+  {
+    "text": "that it was able to assume one Fuel and",
+    "start": 478.599,
+    "duration": 6.081
+  },
+  {
+    "text": "now if we try turtle. get fuel level",
+    "start": 481.4,
+    "duration": 5.72
+  },
+  {
+    "text": "again it says 96 that means it'll be",
+    "start": 484.68,
+    "duration": 5.919
+  },
+  {
+    "text": "able to move 96 PL so if I type turtle.",
+    "start": 487.12,
+    "duration": 6.079
+  },
+  {
+    "text": "forward remember before this returned",
+    "start": 490.599,
+    "duration": 5.6
+  },
+  {
+    "text": "false uh it'll return true notice that I",
+    "start": 493.199,
+    "duration": 6.161
+  },
+  {
+    "text": "need the parentheses for this it's just",
+    "start": 496.199,
+    "duration": 6.72
+  },
+  {
+    "text": "a convention for functions functions are",
+    "start": 499.36,
+    "duration": 6.04
+  },
+  {
+    "text": "just things that do stuff and they're",
+    "start": 502.919,
+    "duration": 4.4
+  },
+  {
+    "text": "very important to programming this time",
+    "start": 505.4,
+    "duration": 4.6
+  },
+  {
+    "text": "turtle. forward return true and it",
+    "start": 507.319,
+    "duration": 4.921
+  },
+  {
+    "text": "actually did move a little bit forward",
+    "start": 510.0,
+    "duration": 4.64
+  },
+  {
+    "text": "uh let me try it again",
+    "start": 512.24,
+    "duration": 4.76
+  },
+  {
+    "text": "forward returned true now if I type",
+    "start": 514.64,
+    "duration": 5.36
+  },
+  {
+    "text": "turtle. get fuel level again we can see",
+    "start": 517.0,
+    "duration": 5.08
+  },
+  {
+    "text": "now it's 94 because it's moved two",
+    "start": 520.0,
+    "duration": 4.32
+  },
+  {
+    "text": "blocks uh some other functions that",
+    "start": 522.08,
+    "duration": 3.879
+  },
+  {
+    "text": "allow the turtle to move around Turtle",
+    "start": 524.32,
+    "duration": 5.28
+  },
+  {
+    "text": "dot up you can see it moved up by one uh",
+    "start": 525.959,
+    "duration": 7.601
+  },
+  {
+    "text": "Turtle dot down moves down by one uh if",
+    "start": 529.6,
+    "duration": 6.0
+  },
+  {
+    "text": "I type turtle. down again it's going to",
+    "start": 533.56,
+    "duration": 3.719
+  },
+  {
+    "text": "return false because there's a block in",
+    "start": 535.6,
+    "duration": 4.72
+  },
+  {
+    "text": "the way it can't move through a block",
+    "start": 537.279,
+    "duration": 5.161
+  },
+  {
+    "text": "and so it's going to try and go down",
+    "start": 540.32,
+    "duration": 4.0
+  },
+  {
+    "text": "it's not going to be able to and it'll",
+    "start": 542.44,
+    "duration": 3.6
+  },
+  {
+    "text": "return false now you'll notice each of",
+    "start": 544.32,
+    "duration": 4.759
+  },
+  {
+    "text": "these functions returned a value",
+    "start": 546.04,
+    "duration": 4.32
+  },
+  {
+    "text": "sometimes it was a number like in the",
+    "start": 549.079,
+    "duration": 3.88
+  },
+  {
+    "text": "case of get fuel level uh sometimes it",
+    "start": 550.36,
+    "duration": 4.719
+  },
+  {
+    "text": "was true or false which is called a",
+    "start": 552.959,
+    "duration": 5.161
+  },
+  {
+    "text": "Boolean variable Boolean value uh a",
+    "start": 555.079,
+    "duration": 4.841
+  },
+  {
+    "text": "Boolean value is just something that is",
+    "start": 558.12,
+    "duration": 5.64
+  },
+  {
+    "text": "true or false it's like a condition",
+    "start": 559.92,
+    "duration": 5.68
+  },
+  {
+    "text": "or",
+    "start": 563.76,
+    "duration": 4.639
+  },
+  {
+    "text": "yeah okay so we're going to write our",
+    "start": 565.6,
+    "duration": 4.88
+  },
+  {
+    "text": "first program now",
+    "start": 568.399,
+    "duration": 4.521
+  },
+  {
+    "text": "and I'm going to call oh actually",
+    "start": 570.48,
+    "duration": 3.76
+  },
+  {
+    "text": "there's one thing I want to get to First",
+    "start": 572.92,
+    "duration": 4.159
+  },
+  {
+    "text": "there's a print print function so if I",
+    "start": 574.24,
+    "duration": 4.039
+  },
+  {
+    "text": "print hello",
+    "start": 577.079,
+    "duration": 5.081
+  },
+  {
+    "text": "world it will print hello world to the",
+    "start": 578.279,
+    "duration": 6.881
+  },
+  {
+    "text": "console and then it returned one I'm not",
+    "start": 582.16,
+    "duration": 4.96
+  },
+  {
+    "text": "actually sure I'm not actually sure what",
+    "start": 585.16,
+    "duration": 4.28
+  },
+  {
+    "text": "that means um I think that means that it",
+    "start": 587.12,
+    "duration": 3.6
+  },
+  {
+    "text": "succeeded",
+    "start": 589.44,
+    "duration": 3.92
+  },
+  {
+    "text": "but uh yeah again I'm not I'm not really",
+    "start": 590.72,
+    "duration": 5.239
+  },
+  {
+    "text": "sure I'll have to look that up later uh",
+    "start": 593.36,
+    "duration": 4.52
+  },
+  {
+    "text": "okay so now I'm going to get get out of",
+    "start": 595.959,
+    "duration": 3.961
+  },
+  {
+    "text": "the L interpreter",
+    "start": 597.88,
+    "duration": 4.04
+  },
+  {
+    "text": "uh remember all of these things were",
+    "start": 599.92,
+    "duration": 5.88
+  },
+  {
+    "text": "code that Lua code that we could execute",
+    "start": 601.92,
+    "duration": 5.76
+  },
+  {
+    "text": "because we were in Lua interpreter when",
+    "start": 605.8,
+    "duration": 3.52
+  },
+  {
+    "text": "I type exit with two parentheses I'm",
+    "start": 607.68,
+    "duration": 3.0
+  },
+  {
+    "text": "going to get out of the L interpreter",
+    "start": 609.32,
+    "duration": 4.6
+  },
+  {
+    "text": "I'm back in the command line um I can",
+    "start": 610.68,
+    "duration": 4.92
+  },
+  {
+    "text": "type dur again and see where we are",
+    "start": 613.92,
+    "duration": 3.56
+  },
+  {
+    "text": "we're in the root one we have the Prague",
+    "start": 615.6,
+    "duration": 4.16
+  },
+  {
+    "text": "directory and the the ROM directory now",
+    "start": 617.48,
+    "duration": 6.12
+  },
+  {
+    "text": "if I try something like turtle. up it's",
+    "start": 619.76,
+    "duration": 6.16
+  },
+  {
+    "text": "going to be confused because that's not",
+    "start": 623.6,
+    "duration": 4.2
+  },
+  {
+    "text": "a program we're not in the L interpret",
+    "start": 625.92,
+    "duration": 3.88
+  },
+  {
+    "text": "any interpreter anymore so it's not",
+    "start": 627.8,
+    "duration": 5.64
+  },
+  {
+    "text": "going to work it's getting night",
+    "start": 629.8,
+    "duration": 6.12
+  },
+  {
+    "text": "time okay",
+    "start": 633.44,
+    "duration": 5.839
+  },
+  {
+    "text": "so um we're going to create a program so",
+    "start": 635.92,
+    "duration": 4.64
+  },
+  {
+    "text": "in order to create a program I'm just",
+    "start": 639.279,
+    "duration": 3.201
+  },
+  {
+    "text": "going to type edits and then name the",
+    "start": 640.56,
+    "duration": 4.16
+  },
+  {
+    "text": "program I'm going to call this one check",
+    "start": 642.48,
+    "duration": 4.72
+  },
+  {
+    "text": "fuel and this will put us in the editor",
+    "start": 644.72,
+    "duration": 3.96
+  },
+  {
+    "text": "this is what we saw before when we were",
+    "start": 647.2,
+    "duration": 4.12
+  },
+  {
+    "text": "editing the source code for the dance",
+    "start": 648.68,
+    "duration": 5.959
+  },
+  {
+    "text": "program uh so the first thing I want",
+    "start": 651.32,
+    "duration": 5.72
+  },
+  {
+    "text": "this program to do is print that it's",
+    "start": 654.639,
+    "duration": 3.44
+  },
+  {
+    "text": "checking the",
+    "start": 657.04,
+    "duration": 4.12
+  },
+  {
+    "text": "fuel and and so that's what this line",
+    "start": 658.079,
+    "duration": 7.161
+  },
+  {
+    "text": "will do um now I want to use an if",
+    "start": 661.16,
+    "duration": 5.88
+  },
+  {
+    "text": "statement if statements are really",
+    "start": 665.24,
+    "duration": 3.56
+  },
+  {
+    "text": "important for programming they check if",
+    "start": 667.04,
+    "duration": 3.28
+  },
+  {
+    "text": "conditions are true and if they are they",
+    "start": 668.8,
+    "duration": 3.719
+  },
+  {
+    "text": "execute some code so for instance I'm",
+    "start": 670.32,
+    "duration": 3.8
+  },
+  {
+    "text": "going to type",
+    "start": 672.519,
+    "duration": 4.56
+  },
+  {
+    "text": "turtle. get fuel level remember that",
+    "start": 674.12,
+    "duration": 4.56
+  },
+  {
+    "text": "this returned the fuel level of the",
+    "start": 677.079,
+    "duration": 3.841
+  },
+  {
+    "text": "turtle and I'm going to check if that's",
+    "start": 678.68,
+    "duration": 4.92
+  },
+  {
+    "text": "less than 200 so basically we have some",
+    "start": 680.92,
+    "duration": 5.719
+  },
+  {
+    "text": "code here turtle. getet fuel level uh",
+    "start": 683.6,
+    "duration": 5.359
+  },
+  {
+    "text": "less than 200 that's either going to",
+    "start": 686.639,
+    "duration": 5.121
+  },
+  {
+    "text": "return true or false remember turtle.",
+    "start": 688.959,
+    "duration": 4.56
+  },
+  {
+    "text": "get fuel level returned an integer a",
+    "start": 691.76,
+    "duration": 3.519
+  },
+  {
+    "text": "number that's going to be compared to",
+    "start": 693.519,
+    "duration": 4.12
+  },
+  {
+    "text": "200 if it is less than 200 this whole",
+    "start": 695.279,
+    "duration": 4.081
+  },
+  {
+    "text": "thing this whole thing turtle. getet",
+    "start": 697.639,
+    "duration": 4.121
+  },
+  {
+    "text": "fuel level less than 200 will evaluate",
+    "start": 699.36,
+    "duration": 5.24
+  },
+  {
+    "text": "to True otherwise if it's greater than",
+    "start": 701.76,
+    "duration": 5.48
+  },
+  {
+    "text": "or equal to 2 200 it'll evaluate to",
+    "start": 704.6,
+    "duration": 5.799
+  },
+  {
+    "text": "false uh then we need a",
+    "start": 707.24,
+    "duration": 6.399
+  },
+  {
+    "text": "then uh that's just part of the if",
+    "start": 710.399,
+    "duration": 6.56
+  },
+  {
+    "text": "then uh syntax that's how you type it",
+    "start": 713.639,
+    "duration": 6.32
+  },
+  {
+    "text": "out um and then we have some other",
+    "start": 716.959,
+    "duration": 4.521
+  },
+  {
+    "text": "statements now some other things I could",
+    "start": 719.959,
+    "duration": 4.921
+  },
+  {
+    "text": "have done here I could type if true then",
+    "start": 721.48,
+    "duration": 5.479
+  },
+  {
+    "text": "uh and that would just always execute",
+    "start": 724.88,
+    "duration": 4.88
+  },
+  {
+    "text": "the statements but let me let me finish",
+    "start": 726.959,
+    "duration": 5.041
+  },
+  {
+    "text": "this this statement here so we're going",
+    "start": 729.76,
+    "duration": 4.12
+  },
+  {
+    "text": "to type if turtle. get fuel level is",
+    "start": 732.0,
+    "duration": 4.839
+  },
+  {
+    "text": "less than 200 then we're going to indent",
+    "start": 733.88,
+    "duration": 4.72
+  },
+  {
+    "text": "this just because it's um common",
+    "start": 736.839,
+    "duration": 4.601
+  },
+  {
+    "text": "practice to indent blocks of code that",
+    "start": 738.6,
+    "duration": 4.56
+  },
+  {
+    "text": "happen within if",
+    "start": 741.44,
+    "duration": 6.24
+  },
+  {
+    "text": "statements uh turtle. refuel one so it's",
+    "start": 743.16,
+    "duration": 6.039
+  },
+  {
+    "text": "going to try and refuel from the",
+    "start": 747.68,
+    "duration": 3.959
+  },
+  {
+    "text": "selected slot and",
+    "start": 749.199,
+    "duration": 7.041
+  },
+  {
+    "text": "then uh and then we'll PL we'll print",
+    "start": 751.639,
+    "duration": 6.76
+  },
+  {
+    "text": "refueling okay then we're going to use",
+    "start": 756.24,
+    "duration": 2.959
+  },
+  {
+    "text": "an",
+    "start": 758.399,
+    "duration": 4.641
+  },
+  {
+    "text": "else so let me just finish doing all",
+    "start": 759.199,
+    "duration": 6.961
+  },
+  {
+    "text": "this and I'll explain this else I'm",
+    "start": 763.04,
+    "duration": 5.159
+  },
+  {
+    "text": "going to print no fuel necessary and",
+    "start": 766.16,
+    "duration": 3.76
+  },
+  {
+    "text": "then end so these are all really",
+    "start": 768.199,
+    "duration": 5.32
+  },
+  {
+    "text": "important so if then else end or the",
+    "start": 769.92,
+    "duration": 5.76
+  },
+  {
+    "text": "critical structures to the to the if",
+    "start": 773.519,
+    "duration": 4.361
+  },
+  {
+    "text": "statement so we have if and then a",
+    "start": 775.68,
+    "duration": 4.08
+  },
+  {
+    "text": "condition and if that condition",
+    "start": 777.88,
+    "duration": 4.48
+  },
+  {
+    "text": "evaluates to true then it's going to do",
+    "start": 779.76,
+    "duration": 4.639
+  },
+  {
+    "text": "the things in the top indented section",
+    "start": 782.36,
+    "duration": 4.64
+  },
+  {
+    "text": "here so turtle. refuel one print",
+    "start": 784.399,
+    "duration": 5.961
+  },
+  {
+    "text": "refueling if that condition wasn't true",
+    "start": 787.0,
+    "duration": 5.92
+  },
+  {
+    "text": "then it's going to do what's in the else",
+    "start": 790.36,
+    "duration": 4.919
+  },
+  {
+    "text": "part of the uh if statement it's going",
+    "start": 792.92,
+    "duration": 4.919
+  },
+  {
+    "text": "to do the print no fuel necessary so",
+    "start": 795.279,
+    "duration": 5.24
+  },
+  {
+    "text": "this should all be pretty logical uh if",
+    "start": 797.839,
+    "duration": 4.521
+  },
+  {
+    "text": "you know if we don't have much fuel left",
+    "start": 800.519,
+    "duration": 5.081
+  },
+  {
+    "text": "then we want to refuel and we can print",
+    "start": 802.36,
+    "duration": 5.4
+  },
+  {
+    "text": "out what we're doing and if we have",
+    "start": 805.6,
+    "duration": 3.84
+  },
+  {
+    "text": "plenty of fuel left more than 200 100",
+    "start": 807.76,
+    "duration": 2.92
+  },
+  {
+    "text": "then we can just say that there's no",
+    "start": 809.44,
+    "duration": 4.0
+  },
+  {
+    "text": "fuel necessary now if I exit this",
+    "start": 810.68,
+    "duration": 4.92
+  },
+  {
+    "text": "program sorry I have to save the program",
+    "start": 813.44,
+    "duration": 3.959
+  },
+  {
+    "text": "first I have to save all the changes",
+    "start": 815.6,
+    "duration": 4.599
+  },
+  {
+    "text": "that I made and then exit it now if I",
+    "start": 817.399,
+    "duration": 5.12
+  },
+  {
+    "text": "type dur we can see there's a check fuel",
+    "start": 820.199,
+    "duration": 4.76
+  },
+  {
+    "text": "program and if I run the check fuel",
+    "start": 822.519,
+    "duration": 4.401
+  },
+  {
+    "text": "program it's going to say checking for",
+    "start": 824.959,
+    "duration": 3.641
+  },
+  {
+    "text": "fuel and refueling we'll notice that",
+    "start": 826.92,
+    "duration": 5.2
+  },
+  {
+    "text": "there is now one less col because it's",
+    "start": 828.6,
+    "duration": 4.96
+  },
+  {
+    "text": "uh it",
+    "start": 832.12,
+    "duration": 4.8
+  },
+  {
+    "text": "refueled um if I type it again it's",
+    "start": 833.56,
+    "duration": 6.079
+  },
+  {
+    "text": "going to do the same thing",
+    "start": 836.92,
+    "duration": 4.2
+  },
+  {
+    "text": "I'm going to put more coal in here so",
+    "start": 839.639,
+    "duration": 3.961
+  },
+  {
+    "text": "now if I type check fuel a third time",
+    "start": 841.12,
+    "duration": 4.159
+  },
+  {
+    "text": "it's going to say checking Fuel and",
+    "start": 843.6,
+    "duration": 4.28
+  },
+  {
+    "text": "it'll say no fuel necessary and that's",
+    "start": 845.279,
+    "duration": 5.24
+  },
+  {
+    "text": "because the fuel level is now over 200",
+    "start": 847.88,
+    "duration": 4.72
+  },
+  {
+    "text": "we fueled it up sufficiently doesn't",
+    "start": 850.519,
+    "duration": 3.32
+  },
+  {
+    "text": "need any more",
+    "start": 852.6,
+    "duration": 2.84
+  },
+  {
+    "text": "fuel",
+    "start": 853.839,
+    "duration": 4.92
+  },
+  {
+    "text": "um so this is just basically a really",
+    "start": 855.44,
+    "duration": 6.36
+  },
+  {
+    "text": "really simple program and it goes over",
+    "start": 858.759,
+    "duration": 7.161
+  },
+  {
+    "text": "the if else if then else end structure",
+    "start": 861.8,
+    "duration": 5.64
+  },
+  {
+    "text": "and this is something we'll be using a",
+    "start": 865.92,
+    "duration": 4.76
+  },
+  {
+    "text": "lot if then uh not not we won't always",
+    "start": 867.44,
+    "duration": 5.959
+  },
+  {
+    "text": "be using else but it's it's optional if",
+    "start": 870.68,
+    "duration": 5.24
+  },
+  {
+    "text": "I deleted all these lines uh this",
+    "start": 873.399,
+    "duration": 4.841
+  },
+  {
+    "text": "program would still work and it just",
+    "start": 875.92,
+    "duration": 4.56
+  },
+  {
+    "text": "wouldn't print anything else out if the",
+    "start": 878.24,
+    "duration": 5.24
+  },
+  {
+    "text": "turtle had more than 200 fuel we can",
+    "start": 880.48,
+    "duration": 5.84
+  },
+  {
+    "text": "actually see that uh if I save it and",
+    "start": 883.48,
+    "duration": 5.68
+  },
+  {
+    "text": "exit and I run check fuel it'll just say",
+    "start": 886.32,
+    "duration": 4.439
+  },
+  {
+    "text": "checking Fuel and then return to the",
+    "start": 889.16,
+    "duration": 2.679
+  },
+  {
+    "text": "command",
+    "start": 890.759,
+    "duration": 3.841
+  },
+  {
+    "text": "line so this is yeah just a basic really",
+    "start": 891.839,
+    "duration": 5.12
+  },
+  {
+    "text": "basic program and we're going to be sort",
+    "start": 894.6,
+    "duration": 5.32
+  },
+  {
+    "text": "of learning new Concepts and",
+    "start": 896.959,
+    "duration": 4.641
+  },
+  {
+    "text": "and writing programs like this as the",
+    "start": 899.92,
+    "duration": 4.12
+  },
+  {
+    "text": "tutorial series goes",
+    "start": 901.6,
+    "duration": 5.479
+  },
+  {
+    "text": "on uh I think I will leave it there for",
+    "start": 904.04,
+    "duration": 5.56
+  },
+  {
+    "text": "this episode tune in next time and we'll",
+    "start": 907.079,
+    "duration": 5.281
+  },
+  {
+    "text": "learn about things like variables and",
+    "start": 909.6,
+    "duration": 4.479
+  },
+  {
+    "text": "some other stuff that's about it thanks",
+    "start": 912.36,
+    "duration": 3.26
+  },
+  {
+    "text": "for watching",
+    "start": 914.079,
+    "duration": 26.2
+  },
+  {
+    "text": "[Music]",
+    "start": 915.62,
+    "duration": 27.54
+  },
+  {
+    "text": "the gravel will throw",
+    "start": 940.279,
+    "duration": 2.881
+  }
+]

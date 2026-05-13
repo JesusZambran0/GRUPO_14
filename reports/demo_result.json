@@ -1,0 +1,186 @@
+{
+  "prediccion_rendimiento": "muy_alto",
+  "probabilidad_rendimiento": 0.9669,
+  "recomendacion_impulso": "impulsar",
+  "requiere_ajustes": false,
+  "nivel_prioridad": "alta",
+  "alcance_estimado_por_dolar": 320.0,
+  "alcance_estimado_total": 6400.0,
+  "metricas": {
+    "views": 8500,
+    "likes": 620,
+    "comments": 48,
+    "engagement_rate": 0.078588,
+    "like_rate": 0.072941,
+    "comment_rate": 0.005647,
+    "views_per_day": 8500.0,
+    "duration_seconds": 45.0,
+    "duration_fit_score": 0.7,
+    "text_power_score": 0.63,
+    "title_word_count": 7,
+    "description_word_count": 12,
+    "transcript_word_count": 27,
+    "ocr_word_count": 0,
+    "ocr_frame_coverage": 0.0,
+    "visual_text_density": "sin_texto",
+    "video_type": "con narrador",
+    "operational": {
+      "shares": 120.0,
+      "share_rate": 0.014118,
+      "retention_rate": 0.46,
+      "hours_since_publication": 12.0,
+      "views_per_hour": 708.3333,
+      "average_watch_time": 20.0,
+      "followers_count": 15000.0,
+      "avg_channel_reach": 10000.0,
+      "topic": "productividad"
+    }
+  },
+  "analisis_transcripcion": {
+    "disponible": true,
+    "fuente": "manual",
+    "advertencia": "Transcripción manual utilizada.",
+    "longitud_caracteres": 182,
+    "cantidad_palabras": 27,
+    "tiene_cta": true,
+    "tiene_beneficio": true,
+    "tiene_urgencia": true,
+    "tiene_confianza": false,
+    "preview": "En este video aprenderás tres pasos para mejorar tu productividad: planificar tus tareas, eliminar distracciones y revisar tus avances. Guarda este video y prueba estos consejos hoy.",
+    "requires_human_review": false
+  },
+  "analisis_ocr": {
+    "disponible": false,
+    "motor": "manual_o_no_ejecutado",
+    "advertencia": "",
+    "frames_con_texto": 0,
+    "frames_totales": 0,
+    "cobertura": 0.0,
+    "cantidad_palabras": 0,
+    "densidad": "sin_texto",
+    "tiene_cta": false,
+    "tiene_promocion": false,
+    "tiene_urgencia": false,
+    "tiene_confianza": false,
+    "tiene_exceso_texto": false,
+    "preview": ""
+  },
+  "analisis_llm": {
+    "llm_available": false,
+    "llm_engine": "rules",
+    "claridad_mensaje": 85,
+    "fuerza_cta": 65,
+    "coherencia_semantica": 65,
+    "complejidad_sintactica": "media",
+    "tipo_contenido": "informativo/promocional",
+    "riesgo_comunicacional": "bajo",
+    "fortalezas": [
+      "Presenta una propuesta de valor reconocible.",
+      "Incluye un llamado a la acción detectable por reglas."
+    ],
+    "debilidades": [
+      "No se detectaron debilidades críticas con las reglas locales."
+    ],
+    "ajustes_sugeridos": [],
+    "recomendacion_llm": "impulsar",
+    "justificacion": "Redacción generada por el motor de reglas locales (sin LLM). Las puntuaciones provienen de heurísticas léxicas y métricas derivadas; no reemplazan al modelo predictivo."
+  },
+  "analisis_politicas": {
+    "policy_risk_level": "bajo",
+    "policy_risk_categories": [],
+    "policy_explanation": "No se detectaron señales de políticas problemáticas con el léxico actual.",
+    "youtube_ad_status_estimate": "apto",
+    "hits": {}
+  },
+  "analisis_guion": {
+    "script_quality_score": 76,
+    "hook_score": 75,
+    "clarity_score": 78,
+    "value_proposition_score": 93,
+    "cta_score": 55,
+    "policy_claim_risk": "bajo",
+    "tone": "educativo",
+    "main_strengths": [
+      "El gancho inicial presenta una pregunta, problema o beneficio reconocible.",
+      "La propuesta de valor es reconocible en el texto o transcripción.",
+      "El texto mantiene una estructura razonablemente clara para pauta."
+    ],
+    "main_weaknesses": [
+      "El llamado a la acción es débil o no aparece de forma explícita."
+    ],
+    "recommended_script_improvements": [
+      "Agregar un CTA claro: comentar, guardar, suscribirse, visitar o conocer más."
+    ],
+    "suggested_hook": "¿Por qué cómo mejorar tu productividad en 3 pasos puede mejorar tus resultados? Mira estos puntos antes de invertir en pauta.",
+    "suggested_cta": "Guarda este video, revisa la recomendación completa y prueba una variante antes de invertir en anuncios.",
+    "suggested_ad_copy": "Descubre cómo Cómo mejorar tu productividad en 3 pasos puede ayudarte con una explicación clara, breve y accionable.",
+    "transcript_required": true,
+    "transcript_available": true,
+    "benchmark_note": "Referencia de patrones: youtube_trending_videos_transcripts_900 con 902 transcripciones; p75 de calidad=73.0.",
+    "explanation": "El puntaje combina gancho inicial, claridad, propuesta de valor y CTA. La evaluación usa reglas semánticas y patrones de transcripciones públicas de videos populares; no garantiza viralidad ni sustituye revisión humana de copy o políticas."
+  },
+  "ajustes_sugeridos": [],
+  "justificacion": "Modelo predictivo: nivel `muy_alto` con probabilidad estimada 96.69%. Se aprovechó la transcripción del audio para reforzar el análisis textual. No se detectaron ajustes críticos según las reglas locales. Riesgo publicitario estimado: bajo (estado YouTube Ads: apto). Score híbrido de decisión: 0.75 (penalización por políticas: ×1.0). El alcance por dólar se estima con CPM parametrizado y multiplicador de potencial; no representa ROI causal real.",
+  "accion_final": "IMPULSAR",
+  "score_hibrido": 0.7535,
+  "score_hibrido_detalle": {
+    "score_base": 0.7535,
+    "policy_penalty": 1.0,
+    "hybrid_score": 0.7535,
+    "components": {
+      "model_probability": 0.9669,
+      "engagement_rate_norm": 0.5239,
+      "share_rate_norm": 0.2824,
+      "retention_rate_norm": 0.46,
+      "views_per_hour_norm": 0.9501
+    }
+  },
+  "policy_risk_level": "bajo",
+  "youtube_ad_status_estimate": "apto",
+  "modelo": {
+    "model_available": true,
+    "probability": 0.9669,
+    "level": "muy_alto",
+    "probability_clipped": true,
+    "model_warning": ""
+  },
+  "metadata_youtube": {
+    "title": "Cómo mejorar tu productividad en 3 pasos",
+    "description": "Tutorial breve para organizar tareas, evitar distracciones y mejorar la concentración diaria.",
+    "category_id": "educación",
+    "topic": "productividad",
+    "views": 8500.0,
+    "likes": 620.0,
+    "comments": 48.0,
+    "duration_seconds": 45.0,
+    "published_at": null,
+    "channel_title": "",
+    "api_metadata": {
+      "ok": false,
+      "warning": "Sin URL de YouTube. Modo manual.",
+      "video_id": null
+    },
+    "video_summary": {}
+  },
+  "explicabilidad": {
+    "explicacion_local": {
+      "factores_favorables": [
+        "Alta potencia textual: presencia de CTA, beneficio, urgencia o confianza.",
+        "Engagement relativo favorable frente a las visualizaciones disponibles.",
+        "Se aprovechó la transcripción del audio para reforzar el análisis textual."
+      ],
+      "factores_de_riesgo": [
+        "Duración extensa o poco ajustada para una pauta inicial eficiente."
+      ],
+      "resumen": "La predicción fue clasificada como muy_alto con probabilidad 0.9669."
+    }
+  },
+  "cpm_estimado": 5.0,
+  "multiplicador_potencial": 1.6,
+  "alcance_base_por_dolar": 200.0,
+  "nota_metodologica": "El modelo fue entrenado con videos públicos de YouTube en trending (Kaggle), lo que introduce sesgo de selección hacia contenido exitoso. Las probabilidades tienden a ser altas; las reglas de ajuste y el score híbrido compensan ese sesgo. La estimación de alcance por dólar usa CPM parametrizado y potencial predicho; no representa ROI causal real.",
+  "warnings": [
+    "Transcripción: Transcripción manual utilizada.",
+    "No se cargó video. Análisis basado en URL/campos manuales."
+  ]
+}

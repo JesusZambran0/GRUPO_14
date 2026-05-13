@@ -1,0 +1,2182 @@
+[
+  {
+    "text": "in this video I will be attempting to",
+    "start": 0.0,
+    "duration": 3.72
+  },
+  {
+    "text": "make a horror game in under 24 hours",
+    "start": 1.92,
+    "duration": 3.24
+  },
+  {
+    "text": "horror games might be the most popular",
+    "start": 3.72,
+    "duration": 2.94
+  },
+  {
+    "text": "choice of genre for Indie developers",
+    "start": 5.16,
+    "duration": 3.12
+  },
+  {
+    "text": "probably partly due to the success they",
+    "start": 6.66,
+    "duration": 4.2
+  },
+  {
+    "text": "could find even if the game is simple",
+    "start": 8.28,
+    "duration": 4.38
+  },
+  {
+    "text": "and being a typical stupid dude under",
+    "start": 10.86,
+    "duration": 3.659
+  },
+  {
+    "text": "the age of 25 I want to be successful",
+    "start": 12.66,
+    "duration": 3.6
+  },
+  {
+    "text": "without actually putting any work to",
+    "start": 14.519,
+    "duration": 3.541
+  },
+  {
+    "text": "earn it henceforth making a video game",
+    "start": 16.26,
+    "duration": 3.84
+  },
+  {
+    "text": "in a single day also I have the",
+    "start": 18.06,
+    "duration": 4.379
+  },
+  {
+    "text": "attention span of the Goldfish sir sir",
+    "start": 20.1,
+    "duration": 4.679
+  },
+  {
+    "text": "it's your wife She's suffering from numu",
+    "start": 22.439,
+    "duration": 4.801
+  },
+  {
+    "text": "silico cybophonic silicone microscopic",
+    "start": 24.779,
+    "duration": 5.221
+  },
+  {
+    "text": "Mega hemo Melo hypophonic hyper micro",
+    "start": 27.24,
+    "duration": 6.18
+  },
+  {
+    "text": "silico bipolipo meepo Mappo frakostaki",
+    "start": 30.0,
+    "duration": 7.5
+  },
+  {
+    "text": "slacky wacky fornic silico stomach bug",
+    "start": 33.42,
+    "duration": 6.0
+  },
+  {
+    "text": "the only thing I did before the 24 hour",
+    "start": 37.5,
+    "duration": 3.36
+  },
+  {
+    "text": "period was plan out what I wanted the",
+    "start": 39.42,
+    "duration": 3.06
+  },
+  {
+    "text": "game to be and the game is simple you",
+    "start": 40.86,
+    "duration": 2.94
+  },
+  {
+    "text": "live in a log cabin and there's a",
+    "start": 42.48,
+    "duration": 2.46
+  },
+  {
+    "text": "monster in the woods that wants to eat",
+    "start": 43.8,
+    "duration": 2.82
+  },
+  {
+    "text": "you he can't get inside so he will do",
+    "start": 44.94,
+    "duration": 3.18
+  },
+  {
+    "text": "certain things to sabotage you like",
+    "start": 46.62,
+    "duration": 3.18
+  },
+  {
+    "text": "damaging the power box which shuts off",
+    "start": 48.12,
+    "duration": 2.939
+  },
+  {
+    "text": "all the lights forcing you to come",
+    "start": 49.8,
+    "duration": 3.06
+  },
+  {
+    "text": "outside and fix it but it's freezing",
+    "start": 51.059,
+    "duration": 3.601
+  },
+  {
+    "text": "outside and you must stay warm there's a",
+    "start": 52.86,
+    "duration": 3.24
+  },
+  {
+    "text": "fire inside but the monster will drop",
+    "start": 54.66,
+    "duration": 3.0
+  },
+  {
+    "text": "snow to put it out and you must keep it",
+    "start": 56.1,
+    "duration": 3.119
+  },
+  {
+    "text": "lit and lastly the blizzard will",
+    "start": 57.66,
+    "duration": 3.059
+  },
+  {
+    "text": "occasionally blow the windows open which",
+    "start": 59.219,
+    "duration": 3.121
+  },
+  {
+    "text": "will not only keep you from staying warm",
+    "start": 60.719,
+    "duration": 3.361
+  },
+  {
+    "text": "but will also create an entrance for the",
+    "start": 62.34,
+    "duration": 3.84
+  },
+  {
+    "text": "monster to climb into Hi how are you if",
+    "start": 64.08,
+    "duration": 3.539
+  },
+  {
+    "text": "you survive until the morning you win",
+    "start": 66.18,
+    "duration": 2.939
+  },
+  {
+    "text": "the game starting the clock with 24",
+    "start": 67.619,
+    "duration": 2.881
+  },
+  {
+    "text": "hours left the first thing I'm gonna do",
+    "start": 69.119,
+    "duration": 2.641
+  },
+  {
+    "text": "is launch a middle engine with the first",
+    "start": 70.5,
+    "duration": 2.7
+  },
+  {
+    "text": "person template since I want this to be",
+    "start": 71.76,
+    "duration": 3.12
+  },
+  {
+    "text": "a first person game so first we need a",
+    "start": 73.2,
+    "duration": 3.06
+  },
+  {
+    "text": "log cabin so let me just look through my",
+    "start": 74.88,
+    "duration": 4.559
+  },
+  {
+    "text": "asset packs real quick look at that a",
+    "start": 76.26,
+    "duration": 5.28
+  },
+  {
+    "text": "log cabin acid pack it's almost like I",
+    "start": 79.439,
+    "duration": 3.601
+  },
+  {
+    "text": "chose the environment by looking through",
+    "start": 81.54,
+    "duration": 4.86
+  },
+  {
+    "text": "the asset packs I already owned and I'm",
+    "start": 83.04,
+    "duration": 4.2
+  },
+  {
+    "text": "just gonna use the pre-made",
+    "start": 86.4,
+    "duration": 2.399
+  },
+  {
+    "text": "demonstration map because you all know",
+    "start": 87.24,
+    "duration": 3.239
+  },
+  {
+    "text": "the famous proverb shawcat hates",
+    "start": 88.799,
+    "duration": 3.421
+  },
+  {
+    "text": "environmental design and also he's bad",
+    "start": 90.479,
+    "duration": 4.32
+  },
+  {
+    "text": "at it oh snap this map has snowfall and",
+    "start": 92.22,
+    "duration": 4.56
+  },
+  {
+    "text": "the door is already interactable this",
+    "start": 94.799,
+    "duration": 4.32
+  },
+  {
+    "text": "game better be a oh we can't fit let's",
+    "start": 96.78,
+    "duration": 4.379
+  },
+  {
+    "text": "fix up the player dimensions and chop",
+    "start": 99.119,
+    "duration": 4.741
+  },
+  {
+    "text": "this guy's arms off pulling up our list",
+    "start": 101.159,
+    "duration": 3.96
+  },
+  {
+    "text": "the first thing I want to do is have the",
+    "start": 103.86,
+    "duration": 2.7
+  },
+  {
+    "text": "blizzard blow the windows open since we",
+    "start": 105.119,
+    "duration": 2.46
+  },
+  {
+    "text": "don't even have a monster yet",
+    "start": 106.56,
+    "duration": 2.76
+  },
+  {
+    "text": "unfortunately these window meshes are",
+    "start": 107.579,
+    "duration": 3.061
+  },
+  {
+    "text": "connected to the frames making them",
+    "start": 109.32,
+    "duration": 2.82
+  },
+  {
+    "text": "impossible to even open so I'll have to",
+    "start": 110.64,
+    "duration": 2.759
+  },
+  {
+    "text": "pull them into blender real quick to fix",
+    "start": 112.14,
+    "duration": 3.24
+  },
+  {
+    "text": "it a quick little incision here should",
+    "start": 113.399,
+    "duration": 4.321
+  },
+  {
+    "text": "do the trick ah another successful",
+    "start": 115.38,
+    "duration": 4.62
+  },
+  {
+    "text": "operation from Dr Shaw cat in Unreal",
+    "start": 117.72,
+    "duration": 3.48
+  },
+  {
+    "text": "Engine I'll use the timeline to control",
+    "start": 120.0,
+    "duration": 2.759
+  },
+  {
+    "text": "the rotation of the windows in lieu of",
+    "start": 121.2,
+    "duration": 2.879
+  },
+  {
+    "text": "traditional animation because something",
+    "start": 122.759,
+    "duration": 3.0
+  },
+  {
+    "text": "simple like this it really doesn't make",
+    "start": 124.079,
+    "duration": 2.82
+  },
+  {
+    "text": "a difference here's what it looks like",
+    "start": 125.759,
+    "duration": 2.101
+  },
+  {
+    "text": "in the game",
+    "start": 126.899,
+    "duration": 2.34
+  },
+  {
+    "text": "I haven't gotten these sound effects for",
+    "start": 127.86,
+    "duration": 2.64
+  },
+  {
+    "text": "the game yet so I'm sure when I'm",
+    "start": 129.239,
+    "duration": 2.58
+  },
+  {
+    "text": "editing I'll spend some good money on",
+    "start": 130.5,
+    "duration": 2.52
+  },
+  {
+    "text": "some high quality sound effects to make",
+    "start": 131.819,
+    "duration": 2.881
+  },
+  {
+    "text": "sure it sounds AAA next I'll use a timer",
+    "start": 133.02,
+    "duration": 3.24
+  },
+  {
+    "text": "to randomly open these windows every 30",
+    "start": 134.7,
+    "duration": 3.179
+  },
+  {
+    "text": "to 60 seconds or so but to close them",
+    "start": 136.26,
+    "duration": 2.64
+  },
+  {
+    "text": "I'll need to create some kind of",
+    "start": 137.879,
+    "duration": 2.761
+  },
+  {
+    "text": "interaction system I've made a million",
+    "start": 138.9,
+    "duration": 3.12
+  },
+  {
+    "text": "and one interaction systems in my life",
+    "start": 140.64,
+    "duration": 2.34
+  },
+  {
+    "text": "but that doesn't always mean they're",
+    "start": 142.02,
+    "duration": 3.0
+  },
+  {
+    "text": "simple so I might need to stand up for",
+    "start": 142.98,
+    "duration": 5.1
+  },
+  {
+    "text": "this one but oh when I'm staying ending",
+    "start": 145.02,
+    "duration": 6.78
+  },
+  {
+    "text": "up I can't seem to reach my keyboard or",
+    "start": 148.08,
+    "duration": 6.36
+  },
+  {
+    "text": "can I recently flexi spot sent me this",
+    "start": 151.8,
+    "duration": 4.86
+  },
+  {
+    "text": "Ian 1 mahogany motorized standing desk",
+    "start": 154.44,
+    "duration": 3.9
+  },
+  {
+    "text": "you ever hear that saying sitting as the",
+    "start": 156.66,
+    "duration": 3.719
+  },
+  {
+    "text": "new smoking come along Billy I don't",
+    "start": 158.34,
+    "duration": 4.32
+  },
+  {
+    "text": "want you catching second hand sit but",
+    "start": 160.379,
+    "duration": 3.601
+  },
+  {
+    "text": "then a standing desk also sounds",
+    "start": 162.66,
+    "duration": 2.7
+  },
+  {
+    "text": "unappealing because you're a lazy game",
+    "start": 163.98,
+    "duration": 3.18
+  },
+  {
+    "text": "developer who never exercises you guys",
+    "start": 165.36,
+    "duration": 3.72
+  },
+  {
+    "text": "know the feeling well that the en1",
+    "start": 167.16,
+    "duration": 4.02
+  },
+  {
+    "text": "mahogany motorized standing desk is",
+    "start": 169.08,
+    "duration": 3.9
+  },
+  {
+    "text": "gonna blow your mind because it's",
+    "start": 171.18,
+    "duration": 3.54
+  },
+  {
+    "text": "adjustable to both sitting and standing",
+    "start": 172.98,
+    "duration": 3.839
+  },
+  {
+    "text": "Heights it adjusts pretty fast and",
+    "start": 174.72,
+    "duration": 4.379
+  },
+  {
+    "text": "quietly too and it can carry a lot of",
+    "start": 176.819,
+    "duration": 4.081
+  },
+  {
+    "text": "plus the machine has pre-programmable",
+    "start": 179.099,
+    "duration": 3.241
+  },
+  {
+    "text": "buttons that remember your preferred",
+    "start": 180.9,
+    "duration": 2.76
+  },
+  {
+    "text": "Heights so you can always get that",
+    "start": 182.34,
+    "duration": 3.479
+  },
+  {
+    "text": "optimal 90 degree elbow action the",
+    "start": 183.66,
+    "duration": 3.659
+  },
+  {
+    "text": "instruction manual did say it requires",
+    "start": 185.819,
+    "duration": 3.181
+  },
+  {
+    "text": "two people to put together but I'm a big",
+    "start": 187.319,
+    "duration": 3.181
+  },
+  {
+    "text": "boy and I managed to do it all by myself",
+    "start": 189.0,
+    "duration": 3.42
+  },
+  {
+    "text": "in all honesty though it is important to",
+    "start": 190.5,
+    "duration": 3.06
+  },
+  {
+    "text": "look after your health and I would",
+    "start": 192.42,
+    "duration": 2.58
+  },
+  {
+    "text": "highly recommend a standing desk to",
+    "start": 193.56,
+    "duration": 2.88
+  },
+  {
+    "text": "anybody who has a job that requires",
+    "start": 195.0,
+    "duration": 3.239
+  },
+  {
+    "text": "computer work for many hours a day it",
+    "start": 196.44,
+    "duration": 3.06
+  },
+  {
+    "text": "has so many health benefits like",
+    "start": 198.239,
+    "duration": 3.121
+  },
+  {
+    "text": "reducing joint pain better posture",
+    "start": 199.5,
+    "duration": 3.54
+  },
+  {
+    "text": "better blood circulation and it",
+    "start": 201.36,
+    "duration": 3.48
+  },
+  {
+    "text": "increases your energy and mood if you do",
+    "start": 203.04,
+    "duration": 3.119
+  },
+  {
+    "text": "decide to make the decision to get one",
+    "start": 204.84,
+    "duration": 2.94
+  },
+  {
+    "text": "of these it really increased my energy",
+    "start": 206.159,
+    "duration": 3.241
+  },
+  {
+    "text": "and mood if you use the link in the",
+    "start": 207.78,
+    "duration": 3.12
+  },
+  {
+    "text": "description because you'd get a high",
+    "start": 209.4,
+    "duration": 3.24
+  },
+  {
+    "text": "quality motorized standing desk with all",
+    "start": 210.9,
+    "duration": 3.839
+  },
+  {
+    "text": "these health benefits and I'll get",
+    "start": 212.64,
+    "duration": 4.08
+  },
+  {
+    "text": "happiness knowing you made a great",
+    "start": 214.739,
+    "duration": 3.961
+  },
+  {
+    "text": "decision now that I've closed the deal",
+    "start": 216.72,
+    "duration": 4.439
+  },
+  {
+    "text": "with 90 of my viewers back to closing",
+    "start": 218.7,
+    "duration": 4.14
+  },
+  {
+    "text": "these windows if I make one of these",
+    "start": 221.159,
+    "duration": 3.36
+  },
+  {
+    "text": "extremely useful blueprint interfaces",
+    "start": 222.84,
+    "duration": 3.6
+  },
+  {
+    "text": "here I can easily communicate with any",
+    "start": 224.519,
+    "duration": 4.08
+  },
+  {
+    "text": "optic that I press e on so if we hit e",
+    "start": 226.44,
+    "duration": 3.6
+  },
+  {
+    "text": "on our window we can just make it close",
+    "start": 228.599,
+    "duration": 3.121
+  },
+  {
+    "text": "and reset the timer for it to get blown",
+    "start": 230.04,
+    "duration": 3.059
+  },
+  {
+    "text": "back open I'm just going to move some of",
+    "start": 231.72,
+    "duration": 2.64
+  },
+  {
+    "text": "these props around real quick so the",
+    "start": 233.099,
+    "duration": 2.881
+  },
+  {
+    "text": "windows are more accessible okay now",
+    "start": 234.36,
+    "duration": 2.7
+  },
+  {
+    "text": "it's a lot easier to get into the",
+    "start": 235.98,
+    "duration": 2.58
+  },
+  {
+    "text": "position to close these but we still",
+    "start": 237.06,
+    "duration": 3.0
+  },
+  {
+    "text": "need our character freeze when the",
+    "start": 238.56,
+    "duration": 3.48
+  },
+  {
+    "text": "windows are open or if he goes outside I",
+    "start": 240.06,
+    "duration": 3.3
+  },
+  {
+    "text": "want our freeze meter to be something",
+    "start": 242.04,
+    "duration": 3.18
+  },
+  {
+    "text": "cooler than just a progress bar so let",
+    "start": 243.36,
+    "duration": 4.2
+  },
+  {
+    "text": "me yoink a frost texture from online and",
+    "start": 245.22,
+    "duration": 4.079
+  },
+  {
+    "text": "use it to create a post-process material",
+    "start": 247.56,
+    "duration": 3.48
+  },
+  {
+    "text": "that increases how much Frost is on her",
+    "start": 249.299,
+    "duration": 3.181
+  },
+  {
+    "text": "screen and after some quick box",
+    "start": 251.04,
+    "duration": 3.0
+  },
+  {
+    "text": "collisions to tell for outside or not",
+    "start": 252.48,
+    "duration": 3.24
+  },
+  {
+    "text": "our screen is getting Frosty on the",
+    "start": 254.04,
+    "duration": 3.84
+  },
+  {
+    "text": "outside and melty on the inside that's",
+    "start": 255.72,
+    "duration": 4.139
+  },
+  {
+    "text": "step four crossed off the list now",
+    "start": 257.88,
+    "duration": 3.539
+  },
+  {
+    "text": "you're probably thinking well great",
+    "start": 259.859,
+    "duration": 3.301
+  },
+  {
+    "text": "Canada simulator shock hat but where's",
+    "start": 261.419,
+    "duration": 3.541
+  },
+  {
+    "text": "the monster in the thumbnail ad I",
+    "start": 263.16,
+    "duration": 3.12
+  },
+  {
+    "text": "clicked on the monster in the thumbnail",
+    "start": 264.96,
+    "duration": 3.06
+  },
+  {
+    "text": "I want to see a monster well calm down",
+    "start": 266.28,
+    "duration": 3.359
+  },
+  {
+    "text": "whatever you saw on that thumbnail I'm",
+    "start": 268.02,
+    "duration": 3.119
+  },
+  {
+    "text": "making right now I'm thinking since",
+    "start": 269.639,
+    "duration": 3.721
+  },
+  {
+    "text": "we're in the woods well it will be the",
+    "start": 271.139,
+    "duration": 4.201
+  },
+  {
+    "text": "woods our monster should be some sort of",
+    "start": 273.36,
+    "duration": 4.14
+  },
+  {
+    "text": "Cryptid deer creature and this is an",
+    "start": 275.34,
+    "duration": 4.32
+  },
+  {
+    "text": "idea I had all by myself because of my",
+    "start": 277.5,
+    "duration": 4.44
+  },
+  {
+    "text": "genius creative mind",
+    "start": 279.66,
+    "duration": 5.28
+  },
+  {
+    "text": "um so uh luckily I own another asset",
+    "start": 281.94,
+    "duration": 4.92
+  },
+  {
+    "text": "pack that includes a deer but this",
+    "start": 284.94,
+    "duration": 3.66
+  },
+  {
+    "text": "little dude isn't scary this guy is my",
+    "start": 286.86,
+    "duration": 4.14
+  },
+  {
+    "text": "friend you're my friend now we're having",
+    "start": 288.6,
+    "duration": 4.24
+  },
+  {
+    "text": "soft tacos later",
+    "start": 291.0,
+    "duration": 4.199
+  },
+  {
+    "text": "[Music]",
+    "start": 292.84,
+    "duration": 4.579
+  },
+  {
+    "text": "in the blender you go friend luckily",
+    "start": 295.199,
+    "duration": 3.661
+  },
+  {
+    "text": "this deer is already rigged so I can",
+    "start": 297.419,
+    "duration": 2.941
+  },
+  {
+    "text": "just use the bones to morph it into our",
+    "start": 298.86,
+    "duration": 3.74
+  },
+  {
+    "text": "monster",
+    "start": 300.36,
+    "duration": 2.24
+  },
+  {
+    "text": "now those proportions are nice encrypted",
+    "start": 304.02,
+    "duration": 3.54
+  },
+  {
+    "text": "but I think I can step it up a notch by",
+    "start": 305.88,
+    "duration": 3.48
+  },
+  {
+    "text": "giving him some teeth I used a cat for",
+    "start": 307.56,
+    "duration": 2.94
+  },
+  {
+    "text": "reference but then I made the teeth",
+    "start": 309.36,
+    "duration": 2.82
+  },
+  {
+    "text": "extra scrunkly to enforce that extra",
+    "start": 310.5,
+    "duration": 4.08
+  },
+  {
+    "text": "fear that he's never been to a dentist",
+    "start": 312.18,
+    "duration": 4.32
+  },
+  {
+    "text": "and I think I can get this guy looking",
+    "start": 314.58,
+    "duration": 3.54
+  },
+  {
+    "text": "even creepier by giving him the old",
+    "start": 316.5,
+    "duration": 4.919
+  },
+  {
+    "text": "Super Mario 64 treatment and",
+    "start": 318.12,
+    "duration": 4.62
+  },
+  {
+    "text": "now we've turned our sweet little friend",
+    "start": 321.419,
+    "duration": 3.981
+  },
+  {
+    "text": "into something",
+    "start": 322.74,
+    "duration": 2.66
+  },
+  {
+    "text": "[Music]",
+    "start": 327.44,
+    "duration": 4.519
+  },
+  {
+    "text": "but this would look a lot scarier if it",
+    "start": 334.919,
+    "duration": 4.261
+  },
+  {
+    "text": "was currently nighttime I how are you so",
+    "start": 337.44,
+    "duration": 2.59
+  },
+  {
+    "text": "just give me one second",
+    "start": 339.18,
+    "duration": 6.12
+  },
+  {
+    "text": "[Music]",
+    "start": 340.03,
+    "duration": 7.07
+  },
+  {
+    "text": "wow",
+    "start": 345.3,
+    "duration": 3.959
+  },
+  {
+    "text": "I'm getting a real big until dawn Vibe",
+    "start": 347.1,
+    "duration": 4.5
+  },
+  {
+    "text": "here it was just a prank hand best order",
+    "start": 349.259,
+    "duration": 3.541
+  },
+  {
+    "text": "game ever made it will not be taking",
+    "start": 351.6,
+    "duration": 2.58
+  },
+  {
+    "text": "questions I think I'll continue on this",
+    "start": 352.8,
+    "duration": 3.239
+  },
+  {
+    "text": "environmental design high and add some",
+    "start": 354.18,
+    "duration": 3.6
+  },
+  {
+    "text": "extra landscape there's a reason they",
+    "start": 356.039,
+    "duration": 3.421
+  },
+  {
+    "text": "say shock at hates environmental design",
+    "start": 357.78,
+    "duration": 3.419
+  },
+  {
+    "text": "I just throw a random crap in there",
+    "start": 359.46,
+    "duration": 3.299
+  },
+  {
+    "text": "because I have no idea what I'm doing",
+    "start": 361.199,
+    "duration": 3.78
+  },
+  {
+    "text": "like these trees which I had to grab",
+    "start": 362.759,
+    "duration": 4.321
+  },
+  {
+    "text": "from a third Marketplace asset despite",
+    "start": 364.979,
+    "duration": 3.72
+  },
+  {
+    "text": "the thick forest it's still pretty",
+    "start": 367.08,
+    "duration": 3.3
+  },
+  {
+    "text": "obvious to see where the terrain ends so",
+    "start": 368.699,
+    "duration": 3.181
+  },
+  {
+    "text": "I think I'll approach a retro solution",
+    "start": 370.38,
+    "duration": 3.36
+  },
+  {
+    "text": "and just add a thick black cylinder to",
+    "start": 371.88,
+    "duration": 3.539
+  },
+  {
+    "text": "imply that light itself can't pass",
+    "start": 373.74,
+    "duration": 3.299
+  },
+  {
+    "text": "through the thick brush further on so",
+    "start": 375.419,
+    "duration": 3.0
+  },
+  {
+    "text": "that's step one crossed off let's move",
+    "start": 377.039,
+    "duration": 3.841
+  },
+  {
+    "text": "on to two the power box but there are no",
+    "start": 378.419,
+    "duration": 4.141
+  },
+  {
+    "text": "lights in our cabin to turn off yet nor",
+    "start": 380.88,
+    "duration": 3.599
+  },
+  {
+    "text": "are there lights in the Log Cabin asset",
+    "start": 382.56,
+    "duration": 3.72
+  },
+  {
+    "text": "pack which means I'll have to add in a",
+    "start": 384.479,
+    "duration": 3.361
+  },
+  {
+    "text": "fourth asset pack just to get some",
+    "start": 386.28,
+    "duration": 3.12
+  },
+  {
+    "text": "hanging lights into the scene can you",
+    "start": 387.84,
+    "duration": 3.419
+  },
+  {
+    "text": "tell I'm talking to my teeth this horror",
+    "start": 389.4,
+    "duration": 2.94
+  },
+  {
+    "text": "Hospital pack has the right kind of",
+    "start": 391.259,
+    "duration": 3.06
+  },
+  {
+    "text": "looking for and I'll just slip those",
+    "start": 392.34,
+    "duration": 3.78
+  },
+  {
+    "text": "into our cabin so glad we're finally",
+    "start": 394.319,
+    "duration": 3.421
+  },
+  {
+    "text": "done importing all those High gigabyte",
+    "start": 396.12,
+    "duration": 3.24
+  },
+  {
+    "text": "asset packs now let's get a power box",
+    "start": 397.74,
+    "duration": 5.7
+  },
+  {
+    "text": "into our scene I've",
+    "start": 399.36,
+    "duration": 4.08
+  },
+  {
+    "text": "been searching for a while and I can't",
+    "start": 404.46,
+    "duration": 2.459
+  },
+  {
+    "text": "find a power box but this storage house",
+    "start": 405.539,
+    "duration": 3.181
+  },
+  {
+    "text": "asset pack has a generator looking thing",
+    "start": 406.919,
+    "duration": 3.481
+  },
+  {
+    "text": "and that'll work just fine if I make the",
+    "start": 408.72,
+    "duration": 3.3
+  },
+  {
+    "text": "generator into an actor I can add a",
+    "start": 410.4,
+    "duration": 3.0
+  },
+  {
+    "text": "function to disable all the lights in",
+    "start": 412.02,
+    "duration": 2.94
+  },
+  {
+    "text": "the cabin",
+    "start": 413.4,
+    "duration": 3.66
+  },
+  {
+    "text": "I'll also toggle the emissive quality of",
+    "start": 414.96,
+    "duration": 3.48
+  },
+  {
+    "text": "these light bulb materials for a little",
+    "start": 417.06,
+    "duration": 3.54
+  },
+  {
+    "text": "bit of extra polish",
+    "start": 418.44,
+    "duration": 4.02
+  },
+  {
+    "text": "but now our gear creature actually needs",
+    "start": 420.6,
+    "duration": 3.659
+  },
+  {
+    "text": "to attack this generator and I think",
+    "start": 422.46,
+    "duration": 3.359
+  },
+  {
+    "text": "instead of spending a bunch of hard work",
+    "start": 424.259,
+    "duration": 3.0
+  },
+  {
+    "text": "figuring out how to make this deer hop",
+    "start": 425.819,
+    "duration": 4.44
+  },
+  {
+    "text": "the fence I'm just gonna so let's add a",
+    "start": 427.259,
+    "duration": 4.321
+  },
+  {
+    "text": "bunch of spawn points spawn them",
+    "start": 430.259,
+    "duration": 3.0
+  },
+  {
+    "text": "randomly at one of them and have them",
+    "start": 431.58,
+    "duration": 3.6
+  },
+  {
+    "text": "Target the generator easy peasy lemon",
+    "start": 433.259,
+    "duration": 3.481
+  },
+  {
+    "text": "pound cake he looks pretty goofy without",
+    "start": 435.18,
+    "duration": 3.48
+  },
+  {
+    "text": "animations and I have no time to make",
+    "start": 436.74,
+    "duration": 3.54
+  },
+  {
+    "text": "all of them myself so let's go to Every",
+    "start": 438.66,
+    "duration": 3.42
+  },
+  {
+    "text": "Game developer's favorite website make",
+    "start": 440.28,
+    "duration": 3.24
+  },
+  {
+    "text": "some more miximo allows you to",
+    "start": 442.08,
+    "duration": 2.82
+  },
+  {
+    "text": "automatically map the current rig to the",
+    "start": 443.52,
+    "duration": 3.72
+  },
+  {
+    "text": "miximo rig and I'm shocked at how well",
+    "start": 444.9,
+    "duration": 3.66
+  },
+  {
+    "text": "it worked considering this is a",
+    "start": 447.24,
+    "duration": 3.299
+  },
+  {
+    "text": "quadruped animal that I bent broke and",
+    "start": 448.56,
+    "duration": 4.259
+  },
+  {
+    "text": "frankensteined into an ungodly bipedal",
+    "start": 450.539,
+    "duration": 3.961
+  },
+  {
+    "text": "malformation of flesh but it does seem",
+    "start": 452.819,
+    "duration": 3.361
+  },
+  {
+    "text": "to make the website very laggy so I'll",
+    "start": 454.5,
+    "duration": 3.0
+  },
+  {
+    "text": "download the animations real quick off",
+    "start": 456.18,
+    "duration": 3.18
+  },
+  {
+    "text": "camera and get back to you hi welcome",
+    "start": 457.5,
+    "duration": 3.66
+  },
+  {
+    "text": "back as you can see I have gathered an",
+    "start": 459.36,
+    "duration": 3.779
+  },
+  {
+    "text": "idol walking and a stomp animation for",
+    "start": 461.16,
+    "duration": 3.479
+  },
+  {
+    "text": "breaking the generator any remaining",
+    "start": 463.139,
+    "duration": 2.821
+  },
+  {
+    "text": "I'll probably have to do myself but",
+    "start": 464.639,
+    "duration": 2.701
+  },
+  {
+    "text": "we'll burn those bridges when we get to",
+    "start": 465.96,
+    "duration": 3.179
+  },
+  {
+    "text": "them okay so we targets the generator we",
+    "start": 467.34,
+    "duration": 3.78
+  },
+  {
+    "text": "play the animation and right on this",
+    "start": 469.139,
+    "duration": 3.721
+  },
+  {
+    "text": "Frame of the animation we cut the power",
+    "start": 471.12,
+    "duration": 3.66
+  },
+  {
+    "text": "and he walks back into the woods we can",
+    "start": 472.86,
+    "duration": 3.66
+  },
+  {
+    "text": "also repair the Box really easily with",
+    "start": 474.78,
+    "duration": 3.3
+  },
+  {
+    "text": "that interaction system I made except",
+    "start": 476.52,
+    "duration": 3.0
+  },
+  {
+    "text": "I'll make it so you have to spam me",
+    "start": 478.08,
+    "duration": 3.179
+  },
+  {
+    "text": "instead of just press it so like try to",
+    "start": 479.52,
+    "duration": 3.84
+  },
+  {
+    "text": "pull a starting cable you gotta you",
+    "start": 481.259,
+    "duration": 4.321
+  },
+  {
+    "text": "gotta you gotta work for it all right",
+    "start": 483.36,
+    "duration": 3.779
+  },
+  {
+    "text": "big problem though if the deer doesn't",
+    "start": 485.58,
+    "duration": 3.42
+  },
+  {
+    "text": "have the ability to kill us then he's no",
+    "start": 487.139,
+    "duration": 3.241
+  },
+  {
+    "text": "more than an annoying neighbor who",
+    "start": 489.0,
+    "duration": 3.0
+  },
+  {
+    "text": "commits destruction of property I want",
+    "start": 490.38,
+    "duration": 3.48
+  },
+  {
+    "text": "to go for a very classic Five Nights at",
+    "start": 492.0,
+    "duration": 3.66
+  },
+  {
+    "text": "Freddy's jump scare where when he kills",
+    "start": 493.86,
+    "duration": 3.3
+  },
+  {
+    "text": "us they get all up in your camera and",
+    "start": 495.66,
+    "duration": 3.539
+  },
+  {
+    "text": "bite your face off so for this animation",
+    "start": 497.16,
+    "duration": 4.319
+  },
+  {
+    "text": "I'll have to blend his face in blender",
+    "start": 499.199,
+    "duration": 5.101
+  },
+  {
+    "text": "not too hard I'm just gonna stretch the",
+    "start": 501.479,
+    "duration": 5.16
+  },
+  {
+    "text": "neck real good shake his head a bit with",
+    "start": 504.3,
+    "duration": 4.98
+  },
+  {
+    "text": "a noise generator and Chomp and if we",
+    "start": 506.639,
+    "duration": 4.021
+  },
+  {
+    "text": "just play the animation would we get too",
+    "start": 509.28,
+    "duration": 3.96
+  },
+  {
+    "text": "close to our deer game over well I also",
+    "start": 510.66,
+    "duration": 4.259
+  },
+  {
+    "text": "am realizing I forgot to update y'all on",
+    "start": 513.24,
+    "duration": 3.78
+  },
+  {
+    "text": "the time this has been taking so far and",
+    "start": 514.919,
+    "duration": 3.781
+  },
+  {
+    "text": "it might not seem like a lot based on",
+    "start": 517.02,
+    "duration": 3.42
+  },
+  {
+    "text": "the way I edit this but it's been about",
+    "start": 518.7,
+    "duration": 3.3
+  },
+  {
+    "text": "eight hours of work and it's getting",
+    "start": 520.44,
+    "duration": 3.3
+  },
+  {
+    "text": "kind of late so I'm gonna continue this",
+    "start": 522.0,
+    "duration": 3.3
+  },
+  {
+    "text": "in the good morning it is now day two",
+    "start": 523.74,
+    "duration": 3.18
+  },
+  {
+    "text": "and I started late so we have about six",
+    "start": 525.3,
+    "duration": 3.599
+  },
+  {
+    "text": "hours left in our 24 hour deadline and",
+    "start": 526.92,
+    "duration": 3.419
+  },
+  {
+    "text": "you know what I'm realizing with my",
+    "start": 528.899,
+    "duration": 3.961
+  },
+  {
+    "text": "refreshed morning mind this guy is not",
+    "start": 530.339,
+    "duration": 4.5
+  },
+  {
+    "text": "intimidating ever since I said he's like",
+    "start": 532.86,
+    "duration": 3.599
+  },
+  {
+    "text": "an annoying neighbor that's all I can",
+    "start": 534.839,
+    "duration": 3.481
+  },
+  {
+    "text": "really see when I'm playing I just kind",
+    "start": 536.459,
+    "duration": 3.421
+  },
+  {
+    "text": "of want to invite him inside and work",
+    "start": 538.32,
+    "duration": 3.18
+  },
+  {
+    "text": "out our differences over a nice cup of",
+    "start": 539.88,
+    "duration": 3.72
+  },
+  {
+    "text": "tea but I am not British so I think",
+    "start": 541.5,
+    "duration": 4.019
+  },
+  {
+    "text": "instead I'm gonna completely change how",
+    "start": 543.6,
+    "duration": 3.419
+  },
+  {
+    "text": "everything works but I need to keep it",
+    "start": 545.519,
+    "duration": 3.181
+  },
+  {
+    "text": "simple enough to complete my game in the",
+    "start": 547.019,
+    "duration": 3.061
+  },
+  {
+    "text": "remaining time so here's the new plan",
+    "start": 548.7,
+    "duration": 3.0
+  },
+  {
+    "text": "instead of an intelligent creature that",
+    "start": 550.08,
+    "duration": 3.24
+  },
+  {
+    "text": "sabotages you I'm switching to a",
+    "start": 551.7,
+    "duration": 4.079
+  },
+  {
+    "text": "creepier stalking Predator Vibe for the",
+    "start": 553.32,
+    "duration": 4.139
+  },
+  {
+    "text": "deer so instead of the deer breaking the",
+    "start": 555.779,
+    "duration": 3.24
+  },
+  {
+    "text": "generator it breaks down randomly",
+    "start": 557.459,
+    "duration": 3.241
+  },
+  {
+    "text": "because it sucks butts instead of the",
+    "start": 559.019,
+    "duration": 3.241
+  },
+  {
+    "text": "deer putting out the fire it goes out",
+    "start": 560.7,
+    "duration": 3.54
+  },
+  {
+    "text": "over time and you have to collect sticks",
+    "start": 562.26,
+    "duration": 3.96
+  },
+  {
+    "text": "from outside to keep it lit the deer",
+    "start": 564.24,
+    "duration": 3.42
+  },
+  {
+    "text": "that wonders the Deep Woods where it is",
+    "start": 566.22,
+    "duration": 3.059
+  },
+  {
+    "text": "no harm to you but will sometimes stalk",
+    "start": 567.66,
+    "duration": 3.359
+  },
+  {
+    "text": "you with the nearby Woods which it will",
+    "start": 569.279,
+    "duration": 3.361
+  },
+  {
+    "text": "aggressively chase you if you go outside",
+    "start": 571.019,
+    "duration": 3.601
+  },
+  {
+    "text": "and if a window swings open the deer",
+    "start": 572.64,
+    "duration": 3.3
+  },
+  {
+    "text": "will attempt to climb into your cabin",
+    "start": 574.62,
+    "duration": 2.76
+  },
+  {
+    "text": "I'm pretty sure making the generator",
+    "start": 575.94,
+    "duration": 3.0
+  },
+  {
+    "text": "random should be super easy because it",
+    "start": 577.38,
+    "duration": 3.12
+  },
+  {
+    "text": "can just reuse the randomness code I",
+    "start": 578.94,
+    "duration": 3.54
+  },
+  {
+    "text": "made for the windows flying open uh yeah",
+    "start": 580.5,
+    "duration": 4.44
+  },
+  {
+    "text": "that was super easy so let's fix that AI",
+    "start": 582.48,
+    "duration": 3.9
+  },
+  {
+    "text": "I'll add more Target points around the",
+    "start": 584.94,
+    "duration": 2.7
+  },
+  {
+    "text": "windows so we can come up to them when",
+    "start": 586.38,
+    "duration": 3.18
+  },
+  {
+    "text": "they're open very nice not creepy at all",
+    "start": 587.64,
+    "duration": 3.78
+  },
+  {
+    "text": "I know and if we go outside when he's",
+    "start": 589.56,
+    "duration": 3.48
+  },
+  {
+    "text": "not in the Deep Woods I'll just make him",
+    "start": 591.42,
+    "duration": 4.94
+  },
+  {
+    "text": "chase you until you're back inside",
+    "start": 593.04,
+    "duration": 3.32
+  },
+  {
+    "text": "thank",
+    "start": 597.6,
+    "duration": 3.179
+  },
+  {
+    "text": "you",
+    "start": 599.88,
+    "duration": 3.24
+  },
+  {
+    "text": "okay yeah that's a that's a little bit",
+    "start": 600.779,
+    "duration": 3.721
+  },
+  {
+    "text": "scary than what we had before Oh and you",
+    "start": 603.12,
+    "duration": 2.88
+  },
+  {
+    "text": "know it might be good I think I'll add",
+    "start": 604.5,
+    "duration": 3.3
+  },
+  {
+    "text": "some rotation to his head bone so he's",
+    "start": 606.0,
+    "duration": 3.66
+  },
+  {
+    "text": "always looking at you directly because",
+    "start": 607.8,
+    "duration": 3.96
+  },
+  {
+    "text": "Pro tip to horror game developers",
+    "start": 609.66,
+    "duration": 4.14
+  },
+  {
+    "text": "there's nothing scarier than eye contact",
+    "start": 611.76,
+    "duration": 3.84
+  },
+  {
+    "text": "people ask you what your worst fear is",
+    "start": 613.8,
+    "duration": 4.62
+  },
+  {
+    "text": "and you say oh oh you know the dark uh",
+    "start": 615.6,
+    "duration": 5.4
+  },
+  {
+    "text": "clowns uh you know alligators but no no",
+    "start": 618.42,
+    "duration": 4.02
+  },
+  {
+    "text": "no think about when you go to a",
+    "start": 621.0,
+    "duration": 3.6
+  },
+  {
+    "text": "Starbucks and and that cashier's look on",
+    "start": 622.44,
+    "duration": 3.959
+  },
+  {
+    "text": "you in the eye they're like staring into",
+    "start": 624.6,
+    "duration": 3.299
+  },
+  {
+    "text": "your soul and they're like what do you",
+    "start": 626.399,
+    "duration": 3.481
+  },
+  {
+    "text": "want what do you want in your drink what",
+    "start": 627.899,
+    "duration": 6.12
+  },
+  {
+    "text": "do you want and you're just like and",
+    "start": 629.88,
+    "duration": 4.139
+  },
+  {
+    "text": "uh yeah that's AI pretty much done it's",
+    "start": 634.2,
+    "duration": 4.5
+  },
+  {
+    "text": "very simple this way other than climbing",
+    "start": 636.54,
+    "duration": 3.359
+  },
+  {
+    "text": "Through the Windows that's gonna be the",
+    "start": 638.7,
+    "duration": 2.819
+  },
+  {
+    "text": "hard part and we have about three hours",
+    "start": 639.899,
+    "duration": 3.661
+  },
+  {
+    "text": "left so let's make this fire go out real",
+    "start": 641.519,
+    "duration": 3.841
+  },
+  {
+    "text": "quick I'll remove this delicious pan of",
+    "start": 643.56,
+    "duration": 3.42
+  },
+  {
+    "text": "Stew so the player doesn't get confused",
+    "start": 645.36,
+    "duration": 3.479
+  },
+  {
+    "text": "about the purpose of the furnace and we",
+    "start": 646.98,
+    "duration": 3.78
+  },
+  {
+    "text": "can fade the fire out over time using",
+    "start": 648.839,
+    "duration": 3.541
+  },
+  {
+    "text": "the same timer functionality that the",
+    "start": 650.76,
+    "duration": 3.48
+  },
+  {
+    "text": "windows and the generator uses and for",
+    "start": 652.38,
+    "duration": 3.36
+  },
+  {
+    "text": "the visual effect I'll just fade out the",
+    "start": 654.24,
+    "duration": 3.9
+  },
+  {
+    "text": "audio the lights scale down this fire",
+    "start": 655.74,
+    "duration": 4.2
+  },
+  {
+    "text": "effect and reduce the emissive",
+    "start": 658.14,
+    "duration": 5.04
+  },
+  {
+    "text": "properties of the logs yeah that fire is",
+    "start": 659.94,
+    "duration": 5.76
+  },
+  {
+    "text": "going out so yeah fire goes out and we",
+    "start": 663.18,
+    "duration": 4.02
+  },
+  {
+    "text": "start to freeze to give the player",
+    "start": 665.7,
+    "duration": 3.3
+  },
+  {
+    "text": "incentive to leave the cabin let's spawn",
+    "start": 667.2,
+    "duration": 3.3
+  },
+  {
+    "text": "some sticks outside I don't have any",
+    "start": 669.0,
+    "duration": 3.12
+  },
+  {
+    "text": "stick models but I'm kind of tired of",
+    "start": 670.5,
+    "duration": 3.66
+  },
+  {
+    "text": "importing entire asset packs just for a",
+    "start": 672.12,
+    "duration": 3.42
+  },
+  {
+    "text": "single model so I'm just gonna take this",
+    "start": 674.16,
+    "duration": 3.96
+  },
+  {
+    "text": "pile of logs and",
+    "start": 675.54,
+    "duration": 4.68
+  },
+  {
+    "text": "there we go pile of sticks I'll make it",
+    "start": 678.12,
+    "duration": 3.899
+  },
+  {
+    "text": "if we walk over one it adds one to our",
+    "start": 680.22,
+    "duration": 3.119
+  },
+  {
+    "text": "character and then we can use our",
+    "start": 682.019,
+    "duration": 2.94
+  },
+  {
+    "text": "interaction system on the fire it",
+    "start": 683.339,
+    "duration": 3.301
+  },
+  {
+    "text": "removes a stick from our player and adds",
+    "start": 684.959,
+    "duration": 3.481
+  },
+  {
+    "text": "30 seconds to the fire's lifespan okay",
+    "start": 686.64,
+    "duration": 3.18
+  },
+  {
+    "text": "two hours left and we still have to make",
+    "start": 688.44,
+    "duration": 2.76
+  },
+  {
+    "text": "the scariest part of the game the deer",
+    "start": 689.82,
+    "duration": 2.579
+  },
+  {
+    "text": "climbing through your window that's kind",
+    "start": 691.2,
+    "duration": 2.639
+  },
+  {
+    "text": "of like the part I've been excited about",
+    "start": 692.399,
+    "duration": 3.0
+  },
+  {
+    "text": "what also scared about which is why I'm",
+    "start": 693.839,
+    "duration": 2.641
+  },
+  {
+    "text": "procrastinating there's nothing on",
+    "start": 695.399,
+    "duration": 2.521
+  },
+  {
+    "text": "miximo that can be used so I'm gonna",
+    "start": 696.48,
+    "duration": 2.88
+  },
+  {
+    "text": "have to make something pretty easy and",
+    "start": 697.92,
+    "duration": 3.479
+  },
+  {
+    "text": "cheap in blender but we don't have a lot",
+    "start": 699.36,
+    "duration": 4.14
+  },
+  {
+    "text": "of time so this animation is gonna uh",
+    "start": 701.399,
+    "duration": 4.081
+  },
+  {
+    "text": "suck okay if you look at it for more",
+    "start": 703.5,
+    "duration": 3.72
+  },
+  {
+    "text": "than a second you can see it's a very",
+    "start": 705.48,
+    "duration": 3.72
+  },
+  {
+    "text": "poorly made animation but the players",
+    "start": 707.22,
+    "duration": 3.54
+  },
+  {
+    "text": "will be too busy screaming their heads",
+    "start": 709.2,
+    "duration": 2.759
+  },
+  {
+    "text": "off to notice",
+    "start": 710.76,
+    "duration": 3.78
+  },
+  {
+    "text": "also even though it's not great it",
+    "start": 711.959,
+    "duration": 4.141
+  },
+  {
+    "text": "actually took like almost an hour to",
+    "start": 714.54,
+    "duration": 3.0
+  },
+  {
+    "text": "make so we only have a little over 60",
+    "start": 716.1,
+    "duration": 3.299
+  },
+  {
+    "text": "minutes left so let me actually play",
+    "start": 717.54,
+    "duration": 3.6
+  },
+  {
+    "text": "this animation when it approaches the",
+    "start": 719.399,
+    "duration": 3.721
+  },
+  {
+    "text": "window oh my window blew open oh I",
+    "start": 721.14,
+    "duration": 3.66
+  },
+  {
+    "text": "better close it in this weather oh hello",
+    "start": 723.12,
+    "duration": 4.2
+  },
+  {
+    "text": "sir you must be cold out there oh excuse",
+    "start": 724.8,
+    "duration": 4.56
+  },
+  {
+    "text": "me this is private property and legally",
+    "start": 727.32,
+    "duration": 3.6
+  },
+  {
+    "text": "you are tresponding I didn't show myself",
+    "start": 729.36,
+    "duration": 3.18
+  },
+  {
+    "text": "programming any of it because that's",
+    "start": 730.92,
+    "duration": 3.539
+  },
+  {
+    "text": "pretty boring to watch uh but that",
+    "start": 732.54,
+    "duration": 4.2
+  },
+  {
+    "text": "actually took the entire remaining hours",
+    "start": 734.459,
+    "duration": 6.0
+  },
+  {
+    "text": "set up so okay we've completed the game",
+    "start": 736.74,
+    "duration": 6.12
+  },
+  {
+    "text": "oh wait I need to make it so if you",
+    "start": 740.459,
+    "duration": 4.32
+  },
+  {
+    "text": "survive until morning you actually win",
+    "start": 742.86,
+    "duration": 4.72
+  },
+  {
+    "text": "okay we've completed the game",
+    "start": 744.779,
+    "duration": 4.56
+  },
+  {
+    "text": "[Music]",
+    "start": 747.58,
+    "duration": 3.68
+  },
+  {
+    "text": "and let me just add a death screen and",
+    "start": 749.339,
+    "duration": 3.781
+  },
+  {
+    "text": "purchase a bunch of sound effects okay",
+    "start": 751.26,
+    "duration": 5.06
+  },
+  {
+    "text": "we've completed the game",
+    "start": 753.12,
+    "duration": 3.2
+  },
+  {
+    "text": "foreign",
+    "start": 757.8,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 763.35,
+    "duration": 3.129
+  },
+  {
+    "text": "but my mama did raise an honest man so",
+    "start": 767.639,
+    "duration": 3.721
+  },
+  {
+    "text": "I'll have to admit if you count the time",
+    "start": 769.86,
+    "duration": 3.12
+  },
+  {
+    "text": "I spend adding sound effects and stuff I",
+    "start": 771.36,
+    "duration": 3.36
+  },
+  {
+    "text": "did go over the time limit by about an",
+    "start": 772.98,
+    "duration": 3.299
+  },
+  {
+    "text": "hour if you want to play it I uploaded",
+    "start": 774.72,
+    "duration": 3.239
+  },
+  {
+    "text": "it on it shot i o but only visit if",
+    "start": 776.279,
+    "duration": 2.881
+  },
+  {
+    "text": "you're ready to lose your voice out of",
+    "start": 777.959,
+    "duration": 2.701
+  },
+  {
+    "text": "screaming from Fear I didn't really have",
+    "start": 779.16,
+    "duration": 3.06
+  },
+  {
+    "text": "enough creative juices to come up with a",
+    "start": 780.66,
+    "duration": 3.179
+  },
+  {
+    "text": "good name so Tyler and I went to a",
+    "start": 782.22,
+    "duration": 3.0
+  },
+  {
+    "text": "horror name generator and it came up",
+    "start": 783.839,
+    "duration": 4.5
+  },
+  {
+    "text": "with wood Walker future Aiden here I",
+    "start": 785.22,
+    "duration": 4.5
+  },
+  {
+    "text": "just watched an episode of Adventure",
+    "start": 788.339,
+    "duration": 2.641
+  },
+  {
+    "text": "Time and they called this tree the",
+    "start": 789.72,
+    "duration": 3.059
+  },
+  {
+    "text": "Wicker devil when you see the Wicker",
+    "start": 790.98,
+    "duration": 4.2
+  },
+  {
+    "text": "devil in tree afterlife tell him Jake",
+    "start": 792.779,
+    "duration": 5.281
+  },
+  {
+    "text": "says hello and",
+    "start": 795.18,
+    "duration": 4.02
+  },
+  {
+    "text": "I thought that was the coolest thing",
+    "start": 798.06,
+    "duration": 2.7
+  },
+  {
+    "text": "ever so I'm stealing it this game is now",
+    "start": 799.2,
+    "duration": 3.18
+  },
+  {
+    "text": "called The Wicker devil Go download the",
+    "start": 800.76,
+    "duration": 3.78
+  },
+  {
+    "text": "Wicker devil put on H dot Io if this",
+    "start": 802.38,
+    "duration": 3.54
+  },
+  {
+    "text": "game wasn't scary enough for you check",
+    "start": 804.54,
+    "duration": 2.76
+  },
+  {
+    "text": "out my other game I'm working on nightly",
+    "start": 805.92,
+    "duration": 2.94
+  },
+  {
+    "text": "routine you'll be frightened about the",
+    "start": 807.3,
+    "duration": 2.76
+  },
+  {
+    "text": "amount of work I've been putting into",
+    "start": 808.86,
+    "duration": 4.58
+  },
+  {
+    "text": "that game enjoying the Discord",
+    "start": 810.06,
+    "duration": 3.38
+  }
+]
