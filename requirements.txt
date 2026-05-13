@@ -16,6 +16,7 @@ transformers>=4.46.0
 accelerate>=0.26.0
 peft>=0.12.0
 sentencepiece>=0.1.99
+bitsandbytes
 safetensors>=0.4.3
 
 # Transcripción: video→WAV (ffmpeg) + faster-whisper local, con Google Speech como respaldo
@@ -38,3 +39,4 @@ pytube>=15.0
 requests>=2.31.0
 python-dotenv>=1.0.0
 isodate>=0.6.1
+xgboost>=2.0.0

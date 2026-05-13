@@ -2088,7 +2088,7 @@ def build_demo() -> gr.Blocks:
         button_primary_text_color_dark="white",
     )
 
-    with gr.Blocks(title="YouTube Boost AI", theme=theme, css=CUSTOM_CSS) as demo:
+    with gr.Blocks(title="YouTube AI Recomendations", theme=theme, css=CUSTOM_CSS) as demo:
         gr.HTML("""
         <div class="yba-hero">
           <span class="yba-pill">🎬 VIDEO</span>
@@ -2096,10 +2096,10 @@ def build_demo() -> gr.Blocks:
           <span class="yba-pill">📊 PROYECCIÓN</span>
           <span class="yba-pill">🎨 COMPOSICIÓN</span>
           <span class="yba-pill">💬 SENTIMIENTO</span>
-          <h1>YouTube Boost AI</h1>
+          <h1>YouTube AI Recomendations</h1>
           <p>Pega una URL o sube un MP4 · Transcripción automática MP4 vía faster-whisper + Google Speech ·
           OCR + análisis visual siempre juntos · Análisis de sentimiento de comentarios ·
-          Recomendación por Gemini 2.5 Flash Lite o SmolLM2-135M local.</p>
+          Recomendación por Gemini para DEMO o Qwen local.</p>
         </div>""")
 
         with gr.Row():
@@ -2171,15 +2171,14 @@ def build_demo() -> gr.Blocks:
                     with gr.Row():
                         cpm_estimado = gr.Number(label="CPM USD", value=DEFAULT_CPM)
                         presupuesto  = gr.Number(label="Presupuesto USD", value=20)
-                    llm_mode = gr.Dropdown(
-                        choices=["auto", "gemini", "local_open_source", "rules"],
-                        value="auto",
+                    llm_mode = gr.Radio(
+                        choices=["local_open_source", "gemini", "rules"],
+                        value="local_open_source",
                         label="Motor LLM",
                         info=(
-                            "auto: usa Gemini si GEMINI_API_KEY existe, sino SmolLM2 si instalado, sino rules. "
-                            "gemini: Gemini 2.5 Flash Lite (necesita GEMINI_API_KEY). "
-                            "local_open_source: Qwen/SmolLM2 local opcional con LoRA/QLoRA (instala requirements-llm.txt). "
-                            "Puede tardar más en CPU. Si falla, usará rules. "
+                            "gemini: Gemini 2.5 Flash Lite. "
+                            "local_open_source: Qwen con LoRA/QLoRA. "
+                            "Si falla, usará rules."
                             "rules: redacción determinista sin LLM."
                         ),
                     )
