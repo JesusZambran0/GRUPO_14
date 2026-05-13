@@ -1,5 +1,5 @@
 ---
-title: YouTube Boost AI Definitivo
+title: YouTube AI Recomendations
 emoji: 🎬
 colorFrom: red
 colorTo: purple
@@ -10,53 +10,239 @@ python_version: "3.11"
 pinned: false
 ---
 
-# 🎬 YouTube Boost AI Definitivo
+# 🎬 YouTube AI Recomendations
 
-Prototipo académico funcional para **analizar videos orgánicos de YouTube** y recomendar si conviene **impulsar**, **ajustar antes de impulsar**, **monitorear**, **no impulsar** o enviar a **revisión humana**.
+**YouTube AI Recomendations** es un prototipo académico desarrollado en Gradio para analizar videos cortos de YouTube y apoyar la decisión de si un contenido tiene potencial para ser impulsado mediante pauta publicitaria.
 
-El sistema integra varias capas de IA y análisis:
+El sistema permite cargar videos de máximo **1 minuto de duración** o ingresar una URL de YouTube. A partir del video, analiza audio, texto, frames, métricas, composición visual, guion, sentimiento, riesgos publicitarios y modelos predictivos para generar una recomendación final.
 
-- Modelo supervisado entrenado con datasets reales de YouTube.
-- Descarga opcional de videos de YouTube en 360p mediante URL, solo para videos de hasta 60 segundos.
-- Transcripción automática obligatoria con `faster-whisper`.
-- OCR obligatorio sobre frames si hay video.
-- Evaluación preliminar de políticas de YouTube Ads.
-- Análisis semántico del guion/copy.
-- Análisis visual ligero basado en composición: regla de tercios, contraste, figura-fondo, carga cognitiva y jerarquía visual.
-- Predicción/estimación de métricas esperadas tras potenciación.
-- LLM open source pequeño: `HuggingFaceTB/SmolLM2-135M-Instruct`, cargado desde Hugging Face si el entorno lo permite.
-- Fallback por reglas si el LLM no está disponible, para no romper la demo.
-
-> El sistema **no garantiza viralidad**, **no predice ROI causal** y **no aprueba anuncios oficialmente**. Funciona como apoyo a decisión humana.
+> Este software es un **prototipo académico**. No garantiza viralidad, ventas, ROI ni aprobación oficial en YouTube Ads. Su objetivo es servir como herramienta de apoyo para análisis, investigación y toma de decisiones preliminar.
 
 ---
 
-## Mejoras de UI y robustez (cambio actual)
+## 🚀 ¿Para qué sirve?
 
-Esta versión introduce:
+El prototipo ayuda a responder preguntas como:
 
-- **Estética dark inspiradora**: tema violeta/cyan sobre fondo `#0b0d12`, hero con pills, botón primario con gradiente. CSS personalizado en `app.py`.
-- **Descarga robusta de YouTube**: el sistema prueba en cascada `yt-dlp → pytubefix → pytube` y, si los tres fallan, recupera metadata vía oEmbed con un mensaje claro al usuario para subir el MP4 manualmente. Video recortado automáticamente a ≤60 s con `ffmpeg` si la duración descargada excede el límite. Resolución forzada a 360p.
-- **Resumen ejecutivo para marketing**: lenguaje claro, sin jerga técnica. Headline por acción, tabla de métricas clave en porcentajes y dólares formateados, bullets cortos en "Por qué" y "Qué hacer ahora". Módulo `src/exec_summary.py`.
-- **Análisis visual con 10 frames anotados**: timestamps uniformemente espaciados, frame anotado en PNG con grid de tercios + intersecciones + centroide focal. Recomendaciones agrupadas por teoría (regla de tercios, composición geométrica, foco visual, iluminación/contraste, carga cognitiva). Módulo `src/visual_composition.py`.
-- **Gráficos estadísticos dark**: 3 PNG generados en cada análisis — diagnóstico (potencial, retención, engagement, guion, riesgo política), proyección actual vs esperado con $ y categorías sensibles detectadas. Paleta consistente con la UI. Módulo `src/analytics_viz.py`.
-- **Política permisiva pero estricta cuando importa**: solo se escala a `REVISIÓN HUMANA` cuando el evaluador detecta 3+ categorías de alta severidad o cuando NO hay nada de texto evaluable (ni título, ni descripción, ni transcripción). La transcripción ausente por sí sola ya **no bloquea** — el modelo + screening parcial continúan con título + descripción.
+- ¿Este video tiene potencial para ser impulsado con publicidad?
+- ¿El mensaje es claro para una audiencia?
+- ¿El video tiene buen gancho, buena composición visual y buen CTA?
+- ¿Hay riesgos preliminares de políticas publicitarias?
+- ¿Qué debería mejorarse antes de invertir presupuesto?
+- ¿Cuál podría ser el rendimiento estimado si se pauta?
+- ¿Qué CPM o eficiencia aproximada podría esperarse según el modelo disponible?
 
 ---
 
-## Ejecución local
+## 🧠 ¿Qué analiza el sistema?
+
+YouTube AI Recomendations combina varias capas de análisis:
+
+### 1. Video
+
+El sistema procesa videos cortos de hasta **60 segundos**.
+
+Puede trabajar con:
+
+- Archivo MP4 cargado manualmente.
+- URL de YouTube.
+- Metadata ingresada por el usuario.
+- Transcripción manual si el audio no puede procesarse.
+
+Del video se extraen señales audiovisuales, frames y datos técnicos básicos para alimentar el análisis.
+
+### 2. Transcripción automática
+
+El audio del video se convierte en texto para analizar el mensaje hablado.
+
+Según la configuración del entorno, el sistema puede usar:
+
+- `faster-whisper`.
+- Google Speech Recognition.
+- Transcripción manual ingresada por el usuario.
+
+La transcripción permite evaluar claridad del mensaje, estructura del guion, hook inicial, propuesta de valor, CTA o cierre y coherencia entre lo que se dice y lo que se muestra.
+
+### 3. OCR del texto en pantalla
+
+El sistema analiza frames del video para detectar texto visible.
+
+Esto ayuda a identificar subtítulos, frases destacadas, llamados a la acción, promociones, mensajes de urgencia, señales de confianza, exceso de texto en pantalla y coherencia entre texto visual, título y guion.
+
+Si el OCR detecta texto imperfecto, el sistema puede apoyarse en LLM o reglas para interpretarlo de forma más comprensible.
+
+### 4. Análisis visual y composición
+
+El prototipo revisa la composición visual del video mediante frames representativos.
+
+Evalúa aspectos como:
+
+- Regla de tercios.
+- Composición áurea.
+- Balance visual.
+- Claridad focal.
+- Contraste.
+- Complejidad visual.
+- Movimiento.
+- Legibilidad del texto en pantalla.
+
+Este módulo busca determinar si el video tiene una estructura visual clara y si puede captar atención en formatos de pauta digital.
+
+### 5. Análisis de guion y lenguaje natural
+
+A partir del título, descripción, transcripción y OCR, el sistema evalúa el contenido textual y narrativo.
+
+Puede identificar si el video se acerca a un formato comercial, educativo, informativo, humorístico, musical, branding o entretenimiento.
+
+También analiza claridad comunicacional, hook, tono, complejidad del mensaje, coherencia semántica, fuerza del CTA, debilidades del guion y mejoras recomendadas.
+
+### 6. Análisis de sentimiento
+
+Si se ingresan comentarios o se obtienen mediante API, el sistema analiza la percepción del público.
+
+Entrega porcentaje de sentimiento positivo, neutro y negativo, palabras frecuentes y lectura general de aceptación, duda o rechazo.
+
+### 7. Evaluación preliminar de políticas publicitarias
+
+El sistema realiza un screening preliminar para detectar posibles riesgos antes de pautar.
+
+Puede advertir sobre lenguaje sensible, promesas fuertes, claims riesgosos, temas que podrían requerir revisión, falta de información textual suficiente o posibles conflictos con lineamientos de anuncios.
+
+> Esta evaluación no reemplaza la revisión oficial de YouTube Ads. Es una aproximación académica para anticipar riesgos.
+
+### 8. Modelo predictivo principal
+
+El sistema utiliza un modelo de clasificación para estimar si el video tiene potencial publicitario.
+
+Este modelo puede generar acciones como:
+
+- **Impulsar**.
+- **Ajustar antes de impulsar**.
+- **Monitorear**.
+- **No impulsar**.
+- **Enviar a revisión humana**.
+
+La decisión se basa en una combinación de métricas, señales textuales, visuales, OCR, transcripción y variables operativas.
+
+### 9. XGBoost para estimación de pauta
+
+El prototipo puede incluir un segundo modelo basado en **XGBoost** para estimar resultados relacionados con pauta pagada.
+
+La lógica es:
+
+1. Primero se ejecuta el modelo principal.
+2. Si el video supera el umbral definido de potencial publicitario, se activa el análisis XGBoost.
+3. XGBoost estima posibles resultados de pauta.
+
+Este módulo puede estimar rendimiento esperado con publicidad, CPM probable, impresiones estimadas, eficiencia aproximada por dólar invertido y nicho o categoría probable del anuncio.
+
+Si el modelo XGBoost no está disponible, el sistema utiliza un CPM manual como respaldo.
+
+### 10. Recomendaciones con LLM o reglas
+
+El sistema genera recomendaciones estratégicas usando Gemini, un modelo local open source si está disponible, o reglas internas como fallback.
+
+Las recomendaciones explican por qué conviene o no impulsar, qué ajustar antes de pautar, qué mejorar en el guion, qué mejorar visualmente, qué riesgos revisar y cómo interpretar gráficos y métricas.
+
+---
+
+## 🖥️ ¿Cómo se usa?
+
+### Opción 1: Cargar un video MP4
+
+1. Abre la aplicación.
+2. Sube un video en formato MP4.
+3. Verifica que dure máximo **1 minuto**.
+4. Completa los campos disponibles: título, descripción, categoría o tema, visualizaciones, likes, comentarios, shares, retención estimada, presupuesto de pauta y CPM estimado.
+5. Selecciona el motor LLM: `auto`, `gemini`, `local_open_source` o `rules`.
+6. Ejecuta el análisis.
+7. Revisa las pestañas de resultados.
+
+### Opción 2: Analizar una URL de YouTube
+
+1. Copia la URL del video.
+2. Pégala en el campo correspondiente.
+3. Si la API de YouTube está configurada, la app puede recuperar metadata.
+4. El sistema intentará descargar el video para analizarlo.
+5. Si la descarga falla, sube el MP4 manualmente.
+
+### Opción 3: Usar datos manuales
+
+Si no se puede procesar el video completo, puedes ingresar manualmente transcripción, texto visible en pantalla, comentarios, métricas públicas, información del canal, presupuesto y CPM.
+
+Esto permite hacer un análisis parcial aunque algunos módulos automáticos no estén disponibles.
+
+---
+
+## 📊 ¿Qué resultados entrega?
+
+### Resumen ejecutivo
+
+Presenta una lectura clara del caso:
+
+- Acción recomendada.
+- Potencial del video.
+- Razones principales de la decisión.
+- Riesgos detectados.
+- Recomendaciones inmediatas.
+- Lectura del modelo principal.
+- Lectura del módulo XGBoost, si aplica.
+
+### Métricas
+
+Muestra visualizaciones, likes, comentarios, engagement, shares, retención, tiempo desde publicación, views por hora y métricas públicas del canal si están disponibles.
+
+### Transcripción
+
+Incluye texto transcrito, fuente de la transcripción, cantidad de palabras, interpretación del guion, fortalezas, debilidades y mejoras sugeridas.
+
+### OCR
+
+Incluye texto detectado en pantalla, texto corregido o interpretado, cobertura de texto en frames, densidad visual, relevancia del texto y detección de CTA, promoción, urgencia o confianza.
+
+### Análisis visual
+
+Incluye score global de composición, regla de tercios, composición áurea, balance geométrico, claridad focal, contraste, complejidad visual y recomendaciones visuales.
+
+### Políticas
+
+Incluye nivel de riesgo, estado estimado, categorías sensibles, explicación del riesgo y recomendaciones antes de pautar.
+
+### Sentimiento
+
+Incluye distribución positiva, neutra y negativa, gráficos de sentimiento, palabras frecuentes y lectura general del público.
+
+### Gráficos
+
+Incluye visualizaciones del diagnóstico general, proyección de pauta, riesgo publicitario, XGBoost de pauta e interpretación textual de cada gráfico.
+
+### JSON / API
+
+Incluye la salida completa en formato JSON para depuración, revisión técnica, integración con otros sistemas y trazabilidad académica.
+
+---
+
+## ⚙️ Instalación local
+
+Instala las dependencias:
 
 ```bash
 pip install -r requirements.txt
-python tests/smoke_test.py    # 18 PASS · 1 SKIP · 0 FAIL en ~4s
-python app.py                 # demo Gradio dark theme
 ```
+
+Ejecuta la aplicación:
+
+```bash
+python app.py
+```
+
+Luego abre la URL local generada por Gradio.
 
 ---
 
-## Despliegue en Hugging Face Spaces
+## 🚀 Despliegue en Hugging Face Spaces
 
-Subir el contenido del repo a la raíz del Space. La raíz debe contener:
+La estructura mínima recomendada es:
 
 ```text
 app.py
@@ -65,80 +251,120 @@ requirements.txt
 packages.txt
 src/
 models/
-data/
 demo_cache/
 docs/
 tests/
 ```
 
-La demo funciona con:
+Archivos recomendados dentro de `models/`:
 
-- `app.py` en la raíz.
-- `models/best_model.joblib` (modelo entrenado con 68 526 filas reales de Kaggle).
-- `models/metric_regressors.joblib`.
-- `ffmpeg` instalado por `packages.txt` (para extracción de audio y recorte).
-- `faster-whisper` para transcripción.
-- 3 descargadores en cascada: `yt-dlp`, `pytubefix`, `pytube` (todos en `requirements.txt`).
-- `pytesseract` para OCR.
-
----
-
-## Restricciones técnicas importantes
-
-- Solo se procesan videos de hasta **60 segundos** en la demo. Si la descarga trae un video más largo, se recorta automáticamente con `ffmpeg`.
-- Si una URL de YouTube no se puede descargar con ningún backend, el sistema muestra metadata oEmbed y pide al usuario subir el MP4 manualmente.
-- La política de **REVISIÓN HUMANA** ahora solo se activa cuando hay 3+ categorías de alta severidad detectadas o cuando no hay nada de texto evaluable. Esto evita el bloqueo constante reportado en versiones anteriores.
-- OCR se ejecuta si hay video. Si no encuentra texto, lo informa explícitamente.
-- El LLM local es ligero, pero puede tardar en la primera carga. Si falla, el sistema usa reglas sin romper la demo.
-
----
-
-## Fuentes de datos
-
-El repositorio académico completo incluye datasets reales de YouTube y transcripciones públicas. La versión de despliegue conserva el modelo entrenado, patrones de guion y archivos necesarios para la demo.
-
----
-
-## Referencias técnicas
-
-- `faster-whisper`: transcripción local optimizada con CTranslate2.
-- `HuggingFaceTB/SmolLM2-135M-Instruct`: LLM open source compacto para redacción de recomendaciones.
-- `yt-dlp`: descarga opcional de video desde URL para análisis académico.
-- YouTube Ads / Advertiser-friendly guidelines: base para evaluación preliminar de políticas.
-
-## Cambios aplicados en esta versión full
-
-Incluye todos los cambios del repositorio light y conserva los datasets, notebooks y archivos de entrenamiento del paquete full:
-
-- Reemplazo de paneles JSON visibles por análisis narrativos en Markdown para métricas, LLM técnico, OCR, políticas, composición visual, guion y sentimiento.
-- El JSON completo se mantiene únicamente en la pestaña **JSON / API** para depuración e integración.
-- Análisis de sentimiento mejorado con porcentajes, gráfico de distribución y nubes de palabras positivas, neutras y negativas sin stopwords.
-- Cálculo automático de horas desde publicación usando `publishedAt` de YouTube cuando hay `YOUTUBE_API_KEY`.
-- Transcripción automática de MP4 con `faster-whisper` local como motor preferido y Google Speech Recognition como respaldo.
-- Análisis visual ampliado con composición áurea, retícula 0.382 / 0.618, score áureo y conclusión visual accionable en la misma ventana.
-- Se conservan datasets raw/processed, notebooks y scripts de entrenamiento para trabajar fuera del modo demo.
-
-
-## Actualización generada: QLoRA + XGBoost + tesis
-
-Esta versión fue regenerada fusionando la versión `youtube-ai-recomendations` con la versión full. Incluye:
-
-- Adaptador Qwen/Qwen2.5-0.5B-Instruct QLoRA en `models/qwen_marketing_qlora/`.
-- Segundo modelo `models/xgboost_paid_ads.joblib` para estimar rendimiento pagado y CPM.
-- Gate metodológico: regresión logística primero; si `probability >= 0.51`, se ejecuta XGBoost.
-- Auditoría de tesis en `docs/THESIS_SUSTAINABILITY_AUDIT.md`.
-- Notebook principal full y notebook light reproducible en `notebooks/`.
-
-### Ejecutar
-
-```bash
-pip install -r requirements.txt
-python app.py
+```text
+best_model.joblib
+metric_regressors.joblib
+xgboost_paid_ads.joblib
+xgboost_paid_ads_metadata.json
 ```
 
-### Reentrenar XGBoost
+Dependencias del sistema recomendadas en `packages.txt`:
+
+```text
+ffmpeg
+tesseract-ocr
+```
+
+Secrets recomendados en Hugging Face Spaces:
+
+```text
+GEMINI_API_KEY
+YOUTUBE_API_KEY
+```
+
+Estas claves deben configurarse como **Secrets**, no subirse dentro del código ni en archivos `.env`.
+
+---
+
+## 📁 Estructura general del proyecto
+
+```text
+YouTube-AI-Recomendations/
+├── app.py
+├── README.md
+├── requirements.txt
+├── packages.txt
+├── src/
+│   ├── analytics_viz.py
+│   ├── comment_sentiment.py
+│   ├── exec_summary.py
+│   ├── features.py
+│   ├── llm_provider.py
+│   ├── ocr_video.py
+│   ├── paid_ads_xgboost.py
+│   ├── predict.py
+│   ├── script_analyzer.py
+│   ├── transcription.py
+│   ├── video_processing.py
+│   ├── visual_composition.py
+│   └── youtube_api.py
+├── models/
+│   ├── best_model.joblib
+│   ├── metric_regressors.joblib
+│   ├── xgboost_paid_ads.joblib
+│   └── xgboost_paid_ads_metadata.json
+├── demo_cache/
+├── docs/
+├── tests/
+└── notebooks/
+```
+
+---
+
+## 🔬 Alcance académico
+
+Este proyecto fue desarrollado como prototipo experimental para investigación aplicada sobre análisis de videos orgánicos y decisión preliminar de pauta publicitaria.
+
+Integra aprendizaje automático supervisado, procesamiento de lenguaje natural, OCR, transcripción automática, análisis de sentimiento, análisis visual, evaluación preliminar de riesgo publicitario, estimación de rendimiento mediante XGBoost y recomendaciones generadas por LLM o reglas.
+
+El objetivo es demostrar que una arquitectura multimodal puede apoyar la evaluación de contenido antes de invertir presupuesto publicitario.
+
+---
+
+## ⚠️ Limitaciones
+
+- No garantiza viralidad.
+- No garantiza ventas.
+- No predice ROI causal real.
+- No reemplaza la revisión oficial de YouTube Ads.
+- No accede a métricas privadas de YouTube Studio.
+- La descarga automática de YouTube puede fallar según el entorno.
+- La calidad del análisis depende del audio, video, metadata y texto disponible.
+- El modelo XGBoost debe recalibrarse con campañas reales para uso comercial.
+- Los resultados deben interpretarse como apoyo a decisión, no como verdad absoluta.
+
+---
+
+## 🧪 Reentrenamiento
+
+Para reentrenar modelos o extender el prototipo, usa los scripts y notebooks del repositorio académico completo.
+
+Ejemplo para reentrenar XGBoost:
 
 ```bash
-pip install -r requirements-train.txt xgboost
+pip install -r requirements-train.txt
 python scripts/train_xgboost_paid_ads.py
 ```
+
+---
+
+## 🧾 Uso recomendado
+
+Este software debe usarse como herramienta de análisis preliminar en contextos académicos o experimentales.
+
+Antes de usarlo en producción se recomienda validar modelos con datos propios, revisar cumplimiento legal y de privacidad, evaluar sesgos del sistema, medir resultados con campañas reales, documentar supuestos metodológicos y ajustar reglas de política publicitaria.
+
+---
+
+## 👤 Autor
+
+Proyecto académico: **YouTube AI Recomendations**
+
+Prototipo de análisis multimodal para videos de YouTube y decisión preliminar de impulso publicitario.

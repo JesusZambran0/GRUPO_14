@@ -981,6 +981,213 @@ Estas métricas contextualizan el video frente al rendimiento público reciente 
 """.strip()
 
 
+def _xgboost_exec_summary_markdown(xgb: Dict[str, Any]) -> str:
+    """Bloque ejecutivo específico para el segundo modelo XGBoost."""
+    if not xgb:
+        return """
+### Segundo modelo XGBoost de pauta
+
+No se generó análisis XGBoost para pauta pagada. Revisa que el módulo `src/paid_ads_xgboost.py`, el archivo `.joblib` y la dependencia `xgboost` estén disponibles en el despliegue.
+""".strip()
+
+    eligible = bool(xgb.get("eligible_for_paid_xgboost"))
+    model_available = bool(xgb.get("model_available"))
+    logistic_probability = safe_float(xgb.get("logistic_probability", xgb.get("model_probability", 0)))
+    gate_threshold = safe_float(xgb.get("gate_threshold", 0.51), 0.51)
+    niche = xgb.get("ad_niche") or xgb.get("niche") or xgb.get("predicted_niche") or "—"
+
+    if not eligible:
+        return f"""
+### Segundo modelo XGBoost de pauta
+
+El video **no pasó al segundo filtro XGBoost** porque la regresión logística estimó una probabilidad de **{logistic_probability:.1%}**, menor al umbral de **{gate_threshold:.0%}**.
+
+| Variable ejecutiva | Resultado |
+|---|---:|
+| Estado del segundo modelo | No ejecutado por gate metodológico |
+| Probabilidad base | {logistic_probability:.1%} |
+| Umbral de activación | {gate_threshold:.0%} |
+| Nicho estimado | {niche} |
+
+**Lectura ejecutiva:** antes de invertir pauta, conviene mejorar señales orgánicas, claridad del mensaje o ajuste creativo para superar el umbral mínimo de candidatura publicitaria.
+""".strip()
+
+    status = "XGBoost cargado" if model_available else "Fallback con CPM manual"
+    warning = xgb.get("methodological_warning") or xgb.get("warning") or "Usar como estimación inicial y validar con campañas reales."
+    return f"""
+### Segundo modelo XGBoost de pauta
+
+El video **sí pasó al segundo filtro**: la regresión logística superó el umbral de **{gate_threshold:.0%}** y el sistema estimó rendimiento de pauta, CPM y eficiencia de inversión.
+
+| Variable ejecutiva | Estimación |
+|---|---:|
+| Estado del segundo modelo | {status} |
+| Probabilidad base | {logistic_probability:.1%} |
+| Nicho estimado | {niche} |
+| Score pagado estimado | {_fmt_float(xgb.get('predicted_paid_performance_score'), 2)}/100 |
+| CPM estimado | ${_fmt_float(xgb.get('predicted_cpm'), 2)} |
+| Impresiones por dólar | {_fmt_float(xgb.get('estimated_impressions_per_dollar'), 2)} |
+| Impresiones con presupuesto | {_fmt_num(xgb.get('estimated_budget_impressions'))} |
+
+**Lectura ejecutiva:** {xgb.get('recommendation', 'Ejecutar una prueba controlada de bajo presupuesto y validar CPM/CTR reales.')}  
+**Advertencia metodológica:** {warning}
+""".strip()
+
+
+def _append_xgboost_to_exec_summary(exec_s: Dict[str, Any], xgb: Dict[str, Any]) -> Dict[str, Any]:
+    """Añade el bloque XGBoost al markdown del resumen ejecutivo."""
+    if not isinstance(exec_s, dict):
+        exec_s = {"markdown": str(exec_s or "")}
+    base = str(exec_s.get("markdown", "") or "").strip()
+    xgb_block = _xgboost_exec_summary_markdown(xgb)
+    exec_s["markdown"] = (base + "\n\n" + xgb_block).strip() if xgb_block else base
+    exec_s["xgboost_pauta"] = xgb or {}
+    return exec_s
+
+
+def _create_xgboost_chart(xgb: Dict[str, Any], *, budget: float = 0.0, manual_cpm: float = DEFAULT_CPM) -> Optional[str]:
+    """Crea un gráfico independiente para el módulo XGBoost de pauta."""
+    try:
+        import matplotlib.pyplot as plt
+    except Exception:
+        return None
+
+    xgb = xgb or {}
+    charts_dir = RUNTIME_CACHE_DIR / "charts"
+    charts_dir.mkdir(parents=True, exist_ok=True)
+    out_path = charts_dir / f"xgboost_pauta_{int(datetime.now(timezone.utc).timestamp())}.png"
+
+    logistic_pct = max(0.0, min(100.0, safe_float(xgb.get("logistic_probability", 0)) * 100))
+    paid_score = max(0.0, min(100.0, safe_float(xgb.get("predicted_paid_performance_score", logistic_pct))))
+    cpm = max(0.1, safe_float(xgb.get("predicted_cpm", manual_cpm), manual_cpm))
+    cpm_efficiency = max(0.0, min(100.0, (safe_float(DEFAULT_CPM, 5.0) / cpm) * 100.0))
+    threshold_pct = max(0.0, min(100.0, safe_float(xgb.get("gate_threshold", 0.51), 0.51) * 100))
+
+    labels = ["Prob. base", "Score pago", "Eficiencia CPM", "Gate 51%"]
+    values = [logistic_pct, paid_score, cpm_efficiency, threshold_pct]
+
+    fig, ax = plt.subplots(figsize=(8.8, 4.4), dpi=150)
+    fig.patch.set_facecolor("#070912")
+    ax.set_facecolor("#0d111c")
+    bars = ax.barh(labels, values)
+    ax.set_xlim(0, 100)
+    ax.set_xlabel("Score normalizado 0-100", color="#cbd5e1")
+    ax.set_title("XGBoost — estimación de pauta pagada", color="#f8fafc", fontsize=13, weight="bold")
+    ax.tick_params(colors="#cbd5e1")
+    for spine in ax.spines.values():
+        spine.set_color("#262b36")
+    ax.grid(axis="x", alpha=0.18)
+    for bar, value in zip(bars, values):
+        ax.text(min(value + 2, 98), bar.get_y() + bar.get_height() / 2, f"{value:.1f}", va="center", color="#f8fafc", fontsize=9)
+
+    niche = xgb.get("ad_niche") or xgb.get("niche") or "—"
+    impressions = safe_float(xgb.get("estimated_budget_impressions", 0))
+    model_state = "modelo activo" if xgb.get("model_available") else "fallback/manual"
+    caption = f"Nicho: {niche} · CPM: ${cpm:.2f} · Presupuesto: ${safe_float(budget, 0):.2f} · Impresiones: {impressions:,.0f} · {model_state}"
+    fig.text(0.02, 0.02, caption, color="#94a3b8", fontsize=8)
+    fig.tight_layout(rect=[0, 0.06, 1, 1])
+    fig.savefig(out_path, facecolor=fig.get_facecolor(), bbox_inches="tight")
+    plt.close(fig)
+    return str(out_path)
+
+
+def _chart_interpretation_rules(result: Dict[str, Any], chart_key: str) -> str:
+    """Fallback determinista para interpretar cada gráfico si no hay LLM externo."""
+    result = result or {}
+    xgb = result.get("xgboost_pauta") or result.get("analisis_xgboost_pauta") or (result.get("metricas", {}) or {}).get("xgboost_pauta", {}) or {}
+    proy = result.get("proyeccion_pauta", {}) or {}
+    pol = result.get("analisis_politicas", {}) or {}
+    score = safe_float(result.get("score_hibrido", 0)) * 100
+    prob = safe_float(result.get("probabilidad_rendimiento", 0)) * 100
+
+    if chart_key == "score_chart":
+        return f"""
+### Interpretación LLM del gráfico de diagnóstico
+
+- El gráfico resume la fuerza predictiva general del video: probabilidad base **{prob:.1f}%** y score híbrido **{score:.1f}/100**.
+- Si el score está por encima del promedio pero la política o el guion están débiles, la recomendación debe ser optimizar antes de escalar presupuesto.
+- La lectura principal es priorizar videos con buen rendimiento estimado, bajo riesgo y señales orgánicas consistentes.
+""".strip()
+
+    if chart_key == "projection_chart":
+        return f"""
+### Interpretación LLM del gráfico de proyección
+
+- La proyección compara el rendimiento actual contra el escenario con pauta usando presupuesto **${safe_float(proy.get('budget', 0)):.2f}** y CPM **${safe_float(proy.get('cpm', result.get('cpm_estimado', DEFAULT_CPM))):.2f}**.
+- Si el crecimiento esperado es moderado, la pauta debe iniciar como prueba A/B y no como inversión agresiva.
+- La decisión final debe validar CTR, CPM real y retención post-clic durante las primeras horas de campaña.
+""".strip()
+
+    if chart_key == "policy_chart":
+        return f"""
+### Interpretación LLM del gráfico de riesgo publicitario
+
+- El gráfico resume el riesgo de aprobación publicitaria: nivel **{pol.get('policy_risk_level', '—')}** y estado estimado **{pol.get('youtube_ad_status_estimate', '—')}**.
+- Si aparece riesgo medio o alto, el video puede requerir ajustes de claims, texto en pantalla, guion o contexto antes de pautar.
+- Una pieza con buen score pero riesgo de política debe tratarse como candidata condicionada, no como aprobación automática.
+""".strip()
+
+    if chart_key == "xgboost_chart":
+        eligible = "sí" if xgb.get("eligible_for_paid_xgboost") else "no"
+        return f"""
+### Interpretación LLM del gráfico XGBoost
+
+- El gráfico muestra si el video pasó el gate del **51%** y cómo se comporta el segundo modelo de pauta.
+- Elegible para XGBoost: **{eligible}**. Nicho estimado: **{xgb.get('ad_niche', '—')}**.
+- Score pagado estimado: **{_fmt_float(xgb.get('predicted_paid_performance_score'), 2)}/100**; CPM estimado: **${_fmt_float(xgb.get('predicted_cpm'), 2)}**; impresiones con presupuesto: **{_fmt_num(xgb.get('estimated_budget_impressions'))}**.
+- Si el módulo aparece en fallback, la lectura usa CPM manual y debe resolverse subiendo el `.joblib` o instalando `xgboost` en el despliegue.
+""".strip()
+
+    return "### Interpretación LLM\n\nNo hay datos suficientes para interpretar este gráfico."
+
+
+def _interpret_chart_with_llm(result: Dict[str, Any], chart_key: str, mode: str) -> str:
+    """Interpreta un gráfico con el proveedor LLM activo y cae a reglas si falla."""
+    fallback = _chart_interpretation_rules(result, chart_key)
+    if (mode or "rules") == "rules":
+        return fallback + "\n\n_Fuente: rules._"
+
+    chart_titles = {
+        "score_chart": "Diagnóstico de score y probabilidad",
+        "projection_chart": "Proyección actual vs pauta",
+        "policy_chart": "Riesgo de políticas publicitarias",
+        "xgboost_chart": "XGBoost de rendimiento pagado, CPM y nicho",
+    }
+    xgb = result.get("xgboost_pauta") or result.get("analisis_xgboost_pauta") or {}
+    payload = {
+        "tipo_solicitud": "interpretacion_individual_de_grafico",
+        "instruccion": (
+            "Interpreta exclusivamente este gráfico para un dashboard ejecutivo de YouTube Ads. "
+            "Responde en español con 3 a 5 bullets accionables, sin inventar métricas."
+        ),
+        "grafico": chart_titles.get(chart_key, chart_key),
+        "datos_clave": {
+            "accion_final": result.get("accion_final"),
+            "score_hibrido_0_100": round(safe_float(result.get("score_hibrido", 0)) * 100, 2),
+            "probabilidad_rendimiento_pct": round(safe_float(result.get("probabilidad_rendimiento", 0)) * 100, 2),
+            "politicas": result.get("analisis_politicas", {}),
+            "proyeccion_pauta": result.get("proyeccion_pauta", {}),
+            "xgboost_pauta": xgb,
+        },
+    }
+    try:
+        llm_resp = generate_recommendation_with_llm(payload, mode=(mode or "auto"))
+        txt = str(llm_resp.get("recomendacion") or "").strip()
+        src = str(llm_resp.get("source") or "rules")
+        # Si el proveedor cayó a rules o devolvió algo vacío, usamos la interpretación especializada de fallback.
+        if txt and src.lower() not in {"rules", "fallback"}:
+            return f"### Interpretación LLM\n\n{txt}\n\n_Fuente: **{src}**._"
+        return fallback + f"\n\n_Fuente: **{src}**._"
+    except Exception as exc:
+        return fallback + f"\n\n_Fuente: rules · LLM no disponible ({type(exc).__name__})._"
+
+
+def _build_chart_interpretations(result: Dict[str, Any], mode: str) -> Dict[str, str]:
+    """Genera interpretaciones para cada gráfico de la pestaña Gráficos."""
+    keys = ["score_chart", "projection_chart", "policy_chart", "xgboost_chart"]
+    return {key: _interpret_chart_with_llm(result, key, mode) for key in keys}
+
+
 def _llm_markdown(llm: Dict[str, Any]) -> str:
     return f"""
 ### Diagnóstico comunicacional
@@ -1447,23 +1654,35 @@ def analyze_video(
     str,            # 10 analisis_sentimiento narrativo
     List[str],      # 11 frames galería
     str,            # 12 score_chart
-    str,            # 13 projection_chart
-    str,            # 14 policy_chart
-    str,            # 15 advertencias md
-    str,            # 16 recomendación redactada md
-    str,            # 17 redacción meta narrativa
-    str,            # 18 sentiment_bar_chart
-    str,            # 19 wordcloud_positive
-    str,            # 20 wordcloud_neutral
-    str,            # 21 wordcloud_negative
+    str,            # 13 score_chart_interpretation
+    str,            # 14 projection_chart
+    str,            # 15 projection_chart_interpretation
+    str,            # 16 policy_chart
+    str,            # 17 policy_chart_interpretation
+    str,            # 18 xgboost_chart
+    str,            # 19 xgboost_chart_interpretation
+    str,            # 20 advertencias md
+    str,            # 21 recomendación redactada md
+    str,            # 22 redacción meta narrativa
+    str,            # 23 sentiment_bar_chart
+    str,            # 24 wordcloud_positive
+    str,            # 25 wordcloud_neutral
+    str,            # 26 wordcloud_negative
 ]:
-    """Pipeline completo. Devuelve 22 outputs."""
+    """Pipeline completo. Devuelve 27 outputs."""
 
     # ── Demo precalculado ────────────────────────────────────────────────────
     demo = _load_demo(demo_case)
     if demo:
         result  = _result_from_demo(demo)
+        demo_xgb = result.get("xgboost_pauta") or (result.get("metricas", {}) or {}).get("xgboost_pauta", {}) or {}
+        result["xgboost_pauta"] = demo_xgb
+        result["analisis_xgboost_pauta"] = demo_xgb
         charts  = create_analysis_charts(result)
+        xgboost_chart = _create_xgboost_chart(demo_xgb, budget=safe_float(presupuesto, 0), manual_cpm=safe_float(result.get("cpm_estimado", DEFAULT_CPM)))
+        chart_interps = _build_chart_interpretations(result, llm_mode or "auto")
+        result["interpretaciones_graficos_llm"] = chart_interps
+        result["modulos_analizados"] = _build_modules_audit(result)
         exec_s  = build_executive_summary(
             final_recommendation=result,
             prediction=result.get("modelo", {}),
@@ -1476,6 +1695,7 @@ def analyze_video(
             cpm=safe_float(result.get("cpm_estimado", DEFAULT_CPM)),
             budget=safe_float(presupuesto, 0),
         )
+        exec_s = _append_xgboost_to_exec_summary(exec_s, demo_xgb)
         result["resumen_ejecutivo"] = exec_s
         diag = _build_diagnostic(result, {}, {})
         redac = generate_recommendation_with_llm(diag, mode=(llm_mode or "auto"))
@@ -1505,7 +1725,10 @@ def analyze_video(
             _script_markdown(result.get("analisis_guion", {})),
             build_sentiment_markdown(sentiment_demo),
             [],
-            charts.get("score_chart", ""), charts.get("projection_chart", ""), charts.get("policy_chart", ""),
+            charts.get("score_chart", ""), chart_interps.get("score_chart", ""),
+            charts.get("projection_chart", ""), chart_interps.get("projection_chart", ""),
+            charts.get("policy_chart", ""), chart_interps.get("policy_chart", ""),
+            xgboost_chart, chart_interps.get("xgboost_chart", ""),
             "\n".join(f"- {w}" for w in result.get("warnings", [])),
             redac_md,
             _redac_meta_md(redac),
@@ -1758,7 +1981,7 @@ def analyze_video(
         visual=visual_analysis, proyeccion=proyeccion,
         ocr_text=ocr_features.get("ocr_text", ""),
         sentiment=sentiment, channel_metrics=channel_metrics, cpm=safe_float(cpm_estimado, DEFAULT_CPM),
-        presupuesto=safe_float(presupuesto, 0),
+        presupuesto=safe_float(presupuesto, 0), paid_xgb=paid_xgb,
     )
     redac = generate_recommendation_with_llm(diag, mode=(llm_mode or "auto"))
 
@@ -1803,6 +2026,7 @@ def analyze_video(
         "metricas_canal":               channel_metrics,
         "proyeccion_pauta":             proyeccion,
         "xgboost_pauta":               paid_xgb,
+        "analisis_xgboost_pauta":      paid_xgb,
         "explicabilidad":               simple_explanation(features, prediction),
         "cpm_estimado":                 final_rec["cpm_estimado"],
         "cpm_modelado_xgboost":        cpm_para_pauta,
@@ -1820,9 +2044,14 @@ def analyze_video(
         metadata=metadata, cpm=cpm_para_pauta,
         budget=safe_float(presupuesto, 0),
     )
+    exec_s = _append_xgboost_to_exec_summary(exec_s, paid_xgb)
     result["resumen_ejecutivo"] = exec_s
 
     charts = create_analysis_charts(result)
+    xgboost_chart = _create_xgboost_chart(paid_xgb, budget=safe_float(presupuesto, 0), manual_cpm=safe_float(cpm_estimado, DEFAULT_CPM))
+    chart_interps = _build_chart_interpretations(result, llm_mode or "auto")
+    result["interpretaciones_graficos_llm"] = chart_interps
+    result["modulos_analizados"] = _build_modules_audit(result)
     sentiment_charts = create_sentiment_visuals(sentiment)
     sentiment_md = build_sentiment_markdown(sentiment)
     frames_gallery = visual_analysis.get("annotated_frame_paths", []) or []
@@ -1840,7 +2069,10 @@ def analyze_video(
         _script_markdown(script_analysis),
         sentiment_md,
         frames_gallery,
-        charts.get("score_chart", ""), charts.get("projection_chart", ""), charts.get("policy_chart", ""),
+        charts.get("score_chart", ""), chart_interps.get("score_chart", ""),
+        charts.get("projection_chart", ""), chart_interps.get("projection_chart", ""),
+        charts.get("policy_chart", ""), chart_interps.get("policy_chart", ""),
+        xgboost_chart, chart_interps.get("xgboost_chart", ""),
         warnings_md, redac_md,
         _redac_meta_md(redac),
         sentiment_charts.get("sentiment_bar_chart", ""),
@@ -1877,6 +2109,26 @@ def _redac_meta_md(redac: Dict[str, Any]) -> str:
 """.strip()
 
 
+def _build_modules_audit(result: Dict[str, Any]) -> Dict[str, Any]:
+    """Registra qué módulos quedaron ejecutados/analizados en la salida JSON."""
+    result = result or {}
+    xgb = result.get("xgboost_pauta") or result.get("analisis_xgboost_pauta") or (result.get("metricas", {}) or {}).get("xgboost_pauta", {}) or {}
+    return {
+        "regresion_logistica": bool(result.get("modelo") or result.get("probabilidad_rendimiento") is not None),
+        "xgboost_pauta": bool(xgb),
+        "xgboost_pauta_elegible": bool(xgb.get("eligible_for_paid_xgboost")),
+        "xgboost_modelo_cargado": bool(xgb.get("model_available")),
+        "ocr": bool(result.get("analisis_ocr")),
+        "transcripcion": bool(result.get("analisis_transcripcion")),
+        "llm": bool(result.get("analisis_llm") or result.get("recomendacion_redactada")),
+        "politicas": bool(result.get("analisis_politicas")),
+        "composicion_visual": bool(result.get("analisis_visual")),
+        "sentimiento": bool(result.get("analisis_sentimiento")),
+        "guion": bool(result.get("analisis_guion")),
+        "graficos_interpretados_con_llm": bool(result.get("interpretaciones_graficos_llm")),
+    }
+
+
 def _build_diagnostic(result: Dict[str, Any], ops: Dict[str, Any], sentiment: Dict[str, Any]) -> Dict[str, Any]:
     """Construye diagnóstico mínimo para camino demo."""
     met = result.get("metricas", {}) or {}
@@ -1911,7 +2163,7 @@ def _build_diagnostic(result: Dict[str, Any], ops: Dict[str, Any], sentiment: Di
 
 
 def _build_diagnostic_full(
-    *, final_rec, metadata, features, ops, policy, script, visual, proyeccion, ocr_text, sentiment, channel_metrics, cpm, presupuesto,
+    *, final_rec, metadata, features, ops, policy, script, visual, proyeccion, ocr_text, sentiment, channel_metrics, cpm, presupuesto, paid_xgb=None,
 ) -> Dict[str, Any]:
     content_intent = script.get("content_intent") or features.get("content_intent") or "general/branding"
     transcript_text = features.get("transcript_text", "") or ""
@@ -1980,6 +2232,7 @@ def _build_diagnostic_full(
             "views_por_suscriptor": round(safe_float((channel_metrics or {}).get("views_per_subscriber_recent", 0)), 4),
             "videos_muestreados": int(safe_float((channel_metrics or {}).get("videos_sampled", 0))),
         },
+        "xgboost_pauta": paid_xgb or {},
         "proyeccion": {
             "cpm": cpm,
             "presupuesto": presupuesto,
@@ -2088,7 +2341,7 @@ def build_demo() -> gr.Blocks:
         button_primary_text_color_dark="white",
     )
 
-    with gr.Blocks(title="YouTube AI Recomendations", theme=theme, css=CUSTOM_CSS) as demo:
+    with gr.Blocks(title="YouTube Boost AI", theme=theme, css=CUSTOM_CSS) as demo:
         gr.HTML("""
         <div class="yba-hero">
           <span class="yba-pill">🎬 VIDEO</span>
@@ -2096,10 +2349,10 @@ def build_demo() -> gr.Blocks:
           <span class="yba-pill">📊 PROYECCIÓN</span>
           <span class="yba-pill">🎨 COMPOSICIÓN</span>
           <span class="yba-pill">💬 SENTIMIENTO</span>
-          <h1>YouTube AI Recomendations</h1>
+          <h1>YouTube Boost AI</h1>
           <p>Pega una URL o sube un MP4 · Transcripción automática MP4 vía faster-whisper + Google Speech ·
           OCR + análisis visual siempre juntos · Análisis de sentimiento de comentarios ·
-          Recomendación por Gemini para DEMO o Qwen local.</p>
+          Recomendación por Gemini 2.5 Flash Lite o SmolLM2-135M local.</p>
         </div>""")
 
         with gr.Row():
@@ -2172,15 +2425,17 @@ def build_demo() -> gr.Blocks:
                         cpm_estimado = gr.Number(label="CPM USD", value=DEFAULT_CPM)
                         presupuesto  = gr.Number(label="Presupuesto USD", value=20)
                     llm_mode = gr.Radio(
-                        choices=["local_open_source", "gemini", "rules"],
-                        value="local_open_source",
+                        choices=["auto", "gemini", "local_open_source", "rules"],
+                        value="auto",
                         label="Motor LLM",
                         info=(
+                            "Selecciona el motor de generación. "
+                            "auto: usa Gemini si GEMINI_API_KEY existe; si no, modelo local; si falla, rules. "
                             "gemini: Gemini 2.5 Flash Lite. "
-                            "local_open_source: Qwen con LoRA/QLoRA. "
-                            "Si falla, usará rules."
+                            "local_open_source: Qwen/SmolLM2 local con LoRA/QLoRA. "
                             "rules: redacción determinista sin LLM."
                         ),
+                        interactive=True,
                     )
 
                 analyze_btn = gr.Button("🚀 ANALIZAR VIDEO", variant="primary", size="lg")
@@ -2198,9 +2453,26 @@ def build_demo() -> gr.Blocks:
                     )
 
                 with gr.Tab("📊 Gráficos"):
-                    score_img      = gr.Image(label="Diagnóstico", interactive=False, height=380)
+                    score_img = gr.Image(label="Diagnóstico", interactive=False, height=380)
+                    score_chart_interpretation = gr.Markdown(
+                        value="*La interpretación LLM del diagnóstico aparecerá aquí.*",
+                        elem_classes="yba-result-card",
+                    )
                     projection_img = gr.Image(label="Actual vs esperado con pauta", interactive=False, height=380)
-                    policy_img     = gr.Image(label="Riesgo publicitario", interactive=False, height=320)
+                    projection_chart_interpretation = gr.Markdown(
+                        value="*La interpretación LLM de la proyección aparecerá aquí.*",
+                        elem_classes="yba-result-card",
+                    )
+                    policy_img = gr.Image(label="Riesgo publicitario", interactive=False, height=320)
+                    policy_chart_interpretation = gr.Markdown(
+                        value="*La interpretación LLM del riesgo publicitario aparecerá aquí.*",
+                        elem_classes="yba-result-card",
+                    )
+                    xgboost_img = gr.Image(label="XGBoost pauta: rendimiento, CPM y nicho", interactive=False, height=360)
+                    xgboost_chart_interpretation = gr.Markdown(
+                        value="*La interpretación LLM del XGBoost de pauta aparecerá aquí.*",
+                        elem_classes="yba-result-card",
+                    )
 
                 with gr.Tab("🎨 Composición visual + OCR"):
                     visual_panel = gr.Markdown(
@@ -2309,7 +2581,10 @@ def build_demo() -> gr.Blocks:
                 metricas_panel, llm_panel, ocr_panel, policy_panel,
                 visual_panel, script_panel, sentiment_panel,
                 frames_gallery,
-                score_img, projection_img, policy_img,
+                score_img, score_chart_interpretation,
+                projection_img, projection_chart_interpretation,
+                policy_img, policy_chart_interpretation,
+                xgboost_img, xgboost_chart_interpretation,
                 warnings_md, redaccion_md_out, redaccion_meta_out,
                 sentiment_bar_img, wordcloud_pos_img, wordcloud_neu_img, wordcloud_neg_img,
             ],
