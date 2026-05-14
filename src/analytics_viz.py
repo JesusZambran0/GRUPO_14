@@ -1,30 +1,25 @@
 """Gráficos estadísticos con estética oscura para la demo Gradio.
 
-Genera 3 figuras:
-1. ``score_chart``: tarjeta con métricas clave normalizadas (potencial,
-   retención, engagement, guion, riesgo).
-2. ``projection_chart``: comparación **rendimiento actual vs esperado tras pauta**
-   por dólar invertido — views, likes, comments, shares.
-3. ``policy_chart``: barra de categorías sensibles detectadas (si hay).
-
-Todas usan el mismo color palette: fondo `#0b0d12`, acentos morado/cyan/coral.
+Genera 4 figuras:
+1. score_chart: diagnóstico general.
+2. projection_chart: rendimiento actual vs esperado tras pauta.
+3. policy_chart: señales de política publicitaria.
+4. xgboost_chart: CPM calibrado, impresiones y score estimado de pauta.
 """
 from __future__ import annotations
 
-from pathlib import Path
 from typing import Any, Dict
 
 from .config import RUNTIME_CACHE_DIR
 
-# Paleta consistente con la UI dark.
 PALETTE = {
     "bg": "#0b0d12",
     "panel": "#161a22",
     "grid": "#262b36",
     "text": "#e6e9ef",
     "muted": "#8b91a3",
-    "primary": "#a78bfa",   # violeta
-    "accent": "#22d3ee",    # cyan
+    "primary": "#a78bfa",
+    "accent": "#22d3ee",
     "success": "#22c55e",
     "warning": "#facc15",
     "danger": "#f87171",
@@ -50,15 +45,21 @@ def _setup_dark(plt) -> None:
     })
 
 
+def _safe_float(value: Any, default: float = 0.0) -> float:
+    try:
+        return float(value)
+    except Exception:
+        return default
+
+
 def create_analysis_charts(result: Dict[str, Any]) -> Dict[str, str]:
-    """Genera los 3 gráficos en PNG y devuelve sus rutas."""
     try:
         import matplotlib
         matplotlib.use("Agg")
         import matplotlib.pyplot as plt
         import numpy as np
     except Exception:
-        return {"score_chart": "", "projection_chart": "", "policy_chart": ""}
+        return {"score_chart": "", "projection_chart": "", "policy_chart": "", "xgboost_chart": ""}
 
     _setup_dark(plt)
     out_dir = RUNTIME_CACHE_DIR / "charts"
@@ -66,6 +67,7 @@ def create_analysis_charts(result: Dict[str, Any]) -> Dict[str, str]:
     score_path = out_dir / "score_chart.png"
     projection_path = out_dir / "projection_chart.png"
     policy_path = out_dir / "policy_chart.png"
+    xgboost_path = out_dir / "xgboost_chart.png"
 
     metrics = result.get("metricas", {}) or {}
     operational = metrics.get("operational", {}) or {}
@@ -73,37 +75,33 @@ def create_analysis_charts(result: Dict[str, Any]) -> Dict[str, str]:
     policy_risk = str(result.get("policy_risk_level", "bajo"))
     risk_score = {"bajo": 18, "medio": 50, "alto": 80, "revisión humana": 95}.get(policy_risk, 50)
 
-    # =====================================================================
-    # 1) Diagnóstico — barras horizontales con color por puntaje
-    # =====================================================================
+    # 1) Diagnóstico general
     labels = ["Potencial", "Retención", "Engagement", "Guion", "Riesgo política"]
     values = [
-        float(result.get("probabilidad_rendimiento", 0)) * 100,
-        float(operational.get("retention_rate", 0) or 0) * 100,
-        min(float(metrics.get("engagement_rate", 0) or 0) * 1000, 100),
-        float(script.get("script_quality_score", 0) or 0),
+        _safe_float(result.get("probabilidad_rendimiento", 0)) * 100,
+        _safe_float(operational.get("retention_rate", 0)) * 100,
+        min(_safe_float(metrics.get("engagement_rate", 0)) * 1000, 100),
+        _safe_float(script.get("script_quality_score", 0)),
         risk_score,
     ]
 
-    def _bar_color(label: str, v: float) -> str:
+    def _bar_color(label: str, value: float) -> str:
         if label == "Riesgo política":
-            return PALETTE["danger"] if v >= 60 else PALETTE["warning"] if v >= 40 else PALETTE["success"]
-        return PALETTE["success"] if v >= 60 else PALETTE["warning"] if v >= 40 else PALETTE["danger"]
+            return PALETTE["danger"] if value >= 60 else PALETTE["warning"] if value >= 40 else PALETTE["success"]
+        return PALETTE["success"] if value >= 60 else PALETTE["warning"] if value >= 40 else PALETTE["danger"]
 
     fig, ax = plt.subplots(figsize=(8.5, 4.5))
     y_pos = np.arange(len(labels))
-    colors = [_bar_color(lab, v) for lab, v in zip(labels, values)]
-    bars = ax.barh(y_pos, values, color=colors, edgecolor="none", height=0.6)
+    bars = ax.barh(y_pos, values, color=[_bar_color(l, v) for l, v in zip(labels, values)], edgecolor="none", height=0.6)
     ax.set_yticks(y_pos)
     ax.set_yticklabels(labels, color=PALETTE["text"])
     ax.set_xlim(0, 100)
-    ax.set_xlabel("Puntaje (0 a 100)", color=PALETTE["muted"])
+    ax.set_xlabel("Puntaje normalizado 0-100", color=PALETTE["muted"])
     ax.set_title("Diagnóstico del video", color=PALETTE["text"], fontsize=13, fontweight="bold", pad=14)
     ax.grid(axis="x", alpha=0.3)
     ax.set_axisbelow(True)
-    for bar, v in zip(bars, values):
-        ax.text(min(v + 1.5, 95), bar.get_y() + bar.get_height() / 2,
-                f"{v:.0f}", va="center", color=PALETTE["text"], fontsize=10, fontweight="bold")
+    for bar, value in zip(bars, values):
+        ax.text(min(value + 1.5, 95), bar.get_y() + bar.get_height() / 2, f"{value:.0f}", va="center", color=PALETTE["text"], fontsize=10, fontweight="bold")
     for spine in ax.spines.values():
         spine.set_color(PALETTE["grid"])
     fig.patch.set_facecolor(PALETTE["bg"])
@@ -111,25 +109,20 @@ def create_analysis_charts(result: Dict[str, Any]) -> Dict[str, str]:
     plt.savefig(score_path, dpi=140, facecolor=PALETTE["bg"])
     plt.close(fig)
 
-    # =====================================================================
-    # 2) Comparación rendimiento actual vs esperado tras pauta
-    # =====================================================================
+    # 2) Actual vs esperado con pauta, sin shares
     proj = result.get("proyeccion_pauta", {}) or {}
     actual = {
-        "Views": int(float(metrics.get("views", 0) or 0)),
-        "Likes": int(float(metrics.get("likes", 0) or 0)),
-        "Comments": int(float(metrics.get("comments", 0) or 0)),
-        "Shares": int(float(operational.get("shares", 0) or 0)),
+        "Views": int(_safe_float(metrics.get("views", 0))),
+        "Likes": int(_safe_float(metrics.get("likes", 0))),
+        "Comments": int(_safe_float(metrics.get("comments", 0))),
     }
     expected = {
-        "Views": int(float(proj.get("projected_views_after_boost", 0) or 0)),
-        "Likes": int(float(proj.get("projected_likes_after_boost", 0) or 0)),
-        "Comments": int(float(proj.get("projected_comments_after_boost", 0) or 0)),
-        "Shares": int(float(proj.get("projected_shares_after_boost", 0) or 0)),
+        "Views": int(_safe_float(proj.get("projected_views_after_boost", 0))),
+        "Likes": int(_safe_float(proj.get("projected_likes_after_boost", 0))),
+        "Comments": int(_safe_float(proj.get("projected_comments_after_boost", 0))),
     }
-    # Si los expected son 0 (no se pasó budget), creamos un proxy basado en multiplicador.
     if all(v == 0 for v in expected.values()):
-        mult = float(result.get("multiplicador_potencial", 1.3))
+        mult = _safe_float(result.get("multiplicador_potencial", 1.3), 1.3)
         expected = {k: int(v * mult * 1.5) for k, v in actual.items()}
 
     cats = list(actual.keys())
@@ -141,18 +134,15 @@ def create_analysis_charts(result: Dict[str, Any]) -> Dict[str, str]:
     ax.set_xticks(x)
     ax.set_xticklabels(cats, color=PALETTE["text"])
     ax.set_ylabel("Volumen", color=PALETTE["muted"])
-    ax.set_title("Rendimiento actual vs esperado con $ de publicación", color=PALETTE["text"],
-                 fontsize=13, fontweight="bold", pad=14)
+    ax.set_title("Rendimiento actual vs esperado con pauta", color=PALETTE["text"], fontsize=13, fontweight="bold", pad=14)
     ax.legend(facecolor=PALETTE["panel"], edgecolor=PALETTE["grid"], labelcolor=PALETTE["text"])
     ax.grid(axis="y", alpha=0.3)
     ax.set_axisbelow(True)
-    # Etiquetas sobre las barras
     max_val = max(max(actual.values()) if actual else 1, max(expected.values()) if expected else 1, 1)
     for bars in (b1, b2):
         for bar in bars:
             h = bar.get_height()
-            ax.text(bar.get_x() + bar.get_width() / 2, h + max_val * 0.015, f"{int(h):,}",
-                    ha="center", color=PALETTE["text"], fontsize=8)
+            ax.text(bar.get_x() + bar.get_width() / 2, h + max_val * 0.015, f"{int(h):,}", ha="center", color=PALETTE["text"], fontsize=8)
     for spine in ax.spines.values():
         spine.set_color(PALETTE["grid"])
     fig.patch.set_facecolor(PALETTE["bg"])
@@ -160,28 +150,21 @@ def create_analysis_charts(result: Dict[str, Any]) -> Dict[str, str]:
     plt.savefig(projection_path, dpi=140, facecolor=PALETTE["bg"])
     plt.close(fig)
 
-    # =====================================================================
-    # 3) Categorías de política detectadas (barra horizontal)
-    # =====================================================================
+    # 3) Política
     cats_detected = result.get("analisis_politicas", {}).get("policy_risk_categories", []) or []
     fig, ax = plt.subplots(figsize=(8.5, 3.8))
     if cats_detected:
         y = np.arange(len(cats_detected))
-        vals = [100] * len(cats_detected)
-        colors_p = [PALETTE["danger"]] * len(cats_detected)
-        ax.barh(y, vals, color=colors_p, height=0.55, edgecolor="none")
+        ax.barh(y, [100] * len(cats_detected), color=[PALETTE["danger"]] * len(cats_detected), height=0.55, edgecolor="none")
         ax.set_yticks(y)
         ax.set_yticklabels(cats_detected, color=PALETTE["text"])
         ax.set_xlim(0, 100)
         ax.set_xticks([])
-        ax.set_title(f"Señales de política detectadas ({len(cats_detected)})",
-                     color=PALETTE["text"], fontsize=13, fontweight="bold", pad=14)
+        ax.set_title(f"Señales de política detectadas ({len(cats_detected)})", color=PALETTE["text"], fontsize=13, fontweight="bold", pad=14)
     else:
         ax.set_xticks([])
         ax.set_yticks([])
-        ax.text(0.5, 0.5, "Sin senales de politica\nApto para pauta estandar",
-                ha="center", va="center", color=PALETTE["success"], fontsize=14, fontweight="bold",
-                transform=ax.transAxes)
+        ax.text(0.5, 0.5, "Sin señales de política\nApto para screening estándar", ha="center", va="center", color=PALETTE["success"], fontsize=14, fontweight="bold", transform=ax.transAxes)
         ax.set_title("Riesgo publicitario", color=PALETTE["text"], fontsize=13, fontweight="bold", pad=14)
     for spine in ax.spines.values():
         spine.set_color(PALETTE["grid"])
@@ -190,4 +173,51 @@ def create_analysis_charts(result: Dict[str, Any]) -> Dict[str, str]:
     plt.savefig(policy_path, dpi=140, facecolor=PALETTE["bg"])
     plt.close(fig)
 
-    return {"score_chart": str(score_path), "projection_chart": str(projection_path), "policy_chart": str(policy_path)}
+    # 4) XGBoost pauta
+    xgb = result.get("xgboost_pauta") or result.get("analisis_xgboost_pauta") or metrics.get("xgboost_pauta") or {}
+    fig, ax = plt.subplots(figsize=(8.5, 4.0))
+    if xgb and xgb.get("eligible_for_paid_xgboost"):
+        labels = ["Score\npagado", "CPM\n(USD)", "Imp./$\n÷10", "Views\npagadas\n÷100"]
+        values = [
+            _safe_float(xgb.get("predicted_paid_performance_score", 0)),
+            _safe_float(xgb.get("predicted_cpm", 0)),
+            _safe_float(xgb.get("estimated_impressions_per_dollar", 0)) / 10.0,
+            _safe_float(xgb.get("estimated_paid_views", 0)) / 100.0,
+        ]
+        colors = [PALETTE["primary"], PALETTE["warning"], PALETTE["accent"], PALETTE["success"]]
+        bars = ax.bar(labels, values, color=colors, edgecolor="none", width=0.58)
+        ax.set_title(f"XGBoost pauta · {xgb.get('ad_niche', 'nicho general')}", color=PALETTE["text"], fontsize=13, fontweight="bold", pad=14)
+        ax.set_ylabel("Escala visual normalizada", color=PALETTE["muted"])
+        ax.grid(axis="y", alpha=0.3)
+        max_val = max(values + [1])
+        raw_labels = [
+            f"{_safe_float(xgb.get('predicted_paid_performance_score', 0)):.1f}/100",
+            f"${_safe_float(xgb.get('predicted_cpm', 0)):.2f}",
+            f"{_safe_float(xgb.get('estimated_impressions_per_dollar', 0)):.1f}",
+            f"{_safe_float(xgb.get('estimated_paid_views', 0)):,.0f}",
+        ]
+        for bar, txt in zip(bars, raw_labels):
+            h = bar.get_height()
+            ax.text(bar.get_x() + bar.get_width() / 2, h + max_val * 0.03, txt, ha="center", color=PALETTE["text"], fontsize=9, fontweight="bold")
+        method = xgb.get("calibration_method") or xgb.get("methodological_warning") or "Estimación de apoyo."
+        ax.text(0.5, -0.24, method[:130], ha="center", va="top", color=PALETTE["muted"], fontsize=8, transform=ax.transAxes)
+    else:
+        ax.set_xticks([])
+        ax.set_yticks([])
+        probability = _safe_float(xgb.get("logistic_probability", result.get("probabilidad_rendimiento", 0))) if xgb else _safe_float(result.get("probabilidad_rendimiento", 0))
+        ax.text(0.5, 0.55, "XGBoost no ejecutado", ha="center", va="center", color=PALETTE["warning"], fontsize=15, fontweight="bold", transform=ax.transAxes)
+        ax.text(0.5, 0.40, f"Probabilidad base: {probability:.1%}\nEl segundo modelo solo corre si supera el gate de 51%.", ha="center", va="center", color=PALETTE["muted"], fontsize=10, transform=ax.transAxes)
+        ax.set_title("XGBoost de pauta", color=PALETTE["text"], fontsize=13, fontweight="bold", pad=14)
+    for spine in ax.spines.values():
+        spine.set_color(PALETTE["grid"])
+    fig.patch.set_facecolor(PALETTE["bg"])
+    plt.tight_layout()
+    plt.savefig(xgboost_path, dpi=140, facecolor=PALETTE["bg"])
+    plt.close(fig)
+
+    return {
+        "score_chart": str(score_path),
+        "projection_chart": str(projection_path),
+        "policy_chart": str(policy_path),
+        "xgboost_chart": str(xgboost_path),
+    }
