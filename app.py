@@ -40,7 +40,7 @@ from src.features import (
 from src.llm_analyzer import analyze_with_llm
 from src.llm_provider import generate_recommendation_with_llm, interpret_ocr_text_with_llm
 from src.metric_forecaster import build_boost_projection
-from src.paid_ads_xgboost import SUPPORTED_AD_CATEGORIES, predict_paid_ad_boost, render_paid_ad_boost_markdown
+from src.paid_ads_xgboost import predict_paid_ad_boost, render_paid_ad_boost_markdown
 from src.ocr_video import extract_ocr_from_video
 from src.policy_evaluator import evaluate_youtube_ad_policy_risk
 from src.predict import predict_from_features
@@ -53,6 +53,23 @@ from src.youtube_api import extract_video_id, fetch_youtube_metadata
 from src.youtube_downloader import download_youtube_video_360p
 
 ensure_dirs()
+
+# Categorías usadas por el módulo de estimación de pauta XGBoost.
+# "auto" permite inferir el nicho desde título, descripción, OCR y transcripción.
+# "otros" funciona como fallback cuando el video no encaja en las categorías entrenadas.
+XGBOOST_AD_CATEGORY_CHOICES = [
+    "auto",
+    "educación",
+    "retail/ecommerce",
+    "servicios",
+    "entretenimiento",
+    "tecnología",
+    "salud/bienestar",
+    "gastronomía",
+    "inmobiliario",
+    "general/branding",
+    "otros",
+]
 
 # ---------------------------------------------------------------------------
 # CSS dark
@@ -817,6 +834,94 @@ def _fmt_float(value: Any, digits: int = 2) -> str:
     except Exception:
         return "—"
 
+def _average_positive(values: List[Any]) -> float:
+    """Promedia solo valores positivos y válidos."""
+    clean: List[float] = []
+    for value in values:
+        try:
+            number = float(value)
+            if number > 0:
+                clean.append(number)
+        except Exception:
+            continue
+    return sum(clean) / len(clean) if clean else 0.0
+
+
+def _apply_unified_impressions(
+    final_rec: Dict[str, Any],
+    paid_xgb: Dict[str, Any],
+    proyeccion: Dict[str, Any],
+    *,
+    budget: float,
+) -> int:
+    """Unifica las impresiones estimadas en toda la app.
+
+    La app tenía dos números potencialmente distintos:
+    - Impresiones derivadas del modelo principal/regresión logística
+      mediante ``alcance_estimado_total``.
+    - Impresiones estimadas por XGBoost mediante
+      ``estimated_budget_impressions``.
+
+    Para evitar contradicciones visuales, se calcula un único número como el
+    promedio de ambos modelos cuando ambos existen. Si solo existe uno, se usa
+    ese valor. Luego se reescriben las claves usadas por el resumen ejecutivo,
+    métricas, XGBoost, gráficos y JSON para que todos muestren el mismo valor.
+    """
+    budget_v = max(safe_float(budget, 0.0), 0.0)
+
+    logistic_impressions = safe_float(final_rec.get("alcance_estimado_total", 0))
+    xgb_impressions = safe_float(
+        paid_xgb.get("estimated_budget_impressions")
+        or paid_xgb.get("estimated_impressions")
+        or paid_xgb.get("estimated_impressions_with_budget")
+        or 0
+    )
+
+    unified = int(round(_average_positive([logistic_impressions, xgb_impressions])))
+    if unified <= 0:
+        return 0
+
+    impressions_per_dollar = unified / budget_v if budget_v > 0 else 0.0
+
+    # Resumen ejecutivo / recomendación principal.
+    final_rec["alcance_estimado_total"] = unified
+    final_rec["alcance_estimado_por_dolar"] = round(impressions_per_dollar, 2)
+    final_rec["impresiones_estimadas_unificadas"] = unified
+    final_rec["metodo_impresiones_estimadas"] = (
+        "promedio entre regresión logística y XGBoost"
+        if logistic_impressions > 0 and xgb_impressions > 0
+        else "estimación disponible del modelo activo"
+    )
+    final_rec["impresiones_regresion_logistica"] = int(round(logistic_impressions)) if logistic_impressions > 0 else 0
+    final_rec["impresiones_xgboost_original"] = int(round(xgb_impressions)) if xgb_impressions > 0 else 0
+
+    # XGBoost / métricas / gráficos.
+    paid_xgb["unified_estimated_impressions"] = unified
+    paid_xgb["estimated_budget_impressions"] = unified
+    paid_xgb["estimated_impressions"] = unified
+    paid_xgb["estimated_impressions_with_budget"] = unified
+    paid_xgb["estimated_impressions_per_dollar"] = round(impressions_per_dollar, 2)
+    paid_xgb["impressions_source"] = final_rec["metodo_impresiones_estimadas"]
+    paid_xgb["logistic_estimated_impressions"] = final_rec["impresiones_regresion_logistica"]
+    paid_xgb["xgboost_estimated_impressions_original"] = final_rec["impresiones_xgboost_original"]
+
+    # Separar vistas de impresiones: las vistas pagadas se estiman aplicando VTR.
+    vtr = safe_float(paid_xgb.get("estimated_view_through_rate", 0.18), 0.18)
+    estimated_paid_views = int(round(unified * max(min(vtr, 1.0), 0.0)))
+    paid_xgb["estimated_paid_views"] = estimated_paid_views
+    paid_xgb["estimated_paid_views_per_dollar"] = round(estimated_paid_views / budget_v, 2) if budget_v > 0 else 0.0
+
+    # Proyección. No se renombra projected_views_after_boost porque son vistas,
+    # no impresiones; se agregan claves explícitas para impresiones unificadas.
+    proyeccion["unified_estimated_impressions"] = unified
+    proyeccion["estimated_budget_impressions"] = unified
+    proyeccion["estimated_impressions"] = unified
+    proyeccion["estimated_impressions_per_dollar"] = round(impressions_per_dollar, 2)
+    proyeccion["impressions_source"] = final_rec["metodo_impresiones_estimadas"]
+
+    return unified
+
+
 
 def _list_md(items: Any, empty: str = "No se detectaron elementos relevantes.") -> str:
     if not items:
@@ -890,6 +995,7 @@ def _metrics_markdown(metricas: Dict[str, Any]) -> str:
     likes = metricas.get("likes", 0)
     comments = metricas.get("comments", 0)
     engagement = float(metricas.get("engagement_rate", 0) or 0) * 100
+    share_rate = float(ops.get("share_rate", 0) or 0) * 100
     retention = float(ops.get("retention_rate", 0) or 0) * 100
     hours_source = ops.get("hours_source", "manual")
     hours_note = "calculadas automáticamente desde la fecha de publicación de YouTube" if hours_source == "youtube_published_at" else "ingresadas manualmente o estimadas"
@@ -911,6 +1017,8 @@ Este apartado cruza métricas públicas con señales operativas para medir tracc
 
 | Métrica | Valor | Lectura |
 |---|---:|---|
+| Shares | {_fmt_num(ops.get("shares"))} | Señal de distribución voluntaria. |
+| Share rate | {_fmt_pct(share_rate)} | Capacidad de viralidad relativa. |
 | Retención | {_fmt_pct(retention)} | Capacidad de sostener atención. |
 | Tiempo desde publicación | {_format_age_from_hours(ops.get("hours_since_publication"))} | {hours_note}. |
 | Views por hora | {_fmt_num(ops.get("views_per_hour"))} | Velocidad inicial de consumo. |
@@ -919,43 +1027,6 @@ Este apartado cruza métricas públicas con señales operativas para medir tracc
 
 Si las visualizaciones por hora son altas y el engagement se mantiene saludable, el video tiene señales de distribución. Si el engagement o la retención son bajos, conviene ajustar hook, claridad del beneficio o duración antes de empujar presupuesto.
 """.strip() + ("\n\n" + _channel_metrics_markdown(metricas.get("channel_metrics", {}) or {})) + ("\n\n" + render_paid_ad_boost_markdown(metricas.get("xgboost_pauta", {}) or {}))
-
-
-def _xgboost_summary_markdown(xgb: Dict[str, Any]) -> str:
-    """Bloque breve para insertar XGBoost en el resumen ejecutivo."""
-    if not xgb:
-        return ""
-    if not xgb.get("eligible_for_paid_xgboost"):
-        return f"""
-
----
-
-### Segundo modelo: XGBoost de pauta
-
-El video **no pasó al segundo modelo** porque la probabilidad del modelo principal fue de **{safe_float(xgb.get('logistic_probability')):.1%}**, menor al umbral de **{safe_float(xgb.get('gate_threshold'), 0.51):.0%}**.
-
-**Nicho estimado:** {xgb.get('ad_niche', '—')}  
-**Lectura:** {xgb.get('reason', 'El gate metodológico no fue superado.')}
-""".strip()
-    return f"""
-
----
-
-### Segundo modelo: XGBoost de pauta
-
-El video pasó el gate del modelo principal (**{safe_float(xgb.get('logistic_probability')):.1%}**) y fue evaluado para una estimación de impulso pagado.
-
-| Variable | Estimación |
-|---|---:|
-| Nicho estimado | {xgb.get('ad_niche', '—')} |
-| Score pagado estimado | {safe_float(xgb.get('predicted_paid_performance_score')):.2f}/100 |
-| CPM estimado calibrado | ${safe_float(xgb.get('predicted_cpm')):.2f} |
-| Impresiones por dólar | {safe_float(xgb.get('estimated_impressions_per_dollar')):.2f} |
-| Impresiones con presupuesto | {safe_float(xgb.get('estimated_budget_impressions')):,.0f} |
-
-**Lectura:** {xgb.get('recommendation', 'Usar como estimación inicial y validar con campaña real de bajo presupuesto.')}  
-**Método:** {xgb.get('calibration_method', xgb.get('methodological_warning', 'Estimación de apoyo, no garantía de ROI.'))}
-""".strip()
 
 
 def _channel_metrics_markdown(channel: Dict[str, Any]) -> str:
@@ -1457,7 +1528,7 @@ def analyze_video(
     video_file: Any,
     title: str, description: str, category: str, xgboost_category: str,
     views: float, likes: float, comments: float,
-    retention_rate: float, average_watch_time: float,
+    shares: float, retention_rate: float, average_watch_time: float,
     hours_since_publication: float, followers_count: float, avg_channel_reach: float,
     duration_seconds: float,
     manual_transcript: str,
@@ -1483,16 +1554,15 @@ def analyze_video(
     str,            # 12 score_chart
     str,            # 13 projection_chart
     str,            # 14 policy_chart
-    str,            # 15 xgboost_chart
-    str,            # 16 advertencias md
-    str,            # 17 recomendación redactada md
-    str,            # 18 redacción meta narrativa
-    str,            # 19 sentiment_bar_chart
-    str,            # 20 wordcloud_positive
-    str,            # 21 wordcloud_neutral
-    str,            # 22 wordcloud_negative
+    str,            # 15 advertencias md
+    str,            # 16 recomendación redactada md
+    str,            # 17 redacción meta narrativa
+    str,            # 18 sentiment_bar_chart
+    str,            # 19 wordcloud_positive
+    str,            # 20 wordcloud_neutral
+    str,            # 21 wordcloud_negative
 ]:
-    """Pipeline completo. Devuelve 23 outputs."""
+    """Pipeline completo. Devuelve 22 outputs."""
 
     # ── Demo precalculado ────────────────────────────────────────────────────
     demo = _load_demo(demo_case)
@@ -1511,8 +1581,6 @@ def analyze_video(
             cpm=safe_float(result.get("cpm_estimado", DEFAULT_CPM)),
             budget=safe_float(presupuesto, 0),
         )
-        demo_xgb = result.get("xgboost_pauta", result.get("metricas", {}).get("xgboost_pauta", {}))
-        exec_s["markdown"] = (exec_s.get("markdown", "") + "\n\n" + _xgboost_summary_markdown(demo_xgb)).strip()
         result["resumen_ejecutivo"] = exec_s
         diag = _build_diagnostic(result, {}, {})
         redac = generate_recommendation_with_llm(diag, mode=(llm_mode or "auto"))
@@ -1542,7 +1610,7 @@ def analyze_video(
             _script_markdown(result.get("analisis_guion", {})),
             build_sentiment_markdown(sentiment_demo),
             [],
-            charts.get("score_chart", ""), charts.get("projection_chart", ""), charts.get("policy_chart", ""), charts.get("xgboost_chart", ""),
+            charts.get("score_chart", ""), charts.get("projection_chart", ""), charts.get("policy_chart", ""),
             "\n".join(f"- {w}" for w in result.get("warnings", [])),
             redac_md,
             _redac_meta_md(redac),
@@ -1566,24 +1634,30 @@ def analyze_video(
     download_info: Dict[str, Any] = {"ok": False, "attempts": [], "warning": ""}
     video_path = _coerce_video(video_file)
     if youtube_url and not video_path:
-        download_info = download_youtube_video_360p(youtube_url)
-        if download_info.get("ok"):
-            video_path = download_info["video_path"]
-            for k, v in (download_info.get("metadata") or {}).items():
-                if v and not api_payload.get(k):
-                    api_payload[k] = v
-            warnings.append(f"Video descargado vía {download_info['backend_used']} (360p, ≤60s).")
-            if download_info.get("trimmed_to_max_duration"):
-                warnings.append("Video recortado a 60s.")
+        # La URL de YouTube se usa solo para métricas públicas/metadata.
+        # Para OCR, transcripción y composición visual se debe subir un MP4 manualmente.
+        # Si alguna vez necesitas reactivar descarga automática, define:
+        # ENABLE_YOUTUBE_VIDEO_DOWNLOAD=1
+        if os.getenv("ENABLE_YOUTUBE_VIDEO_DOWNLOAD", "0").strip() == "1":
+            download_info = download_youtube_video_360p(youtube_url)
+            if download_info.get("ok"):
+                video_path = download_info["video_path"]
+                for k, v in (download_info.get("metadata") or {}).items():
+                    if v and not api_payload.get(k):
+                        api_payload[k] = v
+                warnings.append(f"Video descargado vía {download_info['backend_used']} (360p, ≤60s).")
+                if download_info.get("trimmed_to_max_duration"):
+                    warnings.append("Video recortado a 60s.")
+            else:
+                warnings.append(f"Descarga: {download_info.get('warning', '')}")
         else:
-            warnings.append(f"Descarga: {download_info.get('warning', '')}")
+            warnings.append("URL YouTube usada solo para métricas; sube un MP4 ≤60s si quieres OCR, transcripción y análisis visual.")
 
     metadata = {
         "title":            (title or "").strip() or api_payload.get("title", ""),
         "description":      (description or "").strip() or api_payload.get("description", ""),
         "category_id":      (category or "").strip() or str(api_payload.get("category_id", "unknown") or "unknown"),
         "topic":            (xgboost_category or "auto").strip(),
-        "xgboost_category": (xgboost_category or "auto").strip(),
         "ad_category":      (xgboost_category or "auto").strip(),
         "views":            safe_float(views) if views else safe_float(api_payload.get("views", 0)),
         "likes":            safe_float(likes) if likes else safe_float(api_payload.get("likes", 0)),
@@ -1675,27 +1749,17 @@ def analyze_video(
         warnings.append(f"Transcripción: {transcript_result['warning']}")
 
     # ── Interpretación/corrección OCR con LLM ────────────────────────────────
-    # Por defecto NO se reescribe el OCR con LLM: en videos cortos puede empeorar
-    # la lectura si el OCR viene ruidoso. Para activarlo explícitamente:
-    # ENABLE_LLM_OCR_INTERPRETATION=1
-    enable_llm_ocr = os.getenv("ENABLE_LLM_OCR_INTERPRETATION", "0").strip().lower() in {"1", "true", "yes"}
-    if enable_llm_ocr and (llm_mode or "rules") != "rules":
-        ocr_features = _apply_llm_ocr_interpretation(
-            ocr_features,
-            title=metadata.get("title", ""),
-            description=metadata.get("description", ""),
-            transcript_text=transcript_text,
-            mode=llm_mode or "auto",
-        )
-        if ocr_features.get("ocr_llm_warning"):
-            warnings.append(f"OCR/LLM: {ocr_features.get('ocr_llm_warning')}")
-    else:
-        ocr_features.setdefault("ocr_text_raw", ocr_features.get("ocr_text", ""))
-        ocr_features.setdefault("ocr_first_result", _first_ocr_candidate(ocr_features))
-        ocr_features["ocr_llm_source"] = "desactivado"
-        ocr_features["ocr_llm_warning"] = "Interpretación LLM de OCR desactivada para evitar reescrituras imprecisas."
-        ocr_features["ocr_llm_meaning"] = "Se muestra el OCR directo depurado. Si necesitas reconstrucción semántica, activa ENABLE_LLM_OCR_INTERPRETATION=1."
-        ocr_features["ocr_llm_confidence"] = ocr_features.get("ocr_confidence_avg", 0)
+    # El OCR automático puede leer mal letras o partir frases. Usamos el primer
+    # resultado legible como ancla y lo normalizamos antes de calcular relevancia.
+    ocr_features = _apply_llm_ocr_interpretation(
+        ocr_features,
+        title=metadata.get("title", ""),
+        description=metadata.get("description", ""),
+        transcript_text=transcript_text,
+        mode=llm_mode or "auto",
+    )
+    if ocr_features.get("ocr_llm_warning"):
+        warnings.append(f"OCR/LLM: {ocr_features.get('ocr_llm_warning')}")
 
     # ── Sentimiento de comentarios ────────────────────────────────────────────
     video_id = api_payload.get("video_id") or extract_video_id(youtube_url or "")
@@ -1718,10 +1782,9 @@ def analyze_video(
         comments=metadata.get("comments", 0), published_at=metadata.get("published_at"),
         video_type=video_type, extra=ocr_features,
     )
-    # Categoría elegida por el usuario para el segundo modelo XGBoost.
-    # "auto" deja que el módulo infiera el nicho desde título, descripción, OCR y transcripción.
-    features["xgboost_category"] = (xgboost_category or "auto").strip()
-    features["ad_category"] = (xgboost_category or "auto").strip()
+    # Campo explícito para que XGBoost/calibrador use el nicho elegido en la UI.
+    features["ad_category"] = metadata.get("ad_category", "auto")
+    features["xgboost_ad_category"] = metadata.get("ad_category", "auto")
 
     # ── Modelo predictivo ────────────────────────────────────────────────────
     prediction = predict_from_features(features)
@@ -1732,7 +1795,7 @@ def analyze_video(
     script_analysis = analyze_video_script(
         title=metadata.get("title", ""), description=metadata.get("description", ""),
         transcript=transcript_text, category=metadata.get("category_id", ""),
-        topic=metadata.get("topic", ""), duration_seconds=metadata.get("duration_seconds", 0),
+        topic=metadata.get("ad_category", metadata.get("topic", "auto")), duration_seconds=metadata.get("duration_seconds", 0),
     ) if (transcript_text or metadata.get("description")) else {
         "script_quality_score": 0, "recommendations": [],
         "warning": "Sin transcripción ni descripción.",
@@ -1747,13 +1810,14 @@ def analyze_video(
 
     # ── Métricas operativas ──────────────────────────────────────────────────
     effective_hours = auto_hours_since_publication if auto_hours_since_publication is not None else safe_float(hours_since_publication, 24)
-    ops = _derive_ops(metadata.get("views", 0), 0.0, retention_rate, effective_hours)
+    ops = _derive_ops(metadata.get("views", 0), shares, retention_rate, effective_hours)
     ops.update({
         "average_watch_time": safe_float(average_watch_time),
         "followers_count":    safe_float(followers_count),
         "avg_channel_reach":  safe_float(avg_channel_reach),
-        "topic":              (xgboost_category or "auto").strip(),
-        "xgboost_category":   (xgboost_category or "auto").strip(),
+        "topic":              metadata.get("ad_category", "auto"),
+        "ad_category":        metadata.get("ad_category", "auto"),
+        "xgboost_category":   metadata.get("ad_category", "auto"),
         "published_at":       metadata.get("published_at"),
         "hours_source":       "youtube_published_at" if auto_hours_since_publication is not None else "manual",
     })
@@ -1795,6 +1859,18 @@ def analyze_video(
         policy_risk_level=policy.get("policy_risk_level", "bajo"),
     )
 
+    # ── Impresiones estimadas unificadas ─────────────────────────────────────
+    # Se muestra un solo número en toda la app: promedio entre el alcance
+    # estimado por el modelo principal/regresión logística y las impresiones
+    # estimadas por XGBoost. Así el resumen, métricas, gráficos y JSON no se
+    # contradicen.
+    unified_impressions = _apply_unified_impressions(
+        final_rec,
+        paid_xgb,
+        proyeccion,
+        budget=safe_float(presupuesto, 0),
+    )
+
     # ── LLM redactor técnico (rules, no trae torch) ──────────────────────────
     llm = analyze_with_llm(
         text_total=features.get("text_total", ""),
@@ -1811,7 +1887,7 @@ def analyze_video(
         ops=ops, policy=policy, script=script_analysis,
         visual=visual_analysis, proyeccion=proyeccion,
         ocr_text=ocr_features.get("ocr_text", ""),
-        sentiment=sentiment, channel_metrics=channel_metrics, cpm=cpm_para_pauta,
+        sentiment=sentiment, channel_metrics=channel_metrics, cpm=safe_float(cpm_estimado, DEFAULT_CPM),
         presupuesto=safe_float(presupuesto, 0),
     )
     redac = generate_recommendation_with_llm(diag, mode=(llm_mode or "auto"))
@@ -1835,6 +1911,8 @@ def analyze_video(
         "nivel_prioridad":              final_rec["nivel_prioridad"],
         "alcance_estimado_por_dolar":   final_rec["alcance_estimado_por_dolar"],
         "alcance_estimado_total":       final_rec["alcance_estimado_total"],
+        "impresiones_estimadas_unificadas": unified_impressions,
+        "metodo_impresiones_estimadas": final_rec.get("metodo_impresiones_estimadas"),
         "metricas":                     metricas,
         "analisis_transcripcion":       transc_blk,
         "analisis_ocr":                 ocr_blk,
@@ -1857,18 +1935,6 @@ def analyze_video(
         "metricas_canal":               channel_metrics,
         "proyeccion_pauta":             proyeccion,
         "xgboost_pauta":               paid_xgb,
-        "analisis_xgboost_pauta":      paid_xgb,
-        "modulos_analizados": {
-            "regresion_logistica": True,
-            "xgboost_pauta": bool(paid_xgb),
-            "ocr": bool(ocr_blk),
-            "transcripcion": bool(transc_blk),
-            "llm": bool(llm),
-            "politicas": bool(policy),
-            "composicion_visual": bool(visual_analysis),
-            "sentimiento": bool(sentiment),
-            "guion": bool(script_analysis),
-        },
         "explicabilidad":               simple_explanation(features, prediction),
         "cpm_estimado":                 final_rec["cpm_estimado"],
         "cpm_modelado_xgboost":        cpm_para_pauta,
@@ -1886,7 +1952,6 @@ def analyze_video(
         metadata=metadata, cpm=cpm_para_pauta,
         budget=safe_float(presupuesto, 0),
     )
-    exec_s["markdown"] = (exec_s.get("markdown", "") + "\n\n" + _xgboost_summary_markdown(paid_xgb)).strip()
     result["resumen_ejecutivo"] = exec_s
 
     charts = create_analysis_charts(result)
@@ -1907,7 +1972,7 @@ def analyze_video(
         _script_markdown(script_analysis),
         sentiment_md,
         frames_gallery,
-        charts.get("score_chart", ""), charts.get("projection_chart", ""), charts.get("policy_chart", ""), charts.get("xgboost_chart", ""),
+        charts.get("score_chart", ""), charts.get("projection_chart", ""), charts.get("policy_chart", ""),
         warnings_md, redac_md,
         _redac_meta_md(redac),
         sentiment_charts.get("sentiment_bar_chart", ""),
@@ -1997,6 +2062,7 @@ def _build_diagnostic_full(
             "engagement_pct": round(safe_float(features.get("engagement_rate", 0)) * 100, 2),
         },
         "metricas_privadas": {
+            "shares": int(safe_float(ops.get("shares", 0))),
             "retention_pct": round(safe_float(ops.get("retention_rate", 0)) * 100, 1),
             "average_watch_time": int(safe_float(ops.get("average_watch_time", 0))),
             "hours_since_publication": int(safe_float(ops.get("hours_since_publication", 0))),
@@ -2052,6 +2118,7 @@ def _build_diagnostic_full(
             "views_esperadas": int(safe_float(proyeccion.get("projected_views_after_boost", 0))),
             "likes_esperados": int(safe_float(proyeccion.get("projected_likes_after_boost", 0))),
             "comments_esperados": int(safe_float(proyeccion.get("projected_comments_after_boost", 0))),
+            "shares_esperados": int(safe_float(proyeccion.get("projected_shares_after_boost", 0))),
         },
     }
 
@@ -2063,10 +2130,9 @@ def _build_diagnostic_full(
 def fill_from_url(youtube_url: str, channel_url: str = ""):
     """Rellena datos del video y, si es posible, métricas públicas del canal.
 
-    Devuelve 13 valores en el orden de los componentes del formulario.
-    La categoría XGBoost se deja en auto porque la API de YouTube no trae nicho de pauta pagada.
+    Devuelve 14 valores en el orden de los componentes del formulario.
     """
-    empty = ("", "", "unknown", "auto", 0.0, 0.0, 0.0, 0.0, 24.0, 0.0, 0.0, "", "⚠️ Sin datos o sin API key.")
+    empty = ("", "", "unknown", "auto", 0.0, 0.0, 0.0, 0.0, 24.0, 0.0, 0.0, 0.0, "", "⚠️ Sin datos o sin API key.")
     url = (youtube_url or "").strip()
     if not url and not (channel_url or "").strip():
         return empty
@@ -2089,10 +2155,11 @@ def fill_from_url(youtube_url: str, channel_url: str = ""):
                 "", "", "unknown", "auto", 0.0, 0.0, 0.0, 0.0, 24.0,
                 float(channel_metrics.get("subscriber_count", 0) or 0),
                 float(channel_metrics.get("avg_views_recent", 0) or 0),
+                0.0,
                 channel_metrics.get("channel_url", ""),
                 f"⚠️ Video: {msg} · ✅ Canal cargado: {channel_metrics.get('channel_title', '')}",
             )
-        return ("", "", "unknown", "auto", 0.0, 0.0, 0.0, 0.0, 24.0, 0.0, 0.0, "", f"⚠️ {msg}")
+        return ("", "", "unknown", "auto", 0.0, 0.0, 0.0, 0.0, 24.0, 0.0, 0.0, 0.0, "", f"⚠️ {msg}")
 
     auto_hours = _hours_since_published(api.get("published_at")) or 24.0
     published_msg = f" · publicado hace {_format_age_from_hours(auto_hours)} ({api.get('published_at')})" if api.get("published_at") else ""
@@ -2111,7 +2178,7 @@ def fill_from_url(youtube_url: str, channel_url: str = ""):
         api.get("title", ""),                                    # title
         api.get("description", ""),                              # description
         str(api.get("category_id", "unknown") or "unknown"),    # category
-        "auto",                                                  # categoría XGBoost: inferencia automática
+        "auto",                                                  # categoría XGBoost; por defecto inferida automáticamente
         float(api.get("views", 0) or 0),                         # views
         float(api.get("likes", 0) or 0),                         # likes
         float(api.get("comments", 0) or 0),                      # comments
@@ -2119,6 +2186,7 @@ def fill_from_url(youtube_url: str, channel_url: str = ""):
         float(auto_hours),                                       # hours_since_publication
         followers,                                               # followers_count
         avg_reach,                                               # avg_channel_reach
+        float(0),                                                # shares (no viene)
         channel_url_out or "",                                   # channel_url
         f"✅ Datos cargados desde YouTube API — {api.get('channel_title', '')}{published_msg}{channel_msg}",
     )
@@ -2178,7 +2246,7 @@ def build_demo() -> gr.Blocks:
                     )
                     with gr.Row():
                         youtube_url = gr.Textbox(
-                            label="🔗 URL YouTube (se descarga automáticamente a 360p ≤60s)",
+                            label="🔗 URL YouTube solo métricas",
                             placeholder="https://www.youtube.com/watch?v=...",
                             scale=4,
                         )
@@ -2202,21 +2270,18 @@ def build_demo() -> gr.Blocks:
                     with gr.Row():
                         category = gr.Textbox(label="Categoría YouTube (id)", value="unknown")
                         xgboost_category = gr.Dropdown(
-                            label="Categoría de pauta para XGBoost",
-                            choices=["auto"] + list(SUPPORTED_AD_CATEGORIES) + ["otros"],
+                            choices=XGBOOST_AD_CATEGORY_CHOICES,
                             value="auto",
+                            label="Nicho / categoría para XGBoost",
+                            info="Selecciona el nicho de pauta. Usa auto para inferirlo; usa otros si no encaja.",
                             interactive=True,
-                            allow_custom_value=False,
-                            info=(
-                                "Selecciona el nicho para calibrar CPM, impresiones y vistas pagadas. "
-                                "auto infiere desde título, descripción, OCR y transcripción; otros usa fallback general."
-                            ),
                         )
                     with gr.Row():
                         views    = gr.Number(label="Visualizaciones", value=0)
                         likes    = gr.Number(label="Likes", value=0)
                         comments = gr.Number(label="Comentarios", value=0)
                     with gr.Row():
+                        shares           = gr.Number(label="Shares (oculto)", value=0, visible=False)
                         retention_rate   = gr.Number(label="Retención [0-1]", value=0.0)
                         average_watch_time = gr.Number(label="Watch time (s)", value=0)
                     with gr.Row():
@@ -2274,7 +2339,6 @@ def build_demo() -> gr.Blocks:
                     score_img      = gr.Image(label="Diagnóstico", interactive=False, height=380)
                     projection_img = gr.Image(label="Actual vs esperado con pauta", interactive=False, height=380)
                     policy_img     = gr.Image(label="Riesgo publicitario", interactive=False, height=320)
-                    xgboost_img   = gr.Image(label="XGBoost pauta: CPM y alcance estimado", interactive=False, height=340)
 
                 with gr.Tab("🎨 Composición visual + OCR"):
                     visual_panel = gr.Markdown(
@@ -2361,7 +2425,7 @@ def build_demo() -> gr.Blocks:
             fill_from_url,
             inputs=[youtube_url, channel_url],
             outputs=[title, description, category, xgboost_category, views, likes, comments,
-                     duration_seconds, hours_since_publication, followers_count, avg_channel_reach, channel_url, fill_status],
+                     duration_seconds, hours_since_publication, followers_count, avg_channel_reach, shares, channel_url, fill_status],
         )
 
         # ── Botón principal ──────────────────────────────────────────────────
@@ -2371,7 +2435,7 @@ def build_demo() -> gr.Blocks:
                 demo_case, youtube_url, channel_url, video_file,
                 title, description, category, xgboost_category,
                 views, likes, comments,
-                retention_rate, average_watch_time,
+                shares, retention_rate, average_watch_time,
                 hours_since_publication, followers_count, avg_channel_reach,
                 duration_seconds,
                 manual_transcript, manual_ocr_text, manual_comments,
@@ -2383,7 +2447,7 @@ def build_demo() -> gr.Blocks:
                 metricas_panel, llm_panel, ocr_panel, policy_panel,
                 visual_panel, script_panel, sentiment_panel,
                 frames_gallery,
-                score_img, projection_img, policy_img, xgboost_img,
+                score_img, projection_img, policy_img,
                 warnings_md, redaccion_md_out, redaccion_meta_out,
                 sentiment_bar_img, wordcloud_pos_img, wordcloud_neu_img, wordcloud_neg_img,
             ],
