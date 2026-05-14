@@ -1,0 +1,120 @@
+{
+  "n_rows": 68526,
+  "n_train": 54820,
+  "n_test": 13706,
+  "positive_rate": 0.3000029186002393,
+  "benchmark": [
+    {
+      "modelo": "DummyClassifier_most_frequent",
+      "tipo": "experimental",
+      "accuracy": 0.6999854078505764,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "roc_auc": 0.5,
+      "tn": 9594,
+      "fp": 0,
+      "fn": 4112,
+      "tp": 0
+    },
+    {
+      "modelo": "DummyClassifier_stratified",
+      "tipo": "experimental",
+      "accuracy": 0.5806216255654458,
+      "precision": 0.2957042957042957,
+      "recall": 0.28793774319066145,
+      "f1": 0.2917693445046821,
+      "roc_auc": 0.49700201731140325,
+      "tn": 6774,
+      "fp": 2820,
+      "fn": 2928,
+      "tp": 1184
+    },
+    {
+      "modelo": "Regla_simple_longitud_texto",
+      "tipo": "experimental",
+      "accuracy": 0.6133080402743324,
+      "precision": 0.35659101883148236,
+      "recall": 0.35919260700389105,
+      "f1": 0.35788708504967287,
+      "roc_auc": 0.5489232362111858,
+      "tn": 6929,
+      "fp": 2665,
+      "fn": 2635,
+      "tp": 1477
+    },
+    {
+      "modelo": "Modelo_propuesto_LogisticRegression_TFIDF",
+      "tipo": "experimental",
+      "accuracy": 0.6875091200933897,
+      "precision": 0.48232375439321895,
+      "recall": 0.567363813229572,
+      "f1": 0.5213990389987708,
+      "roc_auc": 0.7327832595802013,
+      "tn": 7090,
+      "fp": 2504,
+      "fn": 1779,
+      "tp": 2333
+    }
+  ],
+  "fairness_summary": [
+    {
+      "variable_grupo": "category_id",
+      "grupos_incluidos": 8,
+      "n_total_en_grupos": 13457,
+      "demographic_parity_difference": 0.7800498531113682,
+      "disparate_impact_ratio_min_max": 0.2064427901247985,
+      "equal_opportunity_difference_tpr": 0.566342520952957,
+      "fpr_difference": 0.788965846668259,
+      "f1_gap": 0.4841201716738197
+    },
+    {
+      "variable_grupo": "country",
+      "grupos_incluidos": 23,
+      "n_total_en_grupos": 10240,
+      "demographic_parity_difference": 0.5090882162860835,
+      "disparate_impact_ratio_min_max": 0.14747925685425686,
+      "equal_opportunity_difference_tpr": 0.8107444306074444,
+      "fpr_difference": 0.44348820009413026,
+      "f1_gap": 0.702155350910059
+    },
+    {
+      "variable_grupo": "duration_bucket",
+      "grupos_incluidos": 1,
+      "n_total_en_grupos": 13706,
+      "demographic_parity_difference": 0.0,
+      "disparate_impact_ratio_min_max": 1.0,
+      "equal_opportunity_difference_tpr": 0.0,
+      "fpr_difference": 0.0,
+      "f1_gap": 0.0
+    },
+    {
+      "variable_grupo": "source_file",
+      "grupos_incluidos": 2,
+      "n_total_en_grupos": 13706,
+      "demographic_parity_difference": 0.21944588687608368,
+      "disparate_impact_ratio_min_max": 0.5788584927117459,
+      "equal_opportunity_difference_tpr": 0.43561176008520985,
+      "fpr_difference": 0.027011122489607298,
+      "f1_gap": 0.3593697619845793
+    }
+  ],
+  "learning_curve_last": [
+    {
+      "n_train": 30000,
+      "split": "train",
+      "accuracy": 0.7074,
+      "f1": 0.5437629937629938,
+      "roc_auc": 0.7509806164021164,
+      "log_loss": 0.567286132355126
+    },
+    {
+      "n_train": 30000,
+      "split": "validation",
+      "accuracy": 0.6878,
+      "f1": 0.5077262693156733,
+      "roc_auc": 0.723293238095238,
+      "log_loss": 0.5860913605051213
+    }
+  ]
+}
