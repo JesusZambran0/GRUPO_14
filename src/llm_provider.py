@@ -28,10 +28,10 @@ LOCAL_TEMPERATURE = float(os.getenv("LLM_LOCAL_TEMPERATURE", "0.20"))
 LOCAL_MIN_WORDS = int(os.getenv("LLM_LOCAL_MIN_WORDS", "70"))
 ALLOW_BAD_LOCAL_LLM = os.getenv("ALLOW_BAD_LOCAL_LLM", "false").lower() in {"1", "true", "yes", "on"}
 
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite")
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/" f"{GEMINI_MODEL}:generateContent"
-GEMINI_TIMEOUT_S = float(os.getenv("GEMINI_TIMEOUT_S", "30"))
-GEMINI_MAX_OUTPUT_TOKENS = int(os.getenv("GEMINI_MAX_OUTPUT_TOKENS", "1100"))
+GEMINI_TIMEOUT_S = float(os.getenv("GEMINI_TIMEOUT_S", "150"))
+GEMINI_MAX_OUTPUT_TOKENS = int(os.getenv("GEMINI_MAX_OUTPUT_TOKENS", "2100"))
 
 SYSTEM_PROMPT = (
     "Eres un analista senior de contenido para YouTube, marketing, pauta digital y narrativa audiovisual. "
