@@ -40,7 +40,7 @@ from src.features import (
 from src.llm_analyzer import analyze_with_llm
 from src.llm_provider import generate_recommendation_with_llm, interpret_ocr_text_with_llm
 from src.metric_forecaster import build_boost_projection
-from src.paid_ads_xgboost import predict_paid_ad_boost, render_paid_ad_boost_markdown
+from src.paid_ads_xgboost import SUPPORTED_AD_CATEGORIES, predict_paid_ad_boost, render_paid_ad_boost_markdown
 from src.ocr_video import extract_ocr_from_video
 from src.policy_evaluator import evaluate_youtube_ad_policy_risk
 from src.predict import predict_from_features
@@ -1455,7 +1455,7 @@ def analyze_video(
     youtube_url: str,
     channel_url: str,
     video_file: Any,
-    title: str, description: str, category: str, topic: str,
+    title: str, description: str, category: str, xgboost_category: str,
     views: float, likes: float, comments: float,
     retention_rate: float, average_watch_time: float,
     hours_since_publication: float, followers_count: float, avg_channel_reach: float,
@@ -1582,7 +1582,9 @@ def analyze_video(
         "title":            (title or "").strip() or api_payload.get("title", ""),
         "description":      (description or "").strip() or api_payload.get("description", ""),
         "category_id":      (category or "").strip() or str(api_payload.get("category_id", "unknown") or "unknown"),
-        "topic":            (topic or "").strip(),
+        "topic":            (xgboost_category or "auto").strip(),
+        "xgboost_category": (xgboost_category or "auto").strip(),
+        "ad_category":      (xgboost_category or "auto").strip(),
         "views":            safe_float(views) if views else safe_float(api_payload.get("views", 0)),
         "likes":            safe_float(likes) if likes else safe_float(api_payload.get("likes", 0)),
         "comments":         safe_float(comments) if comments else safe_float(api_payload.get("comments", 0)),
@@ -1716,6 +1718,10 @@ def analyze_video(
         comments=metadata.get("comments", 0), published_at=metadata.get("published_at"),
         video_type=video_type, extra=ocr_features,
     )
+    # Categoría elegida por el usuario para el segundo modelo XGBoost.
+    # "auto" deja que el módulo infiera el nicho desde título, descripción, OCR y transcripción.
+    features["xgboost_category"] = (xgboost_category or "auto").strip()
+    features["ad_category"] = (xgboost_category or "auto").strip()
 
     # ── Modelo predictivo ────────────────────────────────────────────────────
     prediction = predict_from_features(features)
@@ -1746,7 +1752,8 @@ def analyze_video(
         "average_watch_time": safe_float(average_watch_time),
         "followers_count":    safe_float(followers_count),
         "avg_channel_reach":  safe_float(avg_channel_reach),
-        "topic":              (topic or "").strip(),
+        "topic":              (xgboost_category or "auto").strip(),
+        "xgboost_category":   (xgboost_category or "auto").strip(),
         "published_at":       metadata.get("published_at"),
         "hours_source":       "youtube_published_at" if auto_hours_since_publication is not None else "manual",
     })
@@ -2057,8 +2064,9 @@ def fill_from_url(youtube_url: str, channel_url: str = ""):
     """Rellena datos del video y, si es posible, métricas públicas del canal.
 
     Devuelve 13 valores en el orden de los componentes del formulario.
+    La categoría XGBoost se deja en auto porque la API de YouTube no trae nicho de pauta pagada.
     """
-    empty = ("", "", "unknown", "", 0.0, 0.0, 0.0, 0.0, 24.0, 0.0, 0.0, "", "⚠️ Sin datos o sin API key.")
+    empty = ("", "", "unknown", "auto", 0.0, 0.0, 0.0, 0.0, 24.0, 0.0, 0.0, "", "⚠️ Sin datos o sin API key.")
     url = (youtube_url or "").strip()
     if not url and not (channel_url or "").strip():
         return empty
@@ -2078,13 +2086,13 @@ def fill_from_url(youtube_url: str, channel_url: str = ""):
         msg = api.get("warning") or "No se obtuvieron datos de YouTube."
         if channel_metrics.get("ok"):
             return (
-                "", "", "unknown", "", 0.0, 0.0, 0.0, 0.0, 24.0,
+                "", "", "unknown", "auto", 0.0, 0.0, 0.0, 0.0, 24.0,
                 float(channel_metrics.get("subscriber_count", 0) or 0),
                 float(channel_metrics.get("avg_views_recent", 0) or 0),
                 channel_metrics.get("channel_url", ""),
                 f"⚠️ Video: {msg} · ✅ Canal cargado: {channel_metrics.get('channel_title', '')}",
             )
-        return ("", "", "unknown", "", 0.0, 0.0, 0.0, 0.0, 24.0, 0.0, 0.0, "", f"⚠️ {msg}")
+        return ("", "", "unknown", "auto", 0.0, 0.0, 0.0, 0.0, 24.0, 0.0, 0.0, "", f"⚠️ {msg}")
 
     auto_hours = _hours_since_published(api.get("published_at")) or 24.0
     published_msg = f" · publicado hace {_format_age_from_hours(auto_hours)} ({api.get('published_at')})" if api.get("published_at") else ""
@@ -2103,7 +2111,7 @@ def fill_from_url(youtube_url: str, channel_url: str = ""):
         api.get("title", ""),                                    # title
         api.get("description", ""),                              # description
         str(api.get("category_id", "unknown") or "unknown"),    # category
-        "",                                                      # topic (no viene de API)
+        "auto",                                                  # categoría XGBoost: inferencia automática
         float(api.get("views", 0) or 0),                         # views
         float(api.get("likes", 0) or 0),                         # likes
         float(api.get("comments", 0) or 0),                      # comments
@@ -2192,8 +2200,18 @@ def build_demo() -> gr.Blocks:
                     title       = gr.Textbox(label="Título / copy", lines=1)
                     description = gr.Textbox(label="Descripción", lines=3)
                     with gr.Row():
-                        category = gr.Textbox(label="Categoría (id)", value="unknown")
-                        topic    = gr.Textbox(label="Tópico", value="")
+                        category = gr.Textbox(label="Categoría YouTube (id)", value="unknown")
+                        xgboost_category = gr.Dropdown(
+                            label="Categoría de pauta para XGBoost",
+                            choices=["auto"] + list(SUPPORTED_AD_CATEGORIES) + ["otros"],
+                            value="auto",
+                            interactive=True,
+                            allow_custom_value=False,
+                            info=(
+                                "Selecciona el nicho para calibrar CPM, impresiones y vistas pagadas. "
+                                "auto infiere desde título, descripción, OCR y transcripción; otros usa fallback general."
+                            ),
+                        )
                     with gr.Row():
                         views    = gr.Number(label="Visualizaciones", value=0)
                         likes    = gr.Number(label="Likes", value=0)
@@ -2342,7 +2360,7 @@ def build_demo() -> gr.Blocks:
         fill_btn.click(
             fill_from_url,
             inputs=[youtube_url, channel_url],
-            outputs=[title, description, category, topic, views, likes, comments,
+            outputs=[title, description, category, xgboost_category, views, likes, comments,
                      duration_seconds, hours_since_publication, followers_count, avg_channel_reach, channel_url, fill_status],
         )
 
@@ -2351,7 +2369,7 @@ def build_demo() -> gr.Blocks:
             analyze_video,
             inputs=[
                 demo_case, youtube_url, channel_url, video_file,
-                title, description, category, topic,
+                title, description, category, xgboost_category,
                 views, likes, comments,
                 retention_rate, average_watch_time,
                 hours_since_publication, followers_count, avg_channel_reach,
