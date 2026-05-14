@@ -1,11 +1,11 @@
 """Motor de recomendación: score híbrido + acción final.
 
 El score híbrido combina la probabilidad del modelo predictivo con métricas
-operativas del video (engagement, retención, share rate, views/hora) y el
+operativas del video (engagement, retención, views/hora) y el
 riesgo publicitario detectado por ``policy_evaluator``.
 
 Las métricas que pueden no haber sido parte del entrenamiento del modelo
-(p.ej. ``shares``, ``retention_rate``, ``average_watch_time``) se usan
+(p.ej. ``retention_rate``, ``average_watch_time``) se usan
 **aquí, en el score híbrido**, no como predictores del modelo. Eso queda
 documentado explícitamente.
 
@@ -73,10 +73,9 @@ def compute_hybrid_score(
     """Score híbrido de decisión.
 
     Pesos (suman 1.0 antes de la penalización por políticas):
-    - 0.45 model_probability
-    - 0.15 engagement_rate (normalizada en [0, 0.15])
-    - 0.10 share_rate (normalizada en [0, 0.05])
-    - 0.15 retention_rate (en [0, 1])
+    - 0.50 model_probability
+    - 0.18 engagement_rate (normalizada en [0, 0.15])
+    - 0.17 retention_rate (en [0, 1])
     - 0.15 views_per_hour (log-normalizado en [0, 1000])
 
     Penalización por riesgo de políticas:
@@ -88,14 +87,14 @@ def compute_hybrid_score(
     p = safe_float(model_probability)
     p = max(0.0, min(1.0, p))
     er = _normalize(safe_float(engagement_rate), 0.0, 0.15)
-    sr = _normalize(safe_float(share_rate), 0.0, 0.05)
+    sr = 0.0  # shares queda fuera del score: no aporta suficiente valor predictivo en esta versión.
     rr = _normalize(safe_float(retention_rate), 0.0, 1.0)
     # views_per_hour log-normalizado: 0 vph → 0, 1000 vph → 1.
     import math
     vph_raw = max(safe_float(views_per_hour), 0.0)
     vph = _normalize(math.log1p(vph_raw), 0.0, math.log1p(1000.0))
 
-    base = 0.45 * p + 0.15 * er + 0.10 * sr + 0.15 * rr + 0.15 * vph
+    base = 0.50 * p + 0.18 * er + 0.17 * rr + 0.15 * vph
 
     policy_penalty_map = {"bajo": 1.00, "medio": 0.85, "alto": 0.50, "revisión humana": 0.30}
     penalty = policy_penalty_map.get(policy_risk_level, 0.85)
@@ -154,8 +153,8 @@ def determine_final_action(
         return "IMPULSAR"
     if s >= 0.55 and policy_risk_level in {"bajo", "medio"}:
         return "AJUSTAR ANTES DE IMPULSAR"
-    if s >= 0.35:
-        return "MONITOREAR"
+    if s >= 0.42:
+        return "AJUSTAR ANTES DE IMPULSAR"
     return "NO IMPULSAR"
 
 
@@ -194,7 +193,7 @@ def _level_to_legacy_recommendation(level: str, requires_adjustments: bool) -> D
     if level in {"alto", "muy_alto"} and requires_adjustments:
         return {"recomendacion_impulso": "ajustar antes de impulsar", "nivel_prioridad": "alta"}
     if level == "medio":
-        return {"recomendacion_impulso": "monitorear", "nivel_prioridad": "media"}
+        return {"recomendacion_impulso": "ajustar antes de impulsar", "nivel_prioridad": "media"}
     return {"recomendacion_impulso": "no impulsar", "nivel_prioridad": "baja"}
 
 
@@ -252,7 +251,7 @@ def build_final_recommendation(
         features: fila de features de ``src.features.build_feature_row``.
         cpm: CPM estimado en USD.
         budget: presupuesto en USD.
-        operational_metrics: dict opcional con ``shares``, ``retention_rate``,
+        operational_metrics: dict opcional con ``retention_rate``,
             ``average_watch_time``, ``hours_since_publication``, ``followers_count``,
             ``avg_channel_reach``, ``share_rate``, ``views_per_hour``.
             Estas variables pueden NO haber sido parte del entrenamiento del modelo;

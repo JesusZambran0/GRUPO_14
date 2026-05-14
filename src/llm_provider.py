@@ -45,7 +45,7 @@ SYSTEM_PROMPT = (
 ACTION_HEADLINES = {
     "IMPULSAR": "Adelante: el video tiene señales suficientes para pautar.",
     "AJUSTAR ANTES DE IMPULSAR": "Casi listo: con ajustes puntuales rinde mejor antes de invertir.",
-    "MONITOREAR": "No invertir aún: dale tiempo al contenido en orgánico.",
+    "MONITOREAR": "No pautar todavía: optimiza el creativo y vuelve a evaluar con nuevas señales.",
     "NO IMPULSAR": "No conviene pautar este video con la información disponible.",
     "REVISIÓN HUMANA": "Mejor que una persona del equipo lo revise antes de decidir.",
 }
@@ -92,7 +92,7 @@ def construir_prompt(diagnostic: Dict[str, Any]) -> str:
         f"**Título:** {d.get('titulo') or '—'}\n"
         f"**Tipo de contenido detectado:** {intent}\n"
         f"**Acción recomendada por el sistema:** {d.get('accion') or '—'}\n"
-        f"**Probabilidad de potencial:** {_fmt(d.get('probabilidad_pct'), '%')}\n"
+        f"**Probabilidad de aptitud publicitaria:** {_fmt(d.get('probabilidad_pct'), '%')}\n"
         f"**Score global 0-100:** {_fmt(d.get('score_0_100'))}\n\n"
         "### Métricas públicas\n"
         f"- Views: {_fmt(pub.get('views'))} | Likes: {_fmt(pub.get('likes'))} | Comentarios: {_fmt(pub.get('comments'))} | Engagement: {_fmt(pub.get('engagement_pct'), '%')}\n\n"
@@ -183,7 +183,7 @@ def _rules_recommendation(diagnostic: Dict[str, Any]) -> str:
 
     razones = []
     if prob is not None:
-        razones.append(f"El modelo estima {prob}% de probabilidad de buen rendimiento relativo.")
+        razones.append(f"El modelo estima {prob}% de probabilidad de aptitud publicitaria, no ROI ni vistas garantizadas.")
     cats = pol.get("categorias") or []
     if cats:
         razones.append(f"El screening de políticas detectó señales en: {', '.join(cats[:3])} (nivel {pol.get('nivel') or '—'}).")

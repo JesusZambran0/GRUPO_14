@@ -36,7 +36,7 @@ ACTION_PHRASES = {
         "color": "#facc15",
     },
     "MONITOREAR": {
-        "headline": "🔎 No invertir aún: dale tiempo de probarse en orgánico.",
+        "headline": "🟡 Decisión: no pautar todavía; optimiza y vuelve a evaluar.",
         "tone": "neutro",
         "color": "#60a5fa",
     },
@@ -99,7 +99,7 @@ def build_executive_summary(
     Devuelve un dict con varias piezas:
     - ``headline``: una línea con la acción.
     - ``score_global_0_100``: score híbrido en escala 0-100.
-    - ``probabilidad_pct``: probabilidad de buen rendimiento en %.
+    - ``probabilidad_pct``: probabilidad de aptitud/candidatura publicitaria en %.
     - ``policy_status_human``: estado de política en frase clara.
     - ``por_que``: lista de 3 razones cortas.
     - ``que_hacer_ahora``: lista de pasos accionables.
@@ -124,7 +124,7 @@ def build_executive_summary(
 
     # Modelo
     razones.append(
-        f"📊 Potencial de rendimiento estimado: **{LEVEL_HUMAN.get(level, level)}** ({prob_pct}% de probabilidad de funcionar)."
+        f"📊 Probabilidad de aptitud publicitaria: **{prob_pct}%**. Nivel del modelo: **{LEVEL_HUMAN.get(level, level)}**."
     )
 
     # Política
@@ -201,12 +201,12 @@ def build_executive_summary(
     md_parts.append("")
     md_parts.append(f"| Métrica clave | Valor |")
     md_parts.append(f"|---|---|")
-    md_parts.append(f"| **Rendimiento esperado** | {LEVEL_HUMAN.get(level, level)} ({prob_pct}% de probabilidad) |")
+    md_parts.append(f"| **Probabilidad de aptitud publicitaria** | {prob_pct}% · nivel {LEVEL_HUMAN.get(level, level)} |")
     md_parts.append(f"| **Score global** | **{score_0_100} / 100** |")
     md_parts.append(f"| **Política publicitaria** | {policy_status_human} |")
     if forecast["budget_usd"] > 0:
         md_parts.append(
-            f"| **Con {_format_money(forecast['budget_usd'])} pautados** | ≈ {_format_int(forecast['impresiones_esperadas'])} impresiones |"
+            f"| **Con {_format_money(forecast['budget_usd'])} pautados** | ≈ {_format_int(forecast['impresiones_esperadas'])} impresiones estimadas, no vistas garantizadas |"
         )
     md_parts.append("")
     md_parts.append("### Por qué")
@@ -218,7 +218,7 @@ def build_executive_summary(
         md_parts.append(f"- {q}")
     md_parts.append("")
     md_parts.append(
-        "> *Este sistema es una herramienta de apoyo. El alcance esperado por dólar se calcula con "
+        "> *Este sistema es una herramienta de apoyo. La probabilidad indicada mide aptitud/candidatura publicitaria, no ROI. El alcance esperado por dólar se calcula con "
         "el CPM ingresado y un multiplicador de potencial; no representa ROI real garantizado.*"
     )
 
