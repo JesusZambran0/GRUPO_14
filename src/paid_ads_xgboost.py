@@ -44,6 +44,18 @@ NICHE_KEYWORDS = {
     "inmobiliario": ["casa", "departamento", "inmueble", "terreno", "alquiler", "venta", "propiedad"],
 }
 
+SUPPORTED_AD_CATEGORIES = [
+    "educación",
+    "retail/ecommerce",
+    "servicios",
+    "entretenimiento",
+    "tecnología",
+    "salud/bienestar",
+    "gastronomía",
+    "inmobiliario",
+    "general/branding",
+]
+
 BASE_CPM_BY_NICHE = {
     "entretenimiento": 3.8,
     "gastronomía": 4.6,
@@ -76,7 +88,37 @@ def _load_model():
         return None
 
 
-def infer_ad_niche(title: str = "", description: str = "", transcript_text: str = "", ocr_text: str = "") -> str:
+def normalize_ad_category(value: Any) -> str | None:
+    """Normaliza la categoría elegida en la UI para XGBoost.
+
+    - auto / vacío: permite inferencia por texto.
+    - otros: permite fallback general si no hay señales textuales claras.
+    - categorías soportadas: fuerzan el nicho para calibrar CPM y vistas.
+    """
+    raw = str(value or "").strip().lower()
+    if not raw or raw in {"auto", "automático", "automatico"}:
+        return None
+    if raw in {"otro", "otros", "other"}:
+        return None
+    aliases = {
+        "educacion": "educación",
+        "ecommerce": "retail/ecommerce",
+        "retail": "retail/ecommerce",
+        "tecnologia": "tecnología",
+        "salud": "salud/bienestar",
+        "bienestar": "salud/bienestar",
+        "gastronomia": "gastronomía",
+        "branding": "general/branding",
+        "general": "general/branding",
+    }
+    normalized = aliases.get(raw, raw)
+    return normalized if normalized in BASE_CPM_BY_NICHE else None
+
+
+def infer_ad_niche(title: str = "", description: str = "", transcript_text: str = "", ocr_text: str = "", selected_category: Any = None) -> str:
+    forced = normalize_ad_category(selected_category)
+    if forced:
+        return forced
     text = " ".join([title or "", description or "", transcript_text or "", ocr_text or ""]).lower()
     scores = {niche: sum(1 for kw in kws if kw in text) for niche, kws in NICHE_KEYWORDS.items()}
     best, value = max(scores.items(), key=lambda kv: kv[1])
@@ -129,7 +171,8 @@ def build_paid_ad_feature_row(features: Dict[str, Any], metadata: Dict[str, Any]
     ops = ops or {}
     title = metadata.get("title", "") or features.get("title", "")
     description = metadata.get("description", "") or features.get("description", "")
-    niche = infer_ad_niche(title, description, features.get("transcript_text", ""), features.get("ocr_text", ""))
+    selected_category = metadata.get("xgboost_category") or metadata.get("ad_category") or features.get("xgboost_category") or features.get("ad_category")
+    niche = infer_ad_niche(title, description, features.get("transcript_text", ""), features.get("ocr_text", ""), selected_category=selected_category)
     now = datetime.utcnow()
     month = now.month
     weekday = now.isoweekday()
@@ -152,13 +195,15 @@ def build_paid_ad_feature_row(features: Dict[str, Any], metadata: Dict[str, Any]
         "ctr_prior": _clip(engagement, 0.001, 0.20),
         "cvr_prior": _clip(retention * 0.12, 0.001, 0.30),
         "ad_niche": niche,
+        "selected_ad_category": selected_category or "auto",
     }
 
 
 def _rules_estimate(features: Dict[str, Any], metadata: Dict[str, Any], ops: Dict[str, Any], probability: float, budget: float) -> Dict[str, Any]:
     title = metadata.get("title", "") or features.get("title", "")
     description = metadata.get("description", "") or features.get("description", "")
-    niche = infer_ad_niche(title, description, features.get("transcript_text", ""), features.get("ocr_text", ""))
+    selected_category = metadata.get("xgboost_category") or metadata.get("ad_category") or features.get("xgboost_category") or features.get("ad_category")
+    niche = infer_ad_niche(title, description, features.get("transcript_text", ""), features.get("ocr_text", ""), selected_category=selected_category)
 
     views = max(safe_float(metadata.get("views", features.get("views", 0))), 0.0)
     likes = max(safe_float(metadata.get("likes", features.get("likes", 0))), 0.0)
@@ -204,6 +249,7 @@ def _rules_estimate(features: Dict[str, Any], metadata: Dict[str, Any], ops: Dic
 
     return {
         "ad_niche": niche,
+        "selected_ad_category": selected_category or "auto",
         "rules_quality_score": round(quality * 100, 2),
         "rules_cpm": round(cpm, 4),
         "rules_paid_performance_score": round(score, 2),
@@ -262,6 +308,7 @@ def predict_paid_ad_boost(
             "gate_threshold": GATE_THRESHOLD,
             "logistic_probability": round(probability, 4),
             "ad_niche": row["ad_niche"],
+            "selected_ad_category": row.get("selected_ad_category", "auto"),
             "reason": "No pasa al segundo modelo porque la probabilidad de candidatura publicitaria es menor a 51%.",
             "model_metadata": meta,
         }
@@ -302,6 +349,7 @@ def predict_paid_ad_boost(
         "gate_threshold": GATE_THRESHOLD,
         "logistic_probability": round(probability, 4),
         "ad_niche": rules["ad_niche"],
+        "selected_ad_category": rules.get("selected_ad_category", "auto"),
         "paid_ad_feature_row": row,
         "raw_xgboost_paid_performance_score": round(model_score, 4) if model_score is not None else None,
         "raw_xgboost_cpm": round(model_cpm, 4) if model_cpm is not None else None,
@@ -311,6 +359,7 @@ def predict_paid_ad_boost(
         "predicted_cpm": round(calibrated_cpm, 4),
         "estimated_cost_per_1000_impressions": round(calibrated_cpm, 4),
         "estimated_impressions_per_dollar": round(1000.0 / calibrated_cpm, 2),
+        "estimated_paid_views_per_dollar": round((1000.0 / calibrated_cpm) * safe_float(rules.get("estimated_view_through_rate", 0.18)), 2),
         "estimated_budget_impressions": round(impressions, 0),
         "estimated_paid_views": round(paid_views, 0),
         "estimated_clicks": round(clicks, 0),
@@ -340,14 +389,15 @@ El video **no pasó** al segundo modelo porque la regresión logística estimó 
     return f"""
 ### Segundo modelo XGBoost de pauta
 
-El video pasó el gate de regresión logística (**{safe_float(xgb.get('logistic_probability')):.1%} ≥ {safe_float(xgb.get('gate_threshold'), GATE_THRESHOLD):.0%}**) y fue evaluado para impulso pagado.
+El video pasó el gate de candidatura publicitaria de la regresión logística (**{safe_float(xgb.get('logistic_probability')):.1%} ≥ {safe_float(xgb.get('gate_threshold'), GATE_THRESHOLD):.0%}**) y fue evaluado para impulso pagado.
 
 | Variable | Estimación |
 |---|---:|
 | Nicho detectado | {xgb.get('ad_niche', '—')} |
-| Score pagado estimado | {safe_float(xgb.get('predicted_paid_performance_score')):.2f}/100 |
+| Score de eficiencia pagada estimada | {safe_float(xgb.get('predicted_paid_performance_score')):.2f}/100 |
 | CPM estimado calibrado | ${safe_float(xgb.get('predicted_cpm')):.2f} |
 | Impresiones estimadas por dólar | {safe_float(xgb.get('estimated_impressions_per_dollar')):.2f} |
+| Vistas pagadas estimadas por dólar | {safe_float(xgb.get('estimated_paid_views_per_dollar')):.2f} |
 | Impresiones estimadas con presupuesto | {safe_float(xgb.get('estimated_budget_impressions')):,.0f} |
 | Views pagadas estimadas | {safe_float(xgb.get('estimated_paid_views')):,.0f} |
 | Clics estimados | {safe_float(xgb.get('estimated_clicks')):,.0f} |
