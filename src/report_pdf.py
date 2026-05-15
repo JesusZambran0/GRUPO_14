@@ -85,23 +85,91 @@ def _clean_text(text: Any, max_chars: int = 420) -> str:
     return raw
 
 
-def _decision(result: Dict[str, Any]) -> Tuple[str, colors.Color, str]:
+def _decision(result: Dict[str, Any]) -> Tuple[str, colors.Color, str, str]:
+    """Decisión canónica del PDF.
+
+    Evita contradicciones entre el titular y la explicación. La prioridad es:
+    política/riesgo > acción final del sistema > gate XGBoost > score.
+    """
+    xgb = result.get("xgboost_pauta") or (result.get("metricas", {}) or {}).get("xgboost_pauta") or {}
+    policy = result.get("analisis_politicas", {}) or {}
+    exec_xgb = ((result.get("resumen_ejecutivo") or {}).get("xgboost_summary") or {})
+
     raw = str(
         result.get("accion_final")
         or result.get("recomendacion_impulso")
         or result.get("decision")
+        or exec_xgb.get("decision")
         or "MONITOREAR"
     ).strip().upper()
+    exec_decision = str(exec_xgb.get("decision") or "").upper()
+    policy_level = str(result.get("policy_risk_level") or policy.get("policy_risk_level") or "bajo").lower()
+    score = _safe_float(result.get("score_hibrido", result.get("probabilidad_rendimiento", 0)), 0.0)
+    eligible = bool(xgb.get("eligible_for_paid_xgboost"))
+    gate_passed = bool(xgb.get("gate_passed", eligible))
 
-    if "IMPULSAR" in raw and "AJUSTAR" not in raw and "NO" not in raw:
-        return "RECOMENDACIÓN: PAUTAR", GREEN, "El contenido muestra señales suficientes para inversión controlada."
-    if "AJUSTAR" in raw:
-        return "RECOMENDACIÓN: AJUSTAR ANTES DE PAUTAR", YELLOW, "Optimiza puntos críticos antes de invertir presupuesto."
-    if "NO" in raw or "DESCART" in raw:
-        return "RECOMENDACIÓN: NO PAUTAR", RED, "No conviene invertir con las señales actuales."
-    if "REVIS" in raw or "HUMAN" in raw:
-        return "RECOMENDACIÓN: REVISIÓN HUMANA", VIOLET, "Requiere validación del equipo antes de decidir."
-    return "RECOMENDACIÓN: MONITOREAR, NO PAUTAR AÚN", SLATE, "Aún faltan señales para invertir con seguridad."
+    if policy_level in {"alto", "high", "revisión humana", "revision humana"} or "REVIS" in raw or "HUMAN" in raw:
+        return "RECOMENDACIÓN: REVISIÓN HUMANA", VIOLET, "Requiere validación del equipo antes de decidir.", "review"
+
+    if "NO INVERT" in exec_decision or ("NO" in raw and ("IMPUL" in raw or "PAUT" in raw)) or "DESCART" in raw:
+        return "RECOMENDACIÓN: NO PAUTAR", RED, "No conviene invertir con las señales actuales.", "no"
+
+    # Si el segundo modelo/gate no habilita pauta, el PDF no debe decir que sí inviertas aunque exista texto LLM positivo.
+    if xgb and not eligible and not gate_passed:
+        return "RECOMENDACIÓN: AJUSTAR ANTES DE PAUTAR", YELLOW, "El gate de pauta no se supera; optimiza y vuelve a evaluar.", "adjust"
+
+    if "AJUSTAR" in raw or "MONIT" in raw:
+        return "RECOMENDACIÓN: AJUSTAR ANTES DE PAUTAR", YELLOW, "Optimiza puntos críticos antes de invertir presupuesto.", "adjust"
+
+    if ("SÍ INVERT" in exec_decision or "SI INVERT" in exec_decision or "IMPULSAR" in raw or "PAUTAR" in raw) and (eligible or score >= 0.60):
+        return "RECOMENDACIÓN: PAUTAR", GREEN, "El contenido muestra señales suficientes para inversión controlada.", "invest"
+
+    return "RECOMENDACIÓN: MONITOREAR, NO PAUTAR AÚN", SLATE, "Aún faltan señales para invertir con seguridad.", "monitor"
+
+
+def _consistent_executive_text(result: Dict[str, Any], decision_key: str, decision_subtitle: str) -> str:
+    """Texto determinista y alineado con la decisión del titular.
+
+    No usa la redacción cruda del LLM cuando puede contradecir la decisión final.
+    """
+    metricas = result.get("metricas", {}) or {}
+    ops = metricas.get("operational", {}) or {}
+    xgb = result.get("xgboost_pauta") or metricas.get("xgboost_pauta") or {}
+    policy = result.get("analisis_politicas", {}) or {}
+
+    prob = _fmt_pct(result.get("probabilidad_rendimiento", 0))
+    score = _fmt_pct(result.get("score_hibrido", 0))
+    cpm = _fmt_money(xgb.get("predicted_cpm") or result.get("cpm_estimado") or 0)
+    impressions = _fmt_num(xgb.get("unified_estimated_impressions") or xgb.get("estimated_budget_impressions") or result.get("impresiones_estimadas_promedio") or 0)
+    retention = _fmt_pct(ops.get("retention_rate", 0))
+    risk = str(result.get("policy_risk_level") or policy.get("policy_risk_level") or "bajo")
+
+    if decision_key == "invest":
+        return (
+            f"{decision_subtitle} La probabilidad del modelo es {prob}, el score híbrido es {score} y el CPM estimado es {cpm}. "
+            f"Con el presupuesto evaluado se proyectan aproximadamente {impressions} impresiones. La pauta debe iniciar como prueba controlada, "
+            f"monitoreando CPM real, CTR y retención ({retention}) antes de escalar inversión."
+        )
+    if decision_key == "no":
+        return (
+            f"{decision_subtitle} Aunque exista un CPM de referencia ({cpm}), la decisión operativa es no invertir. "
+            f"El score híbrido ({score}), la probabilidad ({prob}) o el riesgo ({risk}) no justifican activar pauta. "
+            "La prioridad es corregir los puntos débiles y volver a evaluar antes de asignar presupuesto."
+        )
+    if decision_key == "review":
+        return (
+            f"{decision_subtitle} El contenido requiere revisión por riesgo de políticas o señales sensibles. "
+            f"No debe pautarse hasta validar claims, texto en pantalla, guion y contexto. CPM referencial: {cpm}; no debe interpretarse como autorización de inversión."
+        )
+    if decision_key == "adjust":
+        return (
+            f"{decision_subtitle} La pauta no queda habilitada todavía. Probabilidad: {prob}; score híbrido: {score}; retención: {retention}; CPM referencial: {cpm}. "
+            "Conviene optimizar hook, claridad del mensaje, CTA/cierre, texto en pantalla y coherencia creativa antes de invertir."
+        )
+    return (
+        f"{decision_subtitle} El sistema recomienda observar más señales antes de invertir. Probabilidad: {prob}; score híbrido: {score}; "
+        f"riesgo: {risk}; CPM referencial: {cpm}. Usa esta lectura para seguimiento, no para activar pauta inmediata."
+    )
 
 
 def _draw_wrapped(
@@ -250,7 +318,7 @@ def generate_executive_pdf(result: Dict[str, Any], output_dir: str | Path = "out
     metadata = result.get("metadata_youtube", {}) or {}
     redac = result.get("recomendacion_redactada", {}) or {}
 
-    decision, decision_color, decision_subtitle = _decision(result)
+    decision, decision_color, decision_subtitle, decision_key = _decision(result)
     title = _first(metadata.get("title"), result.get("title"), default="Video analizado")
     channel = _first(metadata.get("channel_title"), metadata.get("channel"), default="Canal no especificado")
 
@@ -371,7 +439,7 @@ def generate_executive_pdf(result: Dict[str, Any], output_dir: str | Path = "out
         c.drawCentredString(MARGIN + frames_w / 2, bot_y + 71, "Sin frames disponibles. Sube un MP4 para OCR, visual y capturas.")
 
     _card(c, reco_x, bot_y, reco_w, bot_h, "Explicación ejecutiva")
-    reco_text = _clean_text(redac.get("recomendacion") or result.get("justificacion") or "Sin recomendación redactada.", 680)
+    reco_text = _clean_text(_consistent_executive_text(result, decision_key, decision_subtitle), 760)
     _draw_wrapped(c, reco_text, reco_x + 12, bot_y + bot_h - 40, reco_w - 24, size=8.2, leading=10.2, color=INK, max_lines=9)
 
     # Footer módulos específicos

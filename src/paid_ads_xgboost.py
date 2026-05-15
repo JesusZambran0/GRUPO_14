@@ -16,9 +16,12 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
+from collections.abc import Iterable as IterableABC
+from concurrent.futures import ThreadPoolExecutor, TimeoutError
 from datetime import datetime
 from functools import lru_cache
-from typing import Any, Dict, Iterable, Tuple
+from typing import Any, Dict, Tuple
 
 import joblib
 import pandas as pd
@@ -29,6 +32,7 @@ from .features import safe_float
 XGBOOST_MODEL_PATH = MODELS_DIR / "xgboost_paid_ads.joblib"
 XGBOOST_METADATA_PATH = MODELS_DIR / "xgboost_paid_ads_metadata.json"
 GATE_THRESHOLD = 0.51
+XGBOOST_PREDICTION_TIMEOUT_SECONDS = float(os.getenv("XGBOOST_PREDICTION_TIMEOUT_SECONDS", "8"))
 
 NICHE_KEYWORDS = {
     "educación": ["curso", "tutorial", "aprende", "clase", "guía", "guia", "tips", "enseño", "capacitación", "webinar"],
@@ -173,7 +177,7 @@ def _positive_probability_from_proba(model: Any, proba: Any) -> float | None:
             # Algunos multioutput devuelven lista de arrays. Tomamos la primera salida.
             proba = proba[0]
         row = proba[0]
-        if not isinstance(row, Iterable) or isinstance(row, (str, bytes)):
+        if not isinstance(row, IterableABC) or isinstance(row, (str, bytes)):
             return _clip(float(row), 0.0, 1.0)
         values = list(row)
         if not values:
@@ -402,7 +406,7 @@ def _rules_estimate(
     }
 
 
-def _predict_model(row: Dict[str, Any]) -> Tuple[float | None, float | None, str]:
+def _predict_model_direct(row: Dict[str, Any]) -> Tuple[float | None, float | None, str]:
     """Predice con el artefacto XGBoost sin asumir que es regresor multi-output.
 
     Casos soportados:
@@ -454,6 +458,29 @@ def _predict_model(row: Dict[str, Any]) -> Tuple[float | None, float | None, str
             return round(value * 100, 4), None, "modelo_xgboost_clasificador_label"
         return _clip(value, 0.0, 100.0), None, "modelo_xgboost_score"
     except Exception as exc:
+        return None, None, f"error_modelo:{type(exc).__name__}"
+
+
+def _predict_model(row: Dict[str, Any]) -> Tuple[float | None, float | None, str]:
+    """Ejecuta el predictor con timeout para que Gradio nunca quede colgado.
+
+    Si el artefacto responde, se usa su predicción real. Si el artefacto no
+    responde dentro del tiempo permitido, se reporta timeout y el flujo superior
+    mantiene la app viva con una estimación calibrada.
+    """
+    timeout_s = max(float(XGBOOST_PREDICTION_TIMEOUT_SECONDS or 8), 1.0)
+    executor = ThreadPoolExecutor(max_workers=1, thread_name_prefix="xgboost_paid_ads")
+    future = executor.submit(_predict_model_direct, row)
+    try:
+        result = future.result(timeout=timeout_s)
+        executor.shutdown(wait=False, cancel_futures=True)
+        return result
+    except TimeoutError:
+        future.cancel()
+        executor.shutdown(wait=False, cancel_futures=True)
+        return None, None, f"timeout_modelo:{timeout_s:.0f}s"
+    except Exception as exc:
+        executor.shutdown(wait=False, cancel_futures=True)
         return None, None, f"error_modelo:{type(exc).__name__}"
 
 
@@ -573,8 +600,8 @@ def predict_paid_ad_boost(
         else:
             calibrated_score = rules_score
             calibrated_cpm = rules_cpm
-            method = "Estimación calibrada por reglas porque XGBoost no está disponible, no cargó o no pudo inferir."
-            warning = "XGBoost no disponible o incompatible; se usó predictor calibrado por reglas para no interrumpir la app."
+            method = "Predictor calibrado por señales reales porque el artefacto XGBoost no estuvo disponible o no respondió a tiempo."
+            warning = "El artefacto XGBoost no entregó predicción utilizable; se protegió la app para evitar bloqueo."
 
         return _build_response(
             eligible=passed_gate,
@@ -599,8 +626,8 @@ def predict_paid_ad_boost(
         return {
             "eligible_for_paid_xgboost": False,
             "model_available": _load_model() is not None,
-            "model_status": f"fallback_seguro:{type(exc).__name__}",
-            "model_role": "fallback_seguro",
+            "model_status": f"proteccion_app:{type(exc).__name__}",
+            "model_role": "proteccion_app_sin_bloqueo",
             "gate_threshold": GATE_THRESHOLD,
             "gate_passed": False,
             "logistic_probability": round(_clip(safe_float(model_probability, 0.0), 0.0, 1.0), 4),
@@ -617,9 +644,9 @@ def predict_paid_ad_boost(
             "estimated_view_through_rate": 0.18,
             "estimated_ctr": 0.012,
             "recommendation": "No se recomienda pautar hasta revisar el error del predictor de pauta.",
-            "reason": "Fallback seguro ejecutado para evitar fallo de aplicación.",
-            "calibration_method": "Fallback seguro con CPM base general/branding.",
-            "warning": f"Predictor de pauta cayó en fallback seguro: {type(exc).__name__}.",
+            "reason": "Protección de aplicación ejecutada para evitar bloqueo del dashboard.",
+            "calibration_method": "Protección mínima con CPM base general/branding; revisar logs del predictor.",
+            "warning": f"Predictor de pauta no pudo completarse: {type(exc).__name__}.",
             "model_metadata": _load_metadata(),
             "methodological_warning": "Estimación no causal. Revisar logs antes de usar para decisión real.",
         }
