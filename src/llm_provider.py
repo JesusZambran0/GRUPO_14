@@ -28,7 +28,7 @@ LOCAL_TEMPERATURE = float(os.getenv("LLM_LOCAL_TEMPERATURE", "0.10"))
 LOCAL_MIN_WORDS = int(os.getenv("LLM_LOCAL_MIN_WORDS", "90"))
 ALLOW_BAD_LOCAL_LLM = os.getenv("ALLOW_BAD_LOCAL_LLM", "false").lower() in {"1", "true", "yes", "on"}
 
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-preview")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite-preview")
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/" f"{GEMINI_MODEL}:generateContent"
 GEMINI_TIMEOUT_S = float(os.getenv("GEMINI_TIMEOUT_S", "30"))
 GEMINI_MAX_OUTPUT_TOKENS = int(os.getenv("GEMINI_MAX_OUTPUT_TOKENS", "1100"))
