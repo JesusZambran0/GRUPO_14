@@ -1901,13 +1901,11 @@ def analyze_video(
         operational_metrics=ops,
         model_probability=safe_float(prediction.get("probability", 0)),
         budget=safe_float(presupuesto, 0),
-        manual_cpm=safe_float(cpm_estimado, DEFAULT_CPM),
     )
     if paid_xgb.get("warning"):
         warnings.append(f"XGBoost pauta: {paid_xgb['warning']}")
-    cpm_para_pauta = safe_float(
-        paid_xgb.get("predicted_cpm"), safe_float(cpm_estimado, DEFAULT_CPM)
-    ) if paid_xgb.get("eligible_for_paid_xgboost") else safe_float(cpm_estimado, DEFAULT_CPM)
+    # El CPM ya no lo ingresa el usuario: se infiere con XGBoost/calibrador.
+    cpm_para_pauta = safe_float(paid_xgb.get("predicted_cpm"), DEFAULT_CPM)
 
     # ── Recomendación ────────────────────────────────────────────────────────
     has_text = bool((metadata.get("title") or metadata.get("description") or transcript_text).strip())
@@ -1959,7 +1957,7 @@ def analyze_video(
         ops=ops, policy=policy, script=script_analysis,
         visual=visual_analysis, proyeccion=proyeccion,
         ocr_text=ocr_features.get("ocr_text", ""),
-        sentiment=sentiment, channel_metrics=channel_metrics, cpm=safe_float(cpm_estimado, DEFAULT_CPM),
+        sentiment=sentiment, channel_metrics=channel_metrics, cpm=cpm_para_pauta,
         presupuesto=safe_float(presupuesto, 0),
     )
     redac = generate_recommendation_with_llm(diag, mode=(llm_mode or "auto"))
@@ -2009,7 +2007,9 @@ def analyze_video(
         "xgboost_pauta":               paid_xgb,
         "explicabilidad":               simple_explanation(features, prediction),
         "cpm_estimado":                 final_rec["cpm_estimado"],
-        "cpm_modelado_xgboost":        cpm_para_pauta,
+        "cpm_estimado_inferido":        cpm_para_pauta,
+        "cpm_modelado_xgboost":         cpm_para_pauta,
+        "fuente_cpm":                   paid_xgb.get("calibration_method", "xgboost_calibrado"),
         "multiplicador_potencial":      final_rec["multiplicador_potencial"],
         "alcance_base_por_dolar":       final_rec["alcance_base_por_dolar"],
         "nota_metodologica":            final_rec["nota_metodologica"],
@@ -2376,9 +2376,10 @@ def build_demo() -> gr.Blocks:
 
                 with gr.Group():
                     gr.Markdown("### 4. Pauta y LLM")
-                    with gr.Row():
-                        cpm_estimado = gr.Number(label="CPM USD", value=DEFAULT_CPM)
-                        presupuesto  = gr.Number(label="Presupuesto USD", value=20)
+                    # El CPM se infiere automáticamente con XGBoost/calibrador.
+                    # Se conserva como State invisible para mantener la firma de analyze_video.
+                    cpm_estimado = gr.State(DEFAULT_CPM)
+                    presupuesto = gr.Number(label="Presupuesto USD", value=20)
                     llm_mode = gr.Radio(
                         choices=["local_open_source", "gemini", "rules"],
                         value="local_open_source",
