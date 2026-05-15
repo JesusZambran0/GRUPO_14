@@ -23,31 +23,48 @@ from typing import Any, Dict, Optional, Tuple
 # Si se deja SmolLM por defecto, el adapter puede no cargar y el modelo base hablará basura.
 LOCAL_MODEL_ID = os.getenv("LOCAL_LLM_MODEL", "Qwen/Qwen2.5-0.5B-Instruct")
 LOCAL_LORA_PATH = os.getenv("LOCAL_LORA_PATH", "models/qwen_marketing_qlora")
-LOCAL_MAX_NEW_TOKENS = int(os.getenv("LLM_LOCAL_MAX_NEW_TOKENS", "420"))
-LOCAL_TEMPERATURE = float(os.getenv("LLM_LOCAL_TEMPERATURE", "0.20"))
-LOCAL_MIN_WORDS = int(os.getenv("LLM_LOCAL_MIN_WORDS", "70"))
+LOCAL_MAX_NEW_TOKENS = int(os.getenv("LLM_LOCAL_MAX_NEW_TOKENS", "384"))
+LOCAL_TEMPERATURE = float(os.getenv("LLM_LOCAL_TEMPERATURE", "0.10"))
+LOCAL_MIN_WORDS = int(os.getenv("LLM_LOCAL_MIN_WORDS", "90"))
 ALLOW_BAD_LOCAL_LLM = os.getenv("ALLOW_BAD_LOCAL_LLM", "false").lower() in {"1", "true", "yes", "on"}
 
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-preview")
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/" f"{GEMINI_MODEL}:generateContent"
 GEMINI_TIMEOUT_S = float(os.getenv("GEMINI_TIMEOUT_S", "30"))
 GEMINI_MAX_OUTPUT_TOKENS = int(os.getenv("GEMINI_MAX_OUTPUT_TOKENS", "1100"))
 
 SYSTEM_PROMPT = (
-    "Eres un analista senior de contenido para YouTube, marketing, pauta digital y narrativa audiovisual. "
-    "Interpreta los datos sin asumir que todo video vende un producto. "
-    "Respeta la intención detectada: humor/entretenimiento, educativo, informativo, branding o comercial. "
-    "Si el video es humorístico, evalúa setup, remate, ritmo, claridad del chiste y compartibilidad; no fuerces CTA de compra. "
-    "Si es comercial, evalúa beneficio, oferta, prueba y acción. "
-    "Responde en español natural, con recomendaciones accionables. NO uses JSON. No inventes cifras."
+    "Eres un analista senior de marketing digital, contenido audiovisual, pauta en redes sociales "
+    "y evaluación de métricas para videos. Tu función es convertir métricas ya calculadas por el sistema "
+    "en una recomendación ejecutiva clara, profesional y accionable. "
+
+    "Reglas obligatorias: "
+    "1. Responde siempre en español natural y profesional. "
+    "2. No uses JSON, código, tablas ni formato técnico innecesario. "
+    "3. No inventes cifras, porcentajes, presupuestos, nombres de campañas ni resultados. "
+    "4. No contradigas la acción sugerida por el modelo predictivo. "
+    "5. Si la acción es IMPULSAR, explica por qué existen señales suficientes para pautar. "
+    "6. Si la acción es AJUSTAR ANTES DE IMPULSAR, explica qué debe optimizarse antes de invertir. "
+    "7. Si la acción es MONITOREAR, explica qué señales faltan antes de tomar una decisión. "
+    "8. Si la acción es NO IMPULSAR, explica por qué no conviene pautar con la información disponible. "
+    "9. Evita frases ambiguas como 'podría ser', 'tal vez', 'depende' o 'sería interesante'. "
+    "10. Si el video es humorístico, educativo, informativo, branding o comercial, adapta la recomendación "
+    "a esa intención sin forzar ventas. "
+
+    "Estructura obligatoria de la respuesta: "
+    "Diagnóstico general: resume el estado del contenido en una frase clara. "
+    "Lectura de métricas: interpreta engagement, retención, sentimiento, visual/OCR y riesgo si están disponibles. "
+    "Recomendación accionable: indica qué hacer de forma concreta. "
+    "Riesgo o precaución: menciona el principal punto a vigilar. "
+    "Conclusión ejecutiva: cierra con una decisión breve y defendible. "
 )
 
 ACTION_HEADLINES = {
-    "IMPULSAR": "Adelante: el video tiene señales suficientes para pautar.",
-    "AJUSTAR ANTES DE IMPULSAR": "Casi listo: con ajustes puntuales rinde mejor antes de invertir.",
-    "MONITOREAR": "No pautar todavía: optimiza el creativo y vuelve a evaluar con nuevas señales.",
-    "NO IMPULSAR": "No conviene pautar este video con la información disponible.",
-    "REVISIÓN HUMANA": "Mejor que una persona del equipo lo revise antes de decidir.",
+    "IMPULSAR": "Adelante: el contenido tiene señales suficientes para pautar.",
+    "AJUSTAR ANTES DE IMPULSAR": "Se deben ptimizar puntos clave antes de invertir.",
+    "MONITOREAR": "Aún no pautar: conviene observar nuevas señales antes de decidir.",
+    "NO IMPULSAR": "No conviene pautar este contenido con la información disponible.",
+    "REVISIÓN HUMANA": "Requiere revisión humana urgente."
 }
 
 
