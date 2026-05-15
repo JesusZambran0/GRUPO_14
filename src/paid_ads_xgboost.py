@@ -13,6 +13,8 @@ Motivo del cambio:
   12.38, porque muchas variables categóricas llegaban como "unknown".
 - Esta versión evita resultados repetidos y devuelve una estimación más
   sensible al video analizado.
+- El CPM ya no se recibe desde la interfaz: se infiere por XGBoost/calibrador
+  usando nicho, métricas, retención, velocidad y probabilidad publicitaria.
 """
 from __future__ import annotations
 
@@ -294,7 +296,6 @@ def predict_paid_ad_boost(
     operational_metrics: Dict[str, Any] | None = None,
     model_probability: float,
     budget: float = 0.0,
-    manual_cpm: float = 5.0,
 ) -> Dict[str, Any]:
     probability = _clip(safe_float(model_probability, 0.0), 0.0, 1.0)
     metadata = metadata or {}
@@ -302,18 +303,42 @@ def predict_paid_ad_boost(
     row = build_paid_ad_feature_row(features, metadata, operational_metrics)
     meta = _load_metadata()
 
+    # Aunque el video no pase el gate del 51%, calculamos un CPM preliminar
+    # inferido por nicho/señales. Esto evita volver a un CPM manual y mantiene
+    # una sola lógica de estimación en toda la app.
+    rules = _rules_estimate(features, metadata, operational_metrics, probability, safe_float(budget, 0.0))
+
     if probability < GATE_THRESHOLD:
+        inferred_cpm = safe_float(rules.get("rules_cpm", BASE_CPM_BY_NICHE.get(row["ad_niche"], 5.6)), 5.6)
+        budget_v = max(safe_float(budget, 0.0), 0.0)
+        impressions = (budget_v / inferred_cpm) * 1000 if budget_v > 0 else 0.0
+        paid_views = impressions * safe_float(rules.get("estimated_view_through_rate", 0.18))
+        clicks = impressions * safe_float(rules.get("estimated_ctr", 0.012))
         return {
             "eligible_for_paid_xgboost": False,
+            "model_available": _load_model() is not None,
+            "model_status": "gate_no_superado",
             "gate_threshold": GATE_THRESHOLD,
             "logistic_probability": round(probability, 4),
             "ad_niche": row["ad_niche"],
             "selected_ad_category": row.get("selected_ad_category", "auto"),
-            "reason": "No pasa al segundo modelo porque la probabilidad de candidatura publicitaria es menor a 51%.",
+            "predicted_cpm": round(inferred_cpm, 4),
+            "estimated_cost_per_1000_impressions": round(inferred_cpm, 4),
+            "estimated_impressions_per_dollar": round(1000.0 / inferred_cpm, 2) if inferred_cpm > 0 else 0.0,
+            "estimated_paid_views_per_dollar": round((1000.0 / inferred_cpm) * safe_float(rules.get("estimated_view_through_rate", 0.18)), 2) if inferred_cpm > 0 else 0.0,
+            "estimated_budget_impressions": round(impressions, 0),
+            "estimated_paid_views": round(paid_views, 0),
+            "estimated_clicks": round(clicks, 0),
+            "estimated_view_through_rate": rules.get("estimated_view_through_rate"),
+            "estimated_ctr": rules.get("estimated_ctr"),
+            "rules_cpm": rules.get("rules_cpm"),
+            "rules_quality_score": rules.get("rules_quality_score"),
+            "reason": "No pasa al segundo modelo completo porque la probabilidad de candidatura publicitaria es menor a 51%.",
+            "calibration_method": "CPM preliminar inferido por nicho y señales del video; no proviene de entrada manual.",
             "model_metadata": meta,
+            "methodological_warning": "Estimación no causal. Si el gate no se supera, no se recomienda pautar aunque exista CPM estimado.",
         }
 
-    rules = _rules_estimate(features, metadata, operational_metrics, probability, safe_float(budget, 0.0))
     model_score, model_cpm, model_status = _predict_model(row)
 
     # Si el XGBoost existe, se usa como señal, pero se calibra con reglas para
@@ -383,6 +408,8 @@ def render_paid_ad_boost_markdown(xgb: Dict[str, Any]) -> str:
 El video **no pasó** al segundo modelo porque la regresión logística estimó una probabilidad de **{safe_float(xgb.get('logistic_probability')):.1%}**, menor al umbral de **{safe_float(xgb.get('gate_threshold'), GATE_THRESHOLD):.0%}**.
 
 **Nicho detectado:** {xgb.get('ad_niche', '—')}  
+**CPM preliminar inferido:** ${safe_float(xgb.get('predicted_cpm')):.2f}  
+**Impresiones estimadas con presupuesto:** {safe_float(xgb.get('estimated_budget_impressions')):,.0f}  
 **Motivo:** {xgb.get('reason', 'Gate no superado.')}
 """.strip()
 
