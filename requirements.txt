@@ -40,3 +40,6 @@ requests>=2.31.0
 python-dotenv>=1.0.0
 isodate>=0.6.1
 xgboost>=2.0.0
+
+# PDF ejecutivo HTML/CSS-like desde la app
+reportlab>=4.2.0

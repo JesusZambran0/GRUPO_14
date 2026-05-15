@@ -45,6 +45,7 @@ from src.ocr_video import extract_ocr_from_video
 from src.policy_evaluator import evaluate_youtube_ad_policy_risk
 from src.predict import predict_from_features
 from src.recommender import build_final_recommendation
+from src.report_pdf import generate_executive_pdf
 from src.script_analyzer import analyze_video_script
 from src.transcription import resolve_transcript
 from src.video_processing import summarize_video
@@ -211,6 +212,33 @@ gradio-app,
   max-width: 840px;
   font-size: 15.5px !important;
   line-height: 1.7 !important;
+}
+
+
+/* Acciones visibles en cabecera */
+.yba-report-header {
+  display: flex !important;
+  align-items: center !important;
+  gap: 14px !important;
+  margin: -8px 0 22px !important;
+  padding: 14px 16px !important;
+  border-radius: var(--radius-lg) !important;
+  background: rgba(255, 255, 255, 0.045) !important;
+  border: 1px solid var(--border) !important;
+  box-shadow: var(--shadow-card) !important;
+}
+
+.yba-report-status {
+  flex: 1 1 auto !important;
+  color: var(--muted) !important;
+  font-size: 13px !important;
+}
+
+.yba-report-header button:disabled,
+.yba-report-header .gr-button[disabled] {
+  opacity: 0.48 !important;
+  cursor: not-allowed !important;
+  filter: grayscale(0.22) !important;
 }
 
 /* Badges */
@@ -775,7 +803,8 @@ def _hours_since_published(published_at: Optional[str]) -> Optional[float]:
             ts = float(raw[:10])
             dt = datetime.fromtimestamp(ts, tz=timezone.utc)
         else:
-            dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+            normalized = raw.replace("Z", "+00:00").replace(" UTC", "+00:00")
+            dt = datetime.fromisoformat(normalized)
             if dt.tzinfo is None:
                 dt = dt.replace(tzinfo=timezone.utc)
         hours = (datetime.now(timezone.utc) - dt.astimezone(timezone.utc)).total_seconds() / 3600
@@ -785,34 +814,56 @@ def _hours_since_published(published_at: Optional[str]) -> Optional[float]:
 
 
 def _format_age_from_hours(hours: Any) -> str:
-    """Traduce horas a una lectura humana: horas, días, semanas, meses o años."""
+    """Devuelve solo el conteo de horas para evitar etiquetas tipo días/semanas/meses/años."""
     try:
         h = max(float(hours or 0), 0.0)
     except Exception:
         return "—"
-    if h < 24:
-        value = max(round(h, 1), 0.1)
-        unit = "hora" if abs(value - 1) < 0.05 else "horas"
-        return f"{value:g} {unit}"
-    days = h / 24
-    if days < 7:
-        value = round(days, 1)
-        unit = "día" if abs(value - 1) < 0.05 else "días"
-        return f"{value:g} {unit}"
-    weeks = days / 7
-    if weeks < 4:
-        value = round(weeks, 1)
-        unit = "semana" if abs(value - 1) < 0.05 else "semanas"
-        return f"{value:g} {unit}"
-    months = days / 30.4375
-    if months < 12:
-        value = round(months, 1)
-        unit = "mes" if abs(value - 1) < 0.05 else "meses"
-        return f"{value:g} {unit}"
-    years = days / 365.25
-    value = round(years, 1)
-    unit = "año" if abs(value - 1) < 0.05 else "años"
+    value = round(h, 2) if h < 100 else round(h, 1)
+    unit = "hora" if abs(value - 1) < 0.05 else "horas"
     return f"{value:g} {unit}"
+
+
+def _format_publication_date(published_at: Optional[str]) -> str:
+    """Normaliza la fecha de publicación para mostrarla en el formulario."""
+    if not published_at:
+        return ""
+    raw = str(published_at).strip()
+    try:
+        if raw.isdigit() and len(raw) == 8:
+            dt = datetime.strptime(raw, "%Y%m%d").replace(tzinfo=timezone.utc)
+        elif raw.replace(".", "", 1).isdigit() and len(raw) in {10, 13}:
+            dt = datetime.fromtimestamp(float(raw[:10]), tz=timezone.utc)
+        else:
+            normalized = raw.replace("Z", "+00:00").replace(" UTC", "+00:00")
+            dt = datetime.fromisoformat(normalized)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    except Exception:
+        return raw
+
+
+def _retention_from_watch_time(average_watch_time: Any, duration_seconds: Any, fallback: Any = 0.0) -> float:
+    """Calcula retención promedio como watch time / duración total, acotada a [0, 1]."""
+    watch_s = max(safe_float(average_watch_time), 0.0)
+    duration_s = max(safe_float(duration_seconds), 0.0)
+    if watch_s > 0 and duration_s > 0:
+        return round(min(watch_s / duration_s, 1.0), 4)
+    value = safe_float(fallback, 0.0)
+    if value > 1.0:
+        value = value / 100.0
+    return round(min(max(value, 0.0), 1.0), 4)
+
+
+def update_retention_from_watchtime(average_watch_time: Any, duration_seconds: Any) -> float:
+    """Callback UI: rellena retención promedio al cambiar watch time o duración."""
+    return _retention_from_watch_time(average_watch_time, duration_seconds, 0.0)
+
+
+def update_hours_from_publication_date(published_at: str) -> float:
+    """Callback UI: recalcula horas cuando se edita la fecha de publicación."""
+    return float(_hours_since_published(published_at) or 24.0)
 
 
 def _fmt_pct(value: Any) -> str:
@@ -1138,8 +1189,7 @@ def _metrics_markdown(metricas: Dict[str, Any]) -> str:
     engagement = float(metricas.get("engagement_rate", 0) or 0) * 100
     share_rate = float(ops.get("share_rate", 0) or 0) * 100
     retention = float(ops.get("retention_rate", 0) or 0) * 100
-    hours_source = ops.get("hours_source", "manual")
-    hours_note = "calculadas automáticamente desde la fecha de publicación de YouTube" if hours_source == "youtube_published_at" else "ingresadas manualmente o estimadas"
+    published_at_label = ops.get("published_at_label") or _format_publication_date(ops.get("published_at")) or "—"
     return f"""
 ### Métricas del video
 
@@ -1159,8 +1209,9 @@ Este apartado cruza métricas públicas con señales operativas para medir tracc
 | Métrica | Valor | Lectura |
 |---|---:|---|
 
-| Retención | {_fmt_pct(retention)} | Capacidad de sostener atención. |
-| Tiempo desde publicación | {_format_age_from_hours(ops.get("hours_since_publication"))} | {hours_note}. |
+| Retención promedio | {_fmt_pct(retention)} | Calculada como watch time / duración total cuando ambos datos están disponibles. |
+| Fecha de publicación | {published_at_label} | Fecha reportada por YouTube o ingresada manualmente. |
+| Horas desde publicación | {_format_age_from_hours(ops.get("hours_since_publication"))} | Conteo exacto usado para calcular velocidad de consumo. |
 | Views por hora | {_fmt_num(ops.get("views_per_hour"))} | Velocidad inicial de consumo. |
 
 ### Lectura estratégica
@@ -1669,7 +1720,7 @@ def analyze_video(
     title: str, description: str, category: str, xgboost_category: str,
     views: float, likes: float, comments: float,
     shares: float, retention_rate: float, average_watch_time: float,
-    hours_since_publication: float, followers_count: float, avg_channel_reach: float,
+    published_at_input: str, hours_since_publication: float, followers_count: float, avg_channel_reach: float,
     duration_seconds: float,
     manual_transcript: str,
     manual_ocr_text: str,
@@ -1703,7 +1754,7 @@ def analyze_video(
     str,            # 20 wordcloud_neutral
     str,            # 21 wordcloud_negative
 ]:
-    """Pipeline completo. Devuelve 23 outputs."""
+    """Pipeline completo. Devuelve outputs de análisis + control del PDF."""
 
     # ── Demo precalculado ────────────────────────────────────────────────────
     demo = _load_demo(demo_case)
@@ -1759,6 +1810,9 @@ def analyze_video(
             sentiment_demo_charts.get("wordcloud_positive", ""),
             sentiment_demo_charts.get("wordcloud_neutral", ""),
             sentiment_demo_charts.get("wordcloud_negative", ""),
+            gr.update(interactive=True),
+            "✅ Datos cargados. Ya puedes generar el PDF ejecutivo desde la cabecera.",
+            gr.update(value=None),
         )
 
     warnings: List[str] = []
@@ -1803,7 +1857,7 @@ def analyze_video(
         "likes":            safe_float(likes) if likes else safe_float(api_payload.get("likes", 0)),
         "comments":         safe_float(comments) if comments else safe_float(api_payload.get("comments", 0)),
         "duration_seconds": safe_float(duration_seconds) if duration_seconds else safe_float(api_payload.get("duration_seconds", 0)),
-        "published_at":     api_payload.get("published_at"),
+        "published_at":     api_payload.get("published_at") or (published_at_input or "").strip(),
         "channel_title":    api_payload.get("channel_title", ""),
     }
     auto_hours_since_publication = _hours_since_published(metadata.get("published_at"))
@@ -1949,15 +2003,18 @@ def analyze_video(
 
     # ── Métricas operativas ──────────────────────────────────────────────────
     effective_hours = auto_hours_since_publication if auto_hours_since_publication is not None else safe_float(hours_since_publication, 24)
-    ops = _derive_ops(metadata.get("views", 0), shares, retention_rate, effective_hours)
+    effective_retention_rate = _retention_from_watch_time(average_watch_time, metadata.get("duration_seconds", 0), retention_rate)
+    ops = _derive_ops(metadata.get("views", 0), shares, effective_retention_rate, effective_hours)
     ops.update({
         "average_watch_time": safe_float(average_watch_time),
+        "retention_source":   "watch_time/duration" if safe_float(average_watch_time) > 0 and safe_float(metadata.get("duration_seconds", 0)) > 0 else "manual",
         "followers_count":    safe_float(followers_count),
         "avg_channel_reach":  safe_float(avg_channel_reach),
         "topic":              (xgboost_category or "auto").strip(),
         "ad_category":        (xgboost_category or "auto").strip(),
         "xgboost_category":   (xgboost_category or "auto").strip(),
         "published_at":       metadata.get("published_at"),
+        "published_at_label": _format_publication_date(metadata.get("published_at")),
         "hours_source":       "youtube_published_at" if auto_hours_since_publication is not None else "manual",
     })
 
@@ -2137,6 +2194,9 @@ def analyze_video(
         sentiment_charts.get("wordcloud_positive", ""),
         sentiment_charts.get("wordcloud_neutral", ""),
         sentiment_charts.get("wordcloud_negative", ""),
+        gr.update(interactive=True),
+        "✅ Datos cargados. Ya puedes generar el PDF ejecutivo desde la cabecera.",
+        gr.update(value=None),
     )
 
 
@@ -2224,6 +2284,8 @@ def _build_diagnostic_full(
             "retention_pct": round(safe_float(ops.get("retention_rate", 0)) * 100, 1),
             "average_watch_time": int(safe_float(ops.get("average_watch_time", 0))),
             "hours_since_publication": int(safe_float(ops.get("hours_since_publication", 0))),
+            "published_at": ops.get("published_at"),
+            "published_at_label": ops.get("published_at_label") or _format_publication_date(ops.get("published_at")),
             "published_age_label": ops.get("published_age_label") or _format_age_from_hours(ops.get("hours_since_publication", 0)),
         },
         "politica": {
@@ -2288,9 +2350,9 @@ def _build_diagnostic_full(
 def fill_from_url(youtube_url: str, channel_url: str = ""):
     """Rellena datos del video y, si es posible, métricas públicas del canal.
 
-    Devuelve 14 valores en el orden de los componentes del formulario.
+    Devuelve 15 valores en el orden de los componentes del formulario.
     """
-    empty = ("", "", "unknown", "", 0.0, 0.0, 0.0, 0.0, 24.0, 0.0, 0.0, 0.0, "", "⚠️ Sin datos o sin API key.")
+    empty = ("", "", "unknown", "", 0.0, 0.0, 0.0, 0.0, "", 24.0, 0.0, 0.0, 0.0, "", "⚠️ Sin datos o sin API key.")
     url = (youtube_url or "").strip()
     if not url and not (channel_url or "").strip():
         return empty
@@ -2310,17 +2372,18 @@ def fill_from_url(youtube_url: str, channel_url: str = ""):
         msg = api.get("warning") or "No se obtuvieron datos de YouTube."
         if channel_metrics.get("ok"):
             return (
-                "", "", "unknown", "", 0.0, 0.0, 0.0, 0.0, 24.0,
+                "", "", "unknown", "", 0.0, 0.0, 0.0, 0.0, "", 24.0,
                 float(channel_metrics.get("subscriber_count", 0) or 0),
                 float(channel_metrics.get("avg_views_recent", 0) or 0),
                 0.0,
                 channel_metrics.get("channel_url", ""),
                 f"⚠️ Video: {msg} · ✅ Canal cargado: {channel_metrics.get('channel_title', '')}",
             )
-        return ("", "", "unknown", "", 0.0, 0.0, 0.0, 0.0, 24.0, 0.0, 0.0, 0.0, "", f"⚠️ {msg}")
+        return ("", "", "unknown", "", 0.0, 0.0, 0.0, 0.0, "", 24.0, 0.0, 0.0, 0.0, "", f"⚠️ {msg}")
 
     auto_hours = _hours_since_published(api.get("published_at")) or 24.0
-    published_msg = f" · publicado hace {_format_age_from_hours(auto_hours)} ({api.get('published_at')})" if api.get("published_at") else ""
+    published_label = _format_publication_date(api.get("published_at"))
+    published_msg = f" · fecha de publicación: {published_label} · horas desde publicación: {_format_age_from_hours(auto_hours)}" if api.get("published_at") else ""
 
     followers = float(channel_metrics.get("subscriber_count", 0) or 0) if channel_metrics.get("ok") else 0.0
     avg_reach = float(channel_metrics.get("avg_views_recent", 0) or 0) if channel_metrics.get("ok") else 0.0
@@ -2341,6 +2404,7 @@ def fill_from_url(youtube_url: str, channel_url: str = ""):
         float(api.get("likes", 0) or 0),                         # likes
         float(api.get("comments", 0) or 0),                      # comments
         float(api.get("duration_seconds", 0) or 0),              # duration
+        published_label,                                         # published_at_input
         float(auto_hours),                                       # hours_since_publication
         followers,                                               # followers_count
         avg_reach,                                               # avg_channel_reach
@@ -2349,6 +2413,18 @@ def fill_from_url(youtube_url: str, channel_url: str = ""):
         f"✅ Datos cargados desde YouTube API — {api.get('channel_title', '')}{published_msg}{channel_msg}",
     )
 
+
+
+
+def create_executive_pdf_report(result: Dict[str, Any]) -> Tuple[Optional[str], str]:
+    """Genera el PDF ejecutivo solo cuando ya existe un análisis válido."""
+    if not isinstance(result, dict) or not result:
+        return None, "⚠️ Primero ejecuta el análisis. El PDF se habilita únicamente con datos cargados."
+    try:
+        pdf_path = generate_executive_pdf(result)
+        return pdf_path, f"✅ Reporte PDF generado: `{Path(pdf_path).name}`"
+    except Exception as exc:
+        return None, f"❌ No se pudo generar el PDF: {exc}"
 
 # ---------------------------------------------------------------------------
 # UI
@@ -2391,6 +2467,22 @@ def build_demo() -> gr.Blocks:
           OCR + análisis visual siempre juntos · Análisis de sentimiento de comentarios ·
           Recomendación por Gemini para DEMO o Qwen local.</p>
         </div>""")
+
+        with gr.Row(elem_classes="yba-report-header"):
+            report_status = gr.Markdown(
+                value="⚪ El PDF ejecutivo estará disponible después de analizar datos reales o demo.",
+                elem_classes="yba-report-status",
+            )
+            report_btn = gr.Button(
+                "📄 Generar PDF ejecutivo",
+                variant="secondary",
+                size="lg",
+                interactive=False,
+            )
+            report_file = gr.File(
+                label="Descargar reporte",
+                interactive=False,
+            )
 
         with gr.Row():
             # ══════════════════════ ENTRADA ══════════════════════
@@ -2436,14 +2528,28 @@ def build_demo() -> gr.Blocks:
                         likes    = gr.Number(label="Likes", value=0)
                         comments = gr.Number(label="Comentarios", value=0)
                     with gr.Row():
-                        retention_rate   = gr.Number(label="Retención [0-1]", value=0.0)
-                        average_watch_time = gr.Number(label="Watch time (s)", value=0)
+                        average_watch_time = gr.Number(label="Watch time promedio (s)", value=0)
+                        retention_rate   = gr.Number(
+                            label="Retención promedio [0-1]",
+                            value=0.0,
+                            info="Se calcula automáticamente como watch time / duración total.",
+                        )
                     shares = gr.State(0.0)
+                    with gr.Column():
+                        published_at_input = gr.Textbox(
+                            label="Fecha de publicación del video",
+                            placeholder="Se rellena automáticamente desde YouTube API",
+                            lines=1,
+                        )
+                        hours_since_publication = gr.Number(
+                            label="Horas desde publicación",
+                            value=24,
+                            info="Conteo en horas usado para calcular velocidad de consumo.",
+                        )
                     with gr.Row():
-                        hours_since_publication = gr.Number(label="Horas desde publicación (se muestra como días/semanas/meses/años en resultados)", value=24)
                         followers_count         = gr.Number(label="Followers", value=0)
                         avg_channel_reach       = gr.Number(label="Alcance prom. canal", value=0)
-                    duration_seconds = gr.Number(label="Duración (s)", value=0)
+                    duration_seconds = gr.Number(label="Duración total del video (s)", value=0)
 
                 with gr.Group():
                     gr.Markdown("### 3. Texto manual (opcional)")
@@ -2579,7 +2685,24 @@ def build_demo() -> gr.Blocks:
             fill_from_url,
             inputs=[youtube_url, channel_url],
             outputs=[title, description, category, xgboost_category, views, likes, comments,
-                     duration_seconds, hours_since_publication, followers_count, avg_channel_reach, shares, channel_url, fill_status],
+                     duration_seconds, published_at_input, hours_since_publication, followers_count, avg_channel_reach, shares, channel_url, fill_status],
+        )
+
+        # ── Autorrelleno de retención y horas ────────────────────────────────
+        average_watch_time.change(
+            update_retention_from_watchtime,
+            inputs=[average_watch_time, duration_seconds],
+            outputs=[retention_rate],
+        )
+        duration_seconds.change(
+            update_retention_from_watchtime,
+            inputs=[average_watch_time, duration_seconds],
+            outputs=[retention_rate],
+        )
+        published_at_input.change(
+            update_hours_from_publication_date,
+            inputs=[published_at_input],
+            outputs=[hours_since_publication],
         )
 
         # ── Botón principal ──────────────────────────────────────────────────
@@ -2590,7 +2713,7 @@ def build_demo() -> gr.Blocks:
                 title, description, category, xgboost_category,
                 views, likes, comments,
                 shares, retention_rate, average_watch_time,
-                hours_since_publication, followers_count, avg_channel_reach,
+                published_at_input, hours_since_publication, followers_count, avg_channel_reach,
                 duration_seconds,
                 manual_transcript, manual_ocr_text, manual_comments,
                 video_type, cpm_estimado, presupuesto, llm_mode,
@@ -2604,8 +2727,17 @@ def build_demo() -> gr.Blocks:
                 score_img, projection_img, policy_img, xgboost_img,
                 warnings_md, redaccion_md_out, redaccion_meta_out,
                 sentiment_bar_img, wordcloud_pos_img, wordcloud_neu_img, wordcloud_neg_img,
+                report_btn, report_status, report_file,
             ],
             api_name="analyze",
+        )
+
+        # ── Botón de PDF ejecutivo: visible en cabecera, habilitado solo tras analizar ──
+        report_btn.click(
+            create_executive_pdf_report,
+            inputs=[result_json],
+            outputs=[report_file, report_status],
+            api_name="generate_executive_pdf",
         )
 
     return demo
