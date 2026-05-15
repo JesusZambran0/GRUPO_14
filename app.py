@@ -146,6 +146,25 @@ gradio-app,
   padding: 24px !important;
 }
 
+/* Importante para que los dropdowns no se corten */
+.gradio-container,
+.main,
+.wrap,
+.app,
+.block,
+.gr-block,
+.gr-box,
+.gr-form,
+.gr-panel,
+.gr-group,
+.gr-row,
+.gr-column,
+.gr-accordion,
+.panel,
+.form {
+  overflow: visible !important;
+}
+
 /* Scrollbar */
 * {
   scrollbar-width: thin;
@@ -170,7 +189,7 @@ gradio-app,
 /* Hero superior */
 .yba-hero {
   position: relative;
-  overflow: hidden;
+  overflow: hidden !important;
   background:
     linear-gradient(135deg, rgba(167, 139, 250, 0.22), rgba(34, 211, 238, 0.09)),
     linear-gradient(180deg, rgba(255, 255, 255, 0.045), rgba(255, 255, 255, 0.018));
@@ -345,9 +364,66 @@ textarea::placeholder {
 
 /* Dropdowns */
 .gr-dropdown,
-.gr-dropdown > div {
+.gr-dropdown > div,
+.gr-dropdown label,
+.gr-dropdown input {
   background: var(--bg-2) !important;
   color: var(--text-strong) !important;
+  overflow: visible !important;
+}
+
+.gr-dropdown {
+  position: relative !important;
+  z-index: 2000 !important;
+}
+
+/* Popup/lista del dropdown en Gradio */
+[role="listbox"],
+.svelte-select-list,
+.options,
+.dropdown-options,
+ul[role="listbox"] {
+  position: absolute !important;
+  z-index: 999999 !important;
+  background: #121826 !important;
+  color: #f8fafc !important;
+  border: 1px solid rgba(167, 139, 250, 0.42) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.65) !important;
+  max-height: 280px !important;
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+}
+
+/* Opciones del dropdown */
+[role="option"],
+.svelte-select-list div,
+.options div,
+.dropdown-options div,
+ul[role="listbox"] li {
+  background: #121826 !important;
+  color: #f8fafc !important;
+  padding: 9px 12px !important;
+  cursor: pointer !important;
+}
+
+/* Hover */
+[role="option"]:hover,
+.svelte-select-list div:hover,
+.options div:hover,
+.dropdown-options div:hover,
+ul[role="listbox"] li:hover {
+  background: rgba(167, 139, 250, 0.24) !important;
+  color: #ffffff !important;
+}
+
+/* Selección dentro del dropdown, evitando romper tabs */
+[role="listbox"] [aria-selected="true"],
+.svelte-select-list [aria-selected="true"],
+.options [aria-selected="true"],
+.dropdown-options [aria-selected="true"] {
+  background: rgba(124, 58, 237, 0.38) !important;
+  color: #ffffff !important;
 }
 
 /* Botones base */
@@ -555,7 +631,7 @@ pre {
 /* Result cards personalizadas */
 .yba-result-card {
   position: relative;
-  overflow: hidden;
+  overflow: hidden !important;
   border-radius: var(--radius-lg);
   padding: 22px 24px;
   margin: 12px 0;
@@ -629,10 +705,6 @@ table.dataframe {
 }
 
 /* Accordion */
-.gr-accordion {
-  overflow: hidden !important;
-}
-
 .gr-accordion summary {
   color: var(--text-strong) !important;
   font-weight: 750 !important;
@@ -2229,9 +2301,9 @@ def build_demo() -> gr.Blocks:
           <span class="yba-pill">🎨 COMPOSICIÓN</span>
           <span class="yba-pill">💬 SENTIMIENTO</span>
           <h1>YouTube AI Recomendations</h1>
-          <p>Pega una URL o sube un MP4 · Transcripción automática MP4 vía faster-whisper + Google Speech ·
-          OCR + análisis visual siempre juntos · Análisis de sentimiento de comentarios ·
-          Recomendación por Gemini para DEMO o Qwen local.</p>
+          <p>Pega una URL y sube un MP4 · La Transcripción es automática MP4 ·
+          OCR + análisis visual · Análisis de sentimiento de comentarios ·
+          Recomendación por tu LLM preferido o Qwen local.</p>
         </div>""")
 
         with gr.Row():
@@ -2239,11 +2311,9 @@ def build_demo() -> gr.Blocks:
             with gr.Column(scale=5):
 
                 with gr.Group():
-                    gr.Markdown("### 1. Demo / enlace")
-                    demo_case = gr.Dropdown(
-                        choices=list(DEMO_CASES.keys()), value="Ninguno",
-                        label="🎯 Caso demo (activo → ignora el resto)",
-                    )
+                    gr.Markdown("### 1. Enlace")
+                    demo_case = gr.State("Ninguno")
+
                     with gr.Row():
                         youtube_url = gr.Textbox(
                             label="🔗 URL YouTube solo métricas",
