@@ -2516,7 +2516,7 @@ def build_demo() -> gr.Blocks:
                     description = gr.Textbox(label="Descripción", lines=3)
                     with gr.Row():
                         category = gr.Textbox(label="Categoría YouTube (id)", value="unknown")
-                        xgboost_category = gr.Dropdown(
+                        xgboost_category = gr.Radio(
                             choices=XGBOOST_AD_CATEGORY_CHOICES,
                             value="auto",
                             label="Nicho / categoría para XGBoost",
