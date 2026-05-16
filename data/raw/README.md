@@ -1,0 +1,1 @@
+Los datasets crudos completos no se incluyen en la versión de despliegue para mantener Hugging Face Spaces ligero. La versión académica completa `youtube-boost-ai-final-full.zip` sí incluye datasets Kaggle y las transcripciones YouTube 900+.

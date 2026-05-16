@@ -23,6 +23,13 @@ from datetime import datetime
 from functools import lru_cache
 from typing import Any, Dict, Tuple
 
+# Evita que XGBoost/NumPy bloqueen CPU con demasiados hilos en despliegues pequeños.
+os.environ.setdefault("OMP_NUM_THREADS", "1")
+os.environ.setdefault("OPENBLAS_NUM_THREADS", "1")
+os.environ.setdefault("MKL_NUM_THREADS", "1")
+os.environ.setdefault("VECLIB_MAXIMUM_THREADS", "1")
+os.environ.setdefault("NUMEXPR_NUM_THREADS", "1")
+
 import joblib
 import pandas as pd
 
@@ -32,7 +39,8 @@ from .features import safe_float
 XGBOOST_MODEL_PATH = MODELS_DIR / "xgboost_paid_ads.joblib"
 XGBOOST_METADATA_PATH = MODELS_DIR / "xgboost_paid_ads_metadata.json"
 GATE_THRESHOLD = 0.51
-XGBOOST_PREDICTION_TIMEOUT_SECONDS = float(os.getenv("XGBOOST_PREDICTION_TIMEOUT_SECONDS", "8"))
+XGBOOST_PREDICTION_TIMEOUT_SECONDS = float(os.getenv("XGBOOST_PREDICTION_TIMEOUT_SECONDS", "4"))
+_MODEL_RUNTIME_DISABLED_REASON: str | None = None
 
 NICHE_KEYWORDS = {
     "educación": ["curso", "tutorial", "aprende", "clase", "guía", "guia", "tips", "enseño", "capacitación", "webinar"],
@@ -462,13 +470,18 @@ def _predict_model_direct(row: Dict[str, Any]) -> Tuple[float | None, float | No
 
 
 def _predict_model(row: Dict[str, Any]) -> Tuple[float | None, float | None, str]:
-    """Ejecuta el predictor con timeout para que Gradio nunca quede colgado.
+    """Ejecuta el artefacto XGBoost con timeout y bloqueo anti-cuelgue.
 
-    Si el artefacto responde, se usa su predicción real. Si el artefacto no
-    responde dentro del tiempo permitido, se reporta timeout y el flujo superior
-    mantiene la app viva con una estimación calibrada.
+    Si el artefacto responde dentro del tiempo permitido, se usa su predicción real.
+    Si se queda colgado, se desactiva solo para la sesión actual y el módulo sigue
+    con predictor calibrado dinámico. Esto evita que Gradio quede cargando.
     """
-    timeout_s = max(float(XGBOOST_PREDICTION_TIMEOUT_SECONDS or 8), 1.0)
+    global _MODEL_RUNTIME_DISABLED_REASON
+
+    if _MODEL_RUNTIME_DISABLED_REASON:
+        return None, None, _MODEL_RUNTIME_DISABLED_REASON
+
+    timeout_s = max(float(XGBOOST_PREDICTION_TIMEOUT_SECONDS or 4), 1.0)
     executor = ThreadPoolExecutor(max_workers=1, thread_name_prefix="xgboost_paid_ads")
     future = executor.submit(_predict_model_direct, row)
     try:
@@ -478,11 +491,12 @@ def _predict_model(row: Dict[str, Any]) -> Tuple[float | None, float | None, str
     except TimeoutError:
         future.cancel()
         executor.shutdown(wait=False, cancel_futures=True)
-        return None, None, f"timeout_modelo:{timeout_s:.0f}s"
+        _MODEL_RUNTIME_DISABLED_REASON = f"timeout_modelo:{timeout_s:.0f}s_desactivado_en_sesion"
+        return None, None, _MODEL_RUNTIME_DISABLED_REASON
     except Exception as exc:
         executor.shutdown(wait=False, cancel_futures=True)
-        return None, None, f"error_modelo:{type(exc).__name__}"
-
+        _MODEL_RUNTIME_DISABLED_REASON = f"error_modelo:{type(exc).__name__}_desactivado_en_sesion"
+        return None, None, _MODEL_RUNTIME_DISABLED_REASON
 
 def _paid_recommendation(score: float, cpm: float, quality: float, passed_gate: bool) -> str:
     if not passed_gate:
